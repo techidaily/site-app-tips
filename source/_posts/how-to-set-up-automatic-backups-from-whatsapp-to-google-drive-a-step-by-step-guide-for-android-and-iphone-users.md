@@ -1,7 +1,7 @@
 ---
 title: "How to Set Up Automatic Backups From WhatsApp to Google Drive: A Step-by-Step Guide for Android & iPhone Users"
-date: 2024-08-13 22:36:58
-updated: 2024-08-14 11:49:54
+date: 2024-08-13T23:49:07.000Z
+updated: 2024-08-14T23:49:07.000Z
 tags:
   - ios
   - android
@@ -38,6 +38,9 @@ WhatsApp Data Recovery
 [iPhone Data Recovery](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/) [Go To Mac](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 
 ![FoneLab iPhone Data Recovery](https://www.aiseesoft.com/images/iphone-data-recovery/box-4.png)
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Recover deleted or lost WhatsApp data from iPhone without backup.
 * Restore deleted WhatsApp files from iTunes and iCloud backup.
@@ -57,6 +60,9 @@ Step 1 Connect your iPhone with computer via USB cable.
 **Connect** your**iPhone** to the computer via USB cable and in the main interface of the program, you can choose**Recover from iOS Device** .
 
 ![Choose Recover from iOS Device](https://www.aiseesoft.com/images/iphone-data-recovery/choose-recover-from-ios.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 
 Step 2 Scan the iOS device
 
@@ -67,6 +73,9 @@ Step 3 Select the WhatsApp messages
  Seconds later, all the data in your device will be scanned and listed in categories. Click**WhatsApp** on the left sidebar and preview the WhatsApp messages on the right panel, including the contacts, chatting history, photos, etc. For the WhatsApp attached media files, like audio and pictures, you can check**WhatsApp Attchments** to view the details.
 
 ![Select WhatsApp Messages](https://www.aiseesoft.com/images/iphone-data-recovery/select-whatsapp-messages.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 4 Get WhatsApp recovery
 
@@ -76,6 +85,9 @@ You can learn the steps from the video below:
 
 ![Video Recover Deleted iPhone Data](https://www.aiseesoft.com/images/youtube-video/video-recover-deleted-iphone-data.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## Part 2\. Perform WhatsApp recovery from iTunes backup
 
  If you have made backup files with iTunes before deleting the messages, you can choose recovering WhatsApp message from iTunes backup files without connecting your iPhone to computer.
@@ -103,12 +115,18 @@ Step 1 Again, download and install WhatsApp Recovery Software.
 Step 2 Choose "**Recover from iCloud** ". Sign into your iCloud account and password, click "iCloud Backup" and then all backup files will be shown wiht that iCloud account. Select the one you need to "**Download** " the backup containing the lost WhatsApp data you need.
 
 ![Download iCloud Backup](https://www.aiseesoft.com/images/iphone-data-recovery/download-from-icloud.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 3 After the downloading and scanning process is done. You can repeat the above steps to preview the WhatsApp data.
 
  After all items are confirmed, you just need to select the WhatsApp messages or photos, and click "**Recover** " button to start the WhatsApp recovery on your computer.
 
 ![Recover WhatsApp messages from iCloud](https://www.aiseesoft.com/images/iphone-data-recovery/recover-whatsapp-messages-from-icloud-backup.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 
  See what to do if your[WhatsApp backup stuck on iPhone](https://tools.techidaily.com/) or[Android](https://tools.techidaily.com/)
 
@@ -118,6 +136,9 @@ Conclusion
 
  To avoid the hassle of doing this again, you'd better develop a good habit of backing up iPhone data regularly. Moreover, if your WhatsApp data are deleted or lost on Android phone, do not miss the tool below to[recover WhatsApp on Android phone](https://tools.techidaily.com/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best WhatsApp Recovery Tool for Android you may need
 
 [FoneLab - Android Data Recovery](https://tools.techidaily.com/aiseesoft-android-data-recovery/)

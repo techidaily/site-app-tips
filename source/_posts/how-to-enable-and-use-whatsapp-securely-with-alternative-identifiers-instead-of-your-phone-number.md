@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Use WhatsApp Securely with Alternative Identifiers Instead of Your Phone Number
-date: 2024-08-13 11:15:10
-updated: 2024-08-14 11:13:51
+date: 2024-08-13T23:49:07.036Z
+updated: 2024-08-14T23:49:07.036Z
 tags:
   - ios
   - android
@@ -57,6 +57,9 @@ Step 1 Connect your iPhone with computer via USB cable.
 **Connect** your**iPhone** to the computer via USB cable and in the main interface of the program, you can choose**Recover from iOS Device** .
 
 ![Choose Recover from iOS Device](https://www.aiseesoft.com/images/iphone-data-recovery/choose-recover-from-ios.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2 Scan the iOS device
 
@@ -87,10 +90,16 @@ Step 1 Download and install WhatsApp Recovery Software.
 Step 2 Choose "**Recover from iTunes Backup File** ". All iTunes backup files will be detected and listed. Select the file and click "**Start Scan** " button to scan.
 
 ![Select and click Scan](https://www.aiseesoft.com/images/iphone-data-recovery/select-and-click-scan.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3 After scanning, all the data will be listed under different categories. Click "**WhatsApp** " and select messages you want to recover. Then click the "**Recover** " button to access the WhatsApp recovery on your computer.
 
 ![Recover WhatsApp messages](https://www.aiseesoft.com/images/iphone-data-recovery/recover-whatsapp-messages.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ## Part 3\. Start WhatsApp recovery from iCloud backup
 
@@ -103,12 +112,18 @@ Step 1 Again, download and install WhatsApp Recovery Software.
 Step 2 Choose "**Recover from iCloud** ". Sign into your iCloud account and password, click "iCloud Backup" and then all backup files will be shown wiht that iCloud account. Select the one you need to "**Download** " the backup containing the lost WhatsApp data you need.
 
 ![Download iCloud Backup](https://www.aiseesoft.com/images/iphone-data-recovery/download-from-icloud.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 3 After the downloading and scanning process is done. You can repeat the above steps to preview the WhatsApp data.
 
  After all items are confirmed, you just need to select the WhatsApp messages or photos, and click "**Recover** " button to start the WhatsApp recovery on your computer.
 
 ![Recover WhatsApp messages from iCloud](https://www.aiseesoft.com/images/iphone-data-recovery/recover-whatsapp-messages-from-icloud-backup.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See what to do if your[WhatsApp backup stuck on iPhone](https://tools.techidaily.com/) or[Android](https://tools.techidaily.com/)
 
@@ -118,6 +133,9 @@ Conclusion
 
  To avoid the hassle of doing this again, you'd better develop a good habit of backing up iPhone data regularly. Moreover, if your WhatsApp data are deleted or lost on Android phone, do not miss the tool below to[recover WhatsApp on Android phone](https://tools.techidaily.com/) .
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best WhatsApp Recovery Tool for Android you may need
 
 [FoneLab - Android Data Recovery](https://tools.techidaily.com/aiseesoft-android-data-recovery/)
@@ -128,6 +146,9 @@ Conclusion
 
 [Free Download](https://secure.2checkout.com/order/cart.php?PRODS=4644627&QTY=1&AFFILIATE=108875) [Free Download](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4\. FAQs of WhatsApp recovery
 
  1\. Is it possible to recover deleted WhatsApp messages without backup?
