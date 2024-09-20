@@ -1,7 +1,7 @@
 ---
 title: "Transparency in Tech: Swiss Fed Government Goes Full Open Source for Software Development"
-date: 2024-09-17 13:45:33
-updated: 2024-09-20 11:29:32
+date: 2024-09-17T02:08:22.578Z
+updated: 2024-09-19T18:01:14.286Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +164,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-what-to-pick-for-your-youtube-videos-ideal-formats-explored/"><u>[New] 2024 Approved What to Pick for Your YouTube Videos? Ideal Formats Explored</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unveiling-wintv-magic-compre-written-guide-to-capturing-live-on-windows-pc-for-2024/"><u>[New] Unveiling WinTV Magic Compre Written Guide to Capturing Live on Windows PC for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-apps-to-enhance-your-android-devices-speed-and-efficiency/"><u>Best 10 Apps to Enhance Your Android Device's Speed and Efficiency</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-no-cost-android-tracking-programs-top-5-picks-for-smartphone-surveillance/"><u>Best No-Cost Android Tracking Programs: Top 5 Picks for Smartphone Surveillance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-eq-tools-for-android-devices-top-5-selections/"><u>Discover the Ultimate List of Free EQ Tools for Android Devices - Top 5 Selections</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-x7b-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Honor X7b to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-elevate-your-online-presence-advanced-techniques-in-zoom-video-sharing/"><u>In 2024, Elevate Your Online Presence Advanced Techniques in Zoom Video Sharing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-poco-f5-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Poco F5 Pro 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-subtle-sound-level-lowering-in-fl-studio/"><u>In 2024, Subtle Sound Level Lowering in FL Studio</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-gameplay-proven-techniques-to-eliminate-stuttering-in-minecraft-on-pc/"><u>Mastering Smooth Gameplay: Proven Techniques to Eliminate Stuttering in Minecraft on PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/quick-tips-on-confirming-facebooks-online-presence/"><u>Quick Tips on Confirming Facebook’s Online Presence</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-must-have-mdm-solutions-expert-picks-for-optimal-mobile-control/"><u>Top 7 Must-Have MDM Solutions: Expert Picks for Optimal Mobile Control</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-free-software-for-converting-dvds-to-mp3-on-pc-and-mac/"><u>Top-Rated Free Software for Converting DVDs to MP3 on PC & MAC</u></a></li>
+</ul></div>
+

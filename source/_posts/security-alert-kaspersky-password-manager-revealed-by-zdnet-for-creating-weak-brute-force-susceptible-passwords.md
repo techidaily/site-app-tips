@@ -1,7 +1,7 @@
 ---
 title: "Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords"
-date: 2024-09-18 22:31:40
-updated: 2024-09-20 12:12:21
+date: 2024-09-18T19:55:06.913Z
+updated: 2024-09-20T06:05:59.486Z
 tags:
   - password-manager
 categories:
@@ -75,11 +75,30 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-turbocharging-your-journey-10-must-have-srt-converters/"><u>[Updated] In 2024, Turbocharging Your Journey 10 Must-Have SRT Converters</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-aligning-with-audience-habits-in-podcast-releases/"><u>2024 Approved Aligning with Audience Habits in Podcast Releases</u></a></li>
+<li><a href="https://app-tips.techidaily.com/efficiently-clear-out-icloud-book-collections-the-ultimate-guide-to-saving-cloud-storage/"><u>Efficiently Clear Out iCloud Book Collections: The Ultimate Guide to Saving Cloud Storage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gmail-two-factor-security-setup-easy-instructions-to-boost-email-safety/"><u>Gmail Two-Factor Security Setup: Easy Instructions to Boost Email Safety</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-accessing-your-icloud-keychain-passwords-across-iphone-ipad-and-mac/"><u>Guide: Accessing Your iCloud Keychain Passwords Across iPhone, iPad & Mac</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-a25-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy A25 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamlessly-reduce-your-whatsapp-audio-files-with-these-proven-strategies/"><u>Seamlessly Reduce Your WhatsApp Audio Files with These Proven Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264415-troubleshoot-your-icloud-picture-sharing-problems-for-ios-devices-and-macbook-computers-essential-steps/"><u>Troubleshoot Your iCloud Picture Sharing Problems for iOS Devices and MacBook Computers - Essential Steps!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-pros-and-cons-an-authoritative-review-of-the-newly-enhanced-elegoo-neptune-4-max-printer/"><u>Unveiling the Pros & Cons: An Authoritative Review of the Newly Enhanced Elegoo Neptune 4 Max Printer</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

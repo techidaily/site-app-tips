@@ -1,7 +1,7 @@
 ---
 title: "Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet"
-date: 2024-09-18 13:42:55
-updated: 2024-09-20 10:21:21
+date: 2024-09-16T19:17:07.764Z
+updated: 2024-09-19T17:22:17.245Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,26 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-effortless-editing-in-obs-studio-with-top-5-hacks-for-2024/"><u>[New] Effortless Editing in OBS Studio with Top 5 Hacks for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-switch-gaming-elevated-by-top-capture-cards/"><u>[Updated] 2024 Approved Switch Gaming Elevated by Top Capture Cards</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-full-screen-with-chrome-pip-on-any-platform/"><u>[Updated] Unlocking Full Screen with Chrome PIP on Any Platform</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-root-management-suite-powerful-app-control-and-uninstallation-tool/"><u>Complete Root Management Suite: Powerful App Control & Uninstallation Tool</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-top-20-best-free-android-games-play-the-complete-versions-with-no-cost/"><u>Download Top 20 Best Free Android Games: Play the Complete Versions with No Cost</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-correcting-dvd-playback-problems-stop-the-annoying-skip-and-freeze/"><u>Expert Tips for Correcting DVD Playback Problems - Stop the Annoying Skip and Freeze!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/finding-files-on-windows-11-mastering-content-search-using-copernic/"><u>Finding Files on Windows 11: Mastering Content Search Using Copernic</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-selecting-superior-5k-displays-the-top-eight/"><u>In 2024, Selecting Superior 5K Displays The Top Eight</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-v30t-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme V30T Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-adobe-premiere-rush-strengths-weaknesses-and-competitor-solutions/"><u>In-Depth Analysis of Adobe Premiere Rush - Strengths, Weaknesses, and Competitor Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-mov-saving-in-windows-11-top-six-methods-reviewed/"><u>Navigating .MOV Saving in Windows 11 - Top Six Methods Reviewed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/stepwise-strategy-for-perfectly-curating-videos-in-your-youtube-playlists-for-2024/"><u>Stepwise Strategy for Perfectly Curating Videos in Your YouTube Playlists for 2024</u></a></li>
+</ul></div>
+

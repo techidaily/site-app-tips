@@ -1,7 +1,7 @@
 ---
 title: "Celona Secures $60M in Series C Funding, Drives Enterprise 5G Revolution: What You Need to Know"
-date: 2024-09-19 14:16:12
-updated: 2024-09-20 10:52:28
+date: 2024-09-15T09:31:03.411Z
+updated: 2024-09-19T21:01:10.267Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,26 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-pedal-to-the-metal-mastering-crossfade-techniques/"><u>[New] In 2024, Pedal to the Metal Mastering Crossfade Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-top-30-free-mac-speech-to-text-software-youve-missed/"><u>[New] In 2024, Top 30 Free Mac Speech-to-Text Software You've Missed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-8-free-sites-for-accessing-3d-text-psd-images/"><u>[New] Top 8 Free Sites for Accessing 3D Text PSD Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-pushing-boundaries-with-yis-action-camera-and-4k-capture/"><u>[Updated] 2024 Approved Pushing Boundaries with Yi's Action Camera & 4K Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-through-mixed-reality-an-overview/"><u>2024 Approved Navigating Through Mixed Reality An Overview</u></a></li>
+<li><a href="https://app-tips.techidaily.com/awaken-with-joy-discover-the-10-most-engaging-free-alarm-clock-applications-for-a-playful-routine/"><u>Awaken with Joy: Discover the 10 Most Engaging Free Alarm Clock Applications for a Playful Routine</u></a></li>
+<li><a href="https://app-tips.techidaily.com/capturing-perfect-moments-with-auto-timer-features-for-iphone-and-android-cameras/"><u>Capturing Perfect Moments with Auto-Timer Features for iPhone and Android Cameras</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-steps-to-remove-or-uninstall-applications-from-iphone-and-android-devices/"><u>Complete Guide: Steps to Remove or Uninstall Applications From iPhone and Android Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/elevate-your-streaming-experience-with-manycam-the-premier-software-for-virtual-camcorders/"><u>Elevate Your Streaming Experience with ManyCam, the Premier Software for Virtual Camcorders</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mastering-youtube-profits-ajeys-guidebook/"><u>In 2024, Mastering YouTube Profits Ajey's Guidebook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-your-children-online-a-guide-to-the-20-best-parental-control-tools-available-today/"><u>Protect Your Children Online: A Guide to the 20 Best Parental Control Tools Available Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-compatible-nvme-driver-downloads-quick-setup-tutorial/"><u>Windows Compatible NVMe Driver Downloads - Quick Setup Tutorial</u></a></li>
+</ul></div>
+

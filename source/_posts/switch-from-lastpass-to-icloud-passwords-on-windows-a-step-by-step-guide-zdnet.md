@@ -1,7 +1,7 @@
 ---
 title: Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet
-date: 2024-09-18 21:41:26
-updated: 2024-09-20 12:39:45
+date: 2024-09-18T20:09:20.761Z
+updated: 2024-09-20T06:03:51.100Z
 tags:
   - password-manager
 categories:
@@ -63,6 +63,13 @@ Make sure Passwords is on and click **Apply**.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Add browser extension
 
 At this point, you can also add a browser extension to [Google Chrome](https://www.zdnet.com/article/malicious-google-chrome-extensions-affect-1-4-million-users/) or [Microsoft Edge](https://www.zdnet.com/article/beef-up-microsoft-edge-with-my-favorite-add-ons/) by following the instructions in the iCloud for Windows app. 
@@ -72,6 +79,13 @@ Once you click **Install Extension** in iCloud, you'll be able to add the **iClo
 Maria Diaz/ZDNET
 
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
 
@@ -100,6 +114,19 @@ Maria Diaz/ZDNET
 Like LastPass, the browser extension will let you fill in your login information. 
 
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -138,11 +165,27 @@ LastPass changed the terms on its free option, so that someone with a free accou
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ploading-finesse-imovie-videos-meeting-youtube-standards-for-2024/"><u>[New] Uploading Finesse IMovie Videos Meeting YouTube Standards for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-discover-dynamic-channels-advanced-youtube-naming-guides/"><u>[Updated] In 2024, Discover Dynamic Channels Advanced YouTube Naming Guides</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-mastering-the-basics-of-asmr-video-content/"><u>[Updated] In 2024, Mastering the Basics of ASMR Video Content</u></a></li>
+<li><a href="https://fox-that.techidaily.com/combat-instagram-lags-with-these-easy-fixes-for-your-android-and-ios-device/"><u>Combat Instagram Lags with These Easy Fixes for Your Android and iOS Device</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-unlocking-next-level-user-targeting-capabilities/"><u>Cookiebot: Unlocking Next-Level User Targeting Capabilities</u></a></li>
+<li><a href="https://win-answers.techidaily.com/curing-infinite-loops-in-anthem-step-by-step-troubleshooting-process/"><u>Curing Infinite Loops in Anthem: Step-by-Step Troubleshooting Process</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-best-ipad-video-players-for-2n4-a-guide-to-downloading-reliable-solutions/"><u>Discover the Best iPad Video Players for 2N4: A Guide to Downloading Reliable Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-5-must-try-free-cellphone-locator-applications/"><u>Discover the Ultimate List of 5 Must-Try Free Cellphone Locator Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-list-of-top-10-mobile-backup-solutions-for-iphones-and-android-phones/"><u>Essential List of Top 10 Mobile Backup Solutions for iPhones and Android Phones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-a-closer-look-at-the-revolutionary-samsung-galaxy-s24-ultra/"><u>Exploring the Features: A Closer Look at the Revolutionary Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-assessment-and-user-reviews-for-the-vizmato-software-suite/"><u>In-Depth Assessment & User Reviews for the Vizmato Software Suite</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-installing-and-using-kik-messenger-on-pcsmacs/"><u>Step-by-Step Guide: Installing & Using Kik Messenger on PCs/Macs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-10-reliable-data-backup-apps-for-ios-and-android-devices/"><u>The Ultimate Guide: Top 10 Reliable Data Backup Apps for iOS & Android Devices</u></a></li>
+</ul></div>
+

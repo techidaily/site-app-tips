@@ -1,7 +1,7 @@
 ---
 title: Secure Your Kubernetes Environment with Codenotary’s New SBOM Offering, as Featured on ZDNet
-date: 2024-09-17 21:38:28
-updated: 2024-09-20 11:47:28
+date: 2024-09-16T06:50:28.088Z
+updated: 2024-09-20T02:55:21.467Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-quick-tips-for-uploading-content-on-twitter/"><u>[New] Quick Tips for Uploading Content on Twitter</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-gopro-match-up-ultimate-buyers-analysis/"><u>[Updated] 2024 Approved Gopro Match-Up Ultimate Buyer's Analysis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-4-essential-methods-for-file-delivery-to-pc/"><u>[Updated] In 2024, 4 Essential Methods for File Delivery to PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/7-best-nft-generators-to-turn-your-artwork-into-nfts/"><u>7 Best NFT Generators to Turn Your Artwork Into NFTs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banish-your-bluetooth-headphones-latency-with-simple-solutions/"><u>Banish Your Bluetooth Headphones' Latency with Simple Solutions!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-vivavideo-evaluation-a-complete-guide-to-choosing-your-ideal-video-editor/"><u>Comprehensive VivaVideo Evaluation: A Complete Guide to Choosing Your Ideal Video Editor</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/get-ready-to-download-best-ios-apps-transforming-fb-videos/"><u>Get Ready to Download Best iOS Apps Transforming FB Videos</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/get-your-adobe-files-unlocked-secure-immediate-drm-release/"><u>Get Your Adobe Files Unlocked: Secure Immediate DRM Release</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-infinix-zero-30-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Infinix Zero 30 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-to-implementing-boomerangs-seamlessly-in-snapchat-for-all-devices/"><u>Guide to Implementing Boomerangs Seamlessly in Snapchat for All Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-sharpness-control-on-photos-with-pcmobile-for-2024/"><u>Perfect Sharpness Control on Photos with PC/Mobile for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revive-vintage-memories-top-3-tools-for-upgrading-your-aged-photographs/"><u>Revive Vintage Memories: Top 3 Tools for Upgrading Your Aged Photographs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-free-gif-creation-tools-the-best-mobile-apps-for-android-and-ios/"><u>Top 10 Free GIF Creation Tools: The Best Mobile Apps for Android & iOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-navigation-apps-on-android-discover-the-best-free-options/"><u>Top-Ranked Navigation Apps on Android: Discover the Best Free Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/try-these-free-apps-the-best-ways-to-efficiently-delete-files-from-your-ipad/"><u>Try These Free Apps: The Best Ways to Efficiently Delete Files From Your iPad</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620190501-ultimate-xvid-video-player-guide-ideal-choice-for-pcs-macs-smartphones-and-tablets/"><u>Ultimate Xvid Video Player Guide: Ideal Choice for PCs, Macs, Smartphones & Tablets</u></a></li>
+</ul></div>
+

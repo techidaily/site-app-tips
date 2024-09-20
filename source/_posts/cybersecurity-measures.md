@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity Measures
-date: 2024-09-19 17:29:53
-updated: 2024-09-20 10:39:59
+date: 2024-09-15T20:36:31.737Z
+updated: 2024-09-20T08:11:52.303Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-aural-archive-download-preserve-and-examine-tracks/"><u>[Updated] In 2024, Aural Archive Download, Preserve & Examine Tracks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-chuckle-filled-creativity-crafting-7-side-splitting-youtube-sets/"><u>[Updated] In 2024, Chuckle-Filled Creativity Crafting 7 Side-Splitting YouTube Sets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audiextractoreview-free-audio-tools-new-horizon/"><u>2024 Approved AudiExtractoReview Free Audio Tool's New Horizon</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-techniques-in-documenting-real-time-sporting-broadcasts/"><u>2024 Approved Top Techniques in Documenting Real-Time Sporting Broadcasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-app-lock-replacements-for-android-the-top-10-picks/"><u>Best App Lock Replacements for Android : The Top 10 Picks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-strategies-securing-the-job-of-your-aspirations-with-artifice-intelligence/"><u>ChatGPT Strategies: Securing the Job of Your Aspirations with Artifice Intelligence</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-bluestacks-unveiling-all-the-essentials/"><u>Comprehensive Guide to BlueStacks: Unveiling All the Essentials</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-analyzing-the-features-of-picku-app-and-its-affordable-photoshop-substitutes/"><u>Comprehensive Guide: Analyzing the Features of PickU App and Its Affordable Photoshop Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-on-converting-gif-files-to-apng-format-with-software-such-as-ezgif-and-aiseesoft/"><u>Comprehensive Tutorial on Converting GIF Files to APNG Format with Software Such as Ezgif & Aiseesoft</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-ultimate-5-choices-of-wi-fi-based-chat-applications-for-effortless-texting-online/"><u>Exploring the Ultimate 5 Choices of Wi-Fi Based Chat Applications for Effortless Texting Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/humor-unleashed-top-meme-creator-for-2024/"><u>Humor Unleashed Top Meme Creator for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/rectifying-wi-fi-problems-fixing-the-red-x-warnings-on-your-router-icon/"><u>Rectifying Wi-Fi Problems: Fixing the Red 'X' Warnings on Your Router Icon</u></a></li>
+<li><a href="https://win11.techidaily.com/risks-and-precautions-deleting-windows-bt-folder/"><u>Risks & Precautions: Deleting Windows ~BT Folder</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-nubia-red-magic-8s-proplus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Nubia Red Magic 8S Pro+ Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-full-simplemdm-must-know-reviews-for-your-ios-and-mac-experience/"><u>Unveiling Full SimpleMDM: Must-Know Reviews for Your iOS and Mac Experience</u></a></li>
+</ul></div>
+

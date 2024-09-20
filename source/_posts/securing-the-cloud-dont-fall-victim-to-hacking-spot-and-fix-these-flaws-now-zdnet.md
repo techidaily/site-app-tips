@@ -1,7 +1,7 @@
 ---
 title: "Securing the Cloud: Don’t Fall Victim to Hacking - Spot and Fix These Flaws Now! | ZDNet"
-date: 2024-09-19 10:26:32
-updated: 2024-09-20 11:33:13
+date: 2024-09-12T20:20:21.585Z
+updated: 2024-09-20T09:46:29.713Z
 tags:
   - password-manager
 categories:
@@ -144,6 +144,19 @@ For all cloud services, properly configured IAM can block unintended access, so 
 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**These old security vulnerabilities are creating new opportunities for hackers**](https://www.zdnet.com/article/these-old-security-vulnerabilities-are-creating-new-opportunities-for-hackers/)
@@ -158,11 +171,28 @@ IT departments should also consider whether regular accounts need administrator 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-champion-captures-educations-audio-leaders/"><u>[Updated] 2024 Approved Champion Captures Education's Audio Leaders</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-adventure-at-a-glance-comparing-gopros-hero5-b-and-session/"><u>[Updated] Adventure at a Glance Comparing GoPro's Hero5 B & Session</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-learn-the-solution-to-instagram-video-issues/"><u>[Updated] In 2024, Learn the Solution to Instagram Video Issues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-free-endings-that-wow-ranked-for-you-top-6/"><u>2024 Approved Free Endings That Wow - Ranked for You (Top 6)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciding-on-an-ev-explore-these-pertinent-topics-with-our-guide-of-9-must-ask-questions/"><u>Deciding on an EV? Explore These Pertinent Topics With Our Guide of 9 Must-Ask Questions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-fixes-for-the-recurring-issue-icloud-login-continually-asks-for-password/"><u>Essential Fixes for the Recurring Issue: ICloud Login Continually Asks for Password</u></a></li>
+<li><a href="https://fox-links.techidaily.com/frame-freezing-banishing-blurry-bites-for-2024/"><u>Frame Freezing Banishing Blurry Bites for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-successfully-download-images-from-icloud-on-ios-1211-ultimate-guide-with-7-pro-tips/"><u>How to Successfully Download Images From iCloud on iOS 12/11 – Ultimate Guide with 7 Pro Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/hps-simplified-guide-to-capturing-and-storing-pc-screen-content-for-2024/"><u>HP's Simplified Guide to Capturing and Storing PC Screen Content for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-asus-rog-phone-7s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Asus ROG Phone 7s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://app-tips.techidaily.com/resolving-the-icloud-messages-disabled-issue-step-by-step-guide-to-restore-your-apple-id/"><u>Resolving the 'iCloud Messages Disabled' Issue: Step-by-Step Guide to Restore Your Apple ID</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-instructions-for-crafting-and-installing-whatsapp-alerts/"><u>Step-By-Step Instructions for Crafting & Installing WhatsApp Alerts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-strategies-for-disassociating-your-iphone-from-apples-icloud-service/"><u>Top Strategies for Disassociating Your iPhone From Apple's iCloud Service</u></a></li>
+</ul></div>
+

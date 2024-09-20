@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Remote Communication: The Emergence of an Innovative Lip-Reading Challenger for Microsoft Teams & Zoom | ZDNet"
-date: 2024-09-18 19:25:50
-updated: 2024-09-20 10:50:51
+date: 2024-09-14T09:41:55.513Z
+updated: 2024-09-20T06:04:53.337Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,25 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-guide-mastering-quick-screen-recording-on-mac-via-keys/"><u>[New] 2024 Approved Ultimate Guide Mastering Quick Screen Recording on Mac via Keys</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-guide-to-discovering-virtual-augmentations/"><u>[New] A Guide to Discovering Virtual Augmentations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-constructing-unique-instagram-story-banners-for-2024/"><u>[New] Constructing Unique Instagram Story Banners for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unveil-the-art-of-intrigue-with-our-handpicked-tiktok-themes/"><u>[New] Unveil the Art of Intrigue with Our Handpicked TikTok Themes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-precision-and-professionalism-a-vr-recording-handbook/"><u>[Updated] 2024 Approved Precision and Professionalism A VR Recording Handbook</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-top-10-trending-videos-on-twitter/"><u>2024 Approved Top 10 Trending Videos on Twitter</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-and-installation-guide-how-to-set-up-tango-video-calls-and-chats/"><u>Download & Installation Guide: How To Set Up Tango Video Calls And Chats</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-electronics-with-toms-hardware-guides/"><u>Exploring Electronics with Tom's Hardware Guides</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ideal-calendar-solutions-best-complimentary-and-premium-options-for-iphones/"><u>Ideal Calendar Solutions: Best Complimentary and Premium Options for iPhones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/itment-powerhouses-top-ten-shorts-for-2024/"><u>Recruitment Powerhouses - Top Ten Shorts for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-step-by-step-guide-how-to-quickly-unlock-your-android-device-with-easy-hacks/"><u>Simple Step-by-Step Guide: How to Quickly Unlock Your Android Device with Easy Hacks</u></a></li>
+</ul></div>
+

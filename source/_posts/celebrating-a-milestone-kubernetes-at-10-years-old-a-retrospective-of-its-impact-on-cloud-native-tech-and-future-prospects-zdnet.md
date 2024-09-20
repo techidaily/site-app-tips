@@ -1,7 +1,7 @@
 ---
 title: "Celebrating a Milestone: Kubernetes at 10 Years Old – A Retrospective of Its Impact on Cloud-Native Tech & Future Prospects | ZDNet"
-date: 2024-09-17 18:16:35
-updated: 2024-09-20 11:47:47
+date: 2024-09-17T02:08:16.473Z
+updated: 2024-09-20T06:09:00.610Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,26 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-strategy-for-collecting-multiple-videos-from-tiktok/"><u>[New] In 2024, The Ultimate Strategy for Collecting Multiple Videos From TikTok</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-simplified-social-media-sharing-youtube-to-facebook-for-2024/"><u>[New] Simplified Social Media Sharing YouTube to Facebook for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-valheim-vegetation-value-optimal-sapling-guidance/"><u>[Updated] 2024 Approved Valheim Vegetation Value Optimal Sapling Guidance</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/frontier-footage-finder-perfect-for-journeying-lensmen/"><u>Frontier Footage Finder: Perfect for Journeying Lensmen</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-restore-your-ipad-using-icloud-backup-a-step-by-step-guide-with-and-without-factory-reset/"><u>How to Restore Your iPad Using iCloud Backup: A Step-by-Step Guide with and Without Factory Reset</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-image-distortion-made-easy/"><u>In 2024, Image Distortion Made Easy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photographic-power-up-grid-software-of-the-decade-for-2024/"><u>Photographic Power-Up Grid Software of the Decade for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-your-apple-id-top-6-steps-to-retrieve-lost-icloud-passwords/"><u>Reviving Your Apple ID: Top 6 Steps to Retrieve Lost iCloud Passwords</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategic-sharpening-for-pixel-perfect-photos/"><u>Strategic Sharpening for Pixel-Perfect Photos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshoot-your-icloud-picture-sharing-problems-for-ios-devices-and-macbook-computers-essential-steps/"><u>Troubleshoot Your iCloud Picture Sharing Problems for iOS Devices and MacBook Computers - Essential Steps</u></a></li>
+<li><a href="https://media-tips.techidaily.com/tv-sizing-guide-finding-your-optimal-display-dimensions-for-ultimate-viewing-comfort/"><u>TV Sizing Guide: Finding Your Optimal Display Dimensions for Ultimate Viewing Comfort</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-icloud-family-sharing-a-comprehensive-guide-on-implementation-and-usage/"><u>Unveiling iCloud Family Sharing: A Comprehensive Guide on Implementation and Usage</u></a></li>
+</ul></div>
+

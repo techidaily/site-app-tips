@@ -1,7 +1,7 @@
 ---
 title: "Amazon Introduces Revolutionary AI Performance Metric: The Next-Gen RAG System Unveiled by ZDNet"
-date: 2024-09-19 12:21:37
-updated: 2024-09-20 11:11:40
+date: 2024-09-14T18:53:52.145Z
+updated: 2024-09-19T22:44:30.642Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-camcraze-evaluation-excellence-beyond-one-brand/"><u>[New] 2024 Approved CamCraze Evaluation Excellence Beyond One Brand</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-chuckle-fest-twitters-10-funniest-tweets/"><u>[New] 2024 Approved Chuckle-Fest Twitter's 10 Funniest Tweets</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-innovative-screenshot-and-video-tools-top-8-smartphone-essentials/"><u>[Updated] 2024 Approved Innovative Screenshot & Video Tools – Top 8 Smartphone Essentials</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-elevenlabs-discovering-four-remarkable-alternatives-an-in-depth-analysis-of-their-unique-features/"><u>Beyond ElevenLabs: Discovering Four Remarkable Alternatives - An In-Depth Analysis of Their Unique Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-adobes-full-voice-amplifier-features-and-tips/"><u>Comprehensive Guide to Adobe's Full Voice Amplifier: Features & Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-stable-diffusions-text-to-image-generative-ai/"><u>Comprehensive Guide: Understanding Stable Diffusion's Text-to-Image Generative AI</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/discover-cost-free-vfx-wonders-on-the-net/"><u>Discover Cost-Free VFX Wonders on the Net</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-stardew-enhancements-for-maximum-farming-fun-for-2024/"><u>Essential Stardew Enhancements for Maximum Farming Fun for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-leading-substitutes-for-voicemyai-your-guide-to-innovative-ai-voice-solutions/"><u>Explore the Leading Substitutes for voicemy.ai: Your Guide to Innovative AI Voice Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/halt-automatic-song-selection-customizing-your-apple-music-experience/"><u>Halt Automatic Song Selection: Customizing Your Apple Music Experience</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-motorola-moto-g-stylus-5g-2023-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Motorola Moto G Stylus 5G (2023) Through Google Earth?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-amateurs-to-a-listers-top-10-film-cameras-reviewed/"><u>In 2024, From Amateurs to A-Listers Top 10 Film Cameras Reviewed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-leading-artificeintelligence-video-makers-for-image-based-production/"><u>In-Depth Analysis of Leading ArtificeIntelligence Video Makers for Image-Based Production</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-insight-on-avclabs-video-improvement-software-features-benefits-and-drawbacks/"><u>In-Depth Insight on AVCLabs Video Improvement Software: Features, Benefits & Drawbacks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/reimagined-analysis-new-developments-in-sonys-s6500-bdhd-for-2024/"><u>Reimagined Analysis New Developments in Sony's S6500 BD/HD for 2024</u></a></li>
+</ul></div>
+

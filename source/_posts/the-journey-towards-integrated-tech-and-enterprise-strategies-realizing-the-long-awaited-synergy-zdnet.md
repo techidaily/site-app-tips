@@ -1,7 +1,7 @@
 ---
 title: "The Journey Towards Integrated Tech and Enterprise Strategies: Realizing the Long-Awaited Synergy | ZDNET"
-date: 2024-09-17 12:44:32
-updated: 2024-09-20 11:23:52
+date: 2024-09-16T06:27:29.527Z
+updated: 2024-09-19T22:09:10.619Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-capturing-your-beloved-tv/"><u>[Updated] In 2024, The Ultimate Guide to Capturing Your Beloved TV</u></a></li>
+<li><a href="https://win-forum.techidaily.com/activate-your-revoappmanager-a-comprehensive-walkthrough-using-revouninstaller/"><u>Activate Your RevoAppManager - A Comprehensive Walkthrough Using RevoUninstaller</u></a></li>
+<li><a href="https://app-tips.techidaily.com/alternative-media-players-similar-to-itunes-for-windows-vista-xp-or-7-users/"><u>Alternative Media Players Similar to iTunes for Windows Vista, XP, or 7 Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620278038-cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/champion-captures-educations-audio-leaders/"><u>Champion Captures Education's Audio Leaders</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/decision-time-alexa-vs-google-assistant-who-wins-as-your-smart-companion/"><u>Decision Time! Alexa Vs. Google Assistant – Who Wins as Your Smart Companion?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-preferred-version-easy-free-downloads-of-both-old-and-new-itunes-for-windows-and-mac/"><u>Get Your Preferred Version: Easy Free Downloads of Both Old and New iTunes for Windows & Mac</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-tecno-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Tecno Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ios-16-lock-screen-troubles-how-to-activate-and-enhance-the-depth-effect-feature-7-tips/"><u>IOS 16 Lock Screen Troubles: How to Activate and Enhance the Depth Effect Feature (7 Tips)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/obtain-your-logitech-k350-webcam-installation-files-here/"><u>Obtain Your Logitech K350 Webcam Installation Files Here</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-steps-converting-your-avi-videos-into-apples-itunes-format-for-ios-devices/"><u>Simple Steps: Converting Your AVI Videos Into Apple's iTunes Format for iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transferring-your-playlist-to-ipod-sans-itunes-with-aiseesoft/"><u>Step-by-Step Guide: Transferring Your Playlist to iPod Sans iTunes with Aiseesoft</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-8-youtuber-blunders-to-avoid-and-why-theyre-common/"><u>Top 8 Youtuber Blunders to Avoid and Why They're Common</u></a></li>
+</ul></div>
+

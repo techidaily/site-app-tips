@@ -1,7 +1,7 @@
 ---
 title: How Vital Are IT Specialists for Modern Businesses Operating Without Technology? Insights From a ZDNET Perspective
-date: 2024-09-19 23:22:25
-updated: 2024-09-20 10:47:41
+date: 2024-09-17T06:22:55.207Z
+updated: 2024-09-20T00:08:26.231Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,28 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-keeping-track-saving-insta-visuals-on-iphone-for-2024/"><u>[Updated] Keeping Track Saving Insta Visuals on iPhone for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastering-facebook-profile-pictures-with-these-expert-creators-for-2024/"><u>[Updated] Mastering Facebook Profile Pictures with These Expert Creators for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secret-strategies-to-outshine-with-canva-photos/"><u>[Updated] Secret Strategies to Outshine with Canva Photos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-to-crossfade-sounds-using-audacity-for-2024/"><u>[Updated] The Ultimate Guide to Crossfade Sounds Using Audacity for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-guide-top-10-photography-frame-tools/"><u>[Updated] Ultimate Guide Top 10 Photography Frame Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-exploring-the-dynamics-of-canon-timelapse-imagery/"><u>2024 Approved Exploring the Dynamics of Canon Timelapse Imagery</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-x-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone X</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-most-effective-cross-platform-chat-applications-for-ios-and-android-devices/"><u>Discover the Most Effective Cross-Platform Chat Applications for iOS and Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-8-leading-projector-apps-for-effortless-wi-fi-hookup-on-your-android-device/"><u>Discover the Ultimate List of 8 Leading Projector Apps for Effortless Wi-Fi Hookup on Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-tricks-for-bypassing-android-restrictions-in-just-a-few-taps/"><u>Effortless Tricks for Bypassing Android Restrictions in Just a Few Taps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-mov-video-orientation-changers-top-rated/"><u>Free MOV Video Orientation Changers Top Rated</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-great-android-camera-apps-for-amazing-shots/"><u>The Ultimate List of Great Android Camera Apps for Amazing Shots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-9plus-secure-unlocking-apps-with-fingerprint-recognition-for-android-smartphones/"><u>The Ultimate List: 9+ Secure Unlocking Apps with Fingerprint Recognition for Android Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-review-of-the-shotcut-app-unveil-its-features-and-benefits-now/"><u>Ultimate Review of the Shotcut App: Unveil Its Features and Benefits Now</u></a></li>
+</ul></div>
+

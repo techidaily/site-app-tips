@@ -1,7 +1,7 @@
 ---
 title: Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET
-date: 2024-09-19 23:54:12
-updated: 2024-09-20 10:56:11
+date: 2024-09-13T19:05:18.251Z
+updated: 2024-09-20T09:51:44.694Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-is-rapid-subscription-truly-effective-for-youtube-users/"><u>[New] 2024 Approved Is Rapid Subscription Truly Effective for YouTube Users?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-iphone-7-proven-strategies-for-screen-capture-for-2024/"><u>[Updated] IPhone 7 Proven Strategies for Screen Capture for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-the-maximum-duration-limit-for-instagram-videos/"><u>[Updated] Navigating the Maximum Duration Limit for Instagram Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-tips-for-setting-up-zoom-on-your-android-phonetablet/"><u>2024 Approved Quick Tips for Setting Up Zoom on Your Android Phone/Tablet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-streamlining-content-acquisition-5-ways-to-download-igtv-on-windows-and-macos/"><u>2024 Approved Streamlining Content Acquisition 5 Ways to Download IGTV on Windows & MacOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-mobile-games-hacking-tools-on-android-rooted-and-non-rooted-options/"><u>Best 10 Mobile Games Hacking Tools on Android: Rooted & Non-Rooted Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-vsco-features-advantages-disadvantages-and-top-substitutes/"><u>Comprehensive Guide: Understanding VSCO – Features, Advantages, Disadvantages, and Top Substitutes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-issue-of-your-apple-watch-not-counting-steps-correctly/"><u>Fixing the Issue of Your Apple Watch Not Counting Steps Correctly</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/get-started-with-tango-enjoy-voice-calls-video-chats-and-texts-free-of-charge/"><u>Get Started With Tango: Enjoy Voice Calls, Video Chats & Texts Free of Charge</u></a></li>
+<li><a href="https://blog-min.techidaily.com/instant-conversion-made-easy-6-methods-for-gratis-mkv-zu-mp4-auf-ihrem-mac/"><u>Instant Conversion Made Easy – 6 Methods for Gratis MKV-Zu-MP4 Auf Ihrem Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-apple-clips-expert-reviews-and-detailed-instructional-insights/"><u>Mastering Apple Clips: Expert Reviews & Detailed Instructional Insights</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-pro-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Pro Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-8-ios-data-backup-solutions-protecting-your-photos-messages-and-more/"><u>Top 8 iOS Data Backup Solutions: Protecting Your Photos, Messages & More</u></a></li>
+</ul></div>
+

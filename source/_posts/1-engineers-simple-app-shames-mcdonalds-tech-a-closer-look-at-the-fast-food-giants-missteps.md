@@ -1,7 +1,7 @@
 ---
 title: "1. Engineer’s Simple App Shames McDonald's Tech: A Closer Look at the Fast-Food Giant's Missteps"
-date: 2024-09-17 14:55:55
-updated: 2024-09-20 12:57:58
+date: 2024-09-18T18:31:52.323Z
+updated: 2024-09-19T16:10:25.762Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,25 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastering-screen-capture-in-linux-with-these-tools/"><u>[Updated] In 2024, Mastering Screen Capture in Linux with These Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dive-into-retro-and-modern-gaming-effortlessly-play-ps-classics-using-ps3-ps4-and-ps5-emulators-on-pc/"><u>Dive Into Retro and Modern Gaming: Effortlessly Play PS Classics Using PS3, PS4, and PS5 Emulators on PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-all-time-highest-chart-youtubes-premier-video-list/"><u>In 2024, All-Time Highest Chart YouTube's Premier Video List</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-insight-into-vllo-video-editing-suite-features-performance-and-user-experience-reviewed/"><u>In-Depth Insight Into VLLO Video Editing Suite: Features, Performance, and User Experience Reviewed</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-a14-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy A14 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-tools-accessibility-hotkey-configurations-for-fixes/"><u>Tailoring Windows Tools Accessibility: Hotkey Configurations for Fixes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-mohu-blade-revealed-a-detailed-look-at-its-impressive-functionality-and-original-design-for-over-the-air-tv/"><u>The Mohu Blade Revealed – A Detailed Look at Its Impressive Functionality and Original Design for Over-the-Air TV</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-free-messaging-apps-as-great-substitutes-for-whatsapp/"><u>Top 10 Free Messaging Apps as Great Substitutes for WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-iphones-file-recovery-apps-restore-your-lost-data-easily/"><u>Top 5 iPhones File Recovery Apps: Restore Your Lost Data Easily</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-remote-control-applications-for-your-android-device-via-pc-the-ultimate-2024-guide/"><u>Top 5 Remote Control Applications for Your Android Device via PC: The Ultimate 2024 Guide</u></a></li>
+</ul></div>
+

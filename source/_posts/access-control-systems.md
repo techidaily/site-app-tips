@@ -1,7 +1,7 @@
 ---
 title: Access Control Systems
-date: 2024-09-18 22:57:24
-updated: 2024-09-20 10:43:25
+date: 2024-09-13T23:02:29.557Z
+updated: 2024-09-19T16:30:14.360Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,24 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-beyond-the-skyline-with-yuneecs-typhoon-q500/"><u>[Updated] Beyond the Skyline with Yuneec's Typhoon Q500</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-pioneering-pedagogy-choosing-from-the-premier-10-lecture-recorders-for-2024/"><u>[Updated] Pioneering Pedagogy Choosing From the Premier 10 Lecture Recorders for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-cyberlink-actiondirector-advantages-disadvantages-and-top-substitutes/"><u>Complete Guide to CyberLink ActionDirector: Advantages, Disadvantages & Top Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-15-no-cost-texting-solutions-for-your-android-device/"><u>Discover the Top 15 No-Cost Texting Solutions for Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-high-quality-video-players-optimized-for-your-android-tablet/"><u>Top 10 High-Quality Video Players Optimized for Your Android Tablet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-touchpad-scroll-problems/"><u>Troubleshooting and Solving Touchpad Scroll Problems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-steps-fixing-6-frequent-problems-in-auto-gpt-setup/"><u>Troubleshooting Steps: Fixing 6 Frequent Problems in Auto-GPT Setup</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-trick-to-watch-your-favorite-funimation-episodes-anywhere-even-without-internet/"><u>Ultimate Trick to Watch Your Favorite Funimation Episodes Anywhere, Even Without Internet!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/undoing-windows-11s-updated-search-bar-design/"><u>Undoing Windows 11'S Updated Search Bar Design</u></a></li>
+<li><a href="https://app-tips.techidaily.com/whatsapp-secrets-revealed-how-to-join-and-chat-with-others-even-if-you-dont-want-to-share-your-mobile-number/"><u>WhatsApp Secrets Revealed: How to Join and Chat with Others Even If You Don't Want to Share Your Mobile Number</u></a></li>
+</ul></div>
+

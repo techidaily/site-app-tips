@@ -1,7 +1,7 @@
 ---
 title: "Expanding Protection: Juniper Networks Integrates Advanced Cloud Firewall Into Its Comprehensive SASE Offerings on ZDNET"
-date: 2024-09-18 10:20:14
-updated: 2024-09-20 12:14:47
+date: 2024-09-14T06:44:25.714Z
+updated: 2024-09-19T22:36:30.651Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,24 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-strategies-for-broadcasting-social-media-happenings/"><u>[New] In 2024, Strategies for Broadcasting Social Media Happenings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-rankings-top-11-streaming-audio-gear/"><u>[New] In 2024, Ultimate Rankings Top 11 Streaming Audio Gear</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-filters-to-elevate-submerged-photography/"><u>[Updated] Prime Filters to Elevate Submerged Photography</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-reinvent-storytelling-the-path-to-better-narratives-starts-here-for-2024/"><u>[Updated] Reinvent Storytelling – The Path to Better Narratives Starts Here for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-superior-free-reproduction-tools-for-switch-games-for-2024/"><u>[Updated] Superior Free Reproduction Tools for Switch Games for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-cyberlink-actiondirector-advantages-disadvantages-and-top-substitutes/"><u>Complete Guide to CyberLink ActionDirector: Advantages, Disadvantages & Top Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-15-no-cost-texting-solutions-for-your-android-device/"><u>Discover the Top 15 No-Cost Texting Solutions for Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620191079-discover-the-ultimate-list-of-free-user-friendly-android-notes-applications-the-best-picks-you-need/"><u>Discover the Ultimate List of FREE, User-Friendly Android Notes Applications: The Best Picks You Need!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-2023-facebook-hack-get-your-account-back/"><u>In 2024, 2023 | Facebook Hack? Get Your Account Back</u></a></li>
+<li><a href="https://app-tips.techidaily.com/whatsapp-secrets-revealed-how-to-join-and-chat-with-others-even-if-you-dont-want-to-share-your-mobile-number/"><u>WhatsApp Secrets Revealed: How to Join and Chat with Others Even If You Don't Want to Share Your Mobile Number</u></a></li>
+</ul></div>
+

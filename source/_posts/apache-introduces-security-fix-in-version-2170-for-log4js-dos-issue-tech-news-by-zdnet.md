@@ -1,7 +1,7 @@
 ---
 title: Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet
-date: 2024-09-18 18:36:54
-updated: 2024-09-20 12:12:50
+date: 2024-09-15T03:45:56.744Z
+updated: 2024-09-19T20:49:24.104Z
 tags:
   - password-manager
 categories:
@@ -173,11 +173,34 @@ The two went on to say that after looking at all publicly disclosed critical adv
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-uninterrupted-video-with-proper-obs-settings/"><u>[New] In 2024, Uninterrupted Video with Proper OBS Settings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-iphone-imaging-insights-for-professionals/"><u>[New] IPhone Imaging Insights for Professionals</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-crafting-powerful-video-titles-and-sizes/"><u>2024 Approved Crafting Powerful Video Titles & Sizes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/command-space-exploration-and-conquer-stars-in-stellaris-a-comprehensive-review/"><u>Command Space Exploration and Conquer Stars in Stellaris - A Comprehensive Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620189235-get-your-favorite-android-games-on-lockdown-the-ultimate-list-of-20-free-full-version-apks-to-download-today/"><u>Get Your Favorite Android Games on Lockdown: The Ultimate List of 20 Free, Full-Version APKs to Download Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-video-transitions-with-these-10-editors/"><u>In 2024, Masterful Video Transitions with These 10 Editors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-your-videos-discover-leading-mobile-apps-including-kinemaster-for-superior-editing-tools/"><u>Master Your Videos: Discover Leading Mobile Apps Including KineMaster for Superior Editing Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-emoji-use-in-android-a-step-by-step-tutorial/"><u>Mastering Emoji Use in Android - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/most-effective-iphone-surveillance-software-your-ultimate-guide-to-discreet-monitoring-tools/"><u>Most Effective iPhone Surveillance Software: Your Ultimate Guide to Discreet Monitoring Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-choice-affordable-samsung-mp3-players-compatible-with-galaxy-s8-s9-and-pcs-both-free-and-premium-options-available/"><u>Top Choice Affordable Samsung MP3 Players: Compatible with Galaxy S8, S9 & PCs [Both Free & Premium Options Available]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-choosing-the-best-app-to-check-if-your-android-is-rooted/"><u>Ultimate Guide: Choosing the Best App to Check if Your Android Is Rooted</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-issues-in-googles-pixel-slate-a-deep-dive-into-chromeos-flaws/"><u>Unveiling Issues in Google's Pixel Slate - A Deep Dive Into ChromeOS Flaws</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/s-richest-social-media-influencer-for-2024/"><u>World's Richest Social Media Influencer for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

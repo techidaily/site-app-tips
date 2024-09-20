@@ -1,7 +1,7 @@
 ---
 title: "Database Leak Reveals Personal Data of Over 30,000 Medical Staff in Florida: An In-Depth Look by ZDNet"
-date: 2024-09-17 22:42:43
-updated: 2024-09-20 11:36:24
+date: 2024-09-14T20:20:58.805Z
+updated: 2024-09-19T18:36:29.915Z
 tags:
   - password-manager
 categories:
@@ -83,11 +83,42 @@ Fowler said it was unclear how long the database had been exposed and who else m
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ouble-down-on-youtube-visibility-2-quick-methods-for-2024/"><u>[New] Double Down on YouTube Visibility (2 Quick Methods) for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-download-instagram-videos-on-pc-and-mac/"><u>[Updated] In 2024, How to Download Instagram Videos on PC and Mac</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-superior-vr-equipment-for-drone-flight/"><u>[Updated] Superior VR Equipment for Drone Flight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-3ds-emulator-apps-top-picks-for-windows-mac-ios-and-android/"><u>Best Free 3DS Emulator Apps: Top Picks for Windows, Mac, iOS & Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-virtual-reality-movie-experiences-top-15-vr-apps-for-iphone-and-android/"><u>Best Virtual Reality Movie Experiences: Top 15 VR Apps for iPhone and Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deciding-to-display-understanding-and-managing-off-facebook-activity/"><u>Deciding to Display Understanding and Managing Off-Facebook Activity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620195653-discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More</u></a></li>
+<li><a href="https://app-tips.techidaily.com/endless-interruptions-a-complete-guide-to-stopping-unsolicited-calls-on-your-smartphone/"><u>Endless Interruptions: A Complete Guide to Stopping Unsolicited Calls on Your Smartphone</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-loses-ground-to-tiktoks-surging-userbase/"><u>Facebook Loses Ground to TikTok's Surging Userbase</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-available-avi-player-cross-platform-compatibility/"><u>In 2024, Best Available AVi Player - Cross-Platform Compatibility</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-nokia-c12-easily-by-drfone-android/"><u>In 2024, How To Unlock a Nokia C12 Easily?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/optimize-your-business-with-cutting-edge-android-mdm-options-and-features/"><u>Optimize Your Business With Cutting-Edge Android MDM Options and Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premiere-streaming-for-performance-artists-for-2024/"><u>Premiere Streaming for Performance Artists for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-for-less-jittery-iphone-movie-filming/"><u>Tips for Less Jittery iPhone Movie Filming</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-the-mystery-of-the-bnsf-emulator-thorough-assessment-and-interpretation/"><u>Unraveling the Mystery of the BNSF Emulator: Thorough Assessment and Interpretation</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

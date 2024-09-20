@@ -1,7 +1,7 @@
 ---
 title: Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet
-date: 2024-09-18 13:37:52
-updated: 2024-09-20 10:51:31
+date: 2024-09-15T09:46:05.718Z
+updated: 2024-09-19T17:15:33.932Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-a-brief-overview-understanding-vr-jargon/"><u>[New] In 2024, A Brief Overview Understanding VR Jargon</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-clicker-article-titles-maker/"><u>[Updated] 2024 Approved Top Clicker Article Titles Maker</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-realm-of-video-production-obs-and-free-luts/"><u>[Updated] Exploring the Realm of Video Production OBS & Free LUTs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-composing-an-emotive-tiktok-finale-statement/"><u>[Updated] In 2024, Composing An Emotive TikTok Finale Statement</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-15-optimal-bootable-virus-protection-tools-at-zero-price/"><u>Discover the 15 Optimal Bootable Virus Protection Tools at Zero Price</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-most-effective-cross-platform-chat-applications-for-ios-and-android-devices/"><u>Discover the Most Effective Cross-Platform Chat Applications for iOS and Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-8-leading-projector-apps-for-effortless-wi-fi-hookup-on-your-android-device/"><u>Discover the Ultimate List of 8 Leading Projector Apps for Effortless Wi-Fi Hookup on Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-tricks-for-bypassing-android-restrictions-in-just-a-few-taps/"><u>Effortless Tricks for Bypassing Android Restrictions in Just a Few Taps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-track-intel-graphics-patching/"><u>Fast Track Intel Graphics Patching</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-6-plus-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 6 Plus to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rescue-your-precious-moments-a-list-of-the-best-6-iphone-photography-recovery-tools/"><u>Rescue Your Precious Moments: A List of the Best 6 iPhone Photography Recovery Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/save-everything-the-ultimate-list-of-the-top-8-itunes-alternatives-for-iphone-backups/"><u>Save Everything! The Ultimate List of the Top 8 iTunes Alternatives for iPhone Backups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-12-hilarious-mobile-faces-you-can-try-on-any-phone/"><u>The Ultimate Guide: 12 Hilarious Mobile Faces You Can Try on Any Phone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-top-10-best-mobile-slow-motion-video-tools-compatible-with-ios-and-android-devices/"><u>Ultimate Top 10 Best Mobile Slow Motion Video Tools Compatible with iOS & Android Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-the-power-of-winxvideos-ai-ultimate-tutorial-on-video-enhancement-and-compression-techniques/"><u>Unlock the Power of Winxvideo's AI: Ultimate Tutorial on Video Enhancement & Compression Techniques</u></a></li>
+</ul></div>
+

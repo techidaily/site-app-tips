@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Turning On the Bitwarden Security Prompt for Your Master Key"
-date: 2024-09-19 10:41:55
-updated: 2024-09-20 11:30:37
+date: 2024-09-14T01:44:45.725Z
+updated: 2024-09-19T16:57:39.084Z
 tags:
   - password-manager
 categories:
@@ -78,6 +78,19 @@ The edit button is the pencil directly to the right of the + button.
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Enable the password re-prompt
 
 With the vault item opened for editing, scroll down until you see the Master password re-prompt option. Click the checkbox to enable the feature for the item. Once you've done that, click the save icon and you're done.
@@ -91,6 +104,19 @@ Now, any time you want to view that password, you'll be prompted to type your Bi
 **Also: [This AI-generated crypto invoice scam almost got me, and I'm a security pro](https://www.zdnet.com/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/)**
 
 Keep going and add the re-prompt feature to any/all vault entries you believe need the extra layer of security. 
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A couple of extra steps
 
@@ -120,11 +146,30 @@ This may not stop unwanted users from copying and pasting your passwords, but it
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-exclusive-the-leading-five-fb-videos/"><u>[Updated] Exclusive The Leading Five FB Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tips-to-shield-your-viewing-experience-from-unwanted-ads/"><u>[Updated] Tips to Shield Your Viewing Experience From Unwanted Ads</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boosting-horizon-zero-dawn-advanced-tips-for-higher-fps-and-better-graphics/"><u>Boosting Horizon Zero Dawn: Advanced Tips for Higher FPS & Better Graphics</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-steps-to-accessing-whatsapp-anonymously-no-phone-required/"><u>Comprehensive Steps to Accessing WhatsApp Anonymously: No Phone Required</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulating-vintage-gaming-the-power-of-xemu-for-pc/"><u>Emulating Vintage Gaming: The Power of Xemu for PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-next-gen-with-the-high-performance-xbox-series-x-the-complete-review/"><u>Experience Next-Gen with the High-Performance Xbox Series X - The Complete Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-strategies-managing-your-visibility-and-last-seen-timestamp-on-whatsapp/"><u>Expert Strategies: Managing Your Visibility and Last Seen Timestamp on WhatsApp</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-capabilities-of-ai-assistant-claude-3/"><u>Exploring the Capabilities of AI-Assistant, Claude 3</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-securely-transfer-whatsapp-pictures-from-ios-and-android-devices-without-losing-a-bit-explore-these-3-effective-strategies/"><u>How to Securely Transfer WhatsApp Pictures From iOS and Android Devices without Losing a Bit - Explore These 3 Effective Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-preservation-of-your-messages-syncing-whatsapp-chats-with-google-drive-tips-for-smartphones-and-tablets/"><u>Seamless Preservation of Your Messages: Syncing WhatsApp Chats with Google Drive - Tips for Smartphones and Tablets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/swift-solutions-retrieving-your-lost-whatsapp-messages-on-iphone-with-simple-techniques/"><u>Swift Solutions: Retrieving Your Lost WhatsApp Messages on iPhone with Simple Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-on-restoring-past-whatsapp-dialogues-and-mastering-the-art-of-unarchiving-texts/"><u>The Ultimate Tutorial on Restoring Past WhatsApp Dialogues & Mastering the Art of Unarchiving Texts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/update-your-contact-info-a-step-by-step-guide-to-changing-your-phone-number-on-whatsapp/"><u>Update Your Contact Info: A Step-by-Step Guide to Changing Your Phone Number on WhatsApp</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-make-your-videos-pop-12-top-online-animation-creators-for-2024/"><u>Updated Make Your Videos Pop 12 Top Online Animation Creators for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/online-bmp-tiff/"><u>제공자 무료: Online BMP 티핑을 사용하여 구성 이미지를 TIFF으로 전환</u></a></li>
+</ul></div>
+

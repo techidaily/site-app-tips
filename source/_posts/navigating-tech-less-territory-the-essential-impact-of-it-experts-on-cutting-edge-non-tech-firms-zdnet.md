@@ -1,7 +1,7 @@
 ---
 title: "Navigating Tech-Less Territory: The Essential Impact of IT Experts on Cutting-Edge Non-Tech Firms | ZDNET"
-date: 2024-09-18 15:28:33
-updated: 2024-09-20 12:41:43
+date: 2024-09-17T22:38:57.540Z
+updated: 2024-09-20T07:15:44.025Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,28 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-definitive-xbox-gameplay-capture-strategy-for-2024/"><u>[Updated] The Definitive Xbox Gameplay Capture Strategy for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-settings-audience-focused-screen-shots/"><u>2024 Approved Best Settings Audience-Focused Screen Shots</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-itel-a05s-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Itel A05s? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyys-ai-driven-triumph-surpassing-expectations-with-a-60-uptick-in-annual-revenue-honored-by-idc-marketscape-analysis/"><u>ABBYY's AI-Driven Triumph: Surpassing Expectations with a 60% Uptick in Annual Revenue, Honored by IDC MarketScape Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-list-of-top-10-mobile-backup-solutions-for-iphones-and-android-phones/"><u>Essential List of Top 10 Mobile Backup Solutions for iPhones and Android Phones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/exclusive-offer-high-performance-aurora-r16-with-34-alienware-oled-monitor-at-a-huge-discount-shave-70700-off/"><u>Exclusive Offer: High-Performance Aurora R16 with 34” Alienware OLED Monitor at a Huge Discount - Shave $70([[700] Off!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-tecno-pop-7-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Tecno Pop 7 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-8-plus-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 8 Plus without Apple Account</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-assessment-and-user-reviews-for-the-vizmato-software-suite/"><u>In-Depth Assessment & User Reviews for the Vizmato Software Suite</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-watermark-less-video-combining-7-expert-approved-tools/"><u>New Watermark-Less Video Combining 7 Expert-Approved Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-installing-and-using-kik-messenger-on-pcsmacs/"><u>Step-by-Step Guide: Installing & Using Kik Messenger on PCs/Macs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-10-reliable-data-backup-apps-for-ios-and-android-devices/"><u>The Ultimate Guide: Top 10 Reliable Data Backup Apps for iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-alternatives-to-remini-boost-and-beautify-photos-with-these-powerful-image-editing-apps/"><u>Top 5 Alternatives to Remini: Boost & Beautify Photos with These Powerful Image Editing Apps</u></a></li>
+</ul></div>
+

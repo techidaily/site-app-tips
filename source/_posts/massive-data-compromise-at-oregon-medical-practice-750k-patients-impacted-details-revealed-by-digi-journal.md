@@ -1,7 +1,7 @@
 ---
 title: "Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal"
-date: 2024-09-19 16:26:47
-updated: 2024-09-20 12:34:34
+date: 2024-09-18T05:03:28.841Z
+updated: 2024-09-19T17:43:09.886Z
 tags:
   - password-manager
 categories:
@@ -73,11 +73,33 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitters-media-mashup-a-how-to-guide/"><u>[Updated] 2024 Approved Twitter's Media Mashup A How-To Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harness-the-power-of-windows-photos-and-story-remix-for-editing/"><u>[Updated] Harness the Power of Windows Photos & Story Remix for Editing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-editing-to-sharing-youtube-mastery-with-adobe-premiere/"><u>[Updated] In 2024, From Editing to Sharing YouTube Mastery with Adobe Premiere</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-viral-visuals-high-favored-instagram-filters/"><u>[Updated] In 2024, Viral Visuals High-Favored Instagram Filters</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-video-editing-software-comparison-obs-vs-fraps/"><u>2024 Approved Video Editing Software Comparison OBS vs Fraps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-combat-excessive-gpu-utilization-by-windows-dwm-a-guide-for-win10win11-users/"><u>How to Combat Excessive GPU Utilization by Windows' DWM: A Guide for Win10/Win11 Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-initialization-issues-in-destiny-2-for-smooth-gameplay/"><u>Overcoming Initialization Issues in Destiny 2 for Smooth Gameplay</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-no-backup-available-errors-in-whatsapp-understanding-the-cause-and-top-5-remediation-strategies/"><u>Solving 'No Backup Available' Errors in WhatsApp: Understanding the Cause & Top 5 Remediation Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-completely-removing-your-whatsapp-profile-from-ios-devices/"><u>Step-by-Step Guide: Completely Removing Your WhatsApp Profile From iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-techniques-for-retrieving-lost-whatsapp-messages-on-android-devices/"><u>Top Techniques for Retrieving Lost WhatsApp Messages on Android Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/viral-visuals-high-favored-instagram-filters/"><u>Viral Visuals High-Favored Instagram Filters</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

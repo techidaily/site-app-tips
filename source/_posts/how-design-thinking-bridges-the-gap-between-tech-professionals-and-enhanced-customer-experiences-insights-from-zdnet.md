@@ -1,7 +1,7 @@
 ---
 title: How Design Thinking Bridges the Gap Between Tech Professionals and Enhanced Customer Experiences - Insights From ZDNet
-date: 2024-09-17 16:42:59
-updated: 2024-09-20 10:56:17
+date: 2024-09-14T06:20:01.662Z
+updated: 2024-09-19T22:28:05.867Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,28 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-restore-lost-sounds-to-twitter-vids/"><u>[New] 2024 Approved Restore Lost Sounds to Twitter Vids</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ultraview-app-functionality-survey/"><u>[New] 2024 Approved UltraView App Functionality Survey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-lyrics-with-images-on-instagram/"><u>[Updated] Harmonizing Lyrics with Images on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-for-correcting-motion-blur-from-drones/"><u>2024 Approved Techniques for Correcting Motion Blur From Drones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-videosnatch-quality-inspector/"><u>2024 Approved VideoSnatch Quality Inspector</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-steps-to-accessing-whatsapp-anonymously-no-phone-required/"><u>Comprehensive Steps to Accessing WhatsApp Anonymously: No Phone Required</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-retrieve-older-whatsapp-messages-a-guide-to-accessing-deleted-or-archived-conversations/"><u>How to Retrieve Older WhatsApp Messages: A Guide to Accessing Deleted or Archived Conversations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-friends-into-your-chat-list-a-comprehensive-tutorial-for-ios-and-android-users-of-whatsapp/"><u>Integrating Friends Into Your Chat List: A Comprehensive Tutorial for iOS & Android Users of WhatsApp</u></a></li>
+<li><a href="https://facebook.techidaily.com/joe-bidens-cure-via-snap-fb-twitters-the-story/"><u>Joe Biden's Cure via SNAP, FB, Twitters: The Story</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revise-your-mobile-details-easily-the-ultimate-walkthrough-for-switching-numbers-on-whatsapp/"><u>Revise Your Mobile Details Easily: The Ultimate Walkthrough for Switching Numbers on WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-adding-new-contacts-in-whatsapp-across-iphone-and-android-devices/"><u>Step-by-Step Guide: Adding New Contacts in WhatsApp Across iPhone & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-how-to-restore-deleted-whatsapp-conversations-on-android-phones/"><u>Ultimate Guide: How to Restore Deleted WhatsApp Conversations on Android Phones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unveiling-the-secrets-of-facebook-lives-dual-display-for-2024/"><u>Unveiling the Secrets of Facebook Live's Dual Display for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-secrets-of-movie-maker-on-windows-8/"><u>Unveiling the Secrets of Movie Maker on Windows 8</u></a></li>
+</ul></div>
+

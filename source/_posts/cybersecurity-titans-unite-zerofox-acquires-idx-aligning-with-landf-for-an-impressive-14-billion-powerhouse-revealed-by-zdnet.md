@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity Titans Unite! ZeroFox Acquires IDX, Aligning with L&F for an Impressive $1.4 Billion Powerhouse Revealed by ZDNet
-date: 2024-09-18 12:13:21
-updated: 2024-09-20 12:50:53
+date: 2024-09-13T05:39:20.911Z
+updated: 2024-09-19T18:21:50.616Z
 tags:
   - password-manager
 categories:
@@ -74,11 +74,29 @@ Adam Gerchen, CEO of LNFA and a new ZeroFox board member, noted that the company
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-gifs-to-glam-a-complete-guide-to-creating-emojis-on-telegram-and-whatsapp/"><u>[New] GIFs-to-Glam A Complete Guide to Creating Emojis on Telegram & WhatsApp</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-insight-into-mematics-app-features/"><u>2024 Approved Exclusive Insight Into Mematic's App Features</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-mastering-the-art-of-restarting-disrupted-fb-live-sessions/"><u>In 2024, Mastering the Art of Restarting Disrupted FB LIVE Sessions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-panasonic-hx-a1-revolutionizing-wearable-cameras-for-the-outdoors/"><u>In 2024, Panasonic HX-A1 Revolutionizing Wearable Cameras for the Outdoors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transferring-your-itunes-collection-from-computer-to-external-hard-drive/"><u>Step-by-Step Guide: Transferring Your iTunes Collection From Computer to External Hard Drive</u></a></li>
+<li><a href="https://app-tips.techidaily.com/temporary-itunes-store-outage-discover-7-effective-solutions/"><u>Temporary iTunes Store Outage: Discover 7 Effective Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-solutions-for-resolving-the-issue-of-music-not-playing-in-itunes/"><u>Top Solutions for Resolving the Issue of Music Not Playing in iTunes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-every-detail-ai-features-showcased-in-apples-wwdc-2024/"><u>Unveiling Every Detail: AI Features Showcased in Apple's WWDC 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

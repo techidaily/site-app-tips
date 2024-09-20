@@ -1,7 +1,7 @@
 ---
 title: The Roadmap for Artifice Intelligence Developments Over the Next Ten Years | ZDNet
-date: 2024-09-19 16:37:45
-updated: 2024-09-20 10:16:37
+date: 2024-09-16T00:15:28.744Z
+updated: 2024-09-20T01:27:04.950Z
 tags:
   - enterprise-software
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,24 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-world-of-podcast-rss-formatting/"><u>[New] Navigating the World of Podcast RSS Formatting</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-editors-journey-creating-impactful-videos-for-youtube-with-pc/"><u>[New] The Editor's Journey Creating Impactful Videos for YouTube with PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-on-managing-your-iphones-icloud-storage-backup-restoration-and-deletion-tips/"><u>Complete Guide on Managing Your iPhone's iCloud Storage: Backup, Restoration & Deletion Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/effortless-avi-gif-conversion-using-filmora-tools-for-2024/"><u>Effortless AVI-GIF Conversion Using Filmora Tools for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-accessing-your-icloud-keychain-passwords-across-iphone-ipad-and-mac/"><u>Guide: Accessing Your iCloud Keychain Passwords Across iPhone, iPad & Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hp-laptops-unresponsive-keys-master-the-rapid-restoration-methods-today/"><u>HP Laptops' Unresponsive Keys? Master the Rapid Restoration Methods Today!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-pathway-to-visual-storytelling-through-gifs/"><u>In 2024, The Pathway to Visual Storytelling Through GIFs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-linking-your-pc-with-bluetooth-audio-devices/"><u>Step-by-Step Guide: Linking Your PC with Bluetooth Audio Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264415-troubleshoot-your-icloud-picture-sharing-problems-for-ios-devices-and-macbook-computers-essential-steps/"><u>Troubleshoot Your iCloud Picture Sharing Problems for iOS Devices and MacBook Computers - Essential Steps!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-advanced-ai-gpt-4-no-price-tag-needed/"><u>Unlocking Advanced AI: GPT-4, No Price Tag Needed</u></a></li>
+</ul></div>
+
