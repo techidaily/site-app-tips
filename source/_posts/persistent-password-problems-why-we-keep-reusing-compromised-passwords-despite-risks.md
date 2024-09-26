@@ -1,7 +1,7 @@
 ---
 title: "Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks"
-date: 2024-09-15T05:17:18.382Z
-updated: 2024-09-20T01:16:42.152Z
+date: 2024-09-25T00:38:37.148Z
+updated: 2024-09-26T10:05:00.221Z
 tags:
   - password-manager
 categories:
@@ -109,6 +109,13 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Privacy
 
 * [How to delete yourself from internet search results and hide your identity online](https://www.zdnet.com/article/how-to-delete-yourself-from-internet-search-results-and-hide-your-identity-online/)
@@ -131,6 +138,13 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 "For users we can tie to breach exposures in 2021 and prior years with the same email address or username explored, 70% were still reusing the same exposed passwords," it notes. 
 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -175,18 +189,22 @@ And for anyone who might be perplexed by passwords, it should be remembered that
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-5-premier-cloud-platforms-revolutionizing-storage-for-2024/"><u>[New] 5 Premier Cloud Platforms Revolutionizing Storage for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-discover-the-genesis-advanced-reverse-lookup-on-instagram-photos-for-2024/"><u>[New] Discover the Genesis Advanced Reverse Lookup on Instagram Photos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-post-twitter-videos-on-snapchat-for-2024/"><u>[New] How to Post Twitter Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-morphvox-transformation-top-techniques-revealed/"><u>[New] Mastering MorphVOX Transformation Top Techniques Revealed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adapting-cyber-defense-tactics-modernizing-security-expertise-amidst-outdated-infrastructure-challenges/"><u>Adapting Cyber Defense Tactics: Modernizing Security Expertise Amidst Outdated Infrastructure Challenges</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-sgs-green-transition-calls-increase-for-financing-ai-based-carbon-reduction-strategies-insights-from-zdnet/"><u>Boosting SG's Green Transition: Calls Increase for Financing AI-Based Carbon Reduction Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-pc-prowess-with-toms-hardware-mastery-guides/"><u>Decoding PC Prowess with Tom's Hardware Mastery Guides</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-open-source-ai-apps-for-image-creation/"><u>Discover the Leading Open-Source AI Apps for Image Creation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/finding-reliable-artificial-intelligence-watermarks-insights-from-zdnet/"><u>Finding Reliable Artificial Intelligence Watermarks: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-will-artificial-intelligence-impact-future-careers-in-cybersecurity-challenges-and-opportunities/"><u>How Will Artificial Intelligence Impact Future Careers in Cybersecurity?: Challenges & Opportunities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigate-through-windows-11s-best-practices-for-imports/"><u>Navigate Through Windows 11'S Best Practices for Imports</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainty-of-ai-efficiency-insights-from-zdnet/"><u>Navigating the Uncertainty of AI Efficiency: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapore-invests-s24-billion-in-enhancing-ict-infrastructure-and-digital-solutions-insights-for-tech-leaders/"><u>Singapore Invests S$2.4 Billion in Enhancing ICT Infrastructure & Digital Solutions - Insights for Tech Leaders</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-halo-bolt-a-comprehensive-review-of-its-jump-starting-and-charging-capabilities/"><u>The Ultimate Guide to the Halo Bolt - A Comprehensive Review of Its Jump-Starting & Charging Capabilities</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-by-tech-gurus-zdnets-exclusive-insights/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews by Tech Gurus | ZDNet's Exclusive Insights</u></a></li>
+</ul></div>
 

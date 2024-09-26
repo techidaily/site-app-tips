@@ -1,7 +1,7 @@
 ---
 title: "Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default"
-date: 2024-09-14T17:16:08.798Z
-updated: 2024-09-20T02:49:34.951Z
+date: 2024-09-21T18:29:39.437Z
+updated: 2024-09-25T18:15:42.527Z
 tags:
   - password-manager
 categories:
@@ -73,18 +73,24 @@ Google [announced](https://www.zdnet.com/article/by-end-of-2021-google-plans-to-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-transform-your-playtime-mastering-ps4-live-recordings-with-obs-for-2024/"><u>[New] Transform Your Playtime Mastering PS4 Live Recordings with OBS for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-artistic-angles-a-selection-of-hot-snapchat-augments/"><u>[Updated] 2024 Approved Artistic Angles A Selection of Hot Snapchat Augments</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-strategies-for-professional-gif-craftsmanship/"><u>2024 Approved Advanced Strategies for Professional GIF Craftsmanship</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-clash-between-ai-progress-and-agile-methods-insights-from-recent-research-zdnet/"><u>Exploring the Clash Between AI Progress & Agile Methods: Insights From Recent Research - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-impact-of-cutting-edge-ai-on-present-technology-systems-discoveries-by-zdnet/"><u>Exploring the Impact of Cutting-Edge AI on Present Technology Systems - Discoveries by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-artificial-intelligence-a-threat-to-cybersecurity-employment-prospects/"><u>Is Artificial Intelligence a Threat to Cybersecurity Employment Prospects?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-start-with-core-business-insights/"><u>Mastering Tech Team Leadership: Start with Core Business Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c210-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C210 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-art-of-digital-makeup-on-video-platforms/"><u>The Art of Digital Makeup on Video Platforms</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-step-by-step-guide-how-to-translate-tiktok-videos/"><u>Updated Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

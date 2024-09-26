@@ -1,7 +1,7 @@
 ---
 title: Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET
-date: 2024-09-17T18:17:56.091Z
-updated: 2024-09-20T04:08:33.391Z
+date: 2024-09-24T02:45:24.724Z
+updated: 2024-09-25T21:01:04.027Z
 tags:
   - password-manager
 categories:
@@ -62,12 +62,29 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-premium-background-music-compilations/"><u>[New] 2024 Approved Premium Background Music Compilations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-immortalizing-the-epic-sagas-of-pc-gaming-6-pro-tips-for-2024/"><u>[New] Immortalizing the Epic Sagas of PC Gaming 6 Pro Tips for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-a-thorough-insight-into-androids-lightroom-application/"><u>[New] In 2024, A Thorough Insight Into Android's Lightroom Application</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-capture-creativity-speedy-drawing-techniques-for-windows-photo-editor/"><u>[New] In 2024, Capture Creativity Speedy Drawing Techniques for Windows Photo Editor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-strategies-to-elevate-client-spots-and-product-endorsements/"><u>2024 Approved Advanced Strategies to Elevate Client Spots and Product Endorsements</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-for-operating-android-apps-seamlessly-on-windows-11-systems/"><u>Comprehensive Tutorial for Operating Android Apps Seamlessly on Windows 11 Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-generative-ai-enhances-productivity-and-reshapes-the-role-of-software-developers-zdnet-insights/"><u>How Generative AI Enhances Productivity and Reshapes the Role of Software Developers | ZDNet Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-lameencdll-errors-audacity-lame-mp3/"><u>How to Fix Lame_enc.dll Errors (Audacity LAME MP3)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapores-push-investing-in-ai-and-green-tech-transformation-insights-from-zdnet/"><u>Singapore's Push: Investing in AI & Green Tech Transformation - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-bulletproof-ai-watermarks-insights-from-zdnet/"><u>The Ultimate Guide to Bulletproof AI Watermarks: Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-nord-n30-se-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Nord N30 SE</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-plans-of-2024-comprehensive-reviews-and-comparisons-techradar/"><u>Top-Ranked Web Hosting Plans of 2024: Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
+<li><a href="https://win11.techidaily.com/trust-traps-heres-how-to-escape-fake-windows-software/"><u>Trust Traps? Here's How to Escape Fake Windows Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-profitability-with-generative-ai-understanding-roi-challenges-and-strategies-featured-in-zdnet/"><u>Unlocking Profitability with Generative AI: Understanding ROI Challenges and Strategies | Featured in ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-data-as-key-ingredient-in-crafting-smart-ai-solutions-strategies-for-completing-your-technological-jigsaw/"><u>Unveiling Data as Key Ingredient in Crafting Smart AI Solutions: Strategies for Completing Your Technological Jigsaw</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

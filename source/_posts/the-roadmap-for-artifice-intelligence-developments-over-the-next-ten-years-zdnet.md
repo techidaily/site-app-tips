@@ -1,7 +1,7 @@
 ---
 title: The Roadmap for Artifice Intelligence Developments Over the Next Ten Years | ZDNet
-date: 2024-09-16T00:15:28.744Z
-updated: 2024-09-20T01:27:04.950Z
+date: 2024-09-23T23:56:40.475Z
+updated: 2024-09-26T04:44:05.472Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -92,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -165,5 +185,23 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-record-to-remember-top-5-best-tools-for-virtual-meeting-capture/"><u>[New] 2024 Approved Record to Remember Top 5 Best Tools for Virtual Meeting Capture</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-views-degrees-of-rotation-on-youtube-a-2023-guide-for-2024/"><u>[New] Elevate Your Views Degrees of Rotation on YouTube - A 2023 Guide for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-company-appeal-with-low-code-solutions-insights-from-zdnet/"><u>Enhancing Company Appeal with Low-Code Solutions: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/express-more-with-emojis-how-to-use-gifs-in-your-comments-on-instagram/"><u>Express More with Emojis: How to Use GIFs in Your Comments on Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-overcome-windows-10-full-screen-grayscale-problem-solutions-and-tricks/"><u>How to Overcome Windows 10 Full-Screen Grayscale Problem – Solutions & Tricks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-12-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on 12</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-artificer-intelligence-the-next-gen-kubernetes-update-revealed-infotech-today/"><u>Leveraging Artificer Intelligence: The Next-Gen Kubernetes Update Revealed | InfoTech Today</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-recall-understanding-why-it-isnt-the-ultimate-privacy-disaster-top-7-insights-to-ease-your-concerns-zdnet/"><u>Microsoft Recall: Understanding Why It Isn't the 'Ultimate Privacy Disaster' – Top 7 Insights to Ease Your Concerns | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stay-organized-with-slackbot-your-ultimate-tutorial-for-setting-effective-reminders-in-slack/"><u>Stay Organized with Slackbot: Your Ultimate Tutorial for Setting Effective Reminders in Slack</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-upgrades-user-friendly-features-in-latest-data-recovery-tool-release/"><u>Stellar Upgrades User-Friendly Features in Latest Data Recovery Tool Release</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamline-team-collaboration-with-to-do-list-functionality-in-slack-expert-tips-from-zdnet/"><u>Streamline Team Collaboration with To-Do List Functionality in Slack | Expert Tips From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-zero-code-development-how-generative-ai-is-transforming-the-future-beyond-low-code/"><u>The Rise of Zero-Code Development: How Generative AI Is Transforming the Future Beyond Low-Code</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-countries-have-banned-the-worlds-most-popular-site-facebook/"><u>What Countries Have Banned the World’s Most Popular Site, Facebook?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-ai-project-expansion-explodes-to-ten-times-more-this-past-year-study-finds/"><u>ZDNet Reveals AI Project Expansion Explodes to Ten Times More This Past Year - Study Finds</u></a></li>
+</ul></div>
 

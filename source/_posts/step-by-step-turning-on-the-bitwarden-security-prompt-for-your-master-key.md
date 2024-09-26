@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Turning On the Bitwarden Security Prompt for Your Master Key"
-date: 2024-09-14T01:44:45.725Z
-updated: 2024-09-19T16:57:39.084Z
+date: 2024-09-25T06:44:14.024Z
+updated: 2024-09-25T22:31:04.311Z
 tags:
   - password-manager
 categories:
@@ -66,9 +66,23 @@ With that said, how do you enable the password re-prompt? Let me show you.
 
 **What you'll need:** The only things you need for this are a working instance of Bitwarded, either on a desktop or mobile device. The process also works on the web-based version. I'll demonstrate this on the desktop app, but the process is the same on all platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Bitwarden and unlock your vault
 
 The first thing to do is open the Bitwarden app and unlock your vault.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Open a vault item for editing
 
@@ -79,16 +93,10 @@ The edit button is the pencil directly to the right of the + button.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable the password re-prompt
@@ -106,16 +114,10 @@ Now, any time you want to view that password, you'll be prompted to type your Bi
 Keep going and add the re-prompt feature to any/all vault entries you believe need the extra layer of security. 
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A couple of extra steps
@@ -153,5 +155,24 @@ This may not stop unwanted users from copying and pasting your passwords, but it
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-cheapest-cosmic-storage-service-large-files-on-the-low/"><u>[New] 2024 Approved Cheapest Cosmic Storage Service Large Files on the Low</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-best-practices-in-adobe-captivate-for-videos/"><u>[Updated] In 2024, Best Practices in Adobe Captivate for Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instaboomtown-building-community-with-loop-videos-for-2024/"><u>[Updated] InstaBoomtown Building Community with Loop Videos for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-enhance-your-audio-remove-background-noise-with-wondershare-filmora/"><u>2024 Approved Enhance Your Audio Remove Background Noise With Wondershare Filmora</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-ignite-interest-essential-youtube-video-concepts/"><u>2024 Approved Ignite Interest Essential YouTube Video Concepts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-the-power-of-full-stack-ai-conversations-with-your-enterprises-leading-tech-guru-zdnet-insights/"><u>Harnessing the Power of Full-Stack AI: Conversations with Your Enterprise's Leading Tech Guru | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-rapid-expansion-in-tech-fuels-employee-burnout-strategies-for-change/"><u>How Rapid Expansion in Tech Fuels Employee Burnout - Strategies for Change</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/layering-youtube-vibes-on-video-canvases-for-2024/"><u>Layering YouTube Vibes on Video Canvases for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/m1-pro-to-m1-max-assessing-the-leap-in-apples-chip-design-for-2024/"><u>M1 Pro to M1 Max Assessing the Leap in Apple's Chip Design for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-new-frontier-the-rise-of-specialized-ai-oversight-positions-for-next-gen-software-teams-zdnet/"><u>Navigating the New Frontier: The Rise of Specialized AI Oversight Positions for Next-Gen Software Teams | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/pushing-boundaries-the-rise-of-lowno-code-platforms-and-their-impact-on-traditional-it-support/"><u>Pushing Boundaries: The Rise of Low/No-Code Platforms & Their Impact on Traditional IT Support</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-incoming-wave-of-ai-enabled-agent-ecosystems-transforming-tomorrows-market-services/"><u>The Incoming Wave of AI-Enabled 'Agent Ecosystems': Transforming Tomorrow's Market Services</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-role-of-multiple-ai-systems-in-business-success-understanding-the-trends-with-zdnets-analysis/"><u>The Role of Multiple AI Systems in Business Success: Understanding the Trends with ZDNET's Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-unseen-challenge-in-conversational-ai-stanford-highlights-english-centric-flaws-in-modern-chatbots-zdnet/"><u>The Unseen Challenge in Conversational AI: Stanford Highlights English-Centric Flaws in Modern Chatbots | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/thriving-with-ai-proven-tactics-for-professionals-in-tech-to-excel-at-work-during-an-era-of-automation-guided-by-industry-leaders-on-zdnet/"><u>Thriving with AI: Proven Tactics for Professionals in Tech to Excel at Work During an Era of Automation - Guided by Industry Leaders on ZDNET</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ultimate-free-download-managers-replacing-savefromnet-on-pc-and-mac-systems/"><u>Ultimate Free Download Managers Replacing SaveFrom.net on PC & Mac Systems</u></a></li>
+</ul></div>
 

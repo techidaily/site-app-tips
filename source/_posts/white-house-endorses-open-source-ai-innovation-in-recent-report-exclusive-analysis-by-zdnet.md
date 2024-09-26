@@ -1,7 +1,7 @@
 ---
 title: White House Endorses Open Source AI Innovation in Recent Report – Exclusive Analysis by ZDNet
-date: 2024-09-13T09:50:56.210Z
-updated: 2024-09-19T16:14:16.627Z
+date: 2024-09-24T01:39:15.156Z
+updated: 2024-09-26T03:23:41.119Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -92,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -165,5 +185,23 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-on-purging-stored-videos-from-youtube-watchlater/"><u>[New] 2024 Approved Guide on Purging Stored Videos From YouTube Watchlater</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-conciseness-in-content-editing-your-youtube-videos-smartly/"><u>[Updated] In 2024, Conciseness in Content Editing Your YouTube Videos Smartly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-3-updates-in-the-latest-version-of-linux-kernel-v69-technews/"><u>Best 3 Updates in the Latest Version of Linux Kernel v6.9 | TechNews</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-pova-5-pro-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Pova 5 Pro.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/could-microsofts-new-innovation-drive-you-crazy-or-will-it-surprise-and-delight-insights-from-zdnet/"><u>Could Microsoft's New Innovation Drive You Crazy, or Will It Surprise and Delight? Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/create-your-digital-twin-build-your-own-personal-ai-avatar-with-these-simple-steps-discover-the-future-of-interaction/"><u>Create Your Digital Twin: Build Your Own Personal AI Avatar with These Simple Steps – Discover the Future of Interaction</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-your-video-presentations-with-top-30-free-intra-makers-for-2024/"><u>Elevate Your Video Presentations with Top 30 Free Intra Makers for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi 13T Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-14-pro-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 14 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-self-cloning-craft-a-customized-ai-persona-for-enhanced-communication-learn-how-to-make-it-happen-today/"><u>Mastering Self-Cloning: Craft a Customized AI Persona for Enhanced Communication - Learn How to Make It Happen Today!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-through-youtubes-unwanted-green-mistakes/"><u>Navigating Through YouTube's Unwanted Green Mistakes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-drm-removal-from-ebooks-starting-on-page-1/"><u>Step-by-Step Guide: DRM Removal From eBooks - Starting on Page 1</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/step-by-step-tips-for-successful-snapchat-branding/"><u>Step-by-Step Tips for Successful Snapchat Branding</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-higher-output-with-the-programmer-approach-learn-from-dev-teams-zdnet/"><u>Unlocking Higher Output with the Programmer Approach - Learn From Dev Teams | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-low-code-tech-is-transforming-company-desirability-according-to-zdnet/"><u>Why Low-Code Tech Is Transforming Company Desirability, According to ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-professionals-prefer-windows-11-according-to-microsoft-and-zdnet-analysis/"><u>Why Professionals Prefer Windows 11, According to Microsoft & ZDNet Analysis</u></a></li>
+</ul></div>
 

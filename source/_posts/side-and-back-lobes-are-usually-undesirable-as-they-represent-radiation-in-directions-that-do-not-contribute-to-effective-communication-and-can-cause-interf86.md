@@ -1,7 +1,7 @@
 ---
 title: Side and Back Lobes Are Usually Undesirable as They Represent Radiation in Directions that Do Not Contribute to Effective Communication and Can Cause Interference.
-date: 2024-09-16T23:36:04.622Z
-updated: 2024-09-19T18:49:31.976Z
+date: 2024-09-23T17:42:11.052Z
+updated: 2024-09-26T08:53:30.535Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -92,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -165,5 +185,22 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-captivating-content-the-power-of-hashtagging-in-gaming-yt/"><u>[New] 2024 Approved Crafting Captivating Content The Power of Hashtagging in Gaming YT</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-make-your-content-stand-out-with-instagrams-procedural-slow-mo-journey/"><u>[New] In 2024, Make Your Content Stand Out with Instagram’s Procedural Slow Mo Journey</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dynamic-otter-transcription-in-teams-mode-a-comprehensive-guide-for-enhanced-virtual-collaboration/"><u>Dynamic Otter Transcription in Teams Mode: A Comprehensive Guide for Enhanced Virtual Collaboration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-vivaldis-new-inbuilt-email-feature-a-stunningly-excellent-addition/"><u>Experience Vivaldi's New Inbuilt Email Feature: A Stunningly Excellent Addition</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-enhancements-in-red-hats-newest-enterprise-linux-release-solutions-for-managing-hybrid-cloud-challenges/"><u>Exploring the Enhancements in Red Hat's Newest Enterprise Linux Release: Solutions for Managing Hybrid Cloud Challenges</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-recurring-pc-crashes-in-diablo-immortal-a-comprehensive-2024-guide/"><u>How to Resolve Recurring PC Crashes in Diablo Immortal: A Comprehensive 2024 Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-funimate-for-android-gamers-unlocking-the-apk-secret/"><u>In 2024, Funimate for Android Gamers - Unlocking the APK Secret</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-honor-magic-6-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Honor Magic 6 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-fixing-resetting-failed-in-windows-10-with-these-expert-hacks/"><u>Master the Art of Fixing 'Resetting Failed' In Windows 10 with These Expert Hacks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723964490170-sennheisers-high-end-hd-620s-audiophile-headphones-new-low-price-at-just-50/"><u>Sennheiser's High-End HD 지620S Audiophile Headphones: New Low Price at Just $50</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-elevating-your-pc-from-windows-home-to-professional-version/"><u>Step-by-Step Guide: Elevating Your PC From Windows Home to Professional Version</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-silent-davinci-resolve-projects-top-strategies-and-solutions/"><u>Troubleshooting Silent DaVinci Resolve Projects: Top Strategies and Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-free-vmware-productivity-your-step-by-step-tutorial-on-obtaining-personal-copies-of-fusion-pro-and-workstation-pro-zdnet-insights/"><u>Unlock Free VMware Productivity: Your Step-by-Step Tutorial on Obtaining Personal Copies of Fusion Pro and Workstation Pro | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-simplified-access-how-superduperdb-revolutionizes-ai-application-integration-insights-from-zdnet/"><u>Unlocking Simplified Access: How SuperDuperDB Revolutionizes AI Application Integration - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-global-tech-leaders-choose-open-source-for-breakthrough-innovations-zdnet/"><u>Why Global Tech Leaders Choose Open Source for Breakthrough Innovations | ZDNet</u></a></li>
+</ul></div>
 

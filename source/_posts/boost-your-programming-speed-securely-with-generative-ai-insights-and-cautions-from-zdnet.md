@@ -1,7 +1,7 @@
 ---
 title: Boost Your Programming Speed Securely with Generative AI - Insights and Cautions From ZDNet
-date: 2024-09-15T23:18:46.482Z
-updated: 2024-09-20T03:58:21.837Z
+date: 2024-09-18T18:36:32.525Z
+updated: 2024-09-25T20:36:48.322Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -92,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -171,5 +179,22 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-quick-and-cool-minecraft-abodes-guide/"><u>[Updated] 2024 Approved Quick and Cool Minecraft Abodes Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-top-5-secure-downloader-apps-for-fb-video-extraction/"><u>[Updated] In 2024, Top 5 Secure Downloader Apps for FB Video Extraction</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-instagram-reels-adding-your-own-soundtrack/"><u>[Updated] Mastering Instagram Reels Adding Your Own Soundtrack</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-non-root-android-audio-logging-step-by-step-for-2024/"><u>[Updated] Non-Root Android Audio Logging, Step by Step for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ultimate-12-screen-capture-tools-unlimited-recording/"><u>2024 Approved Ultimate 12 Screen Capture Tools (Unlimited Recording)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-apples-next-move-the-development-of-an-enhanced-security-operating-system-for-ai-infrastructure/"><u>Exploring Apple's Next Move: The Development of an Enhanced Security Operating System for AI Infrastructure</u></a></li>
+<li><a href="https://win-premium.techidaily.com/guide-on-how-to-enjoy-a-trial-of-spotify-premium-at-no-cost/"><u>Guide on How to Enjoy a Trial of Spotify Premium at No Cost</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-m54-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy M54 5G Phone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/on-the-go-bibliophiles-rejoice-kobo-clara-hd-the-ultimate-mobile-reading-solution/"><u>On-the-Go Bibliophiles Rejoice: Kobo Clara HD - The Ultimate Mobile Reading Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-renderer-startup-issues-with-the-latest-2021-corrections/"><u>Overcoming Renderer Startup Issues with the Latest 2021 Corrections</u></a></li>
+<li><a href="https://app-tips.techidaily.com/safeguard-firefox-stored-usernames-and-passwords-using-a-principal-key-tips-by-techexperts/"><u>Safeguard Firefox Stored Usernames and Passwords Using a Principal Key | Tips by TechExperts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-gateway-to-artificial-intelligence-made-simple-with-superduperdb-exclusive-analysis-by-zdnet/"><u>The Gateway to Artificial Intelligence Made Simple with SuperDuperDB – Exclusive Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-roadmap-for-artifice-intelligence-developments-over-the-next-ten-years-zdnet/"><u>The Roadmap for Artifice Intelligence Developments Over the Next Ten Years | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-trending-coding-languages-best-platforms-to-master-them-insights-from-zdnet/"><u>Top Trending Coding Languages : Best Platforms to Master Them - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/white-house-endorses-open-source-ai-innovation-in-recent-report-exclusive-analysis-by-zdnet/"><u>White House Endorses Open Source AI Innovation in Recent Report – Exclusive Analysis by ZDNet</u></a></li>
+</ul></div>
 

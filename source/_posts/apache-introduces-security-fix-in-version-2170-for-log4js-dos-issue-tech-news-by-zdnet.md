@@ -1,7 +1,7 @@
 ---
 title: Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet
-date: 2024-09-15T03:45:56.744Z
-updated: 2024-09-19T20:49:24.104Z
+date: 2024-09-23T16:23:08.715Z
+updated: 2024-09-26T05:39:16.455Z
 tags:
   - password-manager
 categories:
@@ -107,6 +107,13 @@ Close Modal Dialog
 
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### more Log4j
 
 * [Log4j zero-day: How to protect yourself](https://www.zdnet.com/article/log4j-zero-day-flaw-what-you-need-to-know-and-how-to-protect-yourself/)
@@ -180,12 +187,17 @@ The two went on to say that after looking at all publicly disclosed critical adv
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-secret-sound-scribes-hidden-audio-logging-for-mobile-devices/"><u>[Updated] 2024 Approved Secret Sound Scribes Hidden Audio Logging for Mobile Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-top-10-audio-alchemy-from-youtube-to-mp3-masters/"><u>[Updated] 2024 Approved Top 10 Audio Alchemy From YouTube to Mp3 Masters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-data-sanctuary-guide/"><u>[Updated] The Ultimate Data Sanctuary Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unleashing-instagrams-filter-power-free-searches-revealed/"><u>[Updated] Unleashing Instagram's Filter Power – Free Searches Revealed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192575-best-6-exceptional-contact-widget-apps-for-android-ranked/"><u>Best 6 Exceptional Contact Widget Apps for Android - Ranked</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194339-discover-the-top-15-no-cost-texting-solutions-for-your-android-device/"><u>Discover the Top 15 No-Cost Texting Solutions for Your Android Device!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-downloading-and-setup-the-comprehensive-guide-to-installing-epson-xp-410-drivers-on-windows/"><u>Easy Downloading & Setup: The Comprehensive Guide to Installing Epson XP-410 Drivers on Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-superior-free-fb-visual-storyteller-tool/"><u>In 2024, Superior Free FB Visual Storyteller Tool</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-game-console-emulators-for-superior-imagery-and-performance-top-picks-for-gamers/"><u>Leading Game Console Emulators for Superior Imagery & Performance: Top Picks for Gamers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-top-rated-mobile-phone-video-editing-software-with-kinemaster-features/"><u>Ultimate Guide: Top Rated Mobile Phone Video Editing Software with KineMaster Features</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet"
-date: 2024-09-18T05:01:22.046Z
-updated: 2024-09-20T01:43:08.196Z
+date: 2024-09-20T21:18:22.994Z
+updated: 2024-09-25T22:36:22.560Z
 tags:
   - password-manager
 categories:
@@ -111,6 +111,13 @@ Analysis of identity and access management (IAM) polices taking into account hun
 
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 * [Best VPN services](https://www.zdnet.com/article/best-vpn/)
@@ -127,6 +134,13 @@ According to the research, 99% of cloud users, services and resources provide ex
 Another practice that isn't helping IT departments is [poor password security](https://www.zdnet.com/article/were-still-making-terrible-choices-with-passwords-even-though-we-know-better/), with the majority of cloud accounts – 53% – allowing weak passwords consisting of under 14 characters, while 44% of cloud accounts allow the user to re-use a password that is linked to another account. 
 
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### special feature
 
@@ -145,10 +159,10 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -172,5 +186,19 @@ IT departments should also consider whether regular accounts need administrator 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-shooter-synergy-crafting-a-list-of-top-7-game-battles-for-2024/"><u>[New] Shooter Synergy Crafting a List of Top 7 Game Battles for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-your-journey-to-instagram-dominance-started-here-for-2024/"><u>[New] Your Journey to Instagram Dominance, Started Here for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-cyberlink-actiondirector-advantages-disadvantages-and-top-substitutes/"><u>Complete Guide to CyberLink ActionDirector: Advantages, Disadvantages & Top Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620191079-discover-the-ultimate-list-of-free-user-friendly-android-notes-applications-the-best-picks-you-need/"><u>Discover the Ultimate List of FREE, User-Friendly Android Notes Applications: The Best Picks You Need!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-xiaomi-14-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Xiaomi 14 Ultra to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-ensuring-tiktok-authenticity-pre-upload-rights-confirmation/"><u>In 2024, Ensuring TikTok Authenticity Pre-Upload Rights Confirmation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-mobile-apps-for-stunning-photo-capture-on-android-devices/"><u>Top 10 Mobile Apps for Stunning Photo Capture on Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-the-best-10-gif-maker-apps-for-your-iphone/"><u>Ultimate Guide: The Best 10 GIF Maker Apps for Your iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tips-for-easily-taking-screenshots-on-your-hp-computer/"><u>Ultimate Tips for Easily Taking Screenshots on Your HP Computer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unlocking-retro-titles-best-pc-emulators-for-ps1-games/"><u>Unlocking Retro Titles Best PC Emulators for PS1 Games</u></a></li>
+<li><a href="https://app-tips.techidaily.com/whatsapp-secrets-revealed-how-to-join-and-chat-with-others-even-if-you-dont-want-to-share-your-mobile-number/"><u>WhatsApp Secrets Revealed: How to Join and Chat with Others Even If You Don't Want to Share Your Mobile Number</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/1726030509149-5/"><u>オンライン動画連結の専門家から振り返る、今最も人気な5つのウェブサイト!</u></a></li>
+</ul></div>
 

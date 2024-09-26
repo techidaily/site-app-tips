@@ -1,7 +1,7 @@
 ---
 title: The Rising Role of Citizen Developers in Streamlining Corporate Tech Initiatives
-date: 2024-09-14T18:33:50.297Z
-updated: 2024-09-20T08:46:36.558Z
+date: 2024-09-25T07:41:13.261Z
+updated: 2024-09-26T07:46:06.005Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -92,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -165,5 +179,21 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-hue-harmony-three-straightforward-tips-to-upgrade-your-photos/"><u>[New] Hue Harmony Three Straightforward Tips to Upgrade Your Photos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-tactics-sourcing-high-quality-photo-and-video-backdrops/"><u>[New] Leading Tactics Sourcing High-Quality Photo & Video Backdrops</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-protecting-melodies-on-instagram/"><u>[New] Protecting Melodies on Instagram</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amazon-introduces-revolutionary-ai-performance-metric-the-next-gen-rag-system-unveiled-by-zdnet/"><u>Amazon Introduces Revolutionary AI Performance Metric: The Next-Gen RAG System Unveiled by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apples-leap-into-advanced-cybersecurity-an-inside-look-at-the-new-os-designed-for-artificial-intelligence-data-centers/"><u>Apple's Leap Into Advanced Cybersecurity: An Inside Look at the New OS Designed for Artificial Intelligence Data Centers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-fusing-visuals-with-acoustic-expressionism/"><u>In 2024, Fusing Visuals with Acoustic Expressionism</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-video-editor-for-mavericks-how-to-edit-videos-in-os-x-mavericks/"><u>In 2024, Video Editor for Mavericks How to Edit Videos in OS X Mavericks</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mac-avchdmkcwmvmp4/"><u>Mac用超萬能格式轉換器 - AVCHD、MKC、WMV、MP4快速變更</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-fbs-viral-hits-10-songs-that-scored-big-for-2024/"><u>Mastering FB's Viral Hits - 10 Songs That Scored Big for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/scaling-your-business-with-anthropics-revolutionary-claude-enterprise-unleashing-ai-power-on-a-massive-scale-zdnet/"><u>Scaling Your Business with Anthropic's Revolutionary Claude Enterprise: Unleashing AI Power on a Massive Scale | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/snowflake-unveils-advanced-llm-surpassing-metas-llama-3-with-reduced-training-data-tech-news/"><u>Snowflake Unveils Advanced LLM Surpassing Meta's LLaMA 3 with Reduced Training Data | Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-chaos-in-linux-and-open-source-manuals-uncovering-organized-solutions/"><u>Taming Chaos in Linux & Open Source Manuals: Uncovering Organized Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-linux-education-programs-training-and-bootcamp-overviews-from-leading-sources/"><u>Top-Ranked Linux Education Programs: Training and Bootcamp Overviews From Leading Sources</u></a></li>
+</ul></div>
 

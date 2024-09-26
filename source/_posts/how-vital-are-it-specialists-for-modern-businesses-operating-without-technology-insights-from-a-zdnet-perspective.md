@@ -1,7 +1,7 @@
 ---
 title: How Vital Are IT Specialists for Modern Businesses Operating Without Technology? Insights From a ZDNET Perspective
-date: 2024-09-17T06:22:55.207Z
-updated: 2024-09-20T00:08:26.231Z
+date: 2024-09-21T17:33:55.617Z
+updated: 2024-09-25T19:05:00.347Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -92,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -165,5 +179,23 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-revive-missing-social-media-watch-icon/"><u>[New] Revive Missing Social Media Watch Icon</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-embedding-youtube-content-in-slideshows/"><u>[Updated] Step-by-Step Embedding YouTube Content in Slideshows</u></a></li>
+<li><a href="https://games-able.techidaily.com/bringing-back-lost-ps5-game-access/"><u>Bringing Back Lost PS5 Game Access</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-solutions-to-tackle-the-starfield-cpu-usage-problem-insights/"><u>Comprehensive Solutions to Tackle the Starfield CPU Usage Problem: Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-password-managers-beyond-lastpass-zdnet/"><u>Discover the Ultimate Password Managers (Beyond LastPass) - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-passwordless-security-a-dual-review-of-top-password-managers-that-won-me-over-tech-insights/"><u>Exploring Passwordless Security: A Dual Review of Top Password Managers That Won Me Over | Tech Insights</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-sony-xperia-10-v-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-tecno-spark-go-2023-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Tecno Spark Go (2023)? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-step-by-step-guide-to-making-spectacular-slow-motion-images-for-instagram/"><u>In 2024, Step-by-Step Guide to Making Spectacular Slow Motion Images for Instagram</u></a></li>
+<li><a href="https://app-tips.techidaily.com/major-revamp-enhanced-security-and-features-in-the-latest-1password-app-for-smartphones/"><u>Major Revamp: Enhanced Security & Features in the Latest 1Password App for Smartphones!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pc-users-handbook-configuring-and-using-the-google-home-app-for-efficient-device-management/"><u>PC Users' Handbook: Configuring & Using the Google Home App for Efficient Device Management</u></a></li>
+<li><a href="https://app-tips.techidaily.com/projectweb-shutdown-announced-fujitsu-reacts-to-japans-government-data-leaks-insights-from-zdnet/"><u>ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/repeated-security-incidents-at-lastpass-latest-update-from-zdnet/"><u>Repeated Security Incidents at LastPass - Latest Update From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-exclusive-offer-on-pioneering-3-year-3d-password-manager-at-just-30-zdnet/"><u>Secure Your Digital Life: Exclusive Offer on Pioneering 3-Year 3D Password Manager at Just $30 | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-streams-why-stronger-passwords-mean-safer-viewing-techdigest/"><u>Secure Your Streams: Why Stronger Passwords Mean Safer Viewing | TechDigest</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-updating-minecrafts-core-game-client/"><u>Step-by-Step Fixes for Updating Minecraft's Core Game Client</u></a></li>
+</ul></div>
 

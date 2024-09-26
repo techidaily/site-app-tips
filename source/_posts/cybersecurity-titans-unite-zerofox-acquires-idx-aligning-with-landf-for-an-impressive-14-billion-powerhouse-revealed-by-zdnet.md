@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity Titans Unite! ZeroFox Acquires IDX, Aligning with L&F for an Impressive $1.4 Billion Powerhouse Revealed by ZDNet
-date: 2024-09-13T05:39:20.911Z
-updated: 2024-09-19T18:21:50.616Z
+date: 2024-09-21T10:26:33.487Z
+updated: 2024-09-25T16:18:41.137Z
 tags:
   - password-manager
 categories:
@@ -81,12 +81,33 @@ Adam Gerchen, CEO of LNFA and a new ZeroFox board member, noted that the company
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-fb-watch-icon-recovery-tips-and-tricks-for-2024/"><u>[New] FB Watch Icon Recovery - Tips and Tricks for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-quick-guide-downloading-tiktok-for-mac-users/"><u>[New] In 2024, Quick Guide Downloading TikTok for Mac Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-androids-top-12-virtual-creature-experiences/"><u>[Updated] In 2024, Android's Top 12 Virtual Creature Experiences</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-evaluating-zdsofts-prowess-in-screen-recorder-tech/"><u>[Updated] In 2024, Evaluating ZDSoft's Prowess in Screen Recorder Tech</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-journey-through-games-top-5-samsung-gear-vr-experiences/"><u>[Updated] Journey Through Games - Top 5 Samsung Gear VR Experiences</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-how-iphone-users-can-download-and-preserve-pdfs-from-whatsapp/"><u>Complete Tutorial: How iPhone Users Can Download and Preserve PDFs From WhatsApp</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/te-your-content-game-on-youtube-top-11-video-seo-insights-for-2024/"><u>Elevate Your Content Game on YouTube Top 11 Video SEO Insights for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-tips-for-retrieving-lost-whatsapp-data-on-ios-recover-texts-images-movies-and-sounds-easily/"><u>Expert Tips for Retrieving Lost WhatsApp Data on iOS - Recover Texts, Images, Movies & Sounds Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-a05-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy A05 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-cutting-edge-tips-designing-immersive-educational-videos-for-online-learning/"><u>In 2024, Cutting-Edge Tips Designing Immersive Educational Videos for Online Learning</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-and-effective-strategies-for-iphone-users-to-preserve-whatsapp-communications/"><u>Quick and Effective Strategies for iPhone Users to Preserve WhatsApp Communications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-your-messages-comprehensive-guide-on-recovering-whatsapp-backups-from-google-drive-on-ios-devices/"><u>Reviving Your Messages: Comprehensive Guide on Recovering WhatsApp Backups From Google Drive on iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamlessly-shifting-conversations-moving-whatsapp-information-from-android-devices-to-iphones/"><u>Seamlessly Shifting Conversations: Moving WhatsApp Information From Android Devices to iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-guide-capturing-your-whatsapp-video-calls-on-ios-android-and-pc/"><u>Simple Guide: Capturing Your WhatsApp Video Calls on iOS, Android, and PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-steps-to-seamlessly-download-audio-messages-from-whatsapp/"><u>Simple Steps to Seamlessly Download Audio Messages From WhatsApp</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-error-code-327-in-star-wars-battlefront-ii-a-comprehensive-fix-guide/"><u>Solving Error Code 327 in Star Wars Battlefront II: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-fixes-for-your-graphic-card-drivers-warning/"><u>Step-by-Step Fixes for Your Graphic Card Drivers Warning!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-whatsapp-video-conversion-apps-for-perfect-quality/"><u>The Ultimate Guide: Top WhatsApp Video Conversion Apps for Perfect Quality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-4-simple-methods-for-securing-your-whatsapp-chats-on-ios-devices/"><u>Top 4 Simple Methods for Securing Your WhatsApp Chats on iOS Devices</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

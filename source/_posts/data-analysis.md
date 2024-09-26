@@ -1,7 +1,7 @@
 ---
 title: Data Analysis
-date: 2024-09-12T23:54:47.072Z
-updated: 2024-09-19T16:27:01.673Z
+date: 2024-09-21T09:38:58.053Z
+updated: 2024-09-26T07:29:49.506Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -92,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -171,5 +179,19 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-reacting-when-youre-seen-in-a-video-on-fb-messenger/"><u>[New] 2024 Approved Reacting When You're Seen In a Video On FB Messenger</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-quadcopters-for-kids-and-playtime/"><u>[Updated] Best Quadcopters for Kids & Playtime</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-windows-movie-maker-the-ultimate-guide-to-youtube-video-production/"><u>[Updated] Windows Movie Maker The Ultimate Guide to YouTube Video Production</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-teams-efficiency-embrace-the-developer-mindset-zdnet/"><u>Boost Your Team's Efficiency: Embrace the Developer Mindset | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/choosing-the-right-user-account-for-windows-11-installation-tips-and-considerations/"><u>Choosing the Right User Account for Windows 11 Installation: Tips and Considerations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-best-queer-tv-programs-on-netflix-for-july-2023/"><u>Explore the Best Queer TV Programs on Netflix for July 2023</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-windows-11-end-of-life-in-one-year-explore-your-5-viable-alternatives-now-insights-from-zdnet/"><u>Facing Windows 11 End of Life in One Year? Explore Your 5 Viable Alternatives Now - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-from-virtual-speaker-to-reel-showman-fb-live-recording-tactics/"><u>In 2024, From Virtual Speaker to Reel Showman FB Live Recording Tactics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/instant-ai-action-agentgpt-in-your-browser/"><u>Instant AI Action: AgentGPT in Your Browser</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y100i-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y100i Phone FRP Lock</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/smart-choices-what-sets-great-game-computers-apart/"><u>Smart Choices: What Sets Great Game Computers Apart</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamlining-linux-and-oss-guidebooks-the-ultimate-strategy-revealed-by-zdnet/"><u>Streamlining Linux & OSS Guidebooks: The Ultimate Strategy Revealed by ZDNET</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Declutter Your Codebase: Fixing Disarray in Linux/Open Source Guides on ZDNet."
-date: 2024-09-17T18:13:54.034Z
-updated: 2024-09-19T17:03:21.636Z
+date: 2024-09-24T10:11:16.231Z
+updated: 2024-09-25T21:54:45.212Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -76,6 +83,13 @@ Stat Counter/ZDNET
 That purple line at the top of the chart is Windows 10, and the blue line far below it is Windows 11\. Now, I have my issues with StatCounter's metrics, a topic [I have not been shy about discussing](https://www.zdnet.com/article/net-market-share-vs-statcounter-whose-online-measurements-can-you-trust/) over the years. But I think the broad strokes of this data are probably accurate. 
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
@@ -165,5 +179,18 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-fix-quiet-tweets-with-youtube-links/"><u>[New] 2024 Approved Fix Quiet Tweets with YouTube Links</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-mastering-fb-status-video-downloads-a-2023-guide/"><u>[New] 2024 Approved Mastering FB Status Video Downloads A 2023 Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-guide-to-iphone-voice-recording-techniques/"><u>[New] In 2024, Essential Guide to iPhone Voice Recording Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-pip-functionality-in-apples-browsers/"><u>[New] Navigating PIP Functionality in Apple's Browsers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-laughing-made-easy-the-zero-cost-meme-kit/"><u>[Updated] In 2024, Laughing Made Easy – The Zero-Cost Meme Kit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mxfmpg/"><u>無料で楽に変換: MXFフォーマットからMPGへの簡単なステップバイステップガイド</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-beyond-ai-boundaries-the-call-of-an-ai-scientist-on-thinking-differently/"><u>Exploring Beyond AI Boundaries - The Call of an AI Scientist on Thinking Differently</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-14-ultra-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://app-tips.techidaily.com/regulatory-compliance/"><u>Regulatory Compliance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/status-of-microsofts-previous-promotion-for-a-complimentary-windows-10-installation/"><u>Status of Microsoft's Previous Promotion for a Complimentary Windows 10 Installation!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-changing-landscape-for-software-engineers-perspectives-by-atlassians-agnes-ro-on-zdnet/"><u>The Changing Landscape for Software Engineers: Perspectives by Atlassian's Agnes Ro on ZDNet</u></a></li>
+</ul></div>
 
