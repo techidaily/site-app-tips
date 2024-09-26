@@ -90,23 +90,7 @@ Fowler said it was unclear how long the database had been exposed and who else m
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-downloadsave-instagram-reels-video-in-2-ways/"><u>[New] 2024 Approved How to Download/Save Instagram Reels Video in 2 Ways</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-step-by-step-guide-downloading-and-installing-obs-for-macos-for-2024/"><u>[New] Step-by-Step Guide Downloading & Installing OBS for macOS for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-podcasting-from-afar-a-guide/"><u>[Updated] 2024 Approved Podcasting From Afar A Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-actionable-tips-on-how-to-post-on-reddit-step-by-step-guide/"><u>[Updated] Actionable Tips On How to Post on Reddit - Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/calculating-20mb-video-length-in-secs/"><u>Calculating 20MB Video Length in Secs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhanced-mobile-device-management-on-android-leveraging-advanced-tools/"><u>Enhanced Mobile Device Management on Android: Leveraging Advanced Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193252-experience-endless-possibilities-access-free-cracked-applications-for-ios-and-android-via-appcake-today/"><u>Experience Endless Possibilities: Access Free, Cracked Applications for iOS & Android via AppCake Today</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-tecno-spark-20-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Tecno Spark 20 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/instant-access-to-acers-official-bluetooth-software/"><u>Instant Access to Acer's Official Bluetooth Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-your-ps5-dualsense-charger-issues-expert-advice-and-tips/"><u>Solving Your PS5 DualSense Charger Issues: Expert Advice & Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-photographers-resource-efficient-online-photo-cropping-for-2024/"><u>The Photographer's Resource Efficient Online Photo Cropping for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-2-apps-for-effortless-iphone-reflection-on-televisions-and-desktops/"><u>The Ultimate Guide: Top 2 Apps for Effortless iPhone Reflection on Televisions and Desktops</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-messaging-apps-compatible-with-iphone-and-android-finding-the-perfect-one/"><u>Top Rated Messaging Apps Compatible with iPhone & Android: Finding the Perfect One</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-ultimate-convenience-and-safety-on-ios-discover-the-premier-password-protector-app/"><u>Unlock Ultimate Convenience & Safety on iOS - Discover the Premier Password Protector App</u></a></li>
-</ul></div>
+
 
 <!-- affiliate ads begin -->
 <span id="1424528">

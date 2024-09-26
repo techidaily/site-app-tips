@@ -80,18 +80,7 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/ownload-premium-video-covers-free-fast-and-easy/"><u>[New] Download Premium Video Covers - Free, Fast & Easy!</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unleashing-your-creativity-advanced-techniques-for-boomers/"><u>[Updated] Unleashing Your Creativity Advanced Techniques for Boomers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/5-advanced-ai-solutions-dominating-the-market-in-automatic-video-editing-technology/"><u>5 Advanced AI Solutions Dominating the Market in Automatic Video Editing Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-top-8-unrestricted-character-ais-expert-options-without-limitations/"><u>Discover Top 8 Unrestricted Character AIs: Expert Options Without Limitations</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-y200e-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo Y200e 5G FRP</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oneplus-open-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From OnePlus Open to iPhone | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/innovative-model-conversion-from-text-to-video-within-hugging-faces-collaborative-ecosystem/"><u>Innovative Model Conversion From Text to Video Within Hugging Face's Collaborative Ecosystem</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-definitive-handbook-to-reacting-on-youtube-tweets-for-2024/"><u>The Definitive Handbook to Reacting on YouTube Tweets for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-resume-writing-process-using-chatgpt-techniques/"><u>Transform Your Resume Writing Process Using ChatGPT Techniques</u></a></li>
-</ul></div>
+
 
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
