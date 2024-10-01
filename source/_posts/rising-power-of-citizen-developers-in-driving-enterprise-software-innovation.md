@@ -1,7 +1,7 @@
 ---
 title: Rising Power of Citizen Developers in Driving Enterprise Software Innovation
-date: 2024-09-23T00:23:37.248Z
-updated: 2024-09-26T03:12:05.637Z
+date: 2024-09-25T02:52:22.984Z
+updated: 2024-10-01T10:57:46.672Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +181,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-step-by-step-tutorial-designing-striking-video-thumbnails-for-social-media-success/"><u>[New] 2024 Approved Step-by-Step Tutorial Designing Striking Video Thumbnails for Social Media Success</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-screentogif-facebook-mobile-video/"><u>[Updated] 2024 Approved ScreenToGif Facebook Mobile Video</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-differences-between-igtv-and-youtube-for-effective-posts/"><u>[Updated] In 2024, Exploring Differences Between IGTV and YouTube for Effective Posts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-windows-11-videography-selecting-best-apps/"><u>[Updated] Windows 11 Videography Selecting Best Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-expanding-rocketchat-capabilities-a-guide-to-integrating-powerful-applications/"><u>1. Expanding Rocket.Chat Capabilities: A Guide to Integrating Powerful Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2022s-leading-hyperconverged-systems-vendors-comprehensive-analysis-and-reviews-on-zdnet/"><u>2022'S Leading Hyperconverged Systems Vendors: Comprehensive Analysis and Reviews on ZDNET</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-transform-fb-video-files-into-mp4-directly/"><u>2024 Approved Transform FB Video Files Into MP4 Directly</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beamforming-techniques-enable-antenna-arrays-to-direct-energy-towards-specific-users-or-locations-enhancing-signal-strength-and-reducing-interference-in-tho83/"><u>Beamforming Techniques Enable Antenna Arrays to Direct Energy Towards Specific Users or Locations, Enhancing Signal Strength and Reducing Interference in Those Areas.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-leading-mac-applications-of-202amoeba-the-intriguing-life-cycle-of-paramecia-by-dr-emily-waters/"><u>Discover the Leading Mac Applications of 202Amoeba: The Intriguing Life Cycle of Paramecia by Dr. Emily Waters</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-pc-with-windows-home-to-pro-a-step-by-step-guide-and-benefits-techexplorer/"><u>Elevate Your PC with Windows Home to Pro: A Step-by-Step Guide and Benefits | TechExplorer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/eminent-linux-professionals-support-ciq-in-launch-of-new-rocky-linux-distribution/"><u>Eminent Linux Professionals Support CIQ in Launch of New Rocky Linux Distribution</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-enhanced-ai-workload-management-in-recent-kubernetes-update-key-features-unveiled/"><u>Exploring Enhanced AI Workload Management in Recent Kubernetes Update: Key Features Unveiled</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/go-big-or-go-home-selecting-the-most-satisfying-1tbplus-cloud-services-for-2024/"><u>Go Big or Go Home - Selecting the Most Satisfying 1TB+ Cloud Services for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/lowering-sound-gradually-a-logic-pro-method/"><u>Lowering Sound Gradually A Logic Pro Method</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-through-the-api-agreement-for-abbyys-flexicapture-cloud-your-comprehensive-guide-to-data-archive-services/"><u>Navigating Through the API Agreement for ABBYY's FlexiCapture Cloud - Your Comprehensive Guide to Data Archive Services</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-future-in-tech-lessons-and-strategies-from-the-aerospace-giant-boeing-zdnet-exclusive-interview/"><u>Securing Your Future in Tech: Lessons and Strategies From the Aerospace Giant, Boeing | ZDNET Exclusive Interview</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-to-connecting-email-services-with-onlyoffice-for-enhanced-collaboration/"><u>Step-by-Step Guide to Connecting Email Services with ONLYOFFICE for Enhanced Collaboration</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-setting-preferred-explorer-views-on-folders-and-subfolders/"><u>Ultimate Guide: Setting Preferred Explorer Views on Folders & Subfolders</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-what-actions-can-i-take-if-my-content-is-swiftly-stripped-by-fb/"><u>[New] In 2024, What Actions Can I Take if My Content Is Swiftly Stripped by FB?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-pc-and-macs-premier-screen-capture-tools-ranked-for-2024/"><u>[New] PC & Mac's Premier Screen Capture Tools Ranked for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-the-norm-a-review-of-the-4kcg318-display-by-eizo-for-2024/"><u>Beyond the Norm A Review of the 4KCG318 Display by EIZO for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/detailed-video-capture-using-videoleap-tools-for-2024/"><u>Detailed Video Capture Using Videoleap Tools for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/digital-privacy-empowerment-unlocking-anonymity-as-a-key-asset-for-modern-remote-teams-zdnet/"><u>Digital Privacy Empowerment: Unlocking Anonymity as a Key Asset for Modern Remote Teams | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-tech-adopts-ops-approach-amidst-growing-pains-and-opportunities-for-innovation/"><u>Enterprise Tech Adopts 'Ops' Approach Amidst Growing Pains and Opportunities for Innovation</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eradicate-printer-errors-on-windows-10-pc/"><u>Eradicate Printer Errors on Windows 10 PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-a-tech-career-journey-with-wisdom-from-the-top-of-the-aeronautics-world-analyzed-on-zdnet/"><u>Navigating a Tech Career Journey with Wisdom From the Top of the Aeronautics World | Analyzed on ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/recognizing-and-repairing-a-guide-to-diagnosing-a-hot-computer-processor/"><u>Recognizing & Repairing: A Guide to Diagnosing a Hot Computer Processor</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-marketing-adobes-new-generation-of-ai-powered-creative-tools-unveiled/"><u>Revolutionizing Marketing: Adobe's New Generation of AI-Powered Creative Tools Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-on-implementing-send-later-option-in-thunderbird-mail-clients-zdnet/"><u>Step-by-Step Tutorial on Implementing 'Send Later' Option in Thunderbird Mail Clients (ZDNet)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-sound-integration-into-premiere-pro-edits-for-2024/"><u>Streamline Sound Integration Into Premiere Pro Edits for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-most-affordable-cloud-vendors-listed/"><u>Top 10 Most Affordable Cloud Vendors Listed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-sql-programming-classes-expert-reviews-of-the-best-online-learning-options/"><u>Top-Rated SQL Programming Classes: Expert Reviews of the Best Online Learning Options</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-revolutionizing-communication-real-time-ai-voice-changer/"><u>Updated Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-coursera-unveils-new-skill-level-evaluation-with-proficiency-testing/"><u>ZDNet: Coursera Unveils New Skill-Level Evaluation with Proficiency Testing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-guide-to-the-most-effective-crm-systems-in-2vee-a-2022-selection-tailored-for-smb-success/"><u>ZDNET's Guide to the Most Effective CRM Systems in 2Vee: A 2022 Selection Tailored for SMB Success</u></a></li>
 </ul></div>
 

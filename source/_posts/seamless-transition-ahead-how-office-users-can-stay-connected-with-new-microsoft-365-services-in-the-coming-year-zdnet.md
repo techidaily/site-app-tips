@@ -1,7 +1,7 @@
 ---
 title: "Seamless Transition Ahead: How Office Users Can Stay Connected With New Microsoft 365 Services in the Coming Year | ZDNet"
-date: 2024-09-18 18:55:41
-updated: 2024-09-20 10:38:16
+date: 2024-09-28T04:13:00.089Z
+updated: 2024-09-30T17:39:44.281Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-record-and-share-moments-instantly-using-vlcs-webcam-recorder/"><u>[New] 2024 Approved Record & Share Moments Instantly Using VLC's Webcam Recorder</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exploring-biggest-fifa-footage-trends-in-graphics-for-2024/"><u>[New] Exploring Biggest FIFA Footage Trends in Graphics for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-unraveling-vloggers-terrors-and-techniques-to-triumph/"><u>[New] In 2024, Unraveling Vloggers' Terrors and Techniques to Triumph</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-guide-to-downloading-gifs-a-step-by-step-approach/"><u>[New] Twitter's Guide to Downloading GIFs A Step-by-Step Approach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-find-your-dream-free-vfx-alternative-top-30-sites-explored-deeply/"><u>2024 Approved Find Your Dream Free VFX Alternative - Top 30 Sites Explored Deeply</u></a></li>
+<li><a href="https://app-tips.techidaily.com/breaking-news-major-flaw-detected-and-fixed-in-essential-linux-utility-curl-in-depth-analysis-available-at-zdnet/"><u>Breaking News: Major Flaw Detected and Fixed in Essential Linux Utility 'Curl' – In-Depth Analysis Available at ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/crafting-your-path-in-technology-insights-from-an-industry-giant-the-aerospace-sector-explored-by-zdnet/"><u>Crafting Your Path in Technology: Insights From an Industry Giant - The Aerospace Sector Explored by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-growth-surge-how-openstack-and-kata-containers-regain-popularity-among-businesses-zdnet-insights/"><u>Exploring the Growth Surge: How OpenStack & Kata Containers Regain Popularity Among Businesses | ZDNet Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/has-windows-subsystem-for-linux-helped-linux-gain-desktop-market-share/"><u>Has Windows Subsystem for Linux Helped Linux Gain Desktop Market Share?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-diving-into-viral-video-dialogues/"><u>In 2024, Diving Into Viral Video Dialogues</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-in-linux-and-free-tech-docs-unveiling-the-clear-path-to-clarity/"><u>Organizing Chaos in Linux & Free Tech Docs: Unveiling The Clear Path to Clarity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-popularity-of-ops-transforming-it-landscapes-and-introducing-fresh-challenges-insights-from-tech-giants/"><u>Rising Popularity of 'Ops': Transforming IT Landscapes and Introducing Fresh Challenges - Insights From Tech Giants</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/seamless-video-to-photo-conversion-for-windows-users/"><u>Seamless Video-to-Photo Conversion for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-mastering-the-art-of-video-downloads-on-videobin/"><u>Step-by-Step Tutorial: Mastering the Art of Video Downloads on Videobin</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-crucial-role-of-it-departments-in-shaping-modern-customer-journeys-a-perspective-by-zdnet/"><u>The Crucial Role of IT Departments in Shaping Modern Customer Journeys: A Perspective by ZDNet</u></a></li>
+</ul></div>
+

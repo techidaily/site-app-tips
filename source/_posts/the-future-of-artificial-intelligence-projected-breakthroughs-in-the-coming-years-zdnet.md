@@ -1,7 +1,7 @@
 ---
 title: "The Future of Artificial Intelligence: Projected Breakthroughs in the Coming Years - ZDNet"
-date: 2024-09-20T05:50:57.147Z
-updated: 2024-09-25T16:22:48.749Z
+date: 2024-09-24T05:05:58.263Z
+updated: 2024-09-30T23:44:25.154Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +181,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-advanced-cropping-and-focus-mastery/"><u>[Updated] Advanced Cropping and Focus Mastery</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-designing-the-ideal-youtube-playlist-for-you-for-2024/"><u>[Updated] Designing the Ideal YouTube Playlist for You for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-innovative-strategies-to-optimize-youtube-edits-after-upload/"><u>[Updated] Innovative Strategies to Optimize YouTube Edits After Upload</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/balance-als-schlussel-zur-unternehmensstabilitat-in-der-it-welt-entdecken-sie-die-power-von-zoom/"><u>Balance Als Schlüssel Zur Unternehmensstabilität in Der IT Welt - Entdecken Sie Die Power Von Zoom</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-the-best-elearning-software-of-2023-detailed-comparisons-and-insights-zdnet/"><u>Explore the Best eLearning Software of 2023 - Detailed Comparisons and Insights | ZDNet</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Nokia 105 Classic? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-confirms-engineers-enthusiasm-for-windows-11-insights-from-zdnet/"><u>Microsoft Confirms Engineers' Enthusiasm for Windows 11: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/resending-deleted-messages-in-microsoft-outlook-a-step-by-step-guide-techradar/"><u>Resending Deleted Messages in Microsoft Outlook: A Step-by-Step Guide - TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simplify-development-enhance-hiring-potential-the-power-of-low-code-technologies-in-recruitment/"><u>Simplify Development, Enhance Hiring Potential - The Power of Low-Code Technologies in Recruitment</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719579728851-top-3-linguistic-hubs-swift-multilingual-mastery-awaits/"><u>Top 3 Linguistic Hubs: Swift Multilingual Mastery Awaits</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-7-critical-accounts-for-enhanced-security-with-dual-layered-verification/"><u>Top 7 Critical Accounts for Enhanced Security with Dual-Layered Verification</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranking-screen-capture-tools-and-applications-a-comprehensive-review-by-zdnet/"><u>Top-Ranking Screen Capture Tools & Applications - A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-security-flaw-exposed-in-linuxs-essential-curl-utility-with-immediate-patch-available-report-by-zdnet/"><u>Urgent Security Flaw Exposed in Linux's Essential Curl Utility, with Immediate Patch Available | Report by ZDNET</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-quick-start-method-for-combining-obs-and-zoom/"><u>[New] In 2024, The Quick-Start Method for Combining OBS & Zoom</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-task-mastery-top-picks-for-efficient-calendar-management-in-fb-for-2024/"><u>[New] Task Mastery Top Picks for Efficient Calendar Management in FB for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-tunefab-revolutionizing-the-art-of-video-capture/"><u>[Updated] In 2024, Tunefab Revolutionizing the Art of Video Capture</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-picart-hack-keep-identities-unseen-for-2024/"><u>[Updated] PicArt Hack Keep Identities Unseen for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-gt-neo-5-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme GT Neo 5? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/before-your-windows-10-becomes-unsupported-top-5-options-revealed-by-zdnet/"><u>Before Your Windows 10 Becomes Unsupported: Top 5 Options Revealed by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-what-sets-macos-sonoma-apart-key-updates-and-tips-explored-by-experts-at-zdnet/"><u>Discover What Sets macOS Sonoma Apart: Key Updates and Tips Explored by Experts at ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/has-microsoft-retracted-its-promise-of-a-complimentary-windows-11-update-promotion-tech-news/"><u>Has Microsoft Retracted Its Promise of a Complimentary Windows 11 Update Promotion? | Tech News</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-photoshop-fundamentals-a-beginners-guide-to-simple-image-editing-techniques/"><u>Mastering Photoshop Fundamentals: A Beginner's Guide to Simple Image Editing Techniques</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-c210-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for C210</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-repairing-incompatibility-issues-between-your-app-and-pc/"><u>The Ultimate Guide to Repairing Incompatibility Issues Between Your App and PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-ultimate-list-of-ios-compatible-fb-videos-downloader-apps-for-2024/"><u>The Ultimate List of iOS-Compatible FB Videos Downloader Apps for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-accounting-solutions-of-2022-find-your-ideal-match-today/"><u>Top Rated Accounting Solutions of 2022: Find Your Ideal Match Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-support-ending-soon-discover-your-5-last-options-with-expert-insights-from-zdnet/"><u>Windows 11 Support Ending Soon? Discover Your 5 Last Options with Expert Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-defender-essentials-a-guide-to-securing-personal-and-smb-computers/"><u>Windows Defender Essentials: A Guide to Securing Personal & SMB Computers</u></a></li>
 </ul></div>
 

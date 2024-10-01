@@ -1,7 +1,7 @@
 ---
 title: Emerging Trends in Developer Careers & Popular Coding Languages - Exploring the Future of Tech with ZDNet
-date: 2024-09-19 17:16:27
-updated: 2024-09-20 11:16:50
+date: 2024-09-26T02:13:42.481Z
+updated: 2024-10-01T04:52:49.090Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-practical-methods-reflecting-video-via-vlc-software/"><u>[New] 2024 Approved Practical Methods Reflecting Video via VLC Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-optimize-your-online-store-top-15-tools-for-social-media-insight-and-sales-analysis/"><u>[New] Optimize Your Online Store Top 15 Tools for Social Media Insight and Sales Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-insights-into-mov-file-recording-on-latest-win-11-edition-for-2024/"><u>[Updated] Expert Insights Into .MOV File Recording on Latest Win 11 Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-gamers-roadmap-navigating-a-successful-youtube-channel/"><u>[Updated] The Gamers' Roadmap Navigating a Successful YouTube Channel</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-enhancing-focus-zoom-expertise-in-google-meet/"><u>2024 Approved Enhancing Focus Zoom Expertise in Google Meet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-in-code-creation-exploring-which-is-more-effective-github-copilot-or-chatgpt/"><u>AI in Code Creation: Exploring Which Is More Effective, GitHub Copilot or ChatGPT?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-your-companys-safety-start-with-individual-protection-strategies-insights-from-zdnet/"><u>Enhance Your Company's Safety: Start with Individual Protection Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-truth-behind-crypto-anonymity-a-deep-dive-into-a-groundbreaking-study/"><u>Exploring the Truth Behind Crypto Anonymity – A Deep Dive Into a Groundbreaking Study</u></a></li>
+<li><a href="https://app-tips.techidaily.com/forgetting-passwords-fuels-growing-demand-for-biometric-security-solutions/"><u>Forgetting Passwords Fuels Growing Demand for Biometric Security Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guarding-againnst-stealthy-cryptocurrency-miners-safe-torrenting-tips-for-spider-man-no-way-home-with-advice-by-zdnet-experts/"><u>Guarding Againnst Stealthy Cryptocurrency Miners: Safe Torrenting Tips for 'Spider-Man: No Way Home' With Advice by ZDNet Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-streamline-friend-management-remove-multiple-snaps-in-one-go/"><u>How To Streamline Friend Management: Remove Multiple Snaps in One Go!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-12-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 12 Lock Screen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-y02t-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo Y02T Is Unlocked</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-xiaomi-redmi-12-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Xiaomi Redmi 12 Android SIM Unlock APK</u></a></li>
+<li><a href="https://app-tips.techidaily.com/instagram-examining-the-questions-of-trust-and-authenticity/"><u>Instagram: Examining the Questions of Trust and Authenticity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/proofpoint-reveals-how-cybercriminals-exploit-fans-desire-for-justin-bieber-and-the-weeknd-events-to-propagate-malware/"><u>Proofpoint Reveals How Cybercriminals Exploit Fans' Desire for Justin Bieber & The Weeknd Events to Propagate Malware</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-devices-with-ease-apples-new-passkey-revealed-at-wwdc-zdnet-insights/"><u>Secure Your Devices with Ease: Apple's New Passkey Revealed at WWDC | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-biometrics-as-users-struggle-with-password-fatigue-insights-from-zdnet-analysis/"><u>The Rise of Biometrics as Users Struggle with Password Fatigue: Insights From ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-protection-solution-from-security-expert-targets-log4j-exploits-in-hardware-locked-out-of-updates-zdnet/"><u>Urgent Protection Solution From Security Expert Targets Log4j Exploits in Hardware Locked Out of Updates | ZDNet</u></a></li>
+</ul></div>
+

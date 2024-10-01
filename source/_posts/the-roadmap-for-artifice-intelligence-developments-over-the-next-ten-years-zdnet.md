@@ -1,7 +1,7 @@
 ---
 title: The Roadmap for Artifice Intelligence Developments Over the Next Ten Years | ZDNet
-date: 2024-09-23T23:56:40.475Z
-updated: 2024-09-26T04:44:05.472Z
+date: 2024-09-29T00:02:27.252Z
+updated: 2024-10-01T04:21:04.567Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,21 +181,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-record-to-remember-top-5-best-tools-for-virtual-meeting-capture/"><u>[New] 2024 Approved Record to Remember Top 5 Best Tools for Virtual Meeting Capture</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-views-degrees-of-rotation-on-youtube-a-2023-guide-for-2024/"><u>[New] Elevate Your Views Degrees of Rotation on YouTube - A 2023 Guide for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-company-appeal-with-low-code-solutions-insights-from-zdnet/"><u>Enhancing Company Appeal with Low-Code Solutions: Insights From ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/express-more-with-emojis-how-to-use-gifs-in-your-comments-on-instagram/"><u>Express More with Emojis: How to Use GIFs in Your Comments on Instagram</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-overcome-windows-10-full-screen-grayscale-problem-solutions-and-tricks/"><u>How to Overcome Windows 10 Full-Screen Grayscale Problem – Solutions & Tricks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-12-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on 12</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leveraging-artificer-intelligence-the-next-gen-kubernetes-update-revealed-infotech-today/"><u>Leveraging Artificer Intelligence: The Next-Gen Kubernetes Update Revealed | InfoTech Today</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-recall-understanding-why-it-isnt-the-ultimate-privacy-disaster-top-7-insights-to-ease-your-concerns-zdnet/"><u>Microsoft Recall: Understanding Why It Isn't the 'Ultimate Privacy Disaster' – Top 7 Insights to Ease Your Concerns | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/stay-organized-with-slackbot-your-ultimate-tutorial-for-setting-effective-reminders-in-slack/"><u>Stay Organized with Slackbot: Your Ultimate Tutorial for Setting Effective Reminders in Slack</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-upgrades-user-friendly-features-in-latest-data-recovery-tool-release/"><u>Stellar Upgrades User-Friendly Features in Latest Data Recovery Tool Release</u></a></li>
-<li><a href="https://app-tips.techidaily.com/streamline-team-collaboration-with-to-do-list-functionality-in-slack-expert-tips-from-zdnet/"><u>Streamline Team Collaboration with To-Do List Functionality in Slack | Expert Tips From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-zero-code-development-how-generative-ai-is-transforming-the-future-beyond-low-code/"><u>The Rise of Zero-Code Development: How Generative AI Is Transforming the Future Beyond Low-Code</u></a></li>
-<li><a href="https://facebook.techidaily.com/what-countries-have-banned-the-worlds-most-popular-site-facebook/"><u>What Countries Have Banned the World’s Most Popular Site, Facebook?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-reveals-ai-project-expansion-explodes-to-ten-times-more-this-past-year-study-finds/"><u>ZDNet Reveals AI Project Expansion Explodes to Ten Times More This Past Year - Study Finds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellent-2024-cloud-apps-for-seamless-data-transfer-on-android/"><u>[New] Excellent 2024 Cloud Apps for Seamless Data Transfer on Android</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-maximizing-youtube-exposure-with-ongoing-creative-commons-compliance/"><u>[New] In 2024, Maximizing YouTube Exposure with Ongoing Creative Commons Compliance</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-resolve-vanished-watch-video-icon-issue-2023/"><u>[New] In 2024, Resolve Vanished Watch Video Icon Issue, 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-live-stream-to-high-fidelity-choosing-budget-friendly-wav-tools/"><u>[Updated] In 2024, From Live Stream to High Fidelity Choosing Budget-Friendly WAV Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-quick-techniques-for-documenting-youtube-videos/"><u>[Updated] Quick Techniques for Documenting YouTube Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-secrets-of-apples-latest-innovation-the-passkey-announcement-at-worldwide-developers-conference-2022-insider-report/"><u>Exploring the Secrets of Apple's Latest Innovation: The Passkey Announcement at Worldwide Developers Conference 2022 | Insider Report</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-smart-8-plus-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Smart 8 Plus for Free? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-protonpass-the-latest-innovation-in-privacy-focused-password-storage-with-full-end-to-end-security/"><u>Introducing ProtonPass: The Latest Innovation in Privacy-Focused Password Storage with Full End-to-End Security</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-1password-leading-the-pack-expert-evaluation-of-premium-digital-key-management-solutions-by-zdnet/"><u>Is 1Password Leading the Pack? Expert Evaluation of Premium Digital Key Management Solutions by ZDNET</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/pixel-perfect-review-amd-radeon-for-2024/"><u>Pixel Perfect Review AMD Radeon for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-your-privacy-avoid-hidden-crypto-mining-risks-while-downloading-spider-man-no-way-home-using-bittorrent-insights-from-zdnet/"><u>Protect Your Privacy: Avoid Hidden Crypto Mining Risks While Downloading Spider-Man: No Way Home Using BitTorrent - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/slash-your-costs-secure-a-whopping-50-discount-on-dashlanes-elite-password-manager-now/"><u>Slash Your Costs: Secure a Whopping 50% Discount on Dashlane's Elite Password Manager - Now!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-igdkmd64sys-fix-blue-screen-for-windows-11-users/"><u>Winning the Battle Against IGDKMD64.sys - Fix Blue Screen for Windows 11 Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: MIMO Systems Leverage Antenna Arrays to Multiply the Capacity of Wireless Channels by Transmitting Different Data Streams over Multiple Spatial Paths Simultaneously.
-date: 2024-09-17 23:55:10
-updated: 2024-09-20 11:25:56
+date: 2024-09-26T18:35:53.804Z
+updated: 2024-10-01T09:19:34.529Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,28 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-best-5-headsets-a-youtube-gamers-guide/"><u>[New] 2024 Approved Best 5 Headsets A YouTube Gamer's Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-top-8-subtitle-converters-speed-up-your-video-production-from-sub-to-quickly-released-srtr-format/"><u>[New] 2024 Approved Top 8 Subtitle Converters Speed Up Your Video Production - From SUB to Quickly-Released SRTR Format</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-memes-for-iphone/"><u>[New] Memes for iPhone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-getting-ahead-with-professional-itunes-capture-methods/"><u>[Updated] 2024 Approved Getting Ahead with Professional iTunes Capture Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-extensive-review-the-hero4-black-journey/"><u>[Updated] Extensive Review The Hero4 Black Journey</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apples-leap-into-advanced-cybersecurity-an-inside-look-at-the-new-os-designed-for-artificial-intelligence-data-centers/"><u>Apple's Leap Into Advanced Cybersecurity: An Inside Look at the New OS Designed for Artificial Intelligence Data Centers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-infinix-hot-30-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Infinix Hot 30 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-asus-rog-phone-7-ultimate-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-journey-successful-strategies-for-upgrading-to-ubuntu-linux-2404-insights-from-zdnet/"><u>Navigating the Journey: Successful Strategies for Upgrading to Ubuntu Linux 24.04 - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/profit-from-publishing-shopping-reviews-for-2024/"><u>Profit From Publishing Shopping Reviews for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-accessing-heic-images-on-your-windows-10-or-11-desktop/"><u>Step-by-Step Guide: Accessing HEIC Images on Your Windows 10 or 11 Desktop</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-chaos-in-linux-and-open-source-manuals-uncovering-organized-solutions/"><u>Taming Chaos in Linux & Open Source Manuals: Uncovering Organized Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-the-wild-expert-strategies-for-cleaner-linux-and-open-source-documentation/"><u>Taming the Wild: Expert Strategies for Cleaner Linux and Open Source Documentation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-expanding-low-codeno-code-landscape-how-its-reshaping-tech-job-roles-insights-from-zdnet/"><u>The Expanding Low-Code/No-Code Landscape: How It's Reshaping Tech Job Roles – Insights From ZDNet</u></a></li>
+</ul></div>
+

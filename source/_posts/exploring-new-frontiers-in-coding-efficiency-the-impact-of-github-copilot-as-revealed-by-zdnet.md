@@ -1,7 +1,7 @@
 ---
 title: "Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet"
-date: 2024-09-23T22:15:58.948Z
-updated: 2024-09-25T21:20:45.266Z
+date: 2024-09-30T09:05:08.323Z
+updated: 2024-09-30T18:41:32.933Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,22 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-premium-8k-vision-selecting-the-superior-cameras/"><u>[New] Premium 8K Vision Selecting the Superior Cameras</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-skyrocket-from-zero-reach-1k-on-instagram-monthly/"><u>[Updated] Skyrocket From Zero Reach 1K on Instagram Monthly</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-fastest-video-recorder-clear-latency-free-action/"><u>2024 Approved Fastest Video Recorder Clear, Latency-Free Action</u></a></li>
-<li><a href="https://facebook.techidaily.com/achieving-an-unplugged-lifestyle-reducing-the-time-spent-on-social-networks/"><u>Achieving an Unplugged Lifestyle: Reducing the Time Spent on Social Networks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/end-of-an-era-what-to-do-with-your-windows-10-computer-explore-5-alternatives/"><u>End of an Era: What to Do with Your Windows 10 Computer - Explore 5 Alternatives</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-how-to-integrate-codes-and-scripts-in-your-word-documents-easily/"><u>Expert Advice: How to Integrate Codes and Scripts in Your Word Documents Easily</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone 12</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-perfect-your-presence-advanced-tactics-for-youtube-live-visuals/"><u>In 2024, Perfect Your Presence Advanced Tactics for YouTube Live Visuals</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-y78-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo Y78 5G FRP</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-cloud-platforms-reviewed-comparing-aws-microsoft-azure-and-google-cloud-exploring-hybrid-saas-options-on-zdnet/"><u>Leading Cloud Platforms Reviewed: Comparing AWS, Microsoft Azure, & Google Cloud – Exploring Hybrid, SaaS Options on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/redefining-development-the-role-of-generative-ai-in-transforming-low-code-into-a-seamless-no-code-experience-zdnet-insights/"><u>Redefining Development: The Role of Generative AI in Transforming Low Code Into a Seamless No Code Experience | ZDNET Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-3b-five-facts-about-antenna-radiation-patterns/"><u>Section 3B: Five Facts About Antenna Radiation Patterns</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-key-software-tools-for-your-pc-or-mac-according-to-zdnet-experts/"><u>The Ultimate List of Key Software Tools for Your PC or Mac, According to ZDNet Experts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-ultimate-warrior-challenge-t5-vs-sjcam-s6/"><u>The Ultimate Warrior Challenge T5 vs SJCAM S6</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tidying-up-linux-and-open-source-manuals-discover-the-ultimate-fix/"><u>Tidying Up Linux & Open Source Manuals: Discover the Ultimate Fix!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-recommended-web-hosts-of-2024-comprehensive-expert-analysis-and-rankings-techradar/"><u>Top Recommended Web Hosts of 2024: Comprehensive Expert Analysis & Rankings - TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-crisis-looms-for-microsoft-only-a-year-remaining-to-address-major-issues-insights-from-zdnet/"><u>Windows 11 Crisis Looms for Microsoft - Only a Year Remaining to Address Major Issues | Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-optimizing-video-load-time-on-instagram-apps/"><u>[New] 2024 Approved Optimizing Video Load Time on Instagram Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-techniques-for-engaging-google-meet-audiences-with-laptop-based-ppt/"><u>[New] In 2024, Techniques for Engaging Google Meet Audiences with Laptop-Based PPT</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-navigating-youtubes-economy-a-guide-to-video-revenue-generation/"><u>[Updated] 2024 Approved Navigating YouTube's Economy A Guide to Video Revenue Generation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-syncopated-science-of-video-and-music-on-vimeo/"><u>[Updated] In 2024, The Syncopated Science of Video and Music on Vimeo</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-step-by-step-guide-to-outstanding-ppt-in-google-meet-iosandroid-for-2024/"><u>[Updated] Step-by-Step Guide to Outstanding PPT in Google Meet (iOS/Android) for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-slide-swivel-and-shift-the-instagram-way-to-rotating-images-with-finesse/"><u>2024 Approved Slide, Swivel and Shift The Instagram Way to Rotating Images with Finesse</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beamwidth/"><u>Beamwidth</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-efficiency-a-comprehensive-guide-to-essential-productivity-apps-and-techniques-for-streamlining-your-day-to-day-job/"><u>Boosting Efficiency: A Comprehensive Guide to Essential Productivity Apps & Techniques for Streamlining Your Day-to-Day Job</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-software-development-success-with-agile-awareness-explore-6-key-principles/"><u>Boosting Software Development Success with Agile Awareness: Explore 6 Key Principles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/chrome-os-and-microsoft-unite-seamlessly-running-windows-apps-on-chromebooks-zdnet/"><u>Chrome OS and Microsoft Unite: Seamlessly Running Windows Apps on Chromebooks | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-power-of-ai-introducing-openshift-lightspeed-by-red-hat-the-ultimate-solution-for-kubernetes-administrators/"><u>Discover the Power of AI: Introducing OpenShift Lightspeed by Red Hat – The Ultimate Solution for Kubernetes Administrators</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unparalleled-viewing-with-asrocks-latest-launch-two-premium-27-1440p-monitors-featuring-inbuilt-wifi-connectivity-in-the-stand/"><u>Experience Unparalleled Viewing with ASRock's Latest Launch: Two Premium 27 1440P Monitors Featuring Inbuilt WiFi Connectivity in the Stand</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-via-bash-a-guide-to-shellgpt/"><u>Mastering ChatGPT via Bash: A Guide to ShellGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mimo-systems/"><u>MIMO Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-triumph-unveiling-the-story-behind-an-engineers-app-that-outsmarts-mcdonalds-strategy-analysis-by-zdnet/"><u>Tech Triumph: Unveiling the Story Behind an Engineer’s App That Outsmarts McDonald's Strategy | Analysis by ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ssentials-of-earning-on-youtube-platforms-for-2024/"><u>The Essentials of Earning on YouTube Platforms for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-gain-renewed-interest-insights-from-zdnet/"><u>The Rising Popularity: How OpenStack & Kata Containers Gain Renewed Interest - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-mind-mapping-tools-and-applications-a-comprehensive-review-by-zdnet/"><u>Top 5 Mind Mapping Tools & Applications : A Comprehensive Review by ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet
-date: 2024-09-21T20:46:28.337Z
-updated: 2024-09-26T05:37:41.550Z
+date: 2024-09-26T03:01:08.258Z
+updated: 2024-10-01T06:15:31.216Z
 tags:
   - password-manager
 categories:
@@ -32,10 +32,10 @@ If you've been around for the past 10 or so years, you know that most services r
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use iCloud as a password manager on Windows
@@ -49,13 +49,6 @@ Make sure you have [downloaded iCloud for your Windows PC](https://apps.microsof
 Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Sign in to your iCloud Passwords
 
@@ -104,10 +97,10 @@ Enter the verification code.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Try out the password manager
@@ -128,6 +121,13 @@ Like LastPass, the browser extension will let you fill in your login information
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How do I set up iCloud Keychain? 
 
 iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/article/how-to-update-all-of-your-apple-devices/): [iPhone](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fipad%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [Mac](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). To set it up, go to your iPhone's Settings and tap on your name at the top of the screen to access your iCloud settings. Then, choose iCloud. Find Passwords and Keychain and select that, then tap on Sync this iPhone to turn it on. 
@@ -135,10 +135,10 @@ iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/arti
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
@@ -175,15 +175,18 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-appreciative-adjacencies-templates-for-any-spend-plan/"><u>[New] Appreciative Adjacencies Templates for Any Spend Plan</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-the-inverse-photo-journey-through-facebooks-vast-web/"><u>[New] The Inverse Photo Journey Through Facebook’s Vast Web</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-mastering-tagging-elevate-your-youtube-content/"><u>[Updated] In 2024, Mastering Tagging Elevate Your YouTube Content</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-movie-journey-for-inspiration-seekers/"><u>[Updated] The Ultimate Movie Journey for Inspiration Seekers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-sms-automation-tools-top-10-applications-for-android-and-ios-devices/"><u>Best SMS Automation Tools: Top 10 Applications for Android & iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-top-10-iphone-applications-for-creating-stunning-gif-graphics/"><u>Best Top 10 iPhone Applications for Creating Stunning GIF Graphics</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More!</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/elevate-performance-microns-newest-mrdimms-hit-the-market-compatible-with-intel-xeon-systems/"><u>Elevate Performance: Micron's Newest MRDIMMs Hit the Market, Compatible with Intel Xeon Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-mini-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 mini Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-videos-discover-leading-mobile-apps-including-kinemaster-for-superior-editing-tools/"><u>Master Your Videos: Discover Leading Mobile Apps Including KineMaster for Superior Editing Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-backtrack-your-youtube-queue-swiftly-and-sweetly/"><u>[New] In 2024, Backtrack Your YouTube Queue, Swiftly & Sweetly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-step-by-step-for-efficient-ipad-screen-recordings/"><u>[New] In 2024, Step-by-Step for Efficient iPad Screen Recordings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-audiovisual-innovators-best-portable-devices-for-editors/"><u>[Updated] 2024 Approved Audiovisual Innovators Best Portable Devices for Editors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-action-plan-seamless-transcoding-from-xmlssattml-to-srt/"><u>2024 Approved Action Plan Seamless Transcoding From XML/SSA/TTML to SRT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-grow-youtube-subscriber/"><u>2024 Approved How to Grow Youtube Subscriber</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-mastering-the-art-of-setting-up-and-evaluating-facebooks-in-stream-ads/"><u>2024 Approved Mastering the Art of Setting Up & Evaluating Facebook's In-Stream Ads</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-art-of-transferring-tunes-between-platforms/"><u>2024 Approved The Art of Transferring Tunes Between Platforms</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-your-gateway-to-smart-targeted-advertising-solutions/"><u>Cookiebot: Your Gateway to Smart, Targeted Advertising Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-motorola-g54-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Motorola G54 5G PC | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-challenges-in-leveraging-ai-for-significant-commercial-gains-insights-from-zdnet/"><u>Overcoming Challenges in Leveraging AI for Significant Commercial Gains - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-challenges-to-unlock-the-economic-potential-of-ai-in-business-insights-from-zdnet/"><u>Overcoming Challenges to Unlock the Economic Potential of AI in Business - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-end-of-point-and-click-era-exploring-ais-role-in-transforming-user-interfaces-zdnet/"><u>The End of Point-and-Click Era: Exploring AI's Role in Transforming User Interfaces | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-here-exploring-the-revolutionary-impact-of-ai-agents-on-our-careers-and-industries-zdnet-insights/"><u>The Future Is Here: Exploring the Revolutionary Impact of AI Agents on Our Careers and Industries | ZDNET Insights</u></a></li>
 </ul></div>
 

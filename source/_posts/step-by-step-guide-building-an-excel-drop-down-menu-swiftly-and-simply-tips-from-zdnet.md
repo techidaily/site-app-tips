@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Building an Excel Drop-Down Menu Swiftly & Simply - Tips From ZDNet"
-date: 2024-09-23T05:42:06.480Z
-updated: 2024-09-26T03:54:56.282Z
+date: 2024-09-23T17:58:53.869Z
+updated: 2024-10-01T10:52:46.911Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +187,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-adjusting-screenshots-why-does-imovie-alter-video-sizes-in-2024/"><u>[Updated] Adjusting Screenshots Why Does iMovie Alter Video Sizes, In 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-tutorial-for-downloading-movie-maker-6-on-windows/"><u>[Updated] In 2024, Tutorial for Downloading Movie Maker 6 on Windows</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-quick-and-easy-snapchat-image-manipulation-techniques-for-2024/"><u>[Updated] Quick and Easy Snapchat Image Manipulation Techniques for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-strategies-for-finding-no-cost-art/"><u>2024 Approved Expert Strategies for Finding No-Cost Art</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-iphone-15-pro-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your iPhone 15 Pro for Free</u></a></li>
-<li><a href="https://article-tips.techidaily.com/bite-sized-narrative-notation/"><u>Bite-Sized Narrative Notation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevating-software-creation-with-github-copilots-productive-precision-insights-from-zdnet/"><u>Elevating Software Creation with GitHub Copilot's Productive Precision - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enterprise-tech-adopts-the-ops-approach-amidst-emerging-challenges-zdnet-insights/"><u>Enterprise Tech Adopts the 'Ops' Approach Amidst Emerging Challenges | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-seamless-cross-platform-integration-chrome-os-welcomes-windows-apps-via-exciting-new-collaboration/"><u>Experience Seamless Cross-Platform Integration: Chrome OS Welcomes Windows Apps via Exciting New Collaboration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-tech-professionals-can-overcome-burnout-with-positive-developments-discoveries-by-zdnet/"><u>How Tech Professionals Can Overcome Burnout with Positive Developments - Discoveries by ZDNET</u></a></li>
-<li><a href="https://fox-links.techidaily.com/inside-the-world-of-adobe-cloud-storing-strategies-and-alternative-spaces-reviewed-for-2024/"><u>Inside The World of Adobe Cloud Storing Strategies and Alternative Spaces Reviewed for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/rapid-recovery-from-common-pcl-xl-failures/"><u>Rapid Recovery From Common PCL XL Failures</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-compelling-benefits-of-embracing-aiops-insights-from-zdnet/"><u>Top 7 Compelling Benefits of Embracing AIOps: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-windowed-software-on-chromebooks-a-game-changing-allyship-unveiled-tech-times/"><u>Unlocking the Power of Windowed Software on Chromebooks: A Game-Changing Allyship Unveiled | Tech Times</u></a></li>
-<li><a href="https://common-error.techidaily.com/winkernel-power-failure-error-41-fixed/"><u>WinKernel Power Failure: Error #41 Fixed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-azures-transcription-service/"><u>[New] Mastering Azure's Transcription Service</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-essential-tutorial-on-using-instagram-filters/"><u>[New] The Essential Tutorial on Using Instagram Filters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-7-best-4k-action-cameras/"><u>[Updated] 2024 Approved Top 7 Best 4K Action Cameras</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-freesync-and-fs-unleashed-revealing-samsung-ue590-gaming-tv-for-2024/"><u>[Updated] FreeSync & FS Unleashed Revealing Samsung UE590 Gaming TV for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-starting-up-youtube-your-first-gear-list/"><u>[Updated] Starting Up YouTube - Your First Gear List</u></a></li>
+<li><a href="https://app-tips.techidaily.com/act-now-uncover-the-five-essential-strategies-for-windows-11-users-before-microsoft-discontinues-support-zdnet-tech-analysis/"><u>Act Now: Uncover the Five Essential Strategies for Windows 11 Users Before Microsoft Discontinues Support | ZDNet Tech Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-vulnerability-escalates-with-generative-ai-says-crowdstrike-chief-technology-officer-zdnet-insights/"><u>Enterprise Vulnerability Escalates with Generative AI, Says CrowdStrike Chief Technology Officer | ZDNET Insights</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-11-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 11 Pro Max With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nokia-g42-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nokia G42 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/side-lobe-control/"><u>Side Lobe Control</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranking-customer-relationship-management-tools-of-2022-ideal-options-for-small-and-medium-businesses-zdnet-insights/"><u>Top-Ranking Customer Relationship Management Tools of 2022: Ideal Options for Small & Medium Businesses - ZDNet Insights</u></a></li>
 </ul></div>
 

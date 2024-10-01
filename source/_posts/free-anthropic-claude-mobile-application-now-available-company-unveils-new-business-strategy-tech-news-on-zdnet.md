@@ -1,7 +1,7 @@
 ---
 title: Free Anthropic 'Claude' Mobile Application Now Available; Company Unveils New Business Strategy - Tech News on ZDNet
-date: 2024-09-20T05:16:54.440Z
-updated: 2024-09-26T00:08:25.938Z
+date: 2024-09-25T06:46:06.164Z
+updated: 2024-09-30T16:05:28.531Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +181,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-ace-message-management-on-discord-with-easy-pins/"><u>[New] In 2024, Ace Message Management on Discord with Easy Pins</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-advanced-tips-for-nvidia-recorded-content/"><u>[New] In 2024, Advanced Tips for NVIDIA Recorded Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-3-ways-to-record-discord-live-stream/"><u>2024 Approved 3 Ways to Record Discord Live Stream</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-capture-the-magic-of-moonlight-iphonely/"><u>2024 Approved Capture the Magic of Moonlight iPhonely</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-frustration-with-microsoft-exploring-alternatives-for-a-better-tech-ecosystem/"><u>Beyond Frustration with Microsoft? Exploring Alternatives for a Better Tech Ecosystem</u></a></li>
-<li><a href="https://games-able.techidaily.com/directx-progress-xna-series-edition/"><u>DirectX Progress: XNA Series Edition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-virtualization-at-no-cost-discover-the-steps-to-downloading-vmwares-latest-free-personal-edition-for-fusion-pro-and-workstation-pro-insights-from88/"><u>Experience Virtualization at No Cost: Discover the Steps to Downloading VMware's Latest Free Personal Edition for Fusion Pro and Workstation Pro - Insights From ZDNet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ideal-online-audio-equipment-top-7-picks-2023-for-2024/"><u>Ideal Online Audio Equipment Top 7 Picks 2023 for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-the-cloud-key-tech-leaders-anticipate-significant-shifts-in-business-models-exclusive-zdnet-report/"><u>Revolutionizing the Cloud: Key Tech Leaders Anticipate Significant Shifts in Business Models – Exclusive ZDNet Report</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-photoshop-tutorial-for-novices-essential-methods-to-enhance-your-images/"><u>Step-by-Step Photoshop Tutorial for Novices: Essential Methods to Enhance Your Images</u></a></li>
-<li><a href="https://app-tips.techidaily.com/streamline-your-kubernetes-management-with-red-hats-latest-innovation-openshift-lightspeed-a-smart-ai-tool-tailored-for-admins/"><u>Streamline Your Kubernetes Management with Red Hat's Latest Innovation - OpenShift Lightspeed, a Smart AI Tool Tailored for Admins</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-the-chaos-organizing-linux-and-open-source-manuals-a-comprehensive-guide/"><u>Taming the Chaos: Organizing Linux & Open Source Manuals - A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tidying-up-linux-and-open-source-manuals-discovering-clarity-in-chaos-solutions-revealed/"><u>Tidying Up Linux & Open Source Manuals: Discovering Clarity in Chaos - Solutions Revealed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-8-solutions-for-resolving-firefox-unresponsive-problems/"><u>Top 8 Solutions for Resolving Firefox Unresponsive Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-for-overcoming-opengl-hiccups-in-minecraft/"><u>Troubleshooting Techniques for Overcoming OpenGL Hiccups in Minecraft</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-business-growth-with-anthropics-claude-platform-the-future-of-scalable-ai-solutions/"><u>Unlocking Business Growth with Anthropic's Claude Platform - The Future of Scalable AI Solutions</u></a></li>
-<li><a href="https://win-webster.techidaily.com/upcoming-fees-microsoft-to-introduce-costs-for-windows-10-updates-in-the-following-year-detailed-breakdown/"><u>Upcoming Fees: Microsoft to Introduce Costs for Windows 10 Updates in the Following Year - Detailed Breakdown</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ips-for-higher-youtube-traction-with-persistent-creative-commons-usage/"><u>[New] Tips for Higher YouTube Traction with Persistent Creative Commons Usage</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/easy-fixes-for-system-thread-exception-not-handled/"><u>Easy Fixes for System Thread Exception Not Handled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-efficiency-with-concurrent-subfolder-creation-on-windows-pcs/"><u>Maximize Your Efficiency with Concurrent Subfolder Creation on Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/missing-charge-status-symbol-in-windows-10-heres-how-to-get-it-back/"><u>Missing Charge Status Symbol in Windows 10? Here's How to Get It Back</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-your-ipad-from-an-icloud-backup-complete-instructions-including-non-reset-options/"><u>Reviving Your iPad From an iCloud Backup: Complete Instructions Including Non-Reset Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-iphone-photo-syncing-strategies-with-icloud-discover-these-4-effective-techniques/"><u>Seamless iPhone Photo Syncing Strategies with iCloud - Discover These 4 Effective Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/sketch-out-your-design-on-paper-before-painting-directly-onto-the-tile-this-helps-prevent-mistakes-and-allows-for-planning-of-color-transitions/"><u>Sketch Out Your Design on Paper Before Painting Directly Onto the Tile. This Helps Prevent Mistakes and Allows for Planning of Color Transitions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-tips-reactivating-your-disrupted-discord-webcam-functionality/"><u>Step-by-Step Tips: Reactivating Your Disrupted Discord Webcam Functionality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-viewing-icloud-saved-passwords-on-ios-devices-and-computers/"><u>Step-by-Step Tutorial: Viewing iCloud Saved Passwords on iOS Devices & Computers</u></a></li>
 </ul></div>
 

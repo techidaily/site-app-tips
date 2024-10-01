@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Future of AI with Open Source: The Smart Path Forward - Insights From ZDNet"
-date: 2024-09-17 10:59:32
-updated: 2024-09-20 12:38:42
+date: 2024-09-29T06:29:23.657Z
+updated: 2024-10-01T00:48:51.994Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +116,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +184,25 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mycam-review-a-step-toward-future-proofing-your-videos/"><u>[Updated] 2024 Approved MyCam Review A Step Toward Future-Proofing Your Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-customer-connection-through-design-thinking-a-boon-for-technology-professionals/"><u>Enhancing Customer Connection Through Design Thinking: A Boon for Technology Professionals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-reviews-on-the-leading-encryption-solutions-for-optimal-privacy-in-2-a-guide-from-zdnet/"><u>Expert Reviews on the Leading Encryption Solutions for Optimal Privacy in 2#: A Guide From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-novel-editing-techniques-the-synergy-of-storyremix-and-windows-11/"><u>Explore Novel Editing Techniques The Synergy of StoryRemix & Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-t2-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo T2 5G without App | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximizing-affordability-a-comprehensive-review-of-the-hp-stream-14s-tradeoffs/"><u>Maximizing Affordability: A Comprehensive Review of the HP Stream 14'S Tradeoffs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/skyrocket-productivity-in-teams-using-essential-slack-shortcuts-and-strategies-zdnet/"><u>Skyrocket Productivity in Teams Using Essential Slack Shortcuts & Strategies | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-accounting-solutions-of-2022-find-your-ideal-match-today/"><u>Top Rated Accounting Solutions of 2022: Find Your Ideal Match Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-advanced-techniques-for-high-quality-spatial-recording-on-the-iphone-15-pro/"><u>Unlocking Advanced Techniques for High-Quality Spatial Recording on the iPhone 15 Pro</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-video-editing-for-kids-made-easy-top-10-apps-to-get-started/"><u>Updated In 2024, Video Editing for Kids Made Easy Top 10 Apps to Get Started</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-support-ending-soon-discover-your-5-last-options-with-expert-insights-from-zdnet/"><u>Windows 11 Support Ending Soon? Discover Your 5 Last Options with Expert Insights From ZDNet</u></a></li>
+</ul></div>
+

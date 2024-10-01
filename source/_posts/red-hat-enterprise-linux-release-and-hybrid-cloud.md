@@ -1,7 +1,7 @@
 ---
 title: Red Hat, Enterprise Linux Release, and Hybrid Cloud.
-date: 2024-09-17 20:25:40
-updated: 2024-09-20 11:53:45
+date: 2024-09-28T18:47:56.328Z
+updated: 2024-10-01T01:10:21.946Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-decoding-the-art-of-successful-fb-cover-videos/"><u>[New] Decoding the Art of Successful FB Cover Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-ignite-social-success-discover-the-10-most-powerful-igtv-video-ideas-for-brands/"><u>[Updated] In 2024, Ignite Social Success Discover the 10 Most Powerful IGTV Video Ideas for Brands</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-tutorial-applying-computer-vhs-filters/"><u>2024 Approved Step-by-Step Tutorial Applying Computer VHS Filters</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-artificebotics-how-modern-ai-experts-merge-innovation-with-business-acumen-to-shape-future-technologies/"><u>Beyond Artificebotics: How Modern AI Experts Merge Innovation with Business Acumen to Shape Future Technologies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/charge-restoration-hacks-for-airpods-discover-these-9-useful-fixes/"><u>Charge Restoration Hacks for AirPods: Discover These 9 Useful Fixes!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-ai-in-developer-tools-why-rote-automation-is-a-thing-of-the-past-insights-from-zdnet/"><u>Embracing AI in Developer Tools: Why Rote Automation Is a Thing of the Past - Insights From ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-itel-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Itel</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-open-source-to-draw-global-tech-pioneers-insights-from-zdnet/"><u>Leveraging Open Source to Draw Global Tech Pioneers - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-how-ai-growth-clashes-with-agile-practices-according-to-recent-research-by-zdnet/"><u>Navigating the Complexities: How AI Growth Clashes with Agile Practices, According to Recent Research by ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/persona-4-golden-comprehensive-guide-to-overcoming-game-crashing-problems/"><u>Persona 4 Golden - Comprehensive Guide to Overcoming Game Crashing Problems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-tech-talent-how-artificial-intelligence-combats-job-burnout-and-warning-tiredness-for-it-professionals-zdnet/"><u>Reviving Tech Talent: How Artificial Intelligence Combats Job Burnout & Warning Tiredness for IT Professionals | ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-review-of-picsart-apps-new-features-2024-edition/"><u>Step-by-Step Review of PicsArt App's New Features, 2024 Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-ai-powered-pdf-tools-for-streamlining-your-workflow-with-chatgpt/"><u>Top 10 AI-Powered PDF Tools for Streamlining Your Workflow with ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-workplaces-how-ai-agents-shape-the-future-of-employment-zdnet/"><u>Transforming Workplaces: How AI Agents Shape the Future of Employment | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-broadcasting-the-2024-rio-summer-games-live/"><u>Ultimate Guide: Broadcasting the 2024 Rio Summer Games Live</u></a></li>
+</ul></div>
+

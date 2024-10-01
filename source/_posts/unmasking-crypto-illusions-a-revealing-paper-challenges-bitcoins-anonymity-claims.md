@@ -1,7 +1,7 @@
 ---
 title: "Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims"
-date: 2024-09-23T23:31:48.367Z
-updated: 2024-09-25T22:43:05.384Z
+date: 2024-09-27T23:24:33.344Z
+updated: 2024-09-30T19:02:14.611Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -61,10 +61,16 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -121,18 +127,22 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-orb-shaper-essentials/"><u>[New] 2024 Approved Orb Shaper Essentials</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-virtual-vistas-enhancing-online-streaming-with-color-key-methods/"><u>[New] 2024 Approved Virtual Vistas Enhancing Online Streaming with Color Key Methods</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-all-time-highest-chart-youtubes-premier-video-list/"><u>[Updated] 2024 Approved All-Time Highest Chart YouTube's Premier Video List</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-itunes-backup-strategies-learn-the-best-techniques-for-protection/"><u>Comprehensive iTunes Backup Strategies – Learn the Best Techniques for Protection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-strategies-to-overcome-non-functional-music-playback-on-itunes/"><u>Effective Strategies to Overcome Non-Functional Music Playback on iTunes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-save-or-record-periscope-videos-complete-guide/"><u>In 2024, How to Save or Record Periscope Videos Complete Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-tecno-pop-7-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Tecno Pop 7 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/itunes-backup-file-restoration-how-to-retrieve-deleted-or-lost-ios-content-from-your-itunes-archive/"><u>ITunes Backup File Restoration: How to Retrieve Deleted or Lost iOS Content From Your iTunes Archive</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lost-your-itunes-account-passcode-discover-the-top-methods-to-retrieve-it/"><u>Lost Your iTunes Account Passcode? Discover the Top Methods to Retrieve It</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mjolnirs-legacy-new-era-dawned/"><u>Mjolnir's Legacy New Era Dawned</u></a></li>
-<li><a href="https://app-tips.techidaily.com/move-it-like-that-a-guide-for-shifting-itunes-lists-onto-usb-drives-across-windows-and-mac-systems/"><u>Move It Like That: A Guide for Shifting iTunes Lists Onto USB Drives Across Windows and Mac Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-solutions-for-resolving-the-issue-of-music-not-playing-in-itunes/"><u>Top Solutions for Resolving the Issue of Music Not Playing in iTunes</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/web-tracking-optimized-with-the-help-of-cookiebot-technology/"><u>Web Tracking Optimized with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rafting-engaging-youtube-videos-using-finalcut-pro-expertise-for-2024/"><u>[New] Crafting Engaging YouTube Videos Using FinalCut Pro Expertise for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-creation-to-consumption-igtv-vs-youtube-explained-for-you-for-2024/"><u>[New] From Creation to Consumption IGTV Vs. YouTube Explained for You for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-video-upload-your-guide-to-igtv/"><u>[New] Mastering Video Upload Your Guide to IGTV</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-essential-knowledge-for-instagram-success-a-guide-to-behind-the-scenes-metrics/"><u>[Updated] In 2024, Essential Knowledge for Instagram Success A Guide to Behind-the-Scenes Metrics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-liberate-yourself-with-free-movie-player-software/"><u>2024 Approved Liberate Yourself with FREE MOVIE PLAYER Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-magic-the-best-grid-tools-ranked/"><u>2024 Approved Photographic Magic - The Best Grid Tools Ranked</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-iphone-data-rescue-tools-how-to-get-back-deleted-files-securely/"><u>Best iPhone Data Rescue Tools: How to Get Back Deleted Files Securely</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-fun-and-trending-facebook-messenger-stickers-now/"><u>Download Fun & Trending Facebook Messenger Stickers Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-quadro-rtx-6000-drivers-now/"><u>Get Quadro RTX 6000 Drivers Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-capture-on-xbox-consoles/"><u>Mastering the Art of Image Capture on Xbox Consoles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revive-vintage-memories-top-3-tools-for-upgrading-your-aged-photographs/"><u>Revive Vintage Memories: Top 3 Tools for Upgrading Your Aged Photographs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-free-gif-creation-tools-the-best-mobile-apps-for-android-and-ios/"><u>Top 10 Free GIF Creation Tools: The Best Mobile Apps for Android & iOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-iphone-spyware-apps-unbeatable-options-for-covert-tracking/"><u>Top Rated iPhone Spyware Apps: Unbeatable Options for Covert Tracking</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-navigation-apps-on-android-discover-the-best-free-options/"><u>Top-Ranked Navigation Apps on Android: Discover the Best Free Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008406611-unlocking-new-adventures-celebrate-the-arrival-of-it-takes-two-on-screen/"><u>Unlocking New Adventures: Celebrate the Arrival of 'It Takes Two' On Screen!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-vsco-a-detailed-review-with-benefits-drawbacks-comparisons-and-best-alternatives/"><u>Unraveling VSCO: A Detailed Review with Benefits, Drawbacks, Comparisons, and Best Alternatives</u></a></li>
 </ul></div>
 

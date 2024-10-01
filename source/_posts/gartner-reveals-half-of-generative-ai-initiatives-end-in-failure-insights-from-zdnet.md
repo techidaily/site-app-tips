@@ -1,7 +1,7 @@
 ---
 title: Gartner Reveals Half of Generative AI Initiatives End in Failure - Insights From ZDNet
-date: 2024-09-22T06:37:10.877Z
-updated: 2024-09-25T23:45:04.105Z
+date: 2024-09-27T22:55:54.943Z
+updated: 2024-09-30T17:59:19.238Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +187,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-seamlessly-integrate-music-stickers-into-instacafe/"><u>[New] How to Seamlessly Integrate Music Stickers Into InstaCafe</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-mastery-guide-securely-archiving-snapchat-media-on-devices/"><u>[New] Mastery Guide Securely Archiving Snapchat Media on Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-iphone-gps-applications-our-pick-of-the-top-five/"><u>Best iPhone GPS Applications: Our Pick of the Top Five</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-ensemble-curating-best-dj-templates-for-2024/"><u>Event Ensemble Curating Best DJ Templates for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-smart-8-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Smart 8 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/limited-offer-upgrade-to-professionals-edition-of-ashampoo-3d-cad-for-only-40-now-on-zdnet-shop/"><u>Limited Offer: Upgrade to Professionals Edition of Ashampoo 3D CAD for Only $40, Now On ZDNet Shop!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-triumph-unveiling-the-story-behind-an-engineers-app-that-outsmarts-mcdonalds-strategy-analysis-by-zdnet/"><u>Tech Triumph: Unveiling the Story Behind an Engineer’s App That Outsmarts McDonald's Strategy | Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-critical-90-day-evaluation-period-for-artificial-intelligence-innovations-insights-from-zdnet/"><u>The Critical 90-Day Evaluation Period for Artificial Intelligence Innovations: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-gain-renewed-interest-insights-from-zdnet/"><u>The Rising Popularity: How OpenStack & Kata Containers Gain Renewed Interest - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-new-potential-how-the-google-microsoft-collaboration-allows-windows-apps-to-thrive-on-chromebooks-zdnet/"><u>Unlocking New Potential: How the Google-Microsoft Collaboration Allows Windows Apps to Thrive on Chromebooks | ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-the-full-screen-potential-of-premiere-pro/"><u>Unlocking the Full Screen Potential of Premiere Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unlocking-creativity-top-20-vlogger-themes-for-2024/"><u>[New] Unlocking Creativity Top 20 Vlogger Themes for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-arena-of-games-100plus-channel-spectrums-galore-for-2024/"><u>[Updated] Arena of Games 100+ Channel Spectrums Galore for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compact-and-powerful-a-review-of-sx620-hs-by-canon/"><u>Compact & Powerful - A Review of SX620 HS by Canon</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybersecurity-titans-unite-zerofox-acquires-idx-aligning-with-landf-for-an-impressive-14-billion-powerhouse-revealed-by-zdnet/"><u>Cybersecurity Titans Unite! ZeroFox Acquires IDX, Aligning with L&F for an Impressive $1.4 Billion Powerhouse Revealed by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-install-windows-on-your-steam-deck/"><u>How to Install Windows on Your Steam Deck</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/proton-launches-advanced-password-protector-ensuring-total-privacy-with-robust-end-to-end-cryptography-zdnet/"><u>Proton Launches Advanced Password Protector, Ensuring Total Privacy with Robust End-to-End Cryptography | ZDNET</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-nubia-red-magic-8s-pro-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Nubia Red Magic 8S Pro Phone Hassle-Free</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-y27-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo Y27 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-password-security-tools-of-2024-professional-reviews-zdnet/"><u>Top-Ranked Password Security Tools of 2024: Professional Reviews | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-a-safer-digital-life-a-detailed-review-of-two-revolutionary-passwordless-managers/"><u>Unlocking a Safer Digital Life: A Detailed Review of Two Revolutionary Passwordless Managers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-disk-potential-masterful-techniques-in-w10w11/"><u>Unlocking Disk Potential: Masterful Techniques in W10/W11</u></a></li>
 </ul></div>
 

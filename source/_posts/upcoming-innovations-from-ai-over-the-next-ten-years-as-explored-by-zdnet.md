@@ -1,7 +1,7 @@
 ---
 title: Upcoming Innovations From AI over the Next Ten Years as Explored by ZDNet
-date: 2024-09-19 15:40:39
-updated: 2024-09-20 11:18:52
+date: 2024-09-30T07:15:38.963Z
+updated: 2024-10-01T01:01:28.170Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mastering-visual-enhancements-in-tiktok/"><u>[New] In 2024, Mastering Visual Enhancements in TikTok</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-crafting-captivating-reels-musical-integration-strategies/"><u>[Updated] 2024 Approved Crafting Captivating Reels Musical Integration Strategies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-supreme-mac-video-encoder-for-2024/"><u>[Updated] Supreme Mac Video Encoder for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/building-an-empire-in-smm-a-step-by-step-guide-for-success-for-2024/"><u>Building an Empire in SMM A Step-by-Step Guide for Success for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-large-scale-industries-how-anthropics-revolutionary-claude-plan-transforms-business-ai-capabilities-featured-on-zdnet/"><u>Empowering Large-Scale Industries: How Anthropic's Revolutionary Claude Plan Transforms Business AI Capabilities | Featured on ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-stagnant-ios-mailboxes-a-comprehensive-fix-for-non-updating-emails-on-iphone/"><u>Fixing Stagnant iOS Mailboxes - A Comprehensive Fix for Non-Updating Emails on iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-development-work-is-changing-a-conversation-with-atlassians-agnes-ro-as-spotted-on-zdnet/"><u>How Development Work Is Changing: A Conversation with Atlassian's Agnes Ro, as Spotted on ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-samsung-galaxy-f14-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Samsung Galaxy F14 5G.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-sony-xperia-1-v-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Sony Xperia 1 V to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-design-thinking-for-closer-alignment-of-it-experts-with-user-centric-solutions-a-zdnet-perspective/"><u>Leveraging Design Thinking for Closer Alignment of IT Experts with User-Centric Solutions: A ZDNet Perspective</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-modern-obstacles-dealing-with-ambiguous-results-and-faulty-accuracy-in-artificial-intelligence-analysis-by-zdnet/"><u>Mastering Modern Obstacles: Dealing with Ambiguous Results and Faulty Accuracy in Artificial Intelligence | Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-windows-11-your-complete-reference-tips-and-tricks-with-zdnets-expert-guide/"><u>Mastering Windows 11: Your Complete Reference, Tips & Tricks with ZDNet's Expert Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-no-downloads-needed-10-free-online-video-compression-solutions/"><u>New In 2024, No Downloads Needed 10 Free Online Video Compression Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/pioneering-beyond-standard-llms-in-artificial-intelligence-development-insights-from-an-ai-scientist-at-zdnet/"><u>Pioneering Beyond Standard LLMs in Artificial Intelligence Development | Insights From an AI Scientist at ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-business-connectivity-celonas-60m-series-c-fuels-next-gen-enterprise-5g-solutions-zdnet-insights/"><u>Revolutionizing Business Connectivity: Celona's $60M Series C Fuels Next-Gen Enterprise 5G Solutions | ZDNet Insights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ify-crafting-effective-youtube-subscription-buttons-for-2024/"><u>Simplify Crafting Effective YouTube Subscription Buttons for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-covid-19-immunization-platforms-the-ultimate-guide-techreview/"><u>Top Rated COVID-19 Immunization Platforms: The Ultimate Guide - TechReview</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-11-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-complexity-streamlining-linux-and-community-guides-for-effortless-understanding/"><u>Unraveling Complexity: Streamlining Linux & Community Guides for Effortless Understanding</u></a></li>
+</ul></div>
+

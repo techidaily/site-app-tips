@@ -1,7 +1,7 @@
 ---
 title: Exploring the Downsides of Artifice Intelligence in Code Creation with ZDNet's Analysis
-date: 2024-09-19 18:21:59
-updated: 2024-09-20 12:35:22
+date: 2024-09-26T21:45:15.670Z
+updated: 2024-09-30T23:40:33.727Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/xpert-tips-for-fixing-non-displaying-shorts-thumbnails/"><u>[New] Expert Tips for Fixing Non-Displaying Shorts Thumbnails</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-hurry-up-screen-record-with-audio/"><u>[New] In 2024, Hurry-Up Screen Record, With Audio</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieve-sql-mastery-with-premier-course-selections-comprehensive-guide-by-zdnet/"><u>Achieve SQL Mastery with Premier Course Selections - Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/antenna-impedance-matching-is-essential-not-only-for-efficient-power-transfer-but-also-because-mismatches-can-distort-the-radiation-pattern-due-to-standing-81/"><u>Antenna Impedance Matching Is Essential Not only for Efficient Power Transfer but Also because Mismatches Can Distort the Radiation Pattern Due to Standing Waves on Transmission Lines.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creating-effective-reminders-using-slackbot-a-step-by-step-guide-on-slack/"><u>Creating Effective Reminders Using Slackbot: A Step-by-Step Guide on Slack</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exhaustion-amongst-it-specialists-positive-developments-in-sight/"><u>Exhaustion Amongst IT Specialists - Positive Developments in Sight</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-k11-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo K11 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-vital-are-it-specialists-for-modern-businesses-operating-without-technology-insights-from-a-zdnet-perspective/"><u>How Vital Are IT Specialists for Modern Businesses Operating Without Technology? Insights From a ZDNET Perspective</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-websites-for-ultimate-vector-clarity/"><u>In 2024, Exclusive Websites for Ultimate Vector Clarity</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-content-creation-with-the-ai-prowess-of-hix-and-gpt-4/"><u>Mastering Content Creation with the AI Prowess of HIX and GPT-4</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/pc-intro-maker-showdown-top-online-and-offline-tools-for-2024/"><u>PC Intro Maker Showdown Top Online and Offline Tools for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-comprehensive-guide-to-using-the-chatgpt-copilot-add-on-effectively/"><u>The Comprehensive Guide to Using the ChatGPT Copilot Add-On Effectively</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-premier-linux-learning-experiences-exploring-elite-bootcamps-and-training-opportun-2-engaging-with-the-pioneers-of-tech-a-deep-dive-in82/"><u>The Ultimate Guide to Premier Linux Learning Experiences: Exploring Elite Bootcamps & Training Opportun 2. Engaging with the Pioneers of Tech: A Deep Dive Into Linux Mastery Courses</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-enterprise-ai-potential-discover-anthropics-revolutionary-claude-plan-as-featured-on-zdnet/"><u>Unleashing Enterprise AI Potential: Discover Anthropic's Revolutionary Claude Plan as Featured on ZDNet</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Crucial Role of IT Departments in Shaping Modern Customer Journeys: A Perspective by ZDNet"
-date: 2024-09-18 20:25:24
-updated: 2024-09-20 10:48:46
+date: 2024-09-29T06:09:34.394Z
+updated: 2024-09-30T22:22:50.817Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-boost-connectivity-discover-the-best-5-chrome-tools-for-facebook-videos-for-2024/"><u>[New] Boost Connectivity Discover the Best 5 Chrome Tools for Facebook Videos for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-ethereal-3-clash-veil-4-arises-for-2024/"><u>[New] Ethereal 3 Clash Veil 4 Arises for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-calculating-total-vids-for-high-capacity-hardware-64128gb/"><u>[New] In 2024, Calculating Total Vids for High-Capacity Hardware (64/128GB)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-one-click-wonder-livestream-your-podcast/"><u>[New] One Click Wonder Livestream Your Podcast</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-strategic-game-plays-with-top-casters/"><u>[Updated] Strategic Game Plays with Top Casters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-vsco-photo-editing-tips-and-tricks/"><u>[Updated] Unlocking VSCO Photo Editing Tips & Tricks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-agile-mastery-top-six-strategies-guaranteeing-success-in-software-development-with-agile-methods/"><u>1. Agile Mastery: Top Six Strategies Guaranteeing Success in Software Development with Agile Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/senior-years-enhanced-by-new-linguistic-skills/"><u>Senior Years, Enhanced by New Linguistic Skills</u></a></li>
+<li><a href="https://app-tips.techidaily.com/setting-up-libreoffice-preferences-seamlessly-convert-to-microsoft-office-formats/"><u>Setting Up LibreOffice Preferences: Seamlessly Convert to Microsoft Office Formats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-linus-torvalds-use-of-rust-for-linux-development-and-life-routines-with-m2-macbook-air-insights-from-zdnet-interview/"><u>Unveiling Linus Torvalds' Use of Rust for Linux Development and Life Routines with M2 MacBook Air | Insights From ZDNet Interview</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrade-mastery-overcoming-challenges-in-migrating-to-ubuntu-linux-2404-tips-featured-on-zdnet/"><u>Upgrade Mastery: Overcoming Challenges in Migrating to Ubuntu Linux 24.04 – Tips Featured on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-crisis-looms-large-for-microsoft-with-just-one-year-to-fix-major-issues-expert-insight/"><u>Windows 11 Crisis Looms Large for Microsoft with Just One Year to Fix Major Issues | Expert Insight</u></a></li>
+</ul></div>
+

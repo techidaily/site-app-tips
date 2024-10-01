@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity: Leverage the New Copilot Enhancements to Excel at Prompt Writing on Microsoft"
-date: 2024-09-17 17:58:12
-updated: 2024-09-20 10:40:14
+date: 2024-09-27T17:16:42.399Z
+updated: 2024-10-01T06:25:38.361Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,23 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-explore-and-compare-apps-via-az-recorder/"><u>[New] 2024 Approved Explore & Compare Apps via AZ Recorder</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-rapid-routines-easy-laptop-recordings-dell/"><u>[New] 2024 Approved Rapid Routines Easy Laptop Recordings (Dell)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oneplus-12-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For OnePlus 12</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-relocating-installed-software-between-drives-using-windows-11/"><u>Guide: Relocating Installed Software Between Drives Using Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ascension-of-cloud-computing-versus-current-on-premises-systems-expert-analysis-by-zdnet/"><u>The Ascension of Cloud Computing Versus Current On-Premises Systems | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-crafting-an-ideal-windows-11-vm-setup-on-any-platform-insights-from-zdnet/"><u>Ultimate Guide: Crafting an Ideal Windows 11 VM Setup on Any Platform - Insights From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/unseen-wi-fi-networks-how-to-make-them-visible-win11/"><u>Unseen Wi-Fi Networks: How to Make Them Visible Win11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-future-of-ai-at-gtc-nvidias-jensen-huang-introduces-cutting-edge-blackwell-processor-family-to-industry-experts-zdnet/"><u>Unveiling the Future of AI at GTC: Nvidia's Jensen Huang Introduces Cutting-Edge Blackwell Processor Family to Industry Experts | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-obstacles-to-leveraging-generative-ai-in-business-practices-key-findings-from-recent-deloitte-research-explored-by-zdnet/"><u>Unveiling the Obstacles to Leveraging Generative AI in Business Practices: Key Findings From Recent Deloitte Research, Explored by ZDNET</u></a></li>
+</ul></div>
+

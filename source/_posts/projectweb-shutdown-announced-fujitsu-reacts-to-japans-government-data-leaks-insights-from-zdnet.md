@@ -1,7 +1,7 @@
 ---
 title: "ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet"
-date: 2024-09-22T10:31:42.238Z
-updated: 2024-09-26T06:13:33.790Z
+date: 2024-09-23T19:53:51.837Z
+updated: 2024-09-30T17:16:33.966Z
 tags:
   - password-manager
 categories:
@@ -64,26 +64,37 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-finding-the-best-prices-on-vr-headsets-from-china/"><u>[New] 2024 Approved Finding the Best Prices on VR Headsets From China</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-2023-full-analysis-provideo-masters-edit-suite/"><u>[Updated] 2023 Full Analysis ProVideo Master's Edit Suite</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-leveraging-fb-livestream-for-post-produced-content-dissemination/"><u>[Updated] 2024 Approved Leveraging FB Livestream for Post-Produced Content Dissemination</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-action-lens-a-deep-dive-into-polaroid-cubeplus/"><u>[Updated] The Action Lens A Deep Dive Into Polaroid Cube+</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-best-youtube-livestreaming-screen-recorders/"><u>2024 Approved Best YouTube Livestreaming Screen Recorders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-on-managing-your-iphones-icloud-storage-backup-restoration-and-deletion-tips/"><u>Complete Guide on Managing Your iPhone's iCloud Storage: Backup, Restoration & Deletion Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-on-securing-data-full-process-for-backing-up-and-synchronizing-your-iphone-via-icloud/"><u>Comprehensive Tutorial on Securing Data: Full Process for Backing Up & Synchronizing Your iPhone via iCloud</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-next-level-productivity-with-the-raspberry-pi-400-a-hybrid-keyboard-and-compact-computer/"><u>Experience Next-Level Productivity with the Raspberry Pi 400, a Hybrid Keyboard and Compact Computer</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-download-and-install-dell-wifi-drivers-easily/"><u>How to Download & Install Dell WiFi Drivers Easily</u></a></li>
-<li><a href="https://app-tips.techidaily.com/icloud-picture-perusal-made-easy-top-alternatives-for-non-iphone-users/"><u>ICloud Picture Perusal Made Easy – Top Alternatives for Non-iPhone Users</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-ultimate-film-cameras-buyers-guide-for-all-skills/"><u>In 2024, The Ultimate Film Cameras Buyers Guide for All Skills</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mastering-the-art-of-digital-recording-for-gotomeet-sessions-for-2024/"><u>Mastering the Art of Digital Recording for GoToMeet Sessions for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-ios-photography-tips-on-managing-camera-roll-photo-library-and-pictures/"><u>Navigating iOS Photography: Tips on Managing Camera Roll, Photo Library, and Pictures</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-removing-your-pics-photos-and-images-from-icloud-securely/"><u>Step-by-Step Guide: Removing Your Pics, Photos & Images From iCloud Securely</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-your-youtube-content-for-specific-crowds-for-2024/"><u>[New] Crafting Your YouTube Content for Specific Crowds for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-affordable-mcb-theme-images-for-channels/"><u>[New] In 2024, Affordable MCB Theme Images for Channels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-no-complications-in-hdr-a-thorough-review/"><u>[New] No Complications in HDR A Thorough Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-advice-on-selecting-the-best-lenses-for-filmmaking/"><u>[Updated] Expert Advice on Selecting The Best Lenses For Filmmaking</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-speech-transcription-made-simple-utilizing-text-conversion-functionality-of-ms-word/"><u>[Updated] Speech Transcription Made Simple Utilizing Text Conversion Functionality of MS Word</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-12-mobile-typing-applications-for-ios-and-android-devices-a-comprehensive-guide/"><u>Best 12 Mobile Typing Applications for iOS and Android Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-superior-android-podcasting-solutions-beyond-player-fm/"><u>Discover Superior Android Podcasting Solutions Beyond Player FM</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-top-21-zedge-tools-for-customizing-your-phone-with-free-ringtones-and-wallpapers-on-iphoneandroid/"><u>Discover the Ultimate Top 21 Zedge Tools for Customizing Your Phone with Free Ringtones & Wallpapers on iPhone/Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-ways-to-keep-your-apps-private-on-smartphones-and-tablets-android-and-apple/"><u>Effective Ways to Keep Your Apps Private on Smartphones & Tablets (Android & Apple)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193676-get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-nokia-xr21-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Nokia XR21 Phone?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-photo-booth-woes-why-videos-halt/"><u>In 2024, Photo Booth Woes Why Videos Halt?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-se-2022-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-most-effective-android-management-software-from-pc-updated-top-picks/"><u>The Most Effective Android Management Software From PC - Updated Top Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-free-online-and-mobile-apps-for-crafting-hilarious-memes-effortlessly/"><u>Top Free Online & Mobile Apps for Crafting Hilarious Memes Effortlessly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-applications-for-seamlessly-casting-your-iphone-display-onto-tv-or-computer/"><u>Top-Rated Applications for Seamlessly Casting Your iPhone Display Onto TV or Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone SE | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Pioneering AI Benchmark Standard Released by Amazon, Detailed in ZDNet's Insightful Article on Enhanced RAG Measurement
-date: 2024-09-17 12:45:47
-updated: 2024-09-20 12:44:18
+date: 2024-09-24T19:06:12.196Z
+updated: 2024-10-01T02:14:43.197Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-clearing-up-false-facade-in-virtual-conversations-fb/"><u>[New] 2024 Approved Clearing Up False Facade in Virtual Conversations FB</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-music-infused-videos-perfecting-sound-with-inshot/"><u>[New] 2024 Approved Music-Infused Videos Perfecting Sound with InShot</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-invisible-listeners-guide-6-clandestine-recording-apps-androidios/"><u>[New] Invisible Listeners Guide 6 Clandestine Recording Apps (Android/iOS)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-insightful-analysis-unveiling-the-challenges-of-leveraging-generative-ai-in-business-key-findings-from-deloittes-latest-study/"><u>1. Insightful Analysis: Unveiling the Challenges of Leveraging Generative AI in Business - Key Findings From Deloitte's Latest Study</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amazon-introduces-innovative-ai-metric-for-response-accuracy-and-grounding/"><u>Amazon Introduces Innovative AI Metric for Response Accuracy and Grounding</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-performance-pitfalls-high-cpu-usage-with-rm/"><u>Avoiding Performance Pitfalls: High CPU Usage with RM</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-tools-to-bypass-lock-screenc110-by-drfone-android-unlock-android-unlock/"><u>Bypass Tools to Bypass Lock Screen(C110)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/comparing-leading-online-and-offline-mp3-karaoke-transformers-for-2024/"><u>Comparing Leading Online & Offline MP3 Karaoke Transformers for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-amazon-is-redefining-ai-assessment-with-a-novel-rag-metric-insights-from-recent-zdnet-analysis/"><u>How Amazon Is Redefining AI Assessment with a Novel RAG Metric – Insights From Recent ZDNET Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-safely-set-up-your-own-windows-recovery-disk-using-easy-4-step-guide-techinsights/"><u>How to Safely Set Up Your Own Windows Recovery Disk Using Easy 4-Step Guide | TechInsights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-8-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 8 Plus without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-harnessing-the-hype-how-to-hike-your-youtube-horde/"><u>In 2024, Harnessing the Hype How to Hike Your Youtube Horde</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oneplus-nord-3-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, OnePlus Nord 3 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/intrusion-detection-systems/"><u>Intrusion Detection Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/supercharge-your-microsoft-edge-top-pick-browser-extensions-featured-on-zdnet/"><u>Supercharge Your Microsoft Edge: Top Pick Browser Extensions Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-end-of-an-era-is-microsofts-no-cost-windows-11-enhancement-plan-over-digital-insights/"><u>The End of an Era: Is Microsoft's No-Cost Windows 11 Enhancement Plan Over? | Digital Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-trick-for-organizing-pc-files-how-to-switch-on-and-operate-sidebar-view-in-explorer/"><u>Ultimate Trick for Organizing PC Files: How to Switch On and Operate Sidebar View in Explorer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-cash-app-and-square-downtime-essential-info-for-smbs-insights-from-zdnet/"><u>Understanding the Cash App & Square Downtime: Essential Info for SMBs - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/whats-next-for-your-windows-11-device-as-mainstream-support-winds-down-exploring-5-essential-alternatives-insights-from-zdnet/"><u>What's Next for Your Windows 11 Device as Mainstream Support Winds Down: Exploring 5 Essential Alternatives - Insights From ZDNet</u></a></li>
+</ul></div>
+

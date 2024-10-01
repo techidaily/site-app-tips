@@ -1,7 +1,7 @@
 ---
 title: Why Open-Source Expertise & Linux Mastery Remain Highly Sought After, Despite Challenging Financial Climates - Insights From ZDNet
-date: 2024-09-17 22:28:58
-updated: 2024-09-20 11:13:58
+date: 2024-09-29T20:08:34.245Z
+updated: 2024-09-30T18:45:44.832Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-navigating-snapchat-for-twitter-vids-distribution-for-2024/"><u>[New] Navigating Snapchat for Twitter Vids Distribution for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-manipulating-netflix-stream-velocity/"><u>[Updated] Mastering the Art of Manipulating Netflix Stream Velocity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726227780078-movaviopusmp3/"><u>使用MOVAVI在線無限制自由轉換OPUS成MP3格式的音頻服務</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-panic-five-essential-steps-for-your-windows-11-pre-end-of-support-journey-insights-from-zdnet/"><u>Don't Panic: Five Essential Steps for Your Windows 11 Pre-End-of-Support Journey - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-picks-for-optimal-website-hosting-services-in-depth-analysis-and-comparisons-zdnet/"><u>Expert Picks for Optimal Website Hosting Services : In-Depth Analysis & Comparisons | ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-tecno-spark-go-2024-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Tecno Spark Go (2024) Phone Screen?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-superior-websites-promoting-youtube-media/"><u>In 2024, Superior Websites Promoting YouTube Media</u></a></li>
+<li><a href="https://app-tips.techidaily.com/joint-development-of-scalable-llms-by-sony-intelligence-and-ai-singapore-announced-futuretech-weekly/"><u>Joint Development of Scalable LLMs by Sony Intelligence and AI Singapore Announced | FutureTech Weekly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rocky-linux-backed-by-ciq-as-prominent-linux-experts-rally-together/"><u>Rocky Linux Backed by CIQ as Prominent Linux Experts Rally Together</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-the-underdog-how-a-simple-app-challenges-mcdonalds-dominance-insights-from-zdnet/"><u>The Rise of the Underdog: How a Simple App Challenges McDonald's Dominance - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-tide-of-cloud-technology-vs-the-steady-ground-of-on-premise-systems-nextgentech-trends/"><u>The Rising Tide of Cloud Technology Vs. The Steady Ground of On-Premise Systems | NextGenTech Trends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-hub-for-advanced-computer-components-recommended-by-toms-team/"><u>The Ultimate Resource Hub for Advanced Computer Components - Recommended by Tom's Team</u></a></li>
+<li><a href="https://app-tips.techidaily.com/times-running-out-for-microsoft-the-impending-crisis-over-windows-10-requires-immediate-action-zdnet/"><u>Time's Running Out for Microsoft: The Impending Crisis Over Windows 10 Requires Immediate Action [ZDNet]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-11-indispensable-windows-and-macos-programs-you-should-know-about-insights-from-zdnet/"><u>Top 11 Indispensable Windows & macOS Programs You Should Know About - Insights From ZDNet</u></a></li>
+<li><a href="https://solve-help.techidaily.com/transform-your-home-movies-using-windows-movie-maker-unveiling-three-simple-cutting-tricks/"><u>Transform Your Home Movies Using Windows Movie Maker: Unveiling Three Simple Cutting Tricks!</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y100a-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100A Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-ending-maintenance-in-a-year-explore-these-5-alternatives-now/"><u>Windows 11 Ending Maintenance in a Year - Explore These 5 Alternatives Now!</u></a></li>
+</ul></div>
+

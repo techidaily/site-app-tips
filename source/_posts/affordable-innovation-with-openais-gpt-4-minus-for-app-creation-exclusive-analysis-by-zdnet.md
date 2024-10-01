@@ -1,7 +1,7 @@
 ---
 title: Affordable Innovation with OpenAI's GPT-4 Minus for App Creation - Exclusive Analysis by ZDNET
-date: 2024-09-17 19:34:41
-updated: 2024-09-20 11:30:48
+date: 2024-09-28T03:20:02.860Z
+updated: 2024-10-01T10:39:24.296Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-30-windows-10-camcorders/"><u>[Updated] Top 30 Windows 10 Camcorders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exquisite-note-taking-experience-on-mematic/"><u>2024 Approved Exquisite Note-Taking Experience on Mematic</u></a></li>
+<li><a href="https://app-tips.techidaily.com/affordable-password-safety-and-data-protection-with-advanced-encryption-for-less-than-monthly-cost-of-a-coffee-tips-by-zdnet/"><u>Affordable Password Safety & Data Protection with Advanced Encryption for Less than Monthly Cost of a Coffee | Tips by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cant-remember-your-passwords-discover-how-a-password-manager-can-help-cnbc/"><u>Can't Remember Your Passwords? Discover How a Password Manager Can Help | CNBC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-review-testing-the-mistral-ais-le-chat-against-chatgpt-detailed-comparison/"><u>Comprehensive Review: Testing the Mistral AI's Le Chat Against ChatGPT - Detailed Comparison</u></a></li>
+<li><a href="https://app-tips.techidaily.com/database-leak-reveals-personal-data-of-over-30000-medical-staff-in-florida-an-in-depth-look-by-zdnet/"><u>Database Leak Reveals Personal Data of Over 30,000 Medical Staff in Florida: An In-Depth Look by ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-motorola-moto-g-stylus-5g-2023-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Motorola Moto G Stylus 5G (2023) Phones with/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-nokia-xr21-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Nokia XR21 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/securely-access-and-enhance-updated-netgear-a6200-adapter-software/"><u>Securely Access & Enhance: Updated Netgear A6200 Adapter Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-password-management-tools-of-2024-industry-experts-picks-featured-on-zdnet/"><u>Top-Ranked Password Management Tools of 2024: Industry Experts' Picks Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-exclusive-savings-on-keeper-password-manager-secure-your-accounts-now-with-a-50-discount/"><u>Unlock Exclusive Savings on Keeper Password Manager - Secure Your Accounts Now with a 50% Discount!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-s-best-green-screen-video-editing-apps-for-android-and-ios-users/"><u>Updated 2024 Approved S Best Green Screen Video Editing Apps for Android and iOS Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrade-your-security-how-1passwords-new-passkey-feature-outshines-the-master-password-insights-from-zdnet/"><u>Upgrade Your Security: How 1Password's New Passkey Feature Outshines the Master Password - Insights From ZDNet</u></a></li>
+</ul></div>
+

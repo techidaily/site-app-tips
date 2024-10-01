@@ -1,7 +1,7 @@
 ---
 title: "Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet"
-date: 2024-09-25T01:07:54.861Z
-updated: 2024-09-26T02:40:49.627Z
+date: 2024-09-30T06:28:30.301Z
+updated: 2024-10-01T00:53:26.141Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-streamline-content-sharing-a-complete-instagram-video-upload-guide-from-desktop/"><u>2024 Approved Streamline Content Sharing A Complete Instagram Video Upload Guide From Desktop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/brennen-einer-iso-image-auf-dvd-mit-windows-11-8-oder-7-schritt-fur-schritt-anleitung/"><u>Brennen Einer ISO-Image Auf DVD Mit Windows 11, 8 Oder 7 - Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/circle-construction-techniques-for-the-aspiring-minecraft-artist-for-2024/"><u>Circle Construction Techniques for the Aspiring Minecraft Artist for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-top-rated-no-cost-video-editors-cnet/"><u>Discover the Ultimate Selection of Top-Rated, No-Cost Video Editors | CNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/engineers-innovative-tool-challenges-the-giant-unveiling-how-it-continuously-shames-mcdonalds-strategies/"><u>Engineer's Innovative Tool Challenges the Giant - Unveiling How It Continuously Shames McDonald's Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expanding-low-codeno-code-landscape-implications-for-tech-job-evolution-insights-by-zdnet/"><u>Expanding Low-Code/No-Code Landscape: Implications for Tech Job Evolution - Insights by ZDNet</u></a></li>
-<li><a href="https://article-helps.techidaily.com/exploring-panoramic-versus-full-immersion-visual-media-tech-for-2024/"><u>Exploring Panoramic Versus Full-Immersion Visual Media Tech for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-set-up-and-use-wake-on-lan-in-microsofts-latest-operating-system-windows-11/"><u>How to Set Up and Use Wake-on-LAN in Microsoft's Latest Operating System, Windows 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-7-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 7</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-google-pixel-8-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Google Pixel 8 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-celebrating-cinemas-most-uplifting-scenes-and-stories/"><u>In 2024, Celebrating Cinema's Most Uplifting Scenes & Stories</u></a></li>
-<li><a href="https://app-tips.techidaily.com/innovating-nlp-how-sony-research-is-joining-forces-with-ai-singapore-spotlighted-by-zdnet/"><u>Innovating NLP: How Sony Research Is Joining Forces with AI Singapore, Spotlighted by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/joint-venture-between-sony-research-and-ai-singapore-accelerates-creation-of-next-gen-language-ai-systems/"><u>Joint Venture Between Sony Research and AI Singapore Accelerates Creation of Next-Gen Language AI Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-electronic-signature-solutions-insights-from-zdnet/"><u>Top Rated Electronic Signature Solutions - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-microsoft-faces-critical-challenge-with-windows-11-just-one-year-left-zdnet-exclusive/"><u>Urgent: Microsoft Faces Critical Challenge with Windows 11 - Just One Year Left! [ZDNet Exclusive]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-embracing-low-code-tech-boosts-employer-branding-zdnet-analysis/"><u>Why Embracing Low-Code Tech Boosts Employer Branding - ZDNet Analysis</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-understanding-2023s-push-for-shorter-more-impactful-facebook-videos/"><u>[New] 2024 Approved Understanding 2023'S Push for Shorter, More Impactful Facebook Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pros-and-cons-the-best-vr-gear-for-your-hands/"><u>[New] Pros and Cons The Best VR Gear for Your Hands</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-screen-capture-essentials-the-finest-zero-cost-apps-for-win-10-users/"><u>[New] Screen Capture Essentials The Finest Zero-Cost Apps for Win 10 Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-complete-screenrec-manual-for-laptops/"><u>[Updated] 2024 Approved The Complete ScreenRec Manual for Laptops</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-direct-download-process-from-vimeo-to-mp3-format/"><u>[Updated] In 2024, Direct Download Process From Vimeo to MP3 Format</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-iphone-x-animoji-handbook-for-seamless-experience/"><u>[Updated] Ultimate iPhone X Animoji Handbook for Seamless Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-behind-the-scenes-a-comprehensive-review-of-lgs-digital-cinema-31mu97-b-monitor/"><u>2024 Approved Behind the Scenes A Comprehensive Review of LG's Digital Cinema 31MU97-B Monitor</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-revolution-how-red-hat-enhances-system-admin-tasks-with-cutting-edge-intelligence-zdnet/"><u>AI Revolution: How Red Hat Enhances System Admin Tasks with Cutting-Edge Intelligence | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevating-developer-proficiency-through-github-copilot-the-synergy-of-productivity-and-patience-in-tech-innovation-zdnet/"><u>Elevating Developer Proficiency Through GitHub Copilot: The Synergy of Productivity and Patience in Tech Innovation | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-best-2022-mind-mapping-solutions-and-software-as-ranked-by-zdnet-experts/"><u>Explore the Best 2022 Mind Mapping Solutions and Software as Ranked by ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-artificeinvents-faster-software-development-cycles-and-the-complexities-behind-assessing-its-pace-as-reported-by-zdnet/"><u>How Artificeinvents Faster Software Development Cycles & The Complexities Behind Assessing Its Pace, as Reported by ZDNet</u></a></li>
+<li><a href="https://article-files.techidaily.com/sky-sprints-guide-to-excellence-plus-ultimate-fpv-drones-for-speed-for-2024/"><u>Sky Sprints Guide to Excellence + Ultimate FPV Drones for Speed for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategic-use-of-vpn-for-private-chatgpt-interactions/"><u>Strategic Use of VPN for Private ChatGPT Interactions?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/supercharge-your-microsoft-edge-top-pick-browser-extensions-featured-on-zdnet/"><u>Supercharge Your Microsoft Edge: Top Pick Browser Extensions Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-end-of-an-era-is-microsofts-no-cost-windows-11-enhancement-plan-over-digital-insights/"><u>The End of an Era: Is Microsoft's No-Cost Windows 11 Enhancement Plan Over? | Digital Insights</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-xs-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone XS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-cash-app-and-square-downtime-essential-info-for-smbs-insights-from-zdnet/"><u>Understanding the Cash App & Square Downtime: Essential Info for SMBs - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unmatched-longevity-suse-extends-19-year-support-on-latest-distributions-a-standout-in-the-linux-world-techinsights/"><u>Unmatched Longevity: SUSE Extends 19-Year Support on Latest Distributions - A Standout in the Linux World | TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/whats-next-for-your-windows-11-device-as-mainstream-support-winds-down-exploring-5-essential-alternatives-insights-from-zdnet/"><u>What's Next for Your Windows 11 Device as Mainstream Support Winds Down: Exploring 5 Essential Alternatives - Insights From ZDNet</u></a></li>
 </ul></div>
 

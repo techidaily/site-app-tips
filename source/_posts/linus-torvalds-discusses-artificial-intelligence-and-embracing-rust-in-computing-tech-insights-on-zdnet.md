@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses Artificial Intelligence & Embracing Rust in Computing | Tech Insights on ZDNet
-date: 2024-09-21T06:12:57.258Z
-updated: 2024-09-26T10:02:55.289Z
+date: 2024-09-24T23:45:38.787Z
+updated: 2024-10-01T04:25:26.058Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +181,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-all-encompassing-outline-googles-podcast-app-at-a-glance/"><u>[New] 2024 Approved All-Encompassing Outline Google's Podcast App at a Glance</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-prime-face-editing-tools-for-iphones-and-samsungs/"><u>[New] Prime Face-Editing Tools for iPhones and Samsungs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-quickly-locating-your-curated-music-compilation-on-youtube/"><u>[New] Quickly Locating Your Curated Music Compilation on Youtube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725286063209-dvd/"><u>「クラウド上で安心して保管! DVDデータを自由に移行するコツと評判良し」</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mobile-image-mastery-with-top-10-stickers-for-appleandroid-users/"><u>2024 Approved Mobile Image Mastery with Top 10 Stickers for Apple/Android Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/amplifying-the-role-of-it-professionals-in-shaping-customer-satisfaction-expert-analysis-by-zdnet/"><u>Amplifying the Role of IT Professionals in Shaping Customer Satisfaction | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-cutting-edge-enhancements-in-microsofts-latest-windows-11-upgrade-on-zdnet/"><u>Discover the Cutting-Edge Enhancements in Microsoft's Latest Windows 11 Upgrade on ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-easily-unlock-honor-screen-by-drfone-android/"><u>How To Easily Unlock Honor Screen?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-editing-decoded-a-deep-dive-into-magix-vpx/"><u>In 2024, The Art of Editing Decoded A Deep Dive Into Magix VPX</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-courtesy-essential-when-interacting-with-virtual-assistants-like-chatgpt-amazons-alexa-or-apples-siri/"><u>Is Courtesy Essential When Interacting with Virtual Assistants Like ChatGPT, Amazon's Alexa, or Apple's Siri?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-cloud-service-giants-an-in-depth-look-at-aws-microsoft-azure-and-google-clouds-hybrid-saas-offerings-zdnet-analysis/"><u>Leading Cloud Service Giants: An In-Depth Look at AWS, Microsoft Azure, and Google Cloud's Hybrid, SaaS Offerings - ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-windows-11-vms-expert-tips-for-optimal-configuration-wisdom-directly-from-zdnets-pros/"><u>Mastering Windows 11 VMs: Expert Tips for Optimal Configuration - Wisdom Directly From ZDNet's Pros</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-android-for-immersive-vr-experiences/"><u>Navigating Android for Immersive VR Experiences</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-obstacles-in-ai-precision-and-reliability-for-todays-developers-expert-analysis-at-zdnet/"><u>Overcoming Obstacles in AI Precision & Reliability for Today's Developers | Expert Analysis at ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-industry-handbook-zdnet-insights/"><u>Revolutionizing UX with XR, Digital Twins & Spatial Tech: A Comprehensive Industry Handbook | ZDNet Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-plex-vs-studio-prodigies/"><u>[New] Plex vs Studio Prodigies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-save-verbatim-audio-review-notes-for-2024/"><u>[New] Save Verbatim Audio, Review Notes for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/13-premium-cost-free-dvd-viewing-apps-for-windows-11-users-in-depth-reviews-and-comparisons/"><u>13 Premium, Cost-Free DVD Viewing Apps for Windows 11 Users: In-Depth Reviews & Comparisons</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-paving-pathways-in-pixels-the-leading-vr-treadmills-reviewed/"><u>2024 Approved Paving Pathways in Pixels The Leading VR Treadmills Reviewed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/array-synthesis/"><u>Array Synthesis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/color-fidelity-unleashed-in-hps-dreamcolor-monitor-for-2024/"><u>Color Fidelity Unleashed in HP's DreamColor Monitor for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-perspectives-on-the-overhyped-yet-underwhelming-reception-of-5g-technology-a-zdnet-discussion/"><u>Enterprise Perspectives on the Overhyped yet Underwhelming Reception of #5G Technology: A ZDNet Discussion</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-perfecting-yt-aesthetics-in-depth-guide-to-banner-and-art-sizing/"><u>In 2024, Perfecting YT Aesthetics In-Depth Guide to Banner & Art Sizing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/quick-resize-youtube-to-fit-mac-display-ratio/"><u>Quick Resize YouTube to Fit Mac Display Ratio</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-2c-five-increasingly-complex-questions-on-antenna-ground-systems/"><u>Section 2C: Five Increasingly Complex Questions on Antenna Ground Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-of-openstack-and-kata-containers-understanding-their-growing-market-presence/"><u>The Rising Popularity of OpenStack & Kata Containers: Understanding Their Growing Market Presence</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-antivirus-solutions-expert-review-by-zdnet/"><u>Top-Rated Antivirus Solutions - Expert Review by ZDNet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/whats-trending-on-tiktok-and-twittersphere/"><u>What's Trending on TikTok and Twittersphere</u></a></li>
 </ul></div>
 

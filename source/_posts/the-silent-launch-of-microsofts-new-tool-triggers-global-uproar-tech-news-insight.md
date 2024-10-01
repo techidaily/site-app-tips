@@ -1,7 +1,7 @@
 ---
 title: The Silent Launch of Microsoft's New Tool Triggers Global Uproar | Tech News Insight
-date: 2024-09-19 16:40:43
-updated: 2024-09-20 11:32:46
+date: 2024-09-26T06:24:23.162Z
+updated: 2024-09-30T23:59:55.300Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beginning-creators-guide-top-8-free-youtube-tutorials/"><u>[New] 2024 Approved Beginning Creator's Guide Top 8 Free YouTube Tutorials</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-direct-save-plus-alternative-pathways-your-instagram-video-guide/"><u>[New] Direct Save + Alternative Pathways Your Instagram Video Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1password-analysis-is-this-top-tier-password-solution-a-smart-investment-insights-from-tech-experts/"><u>1Password Analysis: Is This Top-Tier Password Solution a Smart Investment? - Insights From Tech Experts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-detecting-bots-amongst-your-brands-facebook-supporters/"><u>2024 Approved Detecting Bots Amongst Your Brand's Facebook Supporters</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-technology-at-wwdc-2022-zdnets-exclusive-coverage/"><u>Apple Unveils Revolutionary Passkey Technology at WWDC 2022 - ZDNet's Exclusive Coverage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cryptocom-executive-addresses-user-concerns-following-major-31m-security-breach-insights-from-zdnet/"><u>Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-game-data-glitches-easy-remedies-for-playstation-and-pc-games/"><u>Fixing Game Data Glitches: Easy Remedies for PlayStation and PC Games</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-11-pro-max-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 11 Pro Max without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/huge-black-friday-blowout-get-nordpass-premium-at-half-price-secure-your-passwords-now/"><u>Huge Black Friday Blowout! Get NordPass Premium at Half Price - Secure Your Passwords Now!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-multimedia-fusion-adding-videos-to-audio-projects/"><u>Mastering Multimedia Fusion Adding Videos to Audio Projects</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/online-video-combination-made-easy-top-5-free-tools-for-2024/"><u>Online Video Combination Made Easy Top 5 Free Tools for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-wallets-1password-joins-forces-with-brex-to-simplify-secure-transactions-according-to-zdnet-coverage/"><u>Revolutionizing Digital Wallets: 1Password Joins Forces with Brex to Simplify Secure Transactions, According to ZDNet Coverage</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ckled-earning-on-youtube-pioneering-a-non-ad-profit-pathway/"><u>Unshackled Earning on YouTube Pioneering a Non-Ad Profit Pathway</u></a></li>
+<li><a href="https://app-tips.techidaily.com/west-virginia-hospital-data-compromised-following-phishing-scheme-insights-by-zdnet/"><u>West Virginia Hospital Data Compromised Following Phishing Scheme - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zerofoxs-strategic-acquisition-of-idx-and-merger-with-landf-forms-a-mega-14b-cybersecurity-giant-insights-from-zdnet/"><u>ZeroFox's Strategic Acquisition of IDX and Merger with L&F Forms a Mega $1.4B Cybersecurity Giant - Insights From ZDNet</u></a></li>
+</ul></div>
+

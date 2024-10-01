@@ -1,7 +1,7 @@
 ---
 title: Critical Security Flaw Found in Popular Linux Tool Curl - Fixes Deployed by Developers
-date: 2024-09-22T03:59:36.197Z
-updated: 2024-09-25T18:51:53.834Z
+date: 2024-09-23T19:07:33.132Z
+updated: 2024-10-01T00:34:55.792Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +181,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-inside-apoyser-detailed-comparison-with-leading-screen-recorder-apps-for-2024/"><u>[New] Inside Apoyser Detailed Comparison with Leading Screen Recorder Apps for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-capturing-beats-studio-mac-basics/"><u>[Updated] In 2024, Capturing Beats Studio Mac Basics</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2022s-leading-collaborative-platforms-for-enhanced-teamwork-pcmag/"><u>2022'S Leading Collaborative Platforms for Enhanced Teamwork | PCMag</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-pairing-your-camera-gimbal/"><u>2024 Approved Step-by-Step Guide to Pairing Your Camera Gimbal</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dial-up-dominance-a-guide-to-visual-podcast-identity/"><u>Dial-Up Dominance A Guide to Visual Podcast Identity</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/exploring-youtubes-latest-revenue-guidelines-for-2024/"><u>Exploring YouTube's Latest Revenue Guidelines for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-picshot-transforms-mixed-media-into-masterpieces-for-2024/"><u>How Picshot Transforms Mixed Media Into Masterpieces for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/innovating-ai-research-breaking-free-from-conventional-llm-approaches/"><u>Innovating AI Research - Breaking Free From Conventional LLM Approaches</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-email-services-with-onlyoffice-a-step-by-step-guide/"><u>Integrating Email Services with ONLYOFFICE – A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-here-exploring-the-cutting-edge-of-5g-and-edge-computing-innovations-highlights-by-zdnet/"><u>The Future Is Here: Exploring the Cutting-Edge of 5G and Edge Computing Innovations | Highlights by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-pc-experience-detailed-instructions-for-replacing-windows-with-linux-mint/"><u>Transform Your PC Experience: Detailed Instructions for Replacing Windows With Linux Mint</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-gaming-excellence-with-logiteches-g-pro-x-2-lightspeed-a-comprehensive-review-for-elite-players/"><u>Unlocking Gaming Excellence with Logiteche's G Pro X 2 Lightspeed - A Comprehensive Review for Elite Players</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-microsofts-critical-challenge-with-windows-11-just-one-year-away-an-in-depth-analysis-by-zdnet/"><u>Urgent: Microsoft's Critical Challenge with Windows 11 Just One Year Away - An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-reducing-excessive-encoding-obs-broadcast/"><u>[Updated] Reducing Excessive Encoding (OBS Broadcast)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionizing-video-creation-with-magix-video-pro-x/"><u>[Updated] Revolutionizing Video Creation with Magix Video Pro X</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2023-guide-to-affordable-laptop-dvd-players-for-2024/"><u>2023 Guide to Affordable Laptop DVD Players for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/create-your-digital-twin-build-your-own-personal-ai-avatar-with-these-simple-steps-discover-the-future-of-interaction/"><u>Create Your Digital Twin: Build Your Own Personal AI Avatar with These Simple Steps – Discover the Future of Interaction</u></a></li>
+<li><a href="https://app-tips.techidaily.com/digital-evolution-in-business-the-crucial-role-of-enterprise-architects/"><u>Digital Evolution in Business: The Crucial Role of Enterprise Architects</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/dissecting-vivas-multimedia-interface/"><u>Dissecting Viva's Multimedia Interface</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-innovation-beyond-apples-walls-why-diverse-workplaces-spark-creativity/"><u>Embracing Innovation Beyond Apple's Walls - Why Diverse Workplaces Spark Creativity</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/identifying-exclusion-from-chatsphere/"><u>Identifying Exclusion From Chatsphere</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-a79-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo A79 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-v29frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo V29FRP Lock</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007059561-lost-ark-quiet-dilemma-heres-how-you-can-restore-your-game-sounds/"><u>Lost Ark Quiet Dilemma? Here's How You Can Restore Your Game Sounds!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/open-source-mastery-and-proficiency-with-linux-a-ticket-to-employment-resilience-amidst-economic-uncertainty-featured-on-zdnet/"><u>Open Source Mastery and Proficiency with Linux: A Ticket to Employment Resilience Amidst Economic Uncertainty | Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-higher-output-with-the-programmer-approach-learn-from-dev-teams-zdnet/"><u>Unlocking Higher Output with the Programmer Approach - Learn From Dev Teams | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-professionals-prefer-windows-11-according-to-microsoft-and-zdnet-analysis/"><u>Why Professionals Prefer Windows 11, According to Microsoft & ZDNet Analysis</u></a></li>
 </ul></div>
 

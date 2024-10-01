@@ -1,7 +1,7 @@
 ---
 title: Easily Transition Your Saved Passwords From LastPass to iCloud for Windows Systems | ZDNet
-date: 2024-09-23T03:02:45.775Z
-updated: 2024-09-25T17:36:50.687Z
+date: 2024-09-25T07:07:46.698Z
+updated: 2024-09-30T22:32:02.163Z
 tags:
   - password-manager
 categories:
@@ -34,10 +34,10 @@ But how can I remember all these passwords if I can't even remember my significa
 ## How to use iCloud as a password manager on Windows
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open iCloud for Windows
@@ -49,6 +49,13 @@ Make sure you have [downloaded iCloud for your Windows PC](https://apps.microsof
 Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your iCloud Passwords
 
@@ -70,6 +77,13 @@ Make sure Passwords is on and click **Apply**.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Add browser extension
 
 At this point, you can also add a browser extension to [Google Chrome](https://www.zdnet.com/article/malicious-google-chrome-extensions-affect-1-4-million-users/) or [Microsoft Edge](https://www.zdnet.com/article/beef-up-microsoft-edge-with-my-favorite-add-ons/) by following the instructions in the iCloud for Windows app. 
@@ -79,19 +93,6 @@ Once you click **Install Extension** in iCloud, you'll be able to add the **iClo
 Maria Diaz/ZDNET
 
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
 
@@ -109,13 +110,6 @@ Enter the verification code.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Try out the password manager
 
 After you set up iCloud for [Windows](https://www.zdnet.com/article/windows-11-22h2-how-to-get-microsofts-latest-os-update-and-whats-coming-next/) as a password manager and your browser extension, you can try it out by going to a website and trying to log in.
@@ -129,10 +123,10 @@ Like LastPass, the browser extension will let you fill in your login information
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -181,24 +175,20 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-combining-camera-and-display-in-one-go/"><u>[New] Combining Camera and Display in One Go</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-ultimate-smartphone-list-for-capturing-crystal-clear-video/"><u>[Updated] 2024 Approved Ultimate Smartphone List for Capturing Crystal Clear Video</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-your-digital-talk-leading-web-based-text-to-speech-apps-for-chrome/"><u>[Updated] In 2024, Mastering Your Digital Talk Leading Web-Based Text-to-Speech Apps for Chrome</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instasaves-the-leading-videophoto-downloaders/"><u>[Updated] InstaSaves The Leading Video/Photo Downloaders</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-calculating-costs-music-video-filming/"><u>2024 Approved Calculating Costs Music Video Filming</u></a></li>
-<li><a href="https://app-tips.techidaily.com/agile-methods-clash-with-ai-projects-insights-from-a-new-study-zdnet/"><u>Agile Methods Clash with AI Projects: Insights From a New Study | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/banking-innovation-at-risk-cio-warns-against-reliance-on-easy-prompt-tech-in-favour-of-creative-geniuses/"><u>Banking Innovation at Risk: CIO Warns Against Reliance on Easy-Prompt Tech in Favour of Creative Geniuses</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dive-into-business-before-technology-to-excel-as-a-tech-team-leader-strategies-by-zdnet/"><u>Dive Into Business Before Technology to Excel as a Tech Team Leader | Strategies by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-professional-edge-without-solely-focusing-on-ai-insights-for-todays-workforce/"><u>Elevate Your Professional Edge Without Solely Focusing on AI | Insights for Today's Workforce</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-synergy-how-ai-empowers-developers-and-business-teams-insights-from-zdnet/"><u>Enhancing Synergy: How AI Empowers Developers & Business Teams - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-emerging-companies-can-leverage-ai-models-to-capture-market-share-insights-from-zdnet/"><u>How Emerging Companies Can Leverage AI Models to Capture Market Share: Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/r-quick-youtube-video-rendering-and-efficient-uploading-for-2024/"><u>Master Quick YouTube Video Rendering & Efficient Uploading for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-your-career-trajectory-with-ai-strategies-for-tech-professionals-on-zdnet/"><u>Mastering Your Career Trajectory with AI: Strategies for Tech Professionals on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-of-integrating-artificasternotext-ai-and-agile-methodologies-zdnet-reported-findings/"><u>Navigating the Complexities of Integrating Artificasternotext AI and Agile Methodologies - ZDNET Reported Findings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-rise-of-agent-ecosystems-in-artificial-intelligence-future-service-domination/"><u>Navigating the Rise of Agent Ecosystems in Artificial Intelligence: Future Service Domination</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fcp-or-lumafusion-the-pros-and-cons-of-each-video-editing-software/"><u>New 2024 Approved FCP or LumaFusion The Pros and Cons of Each Video Editing Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/perfect-your-video-pacing-with-these-snapchat-tips-for-2024/"><u>Perfect Your Video Pacing with These Snapchat Tips for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-cyberpunk-2077-performance-issues-smooth-gameplay-achieved/"><u>Resolved: Cyberpunk 2077 Performance Issues - Smooth Gameplay Achieved</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/turn-fb-vids-into-savable-mp3-files-for-2024/"><u>Turn FB Vids Into Savable MP3 Files for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-upload-longer-videos-to-instagram-on-mac/"><u>[New] How to Upload Longer Videos to Instagram on Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/a-guide-to-resolving-undetected-audio-hardware-problems-on-your-pc-running-windows-11/"><u>A Guide to Resolving Undetected Audio Hardware Problems on Your PC Running Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/analyzing-if-elite-ai-services-merit-their-price-tags/"><u>Analyzing if Elite AI Services Merit Their Price Tags</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/discover-the-best-no-cost-dvd-unlocking-software-compatible-with-windows-11-expert-picks-and-direct-links/"><u>Discover the Best No-Cost DVD Unlocking Software Compatible with Windows 11: Expert Picks & Direct Links</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-tech-squads-amplifying-their-role-in-enhancing-customer-journey-insights-from-zdnet/"><u>Empowering Tech Squads: Amplifying Their Role in Enhancing Customer Journey – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-evolution-of-developer-roles-insights-from-atlassians-agnes-ro-featured-in-zdnet/"><u>Exploring the Evolution of Developer Roles: Insights From Atlassian’s Agnes Ro – Featured in ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-ensure-seamless-gameplay-on-windows-pcs-eliminating-crashing-problems/"><u>How To: Ensure Seamless Gameplay on Windows PCs - Eliminating Crashing Problems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g84-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G84 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-cloud-native-futures-unveiling-skillsets-and-enhanced-security-in-emerging-platforms-insights-from-zdnet/"><u>Navigating Cloud-Native Futures: Unveiling Skillsets & Enhanced Security in Emerging Platforms - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-ops-integration-and-its-complexities-within-enterprise-it-environments-as-analyzed-by-zdnet/"><u>Navigating Ops Integration and Its Complexities Within Enterprise IT Environments, as Analyzed by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-your-path-in-technology-insights-from-industry-leaders-at-global-aerospace-giant/"><u>Navigating Your Path in Technology: Insights From Industry Leaders at Global Aerospace Giant</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/safeguard-data-transfer-overcoming-ssl-certificate-issues-and-hidden-errors/"><u>Safeguard Data Transfer: Overcoming SSL Certificate Issues and Hidden Errors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-artificer-adobes-revolutionary-ai-tool-for-enhancing-business-teams-explained-by-zdnet/"><u>Unleashing the Power of Artificer: Adobe's Revolutionary AI Tool for Enhancing Business Teams, Explained by ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/windows-8-avi-editor-a-simple-way-to-edit-and-enhance-videos/"><u>Windows 8 AVI Editor A Simple Way to Edit and Enhance Videos</u></a></li>
 </ul></div>
 

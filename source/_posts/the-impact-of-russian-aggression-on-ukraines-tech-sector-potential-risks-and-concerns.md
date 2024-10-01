@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Russian Aggression on Ukraine's Tech Sector: Potential Risks and Concerns"
-date: 2024-09-21T16:02:34.745Z
-updated: 2024-09-25T17:28:09.675Z
+date: 2024-09-28T07:24:30.581Z
+updated: 2024-09-30T21:01:13.470Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +187,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-quicksnap-screen-record-assessment-plus-choices/"><u>[New] 2024 Approved Quicksnap Screen Record Assessment + Choices</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-can-adobe-shake-control-enhance-creative-process-in-photoshop/"><u>[New] Can Adobe Shake Control Enhance Creative Process in Photoshop?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-step-by-step-guide-to-switch-game-recording/"><u>[New] In 2024, Step-by-Step Guide to Switch Game Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-step-by-step-minecraft-video-editing-process/"><u>[Updated] 2024 Approved Step-by-Step Minecraft Video Editing Process</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-selecting-superior-long-range-wifi-routers/"><u>Comprehensive Review: Selecting Superior Long-Range WiFi Routers</u></a></li>
-<li><a href="https://win-able.techidaily.com/halo-infinite-pc-stability-fixes-for-continuous-crashes-and-freezes/"><u>Halo Infinite PC Stability: Fixes for Continuous Crashes and Freezes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-11-pro-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 11 Pro Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-world-of-video-chats-on-your-xbox-console/"><u>In 2024, Navigating the World of Video Chats on Your Xbox Console</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-system-administration-how-red-hat-integrates-ai-for-enhanced-efficiency/"><u>Revolutionizing System Administration: How Red Hat Integrates AI for Enhanced Efficiency</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-shift-to-non-techies-leading-enterprise-tech-revolution-insights-from-zdnet/"><u>The Shift to Non-Techies Leading Enterprise Tech Revolution – Insights From ZDNet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-smartphone-to-vr-makeover-tutorial-for-2024/"><u>The Ultimate Smartphone-to-VR Makeover Tutorial for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-amazons-cutting-edge-ai-benchmark-assessing-relevance-answers-and-contextual-groundings/"><u>Unveiling Amazon's Cutting-Edge AI Benchmark: Assessing Relevance, Answers & Contextual Groundings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-open-source-expertise-and-linux-mastery-remain-highly-sought-after-despite-challenging-financial-climates-insights-from-zdnet/"><u>Why Open-Source Expertise & Linux Mastery Remain Highly Sought After, Despite Challenging Financial Climates - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-video-magic-best-tools-for-effortless-webm-conversion/"><u>[New] YouTube Video Magic Best Tools for Effortless WebM Conversion</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-what-is-the-best-free-stop-motion-animation-software-check-this-article-if-you-are-curious-about-the-answer-we-will-recommend-8-editors-for-wi/"><u>2024 Approved What Is the Best Free Stop Motion Animation Software? Check This Article if You Are Curious About the Answer. We Will Recommend 8 Editors for Windows and Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/celona-secures-60m-in-series-c-funding-drives-enterprise-5g-revolution-what-you-need-to-know/"><u>Celona Secures $60M in Series C Funding, Drives Enterprise 5G Revolution: What You Need to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-tecno-spark-20c-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Tecno Spark 20C.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-pop-7-pro-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Pop 7 Pro using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/illustrator-tips-achieving-natural-motion-blur/"><u>Illustrator Tips Achieving Natural Motion Blur</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-6-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 6 SIM Lock?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimize-content-delivery-top-12-html5-video-platforms/"><u>In 2024, Optimize Content Delivery Top 12 HTML5 Video Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-tips-for-smaller-streamlined-videos-mastering-file-compression-with-avidemux/"><u>Quick Tips for Smaller, Streamlined Videos: Mastering File Compression with Avidemux</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revealed-employee-testimonial-why-you-might-prefer-not-to-work-at-apple-according-to-insiders/"><u>Revealed: Employee Testimonial – Why You Might Prefer Not to Work at Apple According to Insiders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-power-of-citizen-developers-in-driving-enterprise-software-innovation/"><u>Rising Power of Citizen Developers in Driving Enterprise Software Innovation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/sonys-collaboration-with-ai-singapore-fuels-development-of-advanced-large-language-models/"><u>Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-desktop-distributions-reviewed-why-linux-mint-22-stands-out-above-the-rest/"><u>Top Desktop Distributions Reviewed - Why Linux Mint 22 Stands Out Above the Rest</u></a></li>
 </ul></div>
 

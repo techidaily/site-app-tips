@@ -1,7 +1,7 @@
 ---
 title: The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights
-date: 2024-09-22T10:38:04.266Z
-updated: 2024-09-26T01:00:48.517Z
+date: 2024-09-29T03:35:00.825Z
+updated: 2024-10-01T01:09:18.356Z
 tags:
   - password-manager
 categories:
@@ -110,10 +110,10 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -140,10 +140,10 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -191,18 +191,15 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-freepaid-audio-cleanup-tools-for-higher-video-quality/"><u>[New] In 2024, Free/Paid Audio-Cleanup Tools for Higher Video Quality</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-laughing-up-high-reddit-and-twitters-top-twenty/"><u>[Updated] 2024 Approved Laughing Up High Reddit and Twitter's Top Twenty</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-insights-on-lg-bp350-user-perspectives-and-ratings/"><u>2024 Approved Insights on LG BP350 - User Perspectives and Ratings</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-tecno-spark-go-2023-to-mac-drfone-by-drfone-android/"><u>How to Mirror Tecno Spark Go (2023) to Mac? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Motorola Moto G84 5G</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-sequel-of-seconds-measuring-20mb-footage/"><u>In 2024, Sequel of Seconds Measuring 20MB Footage</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-friends-into-your-chat-list-a-comprehensive-tutorial-for-ios-and-android-users-of-whatsapp/"><u>Integrating Friends Into Your Chat List: A Comprehensive Tutorial for iOS & Android Users of WhatsApp</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/la-guia-definitiva-los-26-mejores-programas-de-preparacion-de-conferencias-en-2024/"><u>La Guía Definitiva: Los 26 Mejores Programas De Preparación De Conferencias en 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/maximizing-gaming-experience-record-games-on-win10-for-2024/"><u>Maximizing Gaming Experience Record Games on Win10 for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revise-your-mobile-details-easily-the-ultimate-walkthrough-for-switching-numbers-on-whatsapp/"><u>Revise Your Mobile Details Easily: The Ultimate Walkthrough for Switching Numbers on WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-adding-new-contacts-in-whatsapp-across-iphone-and-android-devices/"><u>Step-by-Step Guide: Adding New Contacts in WhatsApp Across iPhone & Android Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/trading-highs-and-lows-gpts-role-in-digital-asset-markets/"><u>Trading Highs & Lows: GPT's Role in Digital Asset Markets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-how-to-restore-deleted-whatsapp-conversations-on-android-phones/"><u>Ultimate Guide: How to Restore Deleted WhatsApp Conversations on Android Phones</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-elevate-audio-quality-in-podcasts-using-garageband/"><u>[New] In 2024, Elevate Audio Quality in Podcasts Using GarageBand</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-deciphering-advanced-hdr-camera-features/"><u>[Updated] In 2024, Deciphering Advanced HDR Camera Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-essentials-of-apple-mdm-and-deploying-on-the-ios-ecosystem/"><u>Discover the Essentials of Apple MDM & Deploying on the iOS Ecosystem</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-user-friendly-android-notes-applications-the-best-picks-you-need/"><u>Discover the Ultimate List of FREE, User-Friendly Android Notes Applications: The Best Picks You Need</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-the-mumu-player-a-high-performance-android-simulator-for-desktop-environments/"><u>Experience the MuMu Player: A High-Performance Android Simulator for Desktop Environments</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-examination-of-nox-player-insights-on-functionality-advantages-and-limitations/"><u>In-Depth Examination of Nox Player: Insights on Functionality, Advantages, and Limitations</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/onboarding-ist-entscheidend-erkennen-sie-die-risiken-bei-denen-fast-jeder-unternehmen-mit-dem-verlust-von-interessenten-rechnen-sollte/"><u>Onboarding Ist Entscheidend: Erkennen Sie Die Risiken, Bei Denen Fast Jeder Unternehmen Mit Dem Verlust Von Interessenten Rechnen Sollte.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcoming-obstacles-installing-drivers-on-windows/"><u>Overcoming Obstacles: Installing Drivers on Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/social-media-archives-live-version-for-2024/"><u>Social Media Archives - Live Version for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-6-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 6</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Humble Code That Put Big Mac in a Bind: How an Ingenious Application Challenged McDonald's Systems"
-date: 2024-09-18 18:13:19
-updated: 2024-09-20 12:55:52
+date: 2024-09-27T03:19:47.962Z
+updated: 2024-09-30T17:05:21.593Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-rapid-shot-mastery-the-ultimate-guide-to-homemade-cinematography/"><u>[New] Rapid Shot Mastery The Ultimate Guide to Homemade Cinematography</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-breakdown-the-broadcasting-barrier-easy-windows-pc-guide-to-live-tv-recording/"><u>[Updated] In 2024, Breakdown the Broadcasting Barrier Easy Windows PC Guide to Live TV Recording</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beyond-the-screen-top-periscope-substitutes-for-smartphones/"><u>2024 Approved Beyond the Screen Top Periscope Substitutes for Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bavarias-transition-adopting-open-source-with-linux-and-libreoffice-instead-of-microsoft-insights-from-zdnet/"><u>Bavaria's Transition: Adopting Open-Source with Linux and LibreOffice Instead of Microsoft - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/before-your-windows-10-becomes-unsupported-top-5-options-revealed-by-zdnet/"><u>Before Your Windows 10 Becomes Unsupported: Top 5 Options Revealed by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-what-sets-macos-sonoma-apart-key-updates-and-tips-explored-by-experts-at-zdnet/"><u>Discover What Sets macOS Sonoma Apart: Key Updates and Tips Explored by Experts at ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortlessly-embedding-subtitles-in-your-film-using-movavi-the-ultimate-how-to-tutorial/"><u>Effortlessly Embedding Subtitles in Your Film Using Movavi - The Ultimate How-To Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/has-microsoft-retracted-its-promise-of-a-complimentary-windows-11-update-promotion-tech-news/"><u>Has Microsoft Retracted Its Promise of a Complimentary Windows 11 Update Promotion? | Tech News</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-becoming-an-insta-star-in-a-flash-top-15-insider-tactics-that-work-wonders-for-rapid-fame-growth/"><u>In 2024, Becoming an Insta Star in a Flash Top 15 Insider Tactics That Work Wonders for Rapid Fame Growth</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-c53-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme C53 Lock Screen Password</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kobo-clara-hd-review-a-comprehensive-look-at-the-color-e-reader/"><u>Kobo Clara HD Review: A Comprehensive Look at the Color E-Reader</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-ease-inease-out-techniques-in-camtasa-9/"><u>Mastering Ease In/Ease Out Techniques in Camtasa 9</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-photoshop-fundamentals-a-beginners-guide-to-simple-image-editing-techniques/"><u>Mastering Photoshop Fundamentals: A Beginner's Guide to Simple Image Editing Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rise-above-challenges-top-10-advanced-tricks-for-dominating-subway-surfers/"><u>Rise Above Challenges: Top 10 Advanced Tricks for Dominating Subway Surfers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-teamwork-platforms-of-2022-expert-reviews-and-comparisons/"><u>Top 5 Teamwork Platforms of 2022 - Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uncovering-the-joy-why-life-after-apple-proves-to-be-an-exciting-journey-zdnet/"><u>Uncovering the Joy: Why Life After Apple Proves To Be an Exciting Journey | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-defender-essentials-a-guide-to-securing-personal-and-smb-computers/"><u>Windows Defender Essentials: A Guide to Securing Personal & SMB Computers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-swiss-government-leads-by-example-mandates-open-source-sharing-for-official-software-a-new-era-of-public-tech/"><u>ZDNet Exclusive: Swiss Government Leads by Example, Mandates Open Source Sharing for Official Software | A New Era of Public Tech</u></a></li>
+</ul></div>
+

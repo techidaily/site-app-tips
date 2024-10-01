@@ -1,7 +1,7 @@
 ---
 title: Sony's Research Division Partners with AI Singapore to Enhance Large Language Model Development
-date: 2024-09-18 18:56:48
-updated: 2024-09-20 12:27:20
+date: 2024-09-27T17:20:40.115Z
+updated: 2024-10-01T10:18:12.913Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-ultimate-fb-video-player-guide-top-picks-listed/"><u>[New] In 2024, Ultimate FB Video Player Guide Top Picks Listed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-effective-strategies-for-exporting-photos-from-your-device-to-snapchat/"><u>2024 Approved Effective Strategies for Exporting Photos From Your Device to Snapchat</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-executive-technology-literacy-top-six-strategies-for-upskilling-leaders/"><u>Boosting Executive Technology Literacy: Top Six Strategies for Upskilling Leaders</u></a></li>
+<li><a href="https://discover-best.techidaily.com/enhanced-user-engagement-with-automated-cookiebot-integration/"><u>Enhanced User Engagement with Automated Cookiebot Integration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/global-shift-towards-digital-wallets-anticipated-growth-to-16t-asia-paving-the-way-zdnet/"><u>Global Shift Towards Digital Wallets - Anticipated Growth to $1.6T, Asia Paving the Way | ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-x-fold-2-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo X Fold 2 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/izing-youtube-revenue-understanding-adsense-payments-per-thousand-views-for-2024/"><u>Maximizing Youtube Revenue Understanding AdSense Payments per Thousand Views for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-new-normal-essential-strategies-for-tech-experts-amidst-the-rise-of-artificial-intelligence-insights-from-zdnet/"><u>Navigating the New Normal: Essential Strategies for Tech Experts Amidst the Rise of Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ready-for-upskilling-explore-non-ai-edge-tech-trends-and-tips-learn-more-on-zdnet/"><u>Ready for Upskilling? Explore Non-AI Edge Tech Trends and Tips - Learn More on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-human-connections-why-tech-experts-should-engage-in-meaningful-dialogue-beyond-datasets/"><u>Reviving Human Connections: Why Tech Experts Should Engage in Meaningful Dialogue Beyond Datasets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syncing-with-symphonies-music-on-whatsapp-status-for-2024/"><u>Syncing with Symphonies Music on WhatsApp Status for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-y27-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo Y27 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://app-tips.techidaily.com/training-leaders-before-deploying-artificial-intelligence-insights-from-zdnet/"><u>Training Leaders Before Deploying Artificial Intelligence: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uncovering-the-next-breakthrough-the-quest-for-an-ultimate-5g-app-beyond-just-speed-and-connection-zdnet/"><u>Uncovering the Next Breakthrough: The Quest for an Ultimate 5G App Beyond Just Speed and Connection | ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo S18 | Dr.fone</u></a></li>
+</ul></div>
+

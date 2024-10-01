@@ -1,7 +1,7 @@
 ---
 title: "Taming the Disarray in Linux/Open Source Manuals: Expert Fixes on ZDNet"
-date: 2024-09-18 11:20:22
-updated: 2024-09-20 10:35:51
+date: 2024-09-24T18:52:30.494Z
+updated: 2024-10-01T00:28:38.755Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,24 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-leading-edge-headsets-for-drone-vr-use/"><u>[Updated] 2024 Approved Leading Edge Headsets for Drone VR Use</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-turning-fans-into-followers-friends-and-profits/"><u>[Updated] In 2024, Turning Fans Into Followers, Friends, and Profits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/busting-top-5-fallacies-surrounding-the-profitability-of-data-sharing-techwise-insights/"><u>Busting Top 5 Fallacies Surrounding the Profitability of Data Sharing | TechWise Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-you-master-artificial-intelligence-without-technical-expertise-understanding-the-need-for-varied-education-in-complex-systems-zdnet/"><u>Can You Master Artificial Intelligence Without Technical Expertise? Understanding the Need for Varied Education in Complex Systems | ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easily-watch-flv-format-in-windows-10-with-these-simple-tricks/"><u>Easily Watch Flv Format in Windows 10 with These Simple Tricks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/half-of-all-biz-marketers-now-leverage-ai-tools-insights-from-zdnet/"><u>Half of All Biz Marketers Now Leverage AI Tools: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ibm-survey-highlights-growing-skepticism-among-corporate-heads-towards-it-discover-the-factors-zdnet/"><u>IBM Survey Highlights Growing Skepticism Among Corporate Heads Towards IT - Discover the Factors | ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-elevate-your-photo-game-top-5-android-photo-editors-ranked/"><u>In 2024, Elevate Your Photo Game Top 5 Android Photo Editors Ranked</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oneplus-ace-3-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on OnePlus Ace 3 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Motorola Moto E13? | Dr.fone</u></a></li>
+</ul></div>
+

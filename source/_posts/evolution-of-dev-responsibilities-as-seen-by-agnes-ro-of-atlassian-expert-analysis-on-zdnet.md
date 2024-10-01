@@ -1,7 +1,7 @@
 ---
 title: Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet
-date: 2024-09-25T05:44:32.836Z
-updated: 2024-09-26T03:05:57.934Z
+date: 2024-09-28T23:23:47.672Z
+updated: 2024-09-30T21:29:35.418Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,17 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-fire-browser-revolution-top-extra-tools-to-streamline-facebook-video-downloads-on-firefox/"><u>[Updated] In 2024, Fire-Browser Revolution Top Extra Tools to Streamline Facebook Video Downloads on FireFox</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-virtual-reality-filming-tips-and-tricks-for-gamers/"><u>[Updated] Virtual Reality Filming Tips and Tricks for Gamers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-11-pro-maxipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 11 Pro Max/iPad/iPod</u></a></li>
-<li><a href="https://app-tips.techidaily.com/approach/"><u>Approach</u></a></li>
-<li><a href="https://app-tips.techidaily.com/future-of-ai-innovations-in-the-coming-years-insights-and-predictions-zdnet/"><u>Future of AI Innovations in the Coming Years - Insights & Predictions | ZDNet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/seeking-excellence-prime-free-srt-online-translators-guide-for-2024/"><u>Seeking Excellence Prime Free SRT Online Translators Guide for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-switching-from-windows-to-linux-mint-on-your-computer-tips-and-tricks/"><u>Step-by-Step Guide: Switching From Windows to Linux Mint on Your Computer - Tips & Tricks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-now-how-cloud-services-are-evolving-according-to-industrys-premier-technology-visionaries/"><u>The Future Is Now: How Cloud Services Are Evolving According to Industry's Premier Technology Visionaries</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transformacion-instantanea-de-archivos-mkv-en-avi-utilizando-vlc-sin-marcado-de-agua/"><u>Transformación Instantánea De Archivos MKV en AVI Utilizando VLC Sin Marcado De Agua</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unique-uses-in-us-uk-english/"><u>Unique Uses in US-UK English</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-a-world-of-visual-conversations-with-lipsync-a-game-changing-rival-to-microsoft-teams-and-zoom-on-zdnet/"><u>Unlock a World of Visual Conversations with LipSync: A Game-Changing Rival to Microsoft Teams and Zoom on ZDNet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/win11s-ultimate-screen-recording-kit/"><u>Win11's Ultimate Screen Recording Kit</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-dissecting-apowersoft-an-in-depth-screen-recorder-study-for-2024/"><u>[New] Dissecting Apowersoft An In-Depth Screen Recorder Study for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unlinking-from-youtube-shorts-the-complete-process/"><u>[New] In 2024, Unlinking From YouTube Shorts - The Complete Process</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-insightful-analysis-unveiling-the-challenges-of-leveraging-generative-ai-in-business-key-findings-from-deloittes-latest-study/"><u>1. Insightful Analysis: Unveiling the Challenges of Leveraging Generative AI in Business - Key Findings From Deloitte's Latest Study</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-addressing-android-and-ios-issues-with-fb-messages-video-transmission/"><u>2024 Approved Addressing Android & iOS Issues with FB Messages Video Transmission</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-eternal-void-a-complete-ban-on-youtube-short-video-feature/"><u>2024 Approved Eternal Void A Complete Ban on YouTube Short Video Feature</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-perfectly-sized-videos-for-maximum-engagement-on-instagram/"><u>2024 Approved Perfectly Sized Videos for Maximum Engagement on Instagram</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-why-are-status-emojis-blue-understanding-fbs-visual-language/"><u>2024 Approved Why Are Status Emojis Blue? Understanding FB's Visual Language</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amazon-introduces-innovative-ai-metric-for-response-accuracy-and-grounding/"><u>Amazon Introduces Innovative AI Metric for Response Accuracy and Grounding</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-amazon-is-redefining-ai-assessment-with-a-novel-rag-metric-insights-from-recent-zdnet-analysis/"><u>How Amazon Is Redefining AI Assessment with a Novel RAG Metric – Insights From Recent ZDNET Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-safely-set-up-your-own-windows-recovery-disk-using-easy-4-step-guide-techinsights/"><u>How to Safely Set Up Your Own Windows Recovery Disk Using Easy 4-Step Guide | TechInsights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-enhancing-streaming-quality-using-obs-plus-zoom/"><u>In 2024, Enhancing Streaming Quality Using OBS + Zoom</u></a></li>
+<li><a href="https://app-tips.techidaily.com/intrusion-detection-systems/"><u>Intrusion Detection Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-efficiency-on-chromebooks-discover-essential-navigation-tricks-and-performance-boosters-zdnet/"><u>Maximize Efficiency on Chromebooks: Discover Essential Navigation Tricks & Performance Boosters | ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nahimic-drivers-update-instant-and-simple-setup-guide/"><u>Nahimic Drivers Update: Instant and Simple Setup Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-job-market-the-persistent-value-of-open-source-expertise-and-linux-knowledge-in-challenging-economic-times-insights-from-zdnet/"><u>Navigating the Job Market: The Persistent Value of Open Source Expertise & Linux Knowledge in Challenging Economic Times - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-steps-to-correctly-address-error-code-0x800f081f-in-net-framework-35-setup/"><u>Resolving the Issue: Steps to Correctly Address Error Code 0X800F081F in .NET Framework 3.5 Setup</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-innovators-flocking-to-open-source-projects-a-deep-dive-zdnet/"><u>Top Innovators Flocking to Open Source Projects - A Deep Dive | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-foldable-iphone-revealed-estimated-cost-and-release-timeline-unveiled-with-latest-speculations/"><u>Upcoming Foldable iPhone Revealed! Estimated Cost & Release Timeline Unveiled with Latest Speculations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/work-anywhere-discover-how-onedrives-new-offline-feature-keeps-you-productive-no-matter-where-you-are/"><u>Work Anywhere: Discover How OneDrive's New Offline Feature Keeps You Productive, No Matter Where You Are</u></a></li>
 </ul></div>
 

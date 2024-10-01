@@ -1,7 +1,7 @@
 ---
 title: The Design of an Artificial Earth Plane Can Vary Depending on the Frequency of Operation; at Lower Frequencies, a Larger Physical Area May Be Needed to Effectively Reflect Radio Waves.
-date: 2024-09-24T20:52:23.132Z
-updated: 2024-09-26T06:49:02.412Z
+date: 2024-09-28T03:36:41.088Z
+updated: 2024-09-30T16:11:39.159Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,15 +181,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-covertly-crafted-covers-for-iphones-and-androids-for-2024/"><u>[New] Covertly Crafted Covers for iPhones & Androids for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-master-the-art-of-youtube-outros-with-pros-and-resources/"><u>[Updated] Master the Art of YouTube Outros with Pros and Resources</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-innovative-cloud-storage-options-in-2s024/"><u>[Updated] Unveiling Innovative Cloud Storage Options in 2S024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/best-comprehensive-recorder-apps-pcmacos/"><u>Best Comprehensive Recorder Apps - PC/macOS</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/first-flights-made-simple-kid-approved-beginner-drones/"><u>First Flights Made Simple Kid-Approved Beginner Drones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/five-essential-strategies-for-your-windows-10-computer-as-microsoft-support-nears-its-end/"><u>Five Essential Strategies for Your Windows 10 Computer as Microsoft Support Nears Its End</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-12-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi 12 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-journey-successful-strategies-for-upgrading-to-ubuntu-linux-2404-insights-from-zdnet/"><u>Navigating the Journey: Successful Strategies for Upgrading to Ubuntu Linux 24.04 - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-the-wild-expert-strategies-for-cleaner-linux-and-open-source-documentation/"><u>Taming the Wild: Expert Strategies for Cleaner Linux and Open Source Documentation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-expanding-low-codeno-code-landscape-how-its-reshaping-tech-job-roles-insights-from-zdnet/"><u>The Expanding Low-Code/No-Code Landscape: How It's Reshaping Tech Job Roles – Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-make-money-on-periscope-if-you-are-new-to-this-space/"><u>[New] How to Make Money on Periscope if You Are New to This Space</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-strategies-to-combat-freezing-in-high-quality-mode/"><u>[Updated] Strategies to Combat Freezing in High Quality Mode</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-methods-for-sharing-big-videos-via-whatsapp-on-your-iphone/"><u>Effective Methods for Sharing Big Videos via WhatsApp on Your iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-strategies-managing-your-visibility-and-last-seen-timestamp-on-whatsapp/"><u>Expert Strategies: Managing Your Visibility and Last Seen Timestamp on WhatsApp</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-m34-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy M34 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-bring-back-your-pcs-bluetooth-in-windows-11-with-these-9-tips/"><u>How to Bring Back Your PC’s Bluetooth in Windows 11 with These 9 Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/swift-solutions-retrieving-your-lost-whatsapp-messages-on-iphone-with-simple-techniques/"><u>Swift Solutions: Retrieving Your Lost WhatsApp Messages on iPhone with Simple Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-on-restoring-past-whatsapp-dialogues-and-mastering-the-art-of-unarchiving-texts/"><u>The Ultimate Tutorial on Restoring Past WhatsApp Dialogues & Mastering the Art of Unarchiving Texts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-weather-monitoring-mobile-applications/"><u>Top-Rated Weather Monitoring Mobile Applications</u></a></li>
 </ul></div>
 

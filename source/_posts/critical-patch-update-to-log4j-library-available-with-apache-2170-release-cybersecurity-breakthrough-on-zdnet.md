@@ -1,7 +1,7 @@
 ---
 title: Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET
-date: 2024-09-25T06:17:14.777Z
-updated: 2024-09-25T18:21:23.694Z
+date: 2024-09-25T02:03:19.404Z
+updated: 2024-09-30T23:44:34.068Z
 tags:
   - password-manager
 categories:
@@ -108,10 +108,10 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -189,22 +189,18 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-copyright-clash-violation-removal-came-quick/"><u>[New] In 2024, Copyright Clash Violation, Removal Came Quick</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-benefits-of-tubebuddy-manage-your-youtube-channel-more-easily/"><u>[New] The Benefits of TubeBuddy | Manage Your YouTube Channel More Easily</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-uncovering-budget-friendly-video-communication-apps-pcmac/"><u>[Updated] 2024 Approved Uncovering Budget-Friendly Video Communication Apps PC/MAC</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/announcing-adrian-jones-the-latest-cro-leading-abbyys-growth-strategies/"><u>Announcing Adrian Jones: The Latest CRO Leading ABBYY's Growth Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-apple-clips-in-depth-analysis-and-tips/"><u>Comprehensive Guide to Using Apple Clips: In-Depth Analysis and Tips</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-11-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 11 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-xs-and-xs-max-mastery-guide-unlocking-advanced-functionality-benefits-and-specifications/"><u>IPhone XS & XS Max Mastery Guide: Unlocking Advanced Functionality, Benefits, and Specifications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-communication-avoid-missing-calls-amidst-noise-or-muting-with-advanced-flash-tech-for-up-to-10-contacts/"><u>Master Your Communication: Avoid Missing Calls Amidst Noise or Muting with Advanced Flash Tech for Up to 10 Contacts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-automated-photography-setting-timers-on-iphones-and-android-devices/"><u>Mastering the Art of Automated Photography: Setting Timers on iPhones & Android Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-definitive-guide-to-resolving-black-monitor-malfunctions-successfully/"><u>The Definitive Guide to Resolving Black Monitor Malfunctions Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-fix-for-outdated-driver-message-in-minecraft-step-by-step/"><u>The Ultimate Fix for 'Outdated Driver Message' In Minecraft - Step by Step</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-remote-control-applications-for-your-android-device-via-pc-the-ultimate-2024-guide/"><u>Top 5 Remote Control Applications for Your Android Device via PC: The Ultimate 2024 Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-trusted-ipad-video-player-apps-of-2024-install-now/"><u>Top 5 Trusted iPad Video Player Apps of 2024 - Install Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-shotcut-video-editor-a-comprehensive-guide-dont-miss-it/"><u>Top-Ranked Shotcut Video Editor: A Comprehensive Guide - Don't Miss It!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/tutorial-rapido-realizar-una-copia-de-seguridad-inmaculada-de-dvd-clasicos-o-modernos-sin-compromiso-de-calidad/"><u>Tutorial Rápido: Realizar Una Copia De Seguridad Inmaculada De DVD Clásicos O Modernos Sin Compromiso De Calidad</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193118-ultimate-summary-and-expert-take-on-gopro-quik-your-essential-reading-for-this-year/"><u>Ultimate Summary and Expert Take on GoPro Quik – Your Essential Reading for This Year!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-lumafusion-reigns-supreme-in-the-world-of-ios-video-editors-a-detailed-review/"><u>Why LumaFusion Reigns Supreme in the World of iOS Video Editors – A Detailed Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unleash-the-full-potential-of-your-hdr-images-with-lightroom/"><u>[New] 2024 Approved Unleash the Full Potential of Your HDR Images with Lightroom</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-initial-steps-towards-perfect-transitional-sound-levels/"><u>[New] In 2024, Initial Steps Towards Perfect Transitional Sound Levels</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-innovative-photography-adding-stylish-borders-to-instagram-pics/"><u>[New] In 2024, Innovative Photography Adding Stylish Borders to Instagram Pics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-the-power-of-three-tiers-in-crafting-fb-ad-engaging-messages/"><u>[New] Unveiling the Power of Three Tiers in Crafting FB Ad Engaging Messages</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-takes-the-stage-in-low-code-and-no-code-development-strategic-shifts-highlighted-by-zdnet-experts/"><u>AI Takes the Stage in Low-Code and No-Code Development: Strategic Shifts Highlighted by ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-spearheads-the-surge-in-non-cash-payments-forecasted-reach-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Cash Payments: Forecasted Reach of $1.6 Trillion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-supercomputers-are-pivotal-in-chinas-quest-for-a-revolutionary-digital-metamorphosis/"><u>How Supercomputers Are Pivotal in China's Quest for a Revolutionary Digital Metamorphosis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-top-tech-pioneers-are-harnessing-the-power-of-open-source-for-groundbreaking-innovations-explore-with-zdnet/"><u>How Top Tech Pioneers Are Harnessing the Power of Open Source for Groundbreaking Innovations | Explore with ZDNET</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/score-amazing-savings-on-samsung-gadgets-before-time-runs-out-this-prime-day/"><u>Score Amazing Savings on Samsung Gadgets Before Time Runs Out This Prime Day!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-restoring-normal-functionality-from-a-blackout-screen-on-android-phones/"><u>Step-by-Step Guide to Restoring Normal Functionality From a Blackout Screen on Android Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uncovering-the-next-breakthrough-the-quest-for-an-ultimate-5g-app-beyond-just-speed-and-connection-zdnet/"><u>Uncovering the Next Breakthrough: The Quest for an Ultimate 5G App Beyond Just Speed and Connection | ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-z-fold-5-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy Z Fold 5</u></a></li>
 </ul></div>
 

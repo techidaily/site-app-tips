@@ -1,7 +1,7 @@
 ---
 title: "Section 3B: Five Facts About Antenna Radiation Patterns"
-date: 2024-09-18 15:24:34
-updated: 2024-09-20 11:13:27
+date: 2024-09-28T01:21:46.472Z
+updated: 2024-09-30T19:32:26.994Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-maximizing-streaming-experience-with-two-screen-viewing-on-netflix/"><u>[New] Maximizing Streaming Experience with Two-Screen Viewing on Netflix</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-art-of-iphone-vr-video-playback/"><u>2024 Approved Unraveling the Art of iPhone VR Video Playback</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bridging-silent-images-and-vocal-melodies/"><u>Bridging Silent Images and Vocal Melodies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-why-chatgpt-stands-out-amongst-advanced-ai-chat-bots/"><u>Comprehensive Analysis: Why ChatGPT Stands Out Amongst Advanced AI Chat Bots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-of-chatsonic-an-in-depth-guide-to-understanding-this-advanced-ai-chatbot/"><u>Comprehensive Evaluation of Chatsonic: An In-Depth Guide to Understanding This Advanced AI Chatbot</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-bing-chat-and-its-synergy-with-gpt-n-language-models/"><u>Comprehensive Guide to Bing Chat & Its Synergy with GPT-N Language Models</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620185282-comprehensive-guide-to-the-eva-ai-chatbot-from-ex-journey-dont-miss-this/"><u>Comprehensive Guide to the EVA AI Chatbot From Ex Journey – Don't Miss This</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-how-these-10-cutting-edge-ai-chatbots-can-elevate-your-communication-game/"><u>Discover How These 10 Cutting-Edge AI Chatbots Can Elevate Your Communication Game</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620184703-discover-the-full-potential-of-eva-ai-by-ex-journey-your-essential-chatbot-review-compiled/"><u>Discover the Full Potential of EVA AI by Ex Journey – Your Essential Chatbot Review Compiled</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/download-free-tool-to-restore-damaged-pictures-without-cost/"><u>Download Free Tool to Restore Damaged Pictures Without Cost</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-with-ais-best-kept-secret-an-in-depth-analysis-of-the-apo-assistant-chatbot-app/"><u>Experience Next-Level Interaction with AI's Best Kept Secret - An In-Depth Analysis of the Apo Assistant Chatbot App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-the-future-10-revolutionary-ai-chatbots-to-upgrade-your-conversations/"><u>Experience the Future: 10 Revolutionary AI Chatbots to Upgrade Your Conversations</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-eradicating-windows-11-upgrade-errors-on-pcs/"><u>Guide to Eradicating Windows 11 Upgrade Errors on PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-giggle-guild-imgur-memomaker/"><u>In 2024, Giggle Guild Imgur MemoMaker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-here-is-a-list-of-some-of-the-best-slow-motion-video-editing-software-in-the-market-today-keep-reading-and-tell-us-which-video-editor-you-are-using-/"><u>In 2024, Here Is a List of some of the Best Slow Motion Video Editing Software in the Market Today. Keep Reading and Tell Us Which Video Editor You Are Using to Make a Slow Motion Video</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-youtube-shorts-earnings-guide-must-knows-and-future-potential/"><u>In 2024, Youtube Shorts Earnings Guide Must-Knows & Future Potential</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ranking-the-best-selling-virtual-reality-titles/"><u>Ranking the Best Selling Virtual Reality Titles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-interactions-with-nova-chatgpt-the-premier-ai-companion-for-cutting-edge-dialogues/"><u>Transform Your Interactions with Nova ChatGPT: The Premier AI Companion for Cutting-Edge Dialogues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tips-for-watching-netflix-movies-offline-on-laptops/"><u>Ultimate Tips for Watching Netflix Movies Offline on Laptops</u></a></li>
+</ul></div>
+

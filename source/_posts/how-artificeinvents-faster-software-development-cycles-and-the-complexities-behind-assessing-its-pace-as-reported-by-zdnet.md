@@ -1,7 +1,7 @@
 ---
 title: How Artificeinvents Faster Software Development Cycles & The Complexities Behind Assessing Its Pace, as Reported by ZDNet
-date: 2024-09-17 21:37:29
-updated: 2024-09-20 12:25:56
+date: 2024-09-25T06:31:36.254Z
+updated: 2024-09-30T19:08:04.236Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-why-videos-speak-louder-for-brands/"><u>[New] 2024 Approved Why Videos Speak Louder for Brands</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-download-youtube-music-to-your-android-phone-top-6-free-apps/"><u>[Updated] 2024 Approved Download YouTube Music to Your Android Phone Top 6 Free Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-making-the-most-of-your-ppt-on-google-meet-devices-included/"><u>[Updated] In 2024, Making the Most of Your PPT on Google Meet Devices Included</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-transforming-images-on-snapchat-an-editors-playbook/"><u>[Updated] In 2024, Transforming Images on Snapchat An Editor's Playbook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-leveraging-technology-tools-for-accurate-and-efficient-market-analysis/"><u>2024 Approved Leveraging Technology Tools for Accurate and Efficient Market Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-visual-storytelling-crafting-impressive-imovie-video-intros/"><u>2024 Approved Visual Storytelling Crafting Impressive iMovie Video Intros</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-visual-revolution-integrating-3d-effects-into-your-photoshop-layouts-for-2024/"><u>A Visual Revolution Integrating 3D Effects Into Your Photoshop Layouts for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-workflow-embrace-the-developer-mindset-for-unmatched-efficiency-zdnet/"><u>Boost Your Workflow: Embrace the Developer Mindset for Unmatched Efficiency | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-success-in-software-development-with-agile-techniques-discover-6-key-principles-zdnet/"><u>Boosting Success in Software Development with Agile Techniques: Discover 6 Key Principles | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/continuous-innovation-in-the-era-of-ai-its-vow-towards-constant-modernization-insights-from-zdnet/"><u>Continuous Innovation in the Era of AI: IT's Vow Towards Constant Modernization - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-premier-5-rdp-solutions-for-telecommuting-as-featured-by-zdnet/"><u>Discover the Premier 5 RDP Solutions for Telecommuting , as Featured by ZDNet</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-user-experience-and-data-collection-with-cookiebot-solutions/"><u>Enhance User Experience and Data Collection with Cookiebot Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-ai-rust-language-with-linus-torvalds-why-the-linux-core-reigns-supreme-tech-insights/"><u>Exploring AI, Rust Language with Linus Torvalds: Why the Linux Core Reigns Supreme | Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-essential-strategies-for-maximizing-your-windows-10-experience-pre-end-of-support-insights-from-zdnet/"><u>Five Essential Strategies for Maximizing Your Windows 10 Experience Pre-End of Support - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-will-office-users-transition-from-2016-and-2019-to-microsoft-365-without-disruption-insights-for-the-next-12-months-zdnet/"><u>How Will Office Users Transition From 2016 and 2019 to Microsoft 365 Without Disruption? Insights for the Next 12 Months | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-se-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/swiss-federal-gov-makes-mandatory-move-towards-open-source-software-transparency-and-collaboration/"><u>Swiss Federal Gov Makes Mandatory Move Towards Open-Source Software Transparency and Collaboration.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-15-innovative-tools-perfecting-your-virtual-tone-for-2024/"><u>Top 15 Innovative Tools Perfecting Your Virtual Tone for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-how-top-innovators-flock-to-open-source-projects-insights-from-zdnet/"><u>Unveiling How Top Innovators Flock to Open-Source Projects - Insights From ZDNet</u></a></li>
+</ul></div>
+

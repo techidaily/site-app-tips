@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Complexity of Containerized Applications with Codenotary: Introducing an Advanced SBOM Service for Kubernetes - Insights From ZDNet"
-date: 2024-09-19 20:31:19
-updated: 2024-09-20 11:13:24
+date: 2024-09-26T09:46:56.448Z
+updated: 2024-10-01T04:53:17.381Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-build-haha-images/"><u>[Updated] 2024 Approved Build Haha Images</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-avoiding-disclosure-in-digital-footage/"><u>2024 Approved Avoiding Disclosure in Digital Footage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/another-cybersecurity-breach-lastpass-compromised-once-more/"><u>Another Cybersecurity Breach: LastPass Compromised Once More</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-get-new-apps-on-your-iphone-try-these-10-fixes-immediately/"><u>Can't Get New Apps on Your iPhone? Try These 10 Fixes Immediately</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-patch-update-to-log4j-library-available-with-apache-2170-release-cybersecurity-breakthrough-on-zdnet/"><u>Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/defend-your-online-privacy-with-our-exclusive-offer-exceptional-vpn-and-password-management-services-for-a-limited-time-just-30-learn-how-on-zdnet/"><u>Defend Your Online Privacy with Our Exclusive Offer: Exceptional VPN and Password Management Services for a Limited Time, Just $30! Learn How on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-security-transform-your-digital-life-using-the-awarded-30-password-manager-by-zdnet-for-ultimate-protection/"><u>Effortless Security: Transform Your Digital Life Using the Awarded $30 Password Manager by ZDNET for Ultimate Protection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-password-manager-security-expert-tips-and-techniques-zdnet/"><u>Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-14-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 14 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-xiaomi-redmi-note-12-pro-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Xiaomi Redmi Note 12 Pro 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-11-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme 11 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 14 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-10-v-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Sony Xperia 10 V PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-web-access-a-comparative-study-of-browser-ram-use/"><u>Optimal Web Access: A Comparative Study of Browser RAM Use</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-user-memory-lapses-with-biometric-authentication-insights-from-zdnet/"><u>Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-your-data-avoid-these-common-mistakes-in-cloud-security-that-attract-cyber-thieves-zdnet/"><u>Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-digital-keykeeper-essential-steps-for-safer-password-management-zdnet/"><u>Securing Your Digital Keykeeper: Essential Steps for Safer Password Management | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-turning-on-the-bitwarden-security-prompt-for-your-master-key/"><u>Step-by-Step: Turning On the Bitwarden Security Prompt for Your Master Key</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-best-websites-for-game-scoring-boost/"><u>The Ultimate Guide: Best Websites for Game Scoring Boost</u></a></li>
+</ul></div>
+

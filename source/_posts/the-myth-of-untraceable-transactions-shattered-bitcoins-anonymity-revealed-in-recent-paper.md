@@ -1,7 +1,7 @@
 ---
 title: "The Myth of Untraceable Transactions Shattered: Bitcoin's Anonymity Revealed in Recent Paper"
-date: 2024-09-23T06:48:24.140Z
-updated: 2024-09-26T10:29:31.064Z
+date: 2024-09-28T18:52:13.210Z
+updated: 2024-09-30T20:04:08.600Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -61,10 +61,10 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -121,18 +121,21 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ngaging-stories-expanding-audiences-top-three-methods/"><u>[New] Engaging Stories, Expanding Audiences Top Three Methods</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-channel-milestone-hurdle-cross-the-10k-view-threshold-fast/"><u>[New] In 2024, Channel Milestone Hurdle – Cross the 10K View Threshold Fast</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-crafting-content-for-success-how-to-start-your-own-youtube-chanel/"><u>[Updated] In 2024, Crafting Content for Success How to Start Your Own YouTube Chanel</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlined-approach-to-add-linktree-in-tiktok-about-section/"><u>2024 Approved Streamlined Approach to Add Linktree in TikTok About Section</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-vimeo-vs-youtube-vs-dailymotion-which-platform-is-the-one/"><u>In 2024, Vimeo vs YouTube vs Dailymotion Which Platform Is the One?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/laugh-out-loud-portraits-top-12-witty-face-photo-effects-for-both-android-and-iphone/"><u>Laugh Out Loud Portraits: Top 12 Witty Face Photo Effects for Both Android & iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-best-free-messaging-apps-on-android-a-comprehensive-top-10-list/"><u>The Best Free Messaging Apps on Android: A Comprehensive Top 10 List</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-secret-to-professional-video-calls-on-zoom/"><u>The Secret to Professional Video Calls on Zoom</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-optimization-tools-to-supercharge-your-android-experience/"><u>Top 10 Optimization Tools to Supercharge Your Android Experience</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-iphone-security-software-simplify-your-login-process-with-our-best-recommended-password-manager/"><u>Top-Rated iPhone Security Software: Simplify Your Login Process with Our Best Recommended Password Manager</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193804-transform-your-clips-with-this-exceptional-android-video-editing-software/"><u>Transform Your Clips with This Exceptional Android Video Editing Software!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620189209-why-everyone-needs-to-try-the-newly-updated-factual-inshot-editor-unleash-your-creativity/"><u>Why Everyone Needs to Try the Newly Updated Factual InShot Editor - Unleash Your Creativity</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-xcover-6-pro-tactical-edition-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy XCover 6 Pro Tactical Edition Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-optimal-sony-ps3-reproduction-tools-ranked-pc/"><u>[New] 2024 Approved Optimal Sony PS3 Reproduction Tools Ranked (PC)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-vr-the-creation-gap/"><u>[New] Unveiling VR The Creation Gap</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-mastery-without-coding-knowledge-tackling-intricate-systems-through-varied-education-strategies-zdnet/"><u>AI Mastery Without Coding Knowledge - Tackling Intricate Systems Through Varied Education Strategies | ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discovering-the-worlds-most-popular-shorter-videos-free/"><u>Discovering the World's Most Popular Shorter Videos (FREE)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-how-technological-advancements-contribute-to-staff-burnout-and-strategies-for-improvement-zdnet/"><u>Exploring How Technological Advancements Contribute to Staff Burnout and Strategies for Improvement | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-impact-of-cutting-edge-ai-on-present-technology-systems-discoveries-by-zdnet/"><u>Exploring the Impact of Cutting-Edge AI on Present Technology Systems - Discoveries by ZDNET</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-unique-value-proposition-here-are-6-pivotal-points/"><u>Facebook's Unique Value Proposition – Here Are 6 Pivotal Points!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/function-optimization/"><u>Function Optimization</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratitude-freepaid-outro-template-selections-for-2024/"><u>Gratitude Free/Paid Outro Template Selections for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-xs-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone XS Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-artificial-intelligence-a-threat-to-cybersecurity-employment-prospects/"><u>Is Artificial Intelligence a Threat to Cybersecurity Employment Prospects?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-start-with-core-business-insights/"><u>Mastering Tech Team Leadership: Start with Core Business Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-modern-hurdles-tackling-ambiguous-results-and-uncertain-precision-in-ai-expert-analysis-by-zdnet/"><u>Overcoming Modern Hurdles: Tackling Ambiguous Results and Uncertain Precision in AI | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y27-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y27 5G Location | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-artificial-intelligence-data-as-the-key-element-strategies-to-complete-the-ai-jigsaw/"><u>Unlocking Artificial Intelligence: Data as the Key Element - Strategies to Complete the AI Jigsaw</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-from-webm-to-mp4-top-rated-conversion-tools-and-software/"><u>Updated In 2024, From WebM to MP4 Top-Rated Conversion Tools and Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bavaria's Transition: Adopting Open-Source with Linux and LibreOffice Instead of Microsoft - Insights From ZDNet"
-date: 2024-09-19 15:25:50
-updated: 2024-09-20 11:49:47
+date: 2024-09-30T05:11:04.571Z
+updated: 2024-10-01T04:43:50.490Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,26 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-guide-to-post-movie-wmm-content-on-vimeo-platform-for-2024/"><u>[Updated] Guide to Post Movie WMM Content on Vimeo Platform for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-acer-bluetooth-driver-quickly-and-easily/"><u>Download | Acer Bluetooth Driver | Quickly & Easily</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/efficient-techniques-to-transform-dvd-media-into-mp4-using-windows-11-or-macos-a-comprehensive-guide/"><u>Efficient Techniques to Transform DVD Media Into MP4 Using Windows 11 or macOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/exclusive-list-the-premier-gb-emulators-android/"><u>Exclusive List The Premier GB Emulators, Android</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-k70e-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi K70E Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-your-device-turning-off-mouse-acceleration-today/"><u>Mastering Your Device: Turning Off Mouse Acceleration Today</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-steps-access-your-icloud-images-from-anywhere/"><u>Simple Steps: Access Your iCloud Images From Anywhere</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-icloud-photo-sharing-issues-on-iphone-ipad-and-mac-a-comprehensive-guide/"><u>Solving iCloud Photo Sharing Issues on iPhone, iPad & Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-viewing-icloud-saved-passwords-on-ios-devices-and-computers/"><u>Step-by-Step Tutorial: Viewing iCloud Saved Passwords on iOS Devices & Computers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-asus-rog-gt-ac5300-perfect-for-gaming-and-high-tech-devotees/"><u>The Ultimate Guide to the Asus ROG GT-AC5300 - Perfect for Gaming & High-Tech Devotees</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-hidden-features-of-system-restore-in-win11/"><u>Unlocking the Hidden Features of System Restore in Win11</u></a></li>
+</ul></div>
+

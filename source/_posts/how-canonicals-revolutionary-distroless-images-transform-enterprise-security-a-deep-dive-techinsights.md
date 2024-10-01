@@ -1,7 +1,7 @@
 ---
 title: "How Canonical's Revolutionary 'Distroless' Images Transform Enterprise Security: A Deep Dive - TechInsights"
-date: 2024-09-25T04:34:37.862Z
-updated: 2024-09-26T03:08:47.010Z
+date: 2024-09-28T03:40:45.608Z
+updated: 2024-10-01T10:03:35.599Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +181,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-jovial-access-key-strategies/"><u>[New] Jovial Access Key Strategies</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-seamlessly-blend-music-with-visuals-in-premiere-pro/"><u>2024 Approved Seamlessly Blend Music with Visuals in Premiere Pro</u></a></li>
-<li><a href="https://solve-help.techidaily.com/68nhk-2017/"><u>第68回NHK紅白歌合戦 ニュースレポート：2017年大会でのアーティストと曲、審査員の更新情報を解説</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advanced-audio-capture-and-conversion-made-simple-by-otters-latest-teams-software-update-explore-features-on-zdnet/"><u>Advanced Audio Capture and Conversion Made Simple by Otter's Latest Teams Software Update | Explore Features on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/before-its-too-late-discover-5-essential-steps-to-prepare-your-windows-e-pc-for-post-support-era-expert-advice-from-zdnet/"><u>Before It's Too Late: Discover 5 Essential Steps to Prepare Your Windows E PC for Post-Support Era | Expert Advice From ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beneath-the-facade-programs-pause-your-pcs-prowess/"><u>Beneath the Facade, Programs Pause Your PC's Prowess</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comparing-price-and-power-a-comprehensive-guide-to-the-new-ipad-air-vs-ipad-pro/"><u>Comparing Price and Power: A Comprehensive Guide to the New iPad Air Vs. IPad Pro</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-updated-amd-gpu-drivers-for-new-windows-11-systems-rtx-3060-ti-edition/"><u>Download Updated AMD GPU Drivers for New Windows 11 Systems: RTX 3060 Ti Edition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-windows-10-update-initiative-where-did-it-go/"><u>Free Windows 10 Update Initiative: Where Did It Go?</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oppo-a38-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Oppo A38 Phone | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-s23-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Itel S23 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-your-cloud-storage-how-to-link-google-drive-to-slack-efficiently/"><u>Integrating Your Cloud Storage: How to Link Google Drive to Slack Efficiently</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-of-ai-powered-code-writing-pros-and-cons-explained-insights-from-zdnet/"><u>Navigating the Complexities of AI-Powered Code Writing: Pros and Cons Explained - Insights From ZDNet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleashing-the-magic-top-lego-stop-motion-artists/"><u>Unleashing the Magic Top Lego Stop Motion Artists</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-last-5-optionsto-ensure-continued-use/"><u>Windows 10 End of Life Approaching: Discover Your Last 5 Optionsto Ensure Continued Use</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-advanced-tips-for-effective-mobile-video-capture/"><u>[New] Advanced Tips for Effective Mobile Video Capture</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-top-vr-gloves-to-check-out/"><u>[New] In 2024, Top VR Gloves to Check Out</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-your-youtube-personality-top-6-creator-categories/"><u>[New] Unlock Your YouTube Personality Top 6 Creator Categories</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-icloud-backup-essentials/"><u>Comprehensive Guide: Understanding iCloud Backup Essentials</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discerning-legitimate-from-illegitimate-language-models-on-ios-app-platforms/"><u>Discerning Legitimate From Illegitimate Language Models on iOS App Platforms</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-revenue-with-well-crafted-youtube-channel-trailers-for-2024/"><u>Driving Revenue with Well-Crafted YouTube Channel Trailers for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-steps-for-reinstating-your-data-from-icloud-backup-without-a-hardware-reset/"><u>Easy Steps for Reinstating Your Data From iCloud Backup without a Hardware Reset</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-guide-to-browse-icloud-pictures-on-the-web/"><u>Effortless Guide to Browse iCloud Pictures on the Web</u></a></li>
+<li><a href="https://win11.techidaily.com/how-are-c-and-d-drive-identities-unique/"><u>How Are C: And D: Drive Identities Unique?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-perform-a-seamless-whatsapp-backup-using-icloud-a-comprehensive-guide/"><u>How To Perform a Seamless WhatsApp Backup Using iCloud: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/step-by-step-guide-to-background-dimming-in-videos/"><u>Step-by-Step Guide to Background Dimming in Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-integrating-your-icloud-calendar-on-a-windows-desktop/"><u>Step-by-Step Guide: Integrating Your iCloud Calendar on a Windows Desktop</u></a></li>
+<li><a href="https://facebook.techidaily.com/steps-to-monitor-youth-activity-within-social-media-networks/"><u>Steps to Monitor Youth Activity Within Social Media Networks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-steps-for-removing-your-icloud-email-address-top-strategies-inside/"><u>Ultimate Guide: Steps for Removing Your iCloud Email Address - Top Strategies Inside</u></a></li>
 </ul></div>
 

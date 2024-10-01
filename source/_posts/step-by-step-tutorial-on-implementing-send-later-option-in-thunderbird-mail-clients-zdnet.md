@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Implementing 'Send Later' Option in Thunderbird Mail Clients (ZDNet)
-date: 2024-09-18 18:48:34
-updated: 2024-09-20 11:19:43
+date: 2024-09-26T19:29:16.965Z
+updated: 2024-09-30T20:58:03.392Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-expert-tips-for-efficient-ez-grabber-use/"><u>[New] In 2024, Expert Tips for Efficient EZ Grabber Use</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-rank-your-download-preferences-with-our-top-5-list/"><u>[New] In 2024, Rank Your Download Preferences with Our Top 5 List</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unveiling-audible-tweets-within-social-media-videos/"><u>[New] Unveiling Audible Tweets Within Social Media Videos</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-carryminati-unmasked-the-monetary-milestones/"><u>2024 Approved CarryMinati Unmasked The Monetary Milestones</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-triple-your-traffic-techniques-against-bots/"><u>2024 Approved Triple Your Traffic Techniques Against Bots</u></a></li>
+<li><a href="https://win11.techidaily.com/adobe-media-encoder-mp4/"><u>Adobe Media Encoderで動画変換＆圧縮 - MP4形式への完全ガイド</u></a></li>
+<li><a href="https://app-tips.techidaily.com/affordable-innovation-with-openais-gpt-4-minus-for-app-creation-exclusive-analysis-by-zdnet/"><u>Affordable Innovation with OpenAI's GPT-4 Minus for App Creation - Exclusive Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-ubuntu-2404-the-ultimate-combination-of-speed-and-security-in-the-latest-linux-distribution-zdnet/"><u>Discover Ubuntu 24.04: The Ultimate Combination of Speed and Security in the Latest Linux Distribution | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolving-with-ubuntu-mastering-your-24-system-upgrade-journey-zdnet-insights/"><u>Evolving with Ubuntu: Mastering Your 24.# System Upgrade Journey | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-leading-screen-recording-solutions-review-by-techradar/"><u>Exploring the Leading Screen Recording Solutions : Review by TechRadar</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-convert-mts-format-ultimate-step-by-step-methods/"><u>How to Convert .MTS Format - Ultimate Step-by-Step Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-limited-memory-glitch-in-god-of-war-title-for-smooth-gaming-experience/"><u>How to Fix Limited Memory Glitch in God of War Title for Smooth Gaming Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-ultimate-guide-to-the-top-8-discreet-content-collectors/"><u>In 2024, Ultimate Guide to the Top 8 Discreet Content Collectors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overwhelmed-tech-experts-the-bright-side-revealed-zdnet-insights/"><u>Overwhelmed Tech Experts: The Bright Side Revealed | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-tutorial-wacom-intuos-pro-driver-compatible-with-windows-nineteen/"><u>Quick Download Tutorial: Wacom Intuos Pro Driver Compatible with Windows Nineteen</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-connectivity-how-arista-targets-midsize-businesses-with-new-cognitive-network-solutions-featured-on-zdnet/"><u>Revolutionizing Connectivity: How Arista Targets Midsize Businesses with New Cognitive Network Solutions, Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-trend-of-low-code-and-no-code-development-its-impact-on-changing-tech-roles-discovered-with-zdnet/"><u>Rising Trend of Low-Code & No-Code Development: Its Impact on Changing Tech Roles - Discovered with ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-transformation-of-business-tech-tools-amidst-rising-ai-dominance-zdnet/"><u>The Future Transformation of Business Tech Tools Amidst Rising AI Dominance | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-excel-efficiency-a-comprehensive-tutorial-on-how-to-lockfreeze-worksheet-rows-for-enhanced-productivity/"><u>Unlock Excel Efficiency: A Comprehensive Tutorial on How to Lock/Freeze Worksheet Rows for Enhanced Productivity</u></a></li>
+</ul></div>
+

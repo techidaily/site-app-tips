@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Expert Advice on Linking Your Google Drive to Slack for Enhanced Collaboration
-date: 2024-09-18 19:37:15
-updated: 2024-09-20 12:53:59
+date: 2024-09-29T16:54:17.860Z
+updated: 2024-10-01T10:06:42.329Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-illuminating-path-to-stellar-android-video-quality/"><u>[New] Illuminating Path to Stellar Android Video Quality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-gif-galore-how-to-seamlessly-share-emojis-and-animations-on-instagram/"><u>[New] In 2024, GIF Galore How to Seamlessly Share Emojis & Animations on Instagram</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-instant-screen-capture-pro-chrome/"><u>[Updated] Instant Screen Capture Pro (Chrome)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-instagrams-video-reversal-quirk/"><u>[Updated] Navigating Instagram's Video Reversal Quirk</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-a-deeper-dive-into-the-game-five-easy-zooming-methods/"><u>2024 Approved A Deeper Dive Into the Game Five Easy Zooming Methods</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-creators-guide-to-the-top-9-affordable-video-editing-apps/"><u>2024 Approved The Creator's Guide to the Top 9 Affordable Video Editing Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-citizen-developers-in-modern-business-workflows/"><u>Empowering Citizen Developers in Modern Business Workflows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-anonymity-the-key-to-empowering-todays-remote-teams-zdnet/"><u>Harnessing Anonymity: The Key to Empowering Today’s Remote Teams | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-low-code-solutions-can-boost-your-companys-appeal-insights-from-zdnet/"><u>How Low-Code Solutions Can Boost Your Company's Appeal: Insights From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify malfunctioning hardware drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-streamline-your-linuxopen-source-knowledge-base-for-clarity-and-efficiency-expert-insights-and-solutions/"><u>How to Streamline Your Linux/Open-Source Knowledge Base for Clarity & Efficiency: Expert Insights and Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-xiaomi-redmi-13c-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Xiaomi Redmi 13C 5G Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/intro-to-coursera-levelsets-competency-evaluations-the-latest-update-explained-by-zdnet/"><u>Intro to Coursera LevelSets Competency Evaluations - The Latest Update Explained by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-to-elevate-your-system-from-windows-home-to-professional-the-ultimate-benefits-explained/"><u>Step-by-Step Guide to Elevate Your System From Windows Home to Professional – The Ultimate Benefits Explained</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-11-must-have-applications-and-services-for-windowsmac-users-insights-from-zdnet/"><u>Top 11 Must-Have Applications & Services for Windows/Mac Users - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transparency-in-tech-swiss-fed-government-goes-full-open-source-for-software-development/"><u>Transparency in Tech: Swiss Fed Government Goes Full Open Source for Software Development</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-14-plus-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 14 Plus</u></a></li>
+</ul></div>
+

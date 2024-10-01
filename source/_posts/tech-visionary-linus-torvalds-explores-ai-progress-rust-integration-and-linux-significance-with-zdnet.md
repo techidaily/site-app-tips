@@ -1,7 +1,7 @@
 ---
 title: Tech Visionary Linus Torvalds Explores AI Progress, Rust Integration, and Linux Significance with ZDNET
-date: 2024-09-23T05:40:49.605Z
-updated: 2024-09-26T07:44:23.296Z
+date: 2024-09-30T10:54:54.554Z
+updated: 2024-09-30T21:30:39.374Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-unlocking-seamless-ocean-footage-with-these-7-hacks-for-2024/"><u>[Updated] Unlocking Seamless Ocean Footage with These 7 Hacks for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-sketch-to-scene-mastering-windows-movie-makers-animation/"><u>2024 Approved From Sketch to Scene Mastering Windows Movie Maker's Animation</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-instantaneously-enhance-your-facebook-page-with-songs/"><u>2024 Approved Instantaneously Enhance Your Facebook Page with Songs</u></a></li>
-<li><a href="https://article-files.techidaily.com/crosslinked-content-strategy-instagram-plus-tiktok-collaboration-for-2024/"><u>Crosslinked Content Strategy Instagram + TikTok Collaboration for 2024</u></a></li>
-<li><a href="https://discover-community.techidaily.com/free-solution-restoring-your-broken-mkv-files-using-the-ultimate-mkv-repair-tool/"><u>Free Solution: Restoring Your Broken MKV Files Using the Ultimate MKV Repair Tool</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-zte-blade-a73-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track ZTE Blade A73 5G Location | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-z-fold-5-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy Z Fold 5 Phone Network-Ready</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-a-tale-of-office-woes/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown: A Tale of Office Woes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/open-source-mandate-switzerlands-federal-govt-moves-all-software-public/"><u>Open-Source Mandate: Switzerland's Federal Govt. Moves All Software Public</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section/"><u>Section</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-impact-of-russian-aggression-on-ukraines-tech-sector-potential-risks-and-concerns/"><u>The Impact of Russian Aggression on Ukraine's Tech Sector: Potential Risks and Concerns</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-vmwares-power-get-your-hands-on-the-free-personal-versions-of-fusion-pro-and-workstation-pro-zdnet/"><u>Unlocking VMware's Power: Get Your Hands on the Free Personal Versions of Fusion Pro & Workstation Pro | ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-t2-pro-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo T2 Pro 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-launching-an-impactful-instagram-live-session/"><u>[New] 2024 Approved Launching an Impactful Instagram Live Session</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-snaprecorder-expert-breakdowns/"><u>[New] 2024 Approved SnapRecorder Expert Breakdowns</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frosty-slopes-showdown-olympic-snowboard-cross-action/"><u>[New] Frosty Slopes Showdown Olympic Snowboard Cross Action</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-choreography-of-audio-and-visuals-a-guide-to-editing-videos/"><u>[New] The Choreography of Audio and Visuals A Guide to Editing Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-filmmakers-toolkit-essential-tips-for-youtube-creators-with-smartphones/"><u>[New] The Filmmaker's Toolkit Essential Tips for YouTube Creators with Smartphones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-audience-connection-mastering-the-art-of-viewpoint-based-youtube-reaction-vids-2-pov-method-for-2024/"><u>[Updated] Audience Connection – Mastering the Art of Viewpoint-Based YouTube Reaction Vids (2 POV Method) for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/6-effective-methods-for-restoring-your-icloud-account-password/"><u>6 Effective Methods for Restoring Your iCloud Account Password</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-v-blue-screen-fix-resolving-memory-error-1760-on-ps4-and-gaming-laptop/"><u>Battlefield V Blue Screen Fix - Resolving Memory Error 1760 on PS4 & Gaming Laptop</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-on-cloud-storage-protecting-data-for-ipads-pro-mini-and-air-via-icloud/"><u>Complete Tutorial on Cloud Storage: Protecting Data for iPads (Pro, Mini, and Air) via iCloud</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dawn-on-a-lenovo-once-in-blackout/"><u>Dawn on a Lenovo, Once in Blackout</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-easily-and-instantly-unlock-your-device-from-apples-icloud/"><u>How to Easily and Instantly Unlock Your Device From Apple's iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264535-how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-retrieve-your-forgotten-iphone-itunes-backup-passcode/"><u>How to Retrieve Your Forgotten iPhone iTunes Backup Passcode</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-motorola-edge-40-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Motorola Edge 40 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-apples-icloud-family-sharing-an-in-depth-tutorial-for-seamless-collaboration/"><u>Mastering Apple's iCloud Family Sharing - An In-Depth Tutorial for Seamless Collaboration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-and-simple-methods-accessing-your-icloud-photos-without-an-iphone/"><u>Quick & Simple Methods: Accessing Your iCloud Photos Without an iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/struggling-with-a-forgotten-icloud-login-discover-these-6-effective-remedies/"><u>Struggling with a Forgotten iCloud Login? Discover These 6 Effective Remedies!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-liberating-tracks-with-pazeras-tools-for-2024/"><u>The Ultimate Guide to Liberating Tracks with Pazera's Tools for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620263135-ultimate-guide-steps-for-removing-your-icloud-email-address-top-strategies-inside/"><u>Ultimate Guide: Steps for Removing Your iCloud Email Address - Top Strategies Inside!</u></a></li>
 </ul></div>
 

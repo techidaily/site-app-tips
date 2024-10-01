@@ -1,7 +1,7 @@
 ---
 title: Human Expression Capabilities in Latest AI Avatar Innovations - Insights From ZDNet
-date: 2024-09-18 10:43:18
-updated: 2024-09-20 10:31:34
+date: 2024-09-25T23:49:41.810Z
+updated: 2024-10-01T02:59:03.276Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-transformative-audio-techniques-for-media-professionals/"><u>[New] Transformative Audio Techniques for Media Professionals</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-pinnacle-blu-ray-players-1s/"><u>[Updated] Pinnacle Blu-Ray Players - #1S</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cam-crossover-showdown-sj6-power-meets-yis-four-k-kickstart/"><u>Cam Crossover Showdown SJ6 Power Meets Yi’s Four-K Kickstart</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-writing-game-on-microsoft-365-using-the-new-co-pilot-features-according-to-recent-zdnet-reviews/"><u>Elevate Your Writing Game on Microsoft 365 Using the New Co-Pilot Features, According to Recent ZDNet Reviews!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722056013565-gpt-4-open-for-everyone-plus-still-boasts-6-exclusive-features/"><u>GPT-4: Open for Everyone! Plus Still Boasts 6 Exclusive Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-huawei-nova-y71-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Huawei Nova Y71 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-loop-a-video-on-iphone/"><u>How to Loop A Video on iPhone?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lifecast-your-show-a-basic-podcast-streaming-strategy/"><u>Lifecast Your Show A Basic Podcast Streaming Strategy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/liquid-nitrogen-overclocking-elevates-amds-ryzen-9-9950x-to-unprecedented-67ghz-breaking-world-records/"><u>Liquid Nitrogen Overclocking Elevates AMD's Ryzen #9 9950X to Unprecedented 6.7GHz, Breaking World Records!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-slacks-new-functionality-a-step-by-step-tutorial-on-using-slack-connect-effectively/"><u>Mastering Slack's New Functionality - A Step-by-Step Tutorial on Using Slack Connect Effectively</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-pivotal-role-of-enterprise-architects-in-spearheading-digital-change-zdnet/"><u>The Pivotal Role of Enterprise Architects in Spearheading Digital Change | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ticking-clock-for-ms-how-microsoft-is-racing-against-time-to-fix-key-windows-10-challenges-by-zdnets-analysis/"><u>Ticking Clock for MS: How Microsoft Is Racing Against Time to Fix Key Windows 10 Challenges by ZDNet's Analysis</u></a></li>
+</ul></div>
+

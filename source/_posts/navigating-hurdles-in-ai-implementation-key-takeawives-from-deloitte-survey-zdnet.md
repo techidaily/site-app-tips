@@ -1,7 +1,7 @@
 ---
 title: "Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET"
-date: 2024-09-20T18:00:20.052Z
-updated: 2024-09-26T06:53:37.769Z
+date: 2024-09-29T18:34:21.144Z
+updated: 2024-10-01T03:33:19.042Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +181,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-roguelikes-traditional-tactics-vs-modern-mechanics-for-2024/"><u>[New] Roguelike's Traditional Tactics Vs. Modern Mechanics for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-comprehensive-guide-to-youtube-content-moderation-rules-for-2024/"><u>[Updated] Comprehensive Guide to YouTube Content Moderation Rules for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-a-century-of-sparks-the-10-most-voted-on-reddit-posts/"><u>2024 Approved A Century of Sparks The 10 Most Voted on Reddit Posts</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-employer-appeal-with-low-code-solutions-insights-from-zdnet/"><u>Boosting Employer Appeal with Low-Code Solutions: Insights From ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722963495321-get-the-most-recent-nvidia-quadro-rtx-8000-drivers-for-win-10-8-and-7-direct-download-links/"><u>Get the Most Recent Nvidia Quadro RTX 8000 Drivers for Win 10, 8 & 7 - Direct Download Links!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-snowflakes-latest-language-model-outshines-metas-llama-less-training-greater-efficiency-zdnet/"><u>How Snowflake's Latest Language Model Outshines Meta's LLaMA 지침 - Less Training, Greater Efficiency | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/innovating-communication-technology-sony-research-joins-forces-with-ai-singapore-for-advanced-large-language-model-development-zdnet-insights/"><u>Innovating Communication Technology: Sony Research Joins Forces with AI Singapore for Advanced Large Language Model Development | ZDNET Insights</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revolutionary-mobility-the-samsung-galaxy-s20-fe-5g-smartphone-review/"><u>Revolutionary Mobility : The Samsung Galaxy S20 FE 5G Smartphone Review</u></a></li>
-<li><a href="https://video-capture.techidaily.com/snapshot-strategies-capturing-win10-gaming-excellence-for-2024/"><u>Snapshot Strategies Capturing Win10 Gaming Excellence for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-installing-sound-blaster-z-drivers-on-windows-10-pcs/"><u>Step-by-Step Guide to Installing Sound Blaster Z Drivers on Windows 10 PCs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/surpassing-all-others-in-performance-and-user-friendliness-the-unrivaled-excellence-of-linux-mint-asterisk-22-zdnet-insight/"><u>Surpassing All Others in Performance and User-Friendliness: The Unrivaled Excellence of Linux Mint Asterisk 22 | ZDNET Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-codenotarys-sbom-software-bill-of-materials-platform-innovative-solutions-for-managing-dependencies-in-kubernetes-environments-zdnet/"><u>Unveiling Codenotary's SBOM (Software Bill of Materials) Platform: Innovative Solutions for Managing Dependencies in Kubernetes Environments - ZDNet</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-mp4-videos-on-your-windows-8-pc-a-beginners-guide-for-2024/"><u>Updated Edit MP4 Videos on Your Windows 8 PC A Beginners Guide for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-alert-microsoft-faces-critical-challenge-with-windows-10-only-a-year-left-zdnet/"><u>Urgent Alert: Microsoft Faces Critical Challenge with Windows 10 - Only a Year Left! [ZDNet]</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-free-guide-to-navigating-and-hosting-google-meet-sessions-effectively/"><u>[New] 2024 Approved Free Guide to Navigating and Hosting Google Meet Sessions Effectively</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-behind-the-scenes-the-magic-of-quantum-hdr/"><u>[Updated] Behind the Scenes The Magic of Quantum HDR</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-critique-on-luminances-approach-to-hdr-creation/"><u>[Updated] Critique on Luminance’s Approach to HDR Creation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-3-key-copywriting-frameworks-for-social-media-promotion/"><u>[Updated] In 2024, Mastering 3 Key Copywriting Frameworks for Social Media Promotion</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-rhythmic-instagrams-a-step-by-step-music-guide/"><u>[Updated] In 2024, Rhythmic Instagrams A Step-by-Step Music Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-polaroid-revelation-elevating-live-action-video-recording/"><u>A Polaroid Revelation Elevating Live-Action Video Recording</u></a></li>
+<li><a href="https://app-tips.techidaily.com/access-onedrive-offline-anywhere-edit-and-save-files-without-internet-perfect-for-remote-areas/"><u>Access OneDrive Offline Anywhere: Edit and Save Files Without Internet, Perfect for Remote Areas</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-revolutionizing-the-workforce-transforming-traditional-roles-from-training-to-ethics-the-future-of-employment-explained-zdnet/"><u>AI Revolutionizing the Workforce: Transforming Traditional Roles From Training to Ethics - The Future of Employment Explained | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-speed-top-5-chrome-os-hacks-for-smoother-sailing-and-enhanced-productivity-zdnet/"><u>Boost Your Speed: Top 5 Chrome OS Hacks for Smoother Sailing & Enhanced Productivity | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cutting-edge-ai-how-openais-gpt-4-goes-mini-reduces-application-development-expenses-insights-from-zdnet/"><u>Cutting Edge AI: How OpenAI's GPT-4 Goes Mini Reduces Application Development Expenses - Insights From ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-order-in-the-world-of-linuxopen-source-resources-strategies-for-clarity-and-efficiency/"><u>Mastering Order in the World of Linux/Open Source Resources: Strategies for Clarity and Efficiency</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-covid-19-immunization-control-systems-a-comprehensive-guide-by-zdnet/"><u>Top Rated COVID-19 Immunization Control Systems: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-ai-potential-with-superduperdb-simplifying-application-access-as-featured-on-zdnet/"><u>Unlocking AI Potential with SuperDuperDB: Simplifying Application Access, As Featured on ZDNet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/which-reigns-supreme-an-analysis-of-outlookcom-against-gmail-services/"><u>Which Reigns Supreme: An Analysis of Outlook.com Against Gmail Services</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-dongle-setup-and-enablement-guide/"><u>Wi-Fi Dongle Setup & Enablement Guide</u></a></li>
 </ul></div>
 

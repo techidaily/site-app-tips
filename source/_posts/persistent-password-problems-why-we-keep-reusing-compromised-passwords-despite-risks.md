@@ -1,7 +1,7 @@
 ---
 title: "Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks"
-date: 2024-09-25T00:38:37.148Z
-updated: 2024-09-26T10:05:00.221Z
+date: 2024-09-23T20:28:00.031Z
+updated: 2024-10-01T04:13:22.700Z
 tags:
   - password-manager
 categories:
@@ -110,10 +110,10 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -140,10 +140,10 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -191,20 +191,20 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-5-premier-cloud-platforms-revolutionizing-storage-for-2024/"><u>[New] 5 Premier Cloud Platforms Revolutionizing Storage for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-discover-the-genesis-advanced-reverse-lookup-on-instagram-photos-for-2024/"><u>[New] Discover the Genesis Advanced Reverse Lookup on Instagram Photos for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-how-to-post-twitter-videos-on-snapchat-for-2024/"><u>[New] How to Post Twitter Videos on Snapchat for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-morphvox-transformation-top-techniques-revealed/"><u>[New] Mastering MorphVOX Transformation Top Techniques Revealed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/adapting-cyber-defense-tactics-modernizing-security-expertise-amidst-outdated-infrastructure-challenges/"><u>Adapting Cyber Defense Tactics: Modernizing Security Expertise Amidst Outdated Infrastructure Challenges</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-sgs-green-transition-calls-increase-for-financing-ai-based-carbon-reduction-strategies-insights-from-zdnet/"><u>Boosting SG's Green Transition: Calls Increase for Financing AI-Based Carbon Reduction Strategies - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-pc-prowess-with-toms-hardware-mastery-guides/"><u>Decoding PC Prowess with Tom's Hardware Mastery Guides</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-leading-open-source-ai-apps-for-image-creation/"><u>Discover the Leading Open-Source AI Apps for Image Creation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/finding-reliable-artificial-intelligence-watermarks-insights-from-zdnet/"><u>Finding Reliable Artificial Intelligence Watermarks: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-will-artificial-intelligence-impact-future-careers-in-cybersecurity-challenges-and-opportunities/"><u>How Will Artificial Intelligence Impact Future Careers in Cybersecurity?: Challenges & Opportunities</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigate-through-windows-11s-best-practices-for-imports/"><u>Navigate Through Windows 11'S Best Practices for Imports</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainty-of-ai-efficiency-insights-from-zdnet/"><u>Navigating the Uncertainty of AI Efficiency: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/singapore-invests-s24-billion-in-enhancing-ict-infrastructure-and-digital-solutions-insights-for-tech-leaders/"><u>Singapore Invests S$2.4 Billion in Enhancing ICT Infrastructure & Digital Solutions - Insights for Tech Leaders</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-halo-bolt-a-comprehensive-review-of-its-jump-starting-and-charging-capabilities/"><u>The Ultimate Guide to the Halo Bolt - A Comprehensive Review of Its Jump-Starting & Charging Capabilities</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-by-tech-gurus-zdnets-exclusive-insights/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews by Tech Gurus | ZDNet's Exclusive Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-effortlessly-capture-mac-screenshots-for-2024/"><u>[Updated] How to Effortlessly Capture Mac Screenshots for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-enhancing-visual-storytelling-on-instagram-with-loops/"><u>[Updated] In 2024, Enhancing Visual Storytelling on Instagram With Loops</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-optimizing-video-sharing-with-vimeo-subscription-choices/"><u>2024 Approved Optimizing Video Sharing With Vimeo Subscription Choices</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-top-rated-no-cost-video-editors-cnet/"><u>Discover the Ultimate Selection of Top-Rated, No-Cost Video Editors | CNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/engineers-innovative-tool-challenges-the-giant-unveiling-how-it-continuously-shames-mcdonalds-strategies/"><u>Engineer's Innovative Tool Challenges the Giant - Unveiling How It Continuously Shames McDonald's Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-low-codeno-code-landscape-implications-for-tech-job-evolution-insights-by-zdnet/"><u>Expanding Low-Code/No-Code Landscape: Implications for Tech Job Evolution - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-future-without-microsofts-support-top-5-alternatives-for-your-windows-11-machine-insights-by-zdnet/"><u>Facing the Future without Microsoft's Support: Top 5 Alternatives for Your Windows 11 Machine - Insights by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-8-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 8 Plus Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-your-content-youtube-video-editing-secrets-revealed/"><u>In 2024, Elevate Your Content YouTube Video Editing Secrets Revealed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-huawei-nova-y91-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Huawei Nova Y91 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/launch-your-fortune-on-periscope-live-chats/"><u>Launch Your Fortune on Periscope Live Chats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-electronic-signature-solutions-insights-from-zdnet/"><u>Top Rated Electronic Signature Solutions - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-microsoft-faces-critical-challenge-with-windows-11-just-one-year-left-zdnet-exclusive/"><u>Urgent: Microsoft Faces Critical Challenge with Windows 11 - Just One Year Left! [ZDNet Exclusive]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-embracing-low-code-tech-boosts-employer-branding-zdnet-analysis/"><u>Why Embracing Low-Code Tech Boosts Employer Branding - ZDNet Analysis</u></a></li>
 </ul></div>
 

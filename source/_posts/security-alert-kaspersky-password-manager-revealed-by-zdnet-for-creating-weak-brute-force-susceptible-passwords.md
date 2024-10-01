@@ -1,7 +1,7 @@
 ---
 title: "Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords"
-date: 2024-09-18T17:14:20.294Z
-updated: 2024-09-25T23:20:22.197Z
+date: 2024-09-28T16:09:05.142Z
+updated: 2024-10-01T07:20:19.027Z
 tags:
   - password-manager
 categories:
@@ -62,10 +62,10 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -91,19 +91,16 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-galaxy-s8s-ultra-hd-experience-unveiled-for-2024/"><u>[New] Galaxy S8's Ultra HD Experience Unveiled for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-take-your-snapchat-to-new-heights-with-cutting-edge-boomerangs/"><u>[Updated] 2024 Approved Take Your Snapchat to New Heights with Cutting-Edge Boomerangs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-mix-melodies-and-text-powerpoints-unleashed/"><u>[Updated] How to Mix Melodies & Text PowerPoints Unleashed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-innovative-methods-for-high-definition-vr-gameplay-recordings-for-2024/"><u>[Updated] Innovative Methods for High-Definition VR Gameplay Recordings for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-empowering-skill-advancement-beyond-artificial-intelligence-on-the-digital-frontier-insights-from-zdnet/"><u>1. Empowering Skill Advancement: Beyond Artificial Intelligence on the Digital Frontier - Insights From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-into-the-workings-of-runtime-brokers-in-computing/"><u>Delving Into the Workings of Runtime Brokers in Computing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-the-future-how-your-enterprise-will-depend-on-numerous-ai-solutions-insights-from-zdnet/"><u>Embracing the Future: How Your Enterprise Will Depend on Numerous AI Solutions - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-citizen-developers-and-it-teams-alike-with-low-codeno-code-solutions/"><u>Empowering Citizen Developers & IT Teams Alike with Low-Code/No-Code Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/evolving-with-intelligence-how-low-code-and-no-code-platforms-are-adapting-to-ai-demands-an-expert-analysis-by-zdnet/"><u>Evolving with Intelligence: How Low-Code and No-Code Platforms Are Adapting to AI Demands – An Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://win-answers.techidaily.com/football-manager-2020-update-fixes-previous-bug-causing-crashes-play-smoothly-now/"><u>Football Manager 2020 Update Fixes Previous Bug Causing Crashes – Play Smoothly Now!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-correcting-smudged-stream-content-on-facebook-devices/"><u>In 2024, Correcting Smudged Stream Content on Facebook Devices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/premium-audio-alerts-excellent-sites-compilation/"><u>Premium Audio Alerts Excellent Sites Compilation</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-secure-guide-how-to-download-amd-ati-radeon-hd-4200-graphics-drivers/"><u>Quick & Secure Guide: How To Download AMD ATI Radeon HD 4200 Graphics Drivers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-innovation-with-open-source-a-pathway-chosen-by-leading-global-minds-insights-from-zdnet/"><u>Unlocking Innovation with Open Source: A Pathway Chosen by Leading Global Minds - Insights From ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-nostalgia-reimagined-transforming-your-vintage-photos-into-cutting-edge-videos/"><u>[New] Nostalgia Reimagined Transforming Your Vintage Photos Into Cutting-Edge Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-tiktok-mastery-the-art-of-editing-your-number/"><u>[Updated] 2024 Approved TikTok Mastery The Art of Editing Your Number</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-alternative-paths-for-your-still-running-windows-10-system-as-microsofts-official-support-nears-its-end/"><u>Five Alternative Paths for Your Still-Running Windows 10 System as Microsoft's Official Support Nears Its End</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-webcam-software-for-your-lenovo-device-on-windows-7/"><u>Get the Newest Webcam Software for Your Lenovo Device on Windows 7</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola FRP Bypass</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvidias-official-rtx-3070-ti-graphics-drivers-for-windows-users-download-now/"><u>NVIDIA's Official RTX 3070 Ti Graphics Drivers for Windows Users: Download Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-obstacles-in-ai-precision-and-reliability-for-todays-developers-expert-analysis-at-zdnet/"><u>Overcoming Obstacles in AI Precision & Reliability for Today's Developers | Expert Analysis at ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-uav-choices-for-optimal-gopro-hd-imaging/"><u>Premier UAV Choices for Optimal GoPro HD Imaging</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-critical-need-for-clarity-in-artificer-interests-exploring-the-transparency-gap-in-ai-evolution-zdnet/"><u>The Critical Need for Clarity in Artificer Interests: Exploring the Transparency Gap in AI Evolution | ZDNET</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-discounts-on-gadgets-amazons-premier-sale-event-2024/"><u>Top Discounts on Gadgets: Amazon's Premier Sale Event 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-ai-servicenows-essential-four-core-tenets-explained-boost-your-enterprise-success/"><u>Unlocking the Power of AI: ServiceNow's Essential Four Core Tenets Explained - Boost Your Enterprise Success!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Secure Your Kubernetes Environment with Codenotary’s New SBOM Offering, as Featured on ZDNet
-date: 2024-09-21T00:58:00.855Z
-updated: 2024-09-26T05:14:54.786Z
+date: 2024-09-25T07:10:49.051Z
+updated: 2024-09-30T16:19:32.551Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +187,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-cutting-edge-conversion-tips-avi-to-gif-using-filmora-for-windowsmac-users-for-2024/"><u>[New] Cutting-Edge Conversion Tips AVI to GIF Using Filmora for Windows/Mac Users for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-navigating-through-tech-barriers-record-any-youtube-live-with-ease-for-2024/"><u>[New] Navigating Through Tech Barriers Record Any YouTube Live with Ease for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-perfect-posts-enhance-videos-before-sharing-on-instagram/"><u>[New] Perfect Posts Enhance Videos Before Sharing on Instagram</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-tips-for-memorable-youtube-names-for-2024/"><u>[Updated] Expert Tips for Memorable YouTube Names for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-make-every-story-stand-out-6-top-rated-apps-for-android-and-iphone/"><u>[Updated] In 2024, Make Every Story Stand Out 6 Top-Rated Apps for Android & iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/adapting-office-gadgets-for-the-age-of-artificial-intelligence-zdnet/"><u>Adapting Office Gadgets for the Age of Artificial Intelligence | ZDNET</u></a></li>
-<li><a href="https://win-special.techidaily.com/conversione-gratuita-da-rmvb-a-mp4-online-con-movavi-registrati-ora/"><u>Conversione Gratuita Da RMVB a MP4 Online Con Movavi - Registrati Ora!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-systems-compromised-by-software-glitches-pose-same-dangers-as-ransomware-attacks-insights-on-zdnet/"><u>Critical Systems Compromised by Software Glitches Pose Same Dangers as Ransomware Attacks - Insights on ZDNET</u></a></li>
-<li><a href="https://article-posts.techidaily.com/essential-list-premier-free-video-player-choices-for-pctabletsmartphone-users/"><u>Essential List Premier Free Video Player Choices for PC/Tablet/Smartphone Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-new-capabilities-unveiled-with-the-latest-version-of-windows-11-zdnet-insights/"><u>Exploring the New Capabilities Unveiled with the Latest Version of Windows 11 | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/github-versus-gitlab-showdown-determining-the-best-fit-for-your-dev-needs-insights-from-zdnet/"><u>GitHub versus GitLab Showdown: Determining the Best Fit for Your Dev Needs, Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-a-managers-frustration-with-team-slack-usage-led-to-unforeseen-consequences-a-zdnet-analysis/"><u>How a Manager's Frustration with Team Slack Usage Led to Unforeseen Consequences - A ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-expert-insights-suggest-ai-is-key-to-securing-our-digital-future-zdnet/"><u>How Expert Insights Suggest AI Is Key to Securing Our Digital Future - ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-y78-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo Y78 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rising-curiosity-in-ai-reveals-a-need-for-greater-transparency-insights-from-zdnet/"><u>Rising Curiosity in AI Reveals a Need for Greater Transparency - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-mozilla-firefox-saved-login-credentials-setting-up-a-master-password/"><u>Securing Mozilla Firefox Saved Login Credentials: Setting up a Master Password</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-limitations-of-ai-in-programming-insights-from-zdnet/"><u>Understanding the Limitations of AI in Programming - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-asus-zenbook-s16-testing-and-analysis-of-amd-ryzen-ai-9-hx-370-cpu/"><u>Unveiling the Power of Asus Zenbook S16: Testing & Analysis of AMD Ryzen AI 9 HX 370 CPU</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-snaplink-collage-harmonize-photos-for-instagram/"><u>[New] 2024 Approved SnapLink Collage Harmonize Photos for Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-essential-filmora-features-every-videographer-adores/"><u>[New] Essential Filmora Features Every Videographer Adores</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-engaging-followers-on-instagram-with-youtube-video-links-in-stories/"><u>2024 Approved Engaging Followers on Instagram with YouTube Video Links in Stories</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-productivity-with-ubuntu-2204-a-top-choice-for-professional-linux-desktops-techadvice/"><u>Boost Your Productivity with Ubuntu 22.04 - A Top Choice for Professional Linux Desktops | TechAdvice</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-solving-the-fcpx-crash-problem-top-solutions/"><u>In 2024, Solving the FCPX Crash Problem Top Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-itel-s23plus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Itel S23+ Location | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-demystified-understanding-its-essentiality-in-cloud-computing/"><u>Kubernetes Demystified: Understanding Its Essentiality in Cloud Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-team-meetings-with-otter-adaptable-audio-transcription-tools-explored-insights-and-tips-zdnet/"><u>Mastering Team Meetings with Otter: Adaptable Audio Transcription Tools Explored - Insights & Tips | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862873248-msi-unveils-top-tier-z890-and-b8n60-boards-for-intel-arc-s-certified-before-the-excitement-of-computex-2024-begins/"><u>MSI Unveils Top-Tier Z890 and B8n60 Boards for Intel Arc S, Certified Before the Excitement of Computex 2024 Begins</u></a></li>
+<li><a href="https://app-tips.techidaily.com/polarization/"><u>Polarization</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-unexpected-website-appearances-in-screen-time-on-iphones/"><u>Resolving Unexpected Website Appearances in Screen Time on iPhones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsung-soundbar-woes-a-step-by-score-guide-to-reviving-silent-speakers/"><u>Samsung Soundbar Woes? A Step-by-Score Guide to Reviving Silent Speakers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-leading-8-applications-of-artificer-intellect-essential-tips-for-tech-enthusiasts/"><u>The Leading 8 Applications of Artificer Intellect - Essential Tips for Tech Enthusiasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-customer-relationship-management-crm-systems-optimal-choices-for-small-and-medium-businesses-insights-by-zdnet/"><u>Top Customer Relationship Management (CRM) Systems : Optimal Choices for Small and Medium Businesses - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-booming-growth-of-no-codelow-code-solutions-and-its-impact-on-it-career-paths/"><u>ZDNet Explores the Booming Growth of No-Code/Low-Code Solutions and Its Impact on IT Career Paths</u></a></li>
 </ul></div>
 

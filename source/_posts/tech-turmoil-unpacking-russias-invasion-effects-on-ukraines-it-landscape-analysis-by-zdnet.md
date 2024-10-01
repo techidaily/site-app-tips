@@ -1,7 +1,7 @@
 ---
 title: "Tech Turmoil: Unpacking Russia's Invasion Effects on Ukraine's IT Landscape | Analysis by ZDNet"
-date: 2024-09-17 23:10:30
-updated: 2024-09-20 12:17:39
+date: 2024-09-27T19:37:56.077Z
+updated: 2024-09-30T20:59:35.819Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-how-to-elevate-your-profile-on-discord-with-custom-emoji-stamps/"><u>[New] How to Elevate Your Profile on Discord with Custom Emoji Stamps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-best-ios-photo-editors-to-eliminate-objects-effectively/"><u>2024 Approved Best iOS Photo Editors to Eliminate Objects Effectively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-efficiency-top-6-chatgpt-techniques-for-the-digital-nomad/"><u>Boosting Efficiency: Top 6 ChatGPT Techniques for the Digital Nomad</u></a></li>
+<li><a href="https://app-tips.techidaily.com/defend-your-digital-life-expert-strategies-for-microsoft-account-security-by-zdnet-experts/"><u>Defend Your Digital Life: Expert Strategies for Microsoft Account Security by ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-how-vivaldi-revolutionizes-browsing-with-its-superior-built-in-mail-client/"><u>Discover How Vivaldi Revolutionizes Browsing with Its Superior Built-In Mail Client!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-to-elite-a-comprehensive-tutorial-on-switching-from-windows-home-to-the-power-of-pro-version/"><u>Elevate to Elite: A Comprehensive Tutorial on Switching From Windows Home to the Power of Pro Version</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevating-software-creation-with-github-copilots-productive-precision-insights-from-zdnet/"><u>Elevating Software Creation with GitHub Copilot's Productive Precision - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/grounding-systems-must-comply-with-national-and-international-standards-to-ensure-they-are-safe-and-do-not-cause-harmful-interference/"><u>Grounding Systems Must Comply with National and International Standards to Ensure They Are Safe and Do Not Cause Harmful Interference.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/instant-recording-audio-enriched-screens-for-2024/"><u>Instant Recording Audio-Enriched Screens for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-document-creation-in-microsoft-364-with-these-4-latest-co-pilot-enhancements-ace-your-docs-faster-than-ever-insights-from-zdnet/"><u>Master Document Creation in Microsoft 364 with These 4 Latest Co-Pilot Enhancements: Ace Your Docs Faster Than Ever! - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/removing-unwanted-reflections-and-red-eye-from-pet-portraits/"><u>Removing Unwanted Reflections and Red-Eye From Pet Portraits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/software-updates-gone-wrong-a-new-threat-to-essential-services-equals-ransomware-risks-zdnet/"><u>Software Updates Gone Wrong: A New Threat to Essential Services Equals Ransomware Risks - ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-eliminate-the-unwanted-black-screens-in-hitman-3-on-windows/"><u>Step-by-Step Guide to Eliminate the Unwanted Black Screens in Hitman 3 on Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/steps-to-secure-clear-image-collections/"><u>Steps to Secure, Clear Image Collections</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-color-correction-best-practices-top-11-for-2024/"><u>The Art of Color Correction Best Practices (Top 11) for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-secret-behind-leading-minds-choosing-open-source-revealing-tips-by-zdnet-experts/"><u>The Secret Behind Leading Minds Choosing Open Source? Revealing Tips by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/underperforming-thermal-grizzly-components-a-confession-from-der8auer/"><u>Underperforming Thermal Grizzly Components: A Confession From Der8auer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-ai-driven-success-for-any-size-business-using-anthropics-latest-enterprise-offering-the-claude-upgrade-zdnet-insights/"><u>Unlock AI-Driven Success for Any Size Business Using Anthropic's Latest Enterprise Offering, The Claude Upgrade | ZDNET Insights</u></a></li>
+</ul></div>
+

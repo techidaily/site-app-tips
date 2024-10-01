@@ -1,7 +1,7 @@
 ---
 title: "1. Insightful Analysis: Unveiling the Challenges of Leveraging Generative AI in Business - Key Findings From Deloitte's Latest Study"
-date: 2024-09-19 23:58:44
-updated: 2024-09-20 12:29:26
+date: 2024-09-28T23:39:46.726Z
+updated: 2024-10-01T03:31:42.315Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,23 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://app-tips.techidaily.com/boost-your-communication-enhancing-rocketchat-functionality-through-app-add-ons/"><u>Boost Your Communication: Enhancing Rocket.Chat Functionality Through App Add-Ons</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-amazonbasics-micro-cut-shredder-12-sheets-reviews-and-ratings/"><u>Comprehensive AmazonBasics Micro-Cut Shredder (12 Sheets) Reviews & Ratings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/fading-audio-tracks-with-ease-in-adobe-premiere-pro-for-2024/"><u>Fading Audio Tracks with Ease in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/game-on-latest-windows-10-gaming-and-application-hits/"><u>Game On Latest Windows 10 Gaming & Application Hits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-citizen-devops-revolutionize-workload-management-in-corporate-it-systems/"><u>How Citizen DevOps Revolutionize Workload Management in Corporate IT Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/moviemeld-editor-review-in-depth-analysis-for-2024/"><u>MovieMeld Editor Review – In-Depth Analysis for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fix-your-windows-11-from-getting-stuck-at-the-startup-screen-instantly/"><u>Resolved: Fix Your Windows 11 From Getting Stuck at the Startup Screen Instantly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionize-user-interaction-using-xr-virtual-replicas-and-immersive-computing-a-strategic-enterprise-handbook-zdnet/"><u>Revolutionize User Interaction Using XR, Virtual Replicas, and Immersive Computing: A Strategic Enterprise Handbook [ZDNET]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-secure-enterprise-deployments-with-canonicals-distroless-linux-solutions-cybertechdaily/"><u>The Future of Secure Enterprise Deployments with Canonical's Distroless Linux Solutions | CyberTechDaily</u></a></li>
+</ul></div>
+

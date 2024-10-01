@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet"
-date: 2024-09-20T21:18:22.994Z
-updated: 2024-09-25T22:36:22.560Z
+date: 2024-09-25T05:40:14.172Z
+updated: 2024-10-01T01:48:40.202Z
 tags:
   - password-manager
 categories:
@@ -112,10 +112,10 @@ Analysis of identity and access management (IAM) polices taking into account hun
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -136,10 +136,10 @@ Another practice that isn't helping IT departments is [poor password security](h
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### special feature
@@ -159,10 +159,16 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -188,17 +194,17 @@ IT departments should also consider whether regular accounts need administrator 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-shooter-synergy-crafting-a-list-of-top-7-game-battles-for-2024/"><u>[New] Shooter Synergy Crafting a List of Top 7 Game Battles for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-your-journey-to-instagram-dominance-started-here-for-2024/"><u>[New] Your Journey to Instagram Dominance, Started Here for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-to-cyberlink-actiondirector-advantages-disadvantages-and-top-substitutes/"><u>Complete Guide to CyberLink ActionDirector: Advantages, Disadvantages & Top Substitutes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620191079-discover-the-ultimate-list-of-free-user-friendly-android-notes-applications-the-best-picks-you-need/"><u>Discover the Ultimate List of FREE, User-Friendly Android Notes Applications: The Best Picks You Need!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-xiaomi-14-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Xiaomi 14 Ultra to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-ensuring-tiktok-authenticity-pre-upload-rights-confirmation/"><u>In 2024, Ensuring TikTok Authenticity Pre-Upload Rights Confirmation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-mobile-apps-for-stunning-photo-capture-on-android-devices/"><u>Top 10 Mobile Apps for Stunning Photo Capture on Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-the-best-10-gif-maker-apps-for-your-iphone/"><u>Ultimate Guide: The Best 10 GIF Maker Apps for Your iPhone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-tips-for-easily-taking-screenshots-on-your-hp-computer/"><u>Ultimate Tips for Easily Taking Screenshots on Your HP Computer</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unlocking-retro-titles-best-pc-emulators-for-ps1-games/"><u>Unlocking Retro Titles Best PC Emulators for PS1 Games</u></a></li>
-<li><a href="https://app-tips.techidaily.com/whatsapp-secrets-revealed-how-to-join-and-chat-with-others-even-if-you-dont-want-to-share-your-mobile-number/"><u>WhatsApp Secrets Revealed: How to Join and Chat with Others Even If You Don't Want to Share Your Mobile Number</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/1726030509149-5/"><u>オンライン動画連結の専門家から振り返る、今最も人気な5つのウェブサイト!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-rising-above-the-crowd-trending-techniques-for-youtubers/"><u>[New] In 2024, Rising Above the Crowd Trending Techniques for YouTubers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-top-rated-8-android-tools-for-team-video-calls/"><u>[New] In 2024, The Top-Rated 8 Android Tools for Team Video Calls</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-hassle-free-techniques-for-igtv-on-stories/"><u>[Updated] Hassle-Free Techniques for IGTV on Stories</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-safeguard-your-live-streams-on-periscope/"><u>[Updated] How To Safeguard Your Live Streams on Periscope</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726227079944-ogg-movavi/"><u>「オフラインでも使える簡単な無料OGG音声コーデックへの変換手順 -Movavi」</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-motorola-moto-g23-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Motorola Moto G23? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/busting-top-5-fallacies-surrounding-the-profitability-of-data-sharing-techwise-insights/"><u>Busting Top 5 Fallacies Surrounding the Profitability of Data Sharing | TechWise Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-you-master-artificial-intelligence-without-technical-expertise-understanding-the-need-for-varied-education-in-complex-systems-zdnet/"><u>Can You Master Artificial Intelligence Without Technical Expertise? Understanding the Need for Varied Education in Complex Systems | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/half-of-all-biz-marketers-now-leverage-ai-tools-insights-from-zdnet/"><u>Half of All Biz Marketers Now Leverage AI Tools: Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-k70-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi K70 Pro Without Password | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ibm-survey-highlights-growing-skepticism-among-corporate-heads-towards-it-discover-the-factors-zdnet/"><u>IBM Survey Highlights Growing Skepticism Among Corporate Heads Towards IT - Discover the Factors | ZDNet</u></a></li>
 </ul></div>
 

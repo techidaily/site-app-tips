@@ -1,7 +1,7 @@
 ---
 title: Why People Favor Biometrics Over Passwords Due to Memory Challenges | ZDNet Analysis
-date: 2024-09-23T17:52:47.859Z
-updated: 2024-09-26T10:52:14.653Z
+date: 2024-09-25T10:28:15.141Z
+updated: 2024-10-01T07:37:35.939Z
 tags:
   - password-manager
 categories:
@@ -95,31 +95,26 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hide-faces-in-photos-efficiently-with-these-tools/"><u>[New] Hide Faces in Photos Efficiently with These Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-chromatics-a-practical-approach/"><u>[New] Mastering Chromatics A Practical Approach</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ecrets-of-hosting-no-cost-seminars-on-the-worlds-largest-video-platform/"><u>[New] Secrets of Hosting No-Cost Seminars on the World’s Largest Video Platform</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-enhancing-iphone-7-screen-record-capabilities-for-2024/"><u>[Updated] Enhancing iPhone 7 Screen Record Capabilities for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-encyclopedia-reacting-effectively-on-youtube-vids/"><u>[Updated] The Ultimate Encyclopedia Reacting Effectively on YouTube Vids</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-roadmap-to-exceptional-spotify-ad-performance/"><u>2024 Approved The Roadmap to Exceptional Spotify Ad Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/aprenda-a-alterar-o-tamanho-de-seu-video-com-essas-9-ferramentas-mais-utilizadas/"><u>Aprenda a Alterar O Tamanho De Seu Vídeo Com Essas 9 Ferramentas Mais Utilizadas</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-strategies-to-prevent-and-fix-crashes-in-nioh-2-the-ultimate-edition/"><u>Comprehensive Strategies to Prevent and Fix Crashes in Nioh 2 - The Ultimate Edition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-singapores-small-businesses-with-genai-workforce-training-guide-insights-from-zdnet/"><u>Empowering Singapore's Small Businesses with GenAI Workforce Training Guide - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-prove-generative-ai-worth-in-your-business-understanding-roi-challenges-as-explained-by-zdnet/"><u>How to Prove Generative AI Worth in Your Business: Understanding ROI Challenges as Explained by ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-amazon-fire-hd-10-kids-edition-exceptional-parental-control-features-reviewed/"><u>In Depth Analysis: Amazon Fire HD 10 Kids Edition - Exceptional Parental Control Features Reviewed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-impenetrable-ai-watermark-techniques-for-content-security-zdnet/"><u>Mastering Impenetrable AI Watermark Techniques for Content Security | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-todays-obstacles-dealing-with-imperfect-ai-output-and-doubts-on-reliability-insights-from-zdnet/"><u>Navigating Today's Obstacles: Dealing with Imperfect AI Output & Doubts on Reliability - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/redesigning-interaction-how-generative-ai-is-shaping-the-future-of-user-interface-innovations-zdnet/"><u>Redesigning Interaction: How Generative AI Is Shaping the Future of User Interface Innovations | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/shifting-away-from-quick-fixes-to-pioneering-intellects-for-advancing-ai-says-renowned-banking-chief-zdnet/"><u>Shifting Away From Quick Fixes to Pioneering Intellects for Advancing AI, Says Renowned Banking Chief | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-complete-artificial-intelligence-journey-unfolds-direct-access-to-business-innovation-experts-zdnet-exploration/"><u>The Complete Artificial Intelligence Journey Unfolds - Direct Access to Business Innovation Experts | ZDNet Exploration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-role-of-a-chief-artificial-intelligence-officer-steps-to-achieve-the-position/"><u>The Role of a Chief Artificial Intelligence Officer – Steps to Achieve the Position</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-surge-of-edge-computing-devices-how-it-impacts-professional-growth-insights-from-zdnet/"><u>The Surge of Edge Computing Devices: How It Impacts Professional Growth - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-budget-friendly-premium-gaming-laptops-under-1500/"><u>Ultimate Guide to Budget-Friendly Premium Gaming Laptops Under 1500$</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-with-microsoft-a-step-by-step-guide-on-upgrading-to-windows-pro-edition-and-its-advantages/"><u>Advancing with Microsoft: A Step-by-Step Guide on Upgrading to Windows Pro Edition & Its Advantages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/avoiding-edgenuitys-grasp-tips-for-quickly-skipping-video-lessons-for-2024/"><u>Avoiding Edgenuity's Grasp Tips for Quickly Skipping Video Lessons for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/continuity-of-microsoft-365-support-for-office-2016-and-2019-what-to-expect-in-the-coming-year-zdnet/"><u>Continuity of Microsoft 365 Support for Office 2016 & 2019: What to Expect in the Coming Year | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-alternatives-to-explore-as-microsofts-support-for-windows-10-concludes-insights-from-zdnet/"><u>Five Alternatives to Explore as Microsoft's Support for Windows 10 Concludes - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-last-resort-options-for-your-windows-10-system-as-microsoft-ends-support/"><u>Five Last Resort Options for Your Windows 10 System as Microsoft Ends Support</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-design-thinking-bridges-the-gap-between-technology-professionals-and-enhancing-customer-experiences-insights-from-zdnet/"><u>How Design Thinking Bridges the Gap Between Technology Professionals and Enhancing Customer Experiences: Insights From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/igniting-conversations-fostering-a-supportive-youtube-environment/"><u>Igniting Conversations Fostering a Supportive YouTube Environment</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gif-basics-crafting-your-first-animated-image/"><u>In 2024, GIF Basics Crafting Your First Animated Image</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-honor-x8b-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Honor X8b FRP Without Computer</u></a></li>
+<li><a href="https://discover-best.techidaily.com/master-your-nighttime-routine-with-aabbs-insights-on-call-blocking-restful-sleep-and-selecting-the-perfect-film/"><u>Master Your Nighttime Routine with AABB's Insights on Call Blocking, Restful Sleep & Selecting the Perfect Film</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/paramounts-best-vr-movies-to-watch-now/"><u>Paramount's Best VR Movies to Watch Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-industry-with-xr-the-role-of-digital-twins-in-advanced-user-experience-expert-analysis-by-zdnet/"><u>Revolutionizing Industry with XR: The Role of Digital Twins in Advanced User Experience | Expert Analysis by ZDNET</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

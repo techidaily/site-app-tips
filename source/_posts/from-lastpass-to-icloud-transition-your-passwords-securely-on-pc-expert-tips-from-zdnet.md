@@ -1,7 +1,7 @@
 ---
 title: "From LastPass to iCloud: Transition Your Passwords Securely on PC - Expert Tips From ZDNet"
-date: 2024-09-19T05:48:07.224Z
-updated: 2024-09-26T05:46:25.010Z
+date: 2024-09-27T00:37:03.773Z
+updated: 2024-09-30T16:21:19.479Z
 tags:
   - password-manager
 categories:
@@ -34,10 +34,10 @@ But how can I remember all these passwords if I can't even remember my significa
 ## How to use iCloud as a password manager on Windows
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open iCloud for Windows
@@ -50,13 +50,6 @@ Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Sign in to your iCloud Passwords
 
 Once you sign in to your account -- if you haven't already -- you can access your account, add another account, and make any necessary changes.
@@ -66,13 +59,6 @@ Go to Passwords, and click Apply.
 Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Make sure Passwords is on and click Apply
 
@@ -122,24 +108,44 @@ Like LastPass, the browser extension will let you fill in your login information
 
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQ
 
 ## How do you get iCloud for Windows?  
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How do I set up iCloud Keychain? 
 
 iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/article/how-to-update-all-of-your-apple-devices/): [iPhone](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fipad%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [Mac](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). To set it up, go to your iPhone's Settings and tap on your name at the top of the screen to access your iCloud settings. Then, choose iCloud. Find Passwords and Keychain and select that, then tap on Sync this iPhone to turn it on. 
 
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
 
@@ -175,24 +181,18 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-reclaim-inaccessible-watch-icon/"><u>[New] 2024 Approved Reclaim Inaccessible Watch Icon</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-progressive-array-of-chat-initiators-for-attracting-podcast-audience/"><u>[New] In 2024, Progressive Array of Chat-Initiators for Attracting Podcast Audience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-investing-in-the-future-top-7-metaverse-devices-you-cant-miss/"><u>[New] Investing in the Future Top 7 Metaverse Devices You Can't Miss</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-simplified-editing-for-clean-cut-canvas-photos/"><u>[Updated] In 2024, Simplified Editing for Clean-Cut Canvas Photos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills-for-2024/"><u>[Updated] Speaking Like a Pro Tips to Upgrade Your Google Meet Skills for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quickstart-to-flawless-nft-artistry-for-beginners/"><u>2024 Approved Quickstart to Flawless NFT Artistry for Beginners</u></a></li>
-<li><a href="https://app-tips.techidaily.com/android-workflow-boosted-transforming-google-docs-into-compatible-ms-word-formats-effortlessly/"><u>Android Workflow Boosted: Transforming Google Docs Into Compatible MS Word Formats Effortlessly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-recent-payment-service-interruptions-affect-your-store-an-in-depth-analysis-by-zdnet/"><u>How Recent Payment Service Interruptions Affect Your Store: An In-Depth Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-servicenow-embraces-ai-fundamentals-for-competitive-advantage-insights-and-implications-for-business-growth-zdnet/"><u>How ServiceNow Embraces AI Fundamentals for Competitive Advantage – Insights & Implications for Business Growth | ZDNET</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-programming-in-rust-and-balancing-work-life-on-his-macbook-air-exclusive-qanda-featured-by-zdnet/"><u>Linus Torvalds Discusses Programming in Rust & Balancing Work-Life on His MacBook Air - Exclusive Q&A Featured by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-future-the-pivotal-role-of-enterprise-architects-in-todays-tech-evolution-zdnet/"><u>Mastering the Future: The Pivotal Role of Enterprise Architects in Today's Tech Evolution | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-new-era-of-work-a-deep-dive-into-enterprise-transformation-through-decentralized-technologies-and-web3/"><u>Navigating the New Era of Work: A Deep Dive Into Enterprise Transformation Through Decentralized Technologies and Web3</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-shift-from-on-premises-infrastructure-to-cloud-dominance/"><u>Navigating the Shift From On-Premises Infrastructure to Cloud Dominance</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-choosing-a-lte-smartwatch-reviewing-the-mobvoi-ticwatch-pro/"><u>The Ultimate Guide to Choosing a LTE Smartwatch: Reviewing the Mobvoi Ticwatch Pro</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-most-efficient-to-do-list-applications-techradar/"><u>Top 10 Most Efficient To-Do List Applications - TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-screen-capture-tools-comprehensive-guide-pcmag/"><u>Top-Rated Screen Capture Tools: Comprehensive Guide - PCMag</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-video-editing-mastery-using-lut-filters-in-obs-studio-for-2024/"><u>Unlock Video Editing Mastery Using LUT Filters in OBS Studio for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-introducing-the-apple-m1-max-clip/"><u>[New] 2024 Approved Introducing the Apple M1 Max Clip</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unveiling-the-essentials-of-ios-screen-capture-capabilities/"><u>[Updated] 2024 Approved Unveiling the Essentials of Io's Screen Capture Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-premium-4k-video-mics-top-picks-list/"><u>[Updated] In 2024, Premium 4K Video Mics Top Picks List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-story-viewers-uncharted-territory-explored-for-2024/"><u>[Updated] Instagram Story Viewers Uncharted Territory Explored for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/choose-your-perfect-wedding-tales-youtubes-finest-8/"><u>Choose Your Perfect Wedding Tales - Youtube's Finest 8</u></a></li>
+<li><a href="https://app-tips.techidaily.com/end-of-an-era-what-to-do-with-your-windows-10-computer-explore-5-alternatives/"><u>End of an Era: What to Do with Your Windows 10 Computer - Explore 5 Alternatives</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-11-proplus-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme 11 Pro+ Quickly? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-cloud-platforms-reviewed-comparing-aws-microsoft-azure-and-google-cloud-exploring-hybrid-saas-options-on-zdnet/"><u>Leading Cloud Platforms Reviewed: Comparing AWS, Microsoft Azure, & Google Cloud – Exploring Hybrid, SaaS Options on ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-milestone-in-7-years-of-language-acquisition/"><u>Mondly's Milestone in 7 Years of Language Acquisition</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-3b-five-facts-about-antenna-radiation-patterns/"><u>Section 3B: Five Facts About Antenna Radiation Patterns</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers on Windows 7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/web-page-essentials-unlocking-effective-strategies-for-search-engines/"><u>Web Page Essentials: Unlocking Effective Strategies for Search Engines</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-crisis-looms-for-microsoft-only-a-year-remaining-to-address-major-issues-insights-from-zdnet/"><u>Windows 11 Crisis Looms for Microsoft - Only a Year Remaining to Address Major Issues | Insights From ZDNet</u></a></li>
 </ul></div>
 

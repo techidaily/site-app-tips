@@ -1,7 +1,7 @@
 ---
 title: ZDNet Investigates the Recent Cybersecurity Breach Exposing 30K+ Healthcare Workers' Confidential Details in Florida Database
-date: 2024-09-19T23:04:15.372Z
-updated: 2024-09-25T23:39:36.976Z
+date: 2024-09-27T05:39:19.984Z
+updated: 2024-09-30T19:06:32.044Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -99,24 +99,19 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-seekingnextgencamerasolutions/"><u>[New] SeekingNextGenCameraSolutions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-a-filmmakers-must-visit-list-free-visual-effect-and-editing-websites-reviewed/"><u>[Updated] In 2024, A Filmmaker's Must-Visit List Free Visual Effect & Editing Websites Reviewed</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-overwatch-recording-made-simple-with-us-for-2024/"><u>[Updated] Overwatch Recording Made Simple with Us for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-eva-formerly-ex-journey-ai-chatbot-overview-essential-insights/"><u>Comprehensive EVA (Formerly Ex Journey) AI Chatbot Overview - Essential Insights</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-of-netgear-nighthawk-rax80-unleashing-the-power-of-wi-fi-6/"><u>Comprehensive Review of Netgear Nighthawk RAX80: Unleashing the Power of Wi-Fi 6</u></a></li>
-<li><a href="https://app-tips.techidaily.com/decoding-eva-ai-a-deep-dive-into-the-transformed-ex-journey-conversational-agent/"><u>Decoding EVA AI - A Deep Dive Into the Transformed Ex Journey Conversational Agent</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevenlabs-ai-voice-generation-review-with-a-look-at-other-options/"><u>ElevenLabs AI: Voice Generation Review with a Look at Other Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-bing-chat-how-to-converse-using-cutting-edge-gpt-language-models-by-microsoft/"><u>Exploring Bing Chat: How to Converse Using Cutting-Edge GPT Language Models by Microsoft</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/get-back-on-track-with-forza-horizon-4-expert-troubleshooting-guide-for-a-smooth-launch/"><u>Get Back on Track with Forza Horizon 4: Expert Troubleshooting Guide for a Smooth Launch</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-through-the-best-of-ai-conversational-agents-in-depth-review-of-chatgpt/"><u>Navigating Through The Best of AI Conversational Agents: In-Depth Review Of ChatGPT</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-zte-blade-a73-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on ZTE Blade A73 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-download-hp-stream-driver-software-fast-and-easy-installation/"><u>Quick Download: HP Stream Driver Software - Fast & Easy Installation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-advanced-chatbot-innovations-combining-gpt-tech-with-astrological-insights/"><u>The Ultimate Guide to Advanced Chatbot Innovations Combining GPT Tech with Astrological Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-expert-assessment-and-key-features-of-the-revolutionary-ai-chatbot-chatsoner/"><u>The Ultimate Walkthrough: Expert Assessment and Key Features of the Revolutionary AI Chatbot, Chatsoner</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-choosing-a-leading-ai-companion-spotlight-on-chatgpts-excellence/"><u>Ultimate Guide to Choosing a Leading AI Companion: Spotlight on ChatGPT's Excellence</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-eva-the-ultimate-guide-to-the-former-ex-journey-ai-bot/"><u>Unveiling the Power of EVA: The Ultimate Guide to the Former Ex Journey AI Bot</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-zero-watermark-total-freedom-best-free-online-video-editors-for-2024/"><u>Updated Zero Watermark, Total Freedom Best Free Online Video Editors for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-phones-as-webcams-tips-and-tricks-for-quality-videos/"><u>[New] 2024 Approved Phones as Webcams Tips and Tricks for Quality Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-inside-instagrams-maximum-video-restriction-policy-for-2024/"><u>[New] Inside Instagram's Maximum Video Restriction Policy for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-pathways-to-gaining-premium-image-content-without-payment/"><u>[New] Pathways to Gaining Premium Image Content Without Payment</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-premium-serene-pc-games-catalog-for-2024/"><u>[Updated] Premium Serene PC Games Catalog for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-introduction-to-effective-analysis-facebook-insights/"><u>2024 Approved Introduction to Effective Analysis Facebook Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-apple-clips-in-depth-analysis-and-tips/"><u>Comprehensive Guide to Using Apple Clips: In-Depth Analysis and Tips</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-steps-converting-avi-files-to-compatible-formats-for-your-ipad-using-a-mac/"><u>Easy Steps: Converting AVI Files to Compatible Formats for Your iPad Using a Mac</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-shut-down-bluetooth-on-windows-10-completed/"><u>How To Shut Down Bluetooth On Windows 10 Completed</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-your-communication-avoid-missing-calls-amidst-noise-or-muting-with-advanced-flash-tech-for-up-to-10-contacts/"><u>Master Your Communication: Avoid Missing Calls Amidst Noise or Muting with Advanced Flash Tech for Up to 10 Contacts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-automated-photography-setting-timers-on-iphones-and-android-devices/"><u>Mastering the Art of Automated Photography: Setting Timers on iPhones & Android Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/selecting-prime-meme-blueprints/"><u>Selecting Prime Meme Blueprints</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-best-multiplayer-bluetooth-games-for-android-and-ios-devices/"><u>The Ultimate List of Best Multiplayer Bluetooth Games for Android & iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-11-audio-enhancement-applications-for-video-editing-on-mobile-devices-and-desktop-systems/"><u>Top 11 Audio Enhancement Applications for Video Editing on Mobile Devices and Desktop Systems</u></a></li>
 </ul></div>
 

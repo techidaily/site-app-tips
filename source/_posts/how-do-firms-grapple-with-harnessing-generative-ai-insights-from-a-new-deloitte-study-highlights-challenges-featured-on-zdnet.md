@@ -1,7 +1,7 @@
 ---
 title: "How Do Firms Grapple with Harnessing Generative AI: Insights From a New Deloitte Study Highlights Challenges - Featured on ZDNet"
-date: 2024-09-22T00:12:57.493Z
-updated: 2024-09-26T06:24:51.639Z
+date: 2024-09-29T05:02:58.564Z
+updated: 2024-09-30T18:13:24.797Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-progress-in-strategic-convergence-zdnet/"><u>Bridging the Tech and Business Divide: Progress in Strategic Convergence | ZDNet</u></a></li>
-<li><a href="https://win-best.techidaily.com/free-conversion-of-ogm-files-to-vob-format-expert-guide-with-movavi/"><u>Free Conversion of OGM Files to VOB Format - Expert Guide with Movavi</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-x-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone X to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo V27? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-xr-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone XR? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-techniques-for-a-dynamic-win11-display/"><u>In 2024, Innovative Techniques for a Dynamic Win11 Display</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-ultimate-guide-to-using-sticker-queries-on-instagram/"><u>In 2024, The Ultimate Guide to Using Sticker Queries on Instagram</u></a></li>
-<li><a href="https://app-tips.techidaily.com/intel-predicts-enterprise-adoption-of-ai-over-next-three-to-five-years-insights-from-zdnet/"><u>Intel Predicts Enterprise Adoption of AI Over Next Three to Five Years: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-the-digital-transformation-how-enterprise-architects-drive-innovation-zdnet/"><u>Leading the Digital Transformation: How Enterprise Architects Drive Innovation | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/open-sourcing-the-future-switzerlands-federal-govt-embraces-transparency-with-software-release-initiative-zdnet/"><u>Open Sourcing the Future: Switzerland's Federal Govt. Embraces Transparency with Software Release Initiative - ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-stereo-sound-issues-how-to-restore-your-audio-channel/"><u>Troubleshooting Stereo Sound Issues: How to Restore Your Audio Channel</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-unlocking-the-possibilities-with-next-gen-generative-intelligence-systems/"><u>Understanding ChatGPT: Unlocking the Possibilities with Next-Gen Generative Intelligence Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-kubernetes-its-critical-role-in-modern-software-deployment/"><u>Unveiling Kubernetes: Its Critical Role in Modern Software Deployment</u></a></li>
-<li><a href="https://app-tips.techidaily.com/verizon-chooses-celona-innovation-powering-its-enterprise-networks-with-cutting-edge-private-5g-solutions/"><u>Verizon Chooses Celona Innovation: Powering Its Enterprise Networks with Cutting-Edge Private 5G Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-leading-pioneers-are-drawn-to-collaborative-open-source-initiatives-a-zdnet-analysis/"><u>Why Leading Pioneers Are Drawn to Collaborative Open Source Initiatives - A ZDNET Analysis</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-livestream-leaders-guide-elevating-pre-recorded-videos-on-social-media/"><u>[New] In 2024, Livestream Leaders' Guide Elevating Pre-Recorded Videos on Social Media</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-conquering-low-light-challenges-in-filming/"><u>[Updated] Conquering Low-Light Challenges in Filming</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-feast-your-senses-15-must-try-tiktok-meal-ideas-for-2024/"><u>[Updated] Feast Your Senses 15 Must-Try TikTok Meal Ideas for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-heavy-lift-airborne-titans-drone-leaders-guide/"><u>[Updated] Heavy-Lift Airborne Titans - Drone Leaders Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-hasty-thumbnail-crafting-for-fortnite-gameplay/"><u>2024 Approved Hasty Thumbnail Crafting for Fortnite Gameplay</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-poco-m6-pro-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Poco M6 Pro 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/companies-scale-up-genai-strategy-insights-from-a-new-bloombergzdnet-study/"><u>Companies Scale Up GenAI Strategy: Insights From a New Bloomberg/ZDNet Study</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminate-the-haldll-is-missing-or-corrupt-error-on-windows-xp-with-easy-solutions/"><u>Eliminate the 'hal.dll Is Missing or Corrupt' Error on Windows XP with Easy Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-customer-engagement-through-xr-and-digital-twins-in-business-expert-strategies-unveiled-by-zdnet/"><u>Enhancing Customer Engagement Through XR and Digital Twins in Business - Expert Strategies Unveiled by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lipsync-the-groundbreaking-new-challenger-in-the-ms-teams-and-zoom-arena-revolutionizing-communication-for-the-hearing-impaired/"><u>LipSync: The Groundbreaking New Challenger in the MS Teams & Zoom Arena - Revolutionizing Communication for the Hearing Impaired</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-windows-11-vm-setup-on-any-platform-step-by-step-instructions/"><u>Mastering Windows 11 VM Setup on Any Platform - Step-by-Step Instructions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-introduces-unified-teamwork-solution-combining-work-personality-and-learning-into-one-platform/"><u>Microsoft Introduces Unified Teamwork Solution: Combining Work, Personality, and Learning Into One Platform</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-ig-video-trends-building-your-next-marketing-plan/"><u>Navigating IG Video Trends Building Your Next Marketing Plan</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-4b-five-facts-about-advanced-antenna-array-theory/"><u>Section 4B: Five Facts About Advanced Antenna Array Theory</u></a></li>
+<li><a href="https://app-tips.techidaily.com/set-up-seamless-email-connectivity-in-your-onlyoffice-workspace-tutorial-for-it-professionals/"><u>Set Up Seamless Email Connectivity in Your ONLYOFFICE Workspace – Tutorial for IT Professionals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-setting-up-google-one-vpn-on-your-mac-with-ease/"><u>Step-by-Step Guide: Setting Up Google One VPN on Your Mac with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-5-limitations-of-ai-for-professional-writing-careers/"><u>The 5 Limitations of AI for Professional Writing Careers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-cxfreeze-catastrophic-failures-with-ease/"><u>Troubleshooting Guide: Solving Cx_Freeze Catastrophic Failures with Ease</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-latest-features-of-macos-sonoma-a-comprehensive-guide-insights-from-zdnet/"><u>Unveiling the Latest Features of macOS Sonoma: A Comprehensive Guide - Insights From ZDNet</u></a></li>
 </ul></div>
 

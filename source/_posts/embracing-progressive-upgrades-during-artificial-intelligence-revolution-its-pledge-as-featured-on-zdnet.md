@@ -1,7 +1,7 @@
 ---
 title: "Embracing Progressive Upgrades During Artificial Intelligence Revolution: IT's Pledge as Featured on ZDNET"
-date: 2024-09-18 14:20:53
-updated: 2024-09-20 11:36:21
+date: 2024-09-24T17:40:31.828Z
+updated: 2024-10-01T06:43:46.068Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-art-of-logging-streaming-services-with-fidelity/"><u>[New] 2024 Approved The Art of Logging Streaming Services with Fidelity</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-mastering-fast-video-filming-on-tiktok/"><u>[Updated] 2024 Approved Mastering Fast Video Filming on TikTok</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-on-achieving-fluidity-in-inshot-cuts/"><u>[Updated] Expert Tips on Achieving Fluidity in Inshot Cuts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-tasty-tales-ideal-naming-for-culinary-broadcasts/"><u>2024 Approved Tasty Tales Ideal Naming for Culinary Broadcasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asean-countries-set-to-boost-digital-market-with-stronger-regulations-reaching-2t-growth-by-2030-insights-from-zdnet/"><u>ASEAN Countries Set to Boost Digital Market with Stronger Regulations, Reaching $2T Growth by 2030 - Insights From ZDNET</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-atk0110-universal-psu-free-drivers-firmware-and-acpi-updates-available-now/"><u>ASUS ATK0110 Universal PSU: Free Drivers, Firmware, and ACPI Updates Available Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/banking-industry-leader-urges-innovative-thinking-over-easy-solutions-in-artificial-intelligence-insights-from-a-top-cio-zdnet/"><u>Banking Industry Leader Urges Innovative Thinking Over Easy Solutions in Artificial Intelligence - Insights From a Top CIO | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-point-and-click-the-transformation-of-ui-with-generative-artificial-intelligence/"><u>Beyond Point-and-Click: The Transformation of UI with Generative Artificial Intelligence</u></a></li>
+<li><a href="https://app-tips.techidaily.com/future-of-service-delivery-mastering-agent-ecosystems-in-the-age-of-ai/"><u>Future of Service Delivery: Mastering Agent Ecosystems in the Age of AI</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-shift-how-generative-ai-is-carving-out-unique-leadership-roles-at-tech-giants-zdnet/"><u>Navigating the Shift: How Generative AI Is Carving Out Unique Leadership Roles at Tech Giants | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-challenges-of-integrating-agile-and-ai-development-key-findings-revealed-by-new-study-innovationhub/"><u>The Challenges of Integrating Agile and AI Development – Key Findings Revealed by New Study | InnovationHub</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-finnsgratiska-dvd-brandprogram-varor-med-windows-10-8-och-7/"><u>Top 6 Finnsgratiska DVD-Brändprogram Varor Med Windows 10, 8 Och 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-gamers-choose-edge-its-unmatched-browsing-skills/"><u>Why Gamers Choose Edge: Its Unmatched Browsing Skills</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Obstacles to Leveraging Generative AI in Business Practices: Key Findings From Recent Deloitte Research, Explored by ZDNET"
-date: 2024-09-18 11:15:29
-updated: 2024-09-20 11:39:59
+date: 2024-09-30T11:44:17.750Z
+updated: 2024-10-01T00:56:54.433Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-picks-for-retro-play-5-expert-picked-psone-emulators/"><u>[New] 2024 Approved Top Picks for Retro Play 5 Expert-Picked PsOne Emulators</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-win-gpgpu-capabilities-using-1-6-tools/"><u>Enhance Win GPGPU Capabilities Using #1-#6 Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-challenges-to-unlock-the-economic-potential-of-ai-in-business-insights-from-zdnet/"><u>Overcoming Challenges to Unlock the Economic Potential of AI in Business - Insights From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-infinix-note-30-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Infinix Note 30</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fix-your-microsoft-flight-simulator-2amstuckatupdatescreen-woes-today/"><u>Resolved: Fix Your Microsoft Flight Simulator 2amstuckatUpdateScreen Woes Today!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/smart-study-habits-how-students-should-steer-clear-of-misusing-chatgpt/"><u>Smart Study Habits: How Students Should Steer Clear of Misusing ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-end-of-point-and-click-era-exploring-ais-role-in-transforming-user-interfaces-zdnet/"><u>The End of Point-and-Click Era: Exploring AI's Role in Transforming User Interfaces | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-here-exploring-the-revolutionary-impact-of-ai-agents-on-our-careers-and-industries-zdnet-insights/"><u>The Future Is Here: Exploring the Revolutionary Impact of AI Agents on Our Careers and Industries | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-generative-ai-wave-transforming-workflow-how-automation-impacts-coding-jobs-techzine/"><u>The Generative AI Wave Transforming Workflow: How Automation Impacts Coding Jobs | TechZine</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-activating-your-new-echo-dots-setup-mode/"><u>Ultimate Guide: Activating Your New Echo Dot's Setup Mode</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-next-big-thing-the-quest-for-an-unprecedented-5g-game-changer-beyond-simple-connections-insights-from-zdnet/"><u>Unveiling the Next Big Thing: The Quest for an Unprecedented 5G Game-Changer Beyond Simple Connections - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-truth-five-common-errors-in-understanding-data-revenue-strategies-on-zdnet/"><u>Unveiling the Truth: Five Common Errors in Understanding Data Revenue Strategies on ZDNet</u></a></li>
+</ul></div>
+

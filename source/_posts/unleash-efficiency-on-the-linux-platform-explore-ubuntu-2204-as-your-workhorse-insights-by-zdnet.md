@@ -1,7 +1,7 @@
 ---
 title: Unleash Efficiency on the Linux Platform - Explore Ubuntu 22.04 as Your Workhorse | Insights by ZDNET
-date: 2024-09-19 20:21:18
-updated: 2024-09-20 10:34:35
+date: 2024-09-25T01:34:46.543Z
+updated: 2024-09-30T17:07:40.667Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,25 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-poll-power-players-leading-electoral-game-reviews/"><u>[New] 2024 Approved Poll Power Players Leading Electoral Game Reviews</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-building-a-stylish-tiktok-closing-credits-bar/"><u>[Updated] Building A Stylish TikTok Closing Credits Bar</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-reimagining-your-images-effective-uses-of-the-background-eraser-in-adobe-photoshop/"><u>[Updated] Reimagining Your Images Effective Uses of the Background Eraser in Adobe Photoshop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-creative-potential-with-new-iphone-x-camera/"><u>2024 Approved Unlocking Creative Potential with New iPhone X Camera</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-nokia-c300-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Nokia C300</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-steps-to-safely-update-or-fresh-install-itunes-without-data-loss/"><u>Complete Guide: Steps to Safely Update or Fresh Install iTunes without Data Loss</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-senuti-app-evaluation-and-top-alternatives-for-both-windows-and-macos-users/"><u>Comprehensive Guide: Senuti App Evaluation & Top Alternatives for Both Windows & macOS Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/al-arcade-over-a-hundred-game-channels-for-2024/"><u>Digital Arcade Over a Hundred Game Channels for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-ipad-release-whats-new-in-the-current-gen/"><u>Discover the Latest iPad Release: What's New in the Current Gen</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-activating-an-itunes-gift-card-for-apples-ios-and-macos-platforms/"><u>Guide: Activating An iTunes Gift Card For Apple's iOS & macOS Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/need-help-resetting-your-itunes-login-details-explore-proven-strategies-for-recovery/"><u>Need Help Resetting Your iTunes Login Details? Explore Proven Strategies for Recovery</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Implications of Embracing Decentralization & Web3 Technologies for Businesses - An In-Depth Analysis by ZDNET
-date: 2024-09-17 18:35:24
-updated: 2024-09-20 11:22:30
+date: 2024-09-25T02:26:24.741Z
+updated: 2024-09-30T19:58:38.673Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-djis-sky-high-creativity-with-pro-drone-review-for-2024/"><u>[New] DJI's Sky-High Creativity with Pro Drone Review for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-live-recording-gadgets-for-youtube-content-creators/"><u>[New] In 2024, Best Live Recording Gadgets for YouTube Content Creators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-perfecting-iphones-audio-captures/"><u>[New] In 2024, Step-by-Step Perfecting iPhone's Audio Captures</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-rev-up-your-earnings-a-deep-dive-into-vimeo-profits/"><u>[Updated] Rev Up Your Earnings A Deep Dive Into Vimeo Profits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-between-advanced-gemini-and-chatgpt-plus-an-in-depth-review/"><u>Choosing Between Advanced Gemini & ChatGPT Plus: An In-Depth Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-future-your-top-5-choices-as-microsofts-mainstream-windows-1/"><u>Facing the Future: Your Top 5 Choices as Microsoft's Mainstream Windows 1</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-infinix-zero-5g-2023-turbo-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Infinix Zero 5G 2023 Turbo to Gmail | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linux-defenses-tighten-with-oins-latest-patent-protection-boost-ai-remains-uncovered-zdnet-expands/"><u>LINUX DEFENSES TIGHTEN WITH OIN'S LATEST PATENT PROTECTION BOOST (AI REMAINS UNCOVERED) | ZDNET EXPANDS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ryzen-platform-and-southbridge-chipset-driver-immediate-download-available/"><u>Ryzen Platform and Southbridge Chipset Driver - Immediate Download Available</u></a></li>
+<li><a href="https://app-tips.techidaily.com/save-big-get-your-hands-on-ashampoos-3d-cad-pro-software-at-a-steal-just-40-today/"><u>Save Big: Get Your Hands on Ashampoo's 3D CAD Pro Software at a Steal - Just $40 Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-crafting-a-reliable-recovery-drive-for-your-pc-expert-advice-from-zdnet/"><u>Step-by-Step Guide: Crafting a Reliable Recovery Drive for Your PC - Expert Advice From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-complexities-of-implementing-generative-ai-in-corporations-revealed-by-deloitte-survey-zdnet/"><u>The Complexities of Implementing Generative AI in Corporations Revealed by Deloitte Survey | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-secure-encryption-apps-of-2022-to-safeguard-your-information-insights-by-zdnet/"><u>Top Secure Encryption Apps of 2022 to Safeguard Your Information - Insights by ZDNet</u></a></li>
+</ul></div>
+

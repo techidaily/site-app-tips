@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Design Thinking for Closer Alignment of IT Experts with User-Centric Solutions: A ZDNet Perspective"
-date: 2024-09-18 17:47:56
-updated: 2024-09-20 10:34:45
+date: 2024-09-27T18:50:16.541Z
+updated: 2024-10-01T05:57:12.049Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/xclusive-guide-to-the-best-7-android-browsers-ad-free-for-2024/"><u>[New] Exclusive Guide to the Best 7 Android Browsers, Ad-Free for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-fixing-invisible-areas-within-youtube-videos/"><u>[Updated] Fixing Invisible Areas Within YouTube Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-artificial-intelligence-create-an-engaging-radio-experience-for-modern-audiences/"><u>Can Artificial Intelligence Create an Engaging Radio Experience for Modern Audiences?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-chatgpt-functionality-a-guide-to-browsers-and-the-added-advantage-of-plugins/"><u>Enhancing ChatGPT Functionality - A Guide to Browsers and the Added Advantage of Plugins</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/finding-the-ideal-format-for-your-youtube-videos/"><u>Finding the Ideal Format for Your YouTube Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-streamlined-regulations-are-boosting-aseans-path-to-a-2t-digital-economy-by-2030-featured-on-zdnet/"><u>How Streamlined Regulations Are Boosting ASEAN's Path to a $2T Digital Economy by 2030, Featured on ZDNET</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Oppo Find X6 Phone Without Password?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-in-depth-insights-on-preserving-ps4-gaming-history/"><u>In 2024, In-Depth Insights on Preserving PS4 Gaming History</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovating-for-sustainability-ais-role-in-developing-next-gen-green-smart-appliances-exclusive-report/"><u>Innovating for Sustainability: AI's Role in Developing Next-Gen Green Smart Appliances | Exclusive Report</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-logitech-mouse-control-software-g-series-g602-driver-download-for-pcs-and-laptops/"><u>Install Logitech Mouse Control Software: G Series G602 Driver Download for PCs and Laptops</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-gpt-for-modern-cognitive-behavioral-strategies/"><u>Leveraging GPT for Modern Cognitive Behavioral Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-hurdles-of-uncertainty-in-ai-efficiency-and-precision-insights-from-zdnet/"><u>Navigating the Hurdles of Uncertainty in AI Efficiency & Precision - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-why-your-ipad-refuses-to-print/"><u>Troubleshooting: Why Your iPad Refuses to Print</u></a></li>
+</ul></div>
+

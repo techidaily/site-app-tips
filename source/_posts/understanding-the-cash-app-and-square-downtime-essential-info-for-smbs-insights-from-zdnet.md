@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Cash App & Square Downtime: Essential Info for SMBs - Insights From ZDNet"
-date: 2024-09-19 14:35:51
-updated: 2024-09-20 11:52:27
+date: 2024-09-27T16:18:19.372Z
+updated: 2024-10-01T08:34:47.410Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-cutting-edge-filmmaking-on-your-ios-device-for-2024/"><u>[New] Cutting-Edge Filmmaking on Your iOS Device for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-fiscal-landmarks-understanding-mr-beasts-financial-growth/"><u>2024 Approved Fiscal Landmarks Understanding Mr. Beast’s Financial Growth</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-iphone-selfie-gear-rankings-8/"><u>2024 Approved The Ultimate Guide to Iphone Selfie Gear Rankings (#8)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-the-pioneer-blu-ray-player-bdr-xd05b-highlighting-structural-limitations/"><u>Comprehensive Evaluation of the Pioneer Blu-Ray Player BDR-XD05B: Highlighting Structural Limitations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-leading-mac-applications-of-202amoeba-the-intriguing-life-cycle-of-paramecia-by-dr-emily-waters/"><u>Discover the Leading Mac Applications of 202Amoeba: The Intriguing Life Cycle of Paramecia by Dr. Emily Waters</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-pc-with-windows-home-to-pro-a-step-by-step-guide-and-benefits-techexplorer/"><u>Elevate Your PC with Windows Home to Pro: A Step-by-Step Guide and Benefits | TechExplorer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/eminent-linux-professionals-support-ciq-in-launch-of-new-rocky-linux-distribution/"><u>Eminent Linux Professionals Support CIQ in Launch of New Rocky Linux Distribution</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-enhanced-ai-workload-management-in-recent-kubernetes-update-key-features-unveiled/"><u>Exploring Enhanced AI Workload Management in Recent Kubernetes Update: Key Features Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-power-of-focused-image-blurring/"><u>Exploring the Power of Focused Image Blurring</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-free-film-and-image-repository-highlights/"><u>In 2024, Free Film and Image Repository Highlights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-xpg-hybrid-cooling-system-integrated-pump-and-radiator-for-up-to-280w-cpus/"><u>Revolutionary XPG Hybrid Cooling System: Integrated Pump & Radiator for Up to 280W CPUs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-future-in-tech-lessons-and-strategies-from-the-aerospace-giant-boeing-zdnet-exclusive-interview/"><u>Securing Your Future in Tech: Lessons and Strategies From the Aerospace Giant, Boeing | ZDNET Exclusive Interview</u></a></li>
+<li><a href="https://extra-support.techidaily.com/snicker-shelf-premium-collection-of-gratuitous-gags-for-2024/"><u>Snicker Shelf Premium Collection of Gratuitous Gags for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-to-connecting-email-services-with-onlyoffice-for-enhanced-collaboration/"><u>Step-by-Step Guide to Connecting Email Services with ONLYOFFICE for Enhanced Collaboration</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-make-lip-sync-video-without-installing-any-app/"><u>Updated In 2024, How to Make Lip Sync Video Without Installing Any App</u></a></li>
+</ul></div>
+

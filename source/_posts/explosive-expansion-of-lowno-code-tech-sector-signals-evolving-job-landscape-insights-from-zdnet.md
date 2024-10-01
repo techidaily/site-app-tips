@@ -1,7 +1,7 @@
 ---
 title: "Explosive Expansion of Low/No-Code Tech Sector Signals Evolving Job Landscape: Insights From ZDNet"
-date: 2024-09-17 14:52:34
-updated: 2024-09-20 10:25:17
+date: 2024-09-29T05:59:43.697Z
+updated: 2024-10-01T02:15:47.236Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-elevate-your-nba-experience-with-these-15-tips/"><u>[New] 2024 Approved Elevate Your NBA Experience with These 15 Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitreact-wisdom-a-complete-reference-book/"><u>[Updated] 2024 Approved TwitReact Wisdom A Complete Reference Book</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-how-to-download-obs-studio-for-mac-for-2024/"><u>[Updated] How to Download OBS Studio for Mac for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-enhance-your-chat-with-direct-spotify-streaming-in-discord/"><u>[Updated] In 2024, Enhance Your Chat with Direct Spotify Streaming in Discord</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-developer-productivity-and-endurance-with-github-copilot-a-zdnet-insight/"><u>Advancing Developer Productivity & Endurance with GitHub Copilot - A ZDNet Insight</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-the-differences-ps5-slim-vs-standard-ps5-console/"><u>Comparing the Differences: PS5 Slim Vs. Standard PS5 Console</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-evolution-of-developer-roles-insights-from-atlassians-agnes-ro-featured-in-zdnet/"><u>Exploring the Evolution of Developer Roles: Insights From Atlassian’s Agnes Ro – Featured in ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-realme-c55-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Realme C55 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-meizu-21-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Meizu 21 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to share/fake gps on Uber for Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-8-headsets-for-an-immersive-virtual-world-adventure/"><u>In 2024, Top 8 Headsets for an Immersive Virtual World Adventure</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-the-free-windows-10-update-still-available-detailed-insights-from-zdnet/"><u>Is the Free Windows 10 Update Still Available? Detailed Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/motion-detection/"><u>Motion Detection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-cloud-native-futures-unveiling-skillsets-and-enhanced-security-in-emerging-platforms-insights-from-zdnet/"><u>Navigating Cloud-Native Futures: Unveiling Skillsets & Enhanced Security in Emerging Platforms - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-ops-integration-and-its-complexities-within-enterprise-it-environments-as-analyzed-by-zdnet/"><u>Navigating Ops Integration and Its Complexities Within Enterprise IT Environments, as Analyzed by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transitioning-from-windows-home-to-professional-key-benefits-unveiled/"><u>Step-by-Step Guide: Transitioning From Windows Home to Professional - Key Benefits Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-converting-your-computer-from-windows-to-linux-mint-for-beginners/"><u>Step-by-Step Tutorial: Converting Your Computer From Windows to Linux Mint for Beginners</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-insiders-guide-to-creating-stunning-iphone-hdr-photos/"><u>The Insider's Guide to Creating Stunning iPhone HDR Photos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transferring-iphone-pictures-seamlessly-onto-a-windows-machine-complete-tutorial/"><u>Transferring iPhone Pictures Seamlessly Onto a Windows Machine - Complete Tutorial</u></a></li>
+</ul></div>
+

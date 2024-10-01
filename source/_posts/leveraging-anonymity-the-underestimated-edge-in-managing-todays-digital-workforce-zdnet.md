@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Anonymity: The Underestimated Edge in Managing Today's Digital Workforce | ZDNet"
-date: 2024-09-17 13:57:53
-updated: 2024-09-20 10:13:32
+date: 2024-09-25T02:28:02.479Z
+updated: 2024-09-30T21:54:43.145Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,23 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unveiling-zooms-hidden-visual-treasures-with-filters-for-2024/"><u>[New] Unveiling Zoom's Hidden Visual Treasures with Filters for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-discover-the-top-10-cost-free-video-conferencing-apps-for-businesses-and-schools/"><u>[Updated] Discover the Top 10 Cost-Free Video Conferencing Apps for Businesses & Schools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-rise-to-the-top-mobile-youtubing-without-million-subscriber-status-for-2024/"><u>[Updated] Rise to the Top Mobile YouTubing Without Million-Subscriber Status for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anthropic-introduces-the-claude-enterprise-suite-for-enhanced-ai-capabilities-across-large-scale-operations-zdnet-insights/"><u>Anthropic Introduces the Claude Enterprise Suite for Enhanced AI Capabilities Across Large-Scale Operations | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-a-leap-towards-realistic-integration/"><u>Bridging the Tech and Business Divide: A Leap Towards Realistic Integration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/cambiar-archivo-de-mp3-a-formato-mp4-libre-y-gratuito-sin-perdida-de-calidad/"><u>Cambiar Archivo De MP3 a Formato MP4 Libre Y Gratuito Sin Pérdida De Calidad</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-essential-strategies-for-your-windows-10-computer-as-microsoft-support-nears-its-end/"><u>Five Essential Strategies for Your Windows 10 Computer as Microsoft Support Nears Its End</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-harness-gptzeros-power-in-combatting-fake-ai-content-generation/"><u>How to Harness GPTZero's Power in Combatting Fake AI Content Generation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/six-essential-strategies-for-effective-agile-approach-in-software-design-insights-from-zdnet/"><u>Six Essential Strategies for Effective Agile Approach in Software Design - Insights From ZDNet</u></a></li>
+</ul></div>
+

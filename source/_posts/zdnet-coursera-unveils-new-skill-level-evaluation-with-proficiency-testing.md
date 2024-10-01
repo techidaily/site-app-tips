@@ -1,7 +1,7 @@
 ---
 title: "ZDNet: Coursera Unveils New Skill-Level Evaluation with Proficiency Testing"
-date: 2024-09-19 23:49:51
-updated: 2024-09-20 11:49:25
+date: 2024-09-25T21:07:15.108Z
+updated: 2024-09-30T16:48:12.339Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,28 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-top-5-cost-effective-fitness-trackers-for-gamers/"><u>[New] In 2024, Top 5 Cost-Effective Fitness Trackers (For Gamers)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-full-guide-mastery-of-adobe-cloud-services-with-alternatives-analysis/"><u>2024 Approved Full Guide Mastery of Adobe Cloud Services with Alternatives Analysis</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-narzo-60-pro-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme Narzo 60 Pro 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-the-mobvoi-ticwatch-pro-3-dual-screens-and-extended-endurance-reviewed/"><u>Comprehensive Guide to the Mobvoi TicWatch Pro 3: Dual Screens & Extended Endurance Reviewed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722198817942-discover-unmatched-insights-why-perplexity-ai-is-the-key-to-superior-google-search-mastery-youre-missing-out-on/"><u>Discover Unmatched Insights: Why Perplexity AI Is the Key to Superior Google Search Mastery You're Missing Out On</u></a></li>
+<li><a href="https://app-tips.techidaily.com/edit-pdf-documents-at-no-cost-with-google-docs-a-step-by-step-tutorial/"><u>Edit PDF Documents at No Cost with Google Docs: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/harnessing-advanced-port-options-with-the-asrock-z890-taichi-ten-usb-c-and-two-thunderbolt-explained/"><u>Harnessing Advanced Port Options with the ASRock Z890 Taichi: Ten USB C and Two Thunderbolt Explained</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-s18-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-gray-areas-of-ai-development-why-transparency-matters-more-than-ever/"><u>Navigating the Gray Areas of AI Development: Why Transparency Matters More Than Ever</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/techniques-for-optimizing-video-streaming/"><u>Techniques for Optimizing Video Streaming</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-next-evolution-in-coding-how-generative-ai-is-paving-the-way-from-low-code-to-no-code-systems/"><u>The Next Evolution in Coding: How Generative AI Is Paving the Way From Low-Code to No-Code Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-silent-launch-of-microsofts-new-tool-triggers-global-uproar-tech-news-insight/"><u>The Silent Launch of Microsoft's New Tool Triggers Global Uproar | Tech News Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10-at-a-crossroads-for-microsoft-just-one-year-to-turn-things-around-digitalreview/"><u>Windows 10 at a Crossroads for Microsoft - Just One Year to Turn Things Around | DigitalReview</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Rocky Linux Receives Major Backing with CIQ as Principal Supporter - Insights From the Tech Community
-date: 2024-09-22T02:42:01.347Z
-updated: 2024-09-25T16:22:42.797Z
+date: 2024-09-26T02:00:45.067Z
+updated: 2024-10-01T04:31:05.055Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,14 +181,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-top-8-ios-and-pc-tools-for-effortlessly-altering-your-videos/"><u>[New] Top 8 iOS & PC Tools for Effortlessly Altering Your Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-renaming-yourself-in-google-meet-pcandroid-tips/"><u>2024 Approved Renaming Yourself in Google Meet PC/Android Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/finding-order-in-the-disarray-of-linuxopen-source-manuals-the-ultimate-fix/"><u>Finding Order in the Disarray of Linux/Open Source Manuals - The Ultimate Fix!</u></a></li>
-<li><a href="https://games-able.techidaily.com/interactive-playground-awaits-in-youtubes-latest-minigames-tests/"><u>Interactive Playground Awaits in YouTube's Latest Minigames Tests</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leveraging-anonymity-the-underestimated-edge-in-managing-todays-digital-workforce-zdnet/"><u>Leveraging Anonymity: The Underestimated Edge in Managing Today's Digital Workforce | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mimo-systems-leverage-antenna-arrays-to-multiply-the-capacity-of-wireless-channels-by-transmitting-different-data-streams-over-multiple-spatial-paths-simult77/"><u>MIMO Systems Leverage Antenna Arrays to Multiply the Capacity of Wireless Channels by Transmitting Different Data Streams over Multiple Spatial Paths Simultaneously.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rising-expenses-in-gen-ai-education-risk-assessment-lags-behind-according-to-recent-stanford-study-insights-on-cost-and-safety/"><u>Rising Expenses in Gen AI Education: Risk Assessment Lags Behind According to Recent Stanford Study - Insights on Cost & Safety</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-case-for-decoupling-government-systems-from-big-tech-spurred-by-microsoft-outages/"><u>The Case for Decoupling Government Systems From Big Tech, Spurred by Microsoft Outages</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/transform-your-edits-how-to-negate-distracting-surroundings-using-affinity-photo-for-2024/"><u>Transform Your Edits How to Negate Distracting Surroundings Using Affinity Photo for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-veiled-viewing-of-facebook-flashbacks/"><u>[New] Veiled Viewing of Facebook Flashbacks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-joy-of-journeys-end-innovative-box-revelations/"><u>[Updated] The Joy of Journey's End Innovative Box Revelations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-seamless-transition-from-smartphones-to-pc-and-mac-videos/"><u>2024 Approved Seamless Transition From Smartphones to PC & Mac Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advanced-audio-capture-and-conversion-made-simple-by-otters-latest-teams-software-update-explore-features-on-zdnet/"><u>Advanced Audio Capture and Conversion Made Simple by Otter's Latest Teams Software Update | Explore Features on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/before-its-too-late-discover-5-essential-steps-to-prepare-your-windows-e-pc-for-post-support-era-expert-advice-from-zdnet/"><u>Before It's Too Late: Discover 5 Essential Steps to Prepare Your Windows E PC for Post-Support Era | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-windows-10-update-initiative-where-did-it-go/"><u>Free Windows 10 Update Initiative: Where Did It Go?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-y100i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y100i Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-premier-alternatives-exceeding-the-limits-of-twitter/"><u>In 2024, Premier Alternatives Exceeding the Limits of Twitter</u></a></li>
+<li><a href="https://app-tips.techidaily.com/safeguard-firefox-stored-usernames-and-passwords-using-a-principal-key-tips-by-techexperts/"><u>Safeguard Firefox Stored Usernames and Passwords Using a Principal Key | Tips by TechExperts</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-malfunctioning-keyboard-not-responding/"><u>Solution Found: Malfunctioning Keyboard Not Responding</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-roadmap-for-artifice-intelligence-developments-over-the-next-ten-years-zdnet/"><u>The Roadmap for Artifice Intelligence Developments Over the Next Ten Years | ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-100-frequently-miswritten-english-vocabulary-words/"><u>Top 100 Frequently Miswritten English Vocabulary Words</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-archive-navigation-made-simple/"><u>Twitter Archive Navigation Made Simple</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-last-5-optionsto-ensure-continued-use/"><u>Windows 10 End of Life Approaching: Discover Your Last 5 Optionsto Ensure Continued Use</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores OpenAI's Budget-Friendly Approach to Enhancing GPT-Crafting with More Affordable Tuning Options
-date: 2024-09-21T02:52:14.498Z
-updated: 2024-09-26T03:16:50.689Z
+date: 2024-09-26T07:24:21.522Z
+updated: 2024-09-30T18:31:52.520Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,22 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-7-key-strategies-for-perfect-macro-video-shooting/"><u>[New] 7 Key Strategies for Perfect Macro Video Shooting</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-industry-standards-the-top-5-online-video-devices/"><u>[New] In 2024, Industry Standards The Top 5 Online Video Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-srt-shift-magic-subtitles-subc-conversion-guide/"><u>[Updated] SRT Shift Magic Subtitles (SUBC) Conversion Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-precise-practices-streamlined-capturing-for-dell-devices/"><u>2024 Approved Precise Practices Streamlined Capturing for Dell Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/creating-timely-alerts-a-step-by-step-guide-to-setting-up-slackbot-reminders/"><u>Creating Timely Alerts: A Step-by-Step Guide to Setting Up Slackbot Reminders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-hurdles-ahead-microsofts-race-against-time-to-fix-windows-11-issues-insights-from-zdnet/"><u>Critical Hurdles Ahead: Microsoft's Race Against Time to Fix Windows 11 Issues - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-citizen-devs-the-rising-influence-in-crafting-business-software-solutions-zdnet/"><u>Empowering Citizen Devs: The Rising Influence in Crafting Business Software Solutions | ZDNet</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/from-basic-to-exceptional-gopro-filming-techniques/"><u>From Basic to Exceptional Gopro Filming Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-successfully-upgrade-to-ubuntu-linux-2404-a-step-by-step-guide/"><u>How to Successfully Upgrade to Ubuntu Linux 24.04: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 Pro Max without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-c51-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme C51 online without jailbreak</u></a></li>
-<li><a href="https://app-tips.techidaily.com/juniper-networks-expands-security-offerings-with-new-cloud-based-firewall-feature-in-unified-secure-access-service-sezn-architecture/"><u>Juniper Networks Expands Security Offerings with New Cloud-Based Firewall Feature in Unified Secure Access Service (SEZN) Architecture</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/restful-reelings-audiovisual-storytelling-for-2024/"><u>Restful Reelings Audiovisual Storytelling for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamless-transition-ahead-how-office-users-can-stay-connected-with-new-microsoft-365-services-in-the-coming-year-zdnet/"><u>Seamless Transition Ahead: How Office Users Can Stay Connected With New Microsoft 365 Services in the Coming Year | ZDNet</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/snapshot-innovations-an-exploration-of-samsung-photo-editor-for-2024/"><u>Snapshot Innovations An Exploration of Samsung PHOTO EDITOR for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-unveiling-of-microsofts-latest-innovation-a-game-changer-or-annoyance/"><u>The Unveiling of Microsoft's Latest Innovation - A Game Changer or Annoyance?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-security-alert-critical-vulnerability-found-and-patched-in-popular-curl-tool-for-linux-systems-read-the-full-story-on-zdnet/"><u>Urgent Security Alert: Critical Vulnerability Found & Patched in Popular Curl Tool for Linux Systems - Read the Full Story on ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhance-images-with-text-via-web-and-mobile-apps-for-2024/"><u>[Updated] Enhance Images with Text via Web & Mobile Apps for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-game-changing-entrant-in-the-video-call-arena-outshines-microsoft-teams-and-zoom-with-lip-reading-capabilities-zdnet/"><u>A Game-Changing Entrant in the Video Call Arena Outshines Microsoft Teams and Zoom with Lip-Reading Capabilities | ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apples-leap-forward-with-the-iphone-12-pro-max-why-bigger-screens-dominate-reviews/"><u>Apple's Leap Forward with the iPhone 12 Pro Max: Why Bigger Screens Dominate Reviews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/celona-secures-60m-in-funding-drives-enterprise-level-5g-innovation-tech-news/"><u>Celona Secures $60M in Funding, Drives Enterprise-Level 5G Innovation - Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybersecurity-measures/"><u>Cybersecurity Measures</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-creative-foobar2000-driver-updates-and-downloads-compatible-with-windows-11/"><u>Free Creative Foobar2000 Driver Updates and Downloads Compatible with Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-infinix-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Infinix with Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-top-10-drone-cameras-perfect-for-cinematic-moments/"><u>In 2024, Top 10 Drone Cameras Perfect For Cinematic Moments</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-approaches-for-mosaic-photography/"><u>Innovative Approaches for Mosaic Photography</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-how-non-apple-companies-offer-more-enjoyable-work-experiences-confirms-ex-employee-zdnet/"><u>Inside Look: How Non-Apple Companies Offer More Enjoyable Work Experiences, Confirms Ex-Employee | ZDNET</u></a></li>
+<li><a href="https://video-capture.techidaily.com/merging-video-clips-seamlessly-using-google-photos-editor-on-your-computer/"><u>Merging Video Clips Seamlessly Using Google Photos Editor on Your Computer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-your-path-in-technology-with-insights-from-an-industry-titan-the-inside-scoop-on-building-a-career-at-boeing-zdnet/"><u>Navigating Your Path in Technology with Insights From an Industry Titan - The Inside Scoop on Building a Career at Boeing [ZDNet]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reveal-whats-behind-the-mask-unhiding-iphone-apps-step-by-step/"><u>Reveal What’s Behind the Mask: Unhiding iPhone Apps Step by Step</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-potential-the-role-of-expertise-and-protection-in-advancing-cloud-native-platforms-according-to-zdnet/"><u>Unleashing Potential: The Role of Expertise and Protection in Advancing Cloud-Native Platforms, According to ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-10-best-free-chroma-key-apps-for-android-and-ios-devices-2023-edition/"><u>Updated 10 Best Free Chroma Key Apps for Android and iOS Devices 2023 Edition</u></a></li>
 </ul></div>
 

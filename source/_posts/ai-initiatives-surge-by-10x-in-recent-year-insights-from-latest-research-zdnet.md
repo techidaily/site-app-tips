@@ -1,7 +1,7 @@
 ---
 title: AI Initiatives Surge by 10X in Recent Year - Insights From Latest Research | ZDNet
-date: 2024-09-18 20:40:39
-updated: 2024-09-20 10:22:41
+date: 2024-09-29T17:53:08.331Z
+updated: 2024-09-30T20:11:13.144Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-ephemeral-echoes-of-facebook-for-2024/"><u>[New] Ephemeral Echoes of Facebook for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-navigating-voice-logging-on-apples-facetime-service/"><u>[New] Navigating Voice Logging on Apple's FaceTime Service</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-guidelines-for-renaming-yourself-in-online-meetings-for-2024/"><u>[Updated] Guidelines for Renaming Yourself in Online Meetings for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise/"><u>2024 Approved From Streaming Video How to Get YouTube Thumbnail Files Online/OS-Wise</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-visualizing-time-the-hyperlapse-filmmakers-guide/"><u>2024 Approved Visualizing Time The Hyperlapse Filmmaker's Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/alternative-media-players-similar-to-itunes-for-windows-vista-xp-or-7-users/"><u>Alternative Media Players Similar to iTunes for Windows Vista, XP, or 7 Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/basic-screen-capture-windows-10-version/"><u>Basic Screen Capture, Windows 10 Version</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix!</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-find-x6-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Find X6 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-preferred-version-easy-free-downloads-of-both-old-and-new-itunes-for-windows-and-mac/"><u>Get Your Preferred Version: Easy Free Downloads of Both Old and New iTunes for Windows & Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/getting-started-with-itunes-on-windows-operating-systems-a-step-by-step-guide/"><u>Getting Started with iTunes on Windows Operating Systems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-fix-it-when-your-iphone-is-not-detected-by-itunes/"><u>How to Fix It when Your iPhone Is Not Detected by iTunes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-xiaomi-redmi-a2-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Xiaomi Redmi A2 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ipod-add-on-tutorial-placing-tracks-without-using-itunes-aiseesofts-approach/"><u>IPod Add-On Tutorial: Placing Tracks Without Using iTunes (Aiseesoft's Approach)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/maximizing-facebook-viewability-with-ideal-verticalhorizontal-videos-for-2024/"><u>Maximizing Facebook Viewability with Ideal Vertical/Horizontal Videos for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/no-more-itunes-required-master-the-art-of-seamless-ipod-management-using-modern-alternatives/"><u>No More iTunes Required: Master the Art of Seamless iPod Management Using Modern Alternatives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcome-sluggish-itunes-discover-the-top-10-proven-tips-for-optimal-performance/"><u>Overcome Sluggish iTunes: Discover the Top 10 Proven Tips for Optimal Performance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-motorola-moto-e13-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Motorola Moto E13 Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-top-3-methods-for-adding-cover-art-to-your-itunes-library/"><u>Unlocking the Secrets: Top 3 Methods for Adding Cover Art to Your iTunes Library</u></a></li>
+</ul></div>
+

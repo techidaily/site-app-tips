@@ -1,7 +1,7 @@
 ---
 title: The Shift to Non-Techies Leading Enterprise Tech Revolution – Insights From ZDNet
-date: 2024-09-19 18:34:25
-updated: 2024-09-20 10:36:34
+date: 2024-09-28T23:25:10.107Z
+updated: 2024-10-01T00:02:07.899Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-affordable-android-chat-options-rated-top-ten/"><u>[New] 2024 Approved Affordable Android Chat Options Rated Top Ten</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-elevate-facebook-videos-with-synchronized-musical-charm/"><u>[New] 2024 Approved Elevate Facebook Videos with Synchronized Musical Charm</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streamline-your-content-twitter-video-integration-for-2024/"><u>[New] Streamline Your Content Twitter Video Integration for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2022s-leading-collaborative-platforms-for-enhanced-teamwork-pcmag/"><u>2022'S Leading Collaborative Platforms for Enhanced Teamwork | PCMag</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-achieving-perfect-reproduction-tips-for-exceptional-sound-capture/"><u>In 2024, Achieving Perfect Reproduction Tips for Exceptional Sound Capture</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-email-services-with-onlyoffice-a-step-by-step-guide/"><u>Integrating Email Services with ONLYOFFICE – A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-top-list-best-5-tools-for-creating-talking-avatars/"><u>New In 2024, Top List Best 5 Tools for Creating Talking Avatars</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-here-exploring-the-cutting-edge-of-5g-and-edge-computing-innovations-highlights-by-zdnet/"><u>The Future Is Here: Exploring the Cutting-Edge of 5G and Edge Computing Innovations | Highlights by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-pc-experience-detailed-instructions-for-replacing-windows-with-linux-mint/"><u>Transform Your PC Experience: Detailed Instructions for Replacing Windows With Linux Mint</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-microsofts-critical-challenge-with-windows-11-just-one-year-away-an-in-depth-analysis-by-zdnet/"><u>Urgent: Microsoft's Critical Challenge with Windows 11 Just One Year Away - An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzone-troubleshooting-guide-ensuring-proper-gpu-integration-on-windows-tn/"><u>Warzone Troubleshooting Guide: Ensuring Proper GPU Integration on Windows ˈtʰɛn</u></a></li>
+</ul></div>
+

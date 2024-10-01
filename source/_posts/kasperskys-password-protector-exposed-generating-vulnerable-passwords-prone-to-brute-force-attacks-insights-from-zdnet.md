@@ -1,7 +1,7 @@
 ---
 title: "Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet"
-date: 2024-09-19T07:14:15.179Z
-updated: 2024-09-26T03:08:21.771Z
+date: 2024-09-29T06:15:14.950Z
+updated: 2024-09-30T16:59:38.202Z
 tags:
   - password-manager
 categories:
@@ -62,10 +62,10 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -91,18 +91,20 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-ultimate-selfie-stick-showdown-for-iphone-8-winners/"><u>[Updated] 2024 Approved The Ultimate Selfie Stick Showdown for iPhone (#8 Winners)</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-artificial-intelligence-highlight-videos-essentials-and-software/"><u>Comprehensive Guide to Artificial Intelligence Highlight Videos: Essentials & Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/detailed-exploration-tips-for-roblox-enthusiasts/"><u>Detailed Exploration Tips for Roblox Enthusiasts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-monicas-artificial-intelligence-powers-and-effective-strategies-for-utilizing-chatgpt/"><u>Discover Monica's Artificial Intelligence Powers and Effective Strategies for Utilizing ChatGPT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-top-5-alternatives-to-voicemyai-for-crafting-artificial-intelligence-powered-voice-assistants/"><u>Discover Top 5 Alternatives to voicemy.ai for Crafting Artificial Intelligence-Powered Voice Assistants</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-analysis-avclabs-video-boosting-technology-advantages-and-limitations/"><u>Expert Analysis: AVClabs' Video Boosting Technology - Advantages & Limitations</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/free-to-paid-the-transition-to-youtubes-elite-service/"><u>From Free to Paid The Transition to YouTube's Elite Service</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-redmi-note-13-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi Redmi Note 13 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-prime-selection-of-invisible-android-recorders/"><u>In 2024, Prime Selection of Invisible Android Recorders</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-lossless-vlc-trimming-on-mac-the-ultimate-guide-for-2024/"><u>New Lossless VLC Trimming on Mac The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/tips-to-develop-engaging-lifestyle-enlightenment-vids/"><u>Tips to Develop Engaging Lifestyle Enlightenment Vids</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-mirrorless-cameras-for-photographers/"><u>Top-Rated Mirrorless Cameras for Photographers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-amazons-trendy-treasures-the-must-have-tiktok-finds-of-2023/"><u>[New] 2024 Approved Amazon's Trendy Treasures - The Must-Have TikTok Finds of 2023</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-decoding-earnings-for-content-producers-on-short-form-platform/"><u>[New] 2024 Approved Decoding Earnings for Content Producers on Short-Form Platform</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-youtube-content-as-lively-download-free-animated-gifs/"><u>[New] 2024 Approved Unlocking YouTube Content as Lively, Download-Free Animated GIFs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-tactics-podcast-recording-on-ios-devices-for-voice-broadcasts-for-2024/"><u>[New] Top Tactics Podcast Recording on iOS Devices for Voice Broadcasts for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-economical-vr-headsets-from-the-east/"><u>[Updated] Economical VR Headsets From the East</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-mobile-messaging-platforms-top-picks-for-ios-and-android-devices/"><u>Best 10 Mobile Messaging Platforms: Top Picks for iOS and Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android!</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-command-line-toolbar-in-windows-11s-system-monitor/"><u>How to Add Command Line Toolbar in Windows 11'S System Monitor</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-mini-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 mini to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-vmware-freeze-up-in-windows-11/"><u>Resolving VMware Freeze-Up in Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stay-secure-and-connected-top-11-mobile-apps-for-hands-free-text-reading/"><u>Stay Secure and Connected: Top 11 Mobile Apps for Hands-Free Text Reading</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-accessing-whatsapp-anonymously-without-providing-your-phone-number/"><u>Step-by-Step Instructions: Accessing WhatsApp Anonymously Without Providing Your Phone Number</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-8-xbox-console-emulators-on-pcandroid-reviewed-objectively/"><u>The Ultimate Guide: Top 8 Xbox Console Emulators on PC/Android, Reviewed Objectively</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-swf-player-apps-compatible-with-pc-mac-android-and-iphone-devices/"><u>Top Rated SWF Player Apps Compatible with PC, Mac, Android & iPhone Devices</u></a></li>
 </ul></div>
 

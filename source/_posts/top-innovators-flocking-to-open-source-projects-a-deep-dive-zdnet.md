@@ -1,7 +1,7 @@
 ---
 title: Top Innovators Flocking to Open Source Projects - A Deep Dive | ZDNet
-date: 2024-09-18 10:13:25
-updated: 2024-09-20 12:31:22
+date: 2024-09-29T01:09:54.231Z
+updated: 2024-10-01T02:19:22.485Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-artistic-excellence-at-your-fingertesps-the-definitive-10-vector-editors/"><u>[New] Artistic Excellence at Your Fingertesps The Definitive 10 Vector Editors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-content-creators-dilemma-vimeo-or-youtube/"><u>[New] The Content Creator’s Dilemma Vimeo or YouTube?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-increase-fb-engagement-and-sales-the-15-most-effective-analyzers/"><u>[Updated] 2024 Approved Increase FB Engagement & Sales The 15 Most Effective Analyzers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-ideal-set-best-8-macbook-themes-and-skins/"><u>[Updated] In 2024, Ideal Set Best 8 MacBook Themes & Skins</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-gpus-for-sharp-4k-image-display/"><u>[Updated] Prime GPUs for Sharp 4K Image Display</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-xml-files-in-fcpx-tips-tricks-and-best-practices/"><u>2024 Approved XML Files in FCPX Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-with-microsoft-a-step-by-step-guide-on-upgrading-to-windows-pro-edition-and-its-advantages/"><u>Advancing with Microsoft: A Step-by-Step Guide on Upgrading to Windows Pro Edition & Its Advantages</u></a></li>
+<li><a href="https://app-tips.techidaily.com/continuity-of-microsoft-365-support-for-office-2016-and-2019-what-to-expect-in-the-coming-year-zdnet/"><u>Continuity of Microsoft 365 Support for Office 2016 & 2019: What to Expect in the Coming Year | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-last-resort-options-for-your-windows-10-system-as-microsoft-ends-support/"><u>Five Last Resort Options for Your Windows 10 System as Microsoft Ends Support</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-servicenows-core-ai-concepts-can-transform-your-enterprise-strategy-key-takeaways-from-experts-at-zdnet/"><u>How ServiceNow's Core AI Concepts Can Transform Your Enterprise Strategy: Key Takeaways From Experts at ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-iphone-12-mini-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on iPhone 12 mini online without jailbreak</u></a></li>
+<li><a href="https://app-tips.techidaily.com/key-challenges-in-harnessing-generative-ai-insights-from-the-latest-deloitte-research-highlighted-by-zdnet/"><u>Key Challenges in Harnessing Generative AI: Insights From the Latest Deloitte Research Highlighted by ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725290058200-macdvd/"><u>MacでDVDのコピー・移行手順：ディスクユーティリティ使い方</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mass-effect-legendary-edition-optimization-overcoming-performance-hiccups/"><u>Mass Effect Legendary Edition Optimization - Overcoming Performance Hiccups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revival-in-cloud-tech-understanding-why-openstack-and-kata-containers-are-now-top-choices-for-enterprises-zdnet-analysis/"><u>Revival in Cloud Tech: Understanding Why OpenStack and Kata Containers Are Now Top Choices for Enterprises | ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/superduperdb-your-gateway-to-accessing-top-artificial-intelligence-applications-insights-from-zdnet/"><u>SuperDuperDB: Your Gateway to Accessing Top Artificial Intelligence Applications - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/switzerland-adopts-policy-for-open-source-public-sector-software/"><u>Switzerland Adopts Policy for Open-Source Public Sector Software</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal"
-date: 2024-09-24T16:45:06.798Z
-updated: 2024-09-26T10:34:08.028Z
+date: 2024-09-30T09:52:32.533Z
+updated: 2024-09-30T23:51:02.436Z
 tags:
   - password-manager
 categories:
@@ -82,25 +82,32 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-optimize-your-online-store-top-15-tools-for-social-media-insight-and-sales-analysis-for-2024/"><u>[New] Optimize Your Online Store Top 15 Tools for Social Media Insight and Sales Analysis for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-discovering-the-ultimate-ai-watermark-techniques-insights-from-zdnet/"><u>1. Discovering the Ultimate AI Watermark Techniques: Insights From ZDNet</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-elevating-your-photography-with-lightrooms-hdr-merging-features/"><u>2024 Approved Elevating Your Photography with Lightroom's HDR Merging Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-dj-how-does-machine-curated-music-stack-up-against-human-selection/"><u>AI DJ: How Does Machine-Curated Music Stack Up Against Human Selection?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-biz-marketers-now-utilizing-artificial-intelligence-insights-from-zdnet/"><u>AI Integration: One-Third of Biz Marketers Now Utilizing Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/compression-de-videos-avi-gratuite-et-sans-pertes-pour-windows-10-guide-complet/"><u>Compression De Vidéos AVI Gratuite Et Sans Pertes Pour Windows 10 : Guide Complet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-streaming-selection-saga-choose-between-engaging-podcasts-and-youtube-channels/"><u>In 2024, Streaming Selection Saga Choose Between Engaging Podcasts and YouTube Channels</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-itel-p55-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Itel P55 Device</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/transform-speeches-into-animated-videos/"><u>Transform Speeches Into Animated Videos</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-motorola-g54-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Motorola G54 5G.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-singapores-2nbillion-commitment-to-supercharge-its-it-infrastructure-and-elevate-digital-solutions-tech-insight/"><u>Unveiling Singapore's $2.nBillion Commitment to Supercharge Its IT Infrastructure and Elevate Digital Solutions | Tech Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-addressing-outdated-technology-is-crucial-a-case-study-on-migration-missteps/"><u>Why Addressing Outdated Technology Is Crucial: A Case Study on Migration Missteps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-pull-of-open-source-for-global-leaders-in-innovation/"><u>ZDNet Explores the Pull of Open Source for Global Leaders in Innovation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-crafting-captivating-stories-on-fb-a-comprehensive-guide-to-bio-crafting/"><u>[New] 2024 Approved Crafting Captivating Stories on FB A Comprehensive Guide to Bio Crafting</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-ultimate-guide-to-excellent-monitors-for-photo-professionals/"><u>[New] 2024 Approved The Ultimate Guide to Excellent Monitors for Photo Professionals</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-demystifying-the-purpose-what-is-a-blue-image-on-facebook/"><u>[Updated] Demystifying the Purpose What Is a Blue Image on Facebook?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/choosing-the-right-user-account-for-windows-11-installation-tips-and-considerations/"><u>Choosing the Right User Account for Windows 11 Installation: Tips and Considerations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-tech-departments-elevating-your-brand-through-enhanced-customer-experiences-insights-from-zdnet/"><u>Empowering Tech Departments: Elevating Your Brand Through Enhanced Customer Experiences - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-security-juniper-networks-integrates-cloud-firewall-into-sase-solutions-zdnet-insight/"><u>Expanding Security: Juniper Networks Integrates Cloud Firewall Into SASE Solutions - ZDNet Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-windows-11-end-of-life-in-one-year-explore-your-5-viable-alternatives-now-insights-from-zdnet/"><u>Facing Windows 11 End of Life in One Year? Explore Your 5 Viable Alternatives Now - Insights From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-razr-40-ultra-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Razr 40 Ultra Phone Forgot Password</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-15-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 15 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-mavericks-mp4-video-editor-a-comprehensive-guide/"><u>New In 2024, Mavericks MP4 Video Editor A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamlining-linux-and-oss-guidebooks-the-ultimate-strategy-revealed-by-zdnet/"><u>Streamlining Linux & OSS Guidebooks: The Ultimate Strategy Revealed by ZDNET</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformer-un-fichier-mka-en-format-ogg-gratuite-en-ligne-avec-guide-de-movavi/"><u>Transformer Un Fichier MKA en Format OGG Gratuite en Ligne - Avec Guide De Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-the-cloud-industry-key-forecasts-by-renowned-tech-cto-on-evolving-business-strategies-wired/"><u>Transforming the Cloud Industry: Key Forecasts by Renowned Tech CTO on Evolving Business Strategies - Wired</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo Y27 4G | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

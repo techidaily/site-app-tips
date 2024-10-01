@@ -1,7 +1,7 @@
 ---
 title: Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance
-date: 2024-09-23T03:45:59.571Z
-updated: 2024-09-26T06:17:26.644Z
+date: 2024-09-24T11:37:45.686Z
+updated: 2024-09-30T21:07:49.406Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +181,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-maximizing-content-impact-bypassing-virtual-onlookers/"><u>[New] 2024 Approved Maximizing Content Impact Bypassing Virtual Onlookers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-maximize-visuals-in-youtubespace-with-effective-tools/"><u>[New] Maximize Visuals in YouTubespace with Effective Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beware-latest-microsoft-upgrade-could-worsen-after-hours-stress-insights-from-zdnet/"><u>Beware: Latest Microsoft Upgrade Could Worsen After-Hours Stress - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-links.techidaily.com/critical-vr-movies-you-cant-skip/"><u>Critical VR Movies You Can't Skip</u></a></li>
-<li><a href="https://app-tips.techidaily.com/deciding-on-your-microsoft-account-type-during-windows-11-configuration-expert-advice-from-zdnet/"><u>Deciding on Your Microsoft Account Type During Windows 11 Configuration: Expert Advice From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-tech-teams-to-enhance-customer-journey-insights-from-zdnet/"><u>Empowering Tech Teams to Enhance Customer Journey - Insights From ZDNet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/engaging-students-through-interactive-spanish/"><u>Engaging Students Through Interactive Spanish</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-oneplus-ace-2v-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does OnePlus Ace 2V Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-rising-popularity-of-rust-and-importance-of-linux-kernel-in-modern-computing/"><u>Linus Torvalds Discusses Rising Popularity of Rust & Importance of Linux Kernel in Modern Computing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-4c-five-qandas-on-advanced-antenna-array-theory/"><u>Section 4C: Five Q&As on Advanced Antenna Array Theory</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-mozilla-firefox-login-credentials-mastering-the-use-of-main-passwords/"><u>Securing Your Mozilla Firefox Login Credentials: Mastering the Use of Main Passwords</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/streamlining-content-creation-with-youtube-rules/"><u>Streamlining Content Creation with YouTube Rules</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-witty-visuals-crafting-kapwings-laughs/"><u>[New] Witty Visuals Crafting Kapwing's Laughs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-capturing-ps4-gaming-magic-in-full-detail-using-obs/"><u>[Updated] Capturing PS4 Gaming Magic in Full Detail Using OBS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-articulating-emotion-on-stage-through-words/"><u>2024 Approved Articulating Emotion on Stage Through Words</u></a></li>
+<li><a href="https://app-tips.techidaily.com/breaking-news-major-flaw-detected-and-fixed-in-essential-linux-utility-curl-in-depth-analysis-available-at-zdnet/"><u>Breaking News: Major Flaw Detected and Fixed in Essential Linux Utility 'Curl' – In-Depth Analysis Available at ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-influence-of-decentralized-systems-and-web3-on-corporate-structures-a-comprehensive-guide/"><u>Exploring the Influence of Decentralized Systems & Web3 on Corporate Structures: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-deleting-youtube-comments/"><u>In 2024, Deleting YouTube Comments</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-in-linux-and-free-tech-docs-unveiling-the-clear-path-to-clarity/"><u>Organizing Chaos in Linux & Free Tech Docs: Unveiling The Clear Path to Clarity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/performance/"><u>Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/real-time-update-on-xbox-live-is-there-a-downtime-issue/"><u>Real-Time Update on Xbox Live - Is There a Downtime Issue?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-crucial-role-of-it-departments-in-shaping-modern-customer-journeys-a-perspective-by-zdnet/"><u>The Crucial Role of IT Departments in Shaping Modern Customer Journeys: A Perspective by ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-poco-c55-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Poco C55 Location | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-10-best-memes-right-now-include-image-gifvideo/"><u>Updated In 2024, 10 Best Memes Right Now (Include Image/ GIF/Video)</u></a></li>
 </ul></div>
 

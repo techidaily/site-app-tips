@@ -1,7 +1,7 @@
 ---
 title: "Celebrating a Milestone: Kubernetes at 10 Years Old – A Retrospective of Its Impact on Cloud-Native Tech & Future Prospects | ZDNet"
-date: 2024-09-23T17:57:22.953Z
-updated: 2024-09-26T06:13:55.837Z
+date: 2024-09-27T17:12:44.686Z
+updated: 2024-09-30T18:12:11.315Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,15 +187,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-from-basics-to-brilliance-the-fb-cover-video-journey/"><u>[New] In 2024, From Basics to Brilliance The FB Cover Video Journey</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-1000-club-achievement-monthly-tips-for-insta-success-and-growth/"><u>[Updated] The 1,000 Club Achievement Monthly Tips for Insta Success and Growth</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-most-innovative-and-efficient-bendy-gaming-displays/"><u>2024'S Most Innovative and Efficient Bendy Gaming Displays</u></a></li>
-<li><a href="https://app-tips.techidaily.com/harnessing-anonymity-the-key-to-empowering-todays-remote-teams-zdnet/"><u>Harnessing Anonymity: The Key to Empowering Today’s Remote Teams | ZDNET</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-poco-c55-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Poco C55 Device SIM</u></a></li>
-<li><a href="https://app-tips.techidaily.com/intro-to-coursera-levelsets-competency-evaluations-the-latest-update-explained-by-zdnet/"><u>Intro to Coursera LevelSets Competency Evaluations - The Latest Update Explained by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/missing-in-action-the-elusive-free-windows-10-enhancement-program/"><u>Missing in Action: The Elusive Free Windows 10 Enhancement Program</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722992578404-no-more-freezes-solve-your-jurasseback-world-evolution-crash-problems-now/"><u>No More Freezes - Solve Your Jurasseback-World Evolution Crash Problems Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-4a-advanced-antenna-array-theory/"><u>Section 4A: Advanced Antenna Array Theory</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleash-your-creative-potential-with-picart-clear-skies/"><u>Unleash Your Creative Potential with PicArt Clear Skies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-codec-rivalry-assessing-the-next-step-in-video-encoding/"><u>[New] In 2024, Codec Rivalry Assessing the Next Step in Video Encoding</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-streamline-youtube-tweets-on-chrome-performance/"><u>[Updated] In 2024, Streamline YouTube Tweets on Chrome Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-guide-to-fixing-windows-rare-errors/"><u>A Step-by-Step Guide to Fixing Windows’ Rare Errors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discovering-your-macs-secrets-a-guide-to-finding-passwords-in-the-keychain/"><u>Discovering Your Mac's Secrets: A Guide to Finding Passwords in the Keychain</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-13-activation-lock-by-drfone-ios/"><u>How to Remove iPhone 13 Activation Lock</u></a></li>
+<li><a href="https://app-tips.techidaily.com/instagrams-reliability-questioned-insights-from-a-zdnet-investigation/"><u>Instagram's Reliability Questioned: Insights From a ZDNet Investigation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-brex-how-1password-enhances-user-security-with-new-online-payment-features-insights-from-zdnet/"><u>Integrating Brex: How 1Password Enhances User Security with New Online Payment Features - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/logmein-decides-to-create-independent-entity-with-lastpass-zdnet-news/"><u>LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-trustworthy-reviews-and-advice-from-toms-hardware/"><u>Navigating the Tech World: Trustworthy Reviews and Advice From Tom's Hardware</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/prime-lineup-ultimate-cycle-races-for-2024/"><u>Prime Lineup Ultimate Cycle Races for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-step-by-step-process-for-clearing-your-android-devices-cache/"><u>Ultimate Guide: Step-by-Step Process for Clearing Your Android Device's Cache</u></a></li>
 </ul></div>
 

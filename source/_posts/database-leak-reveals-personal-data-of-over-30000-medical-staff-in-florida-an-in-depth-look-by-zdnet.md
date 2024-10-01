@@ -1,7 +1,7 @@
 ---
 title: "Database Leak Reveals Personal Data of Over 30,000 Medical Staff in Florida: An In-Depth Look by ZDNet"
-date: 2024-09-21T03:57:24.198Z
-updated: 2024-09-25T16:25:29.757Z
+date: 2024-09-24T19:09:04.907Z
+updated: 2024-10-01T11:37:03.963Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -99,19 +99,22 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unheard-vocal-verifiers-6-stealthy-smartphone-recordings/"><u>[New] 2024 Approved Unheard Vocal Verifiers 6 Stealthy Smartphone Recordings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-prime-video-recording-devices-top-10/"><u>[Updated] 2024 Approved The Prime Video Recording Devices Top 10</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-revolutionary-tools-elevating-vr-games-for-2024/"><u>[Updated] Revolutionary Tools Elevating VR Games for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-perfecting-your-presence-skills-to-master-with-logitech-cam/"><u>2024 Approved Perfecting Your Presence Skills to Master with Logitech Cam</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620191401-comprehensive-evaluation-of-picplaypost-revolutionizing-digital-content-with-advanced-editing-features-for-videos-collages-and-more/"><u>Comprehensive Evaluation of PicPlayPost: Revolutionizing Digital Content with Advanced Editing Features for Videos, Collages, and More!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-your-cinematic-journey-with-the-ultimate-list-of-15-vr-film-apps-for-mobile-devices/"><u>Enhance Your Cinematic Journey with the Ultimate List of 15 VR Film Apps for Mobile Devices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/flashlog-screen-grab-review-and-substitutes/"><u>FlashLog Screen Grab Review and Substitutes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/msi-pro-mp161e2-the-ultimate-portable-monitor-experience/"><u>MSI Pro MP161E2: The Ultimate Portable Monitor Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/safari-full-page-image-snags-quick-fixes-for-your-screen-capture-woes/"><u>Safari Full-Page Image Snags: Quick Fixes for Your Screen Capture Woes!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/step-by-step-guide-to-mastering-chinese-warmth-exchanges/"><u>Step-by-Step Guide to Mastering Chinese Warmth Exchanges</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-choosing-iphone-scanners-and-transforming-your-documents/"><u>The Ultimate Guide to Choosing iPhone Scanners & Transforming Your Documents</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-20-high-earning-android-games-a-must-play-list-that-delivers-value/"><u>Top 20 High-Earning Android Games: A Must-Play List That Delivers Value</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-anonymized-messaging-services-the-leading-choices-for-private-communication/"><u>Top Anonymized Messaging Services: The Leading Choices for Private Communication</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-pinnacle-music-organizer-for-android-users/"><u>[New] 2024 Approved Pinnacle Music Organizer for Android Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-time-saving-ways-to-log-vimeo-media/"><u>[Updated] 2024 Approved Time-Saving Ways to Log Vimeo Media</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-spotlight-on-professionals-the-cutting-edge-soundtracked-photovideo-artists/"><u>[Updated] Spotlight on Professionals The Cutting-Edge, Soundtracked Photo/Video Artists</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-embracing-the-edge-how-surge-in-edge-computing-devices-shapes-future-careers-techworld/"><u>1. Embracing the Edge: How Surge in Edge Computing Devices Shapes Future Careers | TechWorld</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-asus-rog-phone-7-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Asus ROG Phone 7 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-examination-of-the-stunningly-modern-dell-alienware-aurora-r9-gaming-machine/"><u>Comprehensive Examination of the Stunningly Modern Dell Alienware Aurora R9 Gaming Machine</u></a></li>
+<li><a href="https://fox-links.techidaily.com/epic-review-and-substitute-guidance/"><u>Epic Review & Substitute Guidance</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/explore-best-speech-recognition-software-on-your-mac-for-2024/"><u>Explore Best Speech Recognition Software on Your Mac for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-disparities-shape-our-progress-in-real-time-technology-breakthroughs-zdnet/"><u>How Disparities Shape Our Progress in Real-Time Technology Breakthroughs | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-sas-drivers-for-your-pc-running-on-win10-win8-or-win7/"><u>How to Get the Newest SAS Drivers for Your PC Running on Win10, Win8, or Win7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-x-flip-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tackling-the-accountability-gap-in-artificial-intelligence-development/"><u>Tackling the Accountability Gap in Artificial Intelligence Development</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-ai-watermarking-solutions-revealed-on-zdnet/"><u>The Definitive Guide to AI Watermarking Solutions - Revealed on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-work-how-ai-agents-define-the-new-era-and-transform-employment-landscape-permanently-insights-from-zdnet/"><u>The Future of Work: How AI Agents Define the New Era and Transform Employment Landscape Permanently - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-unseen-challenge-in-conversational-ai-stanford-highlights-english-centric-flaws-in-modern-chatbots-zdnet/"><u>The Unseen Challenge in Conversational AI: Stanford Highlights English-Centric Flaws in Modern Chatbots | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-work-how-ai-agents-mark-a-new-era-of-innovation-and-permanent-shifts-in-employment-landscape/"><u>Transforming Work: How AI Agents Mark a New Era of Innovation and Permanent Shifts in Employment Landscape</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unpacking-the-irony-of-automation-when-artificnial-intelligence-spurs-more-work-not-less-zdnet-insights/"><u>Unpacking the Irony of Automation: When Artificnial Intelligence Spurs More Work, Not Less | ZDNET Insights</u></a></li>
 </ul></div>
 

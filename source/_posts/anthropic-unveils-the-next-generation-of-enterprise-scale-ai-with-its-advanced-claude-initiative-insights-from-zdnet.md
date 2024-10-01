@@ -1,7 +1,7 @@
 ---
 title: Anthropic Unveils the Next Generation of Enterprise-Scale AI with Its Advanced Claude Initiative - Insights From ZDNet
-date: 2024-09-17 14:16:16
-updated: 2024-09-20 10:28:14
+date: 2024-09-27T08:55:55.147Z
+updated: 2024-09-30T19:02:37.902Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,23 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-amplify-content-with-free-audio-samples-for-2024/"><u>[Updated] Amplify Content with Free Audio Samples for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-essential-action-cam-recommendations-for-winter-sports-for-2024/"><u>[Updated] Essential Action Cam Recommendations for Winter Sports for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beware-latest-microsoft-patch-could-escalate-professional-burnout-insights-from-zdnet/"><u>Beware! Latest Microsoft Patch Could Escalate Professional Burnout - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-latest-linux-65-kernel-a-wealth-of-cutting-edge-enhancements-tech-insights/"><u>Exploring the Latest Linux 6.5 Kernel: A Wealth of Cutting-Edge Enhancements - Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-sunset-of-windows-11-here-are-5-alternatives-to-consider-as-support-winds-down-tech-insights-by-zdnet/"><u>Facing the Sunset of Windows 11? Here Are 5 Alternatives to Consider as Support Winds Down | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/quick-tutorial-inverting-video-playback-in-vlc-media-player-for-2024/"><u>Quick Tutorial Inverting Video Playback in VLC Media Player for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-redefine-your-digital-companion-voice-modification-for-siri-on-ios-devices/"><u>Updated 2024 Approved Redefine Your Digital Companion Voice Modification for Siri on iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/your-guide-to-extending-windows-11-life-top-5-alternatives-as-support-winds-down-zdnet/"><u>Your Guide to Extending Windows 11 Life: Top 5 Alternatives as Support Winds Down - ZDNet</u></a></li>
+</ul></div>
+

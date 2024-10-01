@@ -1,7 +1,7 @@
 ---
 title: Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News
-date: 2024-09-25T09:22:40.041Z
-updated: 2024-09-26T09:57:48.303Z
+date: 2024-09-29T10:14:12.411Z
+updated: 2024-09-30T22:54:04.563Z
 tags:
   - password-manager
 categories:
@@ -82,29 +82,29 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-proven-picks-for-high-quality-screenshot-tools-on-a-budget/"><u>[New] 2024 Approved Proven Picks for High-Quality Screenshot Tools on a Budget</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-crafting-engaging-bio-stories-a-guide-to-stand-out-on-fb-for-2024/"><u>[Updated] Crafting Engaging Bio Stories – A Guide to Stand Out on FB for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-perfect-tweet-mastering-the-art-of-video-upload-for-2024/"><u>[Updated] The Perfect Tweet Mastering the Art of Video Upload for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/an-insightful-guide-to-choosing-between-elevenlabs-genvoice-ai-and-competitor-products/"><u>An Insightful Guide to Choosing Between ElevenLabs' GenVoice AI and Competitor Products</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-chatsonic-the-complete-guide-to-understanding-this-innovative-ai-chatbot/"><u>Comprehensive Analysis of Chatsonic: The Complete Guide to Understanding This Innovative AI Chatbot</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-elevenlabs-generative-voice-ai-and-comparable-options/"><u>Comprehensive Analysis: ElevenLabs' Generative Voice AI & Comparable Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-top-10-innovative-ai-chatbots-for-superior-conversations/"><u>Experience Next-Level Interaction: Top 10 Innovative AI Chatbots for Superior Conversations</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How does the stardust trade cost In pokemon go On Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 6s</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-microsofts-bing-chat-feature-using-advanced-ai-and-gpt-4/"><u>In-Depth Analysis of Microsoft's Bing Chat Feature Using Advanced AI & GPT-4</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pcs-premier-ps3-clones-2023-edition/"><u>PC's Premier PS3 Clones - 2023 Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-role-of-workspace-dynamics-in-employee-output/"><u>The Role of Workspace Dynamics in Employee Output</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-persistent-zoom-issues-on-windows-1110-expert-tips-for-a-smooth-meeting-experience/"><u>Troubleshooting Persistent Zoom Issues on Windows 11/10 - Expert Tips for a Smooth Meeting Experience</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-of-ex-journeys-eva-ai-an-authoritative-chatbot-overview-you-need-to-read/"><u>Unlocking the Secrets of Ex Journey's EVA AI: An Authoritative Chatbot Overview You Need to Read</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-champion-of-ai-bots-in-depth-review-of-chatgpt-for-next-level-conversations/"><u>Unveiling the Champion of AI Bots: In-Depth Review of ChatGPT for Next-Level Conversations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-pros-and-cons-a-deep-dive-into-elevenlabs-ai-innovation/"><u>Unveiling the Pros and Cons: A Deep Dive Into ElevenLabs' AI Innovation</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-here-is-how-you-can-do-it-effectively-either-with-built-in-tools-provided-by-tiktok-or-with-additional-pieces-of-reverser-tools-to-reverse-a/"><u>Updated In 2024, Here Is How You Can Do It Effectively, Either with Built-In Tools Provided by TikTok or with Additional Pieces of Reverser Tools to Reverse a TikTok Video</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-ultimate-fb-video-player-guide-top-picks-listed-for-2024/"><u>[Updated] Ultimate FB Video Player Guide Top Picks Listed for 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/abbyy-announces-smart-data-entry-solution-on-uipath-go-platform/"><u>ABBYY Announces Smart Data Entry Solution on UiPath GO Platform</u></a></li>
+<li><a href="https://app-tips.techidaily.com/authentic-evaluation-discovering-the-power-of-lightcut-ai-video-editing-app-on-android-and-ios/"><u>Authentic Evaluation: Discovering the Power of LightCut AI Video Editing App on Android and iOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-app-lock-replacements-for-android-the-top-10-picks/"><u>Best App Lock Replacements for Android : The Top 10 Picks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-value-video-doorbells-unveiling-the-features-of-remobell-for-less-than-100/"><u>Best Value Video Doorbells: Unveiling the Features of RemoBell for Less Than $100</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-bluestacks-unveiling-all-the-essentials/"><u>Comprehensive Guide to BlueStacks: Unveiling All the Essentials</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-analyzing-the-features-of-picku-app-and-its-affordable-photoshop-substitutes/"><u>Comprehensive Guide: Analyzing the Features of PickU App and Its Affordable Photoshop Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-on-converting-gif-files-to-apng-format-with-software-such-as-ezgif-and-aiseesoft/"><u>Comprehensive Tutorial on Converting GIF Files to APNG Format with Software Such as Ezgif & Aiseesoft</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/experience-the-next-wave-watching-fb-live-on-roku/"><u>Experience the Next Wave Watching FB Live on Roku</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-ultimate-5-choices-of-wi-fi-based-chat-applications-for-effortless-texting-online/"><u>Exploring the Ultimate 5 Choices of Wi-Fi Based Chat Applications for Effortless Texting Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-selection-budget-friendly-4k-cameras-(1k/"><u>In 2024, Ultimate Selection Budget-Friendly 4K Cameras <$1K</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-s23plus-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel S23+ Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-pick-top-10-streamers-for-cutting-edge-tv-content/"><u>Prime Pick Top 10 Streamers for Cutting-Edge TV Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-cinematic-introductions-set/"><u>Superior Cinematic Introductions Set</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-full-simplemdm-must-know-reviews-for-your-ios-and-mac-experience/"><u>Unveiling Full SimpleMDM: Must-Know Reviews for Your iOS and Mac Experience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-youcut-software-for-your-business-needs-the-complete-analysis/"><u>Unveiling the Power of YouCut Software for Your Business Needs - The Complete Analysis</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-blurring-videos-online-for-free-updated-2023/"><u>Updated 2024 Approved The Ultimate Guide to Blurring Videos Online for Free (Updated 2023)</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

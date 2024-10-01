@@ -1,7 +1,7 @@
 ---
 title: Agnes Ro Reveals the Transformation in Modern Development Roles at Atlassian - Insights From Tech Visionary
-date: 2024-09-25T02:16:47.089Z
-updated: 2024-09-26T07:14:50.693Z
+date: 2024-09-28T06:35:08.065Z
+updated: 2024-09-30T20:00:59.351Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +187,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/1717306115489-new-top-6-youtube-outro-makers-lots-of-free-options/"><u>[New] Top 6 YouTube Outro Makers-Lots of FREE Options!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-strategies-to-procure-perfect-photographic-archives-for-2024/"><u>[Updated] Strategies to Procure Perfect Photographic Archives for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-superior-console-emulation-best-ps1-games-for-your-pc-for-2024/"><u>[Updated] Superior Console Emulation Best PS1 Games for Your PC for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-yellowed-displays-via-windows-settings/"><u>Correcting Yellowed Displays via Windows Settings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975523617-hassle-free-printer-configuration-secure-your-samsung-m2070fw-drivers-today/"><u>Hassle-Free Printer Configuration: Secure Your Samsung M2070FW Drivers Today</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-samsung-galaxy-a05-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Samsung Galaxy A05 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-major-cloud-services-aws-azure-and-google-cloud-for-a-hybrid-and-saas-strategy-insights-by-zdnet/"><u>In-Depth Analysis of Major Cloud Services: AWS, Azure, and Google Cloud for a Hybrid and SaaS Strategy | Insights by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-process-of-upgrading-your-system-to-ubuntu-2404-tips-and-tricks-from-zdnet/"><u>Mastering the Process of Upgrading Your System to Ubuntu 24.04: Tips and Tricks From ZDNet</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/memories-in-motion-a-step-by-step-guide-for-digital-conversion/"><u>Memories in Motion A Step-by-Step Guide for Digital Conversion</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-corporate-drama-unveiled-by-zdnet/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown – Corporate Drama Unveiled by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/setting-up-libreoffice-preferences-seamlessly-convert-to-microsoft-office-formats/"><u>Setting Up LibreOffice Preferences: Seamlessly Convert to Microsoft Office Formats</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-transforming-mkv-files-into-vob-on-your-apple-computer/"><u>Step-by-Step Guide to Transforming MKV Files Into VOB on Your Apple Computer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-simplified-screen-recording-for-gamers/"><u>[New] 2024 Approved Simplified Screen Recording for Gamers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-share-igtv-videos-to-facebook-3-ways/"><u>[New] In 2024, How to Share IGTV Videos to Facebook [3 Ways]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-easy-steps-record-audio-on-mac-using-audacity/"><u>[Updated] In 2024, Easy Steps Record Audio on Mac Using Audacity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mobile-magnification-premium-highlights-for-iphonesandroids/"><u>[Updated] In 2024, Mobile Magnification Premium Highlights for IPhones/Androids</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ced-techniques-for-youtube-editing-via-finalcut-pro/"><u>Advanced Techniques for YouTube Editing via FinalCut Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-citizen-developers-in-modern-business-workflows/"><u>Empowering Citizen Developers in Modern Business Workflows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-low-code-solutions-can-boost-your-companys-appeal-insights-from-zdnet/"><u>How Low-Code Solutions Can Boost Your Company's Appeal: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-streamline-your-linuxopen-source-knowledge-base-for-clarity-and-efficiency-expert-insights-and-solutions/"><u>How to Streamline Your Linux/Open-Source Knowledge Base for Clarity & Efficiency: Expert Insights and Solutions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unlocking-the-potential-of-valorant-thumbnails-for-online-success/"><u>In 2024, Unlocking the Potential of Valorant Thumbnails for Online Success</u></a></li>
+<li><a href="https://fox-links.techidaily.com/instant-image-clarity-picart-background-cleansing-hacks-for-2024/"><u>Instant Image Clarity PicArt Background Cleansing Hacks for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-to-elevate-your-system-from-windows-home-to-professional-the-ultimate-benefits-explained/"><u>Step-by-Step Guide to Elevate Your System From Windows Home to Professional – The Ultimate Benefits Explained</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-11-must-have-applications-and-services-for-windowsmac-users-insights-from-zdnet/"><u>Top 11 Must-Have Applications & Services for Windows/Mac Users - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transparency-in-tech-swiss-fed-government-goes-full-open-source-for-software-development/"><u>Transparency in Tech: Swiss Fed Government Goes Full Open Source for Software Development</u></a></li>
 </ul></div>
 

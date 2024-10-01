@@ -1,7 +1,7 @@
 ---
 title: "Transforming UX with XR, Digital Twins & Spatial Tech: Your Essential Business Roadmap - Insights From ZDNet"
-date: 2024-09-18 14:18:30
-updated: 2024-09-20 10:47:38
+date: 2024-09-26T01:09:37.262Z
+updated: 2024-10-01T10:47:15.570Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-efficient-techniques-saving-google-meets-on-phones-for-2024/"><u>[Updated] Efficient Techniques Saving Google Meets on Phones for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-tips-for-turning-gopro-into-professionals-best-work/"><u>[Updated] Step-by-Step Tips for Turning GoPro Into Professionals' Best Work</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mac-users-top-5-mkv-decoders/"><u>2024 Approved Mac Users Top 5 MKV Decoders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-overview-of-various-cameras-used-in-film-and-tv/"><u>2024 Approved Overview of Various Cameras Used in Film & TV</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieving-tangible-synergy-between-technology-innovations-and-business-strategy/"><u>Achieving Tangible Synergy Between Technology Innovations and Business Strategy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-skillsets-and-enhancing-security-through-cloud-native-solutions-on-emerging-platforms/"><u>Advancing Skillsets & Enhancing Security Through Cloud-Native Solutions on Emerging Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-3-updates-in-the-latest-version-of-linux-kernel-v69-technews/"><u>Best 3 Updates in the Latest Version of Linux Kernel v6.9 | TechNews</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-your-chat-platform-a-deep-dive-into-signal-vs-whatsapp/"><u>Choosing Your Chat Platform: A Deep Dive Into Signal Vs. WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/could-microsofts-new-innovation-drive-you-crazy-or-will-it-surprise-and-delight-insights-from-zdnet/"><u>Could Microsoft's New Innovation Drive You Crazy, or Will It Surprise and Delight? Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-the-ops-movement-in-corporate-tech-landscapes-amidst-emerging-challenges-insights-from-zdnet/"><u>Embracing the 'Ops' Movement in Corporate Tech Landscapes Amidst Emerging Challenges - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722867107277-find-out-where-to-stream-hit-music-videos-online-top-6-spots-revealed/"><u>Find Out Where to Stream Hit Music Videos Online – Top 6 Spots Revealed!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-started-on-ai-based-bing-simple-setup-procedure/"><u>Get Started on AI-Based Bing: Simple Setup Procedure</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-moto-g04-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Moto G04 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-streaming-platform-faceoff-twitch-versus-youtube-analysis/"><u>In 2024, The Streaming Platform Faceoff Twitch Versus YouTube Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-the-charge-how-enterprise-architects-are-driving-the-digital-transformation/"><u>Leading the Charge: How Enterprise Architects Are Driving the Digital Transformation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-self-cloning-craft-a-customized-ai-persona-for-enhanced-communication-learn-how-to-make-it-happen-today/"><u>Mastering Self-Cloning: Craft a Customized AI Persona for Enhanced Communication - Learn How to Make It Happen Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-windows-11-vm-setup-on-any-platform-step-by-step-instructions/"><u>Mastering Windows 11 VM Setup on Any Platform - Step-by-Step Instructions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-introduces-unified-teamwork-solution-combining-work-personality-and-learning-into-one-platform/"><u>Microsoft Introduces Unified Teamwork Solution: Combining Work, Personality, and Learning Into One Platform</u></a></li>
+</ul></div>
+

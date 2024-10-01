@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Tech & Business Divide: Progress Toward a Unified Vision - Insights From ZDNet"
-date: 2024-09-18 19:59:21
-updated: 2024-09-20 11:38:58
+date: 2024-09-29T11:11:46.926Z
+updated: 2024-10-01T07:57:36.472Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,28 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/oes-immediate-subscribing-affect-content-recommendations-in-2024/"><u>[New] Does Immediate Subscribing Affect Content Recommendations, In 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streamlined-sound-conversion-for-tweeted-content-for-2024/"><u>[New] Streamlined Sound Conversion for Tweeted Content for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-excellent-multimedia-collaboration-apps/"><u>[Updated] Excellent Multimedia Collaboration Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-frustration-with-microsoft-exploring-alternatives-for-a-better-tech-ecosystem/"><u>Beyond Frustration with Microsoft? Exploring Alternatives for a Better Tech Ecosystem</u></a></li>
+<li><a href="https://app-tips.techidaily.com/celebrating-a-milestone-kubernetes-at-10-years-old-a-retrospective-of-its-impact-on-cloud-native-tech-and-future-prospects-zdnet/"><u>Celebrating a Milestone: Kubernetes at 10 Years Old – A Retrospective of Its Impact on Cloud-Native Tech & Future Prospects | ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-performance-install-canon-10drivers/"><u>Enhanced Performance: Install Canon 10Drivers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/expert-instructions-setting-up-wm6/"><u>Expert Instructions Setting Up WM6</u></a></li>
+<li><a href="https://app-tips.techidaily.com/gartner-reveals-half-of-generative-ai-initiatives-end-in-failure-insights-from-zdnet/"><u>Gartner Reveals Half of Generative AI Initiatives End in Failure - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-s23-ultra-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy S23 Ultra to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-mastery-in-recreating-visual-stories-for-2024/"><u>Instagram Mastery in Recreating Visual Stories for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-the-keychron-k2-he-special-edition-a-blend-of-vintage-style-and-contemporary-functionality/"><u>Review: The Keychron K2 HE Special Edition - A Blend of Vintage Style and Contemporary Functionality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-the-cloud-key-tech-leaders-anticipate-significant-shifts-in-business-models-exclusive-zdnet-report/"><u>Revolutionizing the Cloud: Key Tech Leaders Anticipate Significant Shifts in Business Models – Exclusive ZDNet Report</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tidying-up-linux-and-open-source-manuals-discovering-clarity-in-chaos-solutions-revealed/"><u>Tidying Up Linux & Open Source Manuals: Discovering Clarity in Chaos - Solutions Revealed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-business-growth-with-anthropics-claude-platform-the-future-of-scalable-ai-solutions/"><u>Unlocking Business Growth with Anthropic's Claude Platform - The Future of Scalable AI Solutions</u></a></li>
+</ul></div>
+

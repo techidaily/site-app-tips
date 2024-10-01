@@ -1,7 +1,7 @@
 ---
 title: "Superior Plus, Top Billion-Dollar Natural Gas Provider, Targeted by Cyber Attack: Insights From ZDNet"
-date: 2024-09-23T01:11:09.629Z
-updated: 2024-09-25T16:01:16.016Z
+date: 2024-09-23T20:56:00.041Z
+updated: 2024-10-01T10:00:57.998Z
 tags:
   - password-manager
 categories:
@@ -72,26 +72,31 @@ Deputy Attorney General Lisa Monaco [said during a press conference](https://twi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-past-perspectives-unencumbered-visual-splendors/"><u>[Updated] 2024 Approved Past Perspectives Unencumbered Visual Splendors</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-journey-to-joyful-snaps-animated-faces-on-mobile/"><u>2024 Approved Journey to Joyful Snaps Animated Faces on Mobile</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/dissecting-code-0xc10100be-in-visual-media/"><u>Dissecting Code 0XC10100be in Visual Media</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tial-apps-best-10-software-to-capture-your-screens-for-2024/"><u>Essential Apps Best 10 Software to Capture Your Screens for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-uncharted-territory-of-emerging-ai-based-careers-decoding-their-intriguing-titles-and-futures-on-zdnet/"><u>Exploring the Uncharted Territory of Emerging AI-Based Careers: Decoding Their Intriguing Titles & Futures on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-uncharted-territory-the-emergence-of-innovative-yet-to-be-named-careers-in-the-age-of-artifice-intelligence/"><u>Exploring Uncharted Territory: The Emergence of Innovative, Yet-to-Be-Named Careers in the Age of Artifice Intelligence</u></a></li>
-<li><a href="https://win-blog.techidaily.com/maximizing-fps-performance-tips-and-tricks-for-ring-of-elysium-players/"><u>Maximizing FPS Performance - Tips and Tricks for Ring of Elysium Players</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-asymmetry-of-todays-live-tech-evolution-a-deep-dive-zdnet/"><u>Navigating the Asymmetry of Today's Live Tech Evolution: A Deep Dive | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-future-with-ai-agent-ecosystems-how-theyll-reshape-services-expert-analysis-by-zdnet/"><u>Navigating the Future with AI 'Agent Ecosystems': How They'll Reshape Services | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/singapore-invests-24-billion-in-enhancing-it-networks-and-digital-solutions-insights-from-zdnet/"><u>Singapore Invests $2.4 Billion in Enhancing IT Networks & Digital Solutions – Insights From ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-ps4-mic-repair-overcoming-common-audio-problems/"><u>Step-by-Step PS4 Mic Repair: Overcoming Common Audio Problems</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tales-for-twilight-film-analysis-for-2024/"><u>Tales for Twilight Film Analysis for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-of-anonymous-chats-with-cutting-edge-ai-try-out-duckduckgos-platform-featuring-chatgpt-integration/"><u>Unlock the Potential of Anonymous Chats with Cutting-Edge AI – Try Out DuckDuckGo's Platform Featuring ChatGPT Integration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-generative-ais-key-hurdle-demonstrating-tangible-returns-on-investment-insights-from-zdnet/"><u>Unveiling Generative AI's Key Hurdle: Demonstrating Tangible Returns on Investment – Insights From ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-tech-gear-webcams-that-take-your-streams-up-a-notch/"><u>[New] Top Tech Gear Webcams That Take Your Streams Up a Notch</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-capturing-the-unseen-gopro-hero-vs-nikons-km-170/"><u>[Updated] In 2024, Capturing the Unseen GoPro HERO vs Nikon's KM-170</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-cell-network-troubleshooting-top-fixes-to-restore-functionality/"><u>Apple Watch Cell Network Troubleshooting: Top Fixes to Restore Functionality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-financial-rewards-top-priorities-for-open-source-professionals-seeking-new-opportunities/"><u>Beyond Financial Rewards: Top Priorities for Open-Source Professionals Seeking New Opportunities</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-sound-blaster-z-drivers-on-windows-11-simple-and-secure-steps/"><u>Download Sound Blaster Z Drivers on Windows 11: Simple and Secure Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/fortify-your-digital-space-safeguarding-homesme-pcs-with-microsofts-security-solutions/"><u>Fortify Your Digital Space: Safeguarding Home/SME PCs with Microsoft's Security Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-a78-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo A78 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-how-to-create-a-3d-text-art-effect-in-adobe-illustrator/"><u>In 2024, How to Create a 3D Text Art Effect in Adobe Illustrator</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-realme-gt-neo-5-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Realme GT Neo 5 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://app-tips.techidaily.com/new-microsoft-software-refresh-risks-boosting-office-stress-levels-says-zdnet-analysis/"><u>New Microsoft Software Refresh Risks Boosting Office Stress Levels, Says ZDNet Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-inserting-animated-gifs-into-instagram-replies/"><u>Step-by-Step Tutorial: Inserting Animated GIFs Into Instagram Replies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-professionals-drained-yet-hopeful-positive-trends-from-zdnet-analysis/"><u>Tech Professionals Drained Yet Hopeful: Positive Trends From ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-purpose-of-an-artificial-earth-plane-in-antenna-systems-can-be-similar-to-that-of-natural-ground-when-it-comes-to-reflecting-radio-waves-and-improving-s78/"><u>The Purpose of an Artificial Earth Plane in Antenna Systems Can Be Similar to that of Natural Ground when It Comes to Reflecting Radio Waves and Improving Signal Quality.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-professional-screen-recorders-for-2nite-expert-analysis-from-zdnet/"><u>The Ultimate List of Professional Screen Recorders for 2Nite: Expert Analysis From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-windows-essential-tips-for-upgrading-to-a-pro-edition-with-zdnets-expert-advice/"><u>Unlocking the Power of Windows: Essential Tips for Upgrading to a Pro Edition with ZDNet's Expert Advice</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsofts-window-of-opportunity-shrinks-as-they-race-against-time-on-windows-11-tech-analysis/"><u>Urgent Challenge: Microsoft's Window of Opportunity Shrinks as They Race Against Time on Windows 11 | Tech Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/what-drives-open-source-talent-unveiling-the-essential-non-monetary-wants-in-their-job-quest-zdnet/"><u>What Drives Open-Source Talent? Unveiling the Essential Non-Monetary Wants in Their Job Quest | ZDNET</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

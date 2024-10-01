@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]"
-date: 2024-09-24T19:24:40.454Z
-updated: 2024-09-26T08:59:41.373Z
+date: 2024-09-25T19:11:36.795Z
+updated: 2024-09-30T19:31:55.031Z
 tags:
   - password-manager
 categories:
@@ -42,10 +42,10 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -65,10 +65,10 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -92,10 +92,16 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -144,21 +150,24 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-6-mobile-explorer-tools-compatible-with-ios-devices-on-pcmac-systems/"><u>Discover the Top 6 Mobile Explorer Tools Compatible with iOS Devices on PC/Mac Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/djis-sky-high-adventure-a-compreranal-of-the-pro-model/"><u>DJI’s Sky-High Adventure A Compreranal of the Pro Model</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-proper-functionality-kyocera-printer-driver-setup-on-microsoft-windows/"><u>Ensure Proper Functionality: KYOCERA Printer Driver Setup on Microsoft Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-insights-the-definitive-guide-to-gopro-quik-a-comprehensive-analysis/"><u>Essential Insights: The Definitive Guide to GoPro Quik - A Comprehensive Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-mastering-your-android-device-top-free-and-premium-rooting-apps/"><u>Guide: Mastering Your Android Device - Top Free & Premium Rooting Apps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-vn-video-editor-pro-apk-a-professional-level-video-editing-experience/"><u>In 2024, VN Video Editor Pro Apk A Professional-Level Video Editing Experience?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/modernizing-senior-support-systems-through-innovative-technologies-a-comprehensive-guide-by-zdnet/"><u>Modernizing Senior Support Systems Through Innovative Technologies – A Comprehensive Guide by ZDNET</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-big-players-in-social-media-a-closer-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Players in Social Media: A Closer Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/step-by-step-video-instructions-converting-and-uploading-recovered-edb-mailboxes-to-a-currently-running-exchange-server/"><u>Step-by-Step Video Instructions: Converting and Uploading Recovered EDB Mailboxes to a Currently Running Exchange Server</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-highly-rated-and-free-notetaking-tools-for-android-devices-simplified-usage-guide/"><u>Top 10 Highly Rated & Free Notetaking Tools for Android Devices - Simplified Usage Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-3-free-android-block-game-apps-reviews-and-download-links/"><u>Top 3 Free Android Block Game Apps: Reviews & Download Links</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/top-quality-free-fb-image-and-video-designer-for-2024/"><u>Top Quality FREE FB Image & Video Designer for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194385-top-ranked-shotcut-video-editor-a-comprehensive-guide-dont-miss-it/"><u>Top-Ranked Shotcut Video Editor: A Comprehensive Guide - Don't Miss It</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194671-transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlocking-the-art-of-captions-a-short-guide-to-facebook-videos-for-2024/"><u>Unlocking the Art of Captions A Short Guide to Facebook Videos for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-elite-desktopmobile-communication-software-zoom-substitutes-for-2024/"><u>[New] Elite Desktop/Mobile Communication Software (Zoom Substitutes) for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-bring-life-to-stills-motion-blur-technique/"><u>2024 Approved Bring Life to Stills Motion Blur Technique</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>2024 Approved First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-idea-to-rss-producing-a-podcast-feed/"><u>2024 Approved From Idea to RSS Producing a Podcast Feed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-takes-center-stage-the-transformation-of-low-codeno-code-tools-in-modern-tech-strategies-insights-from-zdnet/"><u>AI Takes Center Stage: The Transformation of Low-Code/No-Code Tools in Modern Tech Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-rote-learning-how-ai-is-revolutionizing-software-development-with-advanced-intelligence-insights-from-zdnet/"><u>Beyond Rote Learning: How AI Is Revolutionizing Software Development with Advanced Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/direct-streamline-the-most-efficient-flv-to-youtube-tools-ranked-for-2024/"><u>Direct Streamline The Most Efficient Flv-to-YouTube Tools Ranked for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/emerging-leadership-in-the-age-of-generative-ai-how-new-software-roles-are-shaping-the-future-tech-insight/"><u>Emerging Leadership in the Age of Generative AI: How New Software Roles Are Shaping the Future | Tech Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/emerging-trends-how-edge-computing-boosts-job-opportunities-and-growth-insights-by-zdnet/"><u>Emerging Trends: How Edge Computing Boosts Job Opportunities & Growth - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-partnerships-the-role-of-artificial-intelligence-in-merging-developer-expertise-with-business-strategy-zdnet-analysis/"><u>Empowering Partnerships: The Role of Artificial Intelligence in Merging Developer Expertise with Business Strategy - ZDNet Analysis</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tech-upgrade-adding-supporting-hardware-drivers/"><u>Essential Tech Upgrade: Adding Supporting Hardware Drivers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-role-of-a-chief-ai-officer-pathways-to-achieve-this-executive-position/"><u>Exploring the Role of a Chief AI Officer – Pathways to Achieve This Executive Position</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-your-steam-remote-play-running-smoothly-with-these-proven-fixes/"><u>Get Your Steam Remote Play Running Smoothly with These Proven Fixes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-perfecting-audio-quality-for-your-youtube-channel/"><u>In 2024, Perfecting Audio Quality for Your YouTube Channel</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/online-protection-basics-discover-5-crucial-browsing-tips-every-beginner-needs-to-know/"><u>Online Protection Basics: Discover 5 Crucial Browsing Tips Every Beginner Needs to Know</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prioritize-manager-training-before-deploying-artificial-intelligence-insights-from-zdnet/"><u>Prioritize Manager Training Before Deploying Artificial Intelligence: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-cashless-how-non-monetary-transactions-are-set-to-soar-past-16t-driven-by-asian-markets-zdnet-insights/"><u>The Future Is Cashless: How Non-Monetary Transactions Are Set to Soar Past $1.6T, Driven by Asian Markets | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-singapores-push-towards-eco-friendly-tech-funding-artificeal-intelligence-to-combat-climate-change/"><u>ZDNet Explores Singapore’s Push Towards Eco-Friendly Tech: Funding Artificeal Intelligence to Combat Climate Change</u></a></li>
 </ul></div>
 

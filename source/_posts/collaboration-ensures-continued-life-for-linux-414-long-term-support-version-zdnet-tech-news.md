@@ -1,7 +1,7 @@
 ---
 title: Collaboration Ensures Continued Life for Linux 4.14 Long-Term Support Version | ZDNET Tech News
-date: 2024-09-17 21:43:40
-updated: 2024-09-20 12:55:54
+date: 2024-09-28T16:15:37.756Z
+updated: 2024-10-01T08:13:40.899Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-budget-friendly-recorder-choices-for-youtube-vloggers/"><u>[New] In 2024, Budget-Friendly Recorder Choices for YouTube Vloggers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-non-profit-gaming-audio-archive-downloadable/"><u>2024 Approved Non-Profit Gaming Audio Archive Downloadable</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-oppo-reno-10-proplus-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Oppo Reno 10 Pro+ 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-secure-ways-to-break-into-apple-id-protected-devices-top-5-tools-ensuring-full-access-without-errors/"><u>Best Secure Ways to Break Into Apple ID-Protected Devices: Top 5 Tools Ensuring Full Access Without Errors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/blurring-techniques-for-cleaner-image-edits/"><u>Blurring Techniques for Cleaner Image Edits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-how-to-modify-or-reset-your-apple-id-in-the-ios-cloud-service/"><u>Comprehensive Tutorial: How To Modify or Reset Your Apple ID in the iOS Cloud Service</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-harnessing-instagrams-power-for-financial-gain/"><u>In 2024, Harnessing Instagram's Power for Financial Gain</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-scripted-shutdown-of-stories/"><u>In 2024, The Scripted Shutdown of Stories</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-infinix-hot-40i-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Infinix Hot 40i Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lost-something-in-your-icloud-storage-master-the-art-of-icloud-backup-data-retrieval/"><u>Lost Something in Your iCloud Storage? Master the Art of iCloud Backup Data Retrieval</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-your-network-proven-strategies-to-recover-contacts-from-icloud-without-compromise/"><u>Maximize Your Network: Proven Strategies to Recover Contacts From iCloud Without Compromise</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-data-retrieval-tool-restore-lost-data-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-data/"><u>Motorola Data Retrieval tool – restore lost data from Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rescue-vanished-correspondence-a-how-to-on-recovering-lost-messages-from-your-gmail-inbox/"><u>Rescue Vanished Correspondence: A How-To on Recovering Lost Messages From Your Gmail Inbox</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-for-securing-your-whatsapp-data-with-icloud-backups/"><u>Step-by-Step Instructions for Securing Your WhatsApp Data with iCloud Backups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-on-clearing-out-your-visual-memories-photosimages-from-icloud-storage/"><u>Ultimate Tutorial on Clearing Out Your Visual Memories (Photos/Images) From iCloud Storage</u></a></li>
+</ul></div>
+

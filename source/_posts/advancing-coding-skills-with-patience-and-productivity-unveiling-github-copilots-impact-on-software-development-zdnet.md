@@ -1,7 +1,7 @@
 ---
 title: "Advancing Coding Skills with Patience & Productivity: Unveiling GitHub Copilot's Impact on Software Development - ZDNet"
-date: 2024-09-21T01:00:11.968Z
-updated: 2024-09-26T09:31:42.978Z
+date: 2024-09-28T11:06:52.348Z
+updated: 2024-10-01T06:51:39.411Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +181,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-download-youtube-playlists-without-hassle-our-guide/"><u>[New] Download YouTube Playlists Without Hassle - Our Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-premium-lecture-transcribers-for-learning-institutions/"><u>[New] In 2024, Premium Lecture Transcribers for Learning Institutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaming-streams-best-recording-programs/"><u>[Updated] 2024 Approved Gaming Streams Best Recording Programs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-20-must-have-mp4-devices/"><u>2024 Approved 20 Must-Have MP4 Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/antenna-impedance-matching-is-essential-not-only-for-efficient-power-transfer-but-also-because-mismatches-can-distort-the-radiation-pattern-due-to-standing-81/"><u>Antenna Impedance Matching Is Essential Not only for Efficient Power Transfer but Also because Mismatches Can Distort the Radiation Pattern Due to Standing Waves on Transmission Lines.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/creating-effective-reminders-using-slackbot-a-step-by-step-guide-on-slack/"><u>Creating Effective Reminders Using Slackbot: A Step-by-Step Guide on Slack</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experiencing-issues-in-roblox-determining-if-this-is-a-widespeare-outage-or-personal-connectivity-challenge/"><u>Experiencing Issues in Roblox? Determining if This Is a Widespeare Outage or Personal Connectivity Challenge.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-oppo-a18-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Oppo A18 PIN</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-vital-are-it-specialists-for-modern-businesses-operating-without-technology-insights-from-a-zdnet-perspective/"><u>How Vital Are IT Specialists for Modern Businesses Operating Without Technology? Insights From a ZDNET Perspective</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leveraging-next-gen-cloud-infrastructures-for-skills-development-and-robust-security-in-modern-applications/"><u>Leveraging Next-Gen Cloud Infrastructures for Skills Development and Robust Security in Modern Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-faces-critical-deadline-for-fixing-windows-10-issues-just-one-year-left-to-rectify-technewszdnet/"><u>Microsoft Faces Critical Deadline for Fixing Windows 10 Issues – Just One Year Left to Rectify | TechNewsZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-todays-it-landscape-balancing-cloud-innovation-with-current-on-premise-realities-techinsights/"><u>Navigating Today's IT Landscape: Balancing Cloud Innovation with Current On-Premise Realities | TechInsights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/sonys-ai-initiative-collaborates-with-ai-singapore-on-next-gen-language-models-unveiling-the-partnership/"><u>Sony's AI Initiative Collaborates with AI Singapore on Next-Gen Language Models: Unveiling the Partnership</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-achieved-optimal-resolution/"><u>Win10: Achieved Optimal Resolution</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-spark-10-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Spark 10 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-cheap-yet-superior-gaming-keyboard-guide-under-100/"><u>[New] 2024 Approved Cheap, Yet Superior Gaming Keyboard Guide Under $100</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-deciphering-the-archive-reviewing-past-facebook-updates-on-pc-and-phone/"><u>[New] In 2024, Deciphering the Archive Reviewing Past Facebook Updates on PC & Phone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-pinterest-vid-extraction-made-easy-the-best-tools-ranked/"><u>[New] In 2024, Pinterest Vid Extraction Made Easy The Best Tools Ranked</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-art-of-digital-expression-your-guide-to-sharing-animated-messages-on-snapchat/"><u>[New] The Art of Digital Expression Your Guide to Sharing Animated Messages on Snapchat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-focus-and-time-management-best-rated-windows-pomodoro-apps/"><u>Boost Your Focus and Time Management: Best-Rated Windows Pomodoro Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-privacy-with-easy-steps-to-protect-your-whatsapp-accounts-on-smartphones/"><u>Enhance Privacy with Easy Steps to Protect Your WhatsApp Accounts on Smartphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/five-effective-methods-to-repair-a-malfunctioning-screen-on-windows-11/"><u>Five Effective Methods to Repair a Malfunctioning Screen on Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-set-up-automatic-backups-from-whatsapp-to-google-drive-a-step-by-step-guide-for-android-and-iphone-users/"><u>How to Set Up Automatic Backups From WhatsApp to Google Drive: A Step-by-Step Guide for Android & iPhone Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-magic-vs-2-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-how-to-manual-effortless-audio-clipping-from-whatsapp-chats/"><u>The Ultimate How-To Manual: Effortless Audio Clipping From WhatsApp Chats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-for-enabling-and-performing-a-whatsapp-backup-to-icloud/"><u>The Ultimate Tutorial for Enabling and Performing a WhatsApp Backup to iCloud</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/uncover-the-secret-to-extra-instagram-filters-for-zero-cost/"><u>Uncover the Secret to Extra Instagram Filters for Zero Cost</u></a></li>
+<li><a href="https://app-tips.techidaily.com/whatsapp-data-resurrection-steps-for-retrieving-chat-history-stored-in-google-drive-on-iphone-solved/"><u>WhatsApp Data Resurrection: Steps for Retrieving Chat History Stored in Google Drive on iPhone [Solved]</u></a></li>
 </ul></div>
 

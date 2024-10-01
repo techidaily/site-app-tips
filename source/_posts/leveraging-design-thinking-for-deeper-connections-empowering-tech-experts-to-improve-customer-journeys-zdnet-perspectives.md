@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Design Thinking for Deeper Connections: Empowering Tech Experts to Improve Customer Journeys | ZDNET Perspectives"
-date: 2024-09-18 12:36:55
-updated: 2024-09-20 12:40:35
+date: 2024-09-29T04:58:24.802Z
+updated: 2024-10-01T00:51:07.671Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,28 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-bring-out-the-magic-leading-frames-for-your-images-for-2024/"><u>[New] Bring Out the Magic Leading Frames for Your Images for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-vlogs-to-virality-jake-paul-the-online-phenomenon-for-2024/"><u>[New] From Vlogs to Virality Jake Paul, the Online Phenomenon for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-disclosure-insights-into-the-google-podcast-app/"><u>2024 Approved Full Disclosure Insights Into the Google Podcast App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amplifying-the-role-of-it-professionals-in-shaping-customer-satisfaction-expert-analysis-by-zdnet/"><u>Amplifying the Role of IT Professionals in Shaping Customer Satisfaction | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-cutting-edge-enhancements-in-microsofts-latest-windows-11-upgrade-on-zdnet/"><u>Discover the Cutting-Edge Enhancements in Microsoft's Latest Windows 11 Upgrade on ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-access-chatgpt-from-anywhere-using-chatgpt-everywhere/"><u>How to Access ChatGPT From Anywhere Using ChatGPT Everywhere</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-mini-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 mini to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/innovate-and-captivate-top-10-video-response-examples/"><u>Innovate and Captivate Top 10 Video Response Examples</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-cloud-service-giants-an-in-depth-look-at-aws-microsoft-azure-and-google-clouds-hybrid-saas-offerings-zdnet-analysis/"><u>Leading Cloud Service Giants: An In-Depth Look at AWS, Microsoft Azure, and Google Cloud's Hybrid, SaaS Offerings - ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/nvidia-leads-with-blackwell-jensen-huang-reveals-revolutionary-chip-series-during-gtc-keynote-insights-for-tech-enthusiasts-zdnet/"><u>Nvidia Leads with Blackwell: Jensen Huang Reveals Revolutionary Chip Series During GTC Keynote - Insights for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/puzzled-by-my-videos-rotating-appearance-on-instagram/"><u>Puzzled by My Video’s Rotating Appearance on Instagram</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-industry-handbook-zdnet-insights/"><u>Revolutionizing UX with XR, Digital Twins & Spatial Tech: A Comprehensive Industry Handbook | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-linux-65-revolutionary-updates-and-improvements-detailed-digital-trends/"><u>Unveiling Linux 6.5: Revolutionary Updates and Improvements Detailed | Digital Trends</u></a></li>
+</ul></div>
+

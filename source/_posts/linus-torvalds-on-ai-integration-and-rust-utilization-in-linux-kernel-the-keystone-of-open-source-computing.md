@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds on AI Integration & Rust Utilization in Linux Kernel - The Keystone of Open-Source Computing
-date: 2024-09-18 22:17:25
-updated: 2024-09-20 12:39:40
+date: 2024-09-27T22:34:05.200Z
+updated: 2024-09-30T18:14:20.512Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-mac-subtitling-workshop/"><u>[New] The Ultimate Mac Subtitling Workshop</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-comprehensive-guide-to-incorporating-photo-capabilities-in-meet-for-2024/"><u>[Updated] A Comprehensive Guide to Incorporating Photo Capabilities in Meet for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-enhance-video-quality-by-cutting-out-background-sounds/"><u>[Updated] Enhance Video Quality by Cutting Out Background Sounds</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-broadcasting-without-rts-video-tweeting-simplified/"><u>[Updated] In 2024, Broadcasting Without RTs Video Tweeting Simplified</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-compromise-on-security-upgrade-your-password-for-safe-streaming-experience-cybersafetynews/"><u>Don't Compromise on Security: Upgrade Your Password for Safe Streaming Experience | CyberSafetyNews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevating-enterprise-defense-starts-at-the-employee-level-expert-advice-on-corporate-and-personal-cybersecurity-by-zdnet/"><u>Elevating Enterprise Defense Starts at the Employee Level – Expert Advice on Corporate and Personal Cybersecurity by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhanced-online-security-made-easy-discover-how-proton-enables-full-data-protection-through-its-new-password-manager-as-explored-by-zdnet-experts/"><u>Enhanced Online Security Made Easy: Discover How Proton Enables Full Data Protection Through Its New Password Manager, as Explored by ZDNet Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-ethically-locate-and-use-professional-contact-emails-in-your-network/"><u>How to Ethically Locate and Use Professional Contact Emails in Your Network</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-honor-magic-5-lite-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor Magic 5 Lite FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/integrating-textual-descriptions-into-videos-on-photos-windows-11-for-2024/"><u>Integrating Textual Descriptions Into Videos on Photos (Windows 11) for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/malicious-exploitation-of-omicron-concerns-intensifies-as-cybercriminals-deploy-redline-trojan-expert-analysis-by-fortinet-on-emerging-threats/"><u>Malicious Exploitation of Omicron Concerns Intensifies as Cybercriminals Deploy RedLine Trojan – Expert Analysis by Fortinet on Emerging Threats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/massive-data-compromise-at-oregon-medical-practice-750k-patients-impacted-details-revealed-by-digi-journal/"><u>Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-security-how-dashlane-enables-logins-without-a-main-password-according-to-zdnet/"><u>Revolutionizing Digital Security: How Dashlane Enables Logins Without a Main Password, According to ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/security-alert-kaspersky-password-manager-revealed-by-zdnet-for-creating-weak-brute-force-susceptible-passwords/"><u>Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords</u></a></li>
+<li><a href="https://win-answers.techidaily.com/strategies-for-fixing-the-persistent-error-code-108-in-steam-virtual-reality/"><u>Strategies for Fixing the Persistent Error Code 지108 in Steam Virtual Reality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/superior-plus-top-billion-dollar-natural-gas-provider-targeted-by-cyber-attack-insights-from-zdnet/"><u>Superior Plus, Top Billion-Dollar Natural Gas Provider, Targeted by Cyber Attack: Insights From ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/taking-control-of-your-online-sessions-via-facebook-alerts/"><u>Taking Control of Your Online Sessions via Facebook Alerts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-password-management-secrets-with-dashlane-costs-capabilities-and-starting-guide-techinsight/"><u>Unlocking Password Management Secrets with Dashlane: Costs, Capabilities & Starting Guide | TechInsight</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/viking-saga-unveiled-in-assassins-creed-valhalla-a-comprehensive-game-review/"><u>Viking Saga Unveiled in Assassin's Creed: Valhalla - A Comprehensive Game Review</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Rising Trend of Low-Code & No-Code Development: Its Impact on Changing Tech Roles - Discovered with ZDNet"
-date: 2024-09-19 19:40:25
-updated: 2024-09-20 11:41:10
+date: 2024-09-28T21:26:18.913Z
+updated: 2024-10-01T11:04:16.511Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-10-ios-gif-apps-showcase-iphone-series/"><u>[New] 2024 Approved Top 10 iOS GIF Apps Showcase IPhone Series</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-picks-for-faith-based-ringtones-online/"><u>[Updated] Top Picks for Faith-Based Ringtones Online</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-million-prize-the-latest-boost-in-bugcrowds-premium-vulnerability-reporting-insight-for-security-experts/"><u>$1 Million Prize: The Latest Boost in Bugcrowd's Premium Vulnerability Reporting - Insight for Security Experts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-expert-strategies-for-choosing-effective-podcast-names-plus-inspirations/"><u>2024 Approved Expert Strategies for Choosing Effective Podcast Names, Plus Inspirations</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-validate-your-youtube-profile-a-simple-guide/"><u>2024 Approved How to Validate Your YouTube Profile? A Simple Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/black-friday-exclusive-deal-unlock-savings-with-nordpass-premium-at-half-price-get-secure-passwords-now-zdnet-insider-tips/"><u>Black Friday Exclusive Deal: Unlock Savings with NordPass Premium at Half Price! Get Secure Passwords Now - ZDNet Insider Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-bitcoin-privacy-myths-the-expose-that-shook-its-secrecy/"><u>Debunking Bitcoin Privacy Myths: The Exposé That Shook Its Secrecy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-and-secure-password-management-solutions-for-202e-thorough-evaluation-by-industry-experts-techradar/"><u>Free & Secure Password Management Solutions for 202E: Thorough Evaluation by Industry Experts - TechRadar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-preventing-unwanted-filming-in-quicktime/"><u>In 2024, Preventing Unwanted Filming in QuickTime</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-your-security-how-dashlanes-passwordless-logins-eliminate-the-hassle-of-remembering-one-overarching-password-insights-from-zdnet/"><u>Master Your Security: How Dashlane's Passwordless Logins Eliminate the Hassle of Remembering One Overarching Password - Insights From ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-10t-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme 10T 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-easy-way-to-grab-films-a-comprehensive-utorrent-tutorial-for-beginners/"><u>The Easy Way to Grab Films: A Comprehensive uTorrent Tutorial for Beginners</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-invest-in-1password-exceptional-security-and-features-justify-premium-price-tag-for-users-cyberguardian-review/"><u>Why Invest in 1Password? Exceptional Security and Features Justify Premium Price Tag for Users | CyberGuardian Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-investigates-the-recent-cybersecurity-breach-exposing-30kplus-healthcare-workers-confidential-details-in-florida-database/"><u>ZDNet Investigates the Recent Cybersecurity Breach Exposing 30K+ Healthcare Workers' Confidential Details in Florida Database</u></a></li>
+</ul></div>
+

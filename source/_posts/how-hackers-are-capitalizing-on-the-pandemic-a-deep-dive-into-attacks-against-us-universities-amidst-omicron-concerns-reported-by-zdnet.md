@@ -1,7 +1,7 @@
 ---
 title: "How Hackers Are Capitalizing on the Pandemic: A Deep Dive Into Attacks Against US Universities Amidst Omicron Concerns | Reported by ZDNET"
-date: 2024-09-20T08:14:12.625Z
-updated: 2024-09-26T07:50:00.714Z
+date: 2024-09-26T10:28:40.676Z
+updated: 2024-10-01T06:37:35.580Z
 tags:
   - password-manager
 categories:
@@ -88,27 +88,25 @@ By entering under the guise of a legitimate user, the attacker has a greater cha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-how-to-obtain-high-quality-unrestricted-photography/"><u>[New] 2024 Approved How To Obtain High-Quality, Unrestricted Photography</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-best-camera-lenses-for-youtube/"><u>[New] Best Camera Lenses for YouTube</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-of-picplaypost-revolutionizing-digital-content-with-advanced-editing-features-for-videos-collages-and-more/"><u>Comprehensive Evaluation of PicPlayPost: Revolutionizing Digital Content with Advanced Editing Features for Videos, Collages, and More</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-pinnacle-studio-benefits-drawbacks-and-best-alternatives-explored/"><u>Comprehensive Review of Pinnacle Studio: Benefits, Drawbacks & Best Alternatives Explored</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-12-effortless-typing-solutions-on-ios-and-android-the-ultimate-keyboard-app-selection/"><u>Discover the Top 12 Effortless Typing Solutions on iOS & Android: The Ultimate Keyboard App Selection</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-v-purse-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor V Purse Phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/gopro-editing-software-best-15-action-cam-video-editors-for-2024/"><u>GoPro Editing Software Best 15 Action Cam Video Editors for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y27s-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-the-features-of-the-linksys-ea8300-router-for-optimal-device-performance-and-security/"><u>Navigating the Features of the Linksys EA8300 Router for Optimal Device Performance and Security</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-vivo-y36-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Vivo Y36</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-tecno-camon-20-pro-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Tecno Camon 20 Pro 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-guide-top-free-tools-for-speedy-file-removal-on-your-ipad-device/"><u>Quick Guide: Top Free Tools for Speedy File Removal on Your iPad Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-8-must-have-multi-window-programs-for-android-phones-and-tablets/"><u>The Ultimate List of 8 Must-Have Multi-Window Programs for Android Phones & Tablets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-alternative-podcast-apps-to-replace-player-fm-on-your-android-device/"><u>Top Alternative Podcast Apps to Replace Player FM on Your Android Device</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-maximize-your-youtube-channels-financial-potential/"><u>[Updated] Maximize Your YouTube Channel's Financial Potential</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-tech-talent-is-highly-sought-after-your-innovative-concepts-can-reshape-industries-insights-from-the-zdnet-perspective/"><u>1. 'Tech Talent Is Highly Sought After: Your Innovative Concepts Can Reshape Industries' - Insights From the ZDNet Perspective</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/9-essential-uses-of-chatgpt-to-boost-your-well-being/"><u>9 Essential Uses of ChatGPT to Boost Your Well-Being</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-chatbots-struggle-with-non-english-languages-reveals-new-stanford-research-zdnet/"><u>AI Chatbots Struggle with Non-English Languages, Reveals New Stanford Research | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/delta-airlines-latest-news-lacks-flavor-southwest-enthusiasts-show-interest-tech-insight/"><u>Delta Airline's Latest News Lacks Flavor, Southwest Enthusiasts Show Interest | Tech Insight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-epson-xp-245-drivers-on-windows-versions-7810/"><u>Easy Guide to Downloading and Installing Epson XP-245 Drivers on Windows (Versions 7/8/10)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-tech-for-effective-pc-image-capture-the-5-best/"><u>Essential Tech for Effective PC Image Capture, The 5 Best</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-primer-on-dynamic-visual-expression/"><u>In 2024, A Primer on Dynamic Visual Expression</u></a></li>
+<li><a href="https://extra-information.techidaily.com/light-the-flame-the-best-inspiring-movie-list/"><u>Light the Flame The Best Inspiring Movie List</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-cross-functional-cooperation-with-artificial-intelligence-in-development-and-commerce/"><u>Revolutionizing Cross-Functional Cooperation with Artificial Intelligence in Development and Commerce</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolving-landscape-generative-ais-impact-on-workforce-dynamics-and-software-development-roles-tech-analysis-by-zdnet/"><u>The Evolving Landscape: Generative AI's Impact on Workforce Dynamics & Software Development Roles | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-is-here-rumors-and-projections-for-the-google-pixel-watch-3s-market-entry/"><u>The Future Is Here: Rumors & Projections for the Google Pixel Watch 3'S Market Entry</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-full-spectrum-of-ai-integration-direct-insights-from-your-enterprises-leading-developer-zdnet/"><u>Unveiling the Full Spectrum of AI Integration: Direct Insights From Your Enterprise's Leading Developer | ZDNET</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

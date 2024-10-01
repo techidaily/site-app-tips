@@ -1,7 +1,7 @@
 ---
 title: "Mastering Agile Mindsets: Key Strategies for Successful Software Development with ZDNet"
-date: 2024-09-17 15:57:20
-updated: 2024-09-20 12:57:28
+date: 2024-09-29T00:33:29.783Z
+updated: 2024-09-30T16:37:10.191Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-professional-approaches-for-logging-youtube-streams/"><u>[New] 2024 Approved Professional Approaches for Logging YouTube Streams</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unravel-the-mystery-of-accessing-your-watchlist-on-facebook-for-2024/"><u>[New] Unravel the Mystery of Accessing Your Watchlist on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-maximizing-video-impact-with-youtube-cards/"><u>[Updated] Maximizing Video Impact with YouTube Cards</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-engineers-simple-app-shames-mcdonalds-tech-a-closer-look-at-the-fast-food-giants-missteps/"><u>1. Engineer’s Simple App Shames McDonald's Tech: A Closer Look at the Fast-Food Giant's Missteps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-the-orchard-discovering-enhanced-fulfillment-in-non-apple-workplaces-zdnet/"><u>Beyond the Orchard: Discovering Enhanced Fulfillment in Non-Apple Workplaces | ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-ultimate-guide-to-slicing-and-dicing-vimeo-videos-online/"><u>In 2024, The Ultimate Guide to Slicing and Dicing Vimeo Videos Online</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-your-productivity-with-ubuntu-2204-a-powerful-desktop-os-from-zdnet/"><u>Maximize Your Productivity with Ubuntu 22.04: A Powerful Desktop OS From ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-enablingdisabling-picture-in-picture/"><u>Step by Step Enabling/Disabling Picture-in-Picture</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transforming-your-windows-home-into-professional-grade-with-an-easy-upgrade/"><u>Step-by-Step Guide: Transforming Your Windows Home Into Professional Grade with an Easy Upgrade</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-dual-comeback-why-openstack-and-kata-containers-are-gaining-popularity-again-insights-from-zdnet/"><u>The Dual Comeback: Why OpenStack & Kata Containers Are Gaining Popularity Again - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/0-sound-enhancers-across-multiple-platforms/"><u>Top 10 Sound Enhancers Across Multiple Platforms</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-poco-m6-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Poco M6 5G Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-lone-malfunctioning-airpod-effective-solutions/"><u>Troubleshooting a Lone Malfunctioning AirPod: Effective Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-slack-connect-a-complete-guide-on-features-and-usage/"><u>Understanding Slack Connect: A Complete Guide on Features & Usage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-ai-how-langchain-revolutionizes-generative-assistance/"><u>Unleashing the Power of AI: How LangChain Revolutionizes Generative Assistance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrading-windows-home-to-a-pro-license-essential-tips-and-reasons-for-the-switch-techexpertise-hub/"><u>Upgrading Windows Home to a Pro License: Essential Tips & Reasons for the Switch | TechExpertise Hub</u></a></li>
+<li><a href="https://app-tips.techidaily.com/your-windows-11-journey-explore-your-five-last-choices-before-microsoft-phases-out-support/"><u>Your Windows 11 Journey: Explore Your Five Last Choices Before Microsoft Phases Out Support</u></a></li>
+</ul></div>
+

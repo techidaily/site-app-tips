@@ -1,7 +1,7 @@
 ---
 title: "Creating an Impressive Table with Excel: A Step-by-Step Guide"
-date: 2024-09-17 19:53:26
-updated: 2024-09-20 12:43:47
+date: 2024-09-23T21:53:44.403Z
+updated: 2024-10-01T01:16:02.919Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/kyrocketing-youtube-popularity-through-seo-know-how-for-2024/"><u>[New] Skyrocketing YouTube Popularity Through SEO Know-How for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-4k-screen-recorder-applications-for-2024/"><u>[Updated] Best 4K Screen Recorder Applications for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ais-impact-on-the-future-of-cybersecurity-employment-opportunities-zdnet/"><u>AI's Impact on the Future of Cybersecurity Employment Opportunities | ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-ricoh-mp-c3003-printer-software-and-drivers/"><u>Download the Latest Ricoh MP C3003 Printer Software & Drivers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experts-rank-the-top-web-hosting-services-for-202ebyzdnet-find-your-perfect-match/"><u>Experts Rank the Top Web Hosting Services for 202Eby|ZDNET - Find Your Perfect Match!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-convertisseur-video-avi-en-ligne-moviwizard/"><u>Gratuito Convertisseur Vidéo AVI en Ligne - MoviWizard</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-your-enterprise-will-depend-on-numerous-ai-models-insights-from-zdnet/"><u>How Your Enterprise Will Depend on Numerous AI Models - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-windows-11-parental-control-measures/"><u>Implementing Windows 11 Parental Control Measures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/listening-landscapes-where-should-you-invest-more-time-podcasts-or-youtube-for-2024/"><u>Listening Landscapes Where Should You Invest More Time – Podcasts or YouTube for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-parental-controls-stop-youtube-on-your-apple-ipads/"><u>Navigating Parental Controls: Stop YouTube on Your Apple iPads</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-best-green-screen-apps-for-mac-a-comprehensive-guide-for-2024/"><u>New Best Green Screen Apps for Mac A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/superior-frame-rate-in-languid-videos-for-2024/"><u>Superior Frame Rate in Languid Videos for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-work-unpacking-edge-technologys-impact-on-professional-advancement-with-zdnet/"><u>The Future of Work: Unpacking Edge Technology's Impact on Professional Advancement with ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-paradox-of-productivity-can-generative-ai-actually-boost-your-workload-find-out-with-zdnets-latest-analysis/"><u>The Paradox of Productivity: Can Generative AI Actually Boost Your Workload? Find Out with ZDNet's Latest Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-paradox-of-productivity-is-generative-ai-causing-extra-jobs-according-to-zdnet/"><u>The Paradox of Productivity: Is Generative AI Causing Extra Jobs, According to ZDNet?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-your-company-depends-on-numerous-ai-systems-insights-from-zdnet/"><u>Why Your Company Depends on Numerous AI Systems - Insights From ZDNet</u></a></li>
+</ul></div>
+
