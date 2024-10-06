@@ -1,7 +1,7 @@
 ---
 title: "From LastPass to iCloud: Transition Your Passwords Securely on PC - Expert Tips From ZDNet"
-date: 2024-09-27T00:37:03.773Z
-updated: 2024-09-30T16:21:19.479Z
+date: 2024-10-01T18:39:30.296Z
+updated: 2024-10-06T17:22:44.719Z
 tags:
   - password-manager
 categories:
@@ -33,13 +33,6 @@ But how can I remember all these passwords if I can't even remember my significa
 
 ## How to use iCloud as a password manager on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open iCloud for Windows
 
 Go to your Start menu and open iCloud for Windows. Adding iCloud for Windows to your computer lets you manage your passwords from your PC and generate verification codes when an account needs [two-factor authentication](https://www.zdnet.com/article/two-factor-authentication-is-a-great-idea-but-not-enough-people-are-using-it/) (2FA).
@@ -50,6 +43,13 @@ Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your iCloud Passwords
 
 Once you sign in to your account -- if you haven't already -- you can access your account, add another account, and make any necessary changes.
@@ -59,6 +59,19 @@ Go to Passwords, and click Apply.
 Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Make sure Passwords is on and click Apply
 
@@ -96,6 +109,13 @@ Enter the verification code.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Try out the password manager
 
 After you set up iCloud for [Windows](https://www.zdnet.com/article/windows-11-22h2-how-to-get-microsofts-latest-os-update-and-whats-coming-next/) as a password manager and your browser extension, you can try it out by going to a website and trying to log in.
@@ -108,19 +128,6 @@ Like LastPass, the browser extension will let you fill in your login information
 
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## How do you get iCloud for Windows?  
@@ -128,10 +135,10 @@ Like LastPass, the browser extension will let you fill in your login information
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How do I set up iCloud Keychain? 
@@ -139,13 +146,6 @@ To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ
 iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/article/how-to-update-all-of-your-apple-devices/): [iPhone](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fipad%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [Mac](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). To set it up, go to your iPhone's Settings and tap on your name at the top of the screen to access your iCloud settings. Then, choose iCloud. Find Passwords and Keychain and select that, then tap on Sync this iPhone to turn it on. 
 
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
 
@@ -181,18 +181,24 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-introducing-the-apple-m1-max-clip/"><u>[New] 2024 Approved Introducing the Apple M1 Max Clip</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unveiling-the-essentials-of-ios-screen-capture-capabilities/"><u>[Updated] 2024 Approved Unveiling the Essentials of Io's Screen Capture Capabilities</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-premium-4k-video-mics-top-picks-list/"><u>[Updated] In 2024, Premium 4K Video Mics Top Picks List</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-story-viewers-uncharted-territory-explored-for-2024/"><u>[Updated] Instagram Story Viewers Uncharted Territory Explored for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/choose-your-perfect-wedding-tales-youtubes-finest-8/"><u>Choose Your Perfect Wedding Tales - Youtube's Finest 8</u></a></li>
-<li><a href="https://app-tips.techidaily.com/end-of-an-era-what-to-do-with-your-windows-10-computer-explore-5-alternatives/"><u>End of an Era: What to Do with Your Windows 10 Computer - Explore 5 Alternatives</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-11-proplus-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme 11 Pro+ Quickly? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-cloud-platforms-reviewed-comparing-aws-microsoft-azure-and-google-cloud-exploring-hybrid-saas-options-on-zdnet/"><u>Leading Cloud Platforms Reviewed: Comparing AWS, Microsoft Azure, & Google Cloud – Exploring Hybrid, SaaS Options on ZDNet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-milestone-in-7-years-of-language-acquisition/"><u>Mondly's Milestone in 7 Years of Language Acquisition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-3b-five-facts-about-antenna-radiation-patterns/"><u>Section 3B: Five Facts About Antenna Radiation Patterns</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers on Windows 7</u></a></li>
-<li><a href="https://some-tips.techidaily.com/web-page-essentials-unlocking-effective-strategies-for-search-engines/"><u>Web Page Essentials: Unlocking Effective Strategies for Search Engines</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-crisis-looms-for-microsoft-only-a-year-remaining-to-address-major-issues-insights-from-zdnet/"><u>Windows 11 Crisis Looms for Microsoft - Only a Year Remaining to Address Major Issues | Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-10-user-friendly-free-tools-to-create-professional-video-thumbnails-for-2024/"><u>[New] 10 User-Friendly Free Tools to Create Professional Video Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-creating-characters-in-the-metaverse-an-easy-methodology/"><u>[Updated] 2024 Approved Creating Characters in the Metaverse An Easy Methodology</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-art-of-connection-thriving-amidst-algorithm-updates/"><u>[Updated] 2024 Approved The Art of Connection Thriving Amidst Algorithm Updates</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-kaji-kids-financial-flight-a-10-year-olds-path-to-prosperity/"><u>[Updated] Kaji Kid’s Financial Flight A 10-Year-Old’s Path to Prosperity</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-transform-your-videos-swiftly-with-these-top-8-iphone-apps/"><u>[Updated] Transform Your Videos Swiftly with These Top 8 iPhone Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-insightful-analysis-unveiling-the-challenges-of-leveraging-generative-ai-in-business-key-findings-from-deloittes-latest-study/"><u>1. Insightful Analysis: Unveiling the Challenges of Leveraging Generative AI in Business - Key Findings From Deloitte's Latest Study</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amazon-introduces-innovative-ai-metric-for-response-accuracy-and-grounding/"><u>Amazon Introduces Innovative AI Metric for Response Accuracy and Grounding</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-mp4mpeg-4-a-partir-de-fichier-vob-solution-en-ligne-avec-movavi/"><u>Gratuit MP4/MPEG-4 À Partir De Fichier VOB : Solution en Ligne Avec Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-amazon-is-redefining-ai-assessment-with-a-novel-rag-metric-insights-from-recent-zdnet-analysis/"><u>How Amazon Is Redefining AI Assessment with a Novel RAG Metric – Insights From Recent ZDNET Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-safely-set-up-your-own-windows-recovery-disk-using-easy-4-step-guide-techinsights/"><u>How to Safely Set Up Your Own Windows Recovery Disk Using Easy 4-Step Guide | TechInsights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-samsung-galaxy-m14-4g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Samsung Galaxy M14 4G to iPod | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-tecno-pova-6-pro-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Tecno Pova 6 Pro 5G Without PUK Codes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/intrusion-detection-systems/"><u>Intrusion Detection Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-efficiency-on-chromebooks-discover-essential-navigation-tricks-and-performance-boosters-zdnet/"><u>Maximize Efficiency on Chromebooks: Discover Essential Navigation Tricks & Performance Boosters | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-personal-health-with-chatgpt-a-guide-to-the-9-best-applications/"><u>Maximize Personal Health with ChatGPT: A Guide to the 9 Best Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-end-of-an-era-is-microsofts-no-cost-windows-11-enhancement-plan-over-digital-insights/"><u>The End of an Era: Is Microsoft's No-Cost Windows 11 Enhancement Plan Over? | Digital Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-innovators-flocking-to-open-source-projects-a-deep-dive-zdnet/"><u>Top Innovators Flocking to Open Source Projects - A Deep Dive | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/whats-next-for-your-windows-11-device-as-mainstream-support-winds-down-exploring-5-essential-alternatives-insights-from-zdnet/"><u>What's Next for Your Windows 11 Device as Mainstream Support Winds Down: Exploring 5 Essential Alternatives - Insights From ZDNet</u></a></li>
 </ul></div>
 

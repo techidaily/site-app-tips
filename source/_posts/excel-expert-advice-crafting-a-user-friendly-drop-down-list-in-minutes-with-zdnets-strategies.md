@@ -1,7 +1,7 @@
 ---
 title: "Excel Expert Advice: Crafting a User-Friendly Drop-Down List in Minutes with ZDNet's Strategies"
-date: 2024-09-19 22:42:25
-updated: 2024-09-20 12:34:24
+date: 2024-10-04T18:02:28.045Z
+updated: 2024-10-06T17:22:00.186Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-updated-list-of-conversation-catalysts-for-listener-retention/"><u>[Updated] In 2024, Updated List of Conversation Catalysts for Listener Retention</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-approach-fine-tuning-your-youtube-videos-dimensions-and-sizes/"><u>[Updated] Step-by-Step Approach Fine-Tuning Your YouTube Videos' Dimensions & Sizes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-aimp-pro-541-wmsps-advanced-desktop-companion/"><u>2024 Approved AIMP Pro 5.41 WMSP's Advanced Desktop Companion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/come-trasformare-un-file-mp4-in-mp3-senza-costi-su-windows-11-guida-facile/"><u>Come Trasformare Un File MP4 in MP3 Senza Costi Su Windows 11 - Guida Facile!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-unmatched-gaming-with-the-ibuypower-tailored-gaming-machine-an-in-depth-analysis/"><u>Experience Unmatched Gaming with the IbuyPower Tailored Gaming Machine: An In-Depth Analysis</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-windows-compatible-drivers-for-your-hp-officejet-4650-printer-today/"><u>Get the Newest Windows-Compatible Drivers for Your HP Officejet 4650 Printer Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028447702-goproyoutube/"><u>GoPro映像Youtubeへの公開で画質問題を解決するコツ</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-anonymity-the-key-to-empowering-todays-remote-teams-zdnet/"><u>Harnessing Anonymity: The Key to Empowering Today’s Remote Teams | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/intro-to-coursera-levelsets-competency-evaluations-the-latest-update-explained-by-zdnet/"><u>Intro to Coursera LevelSets Competency Evaluations - The Latest Update Explained by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/missing-in-action-the-elusive-free-windows-10-enhancement-program/"><u>Missing in Action: The Elusive Free Windows 10 Enhancement Program</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-the-depth-feature-on-iphone-xrxs-in-ios-16-top-7-fixes/"><u>Revive the Depth Feature on iPhone XR/XS in iOS 16 - Top 7 Fixes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-4a-advanced-antenna-array-theory/"><u>Section 4A: Advanced Antenna Array Theory</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-to-elevate-your-system-from-windows-home-to-professional-the-ultimate-benefits-explained/"><u>Step-by-Step Guide to Elevate Your System From Windows Home to Professional – The Ultimate Benefits Explained</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-11-must-have-applications-and-services-for-windowsmac-users-insights-from-zdnet/"><u>Top 11 Must-Have Applications & Services for Windows/Mac Users - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transparency-in-tech-swiss-fed-government-goes-full-open-source-for-software-development/"><u>Transparency in Tech: Swiss Fed Government Goes Full Open Source for Software Development</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-dvd-ripper-and-hd-video-converter-the-ultimate-free-download-center-for-media-transformation/"><u>WinX DVD Ripper & HD Video Converter: The Ultimate Free Download Center for Media Transformation</u></a></li>
+</ul></div>
+

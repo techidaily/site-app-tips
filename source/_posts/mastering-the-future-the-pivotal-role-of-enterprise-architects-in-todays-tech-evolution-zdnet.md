@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Future: The Pivotal Role of Enterprise Architects in Today's Tech Evolution | ZDNet"
-date: 2024-09-19 22:52:39
-updated: 2024-09-20 10:46:23
+date: 2024-10-04T16:46:31.252Z
+updated: 2024-10-06T17:19:58.701Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-achieving-subtle-volume-diminishment-in-logic-pro/"><u>[New] Achieving Subtle Volume Diminishment in Logic Pro</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-eco-editing-tools-no-charge/"><u>[Updated] 2024 Approved Eco Editing Tools No Charge</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-ultimate-tutorial-on-phantoms-reverse-recording/"><u>[Updated] 2024 Approved The Ultimate Tutorial on Phantom's Reverse Recording</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-open-source-game-tunes-library-web/"><u>2024 Approved Open Source Game Tunes Library Web</u></a></li>
+<li><a href="https://article-helps.techidaily.com/cutting-edge-techniques-for-cropping-images-on-the-web/"><u>Cutting Edge Techniques for Cropping Images on the Web</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-leading-10-image-cataloging-applications-for-both-windows-and-mac-systems-a-comprehensive-ranking-guide/"><u>Discover the Leading 10 Image Cataloging Applications for Both Windows & Mac Systems: A Comprehensive Ranking Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-20-most-popular-bluetooth-enabled-multiplayer-games-on-phones-and-tablets/"><u>Discover the Top 20 Most Popular Bluetooth-Enabled Multiplayer Games on Phones & Tablets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-8-ultimate-free-fax-applications-for-your-android-device/"><u>Discover the Top 8 Ultimate Free Fax Applications for Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-6-imovie-substitutes-for-your-android-smartphones-video-edits/"><u>Discover the Ultimate 6 iMovie Substitutes for Your Android Smartphone's Video Edits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-started-with-tango-step-by-step-instructions-for-downloading-video-chatting-app/"><u>Get Started With Tango - Step-by-Step Instructions For Downloading Video Chatting App</u></a></li>
+<li><a href="https://article-tips.techidaily.com/hdmi-display-showdown-the-creme-de-la-creme-monitors/"><u>HDMI Display Showdown The Crème De La Crème Monitors</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-find-and-install-logitech-g403-mouse-software-on-your-pc/"><u>How to Find and Install Logitech G403 Mouse Software on Your PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-realme-c51-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Realme C51 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-a2-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo A2 FRP?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-idevice-software-challenges-tips-for-successful-ios-upgrades/"><u>Solving iDevice Software Challenges: Tips for Successful iOS Upgrades</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-6-essential-iphone-apps-for-restoring-lost-contact-information/"><u>Top 6 Essential iPhone Apps for Restoring Lost Contact Information</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-the-top-6-iphone-apps-to-restore-your-lost-memories/"><u>Ultimate Guide: The Top 6 iPhone Apps to Restore Your Lost Memories</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-the-viral-potential-of-your-instagram-unboxing-content-for-2024/"><u>Unleash the Viral Potential of Your Instagram Unboxing Content for 2024</u></a></li>
+</ul></div>
+

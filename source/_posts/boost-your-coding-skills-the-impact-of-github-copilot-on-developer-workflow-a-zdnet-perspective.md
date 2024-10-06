@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Coding Skills: The Impact of GitHub Copilot on Developer Workflow - A ZDNet Perspective"
-date: 2024-09-18 14:38:36
-updated: 2024-09-20 10:40:39
+date: 2024-10-04T16:28:44.307Z
+updated: 2024-10-06T16:22:41.095Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-get-rid-of-youtube-shorts-a-comprehensible-guide/"><u>[Updated] Get Rid of YouTube Shorts A Comprehensible Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-jaunt-vr-landscape/"><u>2024 Approved Navigating the Jaunt VR Landscape</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-sound-surprises-10-androidios-audio-twisters/"><u>2024 Approved Sound Surprises 10 Android/iOS Audio Twisters</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-efficiency-a-comprehensive-guide-to-essential-productivity-apps-and-techniques-for-streamlining-your-day-to-day-job/"><u>Boosting Efficiency: A Comprehensive Guide to Essential Productivity Apps & Techniques for Streamlining Your Day-to-Day Job</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-software-development-success-with-agile-awareness-explore-6-key-principles/"><u>Boosting Software Development Success with Agile Awareness: Explore 6 Key Principles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/chrome-os-and-microsoft-unite-seamlessly-running-windows-apps-on-chromebooks-zdnet/"><u>Chrome OS and Microsoft Unite: Seamlessly Running Windows Apps on Chromebooks | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-power-of-ai-introducing-openshift-lightspeed-by-red-hat-the-ultimate-solution-for-kubernetes-administrators/"><u>Discover the Power of AI: Introducing OpenShift Lightspeed by Red Hat – The Ultimate Solution for Kubernetes Administrators</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-let-your-windows-1-be-left-in-the-lurch-discover-your-five-options-before-support-concludes-zdnet-insight/"><u>Don't Let Your Windows 지정 1 컴퓨터 Be Left in the Lurch - Discover Your Five Options Before Support Concludes | ZDNet Insight</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-out-if-you-can-access-microsoft-word-for-zero-cost-the-full-story/"><u>Find Out if You Can Access Microsoft Word for Zero Cost – The Full Story</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-oneplus-nord-ce-3-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on OnePlus Nord CE 3 5G?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-srgb-standardization-versus-classic-rgb-model/"><u>In 2024, Srgb Standardization Versus Classic Rgb Model</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mimo-systems/"><u>MIMO Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-14-pro-max-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-console-conundrum-upgrading-to-the-future-with-ps5/"><u>The Console Conundrum: Upgrading to the Future with PS5?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-mind-mapping-tools-and-applications-a-comprehensive-review-by-zdnet/"><u>Top 5 Mind Mapping Tools & Applications : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-tutorial-on-connecting-apples-earbuds-to-a-macbook-pro-or-air/"><u>Ultimate Tutorial on Connecting Apple's Earbuds to a MacBook Pro or Air</u></a></li>
+</ul></div>
+

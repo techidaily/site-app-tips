@@ -1,7 +1,7 @@
 ---
 title: Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News
-date: 2024-09-29T10:14:12.411Z
-updated: 2024-09-30T22:54:04.563Z
+date: 2024-09-30T18:23:22.343Z
+updated: 2024-10-06T16:17:42.367Z
 tags:
   - password-manager
 categories:
@@ -82,29 +82,23 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-ultimate-fb-video-player-guide-top-picks-listed-for-2024/"><u>[Updated] Ultimate FB Video Player Guide Top Picks Listed for 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/abbyy-announces-smart-data-entry-solution-on-uipath-go-platform/"><u>ABBYY Announces Smart Data Entry Solution on UiPath GO Platform</u></a></li>
-<li><a href="https://app-tips.techidaily.com/authentic-evaluation-discovering-the-power-of-lightcut-ai-video-editing-app-on-android-and-ios/"><u>Authentic Evaluation: Discovering the Power of LightCut AI Video Editing App on Android and iOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-app-lock-replacements-for-android-the-top-10-picks/"><u>Best App Lock Replacements for Android : The Top 10 Picks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-value-video-doorbells-unveiling-the-features-of-remobell-for-less-than-100/"><u>Best Value Video Doorbells: Unveiling the Features of RemoBell for Less Than $100</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-bluestacks-unveiling-all-the-essentials/"><u>Comprehensive Guide to BlueStacks: Unveiling All the Essentials</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-analyzing-the-features-of-picku-app-and-its-affordable-photoshop-substitutes/"><u>Comprehensive Guide: Analyzing the Features of PickU App and Its Affordable Photoshop Substitutes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-on-converting-gif-files-to-apng-format-with-software-such-as-ezgif-and-aiseesoft/"><u>Comprehensive Tutorial on Converting GIF Files to APNG Format with Software Such as Ezgif & Aiseesoft</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/experience-the-next-wave-watching-fb-live-on-roku/"><u>Experience the Next Wave Watching FB Live on Roku</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-ultimate-5-choices-of-wi-fi-based-chat-applications-for-effortless-texting-online/"><u>Exploring the Ultimate 5 Choices of Wi-Fi Based Chat Applications for Effortless Texting Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-selection-budget-friendly-4k-cameras-(1k/"><u>In 2024, Ultimate Selection Budget-Friendly 4K Cameras <$1K</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/itel-s23plus-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel S23+ Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-pick-top-10-streamers-for-cutting-edge-tv-content/"><u>Prime Pick Top 10 Streamers for Cutting-Edge TV Content</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/superior-cinematic-introductions-set/"><u>Superior Cinematic Introductions Set</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-full-simplemdm-must-know-reviews-for-your-ios-and-mac-experience/"><u>Unveiling Full SimpleMDM: Must-Know Reviews for Your iOS and Mac Experience</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-youcut-software-for-your-business-needs-the-complete-analysis/"><u>Unveiling the Power of YouCut Software for Your Business Needs - The Complete Analysis</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-blurring-videos-online-for-free-updated-2023/"><u>Updated 2024 Approved The Ultimate Guide to Blurring Videos Online for Free (Updated 2023)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-mighty-thor-returns-odins-vow/"><u>[Updated] In 2024, Mighty Thor Returns Odin’s Vow</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-revolutionary-tactics-for-enhanced-roi-in-animated-facebook-advertising/"><u>[Updated] In 2024, Revolutionary Tactics for Enhanced ROI in Animated Facebook Advertising</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-speed-change-audio-utilities-list/"><u>[Updated] Leading Speed-Change Audio Utilities List</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-powered-eco-friendly-smart-home-innovations-by-company-name-insights-from-zdnet/"><u>AI-Powered Eco-Friendly Smart Home Innovations by [Company Name]: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/equip-your-leaders-with-ai-knowledge-the-essential-step-highlighted-by-zdnet/"><u>Equip Your Leaders with AI Knowledge - The Essential Step Highlighted by ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-shadows-an-in-depth-bloodborne-video-game-analysis/"><u>Exploring the Shadows: An In-Depth Bloodborne Video Game Analysis</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-network-card-drivers-on-windows-7-step-by-step-solution-walkthrough/"><u>Fixing Network Card Drivers on Windows 7 – Step-by-Step Solution Walkthrough</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovative-solutions-how-this-firms-ai-powered-tech-enhances-eco-friendly-smart-home-devices-insights-from-zdnet/"><u>Innovative Solutions: How This Firm's AI-Powered Tech Enhances Eco-Friendly Smart Home Devices - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-obsolescence-of-manual-coding-embracing-ais-advanced-role-in-modern-software-creation-zdnet/"><u>The Obsolescence of Manual Coding: Embracing AI's Advanced Role in Modern Software Creation | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-best-messaging-app-games-for-iphone-users/"><u>The Ultimate List: Best Messaging App Games for iPhone Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-how-open-source-draws-in-global-tech-pioneers-insights-from-zdnet/"><u>Unveiling How Open Source Draws in Global Tech Pioneers: Insights From ZDNet</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

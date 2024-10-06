@@ -1,7 +1,7 @@
 ---
 title: Adapting Office Gadgets for the Age of Artificial Intelligence | ZDNET
-date: 2024-09-18 14:21:31
-updated: 2024-09-20 11:19:57
+date: 2024-10-05T18:05:50.850Z
+updated: 2024-10-06T16:28:43.078Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-the-power-of-instagram-stories-with-this-essential-guide/"><u>[New] Unlocking the Power of Instagram Stories with This Essential Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-first-steps-in-filmmaking-mastering-key-camera-techniques/"><u>2024 Approved First Steps in Filmmaking Mastering Key Camera Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-xps-movie-magic-software-essentials/"><u>2024 Approved Unlock XP's Movie Magic Software Essentials</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-itel-p55t-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Itel P55T Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-3ds-emulator-apps-top-picks-for-windows-mac-ios-and-android/"><u>Best Free 3DS Emulator Apps: Top Picks for Windows, Mac, iOS & Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/endless-interruptions-a-complete-guide-to-stopping-unsolicited-calls-on-your-smartphone/"><u>Endless Interruptions: A Complete Guide to Stopping Unsolicited Calls on Your Smartphone</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-and-mouse-failure-windows-11-sleep-troubleshoot/"><u>Keyboard & Mouse Failure: Windows 11 Sleep Troubleshoot</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-edition-the-ultimate-guide-to-final-cut-pro-x-keyboard-shortcuts-40-must-knows-for-2024/"><u>New Edition The Ultimate Guide to Final Cut Pro X Keyboard Shortcuts (40 Must-Knows) for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/surviving-the-chaos-fixing-issues-in-the-ios-18-photos-app-a-guide-for-apple/"><u>Surviving the Chaos: Fixing Issues in the iOS 18 Photos App - A Guide for Apple</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/switching-protonvpn-email-in-browser-and-spotting-the-real-chatgpt-on-windows/"><u>Switching ProtonVPN Email in Browser & Spotting the Real ChatGPT on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/topping-out-chatgpt-tokens-possibilities/"><u>Topping Out ChatGPT Tokens: Possibilities?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-15-health-and-fitness-apps-compatible-with-apple-and-android-phones/"><u>Ultimate Selection of 15 Health and Fitness Apps Compatible with Apple & Android Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-the-mystery-of-the-bnsf-emulator-thorough-assessment-and-interpretation/"><u>Unraveling the Mystery of the BNSF Emulator: Thorough Assessment and Interpretation</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Innovating AI Research - Breaking Free From Conventional LLM Approaches
-date: 2024-09-17 20:14:24
-updated: 2024-09-20 10:58:34
+date: 2024-09-29T18:57:17.264Z
+updated: 2024-10-06T16:44:36.319Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +184,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-delve-into-the-art-of-text-animation-14-stunning-examples/"><u>[Updated] 2024 Approved Delve Into the Art of Text Animation 14 Stunning Examples</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-youtube-financial-framework-for-content-creators/"><u>[Updated] In 2024, The Ultimate YouTube Financial Framework for Content Creators</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-step-by-step-guide-to-mastering-windows-media-player-for-cd-management-for-2024/"><u>[Updated] Step-by-Step Guide to Mastering Windows Media Player for CD Management for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-graphical-grandeur-radeons-return/"><u>2024 Approved Graphical Grandeur Radeon's Return</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-as-a-savior-for-overworked-it-staff-mitigating-job-burnout-and-alert-fatigue-insights/"><u>AI as a Savior for Overworked IT Staff - Mitigating Job Burnout and Alert Fatigue Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-revolution-exploring-how-generative-technology-could-increase-the-volume-of-work-tech-insights-on-zdnet/"><u>AI Revolution: Exploring How Generative Technology Could Increase the Volume of Work | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-points-exploring-how-generative-artificial-intelligence-is-revolutionizing-user-interface-design-featured-on-zdnet/"><u>Beyond Clicks & Points: Exploring How Generative Artificial Intelligence Is Revolutionizing User Interface Design | Featured on ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-modern-warfare-stability-improvements-for-uninterrupted-gaming/"><u>Call of Duty: Modern Warfare Stability Improvements for Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-worlds-most-popular-sites-facebook-twitter-instagram-youtube-unveiled/"><u>Discover the World's Most Popular Sites: Facebook, Twitter, Instagram, YouTube Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-audacity-over-convenience-bank-cios-call-to-elevate-ai-challenges-dismiss-lazy-prompt-creation-exclusive-on-zdnet/"><u>Embracing Audacity Over Convenience: Bank CIO's Call to Elevate AI Challenges, Dismiss Lazy Prompt Creation - Exclusive on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-opportunities-for-new-players-in-the-ai-model-development-arena-insights-from-zdnet/"><u>Exploring Opportunities for New Players in the AI Model Development Arena - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-nord-3-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast OnePlus Nord 3 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-how-to-save-a-gif-from-twitter-on-iphone-and-android/"><u>In 2024, How to Save a GIF From Twitter on iPhone and Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-web-hosting-providers-in-depth-analysis-by-professionals-pcmag/"><u>Leading Web Hosting Providers : In-Depth Analysis by Professionals | PCMag</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-ai-limitations-an-in-depth-look-at-precision-challenges-by-zdnet/"><u>Mastering AI Limitations: An In-Depth Look at Precision Challenges by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-digital-defense-the-urgent-call-for-enhanced-cybersecurity-expertise-amidst-legacy-system-challenges/"><u>Navigating the Digital Defense: The Urgent Call for Enhanced Cybersecurity Expertise Amidst Legacy System Challenges</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-path-to-becoming-a-chief-artificial-intelligence-officer-insights-and-strategies/"><u>Navigating the Path to Becoming a Chief Artificial Intelligence Officer | Insights & Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-steps-for-260cis-wireless-imaging-device-usb-errors/"><u>Troubleshooting Steps for 260Ci's Wireless Imaging Device USB Errors</u></a></li>
+</ul></div>
+

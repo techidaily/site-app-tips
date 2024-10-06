@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Here: Exploring the Cutting-Edge of 5G and Edge Computing Innovations | Highlights by ZDNET"
-date: 2024-09-18 23:26:17
-updated: 2024-09-20 12:32:32
+date: 2024-09-29T17:07:35.847Z
+updated: 2024-10-06T17:00:49.865Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-are-opinions-on-goods-compensated-in-videos/"><u>[New] Are Opinions on Goods Compensated in Videos?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-media-channels-for-youtube-popularity/"><u>[New] Optimal Media Channels for YouTube Popularity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-techniques-to-purge-background-from-photos-using-photopea/"><u>[New] Techniques to Purge Background From Photos Using Photopea</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-settings-youtube-comments-activation/"><u>2024 Approved Navigating the Settings YouTube Comments Activation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-chatbot-bias-revealed-lingual-limitations-highlighted-by-new-stanford-research-insights-on-googles-language-barrier/"><u>AI Chatbot Bias Revealed: Lingual Limitations Highlighted by New Stanford Research - Insights on Google's Language Barrier</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asean-countries-set-to-boost-digital-market-with-stronger-regulations-reaching-2t-growth-by-2030-insights-from-zdnet/"><u>ASEAN Countries Set to Boost Digital Market with Stronger Regulations, Reaching $2T Growth by 2030 - Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/banking-industry-leader-urges-innovative-thinking-over-easy-solutions-in-artificial-intelligence-insights-from-a-top-cio-zdnet/"><u>Banking Industry Leader Urges Innovative Thinking Over Easy Solutions in Artificial Intelligence - Insights From a Top CIO | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-point-and-click-the-transformation-of-ui-with-generative-artificial-intelligence/"><u>Beyond Point-and-Click: The Transformation of UI with Generative Artificial Intelligence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808042050-effortlessly-update-usb-drivers-across-windows-10-7-8-and-81-with-these-easy-tips/"><u>Effortlessly Update USB Drivers Across Windows 10, 7, 8 & 8.1 with These Easy Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/future-of-service-delivery-mastering-agent-ecosystems-in-the-age-of-ai/"><u>Future of Service Delivery: Mastering Agent Ecosystems in the Age of AI</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-generative-ai-could-increase-labor-demand-despite-efficiency-promises-insights-from-zdnet/"><u>How Generative AI Could Increase Labor Demand Despite Efficiency Promises: Insights From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-smart-8-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Smart 8 Pro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-advanced-livestream-software-arsenal/"><u>In 2024, Advanced Livestream Software Arsenal</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-shift-how-generative-ai-is-carving-out-unique-leadership-roles-at-tech-giants-zdnet/"><u>Navigating the Shift: How Generative AI Is Carving Out Unique Leadership Roles at Tech Giants | ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-hybrid-card-problem-in-win11/"><u>Overcoming Hybrid Card Problem in Win11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rising-costs-the-increasing-price-of-apple-battery-replacement-services/"><u>Rising Costs: The Increasing Price of Apple Battery Replacement Services</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-challenges-of-integrating-agile-and-ai-development-key-findings-revealed-by-new-study-innovationhub/"><u>The Challenges of Integrating Agile and AI Development – Key Findings Revealed by New Study | InnovationHub</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Unveiling Linus Torvalds' Use of Rust for Linux Development and Life Routines with M2 MacBook Air | Insights From ZDNet Interview
-date: 2024-09-19 22:37:13
-updated: 2024-09-20 11:40:30
+date: 2024-09-29T16:27:10.964Z
+updated: 2024-10-06T18:46:18.659Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,28 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-list-best-ps5-external-storage-solutions/"><u>[Updated] In 2024, Ultimate List Best PS5 External Storage Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/10-best-ai-chatbot-tools-that-will-transform-how-you-communicate/"><u>10 Best AI Chatbot Tools That Will Transform How You Communicate</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-vivo-y02t-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Vivo Y02T Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-hotkeys-for-pre-text-snip-pasting-in-w10w11/"><u>Efficient Hotkeys for Pre-Text Snip Pasting in W10/W11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevenlabs-generative-voice-ai-vs-competitors-an-informed-review/"><u>ElevenLabs Generative Voice AI Vs. Competitors: An Informed Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-seamless-conversations-with-chat-gpt-expert-insights-and-review-on-the-leading-ai-bot-in-chat-technology/"><u>Experience Seamless Conversations with Chat GPT: Expert Insights and Review on the Leading AI Bot in Chat Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-elevenlabs-generative-voice-ai-and-similar-alternatives-on-the-market/"><u>Exploring ElevenLabs Generative Voice AI and Similar Alternatives on the Market</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-realtek-digital-output-sound-problem-and-restore-audio-functionality/"><u>How to Resolve Realtek Digital Output Sound Problem and Restore Audio Functionality</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-decoding-why-your-facebook-messages-dont-share-videos-androidios/"><u>In 2024, Decoding Why Your Facebook Messages Don't Share Videos (Android/iOS)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-chatgpt-204-analysis-comprehensive-overview-capabilities-and-debugging-internal-server-errors/"><u>In-Depth ChatGPT 2#04 Analysis: Comprehensive Overview, Capabilities, and Debugging Internal Server Errors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-review-is-inshot-the-editors-choice/"><u>In-Depth Review Is InShot The Editor's Choice?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplify-windows-driver-update-intel-3000-edition/"><u>Simplify Windows Driver Update: Intel 3000 Edition</u></a></li>
+</ul></div>
+

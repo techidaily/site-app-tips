@@ -1,7 +1,7 @@
 ---
 title: "How Design Thinking Bridges the Gap Between Technology Professionals and Enhancing Customer Experiences: Insights From ZDNet"
-date: 2024-09-17 15:32:13
-updated: 2024-09-20 11:15:54
+date: 2024-10-01T17:29:49.821Z
+updated: 2024-10-06T16:27:03.513Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-leading-8-flawless-recorder-picks/"><u>[Updated] Leading 8 Flawless Recorder Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-otter-team-edition-unveiled-revolutionize-remote-collaboration-with-adaptive-live-meeting-transcriptions-zdnet-insights/"><u>1. Otter Team Edition Unveiled: Revolutionize Remote Collaboration with Adaptive Live Meeting Transcriptions - ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/crowdstrikes-cto-warns-generative-ai-emerges-as-a-major-threat-to-business-security/"><u>CrowdStrike's CTO Warns: Generative AI Emerges as a Major Threat to Business Security</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/excel-expert-advice-crafting-a-user-friendly-drop-down-list-in-minutes-with-zdnets-strategies/"><u>Excel Expert Advice: Crafting a User-Friendly Drop-Down List in Minutes with ZDNet's Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-ai-rust-language-with-linus-torvalds-why-the-linux-core-reigns-supreme-tech-insights/"><u>Exploring AI, Rust Language with Linus Torvalds: Why the Linux Core Reigns Supreme | Tech Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-interaction-failures-in-new-windows-11-os/"><u>Fixing Interaction Failures in New Windows 11 OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723807910471-fixing-the-issue-of-sluggish-startup-on-windows-1011-solutions-inside/"><u>Fixing the Issue of Sluggish Startup on Windows 10/11 - Solutions Inside</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-12-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi 12 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-windows-11-pcs-after-end-of-support-discover-5-key-strategies-revealed-by-zdnet/"><u>Navigating the Future of Windows 11 PCs After End-of-Support: Discover 5 Key Strategies Revealed by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-steep-path-to-update-ubuntu-2404-insights-from-zdnet/"><u>Navigating the Steep Path to Update Ubuntu 24.04 - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/push-boundaries-in-filmmaking-with-these-essential-color-grades/"><u>Push Boundaries in Filmmaking with These Essential Color Grades</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-strategies-to-integrate-chatgpt-in-your-3d-printing-workflow/"><u>Step-by-Step Strategies to Integrate ChatGPT in Your 3D Printing Workflow</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-the-best-virtual-meeting-software-forbes-tech-council/"><u>The Ultimate Guide to the Best Virtual Meeting Software - Forbes Tech Council</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-communication-overcoming-iphone-do-not-disturb-for-texts-and-voice-calls/"><u>Unlocking Communication: Overcoming iPhone Do Not Disturb for Texts and Voice Calls</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-how-top-innovators-flock-to-open-source-projects-insights-from-zdnet/"><u>Unveiling How Top Innovators Flock to Open-Source Projects - Insights From ZDNet</u></a></li>
+</ul></div>
+

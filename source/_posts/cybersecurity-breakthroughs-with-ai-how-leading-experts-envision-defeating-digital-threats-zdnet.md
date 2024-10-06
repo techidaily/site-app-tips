@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity Breakthroughs with AI: How Leading Experts Envision Defeating Digital Threats | ZDNet"
-date: 2024-09-17 16:53:10
-updated: 2024-09-20 12:18:44
+date: 2024-10-02T16:05:11.495Z
+updated: 2024-10-06T16:00:12.689Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,28 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-swift-and-free-eradicate-red-eye-in-iphone-photography-tips/"><u>[Updated] 2024 Approved Swift and FREE Eradicate Red-Eye in iPhone Photography Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-cyber-conference-capture-for-2024/"><u>[Updated] Cyber Conference Capture for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-techniques-to-pull-facebook-videos-easily-for-2024/"><u>[Updated] Techniques to Pull Facebook Videos Easily for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/365-as-revealed-by-zdnet/"><u>365, as Revealed by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-end-of-mainstream-windows-11-support-soon-explore-your-5-last-resort-options-now/"><u>Facing the End of Mainstream Windows 11 Support Soon? Explore Your 5 Last Resort Options Now!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breathing-life-into-bios-a-zodiac-perspective/"><u>In 2024, Breathing Life Into Bios A Zodiac Perspective</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-wmv-video-joining-made-easy-top-free-software/"><u>New In 2024, WMV Video Joining Made Easy Top Free Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-main-lobe-or-beam-represents-the-direction-in-which-an-antenna-radiates-most-of-its-energy-a-highly-directive-antenna-has-a-narrow-main-lobe/"><u>The Main Lobe, or Beam, Represents the Direction in Which an Antenna Radiates Most of Its Energy; a Highly Directive Antenna Has a Narrow Main Lobe.</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/top-10-online-sources-for-accessible-ding-tone-audio-files-for-2024/"><u>Top 10 Online Sources for Accessible Ding Tone Audio Files for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/top-rated-dvd-to-mp4-converter-for-windows-11-streamline-your-media-transformation/"><u>Top Rated DVD to MP4 Converter for Windows 11 : Streamline Your Media Transformation!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-secrets-of-successful-virtual-workspaces-embracing-anonymity-zdnet/"><u>Unveiling Secrets of Successful Virtual Workspaces: Embracing Anonymity | ZDNET</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-seamless-storytelling-3-transition-techniques-for-final-cut-pro/"><u>Updated In 2024, Seamless Storytelling 3 Transition Techniques for Final Cut Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-update-microsoft-faces-major-challenges-with-windows-11-just-one-year-left/"><u>Urgent Update: Microsoft Faces Major Challenges with Windows 11 - Just One Year Left!</u></a></li>
+</ul></div>
+

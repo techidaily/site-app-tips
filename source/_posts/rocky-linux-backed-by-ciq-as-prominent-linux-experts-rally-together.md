@@ -1,7 +1,7 @@
 ---
 title: Rocky Linux Backed by CIQ as Prominent Linux Experts Rally Together
-date: 2024-09-17 12:39:38
-updated: 2024-09-20 12:25:14
+date: 2024-10-05T18:27:10.463Z
+updated: 2024-10-06T16:53:42.340Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,24 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-voice-capture-device-analysis-for-2024/"><u>[Updated] Voice Capture Device Analysis for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-ultimate-list-of-excellent-4k-cameras/"><u>2024 Approved Ultimate List of Excellent 4K Cameras</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-stunning-hdr-portraits-step-by-step-instructions/"><u>Capturing Stunning HDR Portraits Step-by-Step Instructions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/convenient-hp-recording-strategies-for-seamless-productivity-for-2024/"><u>Convenient HP Recording Strategies for Seamless Productivity for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-uncharted-territory-the-emergence-of-innovative-yet-to-be-named-careers-in-the-age-of-artifice-intelligence/"><u>Exploring Uncharted Territory: The Emergence of Innovative, Yet-to-Be-Named Careers in the Age of Artifice Intelligence</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-8-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 8 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-asymmetry-of-todays-live-tech-evolution-a-deep-dive-zdnet/"><u>Navigating the Asymmetry of Today's Live Tech Evolution: A Deep Dive | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-future-with-ai-agent-ecosystems-how-theyll-reshape-services-expert-analysis-by-zdnet/"><u>Navigating the Future with AI 'Agent Ecosystems': How They'll Reshape Services | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-generative-ais-key-hurdle-demonstrating-tangible-returns-on-investment-insights-from-zdnet/"><u>Unveiling Generative AI's Key Hurdle: Demonstrating Tangible Returns on Investment – Insights From ZDNet</u></a></li>
+</ul></div>
+

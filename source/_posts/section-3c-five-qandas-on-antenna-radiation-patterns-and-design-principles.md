@@ -1,7 +1,7 @@
 ---
 title: "Section 3C: Five Q&As on Antenna Radiation Patterns and Design Principles"
-date: 2024-09-17 10:58:48
-updated: 2024-09-20 11:55:47
+date: 2024-10-02T18:35:32.791Z
+updated: 2024-10-06T16:19:54.019Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-gently-reducing-sound-levels-in-operating-systems-for-2024/"><u>[New] Gently Reducing Sound Levels in Operating Systems for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-beginners-guide-to-youtube-image-sharing/"><u>[New] The Beginner's Guide to YouTube Image Sharing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-musical-enhancements-for-social-video-sharing-platforms-fb/"><u>2024 Approved Musical Enhancements for Social Video Sharing Platforms (FB)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-simplifying-the-complex-an-in-depth-review-of-vida-app/"><u>2024 Approved Simplifying the Complex An In-Depth Review of Vida App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amazon-introduces-revolutionary-ai-performance-metric-the-next-gen-rag-system-unveiled-by-zdnet/"><u>Amazon Introduces Revolutionary AI Performance Metric: The Next-Gen RAG System Unveiled by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apples-leap-into-advanced-cybersecurity-an-inside-look-at-the-new-os-designed-for-artificial-intelligence-data-centers/"><u>Apple's Leap Into Advanced Cybersecurity: An Inside Look at the New OS Designed for Artificial Intelligence Data Centers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/decoding-servicenows-core-ai-tenets-essential-strategies-that-propel-corporate-innovation-zdnet/"><u>Decoding ServiceNow’s Core AI Tenets: Essential Strategies That Propel Corporate Innovation | ZDNET</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easily-troubleshoot-and-solve-discord-overlay-errors-today/"><u>Easily Troubleshoot and Solve Discord Overlay Errors Today!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhanced-visual-content-incorporate-bb-overlays-in-fb-video-frames/"><u>Enhanced Visual Content Incorporate BB Overlays in FB Video Frames</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exceptional-facial-editing-software-iphoneandroid/"><u>Exceptional Facial Editing Software, iPhone/Android</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-camon-20-pro-5g-by-fonelab-android-recover-video/"><u>How to recover old videos from your Camon 20 Pro 5G</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-get-laughter-in-minutes-install-and-revel-in-ifunnys-meme-world/"><u>In 2024, Get Laughter in Minutes Install and Revel in iFunny's Meme World</u></a></li>
+<li><a href="https://app-tips.techidaily.com/scaling-your-business-with-anthropics-revolutionary-claude-enterprise-unleashing-ai-power-on-a-massive-scale-zdnet/"><u>Scaling Your Business with Anthropic's Revolutionary Claude Enterprise: Unleashing AI Power on a Massive Scale | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/snowflake-unveils-advanced-llm-surpassing-metas-llama-3-with-reduced-training-data-tech-news/"><u>Snowflake Unveils Advanced LLM Surpassing Meta's LLaMA 3 with Reduced Training Data | Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-chaos-in-linux-and-open-source-manuals-uncovering-organized-solutions/"><u>Taming Chaos in Linux & Open Source Manuals: Uncovering Organized Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-expanding-low-codeno-code-landscape-how-its-reshaping-tech-job-roles-insights-from-zdnet/"><u>The Expanding Low-Code/No-Code Landscape: How It's Reshaping Tech Job Roles – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-linux-education-programs-training-and-bootcamp-overviews-from-leading-sources/"><u>Top-Ranked Linux Education Programs: Training and Bootcamp Overviews From Leading Sources</u></a></li>
+</ul></div>
+

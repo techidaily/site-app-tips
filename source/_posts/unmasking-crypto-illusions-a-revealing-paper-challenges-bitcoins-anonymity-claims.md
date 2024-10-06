@@ -1,7 +1,7 @@
 ---
 title: "Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims"
-date: 2024-09-27T23:24:33.344Z
-updated: 2024-09-30T19:02:14.611Z
+date: 2024-10-05T17:49:12.535Z
+updated: 2024-10-06T16:47:19.390Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -61,16 +61,10 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -127,22 +121,20 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/rafting-engaging-youtube-videos-using-finalcut-pro-expertise-for-2024/"><u>[New] Crafting Engaging YouTube Videos Using FinalCut Pro Expertise for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-creation-to-consumption-igtv-vs-youtube-explained-for-you-for-2024/"><u>[New] From Creation to Consumption IGTV Vs. YouTube Explained for You for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-video-upload-your-guide-to-igtv/"><u>[New] Mastering Video Upload Your Guide to IGTV</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-essential-knowledge-for-instagram-success-a-guide-to-behind-the-scenes-metrics/"><u>[Updated] In 2024, Essential Knowledge for Instagram Success A Guide to Behind-the-Scenes Metrics</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-liberate-yourself-with-free-movie-player-software/"><u>2024 Approved Liberate Yourself with FREE MOVIE PLAYER Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-magic-the-best-grid-tools-ranked/"><u>2024 Approved Photographic Magic - The Best Grid Tools Ranked</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-iphone-data-rescue-tools-how-to-get-back-deleted-files-securely/"><u>Best iPhone Data Rescue Tools: How to Get Back Deleted Files Securely</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-fun-and-trending-facebook-messenger-stickers-now/"><u>Download Fun & Trending Facebook Messenger Stickers Now</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-quadro-rtx-6000-drivers-now/"><u>Get Quadro RTX 6000 Drivers Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-capture-on-xbox-consoles/"><u>Mastering the Art of Image Capture on Xbox Consoles</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revive-vintage-memories-top-3-tools-for-upgrading-your-aged-photographs/"><u>Revive Vintage Memories: Top 3 Tools for Upgrading Your Aged Photographs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-free-gif-creation-tools-the-best-mobile-apps-for-android-and-ios/"><u>Top 10 Free GIF Creation Tools: The Best Mobile Apps for Android & iOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-iphone-spyware-apps-unbeatable-options-for-covert-tracking/"><u>Top Rated iPhone Spyware Apps: Unbeatable Options for Covert Tracking</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-navigation-apps-on-android-discover-the-best-free-options/"><u>Top-Ranked Navigation Apps on Android: Discover the Best Free Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008406611-unlocking-new-adventures-celebrate-the-arrival-of-it-takes-two-on-screen/"><u>Unlocking New Adventures: Celebrate the Arrival of 'It Takes Two' On Screen!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unraveling-vsco-a-detailed-review-with-benefits-drawbacks-comparisons-and-best-alternatives/"><u>Unraveling VSCO: A Detailed Review with Benefits, Drawbacks, Comparisons, and Best Alternatives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-metavision-journey-essential-gear-for-metaverse-visitors/"><u>[New] Metavision Journey Essential Gear for Metaverse Visitors</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-ace-your-videos-essential-editors-for-youtube/"><u>[Updated] Ace Your Videos Essential Editors for YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-post-production-hues-with-expertise/"><u>[Updated] Navigating Post-Production Hues with Expertise</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-21-zedge-mobile-applications-premium-sounds-and-images-for-android-and-ios-devices/"><u>Best 21 Zedge Mobile Applications: Premium Sounds and Images for Android and iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/colorcorrect-pro-unveiling-the-premier-ios-app-for-professional-quality-video-edits/"><u>ColorCorrect Pro: Unveiling the Premier iOS App for Professional-Quality Video Edits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-instructions-on-how-to-exit-your-account-in-facebook-messenger/"><u>Easy Instructions on How to Exit Your Account in Facebook Messenger</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-infinix-note-30-vip-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Infinix Note 30 VIP Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-wise-to-choose-auto-gpt-when-gpt-4-is-on-horizon/"><u>Is It Wise to Choose Auto-GPT When GPT-4 Is on Horizon?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectify-kernel-usb-error/"><u>Rectify Kernel USB Error</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-solution-effective-ways-to-repair-your-facebook-messaging-app-when-it-stops-working/"><u>Step-by-Step Solution: Effective Ways to Repair Your Facebook Messaging App When It Stops Working</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-18-most-popular-emoji-apps-for-iphones-and-android-phones/"><u>The Ultimate List of the 18 Most Popular Emoji Apps for iPhones and Android Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192562-transform-your-ebook-with-confidence-the-ultimate-7-step-process-for-converting-epub-to-txt-now-working-flawlessly/"><u>Transform Your eBook with Confidence: The Ultimate 7-Step Process for Converting ePub to TXT - Now Working Flawlessly!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-top-5-must-have-gif-creators-for-android-devices/"><u>Ultimate Guide: Top 5 Must-Have GIF Creators for Android Devices</u></a></li>
 </ul></div>
 

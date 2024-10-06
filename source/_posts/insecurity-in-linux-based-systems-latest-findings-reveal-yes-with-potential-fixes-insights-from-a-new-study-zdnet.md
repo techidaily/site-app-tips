@@ -1,7 +1,7 @@
 ---
 title: "Insecurity in Linux-Based Systems: Latest Findings Reveal Yes with Potential Fixes - Insights From a New Study | ZDNet"
-date: 2024-09-18 19:45:11
-updated: 2024-09-20 10:50:43
+date: 2024-10-04T16:57:44.123Z
+updated: 2024-10-06T17:29:14.991Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-stream-success-beginners-roadmap-for-2024/"><u>[New] Twitter Stream Success Beginner's Roadmap for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-best-child-safe-cameras-for-first-time-vloggers-and-puddles/"><u>[Updated] The Best Child-Safe Cameras For First-Time Vloggers & Puddles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-winning-brands-over-strategies-for-effective-youtube-product-sponsorship/"><u>2024 Approved Winning Brands Over Strategies for Effective YouTube Product Sponsorship</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-conversational-ai-like-chatgpt-jeopardizing-personal-data-security/"><u>Is Conversational AI Like ChatGPT Jeopardizing Personal Data Security?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-output-with-expert-tips-and-tools-mastering-daily-workflow-management-zdnet/"><u>Maximize Output with Expert Tips and Tools: Mastering Daily Workflow Management | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-tech-less-territory-the-essential-impact-of-it-experts-on-cutting-edge-non-tech-firms-zdnet/"><u>Navigating Tech-Less Territory: The Essential Impact of IT Experts on Cutting-Edge Non-Tech Firms | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-kubernetes-environment-with-codenotarys-new-sbom-offering-as-featured-on-zdnet/"><u>Secure Your Kubernetes Environment with Codenotary’s New SBOM Offering, as Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-upgrading-your-system-from-linux-mint-to-the-latest-version/"><u>Step-by-Step Guide: Upgrading Your System From Linux Mint to the Latest Version</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stepping-up-your-system-a-comprehensive-guide-on-transitioning-from-windows-home-to-professional-insights-and-benefits/"><u>Stepping Up Your System: A Comprehensive Guide on Transitioning From Windows Home to Professional - Insights and Benefits</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-key-trackers-a-comprehensive-review/"><u>Top-Rated Key Trackers : A Comprehensive Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-on-transitioning-from-windows-home-edition-to-the-advanced-pro-variant/"><u>Ultimate Tutorial on Transitioning From Windows Home Edition to the Advanced Pro Variant</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unlocking-the-potential-of-videoleaps-zoom-functionality/"><u>Unlocking the Potential of VideoLeap's Zoom Functionality</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Unveiling How Top Innovators Flock to Open-Source Projects - Insights From ZDNet
-date: 2024-09-19 18:46:24
-updated: 2024-09-20 10:15:19
+date: 2024-10-03T17:41:37.429Z
+updated: 2024-10-06T18:58:34.886Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-cut-screen-claims-is-splitcam-supreme/"><u>[New] 2024 Approved Cut Screen Claims Is SplitCam Supreme?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-direct-download-and-mp3-creation-for-streaming-video-files/"><u>[New] 2024 Approved Direct Download & MP3 Creation for Streaming Video Files</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-syma-x5c-insights-choosing-the-best-drone-for-aviation-rookies/"><u>[New] In 2024, Syma X5C Insights Choosing the Best Drone for Aviation Rookies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-profit-power-for-the-uninitiated-top-13-income-tips-on-reddit-for-2024/"><u>[New] Profit Power for the Uninitiated! Top 13 Income Tips on Reddit for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-rapid-routines-sending-photos-from-iphone-to-computer/"><u>2024 Approved Rapid Routines Sending Photos From iPhone to Computer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-enhanced-functionality-in-windows-11s-most-recent-update-tech-news-zdnet/"><u>Discover the Enhanced Functionality in Windows 11'S Most Recent Update | Tech News - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-businesses-through-xr-virtual-replicas-and-immersive-computing-for-enhanced-user-experience-zdnet/"><u>Empowering Businesses Through XR, Virtual Replicas, and Immersive Computing for Enhanced User Experience | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-protection-juniper-networks-integrates-advanced-cloud-firewall-into-its-comprehensive-sase-offerings-on-zdnet/"><u>Expanding Protection: Juniper Networks Integrates Advanced Cloud Firewall Into Its Comprehensive SASE Offerings on ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-recommendations-top-8-free-srt-apps-reviewed/"><u>Expert Recommendations Top 8 Free SRT Apps Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-tips-for-utilizing-snapchat-highlights-effectively/"><u>Expert Tips for Utilizing Snapchat Highlights Effectively</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-xr-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone XR? Complete Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linux-vendor-kernel-security-compromised-recent-research-confirms-and-suggests-remedies-zdnet/"><u>Linux Vendor Kernel Security Compromised? Recent Research Confirms & Suggests Remedies | ZDNet</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-retro-video-magic-easy-ways-to-add-vhs-effects-in-fcp-for-2024/"><u>New Retro Video Magic Easy Ways to Add VHS Effects in FCP for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-frustration-alien-fireteam-elite-no-longer-crashes-on-pc/"><u>Say Goodbye to Frustration – Alien: Fireteam Elite No Longer Crashes on PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-dual-comeback-why-openstack-and-kata-containers-are-gaining-popularity-again-insights-from-zdnet/"><u>The Dual Comeback: Why OpenStack & Kata Containers Are Gaining Popularity Again - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-leading-8-applications-of-artificer-intellect-essential-tips-for-tech-enthusiasts/"><u>The Leading 8 Applications of Artificer Intellect - Essential Tips for Tech Enthusiasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-customer-relationship-management-crm-systems-optimal-choices-for-small-and-medium-businesses-insights-by-zdnet/"><u>Top Customer Relationship Management (CRM) Systems : Optimal Choices for Small and Medium Businesses - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-slack-connect-a-complete-guide-on-features-and-usage/"><u>Understanding Slack Connect: A Complete Guide on Features & Usage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-booming-growth-of-no-codelow-code-solutions-and-its-impact-on-it-career-paths/"><u>ZDNet Explores the Booming Growth of No-Code/Low-Code Solutions and Its Impact on IT Career Paths</u></a></li>
+</ul></div>
+

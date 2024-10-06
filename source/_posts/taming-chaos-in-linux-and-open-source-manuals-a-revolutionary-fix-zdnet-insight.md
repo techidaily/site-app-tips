@@ -1,7 +1,7 @@
 ---
 title: "Taming Chaos in Linux & Open Source Manuals: A Revolutionary Fix | ZDNet Insight"
-date: 2024-09-19 16:25:27
-updated: 2024-09-20 11:34:35
+date: 2024-10-05T18:00:13.383Z
+updated: 2024-10-06T16:04:00.843Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/reakdown-of-the-top-9-free-branding-platforms-for-youtube-channels-for-2024/"><u>[New] Breakdown of the Top 9 Free Branding Platforms for YouTube Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-brand-enhancement-embedding-logoswatermarks-for-youtube-shows/"><u>[New] Video Brand Enhancement Embedding Logos/Watermarks for YouTube Shows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-innovative-techniques-in-picking-the-best-fpv-drone-propellers/"><u>[Updated] Innovative Techniques in Picking the Best FPV Drone Propellers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-debunking-common-fallacies-in-data-commerce-insights-from-zdnet/"><u>1. Debunking Common Fallacies in Data Commerce: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/40-of-technology-sector-employees-ponder-career-moves-according-to-recent-zdnet-poll/"><u>40% of Technology Sector Employees Ponder Career Moves, According to Recent ZDNet Poll</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-artificial-intelligence-discover-fresh-job-designations-shaping-tomorrows-workforce-revealed-by-zdnet/"><u>Beyond Artificial Intelligence - Discover Fresh Job Designations Shaping Tomorrow's Workforce, Revealed by ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-insta-followers-footprints-trail-blazing-techniques/"><u>In 2024, Insta Followers Footprints Trail-Blazing Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mainstream-enterprises-continue-to-crave-tech-expertise-unleashing-potential-ideas-for-a-transformative-future-zdnet-highlights/"><u>Mainstream Enterprises Continue to Crave Tech Expertise: Unleashing Potential Ideas for a Transformative Future | ZDNet Highlights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-social-sleuthing-the-six-simplest-techniques-for-finding-users-on-facebook/"><u>Mastering Social Sleuthing: The Six Simplest Techniques for Finding Users on Facebook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/moving-beyond-rote-programming-how-artificial-intelligence-is-revolutionizing-software-development-insights-from-zdnet/"><u>Moving Beyond Rote Programming: How Artificial Intelligence Is Revolutionizing Software Development - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-roadblocks-in-artificial-intelligence-for-substantial-business-gains-insights-from-zdnet/"><u>Navigating Roadblocks in Artificial Intelligence for Substantial Business Gains – Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-lost-default-windows-11-power-settings/"><u>Reinstating Lost Default Windows 11 Power Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/securely-deleting-old-ps5-backup-games/"><u>Securely Deleting Old PS5 Backup Games</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Ranked Web Hosting Providers : Comprehensive Testing & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-every-epic-title-solving-egl-visibility-issues/"><u>Unlocking Every Epic Title: Solving EGL Visibility Issues</u></a></li>
+</ul></div>
+

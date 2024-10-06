@@ -1,7 +1,7 @@
 ---
 title: "CrowdStrike's CTO Warns of Generative AI Risks: Protecting Businesses Against Emerging Threats | ZDNet"
-date: 2024-09-18 18:35:56
-updated: 2024-09-20 12:15:53
+date: 2024-10-03T16:34:10.558Z
+updated: 2024-10-06T18:10:18.915Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-videography-essentials-7-free-audio-choices-for-2024/"><u>[Updated] YouTube Videography Essentials - 7 Free Audio Choices for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-engagement-crafting-high-impact-snaps-for-your-brand/"><u>2024 Approved Elevate Engagement Crafting High-Impact Snaps for Your Brand</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-synchronizing-teams-mastering-device-agnostic-zoom-events/"><u>2024 Approved Synchronizing Teams Mastering Device-Agnostic Zoom Events</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/agpteks-innovative-budget-friendly-mp3-solution/"><u>AGPTEK's Innovative, Budget-Friendly MP3 Solution</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anthropic-unveils-the-next-generation-of-enterprise-scale-ai-with-its-advanced-claude-initiative-insights-from-zdnet/"><u>Anthropic Unveils the Next Generation of Enterprise-Scale AI with Its Advanced Claude Initiative - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-productivity-leverage-the-new-copilot-enhancements-to-excel-at-prompt-writing-on-microsoft/"><u>Boost Your Productivity: Leverage the New Copilot Enhancements to Excel at Prompt Writing on Microsoft</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/historical-gems-art-unshackled-by-laws-for-2024/"><u>Historical Gems Art Unshackled by Laws for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-mobile-vertical-panoramas-in-action/"><u>In 2024, Mastering Mobile Vertical Panoramas in Action</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-shares-insights-on-using-rust-in-the-linux-world-work-habits-and-living-with-an-intel-powered-macbook-air-zdnet/"><u>Linus Torvalds Shares Insights on Using Rust in the Linux World: Work Habits & Living with an Intel-Powered MacBook Air - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-overwhelm-in-tech-careers-bright-spots-amidst-professional-burnout/"><u>Navigating the Overwhelm in Tech Careers: Bright Spots Amidst Professional Burnout</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphone-x-issues-preventing-spotify-app-from-crashing-upon-lock/"><u>Resolving iPhone X Issues: Preventing Spotify App From Crashing Upon Lock</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-business-exploring-how-blockchain-decentralization-and-web3-revolutionize-enterprises/"><u>The Future of Business: Exploring How Blockchain, Decentralization & Web3 Revolutionize Enterprises</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-linux-foundation-workshops-and-training-programs-find-the-perfect-bootcamp/"><u>Top-Rated Linux Foundation Workshops & Training Programs: Find the Perfect Bootcamp</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-best-free-webm-video-editors-you-need-to-try/"><u>Updated In 2024, The Best Free WebM Video Editors You Need to Try</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/zoom-optimization-coordinating-remote-gatherings/"><u>Zoom Optimization Coordinating Remote Gatherings</u></a></li>
+</ul></div>
+

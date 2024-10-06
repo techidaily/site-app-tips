@@ -1,7 +1,7 @@
 ---
 title: "ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet"
-date: 2024-09-23T19:53:51.837Z
-updated: 2024-09-30T17:16:33.966Z
+date: 2024-09-29T18:28:19.538Z
+updated: 2024-10-06T16:15:18.286Z
 tags:
   - password-manager
 categories:
@@ -64,37 +64,29 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-your-youtube-content-for-specific-crowds-for-2024/"><u>[New] Crafting Your YouTube Content for Specific Crowds for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-affordable-mcb-theme-images-for-channels/"><u>[New] In 2024, Affordable MCB Theme Images for Channels</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-no-complications-in-hdr-a-thorough-review/"><u>[New] No Complications in HDR A Thorough Review</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-expert-advice-on-selecting-the-best-lenses-for-filmmaking/"><u>[Updated] Expert Advice on Selecting The Best Lenses For Filmmaking</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speech-transcription-made-simple-utilizing-text-conversion-functionality-of-ms-word/"><u>[Updated] Speech Transcription Made Simple Utilizing Text Conversion Functionality of MS Word</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-12-mobile-typing-applications-for-ios-and-android-devices-a-comprehensive-guide/"><u>Best 12 Mobile Typing Applications for iOS and Android Devices: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-superior-android-podcasting-solutions-beyond-player-fm/"><u>Discover Superior Android Podcasting Solutions Beyond Player FM</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-top-21-zedge-tools-for-customizing-your-phone-with-free-ringtones-and-wallpapers-on-iphoneandroid/"><u>Discover the Ultimate Top 21 Zedge Tools for Customizing Your Phone with Free Ringtones & Wallpapers on iPhone/Android</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-ways-to-keep-your-apps-private-on-smartphones-and-tablets-android-and-apple/"><u>Effective Ways to Keep Your Apps Private on Smartphones & Tablets (Android & Apple)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193676-get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-nokia-xr21-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Nokia XR21 Phone?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-photo-booth-woes-why-videos-halt/"><u>In 2024, Photo Booth Woes Why Videos Halt?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-se-2022-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-most-effective-android-management-software-from-pc-updated-top-picks/"><u>The Most Effective Android Management Software From PC - Updated Top Picks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-free-online-and-mobile-apps-for-crafting-hilarious-memes-effortlessly/"><u>Top Free Online & Mobile Apps for Crafting Hilarious Memes Effortlessly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-applications-for-seamlessly-casting-your-iphone-display-onto-tv-or-computer/"><u>Top-Rated Applications for Seamlessly Casting Your iPhone Display Onto TV or Computer</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-exploring-roleplayings-boundaries-rogues-and-roguities/"><u>[New] 2024 Approved Exploring Roleplaying's Boundaries Rogues & Roguities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-eliminate-excess-efficient-use-of-the-eraser-in-photoshop-for-2024/"><u>[New] Eliminate Excess Efficient Use of the Eraser in Photoshop for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-latest-lg-360-camera-features-and-review/"><u>[New] In 2024, Latest LG 360 Camera Features and Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instas-friendship-breakdown-detect-it-fast-for-2024/"><u>[New] Insta's Friendship Breakdown Detect It Fast for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sharp-as-day-the-top10-clearer-photo-editors-list/"><u>[New] Sharp as Day The #Top10 Clearer Photo Editors List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-redefine-video-communication-with-your-webcam-for-2024/"><u>[Updated] Redefine Video Communication with Your Webcam for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-cultural-influences-on-consumer-behavior-in-global-markets/"><u>[Updated] Understanding Cultural Influences on Consumer Behavior in Global Markets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-easy-steps-to-screen-recording-across-oses-and-devices/"><u>2024 Approved Easy Steps to Screen Recording Across OSes & Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/4-essential-strategies-to-retrieve-and-rebuild-ios-apps-using-apples-icloud-services/"><u>4 Essential Strategies to Retrieve and Rebuild iOS Apps Using Apple's iCloud Services</u></a></li>
+<li><a href="https://app-tips.techidaily.com/android-performance-booster-fast-track-your-phone-with-efficient-task-killing/"><u>Android Performance Booster: Fast Track Your Phone with Efficient Task Killing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-and-premium-high-speed-camera-applications-for-both-iphone-and-android-users/"><u>Best Free and Premium High-Speed Camera Applications for Both iPhone and Android Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-full-simplemdm-essential-insights-for-ios-and-macos-users/"><u>Comprehensive Evaluation: Full SimpleMDM - Essential Insights for iOS and macOS Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-cyberlinks-actiondirector-features-benefits-and-competitors/"><u>In-Depth Analysis of CyberLink's ActionDirector: Features, Benefits & Competitors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-magisto-video-software-advantages-limitations-and-comparative-assessment/"><u>In-Depth Analysis of Magisto Video Software: Advantages, Limitations & Comparative Assessment</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-messaging-schedulers-reviewed-discover-the-top-10-picks-for-smartphones/"><u>Leading Messaging Schedulers Reviewed: Discover the Top 10 Picks for Smartphones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Motorola support - Forgotten screen lock.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/shadow-spectators-on-ig-uncover-the-ultimate-list-of-incognito-gazers-for-content-sneak-peeks/"><u>Shadow Spectators on IG: Uncover the Ultimate List of Incognito Gazers for Content Sneak Peeks</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

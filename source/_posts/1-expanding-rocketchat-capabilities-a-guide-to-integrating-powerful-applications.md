@@ -1,7 +1,7 @@
 ---
 title: "1. Expanding Rocket.Chat Capabilities: A Guide to Integrating Powerful Applications"
-date: 2024-09-17 12:42:39
-updated: 2024-09-20 11:36:36
+date: 2024-10-04T16:29:33.648Z
+updated: 2024-10-06T18:56:13.546Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,24 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-examining-youtubes-copyright-stance-versus-cc-approach/"><u>[New] Examining Youtube's Copyright Stance Versus CC Approach</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-celebrated-20-independent-pubg-photo-sequences/"><u>[New] In 2024, Celebrated 20 Independent PUBG Photo Sequences</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cost-effective-customization-how-openai-reduced-the-price-of-gpt-4o-mini-for-easy-fine-tuning-insights-from-zdnet/"><u>Cost-Effective Customization: How OpenAI Reduced the Price of GPT-4o Mini for Easy Fine-Tuning - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-aac-audio-transcoding-software-now-no-cost-downloads-for-modern-operating-systems-including-windows-11/"><u>Get Your AAC Audio Transcoding Software Now: No Cost Downloads for Modern Operating Systems Including Windows 11!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/the-ultimate-guide-to-perfecting-square-video-format-for-insta-success/"><u>The Ultimate Guide to Perfecting Square Video Format for Insta Success</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-the-best-virtual-meetings-software-in-2eplus22-expert-reviews-and-ratings-by-zdnet/"><u>The Ultimate Guide to the Best Virtual Meetings Software in 2E+22: Expert Reviews & Ratings by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-windows-home-to-professional-grade-essential-steps-and-compelling-reasons-to-upgrade/"><u>Transforming Windows Home to Professional Grade: Essential Steps and Compelling Reasons to Upgrade</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ubuntu-2404-unveiled-a-game-changer-in-linux-performance-and-protection-according-to-zdnet/"><u>Ubuntu 24.04 Unveiled: A Game-Changer in Linux Performance and Protection, According to ZDNet</u></a></li>
+</ul></div>
+

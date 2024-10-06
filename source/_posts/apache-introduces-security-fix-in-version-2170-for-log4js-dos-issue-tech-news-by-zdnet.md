@@ -1,7 +1,7 @@
 ---
 title: Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet
-date: 2024-09-26T06:28:02.270Z
-updated: 2024-10-01T00:46:42.193Z
+date: 2024-10-04T18:38:34.042Z
+updated: 2024-10-06T17:45:30.181Z
 tags:
   - password-manager
 categories:
@@ -108,10 +108,10 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -189,19 +189,19 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-become-a-short-form-video-star-with-these-10-proven-methods/"><u>[New] 2024 Approved Become a Short-Form Video Star with These 10 Proven Methods</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-places-to-go-the-best-online-hubs-for-text-effects/"><u>[New] Places to Go The Best Online Hubs for Text Effects</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ringtone-repository-prime-picks-for-downloadable-calls/"><u>[New] Ringtone Repository Prime Picks for Downloadable Calls</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-revolution-in-business-understanding-the-shift-to-hundreds-of-models-for-operational-excellence-perspectives-by-zdnet/"><u>AI Revolution in Business: Understanding the Shift to Hundreds of Models for Operational Excellence - Perspectives by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asia-at-forefront-non-cash-payments-projected-to-reach-16-trillion/"><u>Asia at Forefront: Non-Cash Payments Projected to Reach $1.6 Trillion</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-the-payment-structure-on-youtube/"><u>Decoding the Payment Structure on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-the-fundamental-divergences-of-ml-nlp/"><u>Dissecting the Fundamental Divergences of ML, NLP</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-expertise-in-a-non-ai-dominated-tech-edge-explore-opportunnities-with-zdnet/"><u>Elevate Your Expertise in a Non-AI Dominated Tech Edge – Explore Opportunnities with ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-to-effective-tech-management-begin-by-understanding-the-business-landscape/"><u>Guide to Effective Tech Management: Begin by Understanding the Business Landscape</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-real-time-film-extractor/"><u>In 2024, Real-Time Film Extractor</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/text-message-tracking-how-to-tell-if-someone-has-seen-what-you-sent/"><u>Text Message Tracking: How to Tell if Someone Has Seen What You Sent</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-misconception-among-smbs-about-not-needing-cyber-insurance-despite-potential-risks-perspectives-by-zdnet/"><u>The Misconception Among SMBs About Not Needing Cyber Insurance Despite Potential Risks - Perspectives by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-importance-of-addressing-legacy-technology-lessons-from-a-failed-system-upgrade/"><u>Understanding the Importance of Addressing Legacy Technology: Lessons From a Failed System Upgrade</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winx-vhsaipcweb/"><u>Winx VHS用AIガイド：PCとWebカメラで記録方法</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-xchange-reviews-top-tools-and-substitutes/"><u>[New] In 2024, XChange Reviews Top Tools & Substitutes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-next-gen-heroism-gopro-hero5-black-vs-hero4-silver/"><u>[Updated] Next-Gen HEROism GoPro Hero5 Black vs Hero4 Silver</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-walkthrough-for-movie-making-on-windows-8/"><u>2024 Approved The Ultimate Walkthrough for Movie Making on Windows 8</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-y55s-5g-2023-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-knowledge-chasm-in-artifice-intelligence-through-robust-data-management-tips-and-techniques/"><u>Bridging the Knowledge Chasm in Artifice Intelligence Through Robust Data Management - Tips and Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-ai-innovation-challenge-expansion-in-the-cybersecurity-workforce-exploring-perspectives-with-zdnet/"><u>Can AI Innovation Challenge Expansion in the Cybersecurity Workforce? Exploring Perspectives with ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-team-synergy-how-ai-fuels-partnership-of-developers-and-business-stakeholders/"><u>Enhancing Team Synergy: How AI Fuels Partnership of Developers & Business Stakeholders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-trip-diary-to-hype-inducing-haul-the-editors-playbook-for-2024/"><u>From Trip Diary to Hype-Inducing Haul The Editor's Playbook for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-the-power-of-hundreds-of-ai-solutions-for-business-innovation-insights-by-zdnet/"><u>Harnessing the Power of Hundreds of AI Solutions for Business Innovation | Insights by ZDNET</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oneplus-ace-2-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on OnePlus Ace 2</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-latest-corsair-h80i-v2-aio-cooler-software-update/"><u>Install Latest Corsair H80i v2 AIO Cooler Software Update</u></a></li>
+<li><a href="https://app-tips.techidaily.com/outdated-automation-meets-modern-smart-tech-in-software-creation-unveiling-ais-role-zdnet/"><u>Outdated Automation Meets Modern Smart Tech in Software Creation: Unveiling AI's Role | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-cross-functional-cooperation-with-artificial-intelligence-in-development-and-commerce/"><u>Revolutionizing Cross-Functional Cooperation with Artificial Intelligence in Development and Commerce</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-v30-lite-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo V30 Lite 5G to iPhone 14/15 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Competitive Edge with DevOps Best Practices to Mitigate Risk | Expertise by ZDNET
-date: 2024-09-19 19:38:28
-updated: 2024-09-20 11:43:11
+date: 2024-10-01T18:09:24.540Z
+updated: 2024-10-06T16:11:46.369Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-cut-the-red-tape-simplify-xboxfb-broadcasting/"><u>[New] Cut the Red Tape Simplify Xbox/FB Broadcasting</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-innovative-approaches-to-monitoring-and-snapping-digital-displays-for-2024/"><u>[New] Innovative Approaches to Monitoring and Snapping Digital Displays for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-solving-sound-disconnection-on-live-feeds/"><u>[New] Solving Sound Disconnection on Live Feeds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unlocking-xboxs-video-call-potential-with-zoom/"><u>[New] Unlocking Xbox's Video Call Potential with Zoom</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-premier-asmr-videographers-list/"><u>[Updated] 2024 Approved Premier ASMR Videographers' List</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-declining-trust-among-business-executives-in-information-technology-insights-from-a-recent-ibm-research-exploring-the-causes-on-zdnet/"><u>1. Declining Trust Among Business Executives in Information Technology: Insights From a Recent IBM Research - Exploring the Causes on ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-guide-to-windows-11-gaming-recordings/"><u>2024 Approved The Ultimate Guide to Windows 11 Gaming Recordings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-to-the-rescue-shielding-it-specialists-from-overwork-and-alert-exhaustion-with-cutting-edge-solutions-zdnet/"><u>AI to the Rescue! Shielding IT Specialists From Overwork and Alert Exhaustion with Cutting-Edge Solutions | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-artificial-intelligence-slow-down-expansion-in-cybersecurity-careers-zdnet-insights/"><u>Can Artificial Intelligence Slow Down Expansion in Cybersecurity Careers? | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/combining-ai-innovation-with-agile-practices-faces-challenges-insights-from-recent-research/"><u>Combining AI Innovation with Agile Practices Faces Challenges: Insights From Recent Research</u></a></li>
+<li><a href="https://app-tips.techidaily.com/emerging-management-positions-in-the-era-of-generative-ai-the-future-landscape-zdnet/"><u>Emerging Management Positions in the Era of Generative AI: The Future Landscape | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/future-ready-mastering-the-rise-of-agent-ecosystems-in-next-gen-ai-service-platforms-insights-from-zdnet/"><u>Future Ready: Mastering the Rise of Agent Ecosystems in Next-Gen AI Service Platforms - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-artificial-intelligence-may-reshape-career-prospects-in-cybersecurity-zdnet/"><u>How Artificial Intelligence May Reshape Career Prospects in Cybersecurity | ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-live-sound-experience-service/"><u>In 2024, Best Live Sound Experience Service</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-6s-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 6s Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-ai-synthesis-realized-engage-with-your-organizations-chief-tech-architect-zdnet/"><u>Seamless AI Synthesis Realized - Engage with Your Organization’s Chief Tech Architect | ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/taking-your-shots-to-the-next-level-unique-distortions-techniques/"><u>Taking Your Shots to the Next Level Unique Distortions Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-now-16-t-trillion-non-cash-deals-dominated-by-asia-insights-from-zdnet/"><u>The Future Is Now: 1.6 T Trillion Non-Cash Deals Dominated by Asia | Insights From ZDNET</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-picture-in-picture-made-easy-final-cut-pro-tutorial/"><u>Updated 2024 Approved Picture-in-Picture Made Easy Final Cut Pro Tutorial</u></a></li>
+</ul></div>
+

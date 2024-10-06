@@ -1,7 +1,7 @@
 ---
 title: Beamforming Techniques Enable Antenna Arrays to Direct Energy Towards Specific Users or Locations, Enhancing Signal Strength and Reducing Interference in Those Areas.
-date: 2024-09-17 22:44:37
-updated: 2024-09-20 10:58:48
+date: 2024-10-03T16:35:48.112Z
+updated: 2024-10-06T16:37:09.382Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-embracing-digital-learning-a-teachers-resource/"><u>[New] In 2024, Embracing Digital Learning A Teacher's Resource</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-maximizing-tiktok-video-velocity-effectively/"><u>[New] In 2024, Maximizing TikTok Video Velocity Effectively</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-secrets-of-savings-the-ultimate-list-of-boxes-buying-websites/"><u>[New] Secrets of Savings The Ultimate List of Boxes-Buying Websites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-wealth-can-you-generate-on-youtube-using-cpm/"><u>[Updated] 2024 Approved How Much Wealth Can You Generate on YouTube Using CPM?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-rhythm-rendezvous-optimal-dj-video-selections/"><u>[Updated] In 2024, Rhythm Rendezvous Optimal DJ Video Selections</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unleashing-youtube-potential-with-effective-seo-methods-1-11/"><u>[Updated] Unleashing YouTube Potential with Effective SEO Methods (1-11)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/breaking-news-major-flaw-detected-and-fixed-in-essential-linux-utility-curl-in-depth-analysis-available-at-zdnet/"><u>Breaking News: Major Flaw Detected and Fixed in Essential Linux Utility 'Curl' – In-Depth Analysis Available at ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/como-usar-correctamente-el-programa-de-grabador-de-dvd-winxdvd-guia-practica-how-to-properly-use-the-winxdvd-dvd-burner-software-practical-guide/"><u>Cómo Usar Correctamente El Programa De Grabador De DVD WinXDVD - Guía Práctica (How to Properly Use the WinXDVD DVD Burner Software – Practical Guide)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-influence-of-decentralized-systems-and-web3-on-corporate-structures-a-comprehensive-guide/"><u>Exploring the Influence of Decentralized Systems & Web3 on Corporate Structures: A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-100-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor 100 Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/latest-breakthroughs-in-5g-and-edge-tech-top-5-trends-you-cant-ignore-insights-from-zdnet/"><u>Latest Breakthroughs in 5G & Edge Tech: Top 5 Trends You Can't Ignore - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/performance/"><u>Performance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-system-administration-how-red-hat-integrates-ai-for-enhanced-efficiency/"><u>Revolutionizing System Administration: How Red Hat Integrates AI for Enhanced Efficiency</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-elevating-your-windows-home-edition-to-pro-benefits-unveiled/"><u>Step-by-Step Guide: Elevating Your Windows Home Edition to Pro - Benefits Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-the-chaos-organizing-linux-and-open-source-resources-effectively-the-ultimate-fix/"><u>Taming the Chaos: Organizing Linux & Open Source Resources Effectively - The Ultimate Fix</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-trends-unveiled-the-revival-and-growing-appeal-of-openstack-with-kata-containers-zdnet/"><u>Tech Trends Unveiled: The Revival and Growing Appeal of OpenStack with Kata Containers | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-current-state-of-cloud-computing-and-persisting-challenges-with-on-premise-systems/"><u>The Current State of Cloud Computing & Persisting Challenges with On-Premise Systems.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-tutorial-how-to-edit-and-remove-the-last-five-minutes-from-your-videos-using-windows-11-tools/"><u>Ultimate Tutorial: How to Edit and Remove the Last Five Minutes From Your Videos Using Windows 11 Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-wins-gpt-clashes-with-bings-ai-and-google-bard/"><u>Who Wins? GPT Clashes with Bing's AI and Google Bard</u></a></li>
+</ul></div>
+

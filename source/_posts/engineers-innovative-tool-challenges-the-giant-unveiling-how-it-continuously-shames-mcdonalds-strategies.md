@@ -1,7 +1,7 @@
 ---
 title: Engineer's Innovative Tool Challenges the Giant - Unveiling How It Continuously Shames McDonald's Strategies
-date: 2024-09-19 16:11:36
-updated: 2024-09-20 12:14:14
+date: 2024-10-04T16:59:19.299Z
+updated: 2024-10-06T16:39:12.238Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-the-world-of-instagram-endorsements-five-essential-steps-for-2024/"><u>[Updated] Navigating the World of Instagram Endorsements Five Essential Steps for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-image-booster-intense-visual-upgrade/"><u>[Updated] Ultimate Image Booster Intense Visual Upgrade</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-non-facebook-activities-exploration/"><u>2024 Approved Navigating Non-Facebook Activities Exploration</u></a></li>
+<li><a href="https://win-blog.techidaily.com/arcadegeddon-pc-performance-hiccups-resolved-optimize-your-gaming-experience/"><u>Arcadegeddon PC Performance Hiccups Resolved - Optimize Your Gaming Experience</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/essential-free-tools-and-utilities-to-boost-productivity-on-mac-computers/"><u>Essential FREE Tools and Utilities to Boost Productivity on Mac Computers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/essential-techniques-for-vimeo-video-submission-from-mmc-for-2024/"><u>Essential Techniques for Vimeo Video Submission From MMC for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/expert-tips-to-dominate-kinemaster-and-identify-top-online-video-services/"><u>Expert Tips to Dominate KineMaster & Identify Top Online Video Services</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-sql-with-expertly-curated-online-lessons-discover-why-our-picks-are-top-tech-education-sites-zdnet/"><u>Master SQL with Expertly Curated Online Lessons: Discover Why Our Picks Are Top Tech Education Sites - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-latest-release-an-irritant-or-a-game-changer-unveiled-by-zdnet/"><u>Microsoft's Latest Release: An Irritant or a Game Changer? Unveiled by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamlessly-combining-google-drive-with-slack-a-step-by-step-guide/"><u>Seamlessly Combining Google Drive with Slack: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-costly-creativity-companion-comprehensive-review-of-microsoft-surface-studio-2/"><u>The Costly Creativity Companion: Comprehensive Review of Microsoft Surface Studio 2</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-4-free-video-editing-tools-expert-picks-techradar/"><u>Top 4 Free Video Editing Tools : Expert Picks | TechRadar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-essentials-a-comprehensive-update-and-installation-manual-insights-from-zdnet/"><u>Windows 11 Essentials: A Comprehensive Update & Installation Manual - Insights From ZDNet</u></a></li>
+</ul></div>
+

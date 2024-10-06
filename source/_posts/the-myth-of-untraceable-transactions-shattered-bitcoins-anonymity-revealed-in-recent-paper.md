@@ -1,7 +1,7 @@
 ---
 title: "The Myth of Untraceable Transactions Shattered: Bitcoin's Anonymity Revealed in Recent Paper"
-date: 2024-09-28T18:52:13.210Z
-updated: 2024-09-30T20:04:08.600Z
+date: 2024-10-02T18:50:06.798Z
+updated: 2024-10-06T18:59:31.716Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -61,10 +61,10 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -121,21 +121,17 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-optimal-sony-ps3-reproduction-tools-ranked-pc/"><u>[New] 2024 Approved Optimal Sony PS3 Reproduction Tools Ranked (PC)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-vr-the-creation-gap/"><u>[New] Unveiling VR The Creation Gap</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-mastery-without-coding-knowledge-tackling-intricate-systems-through-varied-education-strategies-zdnet/"><u>AI Mastery Without Coding Knowledge - Tackling Intricate Systems Through Varied Education Strategies | ZDNet</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/discovering-the-worlds-most-popular-shorter-videos-free/"><u>Discovering the World's Most Popular Shorter Videos (FREE)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-how-technological-advancements-contribute-to-staff-burnout-and-strategies-for-improvement-zdnet/"><u>Exploring How Technological Advancements Contribute to Staff Burnout and Strategies for Improvement | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-impact-of-cutting-edge-ai-on-present-technology-systems-discoveries-by-zdnet/"><u>Exploring the Impact of Cutting-Edge AI on Present Technology Systems - Discoveries by ZDNET</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-unique-value-proposition-here-are-6-pivotal-points/"><u>Facebook's Unique Value Proposition – Here Are 6 Pivotal Points!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/function-optimization/"><u>Function Optimization</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratitude-freepaid-outro-template-selections-for-2024/"><u>Gratitude Free/Paid Outro Template Selections for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-xs-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone XS Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/is-artificial-intelligence-a-threat-to-cybersecurity-employment-prospects/"><u>Is Artificial Intelligence a Threat to Cybersecurity Employment Prospects?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-start-with-core-business-insights/"><u>Mastering Tech Team Leadership: Start with Core Business Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-modern-hurdles-tackling-ambiguous-results-and-uncertain-precision-in-ai-expert-analysis-by-zdnet/"><u>Overcoming Modern Hurdles: Tackling Ambiguous Results and Uncertain Precision in AI | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y27-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y27 5G Location | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-artificial-intelligence-data-as-the-key-element-strategies-to-complete-the-ai-jigsaw/"><u>Unlocking Artificial Intelligence: Data as the Key Element - Strategies to Complete the AI Jigsaw</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-from-webm-to-mp4-top-rated-conversion-tools-and-software/"><u>Updated In 2024, From WebM to MP4 Top-Rated Conversion Tools and Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unseen-glimpse-of-fb-stories/"><u>[New] In 2024, Unseen Glimpse of FB Stories</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-strategizing-superior-screen-snatchers/"><u>[Updated] 2024 Approved Strategizing Superior Screen-Snatchers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-magic-5-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Magic 5</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-ai-responsibly-with-open-source-innovations-insights-from-zdnet/"><u>Advancing AI Responsibly with Open Source Innovations - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/immutable-linux-explained-how-a-static-system-can-enhance-your-it-infrastructure/"><u>Immutable Linux Explained: How a Static System Can Enhance Your IT Infrastructure</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-15-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 15 Plus to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/insecurity-in-linux-based-systems-latest-findings-reveal-yes-with-potential-fixes-insights-from-a-new-study-zdnet/"><u>Insecurity in Linux-Based Systems: Latest Findings Reveal Yes with Potential Fixes - Insights From a New Study | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-microsofts-new-release-bound-to-irk-users-or-surprise-them-positively-insights-from-zdnet/"><u>Is Microsoft's New Release Bound to Irk Users, or Surprise Them Positively? Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-latest-feature-ignites-controversy-unseen-release-sparks-user-backlash/"><u>Microsoft's Latest Feature Ignites Controversy – Unseen Release Sparks User Backlash</u></a></li>
+<li><a href="https://program-issues.techidaily.com/regain-control-in-terraria-top-6-methods-to-restore-a-disconnected-game/"><u>Regain Control in Terraria: Top 6 Methods to Restore a Disconnected Game</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-is-avs-video-editor-worth-it-a-comprehensive-review-for-2024/"><u>Updated Is AVS Video Editor Worth It? A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/m4b-mp3-online-movavi/"><u>무료 M4B 대화클러스터 MP3로의 Online 전환기 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Roadmap for Artifice Intelligence Developments Over the Next Ten Years | ZDNet
-date: 2024-09-29T00:02:27.252Z
-updated: 2024-10-01T04:21:04.567Z
+date: 2024-10-05T17:21:33.902Z
+updated: 2024-10-06T19:00:01.478Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +181,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-excellent-2024-cloud-apps-for-seamless-data-transfer-on-android/"><u>[New] Excellent 2024 Cloud Apps for Seamless Data Transfer on Android</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-maximizing-youtube-exposure-with-ongoing-creative-commons-compliance/"><u>[New] In 2024, Maximizing YouTube Exposure with Ongoing Creative Commons Compliance</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-resolve-vanished-watch-video-icon-issue-2023/"><u>[New] In 2024, Resolve Vanished Watch Video Icon Issue, 2023</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-live-stream-to-high-fidelity-choosing-budget-friendly-wav-tools/"><u>[Updated] In 2024, From Live Stream to High Fidelity Choosing Budget-Friendly WAV Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-quick-techniques-for-documenting-youtube-videos/"><u>[Updated] Quick Techniques for Documenting YouTube Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-secrets-of-apples-latest-innovation-the-passkey-announcement-at-worldwide-developers-conference-2022-insider-report/"><u>Exploring the Secrets of Apple's Latest Innovation: The Passkey Announcement at Worldwide Developers Conference 2022 | Insider Report</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-smart-8-plus-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Smart 8 Plus for Free? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-protonpass-the-latest-innovation-in-privacy-focused-password-storage-with-full-end-to-end-security/"><u>Introducing ProtonPass: The Latest Innovation in Privacy-Focused Password Storage with Full End-to-End Security</u></a></li>
-<li><a href="https://app-tips.techidaily.com/is-1password-leading-the-pack-expert-evaluation-of-premium-digital-key-management-solutions-by-zdnet/"><u>Is 1Password Leading the Pack? Expert Evaluation of Premium Digital Key Management Solutions by ZDNET</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/pixel-perfect-review-amd-radeon-for-2024/"><u>Pixel Perfect Review AMD Radeon for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protect-your-privacy-avoid-hidden-crypto-mining-risks-while-downloading-spider-man-no-way-home-using-bittorrent-insights-from-zdnet/"><u>Protect Your Privacy: Avoid Hidden Crypto Mining Risks While Downloading Spider-Man: No Way Home Using BitTorrent - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/slash-your-costs-secure-a-whopping-50-discount-on-dashlanes-elite-password-manager-now/"><u>Slash Your Costs: Secure a Whopping 50% Discount on Dashlane's Elite Password Manager - Now!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-igdkmd64sys-fix-blue-screen-for-windows-11-users/"><u>Winning the Battle Against IGDKMD64.sys - Fix Blue Screen for Windows 11 Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-high-engagement-stories-filters-list/"><u>[New] 2024 Approved High-Engagement Stories Filters List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-polishing-your-presentations-expert-video-editing-for-instagram-for-2024/"><u>[New] Polishing Your Presentations Expert Video Editing for Instagram for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-enhancing-social-media-engagement-with-branded-icons-on-instagram/"><u>[Updated] Enhancing Social Media Engagement with Branded Icons on Instagram</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-animators-playground-building-your-own-visual-treats/"><u>[Updated] In 2024, Animator’s Playground Building Your Own Visual Treats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-transferring-your-icloud-password-vault-on-and-off-macos/"><u>Comprehensive Guide: Transferring Your iCloud Password Vault on and Off macOS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-the-leading-scanners-for-documents-and-images-2024s-finest-picks/"><u>Explore the Leading Scanners for Documents & Images: 2024'S Finest Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-email-update-tutorial-how-to-easily-alter-your-current-icloud-id/"><u>ICloud Email Update Tutorial: How To Easily Alter Your Current iCloud ID</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-photo-sharing-a-beginners-complete-step-by-step-tutorial/"><u>ICloud Photo Sharing: A Beginner's Complete Step-by-Step Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-making-it-big-on-youtube-your-strategy-playbook/"><u>In 2024, Making It Big on YouTube Your Strategy Playbook</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mac-green-screen-editing-a-review-of-the-top-software-choices/"><u>New Mac Green Screen Editing A Review of the Top Software Choices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/syncing-soundtracks-with-pals-using-spotifys-shared-likes/"><u>Syncing Soundtracks with Pals Using Spotify's Shared Likes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-3-methods-to-remove-ebooks-from-your-icloud-library-freeing-up-space/"><u>Top 3 Methods to Remove eBooks From Your iCloud Library, Freeing Up Space</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-methods-for-transferring-icloud-tunes-to-ios-and-mac-a-comprehensive-guide/"><u>Top 5 Methods for Transferring iCloud Tunes to iOS and Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-icloud-message-accessibility-a-comprehensive-approach-for-enabling-your-emails/"><u>Troubleshooting iCloud Message Accessibility: A Comprehensive Approach for Enabling Your Emails</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-free-contact-acquisition-top-4-methods-for-seamless-retrieval-from-icloud/"><u>Unlocking the Power of Free Contact Acquisition: Top 4 Methods for Seamless Retrieval From iCloud</u></a></li>
 </ul></div>
 

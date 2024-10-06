@@ -1,7 +1,7 @@
 ---
 title: Joint Development of Scalable LLMs by Sony Intelligence and AI Singapore Announced | FutureTech Weekly
-date: 2024-09-18 19:13:34
-updated: 2024-09-20 11:34:50
+date: 2024-10-01T17:34:28.090Z
+updated: 2024-10-06T18:47:55.511Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-rendering-reawakening-amds-radeon/"><u>[Updated] Rendering Reawakening AMD's Radeon</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-apple-iphone-se-2020-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on Apple iPhone SE (2020) Safe and Legal</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-it-worth-switching-to-tp-links-archer-ax6000-how-does-it-stack-up-to-the-nighthawk-ax12/"><u>Is It Worth Switching to TP-Link's Archer AX6000? How Does It Stack Up to the Nighthawk AX12?</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-class-preventing-hyper-scape-disruptions-on-your-gaming-pc/"><u>Master Class: Preventing Hyper Scape Disruptions on Your Gaming PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-todays-dilemma-strategies-to-tackle-imprecise-outcomes-in-artifical-intelligence-expert-analysis-by-zdnet/"><u>Mastering Today’s Dilemma: Strategies to Tackle Imprecise Outcomes in Artifical Intelligence | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-legacy-systems-lessons-from-a-failed-upgrade-insights-and-strategies/"><u>Navigating Legacy Systems: Lessons From a Failed Upgrade - Insights & Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-falsifying-gps-coordinates-on-smartphones-made-simple/"><u>Step-by-Step: Falsifying GPS Coordinates on Smartphones Made Simple</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolution-of-coding-from-rote-methods-to-ai-enhanced-software-engineering-insights-from-zdnet/"><u>The Evolution of Coding: From Rote Methods to AI-Enhanced Software Engineering - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-4th-gen-echo-is-it-worth-your-investment/"><u>The Ultimate Guide to the 4Th Gen Echo - Is It Worth Your Investment?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-selection-of-ps1-games-now-on-your-computer/"><u>Ultimate Selection of PS1 Games, Now on Your Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-gadgets-a-dive-into-toms-hardware-analyses/"><u>Unveiling Cutting-Edge Gadgets - A Dive Into Tom's Hardware Analyses</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-c67-4g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme C67 4G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-addressing-outdated-technology-is-crucial-a-case-study-on-migration-missteps/"><u>Why Addressing Outdated Technology Is Crucial: A Case Study on Migration Missteps</u></a></li>
+</ul></div>
+

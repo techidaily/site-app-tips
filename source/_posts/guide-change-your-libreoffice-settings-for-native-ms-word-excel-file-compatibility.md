@@ -1,7 +1,7 @@
 ---
 title: "Guide: Change Your LibreOffice Settings for Native MS Word, Excel File Compatibility"
-date: 2024-09-19 13:13:41
-updated: 2024-09-20 11:15:48
+date: 2024-10-01T16:09:10.658Z
+updated: 2024-10-06T18:15:06.985Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-syncing-zoom-to-your-calendar-on-iphoneandroiddesktop/"><u>[Updated] 2024 Approved Syncing Zoom to Your Calendar on iPhone/Android/Desktop</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-erasing-extra-borders-for-smooth-youtube-playback-for-2024/"><u>[Updated] Erasing Extra Borders for Smooth YouTube Playback for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-polishing-your-tiktok-content-a-guide-to-filters/"><u>[Updated] In 2024, Polishing Your TikTok Content A Guide to Filters</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-navigating-through-your-instagram-post-eye-balls/"><u>[Updated] Navigating Through Your Instagram Post Eye-Balls</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2024s-premier-web-host-services-in-depth-analysis-and-ratings-from-seasoned-professionals-network-world/"><u>2024'S Premier Web Host Services: In-Depth Analysis and Ratings From Seasoned Professionals | Network World</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-top-5-data-commercialization-fallacies-insights-from-zdnet/"><u>Debunking Top 5 Data Commercialization Fallacies: Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-14-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 14 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preparing-management-skills-is-key-prior-to-deploying-ai-technology-discover-strategies-with-zdnet/"><u>Preparing Management Skills Is Key Prior to Deploying AI Technology - Discover Strategies with ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/riding-the-wave-of-pervasive-device-expansion-in-edge-investments-boost-your-career-with-insights-from-zdnet/"><u>Riding the Wave of Pervasive Device Expansion in Edge Investments: Boost Your Career with Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-digital-how-non-cash-transactions-are-set-to-soar-to-1nt-led-by-asian-markets-zdnet-insights/"><u>The Future Is Digital: How Non-Cash Transactions Are Set to Soar to $1.nT, Led by Asian Markets | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-and-comparisons-by-tech-experts-ciodigest/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews & Comparisons by Tech Experts | CIODIGEST</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-online-video-reversers/"><u>Updated Best Online Video Reversers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winx-hd-video-converter-deluxe/"><u>WinX HD Video Converter Deluxe 最新アップデート経歴:進化した動画変換機能</u></a></li>
+</ul></div>
+

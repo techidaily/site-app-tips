@@ -1,7 +1,7 @@
 ---
 title: "Achieving Excellence in Agile Software Engineering: Unveiling the 6 Key Principles for a Thriving Design Process"
-date: 2024-09-19 13:22:58
-updated: 2024-09-20 10:17:26
+date: 2024-10-02T17:27:57.034Z
+updated: 2024-10-06T17:05:44.560Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,26 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-youtube-for-asmr-enthusiasts-for-2024/"><u>[Updated] Essential YouTube for ASMR Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-secrets-to-pull-out-parts-from-any-youtube-clip-for-2024/"><u>[Updated] Secrets to Pull Out Parts From Any YouTube Clip for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-filmmakers-guide-to-accompanying-unboxings-with-tunes/"><u>[Updated] The Filmmaker's Guide to Accompanying Unboxings with Tunes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-architects-crafting-fantasy-realms-for-marvel/"><u>2024 Approved Architects Crafting Fantasy Realms for Marvel</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-must-visit-websites-for-text-design-elements-download/"><u>2024 Approved Must-Visit Websites for Text Design Elements Download</u></a></li>
+<li><a href="https://app-tips.techidaily.com/as-the-need-for-data-talent-expands-one-organizations-proactive-approach-to-skill-development-zdnet/"><u>As the Need for Data Talent Expands, One Organization's Proactive Approach to Skill Development | ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-infinix-zero-30-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Infinix Zero 30 5G? Try These Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-y02t-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo Y02T Phone Now with These Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-business-intelligence-direct-access-to-corporate-chief-engineers-via-ai-chains-zdnet/"><u>Revolutionizing Business Intelligence: Direct Access to Corporate Chief Engineers via AI Chains | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-next-horizon-in-employment-how-ai-agents-are-set-to-permanently-reshape-our-careers/"><u>The Next Horizon in Employment: How AI Agents Are Set to Permanently Reshape Our Careers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-mastering-fcp-editing-audio-like-a-pro-for-2024/"><u>Updated Mastering FCP Editing Audio Like a Pro for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-small-and-medium-sized-businesses-overlook-necessary-cybersecurity-coverage-insights-from-zdnet/"><u>Why Small and Medium-Sized Businesses Overlook Necessary Cybersecurity Coverage: Insights From ZDNet</u></a></li>
+</ul></div>
+

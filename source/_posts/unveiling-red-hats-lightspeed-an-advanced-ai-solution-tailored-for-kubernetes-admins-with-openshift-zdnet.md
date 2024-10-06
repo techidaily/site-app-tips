@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Red Hat’s Lightspeed: An Advanced AI Solution Tailored for Kubernetes Admins with OpenShift | ZDNet"
-date: 2024-09-19 16:50:13
-updated: 2024-09-20 10:24:22
+date: 2024-10-04T18:39:30.123Z
+updated: 2024-10-06T17:04:30.705Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,26 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-content-creators-revenue-gain-from-each-click/"><u>[New] 2024 Approved Content Creators' Revenue Gain From Each Click</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-seamless-broadcasting-gamers-secrets-from-obs/"><u>[New] 2024 Approved Seamless Broadcasting Gamers' Secrets From OBS</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-channel-elevation-reach-youtube-affiliate-level-with-10k-views/"><u>[Updated] Channel Elevation Reach YouTube Affiliate Level with 10K Views</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oppo-f23-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Oppo F23 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cognitive-network-advancements-from-arista-enter-mainstream-sectors-a-deep-dive-tech-insights/"><u>Cognitive Network Advancements From Arista Enter Mainstream Sectors: A Deep Dive - Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-elite-learning-management-solutions-rated-by-tech-experts-at-zdnet/"><u>Explore Elite Learning Management Solutions Rated by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-advantages-of-running-an-immutable-linux-distribution-insights-and-benefits/"><u>Exploring the Advantages of Running an Immutable Linux Distribution - Insights and Benefits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/langchains-revolutionary-approach-to-making-genai-truly-beneficial-as-featured-on-zdnet/"><u>LangChain's Revolutionary Approach to Making GenAI Truly Beneficial, as Featured on ZDNet</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-best-emoji-removers-to-remove-emojis-from-pictures-onlinepcmobile/"><u>New Best Emoji Removers to Remove Emojis From Pictures Online/PC/Mobile</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-windows-update-hanging-on-100/"><u>Solved: How to Fix Windows Update Hanging on 100%</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-unveiled-in-depth-analysis-for-tech-enthusiasts/"><u>Tom's Hardware Unveiled: In-Depth Analysis for Tech Enthusiasts</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-best-photo-slideshow-maker-how-to-make-a-photo-slideshow-for-2024/"><u>Updated Best Photo Slideshow Maker How to Make a Photo Slideshow for 2024</u></a></li>
+</ul></div>
+

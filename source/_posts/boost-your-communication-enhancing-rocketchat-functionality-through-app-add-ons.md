@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Communication: Enhancing Rocket.Chat Functionality Through App Add-Ons"
-date: 2024-09-19 17:40:29
-updated: 2024-09-20 10:59:11
+date: 2024-10-02T17:16:28.634Z
+updated: 2024-10-06T17:00:29.625Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-fbx-the-ultimate-gaming-video-guide/"><u>[Updated] 2024 Approved FBX The Ultimate Gaming Video Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unlocking-the-secrets-to-easy-metaverse-character-creation/"><u>[Updated] 2024 Approved Unlocking the Secrets to Easy Metaverse Character Creation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-pro-tips-for-re-sharing-on-instagram/"><u>[Updated] In 2024, Pro Tips for Re-Sharing on Instagram</u></a></li>
+<li><a href="https://blog-min.techidaily.com/achieve-flawless-mp4-conversion-from-hevc-without-sacrificing-video-quality/"><u>Achieve Flawless MP4 Conversion From HEVC Without Sacrificing Video Quality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adapting-office-gadgets-for-the-age-of-artificial-intelligence-zdnet/"><u>Adapting Office Gadgets for the Age of Artificial Intelligence | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-systems-compromised-by-software-glitches-pose-same-dangers-as-ransomware-attacks-insights-on-zdnet/"><u>Critical Systems Compromised by Software Glitches Pose Same Dangers as Ransomware Attacks - Insights on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-new-capabilities-unveiled-with-the-latest-version-of-windows-11-zdnet-insights/"><u>Exploring the New Capabilities Unveiled with the Latest Version of Windows 11 | ZDNet Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-the-link-methods-for-windows-mc-lan-restoration/"><u>Finding the Link: Methods for Windows MC LAN Restoration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-radeon-g-sync-failure/"><u>Fix: Radeon G-Sync Failure</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-xiaomi-redmi-13c-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Xiaomi Redmi 13C 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/latest-trends-and-insights-unveiling-the-best-secrets-on-apples-iphone-ipad-ios-updates-and-entertainment/"><u>Latest Trends & Insights: Unveiling the Best Secrets on Apple's iPhone, iPad, iOS Updates, and Entertainment</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-limitations-of-ai-in-programming-insights-from-zdnet/"><u>Understanding the Limitations of AI in Programming - Insights From ZDNet</u></a></li>
+</ul></div>
+

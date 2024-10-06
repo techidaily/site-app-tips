@@ -1,7 +1,7 @@
 ---
 title: Advancing AI Responsibly with Open Source Innovations - Insights From ZDNet
-date: 2024-09-17 20:31:36
-updated: 2024-09-20 12:56:24
+date: 2024-09-29T18:01:03.516Z
+updated: 2024-10-06T16:28:18.154Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,26 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-premier-guide-to-filmed-action-preservation-for-2024/"><u>[New] Premier Guide to Filmed Action Preservation for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unraveling-adobe-writes-on-shake-reduction-in-photos/"><u>[Updated] Unraveling Adobe’ Writes on Shake Reduction in Photos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-how-adobes-enterprise-level-ai-feature-transforms-team-collaboration-insights-from-zdnet/"><u>1. How Adobe's Enterprise-Level AI Feature Transforms Team Collaboration: Insights From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-best-photo-grid-apps-to-make-your-pictures-stand-out/"><u>2024 Approved 10 Best Photo Grid Apps to Make Your Pictures Stand Out</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhance-content-reach-and-impact-social-blades-role-in-youtube-analytics/"><u>2024 Approved Enhance Content Reach and Impact - Social Blade's Role in YouTube Analytics</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybersecurity-measures/"><u>Cybersecurity Measures</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-sades-headset-drivers-securely-compatible-with-windows/"><u>Download Sades Headset Drivers Securely - Compatible with Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/inject-harmony-into-ppt-decks/"><u>Inject Harmony Into PPT Decks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-how-non-apple-companies-offer-more-enjoyable-work-experiences-confirms-ex-employee-zdnet/"><u>Inside Look: How Non-Apple Companies Offer More Enjoyable Work Experiences, Confirms Ex-Employee | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-your-path-in-technology-with-insights-from-an-industry-titan-the-inside-scoop-on-building-a-career-at-boeing-zdnet/"><u>Navigating Your Path in Technology with Insights From an Industry Titan - The Inside Scoop on Building a Career at Boeing [ZDNet]</u></a></li>
+<li><a href="https://common-error.techidaily.com/proven-techniques-to-restore-functionality-of-laptop-touchpad-on-oldernewer-windows-os/"><u>Proven Techniques to Restore Functionality of Laptop Touchpad on Older/Newer Windows OS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-your-options-is-revo-uninstaller-indispensable-for-clean-software-removals/"><u>Understanding Your Options: Is Revo Uninstaller Indispensable for Clean Software Removals?</u></a></li>
+</ul></div>
+

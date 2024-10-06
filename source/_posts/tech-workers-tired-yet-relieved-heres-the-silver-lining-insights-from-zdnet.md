@@ -1,7 +1,7 @@
 ---
 title: Tech Workers Tired Yet Relieved? Here's the Silver Lining! - Insights From ZDNet
-date: 2024-09-17 13:40:49
-updated: 2024-09-20 10:56:12
+date: 2024-10-05T18:34:08.141Z
+updated: 2024-10-06T17:03:55.970Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-accelerate-conversion-srt-to-text-txt-in-minutes-only/"><u>[New] Accelerate Conversion SRT to Text (TXT) in Minutes Only</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-soloists-journey-personal-growth-and-success-on-youtube-for-musicians/"><u>[New] The Soloist's Journey Personal Growth and Success on YouTube for Musicians</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-beginning-your-first-community-support-blitz-on-facebook/"><u>[Updated] Beginning Your First Community Support Blitz on Facebook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-close-up-communication-the-art-of-zoom-on-teams/"><u>[Updated] Close-Up Communication The Art of Zoom on Teams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-numbers-and-analytics-how-tech-professionals-can-embrace-person-to-person-communication-for-better-outcomes/"><u>Beyond Numbers and Analytics: How Tech Professionals Can Embrace Person-to-Person Communication for Better Outcomes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-sustainable-innovation-singapores-push-for-financing-ai-and-green-tech/"><u>Boosting Sustainable Innovation: Singapore's Push for Financing AI & Green Tech</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hdr-horizon-highlights-selective-online-skies-compilation-for-2024/"><u>HDR Horizon Highlights Selective Online Skies Compilation for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-secure-your-complimentary-windows-10-upgrade-tips-and-truths-by-zdnet/"><u>How to Secure Your Complimentary Windows 10 Upgrade: Tips & Truths by ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-insider-guide-to-creating-and-editing-videos-on-windows-11/"><u>In 2024, The Complete Insider Guide to Creating & Editing Videos on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/make-the-smart-move-4-compelling-reasons-to-embrace-claude-3-rather-than-chatgpt/"><u>Make the Smart Move: 4 Compelling Reasons to Embrace Claude 3 Rather than ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-low-codeno-code-how-artificial-intelligence-is-reshaping-priorities-for-developers-insights-from-zdnet/"><u>Revolutionizing Low-Code/No-Code: How Artificial Intelligence Is Reshaping Priorities for Developers - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-journey-of-transforming-into-an-ai-leader-roles-and-qualifications-expert-guidance/"><u>The Journey of Transforming Into an AI Leader: Roles and Qualifications | Expert Guidance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-providers-of-hyperconverged-infrastructure-solutions-expert-rankings-by-zdnet/"><u>Top Rated Providers of Hyperconverged Infrastructure Solutions - Expert Rankings by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-open-avenues-for-aspiring-competitors-to-advance-ai-technology/"><u>ZDNet Reveals Open Avenues for Aspiring Competitors to Advance AI Technology</u></a></li>
+</ul></div>
+

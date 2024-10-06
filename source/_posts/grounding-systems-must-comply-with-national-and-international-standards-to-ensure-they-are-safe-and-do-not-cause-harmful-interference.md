@@ -1,7 +1,7 @@
 ---
 title: Grounding Systems Must Comply with National and International Standards to Ensure They Are Safe and Do Not Cause Harmful Interference.
-date: 2024-09-17 22:59:29
-updated: 2024-09-20 12:22:56
+date: 2024-09-29T17:18:30.018Z
+updated: 2024-10-06T16:35:04.149Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-business-boosters-the-ultimate-highlight-enhancement-guide/"><u>[New] 2024 Approved Business Boosters The Ultimate Highlight Enhancement Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-instagram-story-mastery-controlling-your-video-speed/"><u>[New] 2024 Approved Instagram Story Mastery Controlling Your Video Speed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-light-up-the-screen-techniques-for-stunning-youtube-visuals/"><u>[New] In 2024, Light Up the Screen Techniques for Stunning YouTube Visuals</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-premiere-trailers-showcase/"><u>[New] In 2024, Premiere Trailers Showcase</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tips-for-obtaining-pristine-images-at-no-cost/"><u>[Updated] Top Tips for Obtaining Pristine Images at No Cost</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-c-suite-digital-literacy-a-guide-to-tech-education-in-six-steps-zdnet/"><u>Advancing C-Suite Digital Literacy: A Guide to Tech Education in Six Steps | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-dominates-the-surge-in-non-cash-payments-expected-to-reach-16-trillion-zdnet-insights/"><u>Asia Dominates the Surge in Non-Cash Payments Expected to Reach $1.6 Trillion | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-artificial-intelligence-create-an-engaging-radio-experience-for-modern-audiences/"><u>Can Artificial Intelligence Create an Engaging Radio Experience for Modern Audiences?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-common-false-beliefs-in-monetizing-data-assets-the-zdnet-perspective/"><u>Debunking Common False Beliefs in Monetizing Data Assets - The ZDNet Perspective</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exploring-best-8k-tvs-detailed-matchups-unveiled-for-2024/"><u>Exploring Best 8K TVs Detailed Matchups Unveiled for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/free-graphic-hubs-best-websites-for-quality-vector-art/"><u>Free Graphic Hubs Best Websites for Quality Vector Art</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-streamlined-regulations-are-boosting-aseans-path-to-a-2t-digital-economy-by-2030-featured-on-zdnet/"><u>How Streamlined Regulations Are Boosting ASEAN's Path to a $2T Digital Economy by 2030, Featured on ZDNET</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-crafting-your-legacy-the-ultimate-list-of-20-iconic-tiktok-captions/"><u>In 2024, Crafting Your Legacy The Ultimate List of 20 Iconic TikTok Captions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-leveraging-multiple-channels-to-boost-online-visibility/"><u>In 2024, Leveraging Multiple Channels to Boost Online Visibility</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovating-for-sustainability-ais-role-in-developing-next-gen-green-smart-appliances-exclusive-report/"><u>Innovating for Sustainability: AI's Role in Developing Next-Gen Green Smart Appliances | Exclusive Report</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-challenges-in-ai-for-profitable-ventures-expert-tips-by-zdnet/"><u>Navigating Challenges in AI for Profitable Ventures | Expert Tips by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainties-of-ai-outputs-and-reliability-in-modern-tech-challenges/"><u>Navigating the Uncertainties of AI Outputs & Reliability in Modern Tech Challenges</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-balance-between-ai-advancements-and-job-expansion-within-the-cybersecurity-sector-insights-from-zdnet/"><u>The Balance Between AI Advancements and Job Expansion Within the Cybersecurity Sector: Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/win-the-fight-against-battlefield-5-starting-difficulties-with-this-2024-hack/"><u>Win the Fight Against Battlefield 5 Starting Difficulties with This 2024 Hack!</u></a></li>
+</ul></div>
+

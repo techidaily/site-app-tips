@@ -1,7 +1,7 @@
 ---
 title: Can't Remember Your Passwords? Discover How a Password Manager Can Help | CNBC
-date: 2024-09-28T23:46:08.818Z
-updated: 2024-10-01T07:51:52.549Z
+date: 2024-10-03T17:16:33.192Z
+updated: 2024-10-06T16:20:04.333Z
 tags:
   - password-manager
 categories:
@@ -175,13 +175,6 @@ The companies that manage and sync those saved files don't have access to the de
 
 That architecture offers five distinct advantages over a DIY solution. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 * [Best VPN services](https://www.zdnet.com/article/best-vpn/)
@@ -194,6 +187,13 @@ That architecture offers five distinct advantages over a DIY solution.
 Most password managers include browser extensions that automatically prompt you to save credentials when you create a new account or sign in using those credentials for the first time on a device. That browser integration also allows you to automatically enter credentials when you visit a matching website and to update the saved credentials when you change your password.
 
 Contrast that approach with the inevitable friction of a manual list. You don't need to find a file and add a password to it to save a new or changed set of credentials, and you don't need to find and open that same file to copy and paste your password. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  2) Password Generation 
 
@@ -211,22 +211,29 @@ Integrating a password manager with a browser is superb protection against phish
 
 That phishing protection is probably the most underrated feature of all. If you manage passwords manually, by copying and pasting from an encrypted personal file, you will paste your username and password into the respective fields on that well-designed fake page, because you don't realize it's fake. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  4) Cross Platform Access 
 
 Password managers work across devices, including PCs, Macs, and mobile devices, with the option to sync your encrypted password database to the cloud. Access to that file and its contents can be secured with biometric authentication and 2FA. 
 
 By contrast, if you manage passwords in an encrypted file that's saved locally, you have to manually copy that file to other devices (or keep it in the cloud in a location under your personal control), and then make sure the contents of each copy stay in sync. More friction. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  5) Surveillance Safeguard 
 
 Password managers generally offer good protection against "shoulder surfing." An attacker who's able to watch you type, either live or with the help of a surveillance camera, can steal your login credentials with ease. Password managers never expose those details. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is there a case against password managers?
 
@@ -245,6 +252,13 @@ And so you wind up keeping an encrypted list of passwords that are not exactly u
 **"If someone steals my password file, they have all my passwords."**
 
 No, they don't. They have an AES-256 encrypted blob that is, for all intents and purposes, useless gibberish. The only way to extract its secrets is with the decryption key, which you and you alone know. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Security
 
@@ -280,31 +294,11 @@ If you're a journalist working on security issues, or an activist in a country w
 
 But even if you're not an obvious candidate for targeted attacks, you can be swept up in a website breach. That's why [Have I Been Pwned?](https://haveibeenpwned.com/) exists. It's easy enough for a compromised website to force you to reset your password, minimizing the risk of that breach, but if you've used that same combination of credentials elsewhere, you're at serious risk. And no matter how careful you are, you're always at risk of being fooled into handing over your credentials in a well-designed phishing attack.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Which password manager is right for you?
 
 Any password manager solution is better than none.
 
 The simplest solution is to use the password management tools built into your default browser or operating system. That option works especially well for anyone who is technically unsophisticated, has a limited number of credentials to store, and uses hardware and services from a single ecosystem. If you're setting things up for a friend or relative who has a Mac and an iPhone, for example, Apple's Keychain will suffice. Those who live in Google's ecosystem can probably get by with Chrome's password manager.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### read this
 
@@ -323,10 +317,10 @@ We've put together a list of the best free and paid options here: [Best Password
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Related stories:
@@ -351,24 +345,17 @@ We've put together a list of the best free and paid options here: [Best Password
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-flip-your-video-frames-effortlessly-with-vlc/"><u>[New] 2024 Approved Flip Your Video Frames Effortlessly with VLC</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-inside-the-wearable-world-how-does-vr-work/"><u>[Updated] In 2024, Inside the Wearable World How Does VR Work?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/24-billion-allocation-for-advanced-ict-systems-and-e-services-by-singapore-expert-analysis-on-zdnet/"><u>$2.4 Billion Allocation for Advanced ICT Systems and E-Services by Singapore | Expert Analysis on ZDNET</u></a></li>
-<li><a href="https://article-tips.techidaily.com/capture-memories-safely-explore-all-inclusive-free-and-charged-cloud-storage-solutions/"><u>Capture Memories Safely Explore All-Inclusive Free and Charged Cloud Storage Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/combatting-tech-burnout-how-artificial-intelligence-offers-relief-to-it-professionals/"><u>Combatting Tech Burnout: How Artificial Intelligence Offers Relief to IT Professionals</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/explore-the-best-in-class-pc-vr-headsets/"><u>Explore the Best-In-Class PC VR Headsets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/harnessing-the-power-of-full-stack-ai-conversations-with-your-enterprises-leading-tech-guru-zdnet-insights/"><u>Harnessing the Power of Full-Stack AI: Conversations with Your Enterprise's Leading Tech Guru | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-rapid-expansion-in-tech-fuels-employee-burnout-strategies-for-change/"><u>How Rapid Expansion in Tech Fuels Employee Burnout - Strategies for Change</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-v30-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo V30 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-new-frontier-the-rise-of-specialized-ai-oversight-positions-for-next-gen-software-teams-zdnet/"><u>Navigating the New Frontier: The Rise of Specialized AI Oversight Positions for Next-Gen Software Teams | ZDNET</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-your-pcs-with-new-aoc-drivers-e1659fwu/"><u>Optimize Your PCs with New AOC Drivers - E1659FWU</u></a></li>
-<li><a href="https://app-tips.techidaily.com/pushing-boundaries-the-rise-of-lowno-code-platforms-and-their-impact-on-traditional-it-support/"><u>Pushing Boundaries: The Rise of Low/No-Code Platforms & Their Impact on Traditional IT Support</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-incoming-wave-of-ai-enabled-agent-ecosystems-transforming-tomorrows-market-services/"><u>The Incoming Wave of AI-Enabled 'Agent Ecosystems': Transforming Tomorrow's Market Services</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-role-of-multiple-ai-systems-in-business-success-understanding-the-trends-with-zdnets-analysis/"><u>The Role of Multiple AI Systems in Business Success: Understanding the Trends with ZDNET's Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/thriving-with-ai-proven-tactics-for-professionals-in-tech-to-excel-at-work-during-an-era-of-automation-guided-by-industry-leaders-on-zdnet/"><u>Thriving with AI: Proven Tactics for Professionals in Tech to Excel at Work During an Era of Automation - Guided by Industry Leaders on ZDNET</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlock-visual-potential-with-smart-photo-text-tools-online/"><u>Unlock Visual Potential with Smart Photo Text Tools Online</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1726225678902-mp2mp4-movavi/"><u>오늘날의 가장 좋은 MP2/MP4 바이트 더미 대체기 - Movavi 웹사이트에서 제공</u></a></li>
+<li><a href="https://app-tips.techidaily.com/company-names-revolutionary-ai-for-sustainable-smart-appliances-spotlight-on-zdnet-review/"><u>[Company Name]'s Revolutionary AI for Sustainable Smart Appliances: Spotlight on ZDNET Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-undead-uncovered-ranking-the-best-zombie-game-clusters/"><u>[New] In 2024, Undead Uncovered Ranking the Best Zombie Game Clusters</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-manager-training-essential-before-introducing-artificial-intelligence-in-business-insights-from-zdnet/"><u>1. Manager Training Essential Before Introducing Artificial Intelligence in Business: Insights From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hidden-elements-the-photoshop-anonymity-guide/"><u>2024 Approved Hidden Elements The Photoshop Anonymity Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/6-superior-android-screen-capture-apps/"><u>6 Superior Android Screen Capture Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-marketing-crews-embrace-advanced-tech-zdnet-insights/"><u>AI Integration: One-Third of Marketing Crews Embrace Advanced Tech | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-ais-horizon-discover-the-accelerating-wave-of-emerging-technologies/"><u>Beyond AI's Horizon: Discover the Accelerating Wave of Emerging Technologies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-magic-5-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor Magic 5 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-note-12-pro-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Xiaomi Redmi Note 12 Pro 4G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-integrated-story-spread-4-simple-steps-on-fb/"><u>In 2024, Integrated Story Spread 4 Simple Steps on FB</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-persistent-dark-display-issue-in-fortnite-on-windows/"><u>Resolved: Fixing the Persistent Dark Display Issue in Fortnite on Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-singapore-advocates-for-financial-backing-of-ai-integration-and-carbon-neutral-goals/"><u>ZDNet Exclusive: Singapore Advocates for Financial Backing of AI Integration and Carbon-Neutral Goals</u></a></li>
 </ul></div>
 

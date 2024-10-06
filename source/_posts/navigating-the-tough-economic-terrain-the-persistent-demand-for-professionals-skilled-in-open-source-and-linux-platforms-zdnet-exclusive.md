@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Tough Economic Terrain: The Persistent Demand for Professionals Skilled in Open Source and Linux Platforms | ZDNET Exclusive"
-date: 2024-09-19 17:38:34
-updated: 2024-09-20 11:12:31
+date: 2024-10-05T16:29:39.769Z
+updated: 2024-10-06T16:58:41.887Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-captivating-copy-creator-pro/"><u>[New] Captivating Copy Creator Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expert-tutorials-on-precision-digital-video-capture/"><u>[New] Expert Tutorials on Precision Digital Video Capture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-speed-with-top-pc-monitor-controls/"><u>[New] Maximizing Speed with Top PC Monitor Controls</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-update-essential-strategies-for-social-media-savvy-for-2024/"><u>[Updated] Facebook Update Essential Strategies for Social Media Savvy for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-make-a-stir-in-the-app-ingenious-bio-strategies-to-captivate-swipes/"><u>[Updated] Make a Stir in the App - Ingenious Bio Strategies to Captivate Swipes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/5-advanced-ai-solutions-dominating-the-market-in-automatic-video-editing-technology/"><u>5 Advanced AI Solutions Dominating the Market in Automatic Video Editing Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-top-8-unrestricted-character-ais-expert-options-without-limitations/"><u>Discover Top 8 Unrestricted Character AIs: Expert Options Without Limitations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-monica-ai-understanding-its-features-and-mastering-chatgpt-assistance/"><u>Exploring Monica AI: Understanding Its Features & Mastering ChatGPT Assistance</u></a></li>
+<li><a href="https://win-tips.techidaily.com/free-online-converter-easily-change-png-images-into-jpeg-format-with-movavi/"><u>Free Online Converter: Easily Change PNG Images Into JPEG Format with Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y100 5G Phone Without Password?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovative-model-conversion-from-text-to-video-within-hugging-faces-collaborative-ecosystem/"><u>Innovative Model Conversion From Text to Video Within Hugging Face's Collaborative Ecosystem</u></a></li>
+<li><a href="https://app-tips.techidaily.com/must-know-review-inside-look-at-the-revolutionary-eva-previously-ex-journey-chatbot/"><u>Must-Know Review: Inside Look at the Revolutionary EVA (Previously Ex Journey) Chatbot</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-your-iphone-update-woes-6-fixes-for-the-resume-download-dilemma/"><u>Resolve Your iPhone Update Woes: 6 Fixes for the 'Resume Download' Dilemma</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-10-cutting-edge-ai-chatbots-to-enhance-your-messaging-game/"><u>The Ultimate List of 10 Cutting-Edge AI Chatbots to Enhance Your Messaging Game</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-conversational-ai-exploring-the-best-features-of-gpt-powered-chatbots/"><u>Top-Rated Conversational AI: Exploring the Best Features of GPT-Powered Chatbots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-reviews-explore-the-best-in-ai-meet-chatgpt-your-new-preferred-chatbot-companion/"><u>Top-Rated Reviews: Explore the Best in AI - Meet ChatGPT, Your New Preferred Chatbot Companion</u></a></li>
+</ul></div>
+

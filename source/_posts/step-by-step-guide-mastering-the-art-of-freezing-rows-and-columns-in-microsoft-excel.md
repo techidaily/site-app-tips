@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Mastering the Art of Freezing Rows & Columns in Microsoft Excel"
-date: 2024-09-18 21:41:19
-updated: 2024-09-20 10:42:40
+date: 2024-10-02T17:53:33.219Z
+updated: 2024-10-06T18:18:54.031Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-strongholds-in-minecraft-the-ultimate-guide/"><u>[Updated] In 2024, Strongholds in Minecraft The Ultimate Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advanced-ai-load-management-in-new-kubernetes-version-unveiled-technews/"><u>Advanced AI Load Management in New Kubernetes Version Unveiled | TechNews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-best-2022-mind-mapping-solutions-and-software-as-ranked-by-zdnet-experts/"><u>Explore the Best 2022 Mind Mapping Solutions and Software as Ranked by ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-artificeinvents-faster-software-development-cycles-and-the-complexities-behind-assessing-its-pace-as-reported-by-zdnet/"><u>How Artificeinvents Faster Software Development Cycles & The Complexities Behind Assessing Its Pace, as Reported by ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-y100t-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo Y100t</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-pro-max-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 12 Pro Max to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-gaomon-s620-complete-driver-steps/"><u>Install Gaomon S620: Complete Driver Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-a-comprehensive-guide-to-taming-linux-and-open-source-docs/"><u>Organizing Chaos: A Comprehensive Guide to Taming Linux & Open Source Docs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-streamlining-linux-and-open-source-docs-with-proven-solutions/"><u>Organizing Chaos: Streamlining Linux & Open Source Docs with Proven Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-conversations-master-text-messaging-on-the-ipad/"><u>Seamless Conversations: Master Text Messaging on the iPad</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-uploading-images-from-iphone-to-windows-pc/"><u>Step-by-Step Guide: Uploading Images From iPhone to Windows PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x-for-2024/"><u>Unveiling Mastery The Ultimate Animoji Guide for iPhone X for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+</ul></div>
+

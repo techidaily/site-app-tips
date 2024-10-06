@@ -1,7 +1,7 @@
 ---
 title: Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance
-date: 2024-09-24T11:37:45.686Z
-updated: 2024-09-30T21:07:49.406Z
+date: 2024-10-04T17:53:13.852Z
+updated: 2024-10-06T17:04:15.901Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,17 +181,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-witty-visuals-crafting-kapwings-laughs/"><u>[New] Witty Visuals Crafting Kapwing's Laughs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-capturing-ps4-gaming-magic-in-full-detail-using-obs/"><u>[Updated] Capturing PS4 Gaming Magic in Full Detail Using OBS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-articulating-emotion-on-stage-through-words/"><u>2024 Approved Articulating Emotion on Stage Through Words</u></a></li>
-<li><a href="https://app-tips.techidaily.com/breaking-news-major-flaw-detected-and-fixed-in-essential-linux-utility-curl-in-depth-analysis-available-at-zdnet/"><u>Breaking News: Major Flaw Detected and Fixed in Essential Linux Utility 'Curl' – In-Depth Analysis Available at ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-influence-of-decentralized-systems-and-web3-on-corporate-structures-a-comprehensive-guide/"><u>Exploring the Influence of Decentralized Systems & Web3 on Corporate Structures: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-deleting-youtube-comments/"><u>In 2024, Deleting YouTube Comments</u></a></li>
-<li><a href="https://app-tips.techidaily.com/organizing-chaos-in-linux-and-free-tech-docs-unveiling-the-clear-path-to-clarity/"><u>Organizing Chaos in Linux & Free Tech Docs: Unveiling The Clear Path to Clarity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/performance/"><u>Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/real-time-update-on-xbox-live-is-there-a-downtime-issue/"><u>Real-Time Update on Xbox Live - Is There a Downtime Issue?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-crucial-role-of-it-departments-in-shaping-modern-customer-journeys-a-perspective-by-zdnet/"><u>The Crucial Role of IT Departments in Shaping Modern Customer Journeys: A Perspective by ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-poco-c55-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Poco C55 Location | Dr.fone</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-10-best-memes-right-now-include-image-gifvideo/"><u>Updated In 2024, 10 Best Memes Right Now (Include Image/ GIF/Video)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-art-of-iphone-image-rotation-effortless-methods/"><u>[New] Master the Art of iPhone Image Rotation - Effortless Methods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-limiting-bitrate-overshoot-in-obs/"><u>[Updated] In 2024, Limiting Bitrate Overshoot in OBS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-citizen-developers-in-modern-business-workflows/"><u>Empowering Citizen Developers in Modern Business Workflows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-low-code-solutions-can-boost-your-companys-appeal-insights-from-zdnet/"><u>How Low-Code Solutions Can Boost Your Company's Appeal: Insights From ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-x-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone X Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-set-up-miracast-in-windows-1111-fix-it-if-it-stops-working-solved/"><u>How to Set up Miracast in Windows 11/11; Fix It if It Stops Working? [Solved]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-streamline-your-linuxopen-source-knowledge-base-for-clarity-and-efficiency-expert-insights-and-solutions/"><u>How to Streamline Your Linux/Open-Source Knowledge Base for Clarity & Efficiency: Expert Insights and Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-image-transfiguration-winmac-photo-animation-pro/"><u>In 2024, Quick Image Transfiguration Win/Mac Photo Animation Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-running-oddworld-soulstorm-on-your-desktop-computer-issues-resolved/"><u>Successfully Running Oddworld: Soulstorm on Your Desktop Computer [ISSUES RESOLVED]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-ai-how-langchain-revolutionizes-generative-assistance/"><u>Unleashing the Power of AI: How LangChain Revolutionizes Generative Assistance</u></a></li>
 </ul></div>
 

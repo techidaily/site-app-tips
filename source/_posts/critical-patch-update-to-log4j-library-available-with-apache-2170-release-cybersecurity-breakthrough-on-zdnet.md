@@ -1,7 +1,7 @@
 ---
 title: Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET
-date: 2024-09-25T02:03:19.404Z
-updated: 2024-09-30T23:44:34.068Z
+date: 2024-10-03T16:33:53.846Z
+updated: 2024-10-06T18:03:54.807Z
 tags:
   - password-manager
 categories:
@@ -108,10 +108,10 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -189,18 +189,20 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unleash-the-full-potential-of-your-hdr-images-with-lightroom/"><u>[New] 2024 Approved Unleash the Full Potential of Your HDR Images with Lightroom</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-initial-steps-towards-perfect-transitional-sound-levels/"><u>[New] In 2024, Initial Steps Towards Perfect Transitional Sound Levels</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-innovative-photography-adding-stylish-borders-to-instagram-pics/"><u>[New] In 2024, Innovative Photography Adding Stylish Borders to Instagram Pics</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-the-power-of-three-tiers-in-crafting-fb-ad-engaging-messages/"><u>[New] Unveiling the Power of Three Tiers in Crafting FB Ad Engaging Messages</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-takes-the-stage-in-low-code-and-no-code-development-strategic-shifts-highlighted-by-zdnet-experts/"><u>AI Takes the Stage in Low-Code and No-Code Development: Strategic Shifts Highlighted by ZDNet Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asia-spearheads-the-surge-in-non-cash-payments-forecasted-reach-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Cash Payments: Forecasted Reach of $1.6 Trillion</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-supercomputers-are-pivotal-in-chinas-quest-for-a-revolutionary-digital-metamorphosis/"><u>How Supercomputers Are Pivotal in China's Quest for a Revolutionary Digital Metamorphosis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-top-tech-pioneers-are-harnessing-the-power-of-open-source-for-groundbreaking-innovations-explore-with-zdnet/"><u>How Top Tech Pioneers Are Harnessing the Power of Open Source for Groundbreaking Innovations | Explore with ZDNET</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/score-amazing-savings-on-samsung-gadgets-before-time-runs-out-this-prime-day/"><u>Score Amazing Savings on Samsung Gadgets Before Time Runs Out This Prime Day!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-restoring-normal-functionality-from-a-blackout-screen-on-android-phones/"><u>Step-by-Step Guide to Restoring Normal Functionality From a Blackout Screen on Android Phones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/uncovering-the-next-breakthrough-the-quest-for-an-ultimate-5g-app-beyond-just-speed-and-connection-zdnet/"><u>Uncovering the Next Breakthrough: The Quest for an Ultimate 5G App Beyond Just Speed and Connection | ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-z-fold-5-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mastering-camtasia-ken-burns-technique-unveiled/"><u>[New] 2024 Approved Mastering Camtasia Ken Burns Technique Unveiled</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unleash-creativity-professional-insights-into-shooting-and-editing-stunning-slow-motion-content-for-instagram/"><u>[New] 2024 Approved Unleash Creativity Professional Insights Into Shooting and Editing Stunning Slow Motion Content for Instagram</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-beatniks-guide-to-music-enhanced-snapchats/"><u>[New] Beatniks' Guide to Music-Enhanced Snapchats</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-youtube-video-cuts-a-beginners-guide-for-2024/"><u>[New] Mastering YouTube Video Cuts A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-nvidia-unveils-new-accelerated-instruction-modules-aims-for-enhanced-gen-ai-performance-tech-news-on-zdnet/"><u>1. NVIDIA Unveils New Accelerated Instruction Modules (AIMs) for Enhanced GEN AI Performance - Tech News on ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accelerated-learning-quick-start-to-becoming-a-lut-expert-for-2024/"><u>Accelerated Learning Quick Start to Becoming a LUT Expert for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/all-in-one-microsoft-experience-bridging-work-life-and-study-with-the-latest-teams-update-on-zdnet/"><u>All-in-One Microsoft Experience: Bridging Work, Life, and Study with the Latest Teams Update on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-pc-experience-transitioning-from-windows-home-to-pro-key-benefits-explained/"><u>Elevate Your PC Experience: Transitioning From Windows Home to Pro - Key Benefits Explained</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/freeze-time-easy-video-editing-techniques/"><u>Freeze Time Easy Video Editing Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-recent-patch-might-escalate-evening-tech-woes-experts-at-zdnet-caution/"><u>Microsoft's Recent Patch Might Escalate Evening Tech Woes, Experts at ZDNet Caution</u></a></li>
+<li><a href="https://app-tips.techidaily.com/raising-the-profile-of-it-in-cx-initiatives-strategies-for-success-a-deep-dive-by-zdnet/"><u>Raising the Profile of IT in CX Initiatives: Strategies for Success - A Deep Dive by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simplifying-systems-management-red-hats-strategic-use-of-ai-to-support-administrators-zdnet/"><u>Simplifying Systems Management: Red Hat's Strategic Use of AI to Support Administrators | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-leading-iam-tools-as-ranked-by-industry-experts/"><u>The Ultimate Guide to Leading IAM Tools , as Ranked by Industry Experts</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oneplus-nord-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/your-guide-to-investing-in-quality-hdr-cameras/"><u>Your Guide to Investing in Quality HDR Cameras</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Impact of the Russian-Ukrainian Conflict on Global Tech Sector | Insights From ZDNet
-date: 2024-09-17 18:30:16
-updated: 2024-09-20 11:47:57
+date: 2024-10-02T16:18:07.049Z
+updated: 2024-10-06T18:29:28.142Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-pro-gamers-guide-to-superior-webcam-gameplay-capturing/"><u>[New] 2024 Approved Pro Gamer's Guide to Superior WebCam Gameplay Capturing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-mobile-games-hacking-tools-on-android-rooted-and-non-rooted-options/"><u>Best 10 Mobile Games Hacking Tools on Android: Rooted & Non-Rooted Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-vsco-features-advantages-disadvantages-and-top-substitutes/"><u>Comprehensive Guide: Understanding VSCO – Features, Advantages, Disadvantages, and Top Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-top-20-best-free-android-games-play-the-complete-versions-with-no-cost/"><u>Download Top 20 Best Free Android Games: Play the Complete Versions with No Cost</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhanced-cyberpunk-2077-playability-fixes-for-overcoming-fps-drops-and-freezing/"><u>Enhanced Cyberpunk 2077 Playability - Fixes for Overcoming FPS Drops & Freezing</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-word-goliaths-uncovering-the-longest-title/"><u>Global Word Goliaths: Uncovering the Longest Title</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-oppo-reno-10-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Oppo Reno 10 Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-tecno-camon-30-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Tecno Camon 30 Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-adobe-premiere-rush-strengths-weaknesses-and-competitor-solutions/"><u>In-Depth Analysis of Adobe Premiere Rush - Strengths, Weaknesses, and Competitor Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-apple-clips-expert-reviews-and-detailed-instructional-insights/"><u>Mastering Apple Clips: Expert Reviews & Detailed Instructional Insights</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-powerdirector-replacement-apps-for-android-and-ios-users/"><u>New Best PowerDirector Replacement Apps for Android and iOS Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-fix-valorant-thumbnails-professionally-done-now/"><u>Quick-Fix Valorant Thumbnails Professionally Done Now!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/section-4b-facts-on-neuroplasticity-in-nerve-injury-recovery/"><u>Section 4B: Facts on Neuroplasticity in Nerve Injury Recovery</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-15-mobile-workout-apps-ideal-for-both-ios-and-android-devices/"><u>Top 15 Mobile Workout Apps: Ideal for Both iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-8-ios-data-backup-solutions-protecting-your-photos-messages-and-more/"><u>Top 8 iOS Data Backup Solutions: Protecting Your Photos, Messages & More</u></a></li>
+</ul></div>
+

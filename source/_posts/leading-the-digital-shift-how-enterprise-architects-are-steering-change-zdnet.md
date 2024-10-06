@@ -1,7 +1,7 @@
 ---
 title: "Leading the Digital Shift: How Enterprise Architects Are Steering Change | ZDNet"
-date: 2024-09-18 18:53:26
-updated: 2024-09-20 12:42:39
+date: 2024-10-01T17:05:59.991Z
+updated: 2024-10-06T17:15:56.631Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-pinpointing-perfect-pexels-photographs/"><u>[New] The Art of Pinpointing Perfect Pexels Photographs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-cutting-edge-methods-to-record-and-save-lectures-on-imac/"><u>[Updated] In 2024, Cutting-Edge Methods to Record and Save Lectures on iMac</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-perfect-pair-merging-your-youtube-video-library/"><u>2024 Approved Perfect Pair Merging Your YouTube Video Library</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-photoshop-basics-for-beginners-10-must-know-tricks/"><u>2024 Approved Photoshop Basics for Beginners 10 Must-Know Tricks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-and-assessment-unveiling-the-power-of-vllo-video-editor/"><u>Comprehensive Analysis & Assessment: Unveiling the Power of VLLO Video Editor</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-free-mobile-radio-player-on-apple-devices-iphoneipadipod-touch/"><u>Discover the Ultimate Free Mobile Radio Player on Apple Devices (iPhone/iPad/iPod Touch)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discovering-concealed-ios-applications-a-comprehensive-guide/"><u>Discovering Concealed iOS Applications: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-evaluation-the-picku-application-and-comparable-no-cost-image-editing-solutions/"><u>Expert Evaluation: The PickU Application & Comparable No-Cost Image Editing Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-advanced-concepts-in-googles-mobile-device-management-mdm-and-its-future-capabilities-a-comprehensive-guide/"><u>Explore Advanced Concepts in Google's Mobile Device Management (MDM) and Its Future Capabilities – A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/explore-and-relish-top-sandbox-journeys-for-2024/"><u>Explore and Relish Top Sandbox Journeys for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-pc-how-to-troubleshoot-a-non-charging-laptop-with-windows-11/"><u>Fix Your PC: How to Troubleshoot a Non-Charging Laptop with Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-cross-platform-capture-made-simple-for-pc-mac-and-ios/"><u>In 2024, Cross-Platform Capture Made Simple for PC, Mac & iOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-framing-your-story-with-effective-titles/"><u>In 2024, Framing Your Story with Effective Titles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-tips-effective-techniques-to-preserve-all-your-iphone-app-data/"><u>Quick Tips: Effective Techniques to Preserve All Your iPhone App Data</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-8-exceptional-multitasking-applications-for-your-android-device/"><u>Top 8 Exceptional Multitasking Applications for Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-of-top-10-android-game-cracking-apps-work-with-or-without-root-access/"><u>Ultimate List of Top 10 Android Game Cracking Apps - Work with or without Root Access</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-secure-android-app-protectors-find-out-which-ones-rank-the-highest/"><u>Ultimate Selection of Secure Android App Protectors – Find Out Which Ones Rank the Highest</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windowsand/"><u>Windows用動画編集ソフトで簡単に振り分け&融合:技術ガイド</u></a></li>
+</ul></div>
+

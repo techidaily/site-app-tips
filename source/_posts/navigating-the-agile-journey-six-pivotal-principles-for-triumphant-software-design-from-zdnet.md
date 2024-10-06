@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Agile Journey: Six Pivotal Principles for Triumphant Software Design From ZDnet"
-date: 2024-09-18 11:46:19
-updated: 2024-09-20 12:26:14
+date: 2024-10-04T18:39:04.073Z
+updated: 2024-10-06T17:24:04.199Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +184,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fine-tune-your-visual-storytelling-in-videoleap-footage/"><u>2024 Approved Fine-Tune Your Visual Storytelling in Videoleap Footage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726227567286-movavi/"><u>無料で簡単に行えるオンラインツァグリッチ・アンド・ティファニーフォルムの変換 - Movavi ガイダンス</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-budget-friendly-android-block-puzzles-expert-reviews-and-how-to-get-them/"><u>Best Budget-Friendly Android Block Puzzles - Expert Reviews & How to Get Them</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-youcut-tool-insights-and-essential-information/"><u>Comprehensive Guide to YouCut Tool : Insights & Essential Information</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversione-rapida-e-gratuita-di-audio-avi-a-mp3-online-utilizzo-facile-del-servizio-easyconvertaudio/"><u>Conversione Rapida E Gratuita Di Audio AVI a MP3 Online - Utilizzo Facile Del Servizio EasyConvertAudio</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/digiarty-software-kundensupport-fur-den-kauf-die-lizenzierung-das-upgrade-und-mehr/"><u>Digiarty Software: Kundensupport Für Den Kauf, Die Lizenzierung, Das Upgrade Und Mehr</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-wifi-code-finder-for-android-devices-unlock-and-organize-your-connections-with-our-password-manager/"><u>Easy WiFi Code Finder for Android Devices: Unlock and Organize Your Connections with Our Password Manager</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620189235-get-your-favorite-android-games-on-lockdown-the-ultimate-list-of-20-free-full-version-apks-to-download-today/"><u>Get Your Favorite Android Games on Lockdown: The Ultimate List of 20 Free, Full-Version APKs to Download Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-to-updating-or-downloading-hp-officejet-pro-8620-drivers-in-windows-operating-system/"><u>Guide to Updating or Downloading HP OfficeJet Pro 8620 Drivers in Windows Operating System</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-infinix-note-30-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Infinix Note 30 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-nokia-c300-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Nokia C300 has been deleted</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-choice-affordable-samsung-mp3-players-compatible-with-galaxy-s8-s9-and-pcs-both-free-and-premium-options-available/"><u>Top Choice Affordable Samsung MP3 Players: Compatible with Galaxy S8, S9 & PCs [Both Free & Premium Options Available]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-choosing-the-best-app-to-check-if-your-android-is-rooted/"><u>Ultimate Guide: Choosing the Best App to Check if Your Android Is Rooted</u></a></li>
+</ul></div>
+

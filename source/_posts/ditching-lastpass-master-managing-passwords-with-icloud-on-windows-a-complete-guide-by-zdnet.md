@@ -1,7 +1,7 @@
 ---
 title: Ditching LastPass? Master Managing Passwords with iCloud on Windows - A Complete Guide by ZDNet
-date: 2024-09-28T18:52:13.136Z
-updated: 2024-10-01T00:45:27.755Z
+date: 2024-10-01T17:45:29.999Z
+updated: 2024-10-06T19:04:06.782Z
 tags:
   - password-manager
 categories:
@@ -31,6 +31,13 @@ If you've been around for the past 10 or so years, you know that most services r
 
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to use iCloud as a password manager on Windows
 
 ## 1\. Open iCloud for Windows
@@ -44,10 +51,10 @@ Go to the Start menu and open iCloud for Windows.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Sign in to your iCloud Passwords
@@ -80,13 +87,6 @@ Maria Diaz/ZDNET
 
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Enable Autofill on Chrome
 
 Since I added the [Google Chrome extension](https://www.zdnet.com/article/best-chrome-extension/), the next step is to **Enable Autofill** to give Chrome permission to my iCloud Passwords.
@@ -118,34 +118,28 @@ Like LastPass, the browser extension will let you fill in your login information
 ## FAQ
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do you get iCloud for Windows?  
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How do I set up iCloud Keychain? 
 
 iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/article/how-to-update-all-of-your-apple-devices/): [iPhone](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fipad%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [Mac](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). To set it up, go to your iPhone's Settings and tap on your name at the top of the screen to access your iCloud settings. Then, choose iCloud. Find Passwords and Keychain and select that, then tap on Sync this iPhone to turn it on. 
 
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
 
@@ -181,19 +175,20 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-your-guide-to-affordable-android-recording-with-top-8-free-apps-for-2024/"><u>[New] Your Guide to Affordable Android Recording with Top 8 Free Apps for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-decoding-sonys-screenshot-system-an-in-depth-look-at-ps4-recording/"><u>[Updated] Decoding Sony's Screenshot System An In-Depth Look at PS4 Recording</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-structuring-engaging-online-vignettes/"><u>[Updated] Structuring Engaging Online Vignettes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-your-creativity-innovative-online-crop-strategies/"><u>2024 Approved Unleash Your Creativity - Innovative Online Crop Strategies</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boot-into-peace-five-tactics-to-overcome-windows-security-failures/"><u>Boot Into Peace: Five Tactics to Overcome Windows Security Failures</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-fusion-of-anime-and-disappointment-in-the-valkyrie-vind-sl125/"><u>Exploring the Fusion of Anime and Disappointment in the Valkyrie Vind SL125</u></a></li>
-<li><a href="https://app-tips.techidaily.com/genuine-insight-into-lightcut-the-ultimate-ai-powered-video-editor-for-your-mobile-devices-android-and-ios/"><u>Genuine Insight Into LightCut: The Ultimate AI-Powered Video Editor for Your Mobile Devices (Android & iOS)</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revitalize-your-iphone-four-effective-methods-to-recover-data-from-icloud/"><u>Revitalize Your iPhone: Four Effective Methods to Recover Data From iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-creating-and-sharing-video-calls-via-skype-whatsapp/"><u>Step-by-Step Tutorial: Creating & Sharing Video Calls via Skype, WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-25-best-iphone-video-editors-a-comprehensive-guide-from-iphone-x-to-iphone-5/"><u>Top 25 Best iPhone Video Editors: A Comprehensive Guide From iPhone X to iPhone 5</u></a></li>
-<li><a href="https://app-tips.techidaily.com/uncover-secrets-of-stealthy-iphone-programs-strategies-and-methods/"><u>Uncover Secrets of Stealthy iPhone Programs: Strategies and Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620190018-unlock-free-iphone-and-android-entertainment-with-appcake-get-all-your-favorite-cracked-apps-and-games-now/"><u>Unlock Free iPhone & Android Entertainment with AppCake - Get All Your Favorite Cracked Apps & Games Now</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-fb-melody-cache-legally/"><u>[New] 2024 Approved FB Melody Cache (Legally)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-edit-audio-on-youtube/"><u>[New] 2024 Approved How to Edit Audio on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ableton-live-mastering-volume-dampening/"><u>[Updated] Ableton Live Mastering Volume Dampening</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-easy-content-making-10-basic-youtube-videos-for-2024/"><u>[Updated] The Ultimate Guide to Easy Content Making 10 Basic YouTube Videos for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-points-exploring-how-generative-artificial-intelligence-is-revolutionizing-user-interface-design-featured-on-zdnet/"><u>Beyond Clicks & Points: Exploring How Generative Artificial Intelligence Is Revolutionizing User Interface Design | Featured on ZDNET</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/chatgpt-plus-reviewed-is-it-a-game-changer-for-users-see-why/"><u>ChatGPT Plus Reviewed - Is It a Game-Changer for Users? See Why!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-84-in-fortnite-troubleshooting-steps-for-fixing-cannot-connect-to-party/"><u>Error 84 in Fortnite - Troubleshooting Steps for Fixing 'Cannot Connect to Party'</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-opportunities-for-new-players-in-the-ai-model-development-arena-insights-from-zdnet/"><u>Exploring Opportunities for New Players in the AI Model Development Arena - Insights From ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-huawei-nova-y71-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Huawei Nova Y71 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-web-hosting-providers-in-depth-analysis-by-professionals-pcmag/"><u>Leading Web Hosting Providers : In-Depth Analysis by Professionals | PCMag</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-ai-limitations-an-in-depth-look-at-precision-challenges-by-zdnet/"><u>Mastering AI Limitations: An In-Depth Look at Precision Challenges by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-digital-defense-the-urgent-call-for-enhanced-cybersecurity-expertise-amidst-legacy-system-challenges/"><u>Navigating the Digital Defense: The Urgent Call for Enhanced Cybersecurity Expertise Amidst Legacy System Challenges</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionize-your-gameplay-with-this-gratuitous-voice-alterer-for-2024/"><u>Revolutionize Your Gameplay with This Gratuitous Voice Alterer for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-growth-of-edge-devices-and-its-impact-on-job-prospects-an-exploration-by-zdnet/"><u>The Growth of Edge Devices and Its Impact on Job Prospects - An Exploration by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uplifting-information-and-communication-technology-singapores-24b-allocation-detailed-zdnet-analysis/"><u>Uplifting Information and Communication Technology: Singapore's $2.4B Allocation Detailed | ZDNet Analysis</u></a></li>
 </ul></div>
 

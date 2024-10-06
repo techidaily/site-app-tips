@@ -1,7 +1,7 @@
 ---
 title: "Square and Cash App Downtime: Essential Info for Entrepreneurs | Tech News"
-date: 2024-09-19 18:46:35
-updated: 2024-09-20 12:32:52
+date: 2024-10-01T16:42:56.945Z
+updated: 2024-10-06T17:01:26.992Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-beginner-friendly-introduction-to-io-screen-recorder-for-2024/"><u>[New] A Beginner-Friendly Introduction to IO Screen Recorder for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-evaluating-new-tech-in-lg-360-cameras-for-a-fresh-perspective/"><u>[New] Evaluating New Tech in LG 360 Cameras for a Fresh Perspective</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-advanced-iphone-techniques-making-and-editing-video-at-reduced-pace/"><u>[New] In 2024, Advanced iPhone Techniques Making & Editing Video at Reduced Pace</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-comprehensive-list-of-high-quality-game-entrance-makers-online/"><u>[New] In 2024, Comprehensive List of High-Quality Game Entrance Makers Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-browsing-strategies-with-picture-in-picture-mode/"><u>[New] Innovative Browsing Strategies with Picture-In-Picture Mode</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-explore-elite-gaming-opening-tutorials-free-and-premium-alternatives/"><u>[Updated] In 2024, Explore Elite Gaming Opening Tutorials Free & Premium Alternatives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/10-owners-to-consider-before-end-of-life-date-hits/"><u>10 Owners to Consider Before End-of-Life Date Hits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-premier-cloud-platforms-exploring-the-strengths-of-aws-microsoft-azure-and-google-cloud-in-hybrid-saas-markets-insights-by-zdnet/"><u>Comprehensive Review of Premier Cloud Platforms: Exploring the Strengths of AWS, Microsoft Azure & Google Cloud in Hybrid, SaaS Markets | Insights by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-elite-selection-of-macos-programs-featured-on-zdnet/"><u>Explore the Elite Selection of macOS Programs - Featured on ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/exploring-proficiency-uncovering-the-best-5-online-title-creators-for-2024/"><u>Exploring Proficiency Uncovering the Best 5 Online Title Creators for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-superior-economical-live-camera-snapper/"><u>In 2024, Superior Economical Live Camera Snapper</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovating-ai-research-breaking-free-from-conventional-llm-approaches/"><u>Innovating AI Research - Breaking Free From Conventional LLM Approaches</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-2b-five-facts-to-remember-about-antenna-grounding/"><u>Section 2B: Five Facts to Remember About Antenna Grounding</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-here-exploring-the-cutting-edge-of-5g-and-edge-computing-innovations-highlights-by-zdnet/"><u>The Future Is Here: Exploring the Cutting-Edge of 5G and Edge Computing Innovations | Highlights by ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-advantages-raspberry-pi-for-vintage-game-revamps/"><u>Top 6 Advantages: Raspberry Pi for Vintage Game Revamps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-pc-experience-detailed-instructions-for-replacing-windows-with-linux-mint/"><u>Transform Your PC Experience: Detailed Instructions for Replacing Windows With Linux Mint</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-microsofts-critical-challenge-with-windows-11-just-one-year-away-an-in-depth-analysis-by-zdnet/"><u>Urgent: Microsoft's Critical Challenge with Windows 11 Just One Year Away - An In-Depth Analysis by ZDNet</u></a></li>
+</ul></div>
+

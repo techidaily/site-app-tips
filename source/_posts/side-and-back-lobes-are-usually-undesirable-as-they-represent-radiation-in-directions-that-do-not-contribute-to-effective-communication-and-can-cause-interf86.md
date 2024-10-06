@@ -1,7 +1,7 @@
 ---
 title: Side and Back Lobes Are Usually Undesirable as They Represent Radiation in Directions that Do Not Contribute to Effective Communication and Can Cause Interference.
-date: 2024-09-27T03:20:57.550Z
-updated: 2024-09-30T17:05:52.887Z
+date: 2024-10-02T16:25:17.844Z
+updated: 2024-10-06T19:09:37.684Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-simplified-video-transferring-techniques-for-youtube-enthusiasts/"><u>[New] 2024 Approved Simplified Video Transferring Techniques for YouTube Enthusiasts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ultimate-selection-8-must-have-laptop-backgrounds-for-2024/"><u>[New] Ultimate Selection 8 Must-Have Laptop Backgrounds for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-digital-riches-transitioning-youtube-earnings-to-currency/"><u>[Updated] Digital Riches Transitioning YouTube Earnings to Currency</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-power-of-niche-hashtags-for-targeted-instagram-reach/"><u>[Updated] In 2024, The Power of Niche Hashtags for Targeted Instagram Reach</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-down-color-grading-into-simplified-steps/"><u>Breaking Down Color Grading Into Simplified Steps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/critical-quality-checks-trigger-global-recall-of-amd-ryzen-9000-fans-anticipate-revised-release-timeline-in-august/"><u>Critical Quality Checks Trigger Global Recall of AMD Ryzen 9000 - Fans Anticipate Revised Release Timeline in August</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-truth-behind-crypto-anonymity-a-deep-dive-into-a-groundbreaking-study/"><u>Exploring the Truth Behind Crypto Anonymity – A Deep Dive Into a Groundbreaking Study</u></a></li>
-<li><a href="https://app-tips.techidaily.com/forgetting-passwords-fuels-growing-demand-for-biometric-security-solutions/"><u>Forgetting Passwords Fuels Growing Demand for Biometric Security Solutions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/gateway-to-grandeur-embarking-on-a-classic-lit-journey-for-2024/"><u>Gateway to Grandeur Embarking on a Classic Lit Journey for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guarding-againnst-stealthy-cryptocurrency-miners-safe-torrenting-tips-for-spider-man-no-way-home-with-advice-by-zdnet-experts/"><u>Guarding Againnst Stealthy Cryptocurrency Miners: Safe Torrenting Tips for 'Spider-Man: No Way Home' With Advice by ZDNet Experts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-samsung-galaxy-z-fold-5-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Samsung Galaxy Z Fold 5 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/instagram-examining-the-questions-of-trust-and-authenticity/"><u>Instagram: Examining the Questions of Trust and Authenticity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/proofpoint-reveals-how-cybercriminals-exploit-fans-desire-for-justin-bieber-and-the-weeknd-events-to-propagate-malware/"><u>Proofpoint Reveals How Cybercriminals Exploit Fans' Desire for Justin Bieber & The Weeknd Events to Propagate Malware</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-devices-with-ease-apples-new-passkey-revealed-at-wwdc-zdnet-insights/"><u>Secure Your Devices with Ease: Apple's New Passkey Revealed at WWDC | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-biometrics-as-users-struggle-with-password-fatigue-insights-from-zdnet-analysis/"><u>The Rise of Biometrics as Users Struggle with Password Fatigue: Insights From ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-password-management-secrets-with-dashlane-costs-capabilities-and-starting-guide-techinsight/"><u>Unlocking Password Management Secrets with Dashlane: Costs, Capabilities & Starting Guide | TechInsight</u></a></li>
-<li><a href="https://techidaily.com/v30t-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>V30T support - Forgotten screen lock.</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-samsung-galaxy-s8-4k-smartphone-review/"><u>2024 Approved Samsung Galaxy S8 4K Smartphone Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/a-beginners-approach-to-title-and-caption-integration-in-windows-10-photos/"><u>A Beginner's Approach to Title and Caption Integration in Windows 10 Photos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehveiw-where-does-verizon-stand-in-todays-5g-scene/"><u>A Comprehveiw: Where Does Verizon Stand in Today's 5G Scene?</u></a></li>
+<li><a href="https://games-able.techidaily.com/assistant-controller-the-secret-to-ps5-mastery/"><u>Assistant Controller: The Secret to PS5 Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-backwards-compatibility-between-sony-consoles/"><u>Breaking Down Backwards Compatibility Between Sony Consoles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-tutorial-on-transferring-your-chatgpt-exchange-records/"><u>Complete Tutorial on Transferring Your ChatGPT Exchange Records</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-icloud-backup-essentials/"><u>Comprehensive Guide: Understanding iCloud Backup Essentials</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-setup-tutorial-using-icloud-on-windows-with-the-icloud-control-panel-app/"><u>Easy Setup Tutorial: Using iCloud on Windows with the iCloud Control Panel App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-log-out-from-your-icloud-account-safely-top-3-methods-for-iphone-ipad-and-mac-users/"><u>How To Log Out From Your iCloud Account Safely: Top 3 Methods for iPhone, iPad & Mac Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-analysis-of-snappy-driver-installer-v113-edition/"><u>In-Depth Analysis of Snappy Driver Installer, v1.13 Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastery-in-making-sense-top-6-persuasive-video-types-for-2024/"><u>Mastery in Making Sense Top 6 Persuasive Video Types for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-integrating-your-icloud-calendar-on-a-windows-desktop/"><u>Step-by-Step Guide: Integrating Your iCloud Calendar on a Windows Desktop</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-securely-syncing-your-ipad-pro-mini-and-air-with-icloud-backups/"><u>Step-by-Step Guide: Securely Syncing Your iPad Pro, Mini & Air with iCloud Backups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264574-struggling-with-a-forgotten-icloud-login-discover-these-6-effective-remedies/"><u>Struggling with a Forgotten iCloud Login? Discover These 6 Effective Remedies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-steps-for-removing-your-icloud-email-address-top-strategies-inside/"><u>Ultimate Guide: Steps for Removing Your iCloud Email Address - Top Strategies Inside</u></a></li>
 </ul></div>
 

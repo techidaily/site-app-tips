@@ -1,7 +1,7 @@
 ---
 title: "Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal"
-date: 2024-09-30T09:52:32.533Z
-updated: 2024-09-30T23:51:02.436Z
+date: 2024-10-05T16:15:53.978Z
+updated: 2024-10-06T16:25:53.654Z
 tags:
   - password-manager
 categories:
@@ -82,32 +82,27 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-crafting-captivating-stories-on-fb-a-comprehensive-guide-to-bio-crafting/"><u>[New] 2024 Approved Crafting Captivating Stories on FB A Comprehensive Guide to Bio Crafting</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-ultimate-guide-to-excellent-monitors-for-photo-professionals/"><u>[New] 2024 Approved The Ultimate Guide to Excellent Monitors for Photo Professionals</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-demystifying-the-purpose-what-is-a-blue-image-on-facebook/"><u>[Updated] Demystifying the Purpose What Is a Blue Image on Facebook?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/choosing-the-right-user-account-for-windows-11-installation-tips-and-considerations/"><u>Choosing the Right User Account for Windows 11 Installation: Tips and Considerations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-tech-departments-elevating-your-brand-through-enhanced-customer-experiences-insights-from-zdnet/"><u>Empowering Tech Departments: Elevating Your Brand Through Enhanced Customer Experiences - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expanding-security-juniper-networks-integrates-cloud-firewall-into-sase-solutions-zdnet-insight/"><u>Expanding Security: Juniper Networks Integrates Cloud Firewall Into SASE Solutions - ZDNet Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-windows-11-end-of-life-in-one-year-explore-your-5-viable-alternatives-now-insights-from-zdnet/"><u>Facing Windows 11 End of Life in One Year? Explore Your 5 Viable Alternatives Now - Insights From ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-razr-40-ultra-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Razr 40 Ultra Phone Forgot Password</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-15-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 15 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-mavericks-mp4-video-editor-a-comprehensive-guide/"><u>New In 2024, Mavericks MP4 Video Editor A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/streamlining-linux-and-oss-guidebooks-the-ultimate-strategy-revealed-by-zdnet/"><u>Streamlining Linux & OSS Guidebooks: The Ultimate Strategy Revealed by ZDNET</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transformer-un-fichier-mka-en-format-ogg-gratuite-en-ligne-avec-guide-de-movavi/"><u>Transformer Un Fichier MKA en Format OGG Gratuite en Ligne - Avec Guide De Movavi</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-the-cloud-industry-key-forecasts-by-renowned-tech-cto-on-evolving-business-strategies-wired/"><u>Transforming the Cloud Industry: Key Forecasts by Renowned Tech CTO on Evolving Business Strategies - Wired</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-essential-guide-to-compositing-using-blending-modes-for-2024/"><u>[New] Essential Guide to Compositing Using Blending Modes for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-markets-tiny-helicopters-a-ranked-list/"><u>[Updated] Market's Tiny Helicopters A Ranked List</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mkv-movavi/"><u>線上免收費MKV預覽 - Movavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-fongo-evaluation-best-canadian-voip-provider/"><u>Comprehensive Fongo Evaluation: Best Canadian VOIP Provider</u></a></li>
+<li><a href="https://app-tips.techidaily.com/devops-engineer-career-navigating-the-pros-cons-and-challenges-insights-from-zdnet/"><u>DevOps Engineer Career: Navigating the Pros, Cons, and Challenges – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-alternatives-to-explore-as-microsofts-support-for-windows-10-concludes-insights-from-zdnet/"><u>Five Alternatives to Explore as Microsoft's Support for Windows 10 Concludes - Insights From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-13t-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi 13T Through Google Earth?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/interference-reduction/"><u>Interference Reduction</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/laptop-guide-conducting-live-calls-on-whatsapp-browser-for-2024/"><u>Laptop Guide Conducting Live Calls on WhatsApp Browser for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/motion-detection/"><u>Motion Detection</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-precision-listening-top-audio-customization-techniques-for-2024/"><u>New Precision Listening Top Audio Customization Techniques for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transitioning-from-windows-home-to-professional-key-benefits-unveiled/"><u>Step-by-Step Guide: Transitioning From Windows Home to Professional - Key Benefits Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-converting-your-computer-from-windows-to-linux-mint-for-beginners/"><u>Step-by-Step Tutorial: Converting Your Computer From Windows to Linux Mint for Beginners</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-compelling-benefits-of-adopting-aiops-insights-from-zdnet/"><u>Top 7 Compelling Benefits of Adopting AIOps: Insights From ZDNet</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

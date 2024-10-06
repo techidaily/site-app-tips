@@ -1,7 +1,7 @@
 ---
 title: "CrowdStrike's CTO Warns: Generative AI Emerges as a Major Threat to Business Security"
-date: 2024-09-18 20:55:36
-updated: 2024-09-20 10:57:34
+date: 2024-10-04T17:36:27.410Z
+updated: 2024-10-06T18:30:04.448Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,25 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-charm-with-charisma-animate-your-instagram-story-texts-for-2024/"><u>[New] Charm with Charisma Animate Your Instagram Story Texts for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/counterclockwise-watch-how-to-unravel-your-youtube-sequence/"><u>Counterclockwise Watch How to Unravel Your YouTube Sequence</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-citizen-developers-in-modern-business-workflows/"><u>Empowering Citizen Developers in Modern Business Workflows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-low-code-solutions-can-boost-your-companys-appeal-insights-from-zdnet/"><u>How Low-Code Solutions Can Boost Your Company's Appeal: Insights From ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-se-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone SE Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-streamline-your-linuxopen-source-knowledge-base-for-clarity-and-efficiency-expert-insights-and-solutions/"><u>How to Streamline Your Linux/Open-Source Knowledge Base for Clarity & Efficiency: Expert Insights and Solutions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-video-ventures-youtube-shorts-or-tiktok/"><u>In 2024, Video Ventures YouTube Shorts or TikTok?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transforming-your-windows-home-into-professional-grade-with-an-easy-upgrade/"><u>Step-by-Step Guide: Transforming Your Windows Home Into Professional Grade with an Easy Upgrade</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-gif-making-software-showdown/"><u>The Ultimate GIF Making Software Showdown</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transform-your-images-with-ej-tech-utilizing-the-innovative-features-of-movavis-software-suite/"><u>Transform Your Images with EJ Tech: Utilizing the Innovative Features of Movavi's Software Suite</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-ai-how-langchain-revolutionizes-generative-assistance/"><u>Unleashing the Power of AI: How LangChain Revolutionizes Generative Assistance</u></a></li>
+</ul></div>
+

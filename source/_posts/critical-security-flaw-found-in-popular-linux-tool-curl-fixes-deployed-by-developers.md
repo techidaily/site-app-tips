@@ -1,7 +1,7 @@
 ---
 title: Critical Security Flaw Found in Popular Linux Tool Curl - Fixes Deployed by Developers
-date: 2024-09-23T19:07:33.132Z
-updated: 2024-10-01T00:34:55.792Z
+date: 2024-10-01T19:01:43.741Z
+updated: 2024-10-06T18:09:48.996Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +181,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-reducing-excessive-encoding-obs-broadcast/"><u>[Updated] Reducing Excessive Encoding (OBS Broadcast)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-revolutionizing-video-creation-with-magix-video-pro-x/"><u>[Updated] Revolutionizing Video Creation with Magix Video Pro X</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2023-guide-to-affordable-laptop-dvd-players-for-2024/"><u>2023 Guide to Affordable Laptop DVD Players for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/create-your-digital-twin-build-your-own-personal-ai-avatar-with-these-simple-steps-discover-the-future-of-interaction/"><u>Create Your Digital Twin: Build Your Own Personal AI Avatar with These Simple Steps – Discover the Future of Interaction</u></a></li>
-<li><a href="https://app-tips.techidaily.com/digital-evolution-in-business-the-crucial-role-of-enterprise-architects/"><u>Digital Evolution in Business: The Crucial Role of Enterprise Architects</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/dissecting-vivas-multimedia-interface/"><u>Dissecting Viva's Multimedia Interface</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-innovation-beyond-apples-walls-why-diverse-workplaces-spark-creativity/"><u>Embracing Innovation Beyond Apple's Walls - Why Diverse Workplaces Spark Creativity</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/identifying-exclusion-from-chatsphere/"><u>Identifying Exclusion From Chatsphere</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-a79-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo A79 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-v29frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo V29FRP Lock</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007059561-lost-ark-quiet-dilemma-heres-how-you-can-restore-your-game-sounds/"><u>Lost Ark Quiet Dilemma? Here's How You Can Restore Your Game Sounds!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/open-source-mastery-and-proficiency-with-linux-a-ticket-to-employment-resilience-amidst-economic-uncertainty-featured-on-zdnet/"><u>Open Source Mastery and Proficiency with Linux: A Ticket to Employment Resilience Amidst Economic Uncertainty | Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-higher-output-with-the-programmer-approach-learn-from-dev-teams-zdnet/"><u>Unlocking Higher Output with the Programmer Approach - Learn From Dev Teams | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-professionals-prefer-windows-11-according-to-microsoft-and-zdnet-analysis/"><u>Why Professionals Prefer Windows 11, According to Microsoft & ZDNet Analysis</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-addicted-to-boomerangs-mastering-ig-loop-artistry-for-2024/"><u>[New] Addicted to Boomerangs Mastering IG Loop Artistry for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-streamline-online-interactions-the-simple-science-of-clear-backgrounds-in-google-meet/"><u>[Updated] Streamline Online Interactions The Simple Science of Clear Backgrounds in Google Meet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2022s-leading-data-security-solutions-find-the-ultimate-encryption-software-according-to-industry-experts-at-zdnet/"><u>2022'S Leading Data Security Solutions: Find the Ultimate Encryption Software According to Industry Experts at ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-avoiding-objections-to-autoplay-videos-on-fb/"><u>2024 Approved Avoiding Objections to Autoplay Videos on FB</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-efficiency-with-slack-mastering-the-apps-top-features-for-enhanced-workflow-zdnet/"><u>Boost Your Efficiency with Slack: Mastering the App's Top Features for Enhanced Workflow | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-top-benefits-of-embracing-aiops-why-you-need-to-make-the-switch/"><u>Exploring the Top Benefits of Embracing AIOps: Why You Need to Make the Switch</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-x5-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco X5 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/optimized-strategies-for-youtube-and-facebook-cross-posting-for-2024/"><u>Optimized Strategies for YouTube & Facebook Cross-Posting for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-files-on-mac-the-ultimate-guide-to-data-recovery-apps/"><u>Revive Files on Mac: The Ultimate Guide to Data Recovery Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-install-custom-fonts-on-your-iphone/"><u>Steps to Install Custom Fonts on Your iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-impact-of-russian-aggression-on-ukraines-tech-sector-potential-risks-and-concerns/"><u>The Impact of Russian Aggression on Ukraine's Tech Sector: Potential Risks and Concerns</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-vmwares-power-get-your-hands-on-the-free-personal-versions-of-fusion-pro-and-workstation-pro-zdnet/"><u>Unlocking VMware's Power: Get Your Hands on the Free Personal Versions of Fusion Pro & Workstation Pro | ZDNet</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-watermark-your-videos-for-free-best-software-options/"><u>Updated In 2024, Watermark Your Videos for Free Best Software Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-deadline-microsoft-must-resolve-major-windows-10-issues-within-just-one-year-insights-from-zdnet/"><u>Urgent Deadline: Microsoft Must Resolve Major Windows 10 Issues Within Just One Year, Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-ultimate-ranking-the-leading-antivirus-solutions/"><u>ZDNet's Ultimate Ranking: The Leading Antivirus Solutions</u></a></li>
 </ul></div>
 

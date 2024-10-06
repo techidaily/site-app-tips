@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Microsoft Account: Essential Steps to Protect Against Cyber Threats - Tips From ZDNet"
-date: 2024-09-19 11:32:17
-updated: 2024-09-20 10:14:11
+date: 2024-10-01T16:40:04.749Z
+updated: 2024-10-06T17:51:51.690Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-simple-screen-recorder-for-windows-10/"><u>[New] 2024 Approved Simple Screen Recorder for Windows 10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-video-ranking-rise-must-have-youtube-seo-aids/"><u>[New] In 2024, Video Ranking Rise – Must-Have YouTube SEO Aids</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-effortless-note-management-on-mematic-platform-for-2024/"><u>[Updated] Effortless Note Management on Mematic Platform for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-screen-recording-pros-bandicam-or-camtasia-in-2024/"><u>[Updated] Screen Recording Pros Bandicam or Camtasia, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-building-a-skype-group-discussion-in-windowsos-x/"><u>2024 Approved Building a Skype Group Discussion in Windows/OS X</u></a></li>
+<li><a href="https://app-tips.techidaily.com/5-essential-productivity-hacks-for-streamlining-your-day-to-day-tasks-insights-from-zdnet/"><u>5 Essential Productivity Hacks for Streamlining Your Day-to-Day Tasks: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-revolutionary-challenger-emerges-a-unique-app-that-outshines-microsoft-teams-and-zoom-with-lip-reading-technology/"><u>A Revolutionary Challenger Emerges: A Unique App That Outshines Microsoft Teams & Zoom With Lip-Reading Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/changing-your-proton-vpn-account-email-a-step-by-step-guide-plus-spotting-the-real-chatgpt-app-for-windows-users/"><u>Changing Your Proton VPN Account Email: A Step-by-Step Guide + Spotting the Real ChatGPT App for Windows Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-switching-from-windows-to-linux-mint-easy-installation-steps/"><u>Complete Guide to Switching From Windows to Linux Mint - Easy Installation Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-top-4-open-source-slack-substitutes-to-elevate-your-teams-communication-game-explore-the-options-on-zdnet/"><u>Discover Top 4 Open-Source Slack Substitutes to Elevate Your Team's Communication Game - Explore the Options on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-updates-to-libreoffice-for-mac-users-a-comprehensive-installation-tutorial-on-zdnet/"><u>Discover Updates to LibreOffice for Mac Users – A Comprehensive Installation Tutorial on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-tech-experts-shape-the-future-of-non-tech-companies-insights-from-zdnet/"><u>How Tech Experts Shape the Future of Non-Tech Companies: Insights From ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-expert-breakdown-vsdc-review-and-alternative-comparisons/"><u>In 2024, Expert Breakdown VSDC Review & Alternative Comparisons</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-path-to-elevate-your-ubuntu-2404-system-insights-from-zdnet/"><u>Navigating the Path to Elevate Your Ubuntu 24.04 System – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/redefining-the-future-of-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-handbook-insights-from-zdnet/"><u>Redefining the Future of UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Handbook - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-to-adding-helpful-annotations-in-flipbuilder-ebooks/"><u>Step-by-Step Guide to Adding Helpful Annotations in FlipBuilder Ebooks</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-modern-mantle-elevating-your-groups-on-facebook-with-updated-tools/"><u>The Modern Mantle: Elevating Your Groups on Facebook with Updated Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-update-needed-microsofts-crucial-challenge-with-windows-10-countdown-begins/"><u>Urgent Update Needed: Microsoft's Crucial Challenge with Windows 10 Countdown Begins!</u></a></li>
+</ul></div>
+

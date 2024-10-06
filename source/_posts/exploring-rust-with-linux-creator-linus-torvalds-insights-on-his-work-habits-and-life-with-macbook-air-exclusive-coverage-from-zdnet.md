@@ -1,7 +1,7 @@
 ---
 title: "Exploring Rust with Linux Creator Linus Torvalds: Insights on His Work Habits and Life with MacBook Air | Exclusive Coverage From ZDNET"
-date: 2024-09-17 10:17:36
-updated: 2024-09-20 11:25:14
+date: 2024-09-30T17:33:03.329Z
+updated: 2024-10-06T16:51:35.217Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-unlock-the-power-of-live-broadcasting-with-tiktok-from-pc/"><u>[New] Unlock the Power of Live Broadcasting with TikTok From PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-sharpen-your-zoom-skills-with-background-blur-expertise/"><u>[Updated] In 2024, Sharpen Your Zoom Skills with Background Blur Expertise</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-setting-up-and-accessing-kik-chat-app-for-windowsmac-users/"><u>Complete Tutorial: Setting Up & Accessing Kik Chat App for Windows/Mac Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/create-amazing-gifs-instantly-with-our-choice-of-the-10-best-free-apps-on-smartphones-iphone-and-android/"><u>Create Amazing GIFs Instantly with Our Choice of the 10 Best Free Apps on Smartphones (iPhone & Android)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creating-anime-sounds-with-uwu-modifiers-top-three-speech-alteration-tools-for-fans/"><u>Creating Anime Sounds with UwU Modifiers: Top Three Speech Alteration Tools for Fans</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/dji-drone-techniques-for-effective-facebook-livestreams-for-2024/"><u>DJI Drone Techniques for Effective Facebook Livestreams for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-and-installation-guide-how-to-set-up-tango-video-calls-and-chats/"><u>Download & Installation Guide: How To Set Up Tango Video Calls And Chats</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-12plus-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme 12+ 5G Phone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ideal-calendar-solutions-best-complimentary-and-premium-options-for-iphones/"><u>Ideal Calendar Solutions: Best Complimentary and Premium Options for iPhones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-basic-routes-to-sync-obs-with-zoom/"><u>In 2024, The Basic Routes to Sync OBS with Zoom</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nailing-down-the-solution-your-definitive-guide-to-fixing-steam-error-code-130/"><u>Nailing Down the Solution: Your Definitive Guide to Fixing Steam Error Code 130</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-step-by-step-guide-how-to-quickly-unlock-your-android-device-with-easy-hacks/"><u>Simple Step-by-Step Guide: How to Quickly Unlock Your Android Device with Easy Hacks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192484-ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/yokus-island-express-when-grand-escapades-arise-from-surprising-places/"><u>Yoku's Island Express: When Grand Escapades Arise From Surprising Places</u></a></li>
+</ul></div>
+

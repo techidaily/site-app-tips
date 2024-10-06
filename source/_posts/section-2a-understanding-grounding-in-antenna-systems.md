@@ -1,7 +1,7 @@
 ---
 title: "Section 2A: Understanding Grounding in Antenna Systems"
-date: 2024-09-17 21:16:14
-updated: 2024-09-20 12:24:46
+date: 2024-10-04T18:43:13.248Z
+updated: 2024-10-06T17:19:51.324Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-top-50plus-overlays-for-engaging-media-content-for-2024/"><u>[New] Top 50+ Overlays for Engaging Media Content for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anthropic-introduces-the-claude-enterprise-suite-for-enhanced-ai-capabilities-across-large-scale-operations-zdnet-insights/"><u>Anthropic Introduces the Claude Enterprise Suite for Enhanced AI Capabilities Across Large-Scale Operations | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-a-leap-towards-realistic-integration/"><u>Bridging the Tech and Business Divide: A Leap Towards Realistic Integration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-plus-and-language-learning-unlock-the-power-of-artificial-intelligence-for-linguistic-mastery/"><u>ChatGPT Plus and Language Learning: Unlock the Power of Artificial Intelligence for Linguistic Mastery</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-of-the-latest-apple-tv-4k-series/"><u>Comprehensive Review of the Latest Apple TV 4K Series</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-essential-strategies-for-your-windows-10-computer-as-microsoft-support-nears-its-end/"><u>Five Essential Strategies for Your Windows 10 Computer as Microsoft Support Nears Its End</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-motorola-moto-g04-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Moto G04 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-your-gaming-experience-with-solutions-for-high-framerate-gameplay-in-the-division-2-revamped-2024/"><u>Maximize Your Gaming Experience with Solutions for High-Framerate Gameplay in The Division 2 (Revamped 2024)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-journey-successful-strategies-for-upgrading-to-ubuntu-linux-2404-insights-from-zdnet/"><u>Navigating the Journey: Successful Strategies for Upgrading to Ubuntu Linux 24.04 - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/six-essential-strategies-for-effective-agile-approach-in-software-design-insights-from-zdnet/"><u>Six Essential Strategies for Effective Agile Approach in Software Design - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sonoma-144-macos-update-issues-key-insights-and-precautions/"><u>Sonoma 14.4 MacOS Update Issues: Key Insights & Precautions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-the-wild-expert-strategies-for-cleaner-linux-and-open-source-documentation/"><u>Taming the Wild: Expert Strategies for Cleaner Linux and Open Source Documentation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-steps-to-successfully-remove-audio-from-videos/"><u>Ultimate Guide: Steps to Successfully Remove Audio From Videos</u></a></li>
+</ul></div>
+

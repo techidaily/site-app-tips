@@ -1,7 +1,7 @@
 ---
 title: Beamwidth Is a Critical Parameter for Antennas, Especially in Applications Like Radar or Satellite Communications Where Precise Targeting Is Necessary.
-date: 2024-09-17 20:42:27
-updated: 2024-09-20 11:22:43
+date: 2024-10-03T16:50:33.540Z
+updated: 2024-10-06T17:47:58.244Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,25 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-5-leading-tools-for-crafting-superior-video-titles-and-tags-for-2024/"><u>[Updated] 5 Leading Tools for Crafting Superior Video Titles and Tags for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-comprehensive-guide-understanding-the-delete-for-everyone-option-in-whatsapp/"><u>A Comprehensive Guide: Understanding the 'Delete for Everyone' Option in WhatsApp</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/explore-over-144-advanced-creative-tim-template-packs-unleash-your-design-potential/"><u>Explore Over 144 Advanced Creative Tim Template Packs – Unleash Your Design Potential!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/fix-your-whatsapp-problems-with-our-expert-assistance-step-by-step-guide/"><u>Fix Your WhatsApp Problems with Our Expert Assistance - Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-seamless-blending-of-hdr-photographs-in-lightroom/"><u>In 2024, Techniques for Seamless Blending of HDR Photographs in Lightroom</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-fixes-how-to-securely-restore-deleted-whatsapp-conversations-on-iphone-devices/"><u>Quick Fixes: How to Securely Restore Deleted WhatsApp Conversations on iPhone Devices</u></a></li>
+<li><a href="https://facebook.techidaily.com/recognizing-teen-behavior-on-online-platforms-facebook/"><u>Recognizing Teen Behavior on Online Platforms, Facebook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-accounts-now-unbeatable-jem-authenticator-and-password-management-solution-insights-from-zdnet/"><u>Secure Your Accounts Now! Unbeatable JEM Authenticator & Password Management Solution | Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ongoing-issue-of-reused-passwords-in-the-face-of-security-breaches-cybersecurity-insights/"><u>The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-meizu-21-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Meizu 21</u></a></li>
+</ul></div>
+

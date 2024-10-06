@@ -1,7 +1,7 @@
 ---
 title: Empowering Tech Teams to Enhance Customer Journey - Insights From ZDNet
-date: 2024-09-19 15:14:20
-updated: 2024-09-20 11:32:44
+date: 2024-10-01T17:40:12.860Z
+updated: 2024-10-06T17:22:57.317Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +116,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +184,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-frozen-delight-ice-cream-cam-and-comprehensive-tutorial/"><u>[New] In 2024, Frozen Delight Ice Cream Cam & Comprehensive Tutorial</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-live-sound-excellence-unveiled-our-top-picks-for-streaming-quality/"><u>[New] In 2024, Live Sound Excellence Unveiled Our Top Picks for Streaming Quality</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-earning-through-eyes-the-actual-youtube-view-count-needed/"><u>[Updated] Earning Through Eyes The Actual YouTube View Count Needed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-is-inshot-the-best-of-the-best-expert-reviews-speak-up/"><u>[Updated] Is InShot The Best of the Best? Expert Reviews Speak Up</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-workplace-productivity-with-these-4-free-slack-replacements-embrace-opensource-collaborative-tools-as-featured-by-zdnet/"><u>Boost Your Workplace Productivity with These 4 Free Slack Replacements: Embrace Opensource Collaborative Tools, as Featured by ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-realme-v30t-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Realme V30T?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-downsides-of-artifice-intelligence-in-code-creation-with-zdnets-analysis/"><u>Exploring the Downsides of Artifice Intelligence in Code Creation with ZDNet's Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/explosive-growth-video-expectations-sky-high-views-for-2024/"><u>Explosive Growth Video Expectations Sky-High Views for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-rtx-2080-graphics-card-driver-for-windows-versions-11-7-and-8/"><u>Get the Newest RTX 2080 Graphics Card Driver for Windows Versions: 11, 7 & 8</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-12-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 12 Pro - 4 Easy Ways</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-quickly-speed-up-or-decelerate-videos-for-peak-engagement/"><u>In 2024, Quickly Speed Up or Decelerate Videos for Peak Engagement</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-anonymity-the-underestimated-edge-in-managing-todays-digital-workforce-zdnet/"><u>Leveraging Anonymity: The Underestimated Edge in Managing Today's Digital Workforce | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-order-in-the-world-of-linuxopen-source-resources-strategies-for-clarity-and-efficiency/"><u>Mastering Order in the World of Linux/Open Source Resources: Strategies for Clarity and Efficiency</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mimo-systems-leverage-antenna-arrays-to-multiply-the-capacity-of-wireless-channels-by-transmitting-different-data-streams-over-multiple-spatial-paths-simult77/"><u>MIMO Systems Leverage Antenna Arrays to Multiply the Capacity of Wireless Channels by Transmitting Different Data Streams over Multiple Spatial Paths Simultaneously.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-expenses-in-gen-ai-education-risk-assessment-lags-behind-according-to-recent-stanford-study-insights-on-cost-and-safety/"><u>Rising Expenses in Gen AI Education: Risk Assessment Lags Behind According to Recent Stanford Study - Insights on Cost & Safety</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solution/"><u>Solution</u></a></li>
+</ul></div>
+

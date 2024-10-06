@@ -1,7 +1,7 @@
 ---
 title: "Database Leak Reveals Personal Data of Over 30,000 Medical Staff in Florida: An In-Depth Look by ZDNet"
-date: 2024-09-24T19:09:04.907Z
-updated: 2024-10-01T11:37:03.963Z
+date: 2024-10-01T19:00:56.270Z
+updated: 2024-10-06T18:46:41.779Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -99,22 +99,17 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-pinnacle-music-organizer-for-android-users/"><u>[New] 2024 Approved Pinnacle Music Organizer for Android Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-time-saving-ways-to-log-vimeo-media/"><u>[Updated] 2024 Approved Time-Saving Ways to Log Vimeo Media</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-spotlight-on-professionals-the-cutting-edge-soundtracked-photovideo-artists/"><u>[Updated] Spotlight on Professionals The Cutting-Edge, Soundtracked Photo/Video Artists</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-embracing-the-edge-how-surge-in-edge-computing-devices-shapes-future-careers-techworld/"><u>1. Embracing the Edge: How Surge in Edge Computing Devices Shapes Future Careers | TechWorld</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-asus-rog-phone-7-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Asus ROG Phone 7 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-examination-of-the-stunningly-modern-dell-alienware-aurora-r9-gaming-machine/"><u>Comprehensive Examination of the Stunningly Modern Dell Alienware Aurora R9 Gaming Machine</u></a></li>
-<li><a href="https://fox-links.techidaily.com/epic-review-and-substitute-guidance/"><u>Epic Review & Substitute Guidance</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/explore-best-speech-recognition-software-on-your-mac-for-2024/"><u>Explore Best Speech Recognition Software on Your Mac for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-disparities-shape-our-progress-in-real-time-technology-breakthroughs-zdnet/"><u>How Disparities Shape Our Progress in Real-Time Technology Breakthroughs | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-sas-drivers-for-your-pc-running-on-win10-win8-or-win7/"><u>How to Get the Newest SAS Drivers for Your PC Running on Win10, Win8, or Win7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-x-flip-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tackling-the-accountability-gap-in-artificial-intelligence-development/"><u>Tackling the Accountability Gap in Artificial Intelligence Development</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-ai-watermarking-solutions-revealed-on-zdnet/"><u>The Definitive Guide to AI Watermarking Solutions - Revealed on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-work-how-ai-agents-define-the-new-era-and-transform-employment-landscape-permanently-insights-from-zdnet/"><u>The Future of Work: How AI Agents Define the New Era and Transform Employment Landscape Permanently - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-unseen-challenge-in-conversational-ai-stanford-highlights-english-centric-flaws-in-modern-chatbots-zdnet/"><u>The Unseen Challenge in Conversational AI: Stanford Highlights English-Centric Flaws in Modern Chatbots | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-work-how-ai-agents-mark-a-new-era-of-innovation-and-permanent-shifts-in-employment-landscape/"><u>Transforming Work: How AI Agents Mark a New Era of Innovation and Permanent Shifts in Employment Landscape</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unpacking-the-irony-of-automation-when-artificnial-intelligence-spurs-more-work-not-less-zdnet-insights/"><u>Unpacking the Irony of Automation: When Artificnial Intelligence Spurs More Work, Not Less | ZDNET Insights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-professionals-choice-of-best-windows-edits-tools/"><u>[New] 2024 Approved Professionals' Choice of Best Windows Edits Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-10-best-webcams-you-should-know-for-2024/"><u>[Updated] 10 Best Webcams You Should Know for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-enhancing-video-content-top-formats-on-youtube-for-2024/"><u>[Updated] Enhancing Video Content Top Formats on YouTube for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-common-errors-in-understanding-how-to-earn-from-big-data-a-deep-dive-nextgen-business-trends/"><u>Debunking Common Errors in Understanding How to Earn From Big Data: A Deep Dive | NextGen Business Trends</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-strategies-for-technology-team-management-dive-into-your-business-foundations-expert-advice-from-zdnet/"><u>Effective Strategies for Technology Team Management: Dive Into Your Business Foundations | Expert Advice From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-prove-the-value-of-generative-ai-overcoming-roi-hurdles-explained-expert-analysis-by-zdnet/"><u>How to Prove the Value of Generative AI - Overcoming ROI Hurdles Explained | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-google-pixel-fold-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Google Pixel Fold to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-dominance-in-video-landscape-mirrorless-vs-dslr-cameras/"><u>In 2024, Dominance in Video Landscape Mirrorless vs DSLR Cameras</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-g23-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto G23 Phone Hassle-Free</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-youtube-tvs-features-a-beginners-guide/"><u>Mastering YouTube TV's Features A Beginner's Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-ai-hurdles-unlocking-significant-commercial-gains-insights-from-zdnet/"><u>Overcoming AI Hurdles: Unlocking Significant Commercial Gains - Insights From ZDNet</u></a></li>
 </ul></div>
 

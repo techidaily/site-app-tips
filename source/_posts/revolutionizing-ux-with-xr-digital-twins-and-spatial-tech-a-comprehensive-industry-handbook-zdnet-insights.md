@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing UX with XR, Digital Twins & Spatial Tech: A Comprehensive Industry Handbook | ZDNet Insights"
-date: 2024-09-18 16:49:24
-updated: 2024-09-20 10:35:50
+date: 2024-09-30T17:14:05.748Z
+updated: 2024-10-06T17:57:30.824Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-epicurean-escapades-crafting-kitchen-films/"><u>[New] 2024 Approved Epicurean Escapades Crafting Kitchen Films</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-advanced-3d-shaping-crafting-perfect-mc-circles-and-spheres-for-2024/"><u>[New] Advanced 3D Shaping Crafting Perfect MC Circles & Spheres for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oost-views-with-your-own-youtube-thumbnail-design-for-2024/"><u>[New] Boost Views with Your Own YouTube Thumbnail Design for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-newbie-friendly-guide-to-winning-with-telegram-promotion/"><u>[New] Newbie-Friendly Guide to Winning with Telegram Promotion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/auto-enabled-security-for-half-a-billion-googles-bold-move-to-protect-users-with-mandatory-2fa/"><u>Auto-Enabled Security for Half a Billion: Google's Bold Move to Protect Users with Mandatory 2FA</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cyber-attack-alert-hackers-leverage-covid-19-omicron-strain-fears-with-redline-malware-campaign-fortinet-insights/"><u>Cyber Attack Alert: Hackers Leverage COVID-19 Omicron Strain Fears with RedLine Malware Campaign – Fortinet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/data-leak-strikes-wv-medical-facilities-due-to-cyberattack-in-depth-analysis-on-zdnet/"><u>Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fire-detection-systems-should-be-selected-based-on-the-type-of-environment-and-expected-fire-risks-in-each-area-of-a-building/"><u>Fire Detection Systems Should Be Selected Based on the Type of Environment and Expected Fire Risks in Each Area of a Building.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-hackers-are-capitalizing-on-the-pandemic-a-deep-dive-into-attacks-against-us-universities-amidst-omicron-concerns-reported-by-zdnet/"><u>How Hackers Are Capitalizing on the Pandemic: A Deep Dive Into Attacks Against US Universities Amidst Omicron Concerns | Reported by ZDNET</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y100-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-boosting-channel-traffic-with-youtube-backlink-tactics/"><u>In 2024, Boosting Channel Traffic with YouTube Backlink Tactics</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-1password-top-tier-value-packed-secure-password-solution-techadvisor/"><u>In-Depth Analysis of 1Password - Top Tier, Value-Packed Secure Password Solution | TechAdvisor</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-the-complete-1password-suite-on-linux-platforms-key-features-and-reviews-zdnet-exclusive/"><u>Introducing the Complete 1Password Suite on Linux Platforms: Key Features and Reviews | ZDNet Exclusive</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lastpass-executives-assure-users-of-no-breached-accounts-following-recent-security-warnings-insights-from-zdnet/"><u>LastPass Executives Assure Users of No Breached Accounts Following Recent Security Warnings: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lastpass-to-become-separate-business-as-logmein-executes-split-strategy-tech-buzz-on-zdnet/"><u>LastPass to Become Separate Business as LogMeIn Executes Split Strategy | Tech Buzz on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-password-replaced-by-passkeys-with-1password-the-latest-update-from-zdnet/"><u>Master Password Replaced by Passkeys with 1Password - The Latest Update From ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-tablet-touch-functionality-with-these-8-essential-troubleshooting-steps/"><u>Restore Tablet Touch Functionality with These 8 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/step-by-step-mastery-windows-11-media-import-simplified/"><u>Step-by-Step Mastery Windows 11 Media Import Simplified</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-list-10-best-animated-text-generators-for-stunning-results/"><u>Updated 2024 Approved The Ultimate List 10 Best Animated Text Generators for Stunning Results</u></a></li>
+</ul></div>
+

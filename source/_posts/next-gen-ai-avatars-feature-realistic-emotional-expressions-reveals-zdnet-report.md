@@ -1,7 +1,7 @@
 ---
 title: Next-Gen AI Avatars Feature Realistic Emotional Expressions, Reveals ZDNet Report
-date: 2024-09-17 16:38:19
-updated: 2024-09-20 10:35:39
+date: 2024-10-04T18:09:11.595Z
+updated: 2024-10-06T16:00:19.513Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-anitoonpro-detailed-2024-analysis/"><u>[Updated] AniToonPro Detailed 2024 Analysis</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-video-grabber-hq-download-guide/"><u>[Updated] FB Video Grabber HQ Download Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-tiktoks-anime-revolution-innovative-ideas-countdown/"><u>2024 Approved TikTok's Anime Revolution Innovative Ideas Countdown</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chatting-made-easy-the-ultimate-guide-to-using-mozilla-thunderbird-for-messaging/"><u>Chatting Made Easy: The Ultimate Guide to Using Mozilla Thunderbird for Messaging</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-on-cloud-storage-protecting-data-for-ipads-pro-mini-and-air-via-icloud/"><u>Complete Tutorial on Cloud Storage: Protecting Data for iPads (Pro, Mini, and Air) via iCloud</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-corsair-void-mic-step-by-step-solution/"><u>Fixing a Non-Functional Corsair Void Mic: Step-by-Step Solution</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264535-how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-retrieve-your-forgotten-iphone-itunes-backup-passcode/"><u>How to Retrieve Your Forgotten iPhone iTunes Backup Passcode</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Plus, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-apples-icloud-family-sharing-an-in-depth-tutorial-for-seamless-collaboration/"><u>Mastering Apple's iCloud Family Sharing - An In-Depth Tutorial for Seamless Collaboration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-and-simple-methods-accessing-your-icloud-photos-without-an-iphone/"><u>Quick & Simple Methods: Accessing Your iCloud Photos Without an iPhone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fixes-for-steam-delays-boosting-your-gaming-flow-instantly/"><u>Quick Fixes for Steam Delays – Boosting Your Gaming Flow Instantly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/struggling-with-a-forgotten-icloud-login-discover-these-6-effective-remedies/"><u>Struggling with a Forgotten iCloud Login? Discover These 6 Effective Remedies!</u></a></li>
+</ul></div>
+

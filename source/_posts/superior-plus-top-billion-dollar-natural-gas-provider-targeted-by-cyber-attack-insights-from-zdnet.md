@@ -1,7 +1,7 @@
 ---
 title: "Superior Plus, Top Billion-Dollar Natural Gas Provider, Targeted by Cyber Attack: Insights From ZDNet"
-date: 2024-09-23T20:56:00.041Z
-updated: 2024-10-01T10:00:57.998Z
+date: 2024-10-02T18:26:27.256Z
+updated: 2024-10-06T17:42:56.432Z
 tags:
   - password-manager
 categories:
@@ -72,31 +72,28 @@ Deputy Attorney General Lisa Monaco [said during a press conference](https://twi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-tech-gear-webcams-that-take-your-streams-up-a-notch/"><u>[New] Top Tech Gear Webcams That Take Your Streams Up a Notch</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-capturing-the-unseen-gopro-hero-vs-nikons-km-170/"><u>[Updated] In 2024, Capturing the Unseen GoPro HERO vs Nikon's KM-170</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-watch-cell-network-troubleshooting-top-fixes-to-restore-functionality/"><u>Apple Watch Cell Network Troubleshooting: Top Fixes to Restore Functionality</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-financial-rewards-top-priorities-for-open-source-professionals-seeking-new-opportunities/"><u>Beyond Financial Rewards: Top Priorities for Open-Source Professionals Seeking New Opportunities</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-sound-blaster-z-drivers-on-windows-11-simple-and-secure-steps/"><u>Download Sound Blaster Z Drivers on Windows 11: Simple and Secure Steps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/fortify-your-digital-space-safeguarding-homesme-pcs-with-microsofts-security-solutions/"><u>Fortify Your Digital Space: Safeguarding Home/SME PCs with Microsoft's Security Solutions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-a78-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo A78 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-how-to-create-a-3d-text-art-effect-in-adobe-illustrator/"><u>In 2024, How to Create a 3D Text Art Effect in Adobe Illustrator</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-realme-gt-neo-5-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Realme GT Neo 5 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://app-tips.techidaily.com/new-microsoft-software-refresh-risks-boosting-office-stress-levels-says-zdnet-analysis/"><u>New Microsoft Software Refresh Risks Boosting Office Stress Levels, Says ZDNet Analysis</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-inserting-animated-gifs-into-instagram-replies/"><u>Step-by-Step Tutorial: Inserting Animated GIFs Into Instagram Replies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-professionals-drained-yet-hopeful-positive-trends-from-zdnet-analysis/"><u>Tech Professionals Drained Yet Hopeful: Positive Trends From ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-purpose-of-an-artificial-earth-plane-in-antenna-systems-can-be-similar-to-that-of-natural-ground-when-it-comes-to-reflecting-radio-waves-and-improving-s78/"><u>The Purpose of an Artificial Earth Plane in Antenna Systems Can Be Similar to that of Natural Ground when It Comes to Reflecting Radio Waves and Improving Signal Quality.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-professional-screen-recorders-for-2nite-expert-analysis-from-zdnet/"><u>The Ultimate List of Professional Screen Recorders for 2Nite: Expert Analysis From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-windows-essential-tips-for-upgrading-to-a-pro-edition-with-zdnets-expert-advice/"><u>Unlocking the Power of Windows: Essential Tips for Upgrading to a Pro Edition with ZDNet's Expert Advice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsofts-window-of-opportunity-shrinks-as-they-race-against-time-on-windows-11-tech-analysis/"><u>Urgent Challenge: Microsoft's Window of Opportunity Shrinks as They Race Against Time on Windows 11 | Tech Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/what-drives-open-source-talent-unveiling-the-essential-non-monetary-wants-in-their-job-quest-zdnet/"><u>What Drives Open-Source Talent? Unveiling the Essential Non-Monetary Wants in Their Job Quest | ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vlogs-to-viral-jake-pauls-online-empire-expansion/"><u>[New] In 2024, From Vlogs to Viral Jake Paul’s Online Empire Expansion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-7-crucial-gadgets-for-successful-metaverse-journey-for-2024/"><u>[Updated] 7 Crucial Gadgets for Successful Metaverse Journey for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-affordable-gaming-wonders-keyboards-under-100-reviewed/"><u>[Updated] In 2024, Affordable Gaming Wonders Keyboards Under $100 Reviewed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebook-video-extravaganza-the-most-advanced-fire-browser-tools-updated/"><u>[Updated] In 2024, Facebook Video Extravaganza The Most Advanced Fire-Browser Tools, Updated</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-path-to-efficient-workflow-learning-voice-to-text-conversion-in-ms-word/"><u>2024 Approved The Path to Efficient Workflow Learning Voice-to-Text Conversion in MS Word</u></a></li>
+<li><a href="https://app-tips.techidaily.com/camera-surveillance/"><u>Camera Surveillance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cutting-edge-5g-expansion-verizon-partners-with-emerging-startup-celona-for-business-growth/"><u>Cutting-Edge 5G Expansion: Verizon Partners with Emerging Startup Celona for Business Growth</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-hybrid-cloud-intricacies-with-cutting-edge-features-of-red-hats-latest-enterprise-linux-distribution/"><u>Navigating Hybrid Cloud Intricacies with Cutting-Edge Features of Red Hat's Latest Enterprise Linux Distribution</u></a></li>
+<li><a href="https://app-tips.techidaily.com/switching-from-microsoft-how-a-german-state-embraces-linux-and-libreoffice-as-spotted-by-zdnet/"><u>Switching From Microsoft: How a German State Embraces Linux & LibreOffice, as Spotted by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-workers-tired-yet-relieved-heres-the-silver-lining-insights-from-zdnet/"><u>Tech Workers Tired Yet Relieved? Here's the Silver Lining! - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-4-free-video-editing-tools-expert-picks-techradar/"><u>Top 4 Free Video Editing Tools : Expert Picks | TechRadar</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-t2-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo T2 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-poco-x6-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Poco X6 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-essentials-a-comprehensive-update-and-installation-manual-insights-from-zdnet/"><u>Windows 11 Essentials: A Comprehensive Update & Installation Manual - Insights From ZDNet</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Potential of AI in Business with ServiceNow: Understanding the Four Critical Guiding Principles - Insights From ZDNet"
-date: 2024-09-19 15:29:23
-updated: 2024-09-20 12:35:19
+date: 2024-10-01T17:34:14.715Z
+updated: 2024-10-06T17:42:07.861Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-recovering-lost-live-footage-strategies-for-uninterrupted-streams-for-2024/"><u>[New] Recovering Lost Live Footage Strategies for Uninterrupted Streams for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-master-recording-techniques-for-your-logitech-webcam-installation/"><u>[Updated] 2024 Approved Master Recording Techniques for Your Logitech Webcam Installation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-learn-and-master-io-screen-recording-today/"><u>[Updated] Learn and Master IO Screen Recording Today</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fading-beats-an-fl-studio-approach/"><u>2024 Approved Fading Beats An FL Studio Approach</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-vivavideo-evaluation-a-complete-guide-to-choosing-your-ideal-video-editor/"><u>Comprehensive VivaVideo Evaluation: A Complete Guide to Choosing Your Ideal Video Editor</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-to-implementing-boomerangs-seamlessly-in-snapchat-for-all-devices/"><u>Guide to Implementing Boomerangs Seamlessly in Snapchat for All Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-youtube-time-tracking/"><u>In 2024, The Essential Guide to YouTube Time Tracking</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/big-bucks-fast-with-a-focus-on-youtube-short-video-creation-for-2024/"><u>Make Big Bucks Fast with a Focus on YouTube Short Video Creation for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-recommendations-for-music-video-editors/"><u>New Recommendations for Music Video Editors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revive-vintage-memories-top-3-tools-for-upgrading-your-aged-photographs/"><u>Revive Vintage Memories: Top 3 Tools for Upgrading Your Aged Photographs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/social-media-smarts-a-tale-of-two-ais/"><u>Social Media Smarts: A Tale of Two AIs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-free-gif-creation-tools-the-best-mobile-apps-for-android-and-ios/"><u>Top 10 Free GIF Creation Tools: The Best Mobile Apps for Android & iOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-iphone-spyware-apps-unbeatable-options-for-covert-tracking/"><u>Top Rated iPhone Spyware Apps: Unbeatable Options for Covert Tracking</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-navigation-apps-on-android-discover-the-best-free-options/"><u>Top-Ranked Navigation Apps on Android: Discover the Best Free Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-your-apex-legends-connectivity-errors-efficiently/"><u>Troubleshooting Your Apex Legends Connectivity Errors Efficiently</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620190501-ultimate-xvid-video-player-guide-ideal-choice-for-pcs-macs-smartphones-and-tablets/"><u>Ultimate Xvid Video Player Guide: Ideal Choice for PCs, Macs, Smartphones & Tablets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-vsco-a-detailed-review-with-benefits-drawbacks-comparisons-and-best-alternatives/"><u>Unraveling VSCO: A Detailed Review with Benefits, Drawbacks, Comparisons, and Best Alternatives</u></a></li>
+</ul></div>
+

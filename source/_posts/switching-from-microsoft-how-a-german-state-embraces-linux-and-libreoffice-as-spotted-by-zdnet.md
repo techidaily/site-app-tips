@@ -1,7 +1,7 @@
 ---
 title: "Switching From Microsoft: How a German State Embraces Linux & LibreOffice, as Spotted by ZDNet"
-date: 2024-09-19 17:40:48
-updated: 2024-09-20 11:16:22
+date: 2024-09-30T18:20:09.428Z
+updated: 2024-10-06T16:43:01.744Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-smartphone-solutions-top-voice-changer-applications-for-2024/"><u>[New] Smartphone Solutions Top Voice Changer Applications for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-preferred-choices-affordable-channels-for-newbie-monetizers/"><u>2024 Approved Preferred Choices Affordable Channels for Newbie Monetizers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-significant-concepts-in-interactive-tale-design/"><u>2024 Approved Significant Concepts in Interactive Tale Design</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-overcoming-reset-failed-messages-in-windows-10/"><u>Effective Solutions for Overcoming 'Reset Failed' Messages in Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/it-hand-held-tight-exploring-how-minimal-coding-tools-are-changing-software-development-landscapes-zdnet/"><u>IT Hand-Held Tight?: Exploring How Minimal-Coding Tools Are Changing Software Development Landscapes | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-your-path-to-becoming-an-influential-c-level-executive-in-artificial-intelligence/"><u>Navigating Your Path to Becoming an Influential C-Level Executive in Artificial Intelligence.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/proven-strategies-for-picking-the-most-accurate-free-srt-tools/"><u>Proven Strategies for Picking the Most Accurate Free SRT Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/study-reveals-challenges-at-the-intersection-of-ai-innovation-and-agile-methodologies-insights-from-zdnet/"><u>Study Reveals Challenges at the Intersection of AI Innovation and Agile Methodologies: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/surpassing-artificial-intelligence-the-rapid-rise-of-the-next-tech-trend/"><u>Surpassing Artificial Intelligence: The Rapid Rise of the Next Tech Trend</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-real-deal-on-pursuing-a-career-as-a-devops-professional-pros-cons-and-challenges-techinsights/"><u>The Real Deal on Pursuing a Career as a DevOps Professional – Pros, Cons & Challenges | TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-of-low-codeno-code-development-understanding-whos-ready-to-embrace-it-perspectives-by-zdnet/"><u>The Rising Popularity of Low-Code/No-Code Development: Understanding Who's Ready to Embrace It | Perspectives by ZDNET</u></a></li>
+</ul></div>
+

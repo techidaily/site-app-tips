@@ -1,7 +1,7 @@
 ---
 title: "How Do Firms Grapple with Harnessing Generative AI: Insights From a New Deloitte Study Highlights Challenges - Featured on ZDNet"
-date: 2024-09-29T05:02:58.564Z
-updated: 2024-09-30T18:13:24.797Z
+date: 2024-10-01T17:38:57.454Z
+updated: 2024-10-06T17:37:58.716Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +187,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-livestream-leaders-guide-elevating-pre-recorded-videos-on-social-media/"><u>[New] In 2024, Livestream Leaders' Guide Elevating Pre-Recorded Videos on Social Media</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-conquering-low-light-challenges-in-filming/"><u>[Updated] Conquering Low-Light Challenges in Filming</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-feast-your-senses-15-must-try-tiktok-meal-ideas-for-2024/"><u>[Updated] Feast Your Senses 15 Must-Try TikTok Meal Ideas for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-heavy-lift-airborne-titans-drone-leaders-guide/"><u>[Updated] Heavy-Lift Airborne Titans - Drone Leaders Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-hasty-thumbnail-crafting-for-fortnite-gameplay/"><u>2024 Approved Hasty Thumbnail Crafting for Fortnite Gameplay</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-poco-m6-pro-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Poco M6 Pro 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/companies-scale-up-genai-strategy-insights-from-a-new-bloombergzdnet-study/"><u>Companies Scale Up GenAI Strategy: Insights From a New Bloomberg/ZDNet Study</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eliminate-the-haldll-is-missing-or-corrupt-error-on-windows-xp-with-easy-solutions/"><u>Eliminate the 'hal.dll Is Missing or Corrupt' Error on Windows XP with Easy Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-customer-engagement-through-xr-and-digital-twins-in-business-expert-strategies-unveiled-by-zdnet/"><u>Enhancing Customer Engagement Through XR and Digital Twins in Business - Expert Strategies Unveiled by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lipsync-the-groundbreaking-new-challenger-in-the-ms-teams-and-zoom-arena-revolutionizing-communication-for-the-hearing-impaired/"><u>LipSync: The Groundbreaking New Challenger in the MS Teams & Zoom Arena - Revolutionizing Communication for the Hearing Impaired</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-windows-11-vm-setup-on-any-platform-step-by-step-instructions/"><u>Mastering Windows 11 VM Setup on Any Platform - Step-by-Step Instructions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-introduces-unified-teamwork-solution-combining-work-personality-and-learning-into-one-platform/"><u>Microsoft Introduces Unified Teamwork Solution: Combining Work, Personality, and Learning Into One Platform</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/navigating-ig-video-trends-building-your-next-marketing-plan/"><u>Navigating IG Video Trends Building Your Next Marketing Plan</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-4b-five-facts-about-advanced-antenna-array-theory/"><u>Section 4B: Five Facts About Advanced Antenna Array Theory</u></a></li>
-<li><a href="https://app-tips.techidaily.com/set-up-seamless-email-connectivity-in-your-onlyoffice-workspace-tutorial-for-it-professionals/"><u>Set Up Seamless Email Connectivity in Your ONLYOFFICE Workspace – Tutorial for IT Professionals</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-setting-up-google-one-vpn-on-your-mac-with-ease/"><u>Step-by-Step Guide: Setting Up Google One VPN on Your Mac with Ease</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-5-limitations-of-ai-for-professional-writing-careers/"><u>The 5 Limitations of AI for Professional Writing Careers</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-cxfreeze-catastrophic-failures-with-ease/"><u>Troubleshooting Guide: Solving Cx_Freeze Catastrophic Failures with Ease</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-latest-features-of-macos-sonoma-a-comprehensive-guide-insights-from-zdnet/"><u>Unveiling the Latest Features of macOS Sonoma: A Comprehensive Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigating-the-top-10-ways-to-improve-fb-page-rankings/"><u>[New] 2024 Approved Navigating the Top 10 Ways to Improve FB Page Rankings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-convert-ppt-to-motion-picture/"><u>[New] Convert PPT to Motion Picture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-digital-media-mapper/"><u>[New] In 2024, Digital Media Mapper</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-avoiding-pitfalls-in-low-light-portrait-photography/"><u>[Updated] 2024 Approved Avoiding Pitfalls in Low-Light Portrait Photography</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-game-changing-entrant-in-the-video-call-arena-outshines-microsoft-teams-and-zoom-with-lip-reading-capabilities-zdnet/"><u>A Game-Changing Entrant in the Video Call Arena Outshines Microsoft Teams and Zoom with Lip-Reading Capabilities | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anthropic-unveils-newly-released-free-claude-mobile-application-on-ios-announces-premium-enterprise-solution-a-breakthrough-for-business-efficiency/"><u>Anthropic Unveils Newly Released Free Claude Mobile Application on iOS; Announces Premium Enterprise Solution: A Breakthrough for Business Efficiency!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/arista-expands-into-mid-range-sector-with-advanced-cognitive-network-solutions/"><u>Arista Expands Into Mid-Range Sector with Advanced Cognitive Network Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/celona-secures-60m-in-funding-drives-enterprise-level-5g-innovation-tech-news/"><u>Celona Secures $60M in Funding, Drives Enterprise-Level 5G Innovation - Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybersecurity-measures/"><u>Cybersecurity Measures</u></a></li>
+<li><a href="https://app-tips.techidaily.com/defending-your-microsoft-profile-from-hacking-risks-expert-tips-for-enhanced-security-digitalguardianblog/"><u>Defending Your Microsoft Profile From Hacking Risks: Expert Tips for Enhanced Security - DigitalGuardianBlog</u></a></li>
+<li><a href="https://extra-information.techidaily.com/guiding-steps-for-obtaining-professional-grade-images/"><u>Guiding Steps for Obtaining Professional-Grade Images</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-google-pixel-fold-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Google Pixel Fold Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-sony-xperia-5-v-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Sony Xperia 5 V</u></a></li>
+<li><a href="https://facebook.techidaily.com/innovating-leadership-sheryls-time-at-facebook-inc/"><u>Innovating Leadership: Sheryl’s Time at Facebook Inc</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-rising-complexity-of-ops-how-it-professionals-address-emerging-challenges/"><u>Navigating the Rising Complexity of 'Ops': How IT Professionals Address Emerging Challenges</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-through-disorder-revolutionary-fixes-for-cluttered-linux-and-open-source-guides-on-zdnet/"><u>Navigating Through Disorder: Revolutionary Fixes for Cluttered Linux & Open-Source Guides on ZDNet</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/powerhouse-gaming-pc-resembles-laptop-design-ultra-mini-with-i9-14900hx-and-rtx/"><u>Powerhouse Gaming PC Resembles Laptop Design - Ultra Mini with I9-14900HX & RTX</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-rest-with-ihome-zenergy-a-detailed-breakdown-for-a-radiant-dawn/"><u>Revolutionize Your Rest with IHome Zenergy: A Detailed Breakdown for a Radiant Dawn</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rocky-linux-receives-major-backing-with-ciq-as-principal-supporter-insights-from-the-tech-community/"><u>Rocky Linux Receives Major Backing with CIQ as Principal Supporter - Insights From the Tech Community</u></a></li>
 </ul></div>
 

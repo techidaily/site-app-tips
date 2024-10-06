@@ -1,7 +1,7 @@
 ---
 title: Gartner Reveals Half of Generative AI Initiatives End in Failure - Insights From ZDNet
-date: 2024-09-27T22:55:54.943Z
-updated: 2024-09-30T17:59:19.238Z
+date: 2024-10-02T17:03:18.437Z
+updated: 2024-10-06T16:58:04.998Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,17 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-unlocking-creativity-top-20-vlogger-themes-for-2024/"><u>[New] Unlocking Creativity Top 20 Vlogger Themes for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-arena-of-games-100plus-channel-spectrums-galore-for-2024/"><u>[Updated] Arena of Games 100+ Channel Spectrums Galore for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/compact-and-powerful-a-review-of-sx620-hs-by-canon/"><u>Compact & Powerful - A Review of SX620 HS by Canon</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cybersecurity-titans-unite-zerofox-acquires-idx-aligning-with-landf-for-an-impressive-14-billion-powerhouse-revealed-by-zdnet/"><u>Cybersecurity Titans Unite! ZeroFox Acquires IDX, Aligning with L&F for an Impressive $1.4 Billion Powerhouse Revealed by ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-install-windows-on-your-steam-deck/"><u>How to Install Windows on Your Steam Deck</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/proton-launches-advanced-password-protector-ensuring-total-privacy-with-robust-end-to-end-cryptography-zdnet/"><u>Proton Launches Advanced Password Protector, Ensuring Total Privacy with Robust End-to-End Cryptography | ZDNET</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-nubia-red-magic-8s-pro-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Nubia Red Magic 8S Pro Phone Hassle-Free</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-y27-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo Y27 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-password-security-tools-of-2024-professional-reviews-zdnet/"><u>Top-Ranked Password Security Tools of 2024: Professional Reviews | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-a-safer-digital-life-a-detailed-review-of-two-revolutionary-passwordless-managers/"><u>Unlocking a Safer Digital Life: A Detailed Review of Two Revolutionary Passwordless Managers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-disk-potential-masterful-techniques-in-w10w11/"><u>Unlocking Disk Potential: Masterful Techniques in W10/W11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-record-video-on-google-hangouts/"><u>[New] In 2024, How to Record Video on Google Hangouts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-checklist-to-record-web-chats/"><u>[New] The Ultimate Checklist to Record Web Chats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-leading-emulators-top-5-for-playing-ps3-games-on-pc-for-2024/"><u>[Updated] Leading Emulators Top 5 for Playing PS3 Games on PC for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-the-course-for-your-niche-in-the-youtube-world/"><u>Charting the Course for Your Niche in the YouTube World</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-strategies-for-reconstructing-your-itunes-music-library-in-depth-guide/"><u>Expert Strategies for Reconstructing Your iTunes Music Library (In-Depth Guide)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-speed-up-your-itunes-experience-a-complete-guide-with-10-effective-steps/"><u>How to Speed Up Your iTunes Experience: A Complete Guide with 10 Effective Steps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-central-points-for-virtual-world-engagement/"><u>In 2024, Central Points for Virtual World Engagement</u></a></li>
+<li><a href="https://app-tips.techidaily.com/need-help-resetting-your-itunes-login-details-explore-proven-strategies-for-recovery/"><u>Need Help Resetting Your iTunes Login Details? Explore Proven Strategies for Recovery</u></a></li>
+<li><a href="https://app-tips.techidaily.com/recover-your-missed-texts-and-voicemails-tips-for-retrieving-accidentally-erased-data-on-itunes/"><u>Recover Your Missed Texts and Voicemails: Tips for Retrieving Accidentally Erased Data on iTunes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/speedy-installation-how-to-get-the-right-keyboard-driver-for-windows-7/"><u>Speedy Installation: How to Get the Right Keyboard Driver for Windows 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-next-chapter-in-gaming-meta-quest-3-reviewed/"><u>The Next Chapter in Gaming: Meta Quest 3 Reviewed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-steps-to-take-if-itunes-fails-to-identify-your-iphone/"><u>Troubleshooting: Steps to Take if iTunes Fails to Identify Your iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-move-and-enjoy-your-itunes-collection-on-android-phones-and-tablets/"><u>Ultimate Guide to Move and Enjoy Your iTunes Collection on Android Phones & Tablets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windows-1011wavmp3/"><u>Windows 10/11でWAV音声ファイルからMP3への変換ガイド</u></a></li>
 </ul></div>
 

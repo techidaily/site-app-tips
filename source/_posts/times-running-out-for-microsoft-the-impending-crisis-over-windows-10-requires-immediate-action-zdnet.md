@@ -1,7 +1,7 @@
 ---
 title: "Time's Running Out for Microsoft: The Impending Crisis Over Windows 10 Requires Immediate Action [ZDNet]"
-date: 2024-09-18 21:12:35
-updated: 2024-09-20 11:35:57
+date: 2024-10-01T17:41:57.719Z
+updated: 2024-10-06T18:38:05.458Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,28 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-a-comprehensive-look-at-quantum-hdr/"><u>[New] In 2024, A Comprehensive Look at Quantum HDR</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-2023-apeaksoft-screen-recorder-review-for-2024/"><u>[New] The 2023 Apeaksoft Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-from-capture-to-share-expert-insights-into-screen-recording-software-for-2024/"><u>[Updated] From Capture to Share Expert Insights Into Screen Recording Software for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adapting-to-an-automated-future-essential-tips-for-technology-professionals-thriving-amidst-ai-advancements-zdnet/"><u>Adapting to an Automated Future: Essential Tips for Technology Professionals Thriving Amidst AI Advancements | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-chatbot-language-bias-revealed-by-stanford-research-the-struggle-with-non-english-languages-zdnet/"><u>AI Chatbot Language Bias Revealed by Stanford Research - The Struggle with Non-English Languages | ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-0xc0000022-explained-solutions-to-get-your-adobe-app-running-smoothly-again/"><u>Error 0xC0000022 Explained – Solutions to Get Your Adobe App Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/hyper-scape-no-more-pc-crashing-solutions-unveiled/"><u>Hyper Scape No More PC Crashing - Solutions Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-chips-for-immersive-4k-video-workflows/"><u>In 2024, Best Chips for Immersive 4K Video Workflows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-free-high-quality-subtitle-tools/"><u>The Ultimate Guide to FREE, High-Quality Subtitle Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-urgent-need-for-upgraded-skills-in-cybersecurity-teams-facing-legacy-system-hurdles/"><u>The Urgent Need for Upgraded Skills in Cybersecurity Teams Facing Legacy System Hurdles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-power-of-your-mac-with-these-recovery-mode-instructions/"><u>Unlock the Power of Your Mac with These Recovery Mode Instructions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/when-ai-growth-meets-agile-practices-uncovering-challenges-through-latest-studies-zdnet/"><u>When AI Growth Meets Agile Practices: Uncovering Challenges Through Latest Studies | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-how-many-marketing-departments-are-leveraging-artificer-intelligence-now/"><u>ZDNet Reveals How Many Marketing Departments Are Leveraging Artificer Intelligence Now</u></a></li>
+</ul></div>
+

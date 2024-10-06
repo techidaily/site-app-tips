@@ -1,7 +1,7 @@
 ---
 title: "Continuity of Microsoft 365 Support for Office 2016 & 2019: What to Expect in the Coming Year | ZDNet"
-date: 2024-09-18 15:40:16
-updated: 2024-09-20 12:27:21
+date: 2024-10-02T18:01:36.756Z
+updated: 2024-10-06T16:05:31.546Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-complete-guide-to-pc-mac-and-phone-movie-playback-for-2024/"><u>[New] The Complete Guide to PC, Mac & Phone Movie Playback for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-secret-to-viral-videos-get-the-best-thumbnail-size-guide/"><u>2024 Approved The Secret to Viral Videos? Get the Best Thumbnail Size Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nubia-red-magic-9-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nubia Red Magic 9 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-nokia-c110-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Nokia C110 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-employer-appeal-with-low-code-solutions-insights-from-zdnet/"><u>Boosting Employer Appeal with Low-Code Solutions: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ceo-flips-out-over-team-usage-on-microsoft-teams-office-chaos-unleashed/"><u>CEO Flips Out Over Team Usage on Microsoft Teams - Office Chaos Unleashed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/epitaph-to-entertainment-picking-the-ultimate-zombie-games/"><u>Epitaph to Entertainment Picking the Ultimate Zombie Games</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-does-the-conflict-between-russia-and-ukraine-endanger-information-technology-in-ukraine-insights-and-predictions/"><u>How Does the Conflict Between Russia and Ukraine Endanger Information Technology in Ukraine? Insights & Predictions.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-snowflakes-latest-language-model-outshines-metas-llama-less-training-greater-efficiency-zdnet/"><u>How Snowflake's Latest Language Model Outshines Meta's LLaMA 지침 - Less Training, Greater Efficiency | ZDNET</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovating-communication-technology-sony-research-joins-forces-with-ai-singapore-for-advanced-large-language-model-development-zdnet-insights/"><u>Innovating Communication Technology: Sony Research Joins Forces with AI Singapore for Advanced Large Language Model Development | ZDNET Insights</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/join-the-social-scene-facebook-live-streams-on-roku-tv/"><u>Join The Social Scene Facebook Live Streams on Roku TV</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-world-of-electronics-with-insights-from-toms-hardware/"><u>Mastering the World of Electronics with Insights From Tom's Hardware</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-communication-with-vivaldi-introducing-a-superior-mail-client-experience-digital-trends/"><u>Revolutionizing Communication with Vivaldi - Introducing a Superior Mail Client Experience | Digital Trends</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-fixing-acrocefexe-application-glitches/"><u>Step-by-Step Solution for Fixing AcroCEF.exe Application Glitches</u></a></li>
+<li><a href="https://app-tips.techidaily.com/surpassing-all-others-in-performance-and-user-friendliness-the-unrivaled-excellence-of-linux-mint-asterisk-22-zdnet-insight/"><u>Surpassing All Others in Performance and User-Friendliness: The Unrivaled Excellence of Linux Mint Asterisk 22 | ZDNET Insight</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-restoring-overwatchs-push-to-talk-capability/"><u>Troubleshooting Guide: Restoring Overwatch's Push-to-Talk Capability</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-codenotarys-sbom-software-bill-of-materials-platform-innovative-solutions-for-managing-dependencies-in-kubernetes-environments-zdnet/"><u>Unveiling Codenotary's SBOM (Software Bill of Materials) Platform: Innovative Solutions for Managing Dependencies in Kubernetes Environments - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-alert-microsoft-faces-critical-challenge-with-windows-10-only-a-year-left-zdnet/"><u>Urgent Alert: Microsoft Faces Critical Challenge with Windows 10 - Only a Year Left! [ZDNet]</u></a></li>
+</ul></div>
+

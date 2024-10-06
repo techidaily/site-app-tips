@@ -1,7 +1,7 @@
 ---
 title: Navigating the Shift From On-Premises Infrastructure to Cloud Dominance
-date: 2024-09-18 17:13:49
-updated: 2024-09-20 10:24:38
+date: 2024-10-04T17:58:11.070Z
+updated: 2024-10-06T16:48:57.437Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,25 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://app-tips.techidaily.com/effective-ways-to-keep-your-apps-private-on-smartphones-and-tablets-android-and-apple/"><u>Effective Ways to Keep Your Apps Private on Smartphones & Tablets (Android & Apple)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/excellence-range-highest-quality-webcam-grips/"><u>Excellence Range Highest Quality Webcam Grips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193676-get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-solitary-snaps-to-awe-inspiring-tiled-panoramas/"><u>In 2024, From Solitary Snaps to Awe-Inspiring Tiled Panoramas</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-reno-11-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo Reno 11 5G Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-most-effective-android-management-software-from-pc-updated-top-picks/"><u>The Most Effective Android Management Software From PC - Updated Top Picks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-power-of-hashtags-in-growing-your-instagram-reel-presence-for-2024/"><u>The Power of Hashtags in Growing Your Instagram Reel Presence for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-edge-2023-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Edge 2023 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-free-online-and-mobile-apps-for-crafting-hilarious-memes-effortlessly/"><u>Top Free Online & Mobile Apps for Crafting Hilarious Memes Effortlessly</u></a></li>
+</ul></div>
+

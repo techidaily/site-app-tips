@@ -1,7 +1,7 @@
 ---
 title: "Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords"
-date: 2024-09-28T16:09:05.142Z
-updated: 2024-10-01T07:20:19.027Z
+date: 2024-10-03T16:17:00.867Z
+updated: 2024-10-06T17:11:48.341Z
 tags:
   - password-manager
 categories:
@@ -62,10 +62,10 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -91,16 +91,20 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-nostalgia-reimagined-transforming-your-vintage-photos-into-cutting-edge-videos/"><u>[New] Nostalgia Reimagined Transforming Your Vintage Photos Into Cutting-Edge Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-tiktok-mastery-the-art-of-editing-your-number/"><u>[Updated] 2024 Approved TikTok Mastery The Art of Editing Your Number</u></a></li>
-<li><a href="https://app-tips.techidaily.com/five-alternative-paths-for-your-still-running-windows-10-system-as-microsofts-official-support-nears-its-end/"><u>Five Alternative Paths for Your Still-Running Windows 10 System as Microsoft's Official Support Nears Its End</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-webcam-software-for-your-lenovo-device-on-windows-7/"><u>Get the Newest Webcam Software for Your Lenovo Device on Windows 7</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola FRP Bypass</u></a></li>
-<li><a href="https://driver-download.techidaily.com/nvidias-official-rtx-3070-ti-graphics-drivers-for-windows-users-download-now/"><u>NVIDIA's Official RTX 3070 Ti Graphics Drivers for Windows Users: Download Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-obstacles-in-ai-precision-and-reliability-for-todays-developers-expert-analysis-at-zdnet/"><u>Overcoming Obstacles in AI Precision & Reliability for Today's Developers | Expert Analysis at ZDNet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-uav-choices-for-optimal-gopro-hd-imaging/"><u>Premier UAV Choices for Optimal GoPro HD Imaging</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-critical-need-for-clarity-in-artificer-interests-exploring-the-transparency-gap-in-ai-evolution-zdnet/"><u>The Critical Need for Clarity in Artificer Interests: Exploring the Transparency Gap in AI Evolution | ZDNET</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-discounts-on-gadgets-amazons-premier-sale-event-2024/"><u>Top Discounts on Gadgets: Amazon's Premier Sale Event 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-ai-servicenows-essential-four-core-tenets-explained-boost-your-enterprise-success/"><u>Unlocking the Power of AI: ServiceNow's Essential Four Core Tenets Explained - Boost Your Enterprise Success!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-dark-light-on-asus-keys/"><u>[FIXED] Dark Light on ASUS Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ejecutivo-de-movavi-como-crear-subtitulos-para-videos-sin-problemas/"><u>Ejecutivo De Movavi - Cómo Crear Subtítulos Para Vídeos Sin Problemas</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-tech-squads-amplifying-their-role-in-enhancing-customer-journey-insights-from-zdnet/"><u>Empowering Tech Squads: Amplifying Their Role in Enhancing Customer Journey – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-customer-engagement-through-advanced-technologies-exploring-xr-digital-twins-and-spatial-computing-for-businesses-guided-by-experts-at-zdnet/"><u>Enhancing Customer Engagement Through Advanced Technologies: Exploring XR, Digital Twins, and Spatial Computing for Businesses | Guided by Experts at ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-3g2-files-to-wma-format-movavi/"><u>Free Online Converter: Change .3G2 Files to WMA Format - Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audio-dimming-the-live-approach/"><u>In 2024, Audio Dimming The Live Approach</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-infinix-smart-7-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Infinix Smart 7 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-question-collection-for-lively-podcast-discussions/"><u>In 2024, Innovative Question Collection for Lively Podcast Discussions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mainstream-market-entry-with-aristas-new-cognitive-network-solutions-for-mid-sized-businesses-industry-analysis/"><u>Mainstream Market Entry with Arista's New Cognitive Network Solutions for Mid-Sized Businesses | Industry Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stability/"><u>Stability</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-chaos-in-linux-and-open-source-manuals-a-revolutionary-fix-zdnet-insight/"><u>Taming Chaos in Linux & Open Source Manuals: A Revolutionary Fix | ZDNet Insight</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-must-try-ai-powered-story-creation-tools-unleash-your-imagination/"><u>Top 4 Must-Try AI-Powered Story Creation Tools - Unleash Your Imagination!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transportation-showdown-can-you-save-money-with-uber-compared-to-a-traditional-taxi-service/"><u>Transportation Showdown: Can You Save Money with Uber Compared to a Traditional Taxi Service?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-artificer-adobes-revolutionary-ai-tool-for-enhancing-business-teams-explained-by-zdnet/"><u>Unleashing the Power of Artificer: Adobe's Revolutionary AI Tool for Enhancing Business Teams, Explained by ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphones-display-stay-on-too-long-solutions-inside/"><u>Why Does My iPhone's Display Stay On Too Long? Solutions Inside</u></a></li>
 </ul></div>
 

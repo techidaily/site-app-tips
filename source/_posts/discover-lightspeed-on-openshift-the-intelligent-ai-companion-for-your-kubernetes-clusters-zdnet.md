@@ -1,7 +1,7 @@
 ---
 title: Discover Lightspeed on OpenShift – The Intelligent AI Companion for Your Kubernetes Clusters | ZDNet
-date: 2024-09-17 15:15:28
-updated: 2024-09-20 11:59:43
+date: 2024-10-05T18:07:31.961Z
+updated: 2024-10-06T16:15:34.154Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ps5-ssd-and-hdd-wonders-top-10-exteriors/"><u>[Updated] 2024 Approved PS5 SSD & HDD Wonders Top 10 Exteriors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-breaking-boundaries-weaving-single-photos-into-masterpieces-for-2024/"><u>[Updated] Breaking Boundaries Weaving Single Photos Into Masterpieces for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-leveraging-likes-a-guide-to-profitable-vimeo-marketing/"><u>2024 Approved Leveraging Likes A Guide to Profitable Vimeo Marketing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bavarias-transition-adopting-open-source-with-linux-and-libreoffice-instead-of-microsoft-insights-from-zdnet/"><u>Bavaria's Transition: Adopting Open-Source with Linux and LibreOffice Instead of Microsoft - Insights From ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-xiaomi-redmi-13c-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Xiaomi Redmi 13C.</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/engage-locals-in-italy-10-common-and-charming-greetings/"><u>Engage Locals in Italy: 10 Common and Charming Greetings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-software-picks-for-your-computer-the-ultimate-guide-to-windowsmac-tools-recommended-by-zdnet/"><u>Essential Software Picks for Your Computer: The Ultimate Guide to Windows/Mac Tools Recommended by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-horizons-arista-introduces-advanced-cognitive-networking-in-the-middle-market-segment-insights-from-zdnet/"><u>Expanding Horizons: Arista Introduces Advanced Cognitive Networking in the Middle Market Segment - Insights From ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-ubuntu-2n04-a-revolutionary-fusion-of-speed-and-safety-in-the-world-of-linux-operating-systems-zdnet/"><u>Introducing Ubuntu 2N.04 - A Revolutionary Fusion of Speed and Safety in the World of Linux Operating Systems | ZDnet</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-premium-verses-in-motion-aes-ultimate-lyric-videos/"><u>New 2024 Approved Premium Verses in Motion AEs Ultimate Lyric Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-5-filters-for-deep-blue-cinematography/"><u>Optimal 5 Filters for Deep Blue Cinematography</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-teamwork-platforms-of-2022-expert-reviews-and-comparisons/"><u>Top 5 Teamwork Platforms of 2022 - Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uncovering-the-joy-why-life-after-apple-proves-to-be-an-exciting-journey-zdnet/"><u>Uncovering the Joy: Why Life After Apple Proves To Be an Exciting Journey | ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/standing-the-mechanisms-of-youtubes-cc-license/"><u>Understanding the Mechanisms of YouTube's CC License</u></a></li>
+<li><a href="https://app-tips.techidaily.com/vulnerability-detected-in-curl-utility-for-linux-systems-prompt-mitigation-measures-implemented-tech-news-blog/"><u>Vulnerability Detected in Curl Utility for Linux Systems: Prompt Mitigation Measures Implemented | Tech News Blog</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-swiss-government-leads-by-example-mandates-open-source-sharing-for-official-software-a-new-era-of-public-tech/"><u>ZDNet Exclusive: Swiss Government Leads by Example, Mandates Open Source Sharing for Official Software | A New Era of Public Tech</u></a></li>
+</ul></div>
+

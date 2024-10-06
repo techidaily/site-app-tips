@@ -1,7 +1,7 @@
 ---
 title: Agnes Ro Reveals the Transformation in Modern Development Roles at Atlassian - Insights From Tech Visionary
-date: 2024-09-28T06:35:08.065Z
-updated: 2024-09-30T20:00:59.351Z
+date: 2024-10-03T18:56:13.075Z
+updated: 2024-10-06T17:38:53.843Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,19 +181,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-simplified-screen-recording-for-gamers/"><u>[New] 2024 Approved Simplified Screen Recording for Gamers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-share-igtv-videos-to-facebook-3-ways/"><u>[New] In 2024, How to Share IGTV Videos to Facebook [3 Ways]</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-easy-steps-record-audio-on-mac-using-audacity/"><u>[Updated] In 2024, Easy Steps Record Audio on Mac Using Audacity</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mobile-magnification-premium-highlights-for-iphonesandroids/"><u>[Updated] In 2024, Mobile Magnification Premium Highlights for IPhones/Androids</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ced-techniques-for-youtube-editing-via-finalcut-pro/"><u>Advanced Techniques for YouTube Editing via FinalCut Pro</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-citizen-developers-in-modern-business-workflows/"><u>Empowering Citizen Developers in Modern Business Workflows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-low-code-solutions-can-boost-your-companys-appeal-insights-from-zdnet/"><u>How Low-Code Solutions Can Boost Your Company's Appeal: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-streamline-your-linuxopen-source-knowledge-base-for-clarity-and-efficiency-expert-insights-and-solutions/"><u>How to Streamline Your Linux/Open-Source Knowledge Base for Clarity & Efficiency: Expert Insights and Solutions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-unlocking-the-potential-of-valorant-thumbnails-for-online-success/"><u>In 2024, Unlocking the Potential of Valorant Thumbnails for Online Success</u></a></li>
-<li><a href="https://fox-links.techidaily.com/instant-image-clarity-picart-background-cleansing-hacks-for-2024/"><u>Instant Image Clarity PicArt Background Cleansing Hacks for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-to-elevate-your-system-from-windows-home-to-professional-the-ultimate-benefits-explained/"><u>Step-by-Step Guide to Elevate Your System From Windows Home to Professional – The Ultimate Benefits Explained</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-11-must-have-applications-and-services-for-windowsmac-users-insights-from-zdnet/"><u>Top 11 Must-Have Applications & Services for Windows/Mac Users - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transparency-in-tech-swiss-fed-government-goes-full-open-source-for-software-development/"><u>Transparency in Tech: Swiss Fed Government Goes Full Open Source for Software Development</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-swing-mastery-kit/"><u>[New] Swing Mastery Kit</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-effortless-fusion-of-youtube-audio-with-imovie-masterpieces/"><u>[Updated] In 2024, Effortless Fusion of YouTube Audio with iMovie Masterpieces</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-how-to-do-voiceover-on-powerpoint/"><u>[Updated] In 2024, How to Do Voiceover on PowerPoint</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-tapes-with-these-top-5-brighteners/"><u>[Updated] Transform Your Tapes with These Top 5 Brighteners</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-efficiency-with-these-proven-strategies-in-daily-project-management-tips-shared-on-zdnet/"><u>Boost Efficiency with These Proven Strategies in Daily Project Management – Tips Shared on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/career-advancement-in-tech-with-top-strategies-used-by-the-worlds-biggest-aerospace-enterprises-zdnet/"><u>Career Advancement in Tech with Top Strategies Used by the World's Biggest Aerospace Enterprises | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/data-analysis/"><u>Data Analysis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-discovery-of-the-best-10-sites-for-pristine-images-for-2024/"><u>Exclusive Discovery of the Best 10 Sites for Pristine Images for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-expertise-for-a-secure-transition-to-next-gen-cloud-native-ecosystems-a-deep-dive-with-zdnet/"><u>Harnessing Expertise for a Secure Transition to Next-Gen Cloud-Native Ecosystems: A Deep Dive with ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From iPhone 6s Plus?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-and-science-behind-vr-experience-makers/"><u>In 2024, The Art and Science Behind VR Experience Makers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-artificial-intelligence-and-embracing-rust-in-computing-tech-insights-on-zdnet/"><u>Linus Torvalds Discusses Artificial Intelligence & Embracing Rust in Computing | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-xeroxs-persistent-printer-issue-correcting-windows-update-error-0x800f02b-in-minutes/"><u>Overcome Xerox's Persistent Printer Issue: Correcting Windows Update Error 0x800f02#b in Minutes!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tenfold-surge-in-artifice-intelligence-initiatives-this-year-confirms-zdnet-insight-survey/"><u>Tenfold Surge in Artifice Intelligence Initiatives This Year, Confirms ZDNet Insight Survey</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-team-collaboration-software-of-2022-ultimate-list-and-reviews-techradar/"><u>Top Team Collaboration Software of 2022: Ultimate List and Reviews | TechRadar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-encryption-tools-of-2022-secure-your-digital-information-with-expert-reviews-from-zdnet/"><u>Top-Rated Encryption Tools of 2022: Secure Your Digital Information with Expert Reviews From ZDNet</u></a></li>
 </ul></div>
 

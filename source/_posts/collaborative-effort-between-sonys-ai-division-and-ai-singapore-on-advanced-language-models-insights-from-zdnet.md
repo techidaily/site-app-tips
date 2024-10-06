@@ -1,7 +1,7 @@
 ---
 title: Collaborative Effort Between Sony's AI Division and AI Singapore on Advanced Language Models - Insights From ZDNet
-date: 2024-09-18 13:50:10
-updated: 2024-09-20 11:55:12
+date: 2024-10-04T18:31:14.729Z
+updated: 2024-10-06T17:49:49.285Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-blueprint-to-dominate-with-your-spotify-ad-campaign/"><u>[New] The Blueprint to Dominate With Your Spotify Ad Campaign</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-explore-better-than-sharex-a-guide/"><u>2024 Approved Explore Better Than ShareX - A Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-entrepreneurship-building-a-recognizable-brand/"><u>2024 Approved YouTube Entrepreneurship Building a Recognizable Brand</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-15-android-compatible-free-messaging-apps-a-comprehensive-guide/"><u>Best 15 Android-Compatible Free Messaging Apps: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-sms-automation-tools-top-10-applications-for-android-and-ios-devices/"><u>Best SMS Automation Tools: Top 10 Applications for Android & iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-10-iphone-applications-for-creating-stunning-gif-graphics/"><u>Best Top 10 iPhone Applications for Creating Stunning GIF Graphics</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-tecno-pop-8-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Tecno Pop 8 to iPod | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-your-videos-discover-leading-mobile-apps-including-kinemaster-for-superior-editing-tools/"><u>Master Your Videos: Discover Leading Mobile Apps Including KineMaster for Superior Editing Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-emoji-use-in-android-a-step-by-step-tutorial/"><u>Mastering Emoji Use in Android - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/most-effective-iphone-surveillance-software-your-ultimate-guide-to-discreet-monitoring-tools/"><u>Most Effective iPhone Surveillance Software: Your Ultimate Guide to Discreet Monitoring Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-solve-windows-1110-we-encountered-an-error-for-oculus/"><u>Swiftly Solve Windows 11/10 We Encountered an Error for Oculus</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212151043-troubleshooting-the-cache-miss-error-errcachemiss-in-google-chrome-easily/"><u>Troubleshooting the Cache Miss Error (ERR_CACHE_MISS) in Google Chrome Easily!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-childrens-tablets-handpicked-by-moms-and-dads-as-seen/"><u>Ultimate Guide to Children's Tablets: Handpicked by Moms and Dads, as Seen</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrade-confidently-how-macos-1441-ensures-a-secure-path-to-updating-your-apple-computer-insights-from-zdnet/"><u>Upgrade Confidently: How macOS 14.4.1 Ensures a Secure Path to Updating Your Apple Computer - Insights From ZDNet</u></a></li>
+</ul></div>
+

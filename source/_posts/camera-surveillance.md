@@ -1,7 +1,7 @@
 ---
 title: Camera Surveillance
-date: 2024-09-17 15:30:17
-updated: 2024-09-20 11:27:40
+date: 2024-09-30T18:25:45.892Z
+updated: 2024-10-06T17:34:23.066Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-easy-steps-to-record-with-your-macbooks-camera-for-2024/"><u>[Updated] Easy Steps to Record with Your MacBook's Camera for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-expert-edits-for-an-uncluttered-tiktok-archive/"><u>[Updated] Expert Edits for an Uncluttered TikTok Archive</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-can-televising-streaming-services-include-facebook-content/"><u>2024 Approved Can Televising Streaming Services Include Facebook Content?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhancing-youtube-videos-proper-lighting-methods/"><u>2024 Approved Enhancing YouTube Videos Proper Lighting Methods</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-maximize-your-payload-top-10-drone-giants/"><u>2024 Approved Maximize Your Payload Top 10 Drone Giants</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unleash-your-creative-potential-with-full-length-vivacut-review-24/"><u>2024 Approved Unleash Your Creative Potential with Full-Length VivaCut Review '24</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ais-impact-on-the-future-of-cybersecurity-employment-opportunities-zdnet/"><u>AI's Impact on the Future of Cybersecurity Employment Opportunities | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-free-mp4-video-splitter-software-top-7-options-for-pc-and-mac-users/"><u>Best FREE MP4 Video Splitter Software: Top 7 Options for PC & Mac Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experts-rank-the-top-web-hosting-services-for-202ebyzdnet-find-your-perfect-match/"><u>Experts Rank the Top Web Hosting Services for 202Eby|ZDNET - Find Your Perfect Match!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-set-up-with-magic-mouse-compatibility-downloading-and-installing-applicable-drivers-for-windows-computers/"><u>Get Set Up with Magic Mouse Compatibility: Downloading and Installing Applicable Drivers for Windows Computers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-your-enterprise-will-depend-on-numerous-ai-models-insights-from-zdnet/"><u>How Your Enterprise Will Depend on Numerous AI Models - Insights From ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-asus-rog-phone-8-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Asus ROG Phone 8 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-how-to-repair-imessage-issues-across-iphoneipadmac/"><u>Quick Solutions: How to Repair iMessage Issues Across iPhone/iPad/Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-paradox-of-productivity-can-generative-ai-actually-boost-your-workload-find-out-with-zdnets-latest-analysis/"><u>The Paradox of Productivity: Can Generative AI Actually Boost Your Workload? Find Out with ZDNet's Latest Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-paradox-of-productivity-is-generative-ai-causing-extra-jobs-according-to-zdnet/"><u>The Paradox of Productivity: Is Generative AI Causing Extra Jobs, According to ZDNet?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/training-your-staff-in-ai-revolution-essential-manual-for-smbs-in-singapore-zdnet/"><u>Training Your Staff in AI Revolution: Essential Manual for SMBs in Singapore | ZDnet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-truth-about-becoming-a-devops-expert-opportunities-and-pitfalls-awaiting-you-siliconvalleynews/"><u>Unveiling the Truth About Becoming a DevOps Expert: Opportunities and Pitfalls Awaiting You | SiliconValleyNews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-your-company-depends-on-numerous-ai-systems-insights-from-zdnet/"><u>Why Your Company Depends on Numerous AI Systems - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/your-journey-to-devops-mastery-exploring-benefits-challenges-and-truths-zdnets-comprehensive-guide/"><u>Your Journey to DevOps Mastery: Exploring Benefits, Challenges, and Truths | ZDNET's Comprehensive Guide</u></a></li>
+</ul></div>
+

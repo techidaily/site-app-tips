@@ -1,7 +1,7 @@
 ---
 title: Easily Transition Your Saved Passwords From LastPass to iCloud for Windows Systems | ZDNet
-date: 2024-09-25T07:07:46.698Z
-updated: 2024-09-30T22:32:02.163Z
+date: 2024-09-30T17:36:16.825Z
+updated: 2024-10-06T17:47:19.253Z
 tags:
   - password-manager
 categories:
@@ -33,13 +33,6 @@ But how can I remember all these passwords if I can't even remember my significa
 
 ## How to use iCloud as a password manager on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open iCloud for Windows
 
 Go to your Start menu and open iCloud for Windows. Adding iCloud for Windows to your computer lets you manage your passwords from your PC and generate verification codes when an account needs [two-factor authentication](https://www.zdnet.com/article/two-factor-authentication-is-a-great-idea-but-not-enough-people-are-using-it/) (2FA).
@@ -51,10 +44,10 @@ Go to the Start menu and open iCloud for Windows.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Sign in to your iCloud Passwords
@@ -67,6 +60,13 @@ Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Make sure Passwords is on and click Apply
 
 Make sure Passwords is selected on the iCloud window, then click on **Apply** to make the changes. 
@@ -77,13 +77,6 @@ Make sure Passwords is on and click **Apply**.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Add browser extension
 
 At this point, you can also add a browser extension to [Google Chrome](https://www.zdnet.com/article/malicious-google-chrome-extensions-affect-1-4-million-users/) or [Microsoft Edge](https://www.zdnet.com/article/beef-up-microsoft-edge-with-my-favorite-add-ons/) by following the instructions in the iCloud for Windows app. 
@@ -93,6 +86,13 @@ Once you click **Install Extension** in iCloud, you'll be able to add the **iClo
 Maria Diaz/ZDNET
 
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
 
@@ -122,18 +122,24 @@ Like LastPass, the browser extension will let you fill in your login information
 
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## How do you get iCloud for Windows?  
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How do I set up iCloud Keychain? 
 
@@ -175,20 +181,24 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-upload-longer-videos-to-instagram-on-mac/"><u>[New] How to Upload Longer Videos to Instagram on Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/a-guide-to-resolving-undetected-audio-hardware-problems-on-your-pc-running-windows-11/"><u>A Guide to Resolving Undetected Audio Hardware Problems on Your PC Running Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/analyzing-if-elite-ai-services-merit-their-price-tags/"><u>Analyzing if Elite AI Services Merit Their Price Tags</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/discover-the-best-no-cost-dvd-unlocking-software-compatible-with-windows-11-expert-picks-and-direct-links/"><u>Discover the Best No-Cost DVD Unlocking Software Compatible with Windows 11: Expert Picks & Direct Links</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-tech-squads-amplifying-their-role-in-enhancing-customer-journey-insights-from-zdnet/"><u>Empowering Tech Squads: Amplifying Their Role in Enhancing Customer Journey – Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-evolution-of-developer-roles-insights-from-atlassians-agnes-ro-featured-in-zdnet/"><u>Exploring the Evolution of Developer Roles: Insights From Atlassian’s Agnes Ro – Featured in ZDNet</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-ensure-seamless-gameplay-on-windows-pcs-eliminating-crashing-problems/"><u>How To: Ensure Seamless Gameplay on Windows PCs - Eliminating Crashing Problems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g84-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G84 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-cloud-native-futures-unveiling-skillsets-and-enhanced-security-in-emerging-platforms-insights-from-zdnet/"><u>Navigating Cloud-Native Futures: Unveiling Skillsets & Enhanced Security in Emerging Platforms - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-ops-integration-and-its-complexities-within-enterprise-it-environments-as-analyzed-by-zdnet/"><u>Navigating Ops Integration and Its Complexities Within Enterprise IT Environments, as Analyzed by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-your-path-in-technology-insights-from-industry-leaders-at-global-aerospace-giant/"><u>Navigating Your Path in Technology: Insights From Industry Leaders at Global Aerospace Giant</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/safeguard-data-transfer-overcoming-ssl-certificate-issues-and-hidden-errors/"><u>Safeguard Data Transfer: Overcoming SSL Certificate Issues and Hidden Errors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-artificer-adobes-revolutionary-ai-tool-for-enhancing-business-teams-explained-by-zdnet/"><u>Unleashing the Power of Artificer: Adobe's Revolutionary AI Tool for Enhancing Business Teams, Explained by ZDNet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/windows-8-avi-editor-a-simple-way-to-edit-and-enhance-videos/"><u>Windows 8 AVI Editor A Simple Way to Edit and Enhance Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-best-practices-choosing-the-top-ios-video-downloaders-on-fb/"><u>[New] 2024 Approved Best Practices Choosing the Top iOS Video Downloaders on FB</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-beginners-guide-to-zoom-breakout-rooms-for-2024/"><u>[New] Beginners Guide to Zoom Breakout Rooms for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-commercial-viability-of-creative-video-content/"><u>[Updated] In 2024, The Commercial Viability of Creative Video Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/apex-broadcast-tools-and-platforms/"><u>Apex Broadcast Tools & Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bavarias-transition-adopting-open-source-with-linux-and-libreoffice-instead-of-microsoft-insights-from-zdnet/"><u>Bavaria's Transition: Adopting Open-Source with Linux and LibreOffice Instead of Microsoft - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/essential-sites-for-watching-vr-media/"><u>Essential Sites for Watching VR Media</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-software-picks-for-your-computer-the-ultimate-guide-to-windowsmac-tools-recommended-by-zdnet/"><u>Essential Software Picks for Your Computer: The Ultimate Guide to Windows/Mac Tools Recommended by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-horizons-arista-introduces-advanced-cognitive-networking-in-the-middle-market-segment-insights-from-zdnet/"><u>Expanding Horizons: Arista Introduces Advanced Cognitive Networking in the Middle Market Segment - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-increased-demand-for-openstack-and-kata-containers-in-modern-tech-ecosystems/"><u>Exploring the Increased Demand for OpenStack and Kata Containers in Modern Tech Ecosystems</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-infinix-smart-8-hd-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Infinix Smart 8 HD 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-toggle-the-past-the-twitch-live-trick/"><u>In 2024, Toggle the Past The Twitch Live Trick</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-at-nvidias-open-sourced-gpu-drivers-demystifying-what-powers-your-graphics-performance/"><u>Inside Look at Nvidia's Open Sourced GPU Drivers – Demystifying What Powers Your Graphics Performance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-ubuntu-2n04-a-revolutionary-fusion-of-speed-and-safety-in-the-world-of-linux-operating-systems-zdnet/"><u>Introducing Ubuntu 2N.04 - A Revolutionary Fusion of Speed and Safety in the World of Linux Operating Systems | ZDnet</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/invisible-snapcapture-mastering-the-art-of-stealthy-picture-recording/"><u>Invisible SnapCapture Mastering the Art of Stealthy Picture Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/master-facebooks-hd-livestreaming-techniques/"><u>Master Facebook’s HD Livestreaming Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/by-step-process-of-adding-subtitles-to-your-youtube-content/"><u>Step by Step Process of Adding Subtitles to Your YouTube Content</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamlining-it-management-with-artificial-intelligence-red-hats-approach-to-simplifying-admin-duties/"><u>Streamlining IT Management with Artificial Intelligence: Red Hat's Approach to Simplifying Admin Duties</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-are-gaining-traction-in-tech-circles-zdnet/"><u>The Rising Popularity: How OpenStack & Kata Containers Are Gaining Traction in Tech Circles | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/vulnerability-detected-in-curl-utility-for-linux-systems-prompt-mitigation-measures-implemented-tech-news-blog/"><u>Vulnerability Detected in Curl Utility for Linux Systems: Prompt Mitigation Measures Implemented | Tech News Blog</u></a></li>
 </ul></div>
 

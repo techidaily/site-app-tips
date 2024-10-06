@@ -1,7 +1,7 @@
 ---
 title: Is Microsoft Working on Windows 12? Insider Tips and Unforeseen Projections | DigitalChronicle
-date: 2024-09-17 20:26:26
-updated: 2024-09-20 11:58:13
+date: 2024-10-05T18:06:25.283Z
+updated: 2024-10-06T16:57:04.067Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-social-synergy-blueprint-for-ig-and-tiktok-pairing/"><u>[New] In 2024, Social Synergy Blueprint for IG & TikTok Pairing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-thriving-online-a-strategy-guide-for-building-youtube-links/"><u>[New] In 2024, Thriving Online A Strategy Guide for Building YouTube Links</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-max-360-vs-hero-11-evaluating-the-best-gopro-for-action-videos/"><u>[New] Max 360 Vs. Hero 11 Evaluating the Best GoPro for Action Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-vlog-presentation-converting-h-footage-for-vertical-display/"><u>[Updated] 2024 Approved Mastering Vlog Presentation Converting H-Footage for Vertical Display</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-rust-with-linux-creator-linus-torvalds-insights-on-his-work-habits-and-life-with-macbook-air-exclusive-coverage-from-zdnet/"><u>Exploring Rust with Linux Creator Linus Torvalds: Insights on His Work Habits and Life with MacBook Air | Exclusive Coverage From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/grounding-is-especially-critical-for-transmitting-antennas-due-to-the-high-power-involved-which-increases-the-risk-of-lightning-strikes-and-electrical-hazar80/"><u>Grounding Is Especially Critical for Transmitting Antennas Due to the High Power Involved, Which Increases the Risk of Lightning Strikes and Electrical Hazards.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-realme-c53-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Realme C53 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-printers-performance-download-updated-epson-xp-420-drivers/"><u>Improve Your Printer’s Performance - Download Updated Epson XP-420 Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oneplus-nord-n30-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from OnePlus Nord N30 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-computing-equipment-by-tomtech-expertise/"><u>In-Depth Analysis of Computing Equipment by TomTech Expertise</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-agile-journey-six-pivotal-principles-for-triumphant-software-design-from-zdnet/"><u>Navigating the Agile Journey: Six Pivotal Principles for Triumphant Software Design From ZDnet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-todays-challenges-overcoming-uncertainty-in-ai-output-and-doubts-on-precision-insights-from-zdnet/"><u>Navigating Today's Challenges: Overcoming Uncertainty in AI Output & Doubts on Precision - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-polarization-shown-by-the-radiation-pattern-should-match-that-of-the-receiving-antenna-to-maximize-signal-reception-and-minimize-losses/"><u>The Polarization Shown by the Radiation Pattern Should Match that of the Receiving Antenna to Maximize Signal Reception and Minimize Losses.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-mastery-in-quick-writer-with-these-latest-copilot-updates-for-microsoft-365-expert-insights-from-zdnet/"><u>Unlocking Mastery in Quick Writer with These Latest Copilot Updates for Microsoft 365 - Expert Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-potential-of-ai-in-business-with-servicenow-understanding-the-four-critical-guiding-principles-insights-from-zdnet/"><u>Unlocking the Potential of AI in Business with ServiceNow: Understanding the Four Critical Guiding Principles - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsoft-must-fix-windows-10-issues-within-just-one-year-insights-from-zdnet/"><u>Urgent Challenge: Microsoft Must Fix Windows 10 Issues Within Just One Year - Insights From ZDNet</u></a></li>
+</ul></div>
+

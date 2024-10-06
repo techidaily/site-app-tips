@@ -1,7 +1,7 @@
 ---
 title: 365, as Revealed by ZDNET
-date: 2024-09-19 21:17:12
-updated: 2024-09-20 10:57:42
+date: 2024-10-04T16:12:39.959Z
+updated: 2024-10-06T16:02:01.368Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-audiovisual-interpretation-engine-for-2024/"><u>[Updated] Audiovisual Interpretation Engine for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-harmonizing-lifestyle-through-the-most-inspiring-yoga-vlogs-for-2024/"><u>[Updated] Harmonizing Lifestyle Through the Most Inspiring Yoga Vlogs for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adobe-full-voice-booster-evaluation-techniques-for-superior-sound-quality/"><u>Adobe Full Voice Booster Evaluation: Techniques for Superior Sound Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ameliorez-la-securisation-de-vos-processus-dacquisition-de-documents-avec-tangro-renforce-et-abbyy/"><u>Améliorez La Sécurisation De Vos Processus D'acquisition De Documents Avec Tangro® Renforce Et ABBYY</u></a></li>
+<li><a href="https://article-tips.techidaily.com/basics-of-animated-infographics-and-signage-for-2024/"><u>Basics of Animated Infographics and Signage for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-4-online-tools-to-remove-ai-generated-logos-and-watermarks-from-your-video-content/"><u>Best Top 4 Online Tools to Remove AI-Generated Logos & Watermarks From Your Video Content</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-deeplucas-ai-powered-video-creation-tool-unveiling-key-attributes-and-benefits-vs-drawbacks/"><u>Comprehensive Analysis of DeepLucas' AI-Powered Video Creation Tool - Unveiling Key Attributes & Benefits vs Drawbacks</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How does the stardust trade cost In pokemon go On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-nubia-red-magic-9-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Nubia Red Magic 9 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-5-ai-technologies-for-transforming-grayscale-videos-into-full-color-masterpieces/"><u>Leading 5 AI Technologies for Transforming Grayscale Videos Into Full Color Masterpieces</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-video-capture-on-periscope-a-comprehensive-manual-for-2024/"><u>Mastering Video Capture on Periscope A Comprehensive Manual for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-11-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your iPhone 11</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-eradicating-onedrive-from-explorer-window/"><u>Techniques for Eradicating OneDrive From Explorer Window</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-3-video-to-text-conversion-software-a-comprehensive-guide/"><u>Top 3 Video-to-Text Conversion Software: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-substitutes-for-elevenlabs-explored-detailed-comparison-and-key-characteristics/"><u>Top 5 Substitutes for ElevenLabs Explored: Detailed Comparison and Key Characteristics</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-superior-substitutes-to-zapier-enhance-your-workflow-automation/"><u>Top 5 Superior Substitutes to Zapier: Enhance Your Workflow Automation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-exceptional-no-limit-character-ai-solutions-for-dynamic-experiences/"><u>Unveiling Exceptional No-Limit Character AI Solutions for Dynamic Experiences</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Kubernetes Enhanced with Codenotary’s New Software Bill of Materials Service - The Latest Update Featured by ZDNet
-date: 2024-09-19 14:25:33
-updated: 2024-09-20 10:52:46
+date: 2024-10-01T18:24:41.132Z
+updated: 2024-10-06T17:29:53.454Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-techniques-to-elevate-your-screen-recordings-in-adobe-captive-for-2024/"><u>[New] Cutting-Edge Techniques to Elevate Your Screen Recordings in Adobe Captive for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/iscover-leading-fonts-boosting-your-youtube-thumbnails/"><u>[New] Discover Leading Fonts Boosting Your YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-social-media-magic-techniques-to-share-your-computer-screen-online-for-2024/"><u>[Updated] Social Media Magic Techniques to Share Your Computer Screen Online for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028416344-5/"><u>「自由にダウンロード可能な優秀な無料ビデオ音量調節ツールベスト5」</u></a></li>
+<li><a href="https://app-tips.techidaily.com/delving-deep-into-chatsonic-a-thorough-assessment-of-the-cutting-edge-ai-chat-companion/"><u>Delving Deep Into Chatsonic: A Thorough Assessment of the Cutting-Edge AI Chat Companion</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010508263-effective-techniques-to-minimize-zooms-impact-on-your-computers-processor/"><u>Effective Techniques to Minimize Zoom's Impact on Your Computer’s Processor.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-bing-chat-how-to-utilize-ai-and-gpt-n-technology-for-enhanced-conversations/"><u>Exploring Bing Chat: How to Utilize AI and GPT-N Technology for Enhanced Conversations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-at-chatsonic-thorough-review-uncovers-vital-information-on-this-state-of-the-art-artificial-intelligence-chat-interface/"><u>Inside Look at Chatsonic: Thorough Review Uncovers Vital Information on This State-of-the-Art Artificial Intelligence Chat Interface</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-chatgpt-a-thorough-breakdown-of-its-capabilities-flaws-and-error-management-techniques/"><u>The Ultimate Guide to ChatGPT - A Thorough Breakdown of Its Capabilities, Flaws & Error Management Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tips-and-tricks-for-professional-gamers-on-youtube-for-2024/"><u>Tips & Tricks for Professional Gamers on Youtube for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-incompatible-graphics-cards-for-fortnite-on-windows/"><u>Troubleshooting Incompatible Graphics Cards for Fortnite on Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-chatsonic-an-exhaustive-evaluation-for-insights-into-cutting-edge-ai-conversational-technology/"><u>Unveiling Chatsonic: An Exhaustive Evaluation for Insights Into Cutting-Edge AI Conversational Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-bing-chat-interacting-with-artificial-intelligence-via-gpt-technology/"><u>Unveiling the Power of Bing Chat: Interacting with Artificial Intelligence via GPT Technology</u></a></li>
+</ul></div>
+

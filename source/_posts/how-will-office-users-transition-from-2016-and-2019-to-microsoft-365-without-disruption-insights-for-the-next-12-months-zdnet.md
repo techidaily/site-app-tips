@@ -1,7 +1,7 @@
 ---
 title: How Will Office Users Transition From 2016 and 2019 to Microsoft 365 Without Disruption? Insights for the Next 12 Months | ZDNet
-date: 2024-09-19 16:40:58
-updated: 2024-09-20 10:59:40
+date: 2024-10-02T16:41:21.940Z
+updated: 2024-10-06T18:47:22.404Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-enhancing-visual-clarity-iphone-zoom-techniques-for-2024/"><u>[New] Enhancing Visual Clarity IPhone Zoom Techniques for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-innovative-angles-shooting-vertical-smartphone-panos/"><u>[Updated] In 2024, Innovative Angles Shooting Vertical Smartphone Panos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-xiaomis-flight-tech-unveiled-in-4k-review/"><u>[Updated] In 2024, Xiaomi's Flight Tech Unveiled in 4K Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-master-9-movie-extractor-hub/"><u>[Updated] Master 9 Movie Extractor Hub</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-next-gen-tech-talk-samsungs-bdplus-k850-ultra-review/"><u>2024 Approved Next-Gen Tech Talk Samsung's BD+ K850 Ultra Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieving-tangible-synergy-between-technology-innovations-and-business-strategy/"><u>Achieving Tangible Synergy Between Technology Innovations and Business Strategy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-skillsets-and-enhancing-security-through-cloud-native-solutions-on-emerging-platforms/"><u>Advancing Skillsets & Enhancing Security Through Cloud-Native Solutions on Emerging Platforms</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-lava-blaze-2-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Lava Blaze 2 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capture-kings-arena/"><u>In 2024, Capture King's Arena</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lipsync-the-groundbreaking-new-challenger-in-the-ms-teams-and-zoom-arena-revolutionizing-communication-for-the-hearing-impaired/"><u>LipSync: The Groundbreaking New Challenger in the MS Teams & Zoom Arena - Revolutionizing Communication for the Hearing Impaired</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-windows-11-vm-setup-on-any-platform-step-by-step-instructions/"><u>Mastering Windows 11 VM Setup on Any Platform - Step-by-Step Instructions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-introduces-unified-teamwork-solution-combining-work-personality-and-learning-into-one-platform/"><u>Microsoft Introduces Unified Teamwork Solution: Combining Work, Personality, and Learning Into One Platform</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/qbittorrent-stuck-discover-proven-techniques-to-resume-efficiently/"><u>QBittorrent Stuck? Discover Proven Techniques to Resume Efficiently</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-4b-five-facts-about-advanced-antenna-array-theory/"><u>Section 4B: Five Facts About Advanced Antenna Array Theory</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-setting-up-google-one-vpn-on-your-mac-with-ease/"><u>Step-by-Step Guide: Setting Up Google One VPN on Your Mac with Ease</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-latest-features-of-macos-sonoma-a-comprehensive-guide-insights-from-zdnet/"><u>Unveiling the Latest Features of macOS Sonoma: A Comprehensive Guide - Insights From ZDNet</u></a></li>
+</ul></div>
+

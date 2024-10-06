@@ -1,7 +1,7 @@
 ---
 title: Sony's AI Research Unit Collaborates with AI Singapore on Advanced Language Models - TechNews
-date: 2024-09-17 10:51:15
-updated: 2024-09-20 10:53:17
+date: 2024-10-01T18:07:58.143Z
+updated: 2024-10-06T17:27:11.991Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,26 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-phonesnapshot-protocols-expert-tips-for-mobile-capture-on-snapchat/"><u>[Updated] 2024 Approved Phonesnapshot Protocols Expert Tips for Mobile Capture on Snapchat</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-clear-and-clean-photos-top-6-online-tools-to-remove-signatures/"><u>[Updated] Clear & Clean Photos – Top 6 Online Tools to Remove Signatures</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-dji-mini-air-2-mix-like-a-pro-20-custom-luts-complimentary/"><u>[Updated] DJI Mini, Air 2 Mix Like a Pro - 20 Custom LUTs Complimentary</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-appreciation-showcase-easy-access-to-otus/"><u>2024 Approved Appreciation Showcase Easy Access to OTUs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-instructions-on-how-to-exit-your-account-in-facebook-messenger/"><u>Easy Instructions on How to Exit Your Account in Facebook Messenger</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-infusing-life-into-ppt-with-professional-voiceovers/"><u>In 2024, Infusing Life Into PPT with Professional Voiceovers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-motorola-g24-powers-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Motorola G24 Powers Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-vivo-v27-pro-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Vivo V27 Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reversing-vertical-disarray-a-guide-to-rectifying-upended-footage-on-asus-devices/"><u>Reversing Vertical Disarray: A Guide to Rectifying Upended Footage on ASUS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-solution-effective-ways-to-repair-your-facebook-messaging-app-when-it-stops-working/"><u>Step-by-Step Solution: Effective Ways to Repair Your Facebook Messaging App When It Stops Working</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-18-most-popular-emoji-apps-for-iphones-and-android-phones/"><u>The Ultimate List of the 18 Most Popular Emoji Apps for iPhones and Android Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-android-app-locks-essential-guides-and-reviews/"><u>Top-Rated Android App Locks: Essential Guides and Reviews</u></a></li>
+</ul></div>
+

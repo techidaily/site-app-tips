@@ -1,7 +1,7 @@
 ---
 title: "Open-Source Mandate: Switzerland's Federal Govt. Moves All Software Public"
-date: 2024-09-28T05:31:10.796Z
-updated: 2024-09-30T22:09:12.676Z
+date: 2024-10-03T17:25:59.926Z
+updated: 2024-10-06T18:39:26.447Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,18 +181,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-final-cut-pro-x-mastery-crafting-instagrams-desired-format/"><u>[Updated] In 2024, Final Cut Pro X Mastery Crafting Instagram's Desired Format</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-spark-interest-everyones-free-with-our-youtube-banner-samples/"><u>[Updated] Spark Interest - Everyone's Free With Our YouTube Banner Samples</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/alternative-solutions-to-game-bar-recording-for-2024/"><u>Alternative Solutions to Game Bar Recording for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/convert-fb-video-to-downloadable-mp3-for-2024/"><u>Convert FB Video to Downloadable MP3 for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/evolution-of-dev-responsibilities-as-seen-by-agnes-ro-of-atlassian-expert-analysis-on-zdnet/"><u>Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-humorous-file-downloader-examination/"><u>In 2024, Humorous File Downloader Examination</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-codenotarys-sbom-solution-a-revolution-in-managing-dependencies-on-kubernetes-insights-from-zdnet/"><u>Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-shift-to-cloud-infrastructure-amidst-an-era-of-persistent-on-premises-systems-insights-from-zdnet/"><u>Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/organizing-chaos-streamlining-linux-and-open-source-docs-solutions-from-zdnet/"><u>Organizing Chaos: Streamlining Linux & Open Source Docs - Solutions From ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-installation-hurdles-successful-steps-to-fix-discord-errors/"><u>Overcome Installation Hurdles: Successful Steps to Fix Discord Errors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-impending-crisis-for-microsofts-windows-10-a-race-against-time-reviewed-by-zdnet/"><u>The Impending Crisis for Microsoft's Windows 10: A Race Against Time Reviewed by ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-apple-music-integration-for-high-fidelity-videos/"><u>[New] Apple Music Integration for High-Fidelity Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-from-novice-to-viral-video-top-30-anime-inspiration-ideas-for-2024/"><u>[Updated] From Novice to Viral Video Top 30 Anime Inspiration Ideas for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-virtual-reality-top-emulators-for-playing-ps3-games-on-pc/"><u>[Updated] In 2024, Virtual Reality Top Emulators for Playing PS3 Games on PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-strategies-for-effective-obs-live-feeds-on-facebook-for-2024/"><u>[Updated] Strategies for Effective OBS Live Feeds on Facebook for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/breaking-down-the-reasons-behind-assassins-creed-unity-stuttering-at-startup/"><u>Breaking Down the Reasons Behind 'Assassin's Creed Unity Stuttering at Startup'</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybersecurity-titans-unite-zerofox-acquires-idx-aligning-with-landf-for-an-impressive-14-billion-powerhouse-revealed-by-zdnet/"><u>Cybersecurity Titans Unite! ZeroFox Acquires IDX, Aligning with L&F for an Impressive $1.4 Billion Powerhouse Revealed by ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-does-the-bitwarden-prompt-for-master-password-work-tips-to-turn-it-on-easily/"><u>How Does the Bitwarden Prompt for Master Password Work? Tips to Turn It On Easily!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/major-new-features-1password-mobile-app-receives-extensive-upgrade-zdnet/"><u>Major New Features: 1Password Mobile App Receives Extensive Upgrade - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/major-revamp-enhanced-security-and-features-in-the-latest-1password-app-for-smartphones/"><u>Major Revamp: Enhanced Security & Features in the Latest 1Password App for Smartphones!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/projectweb-shutdown-announced-fujitsu-reacts-to-japans-government-data-leaks-insights-from-zdnet/"><u>ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/secure-extraction-converting-youtube-to-trusted-mp4-for-2024/"><u>Secure Extraction Converting YouTube to Trusted MP4 for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-exclusive-offer-on-pioneering-3-year-3d-password-manager-at-just-30-zdnet/"><u>Secure Your Digital Life: Exclusive Offer on Pioneering 3-Year 3D Password Manager at Just $30 | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-streams-why-stronger-passwords-mean-safer-viewing-techdigest/"><u>Secure Your Streams: Why Stronger Passwords Mean Safer Viewing | TechDigest</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-enhancing-game-performance-by-eliminating-stutters-and-increasing-fps-in-call-of-duty-warzone/"><u>Ultimate Guide: Enhancing Game Performance by Eliminating Stutters & Increasing FPS in Call of Duty: Warzone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-a-safer-digital-life-a-detailed-review-of-two-revolutionary-passwordless-managers/"><u>Unlocking a Safer Digital Life: A Detailed Review of Two Revolutionary Passwordless Managers</u></a></li>
 </ul></div>
 

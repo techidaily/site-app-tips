@@ -1,7 +1,7 @@
 ---
 title: "Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight"
-date: 2024-09-27T05:14:54.550Z
-updated: 2024-09-30T16:09:26.822Z
+date: 2024-10-04T16:24:10.209Z
+updated: 2024-10-06T16:46:53.111Z
 tags:
   - password-manager
 categories:
@@ -73,27 +73,25 @@ Check Point Research
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ssential-notebooks-excellent-in-media-post-production/"><u>[New] Essential Notebooks Excellent in Media Post-Production</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-historical-insights-from-youtubes-top-10-vlogs/"><u>[New] In 2024, Historical Insights From YouTube's Top 10 Vlogs</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-quick-guide-how-to-revamp-facebook-profile-imagery/"><u>[New] In 2024, Quick Guide How to Revamp Facebook Profile Imagery</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-twist-and-tell-the-art-of-angling-your-videos-for-instagram-audiences-for-2024/"><u>[New] Twist & Tell The Art of Angling Your Videos for Instagram Audiences for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-digital-deviation-expert-strategies-to-rotate-videos-on-youtube/"><u>[Updated] Digital Deviation Expert Strategies to Rotate Videos on YouTube</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-a-compreran-guide-for-seamless-soundtrack-integration-in-video-editing/"><u>[Updated] In 2024, A Compreran Guide for Seamless Soundtrack Integration in Video Editing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-vivo-y27s-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Vivo Y27s.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-vivavideo-evaluation-a-complete-guide-to-choosing-your-ideal-video-editor/"><u>Comprehensive VivaVideo Evaluation: A Complete Guide to Choosing Your Ideal Video Editor</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/from-startup-to-shutdown-steam-on-discord-devices-for-2024/"><u>From Startup to Shutdown Steam on Discord Devices for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-to-implementing-boomerangs-seamlessly-in-snapchat-for-all-devices/"><u>Guide to Implementing Boomerangs Seamlessly in Snapchat for All Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-10-reliable-data-backup-apps-for-ios-and-android-devices/"><u>The Ultimate Guide: Top 10 Reliable Data Backup Apps for iOS & Android Devices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-review-of-camstudio-capturing-features/"><u>The Ultimate Review of CamStudio Capturing Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-alternatives-to-remini-boost-and-beautify-photos-with-these-powerful-image-editing-apps/"><u>Top 5 Alternatives to Remini: Boost & Beautify Photos with These Powerful Image Editing Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/try-these-free-apps-the-best-ways-to-efficiently-delete-files-from-your-ipad/"><u>Try These Free Apps: The Best Ways to Efficiently Delete Files From Your iPad</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620190501-ultimate-xvid-video-player-guide-ideal-choice-for-pcs-macs-smartphones-and-tablets/"><u>Ultimate Xvid Video Player Guide: Ideal Choice for PCs, Macs, Smartphones & Tablets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-expert-roundup-best-free-vs-premium-windows-graphics-apps/"><u>[New] Expert Roundup Best Free vs Premium Windows Graphics Apps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-fast-setup-moving-media-from-pc-to-your-iphone-for-2024/"><u>[New] Fast Setup Moving Media From PC To Your iPhone for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-synchronizing-tiktok-viewership-and-facebook-shares-for-2024/"><u>[New] Synchronizing TikTok Viewership and Facebook Shares for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-guide-applying-on-screen-captions-to-photos-videos/"><u>[Updated] Quick Guide Applying On-Screen Captions to Photos Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-6s-plus-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 6s Plus Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-xiaomi-14-ultra-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Xiaomi 14 Ultra For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-key-5-photo-editing-tools-iphone-x78-background-swap/"><u>In 2024, Key 5 Photo Editing Tools IPhone X/7/8 Background Swap</u></a></li>
+<li><a href="https://app-tips.techidaily.com/laugh-out-loud-portraits-top-12-witty-face-photo-effects-for-both-android-and-iphone/"><u>Laugh Out Loud Portraits: Top 12 Witty Face Photo Effects for Both Android & iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-multiplayer-a-step-by-step-guide-to-sharing-games-on-sonys-latest-console/"><u>Mastering Multiplayer: A Step-by-Step Guide to Sharing Games on Sony's Latest Console</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-best-free-messaging-apps-on-android-a-comprehensive-top-10-list/"><u>The Best Free Messaging Apps on Android: A Comprehensive Top 10 List</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-iphone-security-software-simplify-your-login-process-with-our-best-recommended-password-manager/"><u>Top-Rated iPhone Security Software: Simplify Your Login Process with Our Best Recommended Password Manager</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620189209-why-everyone-needs-to-try-the-newly-updated-factual-inshot-editor-unleash-your-creativity/"><u>Why Everyone Needs to Try the Newly Updated Factual InShot Editor - Unleash Your Creativity</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

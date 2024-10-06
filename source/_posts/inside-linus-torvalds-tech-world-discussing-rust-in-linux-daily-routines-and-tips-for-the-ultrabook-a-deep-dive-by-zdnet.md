@@ -1,7 +1,7 @@
 ---
 title: "Inside Linus Torvalds' Tech World: Discussing Rust in Linux, Daily Routines & Tips for the Ultrabook - A Deep Dive by ZDNet"
-date: 2024-09-29T23:08:20.857Z
-updated: 2024-10-01T07:59:34.150Z
+date: 2024-10-04T16:55:13.682Z
+updated: 2024-10-06T18:22:33.865Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,19 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-art-of-revisiting-historical-facebook-posts-mobilelaptop/"><u>[New] 2024 Approved The Art of Revisiting Historical Facebook Posts (Mobile/Laptop)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-storytelling-mastery-crafting-a-dynamic-marketing-plan-for-2024/"><u>[New] Instagram Storytelling Mastery Crafting a Dynamic Marketing Plan for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-guide-for-aspiring-movie-makers-beyond-youtube-for-2024/"><u>[New] The Ultimate Guide for Aspiring Movie Makers, Beyond YouTube for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-changing-the-game-unveiling-top-6-in-nft-arts-and-culture/"><u>2024 Approved Changing the Game Unveiling Top 6 in NFT Arts & Culture</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-poor-or-nonexistent-ground-system-can-lead-to-reduced-radiation-efficiency-increased-noise-levels-and-potentially-dangerous-rf-exposure/"><u>A Poor or Nonexistent Ground System Can Lead to Reduced Radiation Efficiency, Increased Noise Levels, and Potentially Dangerous RF Exposure.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cognitive-network-technology-debuts-in-midrange-market-via-arista-innovations-tech-news/"><u>Cognitive Network Technology Debuts in Midrange Market via Arista Innovations | Tech News</u></a></li>
-<li><a href="https://app-tips.techidaily.com/emerging-tech-trends-top-developer-roles-and-key-coding-languages-shaping-the-future-insights-from-zdnet/"><u>Emerging Tech Trends: Top Developer Roles & Key Coding Languages Shaping the Future - Insights From ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-smooth-printing-download-the-2024-version-of-hp-officejet-4500-driver-today/"><u>Ensure Smooth Printing: Download the 2024 Version of HP Officejet 4500 Driver Today!</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-zero-to-youtube-pros-creating-an-account-rightly-for-2024/"><u>From Zero to YouTube Pros Creating an Account Rightly for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-xs-max-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone XS Max to Roku? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-huawei-nova-y71-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Huawei Nova Y71 Activity | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-crafting-an-ideal-windows-11-vm-setup-on-any-platform-insights-from-zdnet/"><u>Ultimate Guide: Crafting an Ideal Windows 11 VM Setup on Any Platform - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-future-of-ai-at-gtc-nvidias-jensen-huang-introduces-cutting-edge-blackwell-processor-family-to-industry-experts-zdnet/"><u>Unveiling the Future of AI at GTC: Nvidia's Jensen Huang Introduces Cutting-Edge Blackwell Processor Family to Industry Experts | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-obstacles-to-leveraging-generative-ai-in-business-practices-key-findings-from-recent-deloitte-research-explored-by-zdnet/"><u>Unveiling the Obstacles to Leveraging Generative AI in Business Practices: Key Findings From Recent Deloitte Research, Explored by ZDNET</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unveiling-8-premium-linux-tools-for-efficient-snaps/"><u>[New] 2024 Approved Unveiling 8 Premium Linux Tools for Efficient Snaps</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726227115782-mac/"><u>「美麗でモダン: Macユーザー向けカスタムスライドショー制作ガイド」</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-a-tweet-to-snap-showcase-video-posting-techniques/"><u>2024 Approved A Tweet-to-Snap Showcase Video Posting Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-secrets-unlocked-convenient-google-meet-arrangement/"><u>2024 Approved Secrets Unlocked Convenient Google Meet Arrangement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726227512694-movavi3gpmpeg/"><u>網路直接無成本：Movavi用來將3GP格式改變為MPEG - 動作捕捉工具</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-coding-skills-with-patience-and-productivity-unveiling-github-copilots-impact-on-software-development-zdnet/"><u>Advancing Coding Skills with Patience & Productivity: Unveiling GitHub Copilot's Impact on Software Development - ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descubre-el-secreto-para-reducir-tamano-de-videos-grandes-a-la-perfecta-resolucion-para-whatsapp/"><u>Descubre El Secreto Para Reducir Tamaño De Videos Grandes a La Perfecta Resolución Para WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-sunset-of-windows-11-5-essential-steps-to-take-as-microsoft-ends-support/"><u>Facing the Sunset of Windows 11: 5 Essential Steps to Take as Microsoft Ends Support</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-14-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 14 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-top-earners-in-youtube-enterprises/"><u>In 2024, Top Earners in YouTube Enterprises</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-meizu-21-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Meizu 21 has been deleted.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-big-wave-of-enterprise-5g-celonas-landmark-60-million-series-c-investment-explained-by-zdnet/"><u>The 'Big Wave' Of Enterprise 5G: Celona's Landmark $60 Million Series C Investment Explained by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-design-of-an-artificial-earth-plane-can-vary-depending-on-the-frequency-of-operation-at-lower-frequencies-a-larger-physical-area-may-be-needed-to-effect85/"><u>The Design of an Artificial Earth Plane Can Vary Depending on the Frequency of Operation; at Lower Frequencies, a Larger Physical Area May Be Needed to Effectively Reflect Radio Waves.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-in-demand-coding-languages-of-today-comprehensive-learning-resources/"><u>Top 5 In-Demand Coding Languages of Today: Comprehensive Learning Resources</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-companies-find-it-hard-to-utilize-generative-ai-unveiling-survey-results-by-deloitte-as-featured-on-zdnet/"><u>Why Companies Find It Hard to Utilize Generative AI - Unveiling Survey Results by Deloitte as Featured on ZDNet</u></a></li>
 </ul></div>
 

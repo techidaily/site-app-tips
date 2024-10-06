@@ -1,7 +1,7 @@
 ---
 title: Joint Venture Between Sony Research and AI Singapore Accelerates Creation of Next-Gen Language AI Systems
-date: 2024-09-18 19:41:23
-updated: 2024-09-20 10:42:18
+date: 2024-09-29T18:29:37.800Z
+updated: 2024-10-06T17:05:30.249Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-guide-to-disable-facebook-broadcasts-mobiledesktop/"><u>[Updated] 2024 Approved Guide to Disable Facebook Broadcasts, Mobile/Desktop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-balancing-act-lowering-audio-levels/"><u>[Updated] Balancing Act Lowering Audio Levels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-masterpiece-moments-top-15-musician-behind-the-scenes-vlogs-for-2024/"><u>[Updated] Masterpiece Moments Top 15 Musician Behind-the-Scenes Vlogs for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-v27-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo V27</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieving-excellence-in-agile-software-engineering-unveiling-the-6-key-principles-for-a-thriving-design-process/"><u>Achieving Excellence in Agile Software Engineering: Unveiling the 6 Key Principles for a Thriving Design Process</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anticipating-windows-12-release-latest-updates-and-unexpected-forecasts-techinsights/"><u>Anticipating Windows 12 Release: Latest Updates & Unexpected Forecasts | TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-development-process-with-generative-ai-tips-for-success-and-potential-hazards/"><u>Boost Your Development Process with Generative AI - Tips for Success & Potential Hazards</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-vivaldis-new-inbuilt-email-application-a-marvel-of-efficiency-and-style-tech-insights/"><u>Discover Vivaldi’s New Inbuilt Email Application: A Marvel of Efficiency and Style | Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-why-aiops-matters-7-key-points-backed-by-zdnets-research/"><u>Discover Why AIOps Matters: 7 Key Points Backed by ZDNet's Research</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-funimate-on-your-phone-unzipping-the-apk-guide/"><u>In 2024, Funimate on Your Phone Unzipping the APK Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-picku-or-better-a-critical-look-at-androids-premier-photo-tool/"><u>In 2024, PickU or Better? A Critical Look at Android's Premier Photo Tool</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-infinix-smart-7-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Infinix Smart 7 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-the-latest-enhancement-juniper-networks-integrated-cloud-firewall-into-its-sase-solution-for-optimized-cybersecurity/"><u>Introducing the Latest Enhancement: Juniper Network's Integrated Cloud Firewall Into Its SASE Solution for Optimized Cybersecurity</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-revenue-division-on-youtube-shorts-for-2024/"><u>Mastering Revenue Division on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-the-underdog-how-a-simple-app-challenges-mcdonalds-dominance-insights-from-zdnet/"><u>The Rise of the Underdog: How a Simple App Challenges McDonald's Dominance - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/times-running-out-for-microsoft-the-impending-crisis-over-windows-10-requires-immediate-action-zdnet/"><u>Time's Running Out for Microsoft: The Impending Crisis Over Windows 10 Requires Immediate Action [ZDNet]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-compact-gaming-pcs-your-ultimate-buying-guide/"><u>Top-Rated Compact Gaming PCs: Your Ultimate Buying Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/sh-hd-playback-with-av1-on-youtube/"><u>Unleash HD Playback with AV1 on YouTube</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-corporate-potential-through-ai-discover-anthropics-claude-for-scalable-innovation/"><u>Unleashing Corporate Potential Through AI: Discover Anthropic's Claude for Scalable Innovation</u></a></li>
+</ul></div>
+

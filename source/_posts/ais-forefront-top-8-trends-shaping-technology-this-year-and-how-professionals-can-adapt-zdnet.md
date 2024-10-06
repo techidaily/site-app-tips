@@ -1,7 +1,7 @@
 ---
 title: "AI's Forefront: Top 8 Trends Shaping Technology This Year & How Professionals Can Adapt | ZDNET"
-date: 2024-09-17 18:28:11
-updated: 2024-09-20 10:56:30
+date: 2024-10-04T18:18:55.164Z
+updated: 2024-10-06T16:55:22.511Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-unlock-beat-potential-explore-these-free-tempo-tracking-tools/"><u>[New] In 2024, Unlock Beat Potential – Explore These Free Tempo Tracking Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-top-10-channels-to-watch-on-igtv-daily-for-2024/"><u>[New] Top 10 Channels to Watch on IGTV Daily for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-max-360-vs-hero-11-gopro-cameras-face-off/"><u>2024 Approved Max 360 Vs. Hero 11 - GoPro Cameras Face Off</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-strategies-for-endless-online-spaces/"><u>Advanced Strategies for Endless Online Spaces</u></a></li>
+<li><a href="https://app-tips.techidaily.com/approach/"><u>Approach</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inverted-image-display-on-windows-7/"><u>Correcting Inverted Image Display on Windows 7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-nokia-c12-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Nokia C12</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/incorinastrating-supplementary-imagery-in-projects-for-2024/"><u>Incorinastrating Supplementary Imagery in Projects for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-microsoft-working-on-windows-12-insider-tips-and-unforeseen-projections-digitalchronicle/"><u>Is Microsoft Working on Windows 12? Insider Tips and Unforeseen Projections | DigitalChronicle</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/kinemasters-comprehensive-guide-to-green-screen-usage/"><u>Kinemaster's Comprehensive Guide to Green Screen Usage</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/premium-sound-waves-review-paww-hearing-triad/"><u>Premium Sound Waves Review: Paww Hearing Triad</u></a></li>
+<li><a href="https://app-tips.techidaily.com/square-and-cash-app-downtime-essential-info-for-entrepreneurs-tech-news/"><u>Square and Cash App Downtime: Essential Info for Entrepreneurs | Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-switching-from-windows-to-linux-mint-on-your-computer-tips-and-tricks/"><u>Step-by-Step Guide: Switching From Windows to Linux Mint on Your Computer - Tips & Tricks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-the-tangled-web-of-linuxopen-source-documentation-solutions-for-clarity/"><u>Taming the Tangled Web of Linux/Open Source Documentation: Solutions for Clarity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-now-how-cloud-services-are-evolving-according-to-industrys-premier-technology-visionaries/"><u>The Future Is Now: How Cloud Services Are Evolving According to Industry's Premier Technology Visionaries</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-a-world-of-visual-conversations-with-lipsync-a-game-changing-rival-to-microsoft-teams-and-zoom-on-zdnet/"><u>Unlock a World of Visual Conversations with LipSync: A Game-Changing Rival to Microsoft Teams and Zoom on ZDNet</u></a></li>
+</ul></div>
+

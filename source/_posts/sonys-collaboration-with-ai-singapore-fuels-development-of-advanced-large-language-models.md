@@ -1,7 +1,7 @@
 ---
 title: Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models
-date: 2024-09-26T21:40:34.057Z
-updated: 2024-09-30T19:20:33.746Z
+date: 2024-10-01T18:31:59.937Z
+updated: 2024-10-06T18:22:25.962Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,22 +181,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-discovering-the-capabilities-in-samsungs-photography-toolkit/"><u>[New] Discovering the Capabilities in Samsung's Photography Toolkit</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-dive-into-immersion-youtubes-best-vr-content/"><u>[New] In 2024, Dive Into Immersion YouTube's Best VR Content</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-high-quality-video-grabs-by-leading-software/"><u>[Updated] High Quality Video Grabs by Leading Software</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-decoding-action-camera-extras-a-shoppers-map/"><u>2024 Approved Decoding Action Camera Extras - A Shopper’s Map</u></a></li>
-<li><a href="https://app-tips.techidaily.com/anthropic-unveils-the-next-generation-of-enterprise-scale-ai-with-its-advanced-claude-initiative-insights-from-zdnet/"><u>Anthropic Unveils the Next Generation of Enterprise-Scale AI with Its Advanced Claude Initiative - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/best-camcorder-tech-for-shooting-sports/"><u>Best Camcorder Tech for Shooting Sports</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-productivity-leverage-the-new-copilot-enhancements-to-excel-at-prompt-writing-on-microsoft/"><u>Boost Your Productivity: Leverage the New Copilot Enhancements to Excel at Prompt Writing on Microsoft</u></a></li>
-<li><a href="https://app-tips.techidaily.com/directivity/"><u>Directivity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-agile-mindsets-key-strategies-for-successful-software-development-with-zdnet/"><u>Mastering Agile Mindsets: Key Strategies for Successful Software Development with ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/phone-number-error-what-to-do-when-names-are-missing-from-messages/"><u>Phone Number Error: What to Do When Names Are Missing From Messages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-bypass-oculus-setup-failures-in-windows-1110/"><u>Quick Guide to Bypass Oculus Setup Failures in Windows 11/10</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-best-online-choice-for-quick-hassle-free-gif-conversion-to-video/"><u>The Best Online Choice for Quick, Hassle-Free GIF Conversion to Video</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-sql-training-programs-explore-the-best-online-courses-on-zdnet/"><u>Top-Ranked SQL Training Programs: Explore the Best Online Courses on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-ux-with-xr-digital-twins-and-spatial-tech-your-essential-business-roadmap-insights-from-zdnet/"><u>Transforming UX with XR, Digital Twins & Spatial Tech: Your Essential Business Roadmap - Insights From ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-nubia-red-magic-8s-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Nubia Red Magic 8S Pro to Gmail | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-expert-advice-on-linking-your-google-drive-to-slack-for-enhanced-collaboration/"><u>ZDNet's Expert Advice on Linking Your Google Drive to Slack for Enhanced Collaboration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zoom-vs-microsoft-teams-meet-your-astonishing-lip-reading-challenger-breaking-news-from-zdnet/"><u>Zoom Vs. Microsoft Teams? Meet Your Astonishing Lip-Reading Challenger - Breaking News From ZDNet!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-guide-to-various-video-recording-devices/"><u>[Updated] 2024 Approved Guide to Various Video Recording Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-video-player-face-off-vlc-versus-mpc/"><u>[Updated] Free Video Player Face-Off VLC Versus MPC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-hitting-the-high-scores-with-youtube-gaming-livestreams/"><u>[Updated] Hitting the High Scores with YouTube Gaming Livestreams</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-crafting-immersive-experiences-with-green-screen-technology/"><u>2024 Approved Crafting Immersive Experiences with Green Screen Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieving-tangible-synergy-between-technology-innovations-and-business-strategy/"><u>Achieving Tangible Synergy Between Technology Innovations and Business Strategy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-skillsets-and-enhancing-security-through-cloud-native-solutions-on-emerging-platforms/"><u>Advancing Skillsets & Enhancing Security Through Cloud-Native Solutions on Emerging Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-3-updates-in-the-latest-version-of-linux-kernel-v69-technews/"><u>Best 3 Updates in the Latest Version of Linux Kernel v6.9 | TechNews</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/converting-your-collection-of-jpegs-into-a-single-pdf-file-a-how-to-guide/"><u>Converting Your Collection of JPEGs Into a Single PDF File: A How-To Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/could-microsofts-new-innovation-drive-you-crazy-or-will-it-surprise-and-delight-insights-from-zdnet/"><u>Could Microsoft's New Innovation Drive You Crazy, or Will It Surprise and Delight? Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-the-ops-movement-in-corporate-tech-landscapes-amidst-emerging-challenges-insights-from-zdnet/"><u>Embracing the 'Ops' Movement in Corporate Tech Landscapes Amidst Emerging Challenges - Insights From ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-discover-the-ultimate-no-cost-iphone-image-arrangement-software/"><u>In 2024, Discover the Ultimate, No-Cost iPhone Image Arrangement Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-the-charge-how-enterprise-architects-are-driving-the-digital-transformation/"><u>Leading the Charge: How Enterprise Architects Are Driving the Digital Transformation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-self-cloning-craft-a-customized-ai-persona-for-enhanced-communication-learn-how-to-make-it-happen-today/"><u>Mastering Self-Cloning: Craft a Customized AI Persona for Enhanced Communication - Learn How to Make It Happen Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-windows-11-vm-setup-on-any-platform-step-by-step-instructions/"><u>Mastering Windows 11 VM Setup on Any Platform - Step-by-Step Instructions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-results-in-chatgpt-through-strategic-user-persona-development/"><u>Maximizing Results in ChatGPT Through Strategic User Persona Development</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/premier-alternatives-exceeding-the-limits-of-twitter/"><u>Premier Alternatives Exceeding the Limits of Twitter</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726029612271-step-by-step-tutorial-for-transforming-mpeg-files-into-mp4-format-across-various-systems-updated/"><u>Step-by-Step Tutorial for Transforming MPEG Files Into MP4 Format Across Various Systems (Updated )</u></a></li>
 </ul></div>
 

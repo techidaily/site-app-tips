@@ -1,7 +1,7 @@
 ---
 title: "Don't Panic: Five Essential Steps for Your Windows 11 Pre-End-of-Support Journey - Insights From ZDNet"
-date: 2024-09-18 11:57:32
-updated: 2024-09-20 10:25:36
+date: 2024-10-03T18:06:06.147Z
+updated: 2024-10-06T16:04:40.487Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-get-the-facts-about-youtube-keyword-research/"><u>[New] 2024 Approved Get the Facts About YouTube Keyword Research</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-17-best-lights-and-lighting-equipment-for-youtube/"><u>[New] In 2024, 17 Best Lights and Lighting Equipment for YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-artistic-science-behind-youtube-live-imagery-for-2024/"><u>[New] The Artistic Science Behind YouTube Live Imagery for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advance-your-career-with-cutting-edge-tech-more-than-ai-at-the-forefront-lessons-from-zdnet/"><u>Advance Your Career with Cutting-Edge Tech: More Than AI at the Forefront | Lessons From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/androidios-mastering-tetris-duels/"><u>Android/iOS: Mastering Tetris Duels</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-artificebotics-how-modern-ai-experts-merge-innovation-with-business-acumen-to-shape-future-technologies/"><u>Beyond Artificebotics: How Modern AI Experts Merge Innovation with Business Acumen to Shape Future Technologies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/elevating-likes-strategies-for-shaping-square-footage-on-fb-for-2024/"><u>Elevating Likes Strategies for Shaping Square Footage on FB for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-ai-in-developer-tools-why-rote-automation-is-a-thing-of-the-past-insights-from-zdnet/"><u>Embracing AI in Developer Tools: Why Rote Automation Is a Thing of the Past - Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-authenticate-your-yt-account-a-hint-list/"><u>In 2024, How to Authenticate Your YT Account? A Hint List</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-open-source-to-draw-global-tech-pioneers-insights-from-zdnet/"><u>Leveraging Open Source to Draw Global Tech Pioneers - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-how-ai-growth-clashes-with-agile-practices-according-to-recent-research-by-zdnet/"><u>Navigating the Complexities: How AI Growth Clashes with Agile Practices, According to Recent Research by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-inconsistencies-in-artificial-intelligence-expert-analysis-on-reliability-issues-zdnet/"><u>Overcoming Inconsistencies in Artificial Intelligence: Expert Analysis on Reliability Issues | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-tech-talent-how-artificial-intelligence-combats-job-burnout-and-warning-tiredness-for-it-professionals-zdnet/"><u>Reviving Tech Talent: How Artificial Intelligence Combats Job Burnout & Warning Tiredness for IT Professionals | ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/sculpting-visual-clarity-overcoming-gopro-lens-distortion-for-2024/"><u>Sculpting Visual Clarity Overcoming GoPro Lens Distortion for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-workplaces-how-ai-agents-shape-the-future-of-employment-zdnet/"><u>Transforming Workplaces: How AI Agents Shape the Future of Employment | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/unstick-windows-operatic-install-with-ease/"><u>Unstick Windows Operatic Install with Ease</u></a></li>
+</ul></div>
+

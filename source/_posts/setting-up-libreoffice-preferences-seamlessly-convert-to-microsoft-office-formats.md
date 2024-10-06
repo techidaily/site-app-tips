@@ -1,7 +1,7 @@
 ---
 title: "Setting Up LibreOffice Preferences: Seamlessly Convert to Microsoft Office Formats"
-date: 2024-09-17 20:21:46
-updated: 2024-09-20 12:49:20
+date: 2024-10-05T16:45:56.830Z
+updated: 2024-10-06T16:35:31.839Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-superior-vector-file-polishing/"><u>[New] 2024 Approved Superior Vector File Polishing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-beginners-manual-to-windows-8-film-creation/"><u>[New] A Beginner's Manual to Windows 8 Film Creation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unveiling-the-power-of-photos-a-comprehensive-polarr-guide/"><u>[Updated] 2024 Approved Unveiling the Power of Photos A Comprehensive Polarr Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-15-gopro-mounts-and-tripods/"><u>[Updated] In 2024, Top 15 GoPro Mounts and Tripods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bring-back-the-faded-step-by-step-on-transforming-prints-to-pixels/"><u>2024 Approved Bring Back the Faded Step-by-Step on Transforming Prints to Pixels</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-deep-dive-into-microsofts-bing-chat-and-its-use-of-advanced-ai-like-gpt-4/"><u>A Deep Dive Into Microsoft's Bing Chat and Its Use of Advanced AI Like GPT-4</u></a></li>
+<li><a href="https://win-blog.techidaily.com/come-creare-il-tuo-podcast-audio-con-semplicita-su-mac-usando-movavi/"><u>Come Creare Il Tuo Podcast Audio Con Semplicità Su Mac Usando Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-guide-to-evaluating-gpt-powered-conversational-agents-insights-and-recommendations/"><u>Essential Guide to Evaluating GPT-Powered Conversational Agents - Insights & Recommendations</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-apple-iphone-14-pro-max-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Methods to Turn off Life 360 On Apple iPhone 14 Pro Max without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-can-you-receive-a-monthly-check-from-youtube/"><u>In 2024, Can You Receive a Monthly Check From YouTube?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-eva-ai-by-ex-journey-the-ultimate-chatbot-review/"><u>In-Depth Analysis: EVA AI by Ex Journey - The Ultimate Chatbot Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-fix-how-to-install-the-right-camera-drivers-on-windows-7/"><u>Quick Fix: How to Install the Right Camera Drivers on Windows 7</u></a></li>
+<li><a href="https://techidaily.com/remove-oppo-lock-screen-without-password-oppo-a18-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo Lock Screen without Password(Oppo A18)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-chatgpt-a-thorough-breakdown-of-its-capabilities-flaws-and-error-management-techniques/"><u>The Ultimate Guide to ChatGPT - A Thorough Breakdown of Its Capabilities, Flaws & Error Management Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-gpt-powered-ai-chatbot-comprehensive-insights-and-reviews/"><u>Top Rated GPT-Powered AI Chatbot: Comprehensive Insights & Reviews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-of-chatsonic-in-depth-analysis-and-key-takeawutes-for-mastery-over-the-advanced-ai-chatterbot/"><u>Unlocking the Secrets of Chatsonic: In-Depth Analysis and Key Takeawutes for Mastery over the Advanced AI Chatterbot</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-chatsonic-an-exhaustive-evaluation-for-insights-into-cutting-edge-ai-conversational-technology/"><u>Unveiling Chatsonic: An Exhaustive Evaluation for Insights Into Cutting-Edge AI Conversational Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-most-superior-ai-conversational-agents-is-it-chatai-gdt-or-aibot/"><u>Unveiling the Most Superior AI Conversational Agents: Is It ChatAi GDT or AiBot?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-bing-chat-interacting-with-artificial-intelligence-via-gpt-technology/"><u>Unveiling the Power of Bing Chat: Interacting with Artificial Intelligence via GPT Technology</u></a></li>
+</ul></div>
+

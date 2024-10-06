@@ -1,7 +1,7 @@
 ---
 title: How Citizen DevOps Revolutionize Workload Management in Corporate IT Systems
-date: 2024-09-19 18:22:38
-updated: 2024-09-20 10:26:21
+date: 2024-10-04T17:04:56.923Z
+updated: 2024-10-06T16:33:52.127Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-which-player-enhances-media-experience-more-vlc-vs-mx/"><u>[New] 2024 Approved Which Player Enhances Media Experience More? VLC Vs. MX</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-fresh-filmmaking-innovative-biographical-ideas-to-triple-your-tiktok-following-on-filmora/"><u>[Updated] 2024 Approved Fresh Filmmaking Innovative Biographical Ideas to Triple Your TikTok Following on Filmora</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-large-scale-tiktok-content-acquisition/"><u>2024 Approved The Ultimate Guide to Large-Scale TikTok Content Acquisition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-oppo-k11x-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Oppo K11x to iPhone | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adaptive-arrays/"><u>Adaptive Arrays</u></a></li>
+<li><a href="https://common-error.techidaily.com/beating-the-puzzle-of-directxs-unrecoverable-error-with-effective-fixes/"><u>Beating the Puzzle of DirectX's Unrecoverable Error with Effective Fixes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/colleague-relationships-are-essential-as-positive-dynamics-can-lead-to-a-more-enjoyable-and-productive-work-environment/"><u>Colleague Relationships Are Essential as Positive Dynamics Can Lead to a More Enjoyable and Productive Work Environment.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-microsoft-recall-as-a-privacy-catastrophe-here-are-7-compelling-reasons-you-shouldnt-worry-zdnet/"><u>Debunking Microsoft Recall as a Privacy Catastrophe? Here Are 7 Compelling Reasons You Shouldn't Worry | ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/epic-new-year-targets-from-vision-to-victory/"><u>Epic New Year Targets: From Vision To Victory</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-rapid-impact-of-ai-on-software-engineering-challenges-in-quantifying-progress-insights-from-zdnet/"><u>Exploring the Rapid Impact of AI on Software Engineering: Challenges in Quantifying Progress - Insights From ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-xs-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone XS Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/smooth-segmentation-4-easy-fades-explained/"><u>Smooth Segmentation 4 Easy Fades Explained</u></a></li>
+<li><a href="https://app-tips.techidaily.com/sonys-research-division-joins-forces-with-ai-singapore-for-next-gen-language-models-innovation-breakthrough/"><u>Sony's Research Division Joins Forces with AI Singapore for Next-Gen Language Models | Innovation Breakthrough</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-comeback-kid-unpacking-why-openstack-and-kata-containers-are-winning-over-enterprises-again-analysis-on-zdnet/"><u>The Comeback Kid: Unpacking Why OpenStack & Kata Containers Are Winning Over Enterprises Again - Analysis on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-crisis-microsofts-critical-challenge-with-windows-10-looms-as-deadline-approaches-tech-news-by-zdnet/"><u>Urgent Crisis: Microsoft's Critical Challenge with Windows 10 Looms as Deadline Approaches | Tech News by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-woes-intensify-for-microsoft-as-launch-deadline-looms-expert-analysis-by-zdnet/"><u>Windows 11 Woes Intensify for Microsoft as Launch Deadline Looms – Expert Analysis by ZDNET</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Adaptive Arrays
-date: 2024-09-18 13:20:13
-updated: 2024-09-20 10:13:58
+date: 2024-10-04T18:20:05.125Z
+updated: 2024-10-06T16:30:37.122Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-seconds-needed-to-watch-an-hd-20mb-video/"><u>[New] Seconds Needed to Watch an HD 20MB Video</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-playstation-vrs-coming-stars-predicted-top-5-titles-to-track/"><u>2024 Approved PlayStation VR's Coming Stars Predicted Top 5 Titles to Track</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-v30-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo V30 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722881712723-apple-music-continuous-streaming-learn-how-to-pause-it/"><u>Apple Music Continuous Streaming? Learn How to Pause It</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bing-chat-explored-in-depth-insights-on-ai-and-gpt-4-integration/"><u>Bing Chat Explored: In-Depth Insights on AI and GPT-4 Integration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-chatgpt-2024-unveiling-key-functionalities-and-resolving-internal-errors/"><u>Complete Guide to ChatGPT 2024: Unveiling Key Functionalities and Resolving Internal Errors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-everything-you-need-to-know-about-the-renamed-eva-ai-bot-formerly-known-as-ex-journey/"><u>Discover Everything You Need to Know About the Renamed EVA AI Bot: Formerly Known as Ex Journey</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-elite-choice-in-chatbots-why-chatgpt-reigns-supreme-a-comprehensive-analysis/"><u>Discover the Elite Choice in Chatbots: Why ChatGPT Reigns Supreme - A Comprehensive Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-full-potential-of-eva-ai-by-ex-journey-your-essential-chatbot-review-compiled/"><u>Discover the Full Potential of EVA AI by Ex Journey – Your Essential Chatbot Review Compiled!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevenlabs-ai-voice-generation-review-with-a-look-at-other-options/"><u>ElevenLabs AI: Voice Generation Review with a Look at Other Options</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-6-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 6</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/navigating-obs-livestream-integration-for-maximum-facebook-reach-for-2024/"><u>Navigating OBS Livestream Integration for Maximum Facebook Reach for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/stabilized-snapshots-best-tripods-for-iphonesandroids-for-2024/"><u>Stabilized Snapshots Best Tripods for iPhones/Androids for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/take-your-videos-to-the-next-level-6-expert-adobe-premiere-tips/"><u>Take Your Videos to the Next Level 6 Expert Adobe Premiere Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-chatting-world-with-top-10-innovative-ai-chatbot-solutions/"><u>Transform Your Chatting World with Top 10 Innovative AI Chatbot Solutions</u></a></li>
+</ul></div>
+

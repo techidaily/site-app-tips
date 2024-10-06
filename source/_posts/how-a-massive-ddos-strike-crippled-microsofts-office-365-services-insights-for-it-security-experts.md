@@ -1,7 +1,7 @@
 ---
 title: How a Massive DDoS Strike Crippled Microsoft's Office 365 Services – Insights for IT Security Experts
-date: 2024-09-19 21:12:29
-updated: 2024-09-20 12:12:33
+date: 2024-09-29T18:35:27.889Z
+updated: 2024-10-06T17:01:27.269Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-best-picture-repository-platforms/"><u>[Updated] Best Picture Repository Platforms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-12-pro-max-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 12 Pro Max to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-free-android-chat-applications-ranked-from-1-to-10/"><u>Discover the Ultimate Selection of Free Android Chat Applications: Ranked From #1 to #10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-ways-to-master-boomerang-feature-across-ios-android-and-web-platforms/"><u>Effortless Ways to Master Boomerang Feature Across iOS, Android & Web Platforms</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ng-storylines-with-google-trends-analysis-techniques-for-2024/"><u>Finding Storylines with Google Trends Analysis Techniques for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-hobbyist-to-pro-selecting-top-drone-editing-tools/"><u>From Hobbyist to Pro Selecting Top Drone Editing Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-90-lite-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor 90 Lite To Phone | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-rise-to-success-with-these-essential-15-fb-sales-insights/"><u>In 2024, Rise to Success with These Essential 15 FB Sales Insights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-simplified-processes-instantly-clearing-youtube-comments/"><u>In 2024, Simplified Processes Instantly Clearing Youtube Comments</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-your-communication-avoid-missing-calls-amidst-noise-or-muting-with-advanced-flash-tech-for-up-to-10-contacts/"><u>Master Your Communication: Avoid Missing Calls Amidst Noise or Muting with Advanced Flash Tech for Up to 10 Contacts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-automated-photography-setting-timers-on-iphones-and-android-devices/"><u>Mastering the Art of Automated Photography: Setting Timers on iPhones & Android Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rising-dram-market-demands-lead-sk-hynix-towards-expanded-production/"><u>Rising DRAM Market Demands Lead SK Hynix Towards Expanded Production</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-11-superior-sound-integration-tools-for-adding-music-and-voice-to-videos-across-android-ios-mac-and-pc-platforms/"><u>The Ultimate List of 11 Superior Sound Integration Tools for Adding Music & Voice to Videos Across Android, iOS, Mac & PC Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-best-multiplayer-bluetooth-games-for-android-and-ios-devices/"><u>The Ultimate List of Best Multiplayer Bluetooth Games for Android & iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-11-audio-enhancement-applications-for-video-editing-on-mobile-devices-and-desktop-systems/"><u>Top 11 Audio Enhancement Applications for Video Editing on Mobile Devices and Desktop Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-6-must-have-android-contact-widget-apps-of-2024-a-comprehensive-guide/"><u>Top 6 Must-Have Android Contact Widget Apps of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-10-leading-music-organizers-for-all-your-platform-needs-windows-mac-iphone-and-android/"><u>Ultimate Selection of 10 Leading Music Organizers for All Your Platform Needs: Windows, Mac, iPhone & Android</u></a></li>
+</ul></div>
+

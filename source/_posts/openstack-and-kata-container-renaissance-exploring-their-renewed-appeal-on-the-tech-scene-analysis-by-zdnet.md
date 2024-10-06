@@ -1,7 +1,7 @@
 ---
 title: "OpenStack and Kata Container Renaissance: Exploring Their Renewed Appeal on the Tech Scene - Analysis by ZDNET"
-date: 2024-09-24T00:21:10.904Z
-updated: 2024-10-01T09:00:49.335Z
+date: 2024-10-02T16:08:12.308Z
+updated: 2024-10-06T19:00:32.429Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,17 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unleashing-the-power-of-youtube-short-form-videos/"><u>[New] In 2024, Unleashing the Power of YouTube Short Form Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-seamless-media-transition-from-youtube-to-mp3-format/"><u>[Updated] Seamless Media Transition From YouTube to MP3 Format</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-ultimate-top-5-to-do-apps-for-boosting-productivity-cnet/"><u>Exploring the Ultimate Top 5 To-Do Apps for Boosting Productivity - CNET</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-logitech-g29-racing-wheel-driver-software-compatible-with-windows-7-8-and-10/"><u>Free Logitech G29 Racing Wheel Driver Software - Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Realme V30? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/introduction-to-creative-computing-what-you-need-to-know-about-generative-ai/"><u>Introduction to Creative Computing: What You Need to Know About Generative AI</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-task-management-setting-up-timely-alerts-via-slacks-built-in-slackbot-assistant/"><u>Mastering Task Management: Setting Up Timely Alerts via Slack's Built-In Slackbot Assistant</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-what-is-an-xml-file-and-how-to-export-xml-in-final-cut-pro-x-in-2024/"><u>New What Is an XML File and How to Export XML in Final Cut Pro X, In 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-obstacles-to-utilize-generative-ai-effectively-reveals-new-study-by-deloitte-featured-on-zdnet/"><u>Overcoming Obstacles to Utilize Generative AI Effectively, Reveals New Study by Deloitte Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/soaring-investments-in-generative-ai-training-overlooked-by-insufficient-risk-metrics-reveals-new-research-from-stanford-zdnet-exclusive/"><u>Soaring Investments in Generative AI Training Overlooked by Insufficient Risk Metrics, Reveals New Research From Stanford | ZDNET Exclusive</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-why-cant-i-access-diablo-ii-resurrected/"><u>Troubleshooting Guide: Why Can't I Access Diablo II: Resurrected?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-5-main-options-for-continued-use/"><u>Windows 10 End of Life Approaching: Discover Your 5 Main Options for Continued Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-selecting-top-online-vhs-image-adjustments/"><u>[New] Mastering the Art of Selecting Top Online VHS Image Adjustments</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-state-of-the-art-methods-for-documenting-digital-education/"><u>[Updated] In 2024, State-of-the-Art Methods for Documenting Digital Education</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streamlined-methods-for-iphone-screen-recordings-for-2024/"><u>[Updated] Streamlined Methods for iPhone Screen Recordings for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-creme-de-la-creme-live-streaming-services/"><u>[Updated] The Crème De La Créme Live Streaming Services</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-how-adobes-enterprise-level-ai-feature-transforms-team-collaboration-insights-from-zdnet/"><u>1. How Adobe's Enterprise-Level AI Feature Transforms Team Collaboration: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-transforming-business-the-effects-of-decentralization-and-web3-on-corporations-insights-from-zdnet/"><u>1. Transforming Business: The Effects of Decentralization & Web3 on Corporations - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/agnes-ro-reveals-the-transformation-in-modern-development-roles-at-atlassian-insights-from-tech-visionary/"><u>Agnes Ro Reveals the Transformation in Modern Development Roles at Atlassian - Insights From Tech Visionary</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-deadline-approaching-for-microsofts-windows-11-issues-only-a-year-remains-to-fix-them/"><u>Critical Deadline Approaching for Microsoft's Windows 11 Issues – Only a Year Remains to Fix Them!</u></a></li>
+<li><a href="https://facebook.techidaily.com/easy-ways-to-detect-unauthorized-pc-access/"><u>Easy Ways to Detect Unauthorized PC Access</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-of-gadgets-and-components-toms-hardware-unveiled/"><u>Expert Review of Gadgets and Components - Tom's Hardware Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-new-frontiers-in-coding-efficiency-the-impact-of-github-copilot-as-revealed-by-zdnet/"><u>Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005625093-how-to-fix-valorant-not-launching-on-pc-2024-tips/"><u>How to Fix Valorant Not Launching on PC – 2024 Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-2023s-social-media-video-extractor-for-all-platforms/"><u>In 2024, 2023'S Social Media Video Extractor for All Platforms</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c53-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C53 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-how-non-apple-companies-offer-more-enjoyable-work-experiences-confirms-ex-employee-zdnet/"><u>Inside Look: How Non-Apple Companies Offer More Enjoyable Work Experiences, Confirms Ex-Employee | ZDNET</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-podcast-xml-creating-rss-feeds-from-scratch-for-2024/"><u>Mastering Podcast XML Creating RSS Feeds From Scratch for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-skills-with-courseras-new-levelset-exams-insights-from-zdnet/"><u>Mastering Skills with Coursera's New LevelSet Exams: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-output-with-expert-tips-and-tools-mastering-daily-workflow-management-zdnet/"><u>Maximize Output with Expert Tips and Tools: Mastering Daily Workflow Management | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-your-path-in-technology-with-insights-from-an-industry-titan-the-inside-scoop-on-building-a-career-at-boeing-zdnet/"><u>Navigating Your Path in Technology with Insights From an Industry Titan - The Inside Scoop on Building a Career at Boeing [ZDNet]</u></a></li>
 </ul></div>
 

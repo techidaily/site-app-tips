@@ -1,7 +1,7 @@
 ---
 title: The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights
-date: 2024-09-29T03:35:00.825Z
-updated: 2024-10-01T01:09:18.356Z
+date: 2024-10-03T17:16:48.283Z
+updated: 2024-10-06T16:13:09.413Z
 tags:
   - password-manager
 categories:
@@ -110,10 +110,10 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -140,10 +140,10 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -191,15 +191,22 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-elevate-audio-quality-in-podcasts-using-garageband/"><u>[New] In 2024, Elevate Audio Quality in Podcasts Using GarageBand</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-deciphering-advanced-hdr-camera-features/"><u>[Updated] In 2024, Deciphering Advanced HDR Camera Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-essentials-of-apple-mdm-and-deploying-on-the-ios-ecosystem/"><u>Discover the Essentials of Apple MDM & Deploying on the iOS Ecosystem</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-user-friendly-android-notes-applications-the-best-picks-you-need/"><u>Discover the Ultimate List of FREE, User-Friendly Android Notes Applications: The Best Picks You Need</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-the-mumu-player-a-high-performance-android-simulator-for-desktop-environments/"><u>Experience the MuMu Player: A High-Performance Android Simulator for Desktop Environments</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-examination-of-nox-player-insights-on-functionality-advantages-and-limitations/"><u>In-Depth Examination of Nox Player: Insights on Functionality, Advantages, and Limitations</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/onboarding-ist-entscheidend-erkennen-sie-die-risiken-bei-denen-fast-jeder-unternehmen-mit-dem-verlust-von-interessenten-rechnen-sollte/"><u>Onboarding Ist Entscheidend: Erkennen Sie Die Risiken, Bei Denen Fast Jeder Unternehmen Mit Dem Verlust Von Interessenten Rechnen Sollte.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/overcoming-obstacles-installing-drivers-on-windows/"><u>Overcoming Obstacles: Installing Drivers on Windows</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/social-media-archives-live-version-for-2024/"><u>Social Media Archives - Live Version for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-6-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 6</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/umpstart-your-professional-filmmaking-exclusive-cost-free-green-screen-training-from-top-youtube-educators-for-2024/"><u>[New] Jumpstart Your Professional Filmmaking Exclusive, Cost-Free Green Screen Training From Top YouTube Educators for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-hone-your-livestream-skills-on-youtubes-premier-platform/"><u>[Updated] Hone Your Livestream Skills on YouTube's Premier Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tgapng-movavi/"><u>線上自由改造TGA格式為PNG的移動應用程序 – 利用 Movavi 轉換工具</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-iphone-data-rescue-tools-how-to-get-back-deleted-files-securely/"><u>Best iPhone Data Rescue Tools: How to Get Back Deleted Files Securely</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996647700-dayz-first-person-shooter-instant-and-simple-fixes-for-game-crashes/"><u>DayZ First-Person Shooter: Instant and Simple Fixes for Game Crashes!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-fun-and-trending-facebook-messenger-stickers-now/"><u>Download Fun & Trending Facebook Messenger Stickers Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-efficiently-eliminate-apps-from-your-smartphone-tips-for-ios-and-android-users/"><u>How To Efficiently Eliminate Apps From Your Smartphone: Tips for iOS & Android Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-12-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone 12 Pro Max | Stellar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/league-of-legends-speech-problems-heres-how-you-can-solve-them/"><u>League of Legends Speech Problems? Here's How You Can Solve Them</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-wps-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Online signatures for .wps file</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-screenshot-enhancers-ios-and-android-sticker-edition/"><u>Top 10 Screenshot Enhancers IOS & Android Sticker Edition</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-emulators-for-running-mobile-apps-on-your-pc-a-comprehensive-guide/"><u>Top 7 Emulators for Running Mobile Apps on Your PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-8-unbeatable-xbox-emulators-for-pc-and-android-an-honest-comparison/"><u>Top 8 Unbeatable Xbox Emulators for PC & Android - An Honest Comparison</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-iphone-spyware-apps-unbeatable-options-for-covert-tracking/"><u>Top Rated iPhone Spyware Apps: Unbeatable Options for Covert Tracking</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/uninterrupted-gaming-experience-discover-how-with-a-specialized-apc-backup-unit-overview/"><u>Uninterrupted Gaming Experience? Discover How With a Specialized APC Backup Unit Overview</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-vsco-a-detailed-review-with-benefits-drawbacks-comparisons-and-best-alternatives/"><u>Unraveling VSCO: A Detailed Review with Benefits, Drawbacks, Comparisons, and Best Alternatives</u></a></li>
 </ul></div>
 

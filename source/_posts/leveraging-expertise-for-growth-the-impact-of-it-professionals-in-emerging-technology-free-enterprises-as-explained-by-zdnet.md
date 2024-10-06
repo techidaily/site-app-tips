@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Expertise for Growth: The Impact of IT Professionals in Emerging Technology-Free Enterprises, as Explained by ZDNET"
-date: 2024-09-18 19:52:24
-updated: 2024-09-20 10:58:45
+date: 2024-09-29T16:10:36.649Z
+updated: 2024-10-06T17:53:23.537Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +184,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagram-stories-integrating-personalized-graphics-for-2024/"><u>[New] Mastering Instagram Stories Integrating Personalized Graphics for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-start-utilizing-zoom-in-windows-10-systems/"><u>[New] Quick Start Utilizing Zoom in Windows 10 Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-phantoms-view-droning-action-highlights/"><u>[Updated] Phantom's View Droning Action Highlights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capturing-your-craft-minecraft-gameplay-on-a-mac/"><u>2024 Approved Capturing Your Craft Minecraft Gameplay on a Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-ai-horizons-decoding-the-titles-and-responsibilities-of-tomorrows-job-roles-defined-by-tech-progress/"><u>Beyond AI Horizons: Decoding the Titles and Responsibilities of Tomorrow's Job Roles Defined by Tech Progress</u></a></li>
+<li><a href="https://app-tips.techidaily.com/closing-the-gap-between-desire-and-effort-in-building-responsible-ai-unpacked-by-zdnets-latest-analysis/"><u>Closing the Gap Between Desire and Effort in Building Responsible AI - Unpacked by ZDNET's Latest Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expertly-selected-these-are-the-top-7-traffic-control-applications/"><u>Expertly Selected, These Are the Top 7 Traffic Control Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experts-choose-the-superior-web-host-services-of-2024-in-depth-analysis-and-ratings-discover-with-zdnet/"><u>Experts Choose the Superior Web Host Services of 2024: In-Depth Analysis and Ratings | Discover with ZDNET</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-15-pro-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 15 Pro Max without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-verdict-on-using-itop-for-screen-capture/"><u>In 2024, The Verdict on Using ITop for Screen Capture?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-zoom-mastery-in-microsoft-teams-sessions-for-2024/"><u>Precision Zoom Mastery in Microsoft Teams Sessions for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preparing-leaders-for-ai-integration-essential-steps-recommended-by-zdnet/"><u>Preparing Leaders for AI Integration: Essential Steps Recommended by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-emergence-of-immediate-innovation-a-disparate-spread-across-industries/"><u>The Emergence of Immediate Innovation - A Disparate Spread Across Industries.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-quest-for-ethical-artificial-intelligence-why-more-action-needed-despite-universal-agreement-insights-from-zdnet/"><u>The Quest for Ethical Artificial Intelligence: Why More Action Needed Despite Universal Agreement? Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-secret-behind-open-source-magnetism-for-elite-innovators-a-deep-dive-with-zdnets-perspective/"><u>The Secret Behind Open Source Magnetism for Elite Innovators - A Deep Dive with ZDNet's Perspective</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wsappx-explained-effectively-addressing-high-disk-space-and-cpu-demands/"><u>WSAPPX Explained: Effectively Addressing High Disk Space and CPU Demands</u></a></li>
+</ul></div>
+

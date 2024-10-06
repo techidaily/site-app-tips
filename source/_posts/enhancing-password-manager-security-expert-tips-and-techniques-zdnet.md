@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]"
-date: 2024-09-25T19:11:36.795Z
-updated: 2024-09-30T19:31:55.031Z
+date: 2024-09-30T17:50:36.800Z
+updated: 2024-10-06T18:41:40.045Z
 tags:
   - password-manager
 categories:
@@ -42,10 +42,10 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -65,10 +65,10 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -92,16 +92,10 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -150,24 +144,24 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-elite-desktopmobile-communication-software-zoom-substitutes-for-2024/"><u>[New] Elite Desktop/Mobile Communication Software (Zoom Substitutes) for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy M14 5G</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-bring-life-to-stills-motion-blur-technique/"><u>2024 Approved Bring Life to Stills Motion Blur Technique</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>2024 Approved First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-idea-to-rss-producing-a-podcast-feed/"><u>2024 Approved From Idea to RSS Producing a Podcast Feed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-takes-center-stage-the-transformation-of-low-codeno-code-tools-in-modern-tech-strategies-insights-from-zdnet/"><u>AI Takes Center Stage: The Transformation of Low-Code/No-Code Tools in Modern Tech Strategies - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-rote-learning-how-ai-is-revolutionizing-software-development-with-advanced-intelligence-insights-from-zdnet/"><u>Beyond Rote Learning: How AI Is Revolutionizing Software Development with Advanced Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/direct-streamline-the-most-efficient-flv-to-youtube-tools-ranked-for-2024/"><u>Direct Streamline The Most Efficient Flv-to-YouTube Tools Ranked for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/emerging-leadership-in-the-age-of-generative-ai-how-new-software-roles-are-shaping-the-future-tech-insight/"><u>Emerging Leadership in the Age of Generative AI: How New Software Roles Are Shaping the Future | Tech Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/emerging-trends-how-edge-computing-boosts-job-opportunities-and-growth-insights-by-zdnet/"><u>Emerging Trends: How Edge Computing Boosts Job Opportunities & Growth - Insights by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-partnerships-the-role-of-artificial-intelligence-in-merging-developer-expertise-with-business-strategy-zdnet-analysis/"><u>Empowering Partnerships: The Role of Artificial Intelligence in Merging Developer Expertise with Business Strategy - ZDNet Analysis</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-tech-upgrade-adding-supporting-hardware-drivers/"><u>Essential Tech Upgrade: Adding Supporting Hardware Drivers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-role-of-a-chief-ai-officer-pathways-to-achieve-this-executive-position/"><u>Exploring the Role of a Chief AI Officer – Pathways to Achieve This Executive Position</u></a></li>
-<li><a href="https://win-blog.techidaily.com/get-your-steam-remote-play-running-smoothly-with-these-proven-fixes/"><u>Get Your Steam Remote Play Running Smoothly with These Proven Fixes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-perfecting-audio-quality-for-your-youtube-channel/"><u>In 2024, Perfecting Audio Quality for Your YouTube Channel</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/online-protection-basics-discover-5-crucial-browsing-tips-every-beginner-needs-to-know/"><u>Online Protection Basics: Discover 5 Crucial Browsing Tips Every Beginner Needs to Know</u></a></li>
-<li><a href="https://app-tips.techidaily.com/prioritize-manager-training-before-deploying-artificial-intelligence-insights-from-zdnet/"><u>Prioritize Manager Training Before Deploying Artificial Intelligence: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-cashless-how-non-monetary-transactions-are-set-to-soar-past-16t-driven-by-asian-markets-zdnet-insights/"><u>The Future Is Cashless: How Non-Monetary Transactions Are Set to Soar Past $1.6T, Driven by Asian Markets | ZDNET Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-explores-singapores-push-towards-eco-friendly-tech-funding-artificeal-intelligence-to-combat-climate-change/"><u>ZDNet Explores Singapore’s Push Towards Eco-Friendly Tech: Funding Artificeal Intelligence to Combat Climate Change</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-80plus-catchy-cooking-channel-names-to-attract-more-audience/"><u>[New] In 2024, 80+ Catchy Cooking Channel Names to Attract More Audience</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-enhanced-viewing-experience-apply-filters-on-videos/"><u>[Updated] Enhanced Viewing Experience Apply Filters on Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-story-complete-guide-what-is-it-and-how-to-use-it/"><u>[Updated] Facebook Story Complete Guide What Is It and How to Use It?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-secure-your-content-copyright-checks-before-tiktok-sharing/"><u>[Updated] In 2024, Secure Your Content Copyright Checks Before TikTok Sharing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-lingo-explained-29-core-terminologies-unveiled/"><u>AI Lingo Explained: 29 Core Terminologies Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amplifying-the-role-of-it-professionals-in-shaping-customer-satisfaction-expert-analysis-by-zdnet/"><u>Amplifying the Role of IT Professionals in Shaping Customer Satisfaction | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/choosing-the-right-user-account-for-windows-11-installation-tips-and-considerations/"><u>Choosing the Right User Account for Windows 11 Installation: Tips and Considerations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-tech-departments-elevating-your-brand-through-enhanced-customer-experiences-insights-from-zdnet/"><u>Empowering Tech Departments: Elevating Your Brand Through Enhanced Customer Experiences - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-security-juniper-networks-integrates-cloud-firewall-into-sase-solutions-zdnet-insight/"><u>Expanding Security: Juniper Networks Integrates Cloud Firewall Into SASE Solutions - ZDNet Insight</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-enhanced-website-management-thanks-to-cookiebot/"><u>Experience Enhanced Website Management Thanks to Cookiebot</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-windows-11-end-of-life-in-one-year-explore-your-5-viable-alternatives-now-insights-from-zdnet/"><u>Facing Windows 11 End of Life in One Year? Explore Your 5 Viable Alternatives Now - Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/full-restoration-made-simple-a-detailed-process-for-factory-resetting-an-hp-notebook/"><u>Full Restoration Made Simple: A Detailed Process for Factory Resetting an HP Notebook</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-sony-xperia-1-v-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Sony Xperia 1 V Face Lock?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/nvidia-leads-with-blackwell-jensen-huang-reveals-revolutionary-chip-series-during-gtc-keynote-insights-for-tech-enthusiasts-zdnet/"><u>Nvidia Leads with Blackwell: Jensen Huang Reveals Revolutionary Chip Series During GTC Keynote - Insights for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamlining-linux-and-oss-guidebooks-the-ultimate-strategy-revealed-by-zdnet/"><u>Streamlining Linux & OSS Guidebooks: The Ultimate Strategy Revealed by ZDNET</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-blueprint-to-surge-in-youtubers-popularity/"><u>The Blueprint to Surge in Youtubers' Popularity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-the-cloud-industry-key-forecasts-by-renowned-tech-cto-on-evolving-business-strategies-wired/"><u>Transforming the Cloud Industry: Key Forecasts by Renowned Tech CTO on Evolving Business Strategies - Wired</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-linux-65-revolutionary-updates-and-improvements-detailed-digital-trends/"><u>Unveiling Linux 6.5: Revolutionary Updates and Improvements Detailed | Digital Trends</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/utility-meets-durability-in-urban-armor-gears-macbook-pro-defense-cover-reviewed/"><u>Utility Meets Durability in Urban Armor Gear's MacBook Pro Defense Cover Reviewed</u></a></li>
 </ul></div>
 

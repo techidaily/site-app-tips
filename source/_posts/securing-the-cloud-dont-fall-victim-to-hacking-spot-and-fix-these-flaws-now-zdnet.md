@@ -1,7 +1,7 @@
 ---
 title: "Securing the Cloud: Don’t Fall Victim to Hacking - Spot and Fix These Flaws Now! | ZDNet"
-date: 2024-09-25T17:34:22.471Z
-updated: 2024-10-01T11:05:35.850Z
+date: 2024-10-04T18:41:23.082Z
+updated: 2024-10-06T16:41:14.206Z
 tags:
   - password-manager
 categories:
@@ -112,10 +112,16 @@ Analysis of identity and access management (IAM) polices taking into account hun
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -136,10 +142,10 @@ Another practice that isn't helping IT departments is [poor password security](h
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### special feature
@@ -159,10 +165,10 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -188,18 +194,22 @@ IT departments should also consider whether regular accounts need administrator 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-zoom-mastering-screen-sharing-basics/"><u>[Updated] In 2024, Zoom Mastering Screen-Sharing Basics</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-optimal-hue-refiner-app-for-2024/"><u>[Updated] Optimal Hue Refiner App for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-optimizing-media-experience-best-windows-phone-videos/"><u>2024 Approved Optimizing Media Experience Best Windows Phone Videos</u></a></li>
-<li><a href="https://ai-video.techidaily.com/2024-approved-ultimate-guide-to-translating-youtube-videos-without-cc/"><u>2024 Approved Ultimate Guide to Translating YouTube Videos Without CC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/antenna-arrays-can-synthesize-a-desired-radiation-pattern-by-controlling-the-relative-phases-and-amplitudes-of-signals-fed-to-each-element/"><u>Antenna Arrays Can Synthesize a Desired Radiation Pattern by Controlling the Relative Phases and Amplitudes of Signals Fed to Each Element.</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/complete-step-by-step-tutorial-mastering-pc-auto-chess-strategies/"><u>Complete Step-by-Step Tutorial: Mastering PC Auto Chess Strategies</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-overlap-of-kernel-issues-and-cybersecurity-in-linux-environments-strategies-to-maintain-safety/"><u>Navigating the Overlap of Kernel Issues & Cybersecurity in Linux Environments - Strategies to Maintain Safety</u></a></li>
-<li><a href="https://app-tips.techidaily.com/new-advancements-for-ai-tasks-with-latest-kubernetes-version-released-insights-from-tech-experts-at-zdnet/"><u>New Advancements for AI Tasks with Latest Kubernetes Version Released, Insights From Tech Experts at ZDNET</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-windows-graphic-functions/"><u>Restored Windows Graphic Functions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ticking-clock-for-microsoft-overcoming-the-imminent-windows-11-dilemma-in-under-a-year-exclusive-insights-from-zdnet/"><u>Ticking Clock for Microsoft: Overcoming the Imminent Windows 11 Dilemma in Under a Year | Exclusive Insights From ZDNET</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-honor-90-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Honor 90 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-top-language-model-bard-chatgpt-or-offline-alpaca/"><u>Choosing the Top Language Model: Bard, ChatGPT or Offline Alpaca?</u></a></li>
+<li><a href="https://discover-best.techidaily.com/dvd-clone-ohne-bildqualitatseinbussen-unter-macos-erstellen/"><u>DVD-Clone Ohne Bildqualitätseinbußen Unter macOS Erstellen</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/effortless-free-capture-of-your-android-world-for-2024/"><u>Effortless Free Capture of Your Android World for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-rust-with-linux-creator-linus-torvalds-insights-on-his-work-habits-and-life-with-macbook-air-exclusive-coverage-from-zdnet/"><u>Exploring Rust with Linux Creator Linus Torvalds: Insights on His Work Habits and Life with MacBook Air | Exclusive Coverage From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/grounding-is-especially-critical-for-transmitting-antennas-due-to-the-high-power-involved-which-increases-the-risk-of-lightning-strikes-and-electrical-hazar80/"><u>Grounding Is Especially Critical for Transmitting Antennas Due to the High Power Involved, Which Increases the Risk of Lightning Strikes and Electrical Hazards.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-meizu-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Meizu online without jailbreak</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-the-digital-shift-how-enterprise-architects-are-steering-change-zdnet/"><u>Leading the Digital Shift: How Enterprise Architects Are Steering Change | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-todays-challenges-overcoming-uncertainty-in-ai-output-and-doubts-on-precision-insights-from-zdnet/"><u>Navigating Today's Challenges: Overcoming Uncertainty in AI Output & Doubts on Precision - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-cryptocurrency-computing-with-newly-installed-amd-drivers/"><u>Optimize Cryptocurrency Computing with Newly Installed AMD Drivers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlining-youtube-video-transformations-into-mpegs/"><u>Streamlining YouTube Video Transformations Into MPEGs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-polarization-shown-by-the-radiation-pattern-should-match-that-of-the-receiving-antenna-to-maximize-signal-reception-and-minimize-losses/"><u>The Polarization Shown by the Radiation Pattern Should Match that of the Receiving Antenna to Maximize Signal Reception and Minimize Losses.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-dead-by-daylights-issue-understanding-error-8014/"><u>Troubleshooting Dead By Daylight's Issue: Understanding Error 8014</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-unexpected-security-alerts/"><u>Troubleshooting Windows' Unexpected Security Alerts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-mastery-in-quick-writer-with-these-latest-copilot-updates-for-microsoft-365-expert-insights-from-zdnet/"><u>Unlocking Mastery in Quick Writer with These Latest Copilot Updates for Microsoft 365 - Expert Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-potential-of-ai-in-business-with-servicenow-understanding-the-four-critical-guiding-principles-insights-from-zdnet/"><u>Unlocking the Potential of AI in Business with ServiceNow: Understanding the Four Critical Guiding Principles - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsoft-must-fix-windows-10-issues-within-just-one-year-insights-from-zdnet/"><u>Urgent Challenge: Microsoft Must Fix Windows 10 Issues Within Just One Year - Insights From ZDNet</u></a></li>
 </ul></div>
 

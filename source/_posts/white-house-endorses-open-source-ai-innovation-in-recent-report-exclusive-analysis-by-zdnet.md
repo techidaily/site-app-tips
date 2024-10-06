@@ -1,7 +1,7 @@
 ---
 title: White House Endorses Open Source AI Innovation in Recent Report – Exclusive Analysis by ZDNet
-date: 2024-09-28T03:30:00.841Z
-updated: 2024-10-01T10:56:46.671Z
+date: 2024-09-29T17:51:32.530Z
+updated: 2024-10-06T17:29:15.944Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +187,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/1password-goes-mobile-with-significant-enhancement-see-whats-changed-zdnet/"><u>1Password Goes Mobile with Significant Enhancement, See What's Changed - ZDNet</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-secure-and-unshakable-direct-url-addition-on-your-tiktok-profile/"><u>2024 Approved Secure & Unshakable Direct URL Addition on Your TikTok Profile</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-ultimate-compilation-of-audio-enhancing-software-for-virtual-performers/"><u>2024 Approved Ultimate Compilation of Audio-Enhancing Software for Virtual Performers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-dynamic-conversational-roleplay-adventures-using-chatgpt-for-enthusiasts/"><u>Crafting Dynamic, Conversational Roleplay Adventures Using ChatGPT for Enthusiasts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cut-costs-and-boost-security-grab-keeper-password-manager-for-half-price-shop-at-zdnet-today/"><u>Cut Costs and Boost Security! Grab Keeper Password Manager for Half Price - Shop at ZDNET Today!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/implementing-dual-authentication-on-github-via-mobile-apps-a-comprehensive-guide/"><u>Implementing Dual-Authentication on GitHub via Mobile Apps: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-lava-agni-2-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A1 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y27s-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y27s to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-tecno-spark-20-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Tecno Spark 20</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oppo-reno-11-pro-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Oppo Reno 11 Pro 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-password-free-access-simplified-with-dashlanes-new-feature-insights-from-zdnet/"><u>Master Password-Free Access Simplified with Dashlane's New Feature - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/no-excuses-for-bad-passwords-anymore-master-managed-logins-with-the-ultimate-guide-to-password-managers/"><u>No Excuses for Bad Passwords Anymore - Master Managed Logins with the Ultimate Guide to Password Managers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-lastpass-substitutes-expert-picks-by-zdnet/"><u>Top LastPass Substitutes : Expert Picks by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-security-a-detailed-analysis-and-user-assessment-of-premium-password-manager-1password-authoritative-review-by-cryptosafe-zdnet/"><u>Unlocking Security: A Detailed Analysis & User Assessment of Premium Password Manager, 1Password | Authoritative Review by CryptoSafe ZDNET</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-10-techniques-for-youtube-to-mpeg-conversion/"><u>[New] Top 10 Techniques for YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-vision-quest-steps-to-secure-your-dream-4k-screen-for-2024/"><u>[New] Vision Quest Steps to Secure Your Dream 4K Screen for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-stand-out-in-a-sea-of-content-our-offer-includes-50-free-banners/"><u>[Updated] 2024 Approved Stand Out in a Sea of Content - Our Offer Includes 50 Free Banners</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/channel-transformation-optimal-video-concepts-to-elevate-creativity-for-2024/"><u>Channel Transformation Optimal Video Concepts to Elevate Creativity for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/efficiently-convert-your-video-content-into-animation-a-guide-with-10-strategies/"><u>Efficiently Convert Your Video Content Into Animation: A Guide with 10 Strategies</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tless-media-transition-from-mp3-to-youtube-video-posting-for-2024/"><u>Effortless Media Transition From MP3 to YouTube Video Posting for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhance-your-nintendo-entertainment-system-classics-with-these-game-adding-hacks/"><u>Enhance Your Nintendo Entertainment System Classics With These Game-Adding Hacks</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/free-tiktok-creation-software-for-mac-devices/"><u>Free TikTok Creation Software for Mac Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-recover-deleted-files-via-icloud-without-performing-a-device-factory-reset/"><u>How to Recover Deleted Files via iCloud Without Performing a Device Factory Reset</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-successfully-download-images-from-icloud-on-ios-1211-ultimate-guide-with-7-pro-tips/"><u>How to Successfully Download Images From iCloud on iOS 12/11 – Ultimate Guide with 7 Pro Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lost-something-in-your-icloud-storage-master-the-art-of-icloud-backup-data-retrieval/"><u>Lost Something in Your iCloud Storage? Master the Art of iCloud Backup Data Retrieval</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-your-network-proven-strategies-to-recover-contacts-from-icloud-without-compromise/"><u>Maximize Your Network: Proven Strategies to Recover Contacts From iCloud Without Compromise</u></a></li>
+<li><a href="https://app-tips.techidaily.com/recovering-lost-apple-id-credentials-for-itunes-backups-on-ios-devices/"><u>Recovering Lost Apple ID Credentials for iTunes Backups on iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/resolving-the-icloud-messages-disabled-issue-step-by-step-guide-to-restore-your-apple-id/"><u>Resolving the 'iCloud Messages Disabled' Issue: Step-by-Step Guide to Restore Your Apple ID</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-for-securing-your-whatsapp-data-with-icloud-backups/"><u>Step-by-Step Instructions for Securing Your WhatsApp Data with iCloud Backups</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-full-breakdown-of-toolwizs-image-processing/"><u>The Full Breakdown of Toolwiz's Image Processing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-on-clearing-out-your-visual-memories-photosimages-from-icloud-storage/"><u>Ultimate Tutorial on Clearing Out Your Visual Memories (Photos/Images) From iCloud Storage</u></a></li>
 </ul></div>
 

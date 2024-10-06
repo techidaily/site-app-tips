@@ -1,7 +1,7 @@
 ---
 title: The Future of Secure Enterprise Deployments with Canonical's Distroless Linux Solutions | CyberTechDaily
-date: 2024-09-19 10:28:21
-updated: 2024-09-20 11:28:12
+date: 2024-10-03T16:08:23.678Z
+updated: 2024-10-06T18:14:00.671Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-addressing-ios-and-android-issues-with-fb-messages-video-sharing-for-2024/"><u>[New] Addressing iOS and Android Issues with FB Message's Video Sharing for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-focusing-on-content-reach-sharing-igtv-across-platforms/"><u>[New] Focusing on Content Reach Sharing IGTV Across Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-digital-diaries-blending-visuals-with-audio-threads/"><u>[Updated] 2024 Approved Digital Diaries Blending Visuals with Audio Threads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-elevate-your-video-presentations-applying-zoom-filters-guide/"><u>[Updated] 2024 Approved Elevate Your Video Presentations Applying Zoom Filters Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-igtvs-top-10-talents-to-follow-today/"><u>[Updated] 2024 Approved IGTV's Top 10 Talents to Follow Today</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-your-fb-social-media-treasures-for-2024/"><u>[Updated] Unlocking Your FB Social Media Treasures for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bloomberg-reveals-major-growth-in-enterprise-ai-initiatives-according-to-zdnet-research/"><u>Bloomberg Reveals Major Growth in Enterprise AI Initiatives, According to ZDnet Research</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-immortal-no-pc-version-release-announced-yet/"><u>Diablo Immortal: No PC Version Release Announced Yet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/end-of-an-era-what-to-do-with-your-windows-10-computer-explore-5-alternatives/"><u>End of an Era: What to Do with Your Windows 10 Computer - Explore 5 Alternatives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-future-5-alternatives-for-your-windows-10-device-as-microsoft-phases-out-support/"><u>Facing the Future: 5 Alternatives for Your Windows 10 Device as Microsoft Phases Out Support</u></a></li>
+<li><a href="https://driver-error.techidaily.com/kernels-rtc-reset-fully-operational/"><u>Kernel's RTC Reset Fully Operational</u></a></li>
+<li><a href="https://app-tips.techidaily.com/redefining-development-the-role-of-generative-ai-in-transforming-low-code-into-a-seamless-no-code-experience-zdnet-insights/"><u>Redefining Development: The Role of Generative AI in Transforming Low Code Into a Seamless No Code Experience | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-key-software-tools-for-your-pc-or-mac-according-to-zdnet-experts/"><u>The Ultimate List of Key Software Tools for Your PC or Mac, According to ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-recommended-web-hosts-of-2024-comprehensive-expert-analysis-and-rankings-techradar/"><u>Top Recommended Web Hosts of 2024: Comprehensive Expert Analysis & Rankings - TechRadar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-crisis-looms-for-microsoft-only-a-year-remaining-to-address-major-issues-insights-from-zdnet/"><u>Windows 11 Crisis Looms for Microsoft - Only a Year Remaining to Address Major Issues | Insights From ZDNet</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/winxvideo-ai-3/"><u>WinxVideo AIを使った高度な動画加工技術集: カット・結合・トリミング・音声分離 - 第3章解説</u></a></li>
+</ul></div>
+

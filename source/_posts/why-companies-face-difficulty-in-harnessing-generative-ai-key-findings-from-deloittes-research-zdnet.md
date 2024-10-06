@@ -1,7 +1,7 @@
 ---
 title: "Why Companies Face Difficulty in Harnessing Generative AI: Key Findings From Deloitte's Research | ZDNet"
-date: 2024-09-17 22:49:45
-updated: 2024-09-20 12:13:28
+date: 2024-10-04T16:22:58.622Z
+updated: 2024-10-06T17:05:30.272Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,25 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-best-builds-for-a-thriving-mc-village-homes/"><u>[New] Best Builds for a Thriving MC Village Homes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-new-horizons-in-health-and-wellness-facebook-campaigns/"><u>[New] Exploring New Horizons in Health & Wellness Facebook Campaigns</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-quick-guide-initiating-and-managing-android-zoom-calls-for-2024/"><u>[New] Quick Guide Initiating & Managing Android Zoom Calls for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-producing-teaser-videos-with-a-twist/"><u>[Updated] Producing Teaser Videos with a Twist</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-social-media-savants-guide-to-stellar-instagram-posts/"><u>2024 Approved The Social Media Savant's Guide to Stellar Instagram Posts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-cleansing-apps-for-iphone-top-free-options-for-enhanced-performance/"><u>Best Cleansing Apps for iPhone: Top Free Options for Enhanced Performance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expertly-curated-list-the-ultimate-9plus1-video-streaming-solutions-for-android-devices/"><u>Expertly Curated List: The Ultimate 9+1 Video Streaming Solutions for Android Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-cinematic-crafts-win8/"><u>In 2024, Cinematic Crafts Win8</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-vn-video-editor-benefits-drawbacks-and-top-substitutes/"><u>In-Depth Analysis: VN Video Editor - Benefits, Drawbacks & Top Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-moving-your-iphone-applications-seamlessly-between-iphones/"><u>Step-by-Step Guide: Moving Your iPhone Applications Seamlessly Between iPhones</u></a></li>
+</ul></div>
+

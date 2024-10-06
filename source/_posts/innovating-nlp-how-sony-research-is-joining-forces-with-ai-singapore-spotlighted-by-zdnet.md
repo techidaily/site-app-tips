@@ -1,7 +1,7 @@
 ---
 title: "Innovating NLP: How Sony Research Is Joining Forces with AI Singapore, Spotlighted by ZDNET"
-date: 2024-09-19 14:49:16
-updated: 2024-09-20 11:40:32
+date: 2024-10-01T18:21:37.776Z
+updated: 2024-10-06T16:50:00.761Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-experiencing-dji-inspire-2-in-full-scale-for-2024/"><u>[New] Experiencing DJI Inspire 2 in Full Scale for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-revealing-hidden-group-media-on-messenger-app-for-2024/"><u>[New] Revealing Hidden Group Media on Messenger App for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-tech-adopts-the-ops-approach-amidst-emerging-challenges-zdnet-insights/"><u>Enterprise Tech Adopts the 'Ops' Approach Amidst Emerging Challenges | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-tech-professionals-can-overcome-burnout-with-positive-developments-discoveries-by-zdnet/"><u>How Tech Professionals Can Overcome Burnout with Positive Developments - Discoveries by ZDNET</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-i-screen-mirroring-apple-iphone-6s-plus-to-tvlaptop-drfone-by-drfone-ios/"><u>In 2024, How Can I Screen Mirroring Apple iPhone 6s Plus to TV/Laptop? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-xiaomi-redmi-note-13-proplus-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Xiaomi Redmi Note 13 Pro+ 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/key-challenges-in-leveraging-generative-ai-insights-from-the-latest-deloitte-research-highlighted-by-zdnet/"><u>Key Challenges in Leveraging Generative AI: Insights From the Latest Deloitte Research Highlighted by ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mpow-bluetooth-driver-update-pack-for-windows-1087-improve-your-connection-today/"><u>MPOW Bluetooth Driver Update Pack for Windows 10/8/7 - Improve Your Connection Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-a-guide-to-streamlining-linux-and-open-source-docs/"><u>Organizing Chaos: A Guide to Streamlining Linux & Open Source Docs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/solutions-to-stop-blank-spots-in-obs-media-for-2024/"><u>Solutions to Stop Blank Spots in OBS Media for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-sharing-images-from-iphone-to-windows-desktop/"><u>Step-by-Step Guide: Sharing Images From iPhone to Windows Desktop</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-compelling-benefits-of-embracing-aiops-insights-from-zdnet/"><u>Top 7 Compelling Benefits of Embracing AIOps: Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-8-proven-video-growth-and-promotion-strategies/"><u>Top 8 Proven Video Growth & Promotion Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-nier-automata-game-crashes-on-windows-a-step-by-step-guide/"><u>Troubleshooting Nier: Automata Game Crashes on Windows – A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-windowed-software-on-chromebooks-a-game-changing-allyship-unveiled-tech-times/"><u>Unlocking the Power of Windowed Software on Chromebooks: A Game-Changing Allyship Unveiled | Tech Times</u></a></li>
+<li><a href="https://app-tips.techidaily.com/work-seamlessly-offline-on-onedrive-manage-your-documents-even-in-rural-locations-as-featured-by-zdnet/"><u>Work Seamlessly Offline on OneDrive - Manage Your Documents Even in Rural Locations, as Featured by ZDNet</u></a></li>
+</ul></div>
+

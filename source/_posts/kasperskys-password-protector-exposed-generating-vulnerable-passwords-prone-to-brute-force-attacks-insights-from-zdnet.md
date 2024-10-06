@@ -1,7 +1,7 @@
 ---
 title: "Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet"
-date: 2024-09-29T06:15:14.950Z
-updated: 2024-09-30T16:59:38.202Z
+date: 2024-09-29T17:51:48.194Z
+updated: 2024-10-06T17:00:04.929Z
 tags:
   - password-manager
 categories:
@@ -62,10 +62,10 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -91,20 +91,17 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-amazons-trendy-treasures-the-must-have-tiktok-finds-of-2023/"><u>[New] 2024 Approved Amazon's Trendy Treasures - The Must-Have TikTok Finds of 2023</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-decoding-earnings-for-content-producers-on-short-form-platform/"><u>[New] 2024 Approved Decoding Earnings for Content Producers on Short-Form Platform</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-youtube-content-as-lively-download-free-animated-gifs/"><u>[New] 2024 Approved Unlocking YouTube Content as Lively, Download-Free Animated GIFs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-top-tactics-podcast-recording-on-ios-devices-for-voice-broadcasts-for-2024/"><u>[New] Top Tactics Podcast Recording on iOS Devices for Voice Broadcasts for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-economical-vr-headsets-from-the-east/"><u>[Updated] Economical VR Headsets From the East</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-10-mobile-messaging-platforms-top-picks-for-ios-and-android-devices/"><u>Best 10 Mobile Messaging Platforms: Top Picks for iOS and Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android!</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-add-command-line-toolbar-in-windows-11s-system-monitor/"><u>How to Add Command Line Toolbar in Windows 11'S System Monitor</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-mini-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 mini to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo A18? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-vmware-freeze-up-in-windows-11/"><u>Resolving VMware Freeze-Up in Windows 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/stay-secure-and-connected-top-11-mobile-apps-for-hands-free-text-reading/"><u>Stay Secure and Connected: Top 11 Mobile Apps for Hands-Free Text Reading</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-accessing-whatsapp-anonymously-without-providing-your-phone-number/"><u>Step-by-Step Instructions: Accessing WhatsApp Anonymously Without Providing Your Phone Number</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-8-xbox-console-emulators-on-pcandroid-reviewed-objectively/"><u>The Ultimate Guide: Top 8 Xbox Console Emulators on PC/Android, Reviewed Objectively</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-swf-player-apps-compatible-with-pc-mac-android-and-iphone-devices/"><u>Top Rated SWF Player Apps Compatible with PC, Mac, Android & iPhone Devices</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-15-best-youtube-channels-for-stock-market-to-follow/"><u>[Updated] 15 Best YouTube Channels for Stock Market to Follow</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-cinema-magic-with-fcps-top-10-plugin-choices/"><u>[Updated] Crafting Cinema Magic with FCP’s Top 10 Plugin Choices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/as-the-need-for-data-talent-expands-one-organizations-proactive-approach-to-skill-development-zdnet/"><u>As the Need for Data Talent Expands, One Organization's Proactive Approach to Skill Development | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-for-singaporean-small-businesses-harnessing-genai-for-employee-development-zdnet/"><u>Comprehensive Guide for Singaporean Small Businesses: Harnessing GenAI for Employee Development | ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-restore-windows-photo-viewer-in-windows-11-2-methods/"><u>In 2024, How to Restore Windows Photo Viewer in Windows 11 (2 Methods)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pros-picks-5-best-low-frame-rate-recorders/"><u>In 2024, Pros' Picks 5 Best Low Frame Rate Recorders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-reinvent-storytelling-the-path-to-better-narratives-starts-here/"><u>In 2024, Reinvent Storytelling – The Path to Better Narratives Starts Here</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-yt-content-with-background-softening-tricks/"><u>In 2024, Streamline Your YT Content with Background Softening Tricks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-strategies-to-reduce-excessive-disk-load-and-improve-efficiency-in-windows-11/"><u>Step-by-Step Strategies to Reduce Excessive Disk Load and Improve Efficiency in Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-next-horizon-in-employment-how-ai-agents-are-set-to-permanently-reshape-our-careers/"><u>The Next Horizon in Employment: How AI Agents Are Set to Permanently Reshape Our Careers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-onikuma-headsets-non-functional-mic-expert-advice/"><u>Troubleshooting Your Onikuma Headset's Non-Functional Mic - Expert Advice</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-small-and-medium-sized-businesses-overlook-necessary-cybersecurity-coverage-insights-from-zdnet/"><u>Why Small and Medium-Sized Businesses Overlook Necessary Cybersecurity Coverage: Insights From ZDNet</u></a></li>
 </ul></div>
 

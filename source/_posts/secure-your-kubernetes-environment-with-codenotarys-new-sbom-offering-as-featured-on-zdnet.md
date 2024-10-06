@@ -1,7 +1,7 @@
 ---
 title: Secure Your Kubernetes Environment with Codenotary’s New SBOM Offering, as Featured on ZDNet
-date: 2024-09-25T07:10:49.051Z
-updated: 2024-09-30T16:19:32.551Z
+date: 2024-10-01T16:47:50.404Z
+updated: 2024-10-06T17:57:25.373Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,20 +181,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-snaplink-collage-harmonize-photos-for-instagram/"><u>[New] 2024 Approved SnapLink Collage Harmonize Photos for Instagram</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-essential-filmora-features-every-videographer-adores/"><u>[New] Essential Filmora Features Every Videographer Adores</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-engaging-followers-on-instagram-with-youtube-video-links-in-stories/"><u>2024 Approved Engaging Followers on Instagram with YouTube Video Links in Stories</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-productivity-with-ubuntu-2204-a-top-choice-for-professional-linux-desktops-techadvice/"><u>Boost Your Productivity with Ubuntu 22.04 - A Top Choice for Professional Linux Desktops | TechAdvice</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-solving-the-fcpx-crash-problem-top-solutions/"><u>In 2024, Solving the FCPX Crash Problem Top Solutions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-itel-s23plus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Itel S23+ Location | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/kubernetes-demystified-understanding-its-essentiality-in-cloud-computing/"><u>Kubernetes Demystified: Understanding Its Essentiality in Cloud Computing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-team-meetings-with-otter-adaptable-audio-transcription-tools-explored-insights-and-tips-zdnet/"><u>Mastering Team Meetings with Otter: Adaptable Audio Transcription Tools Explored - Insights & Tips | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862873248-msi-unveils-top-tier-z890-and-b8n60-boards-for-intel-arc-s-certified-before-the-excitement-of-computex-2024-begins/"><u>MSI Unveils Top-Tier Z890 and B8n60 Boards for Intel Arc S, Certified Before the Excitement of Computex 2024 Begins</u></a></li>
-<li><a href="https://app-tips.techidaily.com/polarization/"><u>Polarization</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-unexpected-website-appearances-in-screen-time-on-iphones/"><u>Resolving Unexpected Website Appearances in Screen Time on iPhones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsung-soundbar-woes-a-step-by-score-guide-to-reviving-silent-speakers/"><u>Samsung Soundbar Woes? A Step-by-Score Guide to Reviving Silent Speakers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-leading-8-applications-of-artificer-intellect-essential-tips-for-tech-enthusiasts/"><u>The Leading 8 Applications of Artificer Intellect - Essential Tips for Tech Enthusiasts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-customer-relationship-management-crm-systems-optimal-choices-for-small-and-medium-businesses-insights-by-zdnet/"><u>Top Customer Relationship Management (CRM) Systems : Optimal Choices for Small and Medium Businesses - Insights by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-booming-growth-of-no-codelow-code-solutions-and-its-impact-on-it-career-paths/"><u>ZDNet Explores the Booming Growth of No-Code/Low-Code Solutions and Its Impact on IT Career Paths</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-10-royale-confrontations/"><u>[New] 2024 Approved Essential 10 Royale Confrontations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smart-picklist-top-value-free-livestream-software-and-apps-reviewed-this-year/"><u>[Updated] Smart Picklist Top Value Free Livestream Software & Apps Reviewed This Year</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-incor-writes-photo-kinetic-vibrance/"><u>2024 Approved Incor Writes Photo Kinetic Vibrance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/choosing-the-right-hosting-platform-github-or-gitlab-a-comparative-guide-by-zdnet/"><u>Choosing the Right Hosting Platform: GitHub or GitLab? - A Comparative Guide by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-steps-to-transition-from-windows-to-linux-mint-for-optimized-performance-cnet/"><u>Complete Steps to Transition From Windows to Linux Mint for Optimized Performance | C|Net</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-guide-razer-barracuda-x-microphone-not-working-in-windows-11-and-10-systems/"><u>Fix Guide: Razer Barracuda X Microphone Not Working in Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/free-guide-downloading-and-saving-your-favorite-facebook-videos-on-any-device/"><u>Free Guide: Downloading & Saving Your Favorite Facebook Videos on Any Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-linus-torvalds-tech-world-discussing-rust-in-linux-daily-routines-and-tips-for-the-ultrabook-a-deep-dive-by-zdnet/"><u>Inside Linus Torvalds' Tech World: Discussing Rust in Linux, Daily Routines & Tips for the Ultrabook - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-hardware-insights/"><u>Mastering Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-building-an-excel-drop-down-menu-swiftly-and-simply-tips-from-zdnet/"><u>Step-by-Step Guide: Building an Excel Drop-Down Menu Swiftly & Simply - Tips From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tackling-disorder-in-linux-and-open-source-manuals-unveiling-the-ultimate-fix-zdnet/"><u>Tackling Disorder in Linux & Open Source Manuals: Unveiling the Ultimate Fix | ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-editors-edge-advanced-tactics-for-youtube-video-spins-guide-for-2024/"><u>The Editor's Edge Advanced Tactics for YouTube Video Spins (Guide) for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-cloud-tech-vs-current-dominance-of-on-site-solutions-a-deep-dive-with-zdnet/"><u>The Rise of Cloud Tech Vs. Current Dominance of On-Site Solutions - A Deep Dive with ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-crm-platforms-of-2022-revealed-see-whos-leading-in-customer-engagement-zdnet/"><u>Top CRM Platforms of 2022 Revealed: See Who's Leading in Customer Engagement - ZDNet</u></a></li>
 </ul></div>
 

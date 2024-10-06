@@ -1,7 +1,7 @@
 ---
 title: The Main Lobe, or Beam, Represents the Direction in Which an Antenna Radiates Most of Its Energy; a Highly Directive Antenna Has a Narrow Main Lobe.
-date: 2024-09-18 22:27:50
-updated: 2024-09-20 12:31:16
+date: 2024-10-03T17:12:40.125Z
+updated: 2024-10-06T16:08:22.771Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,23 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-instagram-analytics-tools-for-accurate-tracking/"><u>[New] 2024 Approved The Ultimate Guide to Instagram Analytics Tools for Accurate Tracking</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-power-of-ai-an-in-depth-look-into-openais-sora-capabilities-and-constraints/"><u>Exploring the Power of AI: An In-Depth Look Into OpenAI's Sora - Capabilities and Constraints</u></a></li>
+<li><a href="https://app-tips.techidaily.com/hugging-face-community-advanced-text-to-video-transformation-techniques/"><u>Hugging Face Community: Advanced Text-to-Video Transformation Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-stable-diffusion-ai-exploring-the-capabilities-of-a-cutting-edge-image-synthesis-tool/"><u>In-Depth Analysis of Stable Diffusion AI - Exploring the Capabilities of a Cutting-Edge Image Synthesis Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-right-move-fixing-up-or-swapping-out-a-switch/"><u>The Right Move: Fixing Up or Swapping Out a Switch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-rated-portable-dvd-writer-and-reader-for-pcs-with-windows-1110/"><u>Top-Rated Portable DVD Writer & Reader for PCs with Windows 11/10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-leading-video-transcription-apps-for-flawless-text-output/"><u>Ultimate Selection of Leading Video Transcription Apps for Flawless Text Output</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unraveling-the-mystery-of-online-broadcast-archiving-for-2024/"><u>Unraveling the Mystery of Online Broadcast Archiving for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-video-editing-software-for-mac-similar-to-pinnacle-studio/"><u>Updated Best Video Editing Software for Mac Similar to Pinnacle Studio</u></a></li>
+</ul></div>
+

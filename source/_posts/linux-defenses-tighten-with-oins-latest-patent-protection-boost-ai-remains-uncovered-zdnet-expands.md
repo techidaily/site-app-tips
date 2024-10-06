@@ -1,7 +1,7 @@
 ---
 title: LINUX DEFENSES TIGHTEN WITH OIN'S LATEST PATENT PROTECTION BOOST (AI REMAINS UNCOVERED) | ZDNET EXPANDS
-date: 2024-09-17 15:59:54
-updated: 2024-09-20 11:27:31
+date: 2024-10-03T17:13:07.519Z
+updated: 2024-10-06T18:17:48.152Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-dynamic-action-photography-on-your-iphone/"><u>[New] Dynamic Action Photography on Your iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-go-frame-by-frame-on-youtube-video-5-methods-for-2024/"><u>[New] How to Go Frame by Frame on YouTube Video? [5 Methods] for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-premiere-experts-exceptional-instagram-highlight-craftsmen/"><u>[Updated] 2024 Approved Premiere Experts Exceptional Instagram Highlight Craftsmen</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-top-30-beginner-pro-facebook-strategies-for-boosting-sales/"><u>[Updated] 2024 Approved Top 30 Beginner-Pro Facebook Strategies for Boosting Sales</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-techniques-to-minimize-file-size-of-audio-messages-in-whatsapp/"><u>Effortless Techniques to Minimize File Size of Audio Messages in WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-privacy-with-easy-steps-to-protect-your-whatsapp-accounts-on-smartphones/"><u>Enhance Privacy with Easy Steps to Protect Your WhatsApp Accounts on Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-intricacies-of-whatsapps-delete-for-all-functionality/"><u>Exploring the Intricacies of WhatsApp's 'Delete for All' Functionality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-set-up-automatic-backups-from-whatsapp-to-google-drive-a-step-by-step-guide-for-android-and-iphone-users/"><u>How to Set Up Automatic Backups From WhatsApp to Google Drive: A Step-by-Step Guide for Android & iPhone Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-samsung-galaxy-a15-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Samsung Galaxy A15 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/mastering-wsl-a-comprehensive-tutorial-for-using-linux-bash-shell-on-windows-10-systems/"><u>Mastering WSL: A Comprehensive Tutorial for Using Linux Bash Shell on Windows 10 Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preserve-your-whatsapp-images-flawlessly-top-3-methods-for-saving-photos-across-ios-and-android-without-quality-compromise/"><u>Preserve Your WhatsApp Images Flawlessly: Top 3 Methods for Saving Photos Across iOS & Android Without Quality Compromise</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-how-to-manual-effortless-audio-clipping-from-whatsapp-chats/"><u>The Ultimate How-To Manual: Effortless Audio Clipping From WhatsApp Chats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-for-enabling-and-performing-a-whatsapp-backup-to-icloud/"><u>The Ultimate Tutorial for Enabling and Performing a WhatsApp Backup to iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/whatsapp-data-resurrection-steps-for-retrieving-chat-history-stored-in-google-drive-on-iphone-solved/"><u>WhatsApp Data Resurrection: Steps for Retrieving Chat History Stored in Google Drive on iPhone [Solved]</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-redmi-note-12-proplus-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Redmi Note 12 Pro+ 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oppo-reno-11-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Oppo Reno 11 Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
+

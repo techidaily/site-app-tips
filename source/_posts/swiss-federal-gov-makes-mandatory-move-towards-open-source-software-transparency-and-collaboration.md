@@ -1,7 +1,7 @@
 ---
 title: Swiss Federal Gov Makes Mandatory Move Towards Open-Source Software Transparency and Collaboration.
-date: 2024-09-17 14:56:46
-updated: 2024-09-20 10:51:18
+date: 2024-10-02T17:05:29.572Z
+updated: 2024-10-06T18:26:13.002Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,26 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-a-treasure-trove-of-9-complete-holiday-flicks-free-streaming/"><u>[New] 2024 Approved A Treasure Trove of 9 Complete Holiday Flicks, Free Streaming</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-exodus-of-followers-instagrams-new-map/"><u>[New] 2024 Approved The Exodus of Followers Instagram's New Map</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-instantaneous-timestamping-for-your-youtube-urls/"><u>2024 Approved Instantaneous Timestamping for Your YouTube URLs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-pair-of-pre-update-tips-to-seamlessly-transition-into-windows-11-creators-version/"><u>A Pair of Pre-Update Tips to Seamlessly Transition Into Windows 11 Creators Version</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-a79-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Oppo A79 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-the-future-the-latest-white-house-findings-support-open-source-artificial-intelligence-insights-from-zdnet/"><u>Embracing the Future: The Latest White House Findings Support Open-Source Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratuite-web-konvertierung-von-nef-zu-png-mit-movavi-best-practices-und-tipps/"><u>Gratuite Web-Konvertierung Von NEF Zu PNG Mit Movavi - Best Practices Und Tipps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-low-code-development-for-enhanced-employer-branding-a-look-at-zdnet-perspectives/"><u>Leveraging Low-Code Development for Enhanced Employer Branding: A Look at ZDnet Perspectives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/scaling-your-business-with-anthropics-revolutionary-claude-platform-unleash-the-power-of-ai/"><u>Scaling Your Business with Anthropic's Revolutionary Claude Platform: Unleash the Power of AI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211564877-step-by-step-solution-for-windowss-persistent-network-error-0x800704cf-now-resolved/"><u>Step-by-Step Solution for Windows's Persistent Network Error: 0X800704cf - Now Resolved</u></a></li>
+<li><a href="https://app-tips.techidaily.com/verizon-enhances-enterprise-solutions-with-celonas-innovative-5g-technology/"><u>Verizon Enhances Enterprise Solutions with Celona's Innovative 5G Technology</u></a></li>
+</ul></div>
+

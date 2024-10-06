@@ -1,7 +1,7 @@
 ---
 title: "Advancing Coding Skills with Patience & Productivity: Unveiling GitHub Copilot's Impact on Software Development - ZDNet"
-date: 2024-09-28T11:06:52.348Z
-updated: 2024-10-01T06:51:39.411Z
+date: 2024-10-02T17:00:51.218Z
+updated: 2024-10-06T16:48:23.377Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +187,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-cheap-yet-superior-gaming-keyboard-guide-under-100/"><u>[New] 2024 Approved Cheap, Yet Superior Gaming Keyboard Guide Under $100</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-deciphering-the-archive-reviewing-past-facebook-updates-on-pc-and-phone/"><u>[New] In 2024, Deciphering the Archive Reviewing Past Facebook Updates on PC & Phone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-pinterest-vid-extraction-made-easy-the-best-tools-ranked/"><u>[New] In 2024, Pinterest Vid Extraction Made Easy The Best Tools Ranked</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-art-of-digital-expression-your-guide-to-sharing-animated-messages-on-snapchat/"><u>[New] The Art of Digital Expression Your Guide to Sharing Animated Messages on Snapchat</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-focus-and-time-management-best-rated-windows-pomodoro-apps/"><u>Boost Your Focus and Time Management: Best-Rated Windows Pomodoro Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-privacy-with-easy-steps-to-protect-your-whatsapp-accounts-on-smartphones/"><u>Enhance Privacy with Easy Steps to Protect Your WhatsApp Accounts on Smartphones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/five-effective-methods-to-repair-a-malfunctioning-screen-on-windows-11/"><u>Five Effective Methods to Repair a Malfunctioning Screen on Windows 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-set-up-automatic-backups-from-whatsapp-to-google-drive-a-step-by-step-guide-for-android-and-iphone-users/"><u>How to Set Up Automatic Backups From WhatsApp to Google Drive: A Step-by-Step Guide for Android & iPhone Users</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-magic-vs-2-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-how-to-manual-effortless-audio-clipping-from-whatsapp-chats/"><u>The Ultimate How-To Manual: Effortless Audio Clipping From WhatsApp Chats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-for-enabling-and-performing-a-whatsapp-backup-to-icloud/"><u>The Ultimate Tutorial for Enabling and Performing a WhatsApp Backup to iCloud</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/uncover-the-secret-to-extra-instagram-filters-for-zero-cost/"><u>Uncover the Secret to Extra Instagram Filters for Zero Cost</u></a></li>
-<li><a href="https://app-tips.techidaily.com/whatsapp-data-resurrection-steps-for-retrieving-chat-history-stored-in-google-drive-on-iphone-solved/"><u>WhatsApp Data Resurrection: Steps for Retrieving Chat History Stored in Google Drive on iPhone [Solved]</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-3-ways-to-record-lectures-on-mac/"><u>[New] In 2024, 3 Ways to Record Lectures on Mac</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-advanced-techniques-for-trimming-youtube-footage-for-2024/"><u>[Updated] Advanced Techniques for Trimming YouTube Footage for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/banish-fb-push-notifications-and-messages-easily/"><u>Banish FB Push Notifications and Messages Easily</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-bing-chat-and-its-synergy-with-gpt-n-language-models/"><u>Comprehensive Guide to Bing Chat & Its Synergy with GPT-N Language Models</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620185282-comprehensive-guide-to-the-eva-ai-chatbot-from-ex-journey-dont-miss-this/"><u>Comprehensive Guide to the EVA AI Chatbot From Ex Journey – Don't Miss This</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-apples-highest-quality-most-costly-iphone-xs-max/"><u>Comprehensive Review: Apple's Highest Quality, Most Costly iPhone XS Max</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-drone-applications-now-and-beyond/"><u>Exploring Drone Applications Now & Beyond</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-amazon-fire-hd-10-for-children-unparalleled-parental-control-capabilities-explored/"><u>In-Depth Look at the Amazon Fire HD 10 for Children: Unparalleled Parental Control Capabilities Explored</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-interactions-with-nova-chatgpt-the-premier-ai-companion-for-cutting-edge-dialogues/"><u>Transform Your Interactions with Nova ChatGPT: The Premier AI Companion for Cutting-Edge Dialogues</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-champion-of-ai-bots-in-depth-review-of-chatgpt-for-next-level-conversations/"><u>Unveiling the Champion of AI Bots: In-Depth Review of ChatGPT for Next-Level Conversations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-facets-of-chatgpt-2024-detailed-examination-of-features-and-strategies-for-server-glitches/"><u>Unveiling the Facets of ChatGPT 2024: Detailed Examination of Features and Strategies for Server Glitches</u></a></li>
 </ul></div>
 

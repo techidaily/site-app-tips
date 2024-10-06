@@ -1,7 +1,7 @@
 ---
 title: Collaboration Between Sony Research and AI Singapore Targets Advancements in Language Models
-date: 2024-09-24T19:49:44.068Z
-updated: 2024-10-01T02:29:59.726Z
+date: 2024-09-29T18:28:20.869Z
+updated: 2024-10-06T17:58:32.775Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,15 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-complete-overview-screenflow-v4-for-macos-for-2024/"><u>[New] Complete Overview ScreenFlow v4 for macOS for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-ultimate-freeze-frame-collection-for-mac-max-156-chars/"><u>[New] Ultimate Freeze Frame Collection for Mac (Max 156 Chars)</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/before-its-too-late-exploring-five-strategies-to-maintain-your-windows-pc-zdnet/"><u>Before It's Too Late: Exploring Five Strategies to Maintain Your Windows 지원 제한되는 PC | ZDNET</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dubai-2020-expo-where-language-learning-soars/"><u>Dubai 2020 Expo: Where Language Learning Soars</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-revival-how-openstack-and-kata-containers-gain-new-ground-in-tech-markets-zdnet-insights/"><u>Exploring the Revival: How OpenStack and Kata Containers Gain New Ground in Tech Markets - ZDNet Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-get-rid-of-pin-based-login-from-windows-11-detailed-steps-inside/"><u>How to Get Rid of Pin-Based Login From Windows 11 - Detailed Steps Inside</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-solutions-to-overcome-onedrives-immediate-folder-addition-error/"><u>Swift Solutions to Overcome OneDrive's Immediate Folder Addition Error</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-you-should-think-about-aiops-check-out-these-7-key-points-according-to-zdnet/"><u>Why You Should Think About AIOps? Check Out These 7 Key Points According To ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-reveals-ai-project-expansion-explodes-to-ten-times-more-this-past-year-study-finds/"><u>ZDNet Reveals AI Project Expansion Explodes to Ten Times More This Past Year - Study Finds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-from-concept-to-measurement-configuring-and-assessing-facebooks-in-stream-ads/"><u>[New] 2024 Approved From Concept to Measurement Configuring and Assessing Facebook's In-Stream Ads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-demystifying-data-first-steps-in-facebook-insights/"><u>[Updated] Demystifying Data First Steps in Facebook Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-leap-towards-no-code-revolution-the-impactful-role-of-generative-artificial-intelligence-in-evolving-coding-paradigms-zdnet-insights/"><u>A Leap Towards 'No Code' Revolution: The Impactful Role of Generative Artificial Intelligence in Evolving Coding Paradigms | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/access-control-systems/"><u>Access Control Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Samsung Galaxy XCover 6 Pro Tactical Edition.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-fresh-updates-in-macos-sonoma-comprehensive-overview-for-tech-enthusiasts-by-zdnet/"><u>Exploring the Fresh Updates in macOS Sonoma: Comprehensive Overview for Tech Enthusiasts by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-improve-windows-taskmanager-through-cli-integration/"><u>How to Improve Windows TaskManager Through CLI Integration</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-selecting-your-perfect-monitor-and-recorder-duo/"><u>In 2024, Selecting Your Perfect Monitor & Recorder Duo</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-task-management-adding-to-do-lists-to-your-slack-workspace-zdnet-insights/"><u>Integrating Task Management: Adding To-Do Lists to Your Slack Workspace | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-transition-seamless-update-strategies-for-ubuntu-linux-users-moving-to-version-2404/"><u>Mastering the Transition: Seamless Update Strategies for Ubuntu Linux Users Moving to Version 24.04</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-a-tale-of-office-woes/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown: A Tale of Office Woes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/open-source-mandate-switzerlands-federal-govt-moves-all-software-public/"><u>Open-Source Mandate: Switzerland's Federal Govt. Moves All Software Public</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reactivating-dark-mode-on-facebook-simple-solutions-for-a-stylish-interface/"><u>Reactivating Dark Mode on Facebook: Simple Solutions for a Stylish Interface</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-dell-audio-driver-installation-made-simple/"><u>Seamless Dell Audio Driver Installation Made Simple</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section/"><u>Section</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-update-issues-in-windows-10-resolve-error-code-0x800f0922/"><u>Solving Update Issues in Windows 10: Resolve Error Code 0X800f0922</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-save-your-memories-by-rescuing-deleted-iphones-pictures-efficiently/"><u>Step-by-Step Guide: Save Your Memories by Rescuing Deleted iPhones Pictures Efficiently</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranking-mac-software-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking Mac Software : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-resolving-modern-warfare-3-mw3-errors/"><u>Troubleshooting Steps for Resolving Modern Warfare 3 MW3 Errors</u></a></li>
 </ul></div>
 

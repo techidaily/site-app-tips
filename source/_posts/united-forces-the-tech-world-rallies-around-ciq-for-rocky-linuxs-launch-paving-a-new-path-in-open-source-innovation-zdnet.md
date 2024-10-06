@@ -1,7 +1,7 @@
 ---
 title: "United Forces: The Tech World Rallies Around CIQ for Rocky Linux's Launch, Paving a New Path in Open Source Innovation | ZDNET"
-date: 2024-09-18 22:27:23
-updated: 2024-09-20 11:20:26
+date: 2024-09-29T16:46:10.330Z
+updated: 2024-10-06T17:28:48.324Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elite-mkv-media-viewer-pc-and-smartphone/"><u>[New] 2024 Approved Elite MKV Media Viewer (PC & Smartphone)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unmatched-mobileweb-image-magnification-toolkit/"><u>[New] Unmatched Mobile/Web Image Magnification Toolkit</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-game-genre-matchups-titles-alike-to-gta-v/"><u>[Updated] 2024 Approved Game Genre Matchups Titles Alike to GTA V</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-innovate-your-mobile-photography-with-these-free-overlay-experts/"><u>[Updated] 2024 Approved Innovate Your Mobile Photography with These Free Overlay Experts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-advanced-iphone-techniques-making-and-editing-video-at-reduced-pace-for-2024/"><u>[Updated] Advanced iPhone Techniques Making & Editing Video at Reduced Pace for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/camera-surveillance/"><u>Camera Surveillance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cutting-edge-5g-expansion-verizon-partners-with-emerging-startup-celona-for-business-growth/"><u>Cutting-Edge 5G Expansion: Verizon Partners with Emerging Startup Celona for Business Growth</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mainstream-market-entry-with-aristas-new-cognitive-network-solutions-for-mid-sized-businesses-industry-analysis/"><u>Mainstream Market Entry with Arista's New Cognitive Network Solutions for Mid-Sized Businesses | Industry Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mpe-file-to-iphone-ringtone-m4r-transformation-no-cost-with-moveavi/"><u>MPE File to iPhone Ringtone (M4R) Transformation - No Cost with Moveavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-hybrid-cloud-intricacies-with-cutting-edge-features-of-red-hats-latest-enterprise-linux-distribution/"><u>Navigating Hybrid Cloud Intricacies with Cutting-Edge Features of Red Hat's Latest Enterprise Linux Distribution</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/perfecting-game-capture-techniques-and-tricks-for-2024/"><u>Perfecting Game Capture Techniques & Tricks for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stability/"><u>Stability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-secure-your-connection-with-updated-broadcom-gigabit-ethernet-driver-for-windows-11/"><u>Step-by-Step: Secure Your Connection with Updated Broadcom Gigabit Ethernet Driver for Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/switching-from-microsoft-how-a-german-state-embraces-linux-and-libreoffice-as-spotted-by-zdnet/"><u>Switching From Microsoft: How a German State Embraces Linux & LibreOffice, as Spotted by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-chaos-in-linux-and-open-source-manuals-a-revolutionary-fix-zdnet-insight/"><u>Taming Chaos in Linux & Open Source Manuals: A Revolutionary Fix | ZDNet Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-workers-tired-yet-relieved-heres-the-silver-lining-insights-from-zdnet/"><u>Tech Workers Tired Yet Relieved? Here's the Silver Lining! - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-essentials-working-with-freeze-frames-and-slow-motion-video/"><u>Updated FCPX Essentials Working with Freeze Frames and Slow Motion Video</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Russian Aggression on Ukraine's Tech Sector: Potential Risks and Concerns"
-date: 2024-09-28T07:24:30.581Z
-updated: 2024-09-30T21:01:13.470Z
+date: 2024-09-30T17:56:48.255Z
+updated: 2024-10-06T18:53:22.517Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,18 +181,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-video-magic-best-tools-for-effortless-webm-conversion/"><u>[New] YouTube Video Magic Best Tools for Effortless WebM Conversion</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/2024-approved-what-is-the-best-free-stop-motion-animation-software-check-this-article-if-you-are-curious-about-the-answer-we-will-recommend-8-editors-for-wi/"><u>2024 Approved What Is the Best Free Stop Motion Animation Software? Check This Article if You Are Curious About the Answer. We Will Recommend 8 Editors for Windows and Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/celona-secures-60m-in-series-c-funding-drives-enterprise-5g-revolution-what-you-need-to-know/"><u>Celona Secures $60M in Series C Funding, Drives Enterprise 5G Revolution: What You Need to Know</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-tecno-spark-20c-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Tecno Spark 20C.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-pop-7-pro-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Pop 7 Pro using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/illustrator-tips-achieving-natural-motion-blur/"><u>Illustrator Tips Achieving Natural Motion Blur</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-6-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 6 SIM Lock?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimize-content-delivery-top-12-html5-video-platforms/"><u>In 2024, Optimize Content Delivery Top 12 HTML5 Video Platforms</u></a></li>
-<li><a href="https://blog-min.techidaily.com/quick-tips-for-smaller-streamlined-videos-mastering-file-compression-with-avidemux/"><u>Quick Tips for Smaller, Streamlined Videos: Mastering File Compression with Avidemux</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revealed-employee-testimonial-why-you-might-prefer-not-to-work-at-apple-according-to-insiders/"><u>Revealed: Employee Testimonial – Why You Might Prefer Not to Work at Apple According to Insiders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rising-power-of-citizen-developers-in-driving-enterprise-software-innovation/"><u>Rising Power of Citizen Developers in Driving Enterprise Software Innovation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/sonys-collaboration-with-ai-singapore-fuels-development-of-advanced-large-language-models/"><u>Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-desktop-distributions-reviewed-why-linux-mint-22-stands-out-above-the-rest/"><u>Top Desktop Distributions Reviewed - Why Linux Mint 22 Stands Out Above the Rest</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-integrating-gifs-into-your-iphone-life-with-ease/"><u>[New] Integrating GIFs Into Your iPhone Life with Ease</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-strategizing-superior-screen-snatchers-for-2024/"><u>[New] Strategizing Superior Screen-Snatchers for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unveiling-instavid-secrets-plotting-a-successful-marketing-scheme/"><u>[New] Unveiling InstaVid Secrets Plotting a Successful Marketing Scheme</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-naming-excellence-tips-and-strategies/"><u>[Updated] 2024 Approved Channel Naming Excellence Tips & Strategies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-efficient-screenshot-with-audio-layered/"><u>[Updated] 2024 Approved Efficient Screenshot With Audio Layered</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-comprehensive-guide-understanding-the-delete-for-everyone-option-in-whatsapp/"><u>A Comprehensive Guide: Understanding the 'Delete for Everyone' Option in WhatsApp</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevating-your-iphone-with-custom-ringtones-for-2024/"><u>Elevating Your iPhone with Custom Ringtones for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/fix-your-whatsapp-problems-with-our-expert-assistance-step-by-step-guide/"><u>Fix Your WhatsApp Problems with Our Expert Assistance - Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-enable-and-use-whatsapp-securely-with-alternative-identifiers-instead-of-your-phone-number/"><u>How to Enable and Use WhatsApp Securely with Alternative Identifiers Instead of Your Phone Number</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-90-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor 90 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/irrevocable-deletion-of-whatsapp-on-iphones-a-comprehensive-tutorial/"><u>Irrevocable Deletion of WhatsApp on iPhones: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-attracting-a-loyal-twitter-following-with-these-proven-strategies/"><u>Master the Art of Attracting a Loyal Twitter Following with These Proven Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preserve-your-whatsapp-images-flawlessly-top-3-methods-for-saving-photos-across-ios-and-android-without-quality-compromise/"><u>Preserve Your WhatsApp Images Flawlessly: Top 3 Methods for Saving Photos Across iOS & Android Without Quality Compromise</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-fixes-how-to-securely-restore-deleted-whatsapp-conversations-on-iphone-devices/"><u>Quick Fixes: How to Securely Restore Deleted WhatsApp Conversations on iPhone Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-high-quality-whatsapp-video-converter-tools-you-need/"><u>Top 5 High-Quality WhatsApp Video Converter Tools You Need</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-strategies-sending-oversized-videos-with-ease-from-an-iphone-using-whatsapp/"><u>Top Strategies: Sending Oversized Videos with Ease From an iPhone Using WhatsApp</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-optimal-frames-per-second-in-cinema-slow-mo-for-2024/"><u>Understanding Optimal Frames Per Second in Cinema Slow-Mo for 2024</u></a></li>
 </ul></div>
 

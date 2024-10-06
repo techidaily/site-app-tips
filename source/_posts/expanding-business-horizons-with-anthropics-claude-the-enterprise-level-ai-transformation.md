@@ -1,7 +1,7 @@
 ---
 title: Expanding Business Horizons with Anthropic's Claude - The Enterprise-Level AI Transformation
-date: 2024-09-18 14:55:18
-updated: 2024-09-20 12:45:23
+date: 2024-10-02T16:04:52.590Z
+updated: 2024-10-06T16:52:10.737Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-virtual-speedway-selection-top-5-picks-revealed/"><u>[New] 2024 Approved Virtual Speedway Selection Top 5 Picks Revealed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-the-art-of-subtitle-extraction-from-youtube-videos-a-threefold-approach-guide-for-2024/"><u>[New] Mastering the Art of Subtitle Extraction From YouTube Videos A Threefold Approach Guide for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-recordwise-gettingmaximumoutofyourcam/"><u>[New] RecordWise GettingMaximumOutOfYourCam</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-masterminds-of-memorable-discord-symbols-revealed/"><u>[Updated] 2024 Approved Masterminds of Memorable Discord Symbols Revealed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-surging-views-selecting-best-hashtags-for-yt/"><u>2024 Approved Surging Views Selecting Best Hashtags for YT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/assess-your-expertise-on-coursera-discover-the-latest-from-zdnets-coverage-of-levelset-proficiency-exams/"><u>Assess Your Expertise on Coursera – Discover the Latest From ZDNet's Coverage of LevelSet Proficiency Exams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/celona-partners-with-verizon-business-to-deliver-bespo-grok-private-5g-solutions-zdnet-coverage/"><u>Celona Partners with Verizon Business to Deliver Bespo Grok Private 5G Solutions - ZDNet Coverage</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/efficiently-clear-out-mac-storage-stellar-file-erasers-timetabled-cleanup-for-filesfolders/"><u>Efficiently Clear Out Mac Storage - Stellar File Eraser's Timetabled Cleanup for Files/Folders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-anthrop-through-the-new-claude-plan-equips-companies-for-success-by-harnessing-large-scale-ai-superpowers-techzine/"><u>How Anthrop, Through the New Claude Plan, Equips Companies for Success by Harnessing Large-Scale AI Superpowers | TechZine</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-iphone-12-mini-by-drfone-ios/"><u>How to Bypass iCloud Lock on iPhone 12 mini</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-using-green-screen-in-kinemaster-a-stepwise-approach/"><u>In 2024, The Ultimate Guide to Using Green Screen in Kinemaster A Stepwise Approach</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-stealthy-update-ignites-consumer-backlash-an-in-depth-analysis/"><u>Microsoft's Stealthy Update Ignites Consumer Backlash - An In-Depth Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-upcoming-release-a-blessing-or-a-curse-unveiled-insights-from-zdnet/"><u>Microsoft's Upcoming Release: A Blessing or a Curse? Unveiled Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/open-sources-role-in-advancing-responsible-ai-development-expert-analysis-by-zdnet/"><u>Open Source's Role in Advancing Responsible AI Development | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-mastering-the-art-of-freezing-rows-and-columns-in-microsoft-excel/"><u>Step-by-Step Guide: Mastering the Art of Freezing Rows & Columns in Microsoft Excel</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-andaseat-kaiser-3-chairs-in-depth-review-revealed-on-zdnet/"><u>Top-Rated AndaSeat Kaiser 3 Chairs : In-Depth Review Revealed on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-ai-ventures-skyrocket-by-a-factor-of-ten-in-the-last-year-industry-report/"><u>ZDNet Reveals AI Ventures Skyrocket by a Factor of Ten in the Last Year - Industry Report</u></a></li>
+</ul></div>
+

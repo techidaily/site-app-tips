@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet"
-date: 2024-09-25T05:40:14.172Z
-updated: 2024-10-01T01:48:40.202Z
+date: 2024-10-05T18:15:42.043Z
+updated: 2024-10-06T18:16:42.813Z
 tags:
   - password-manager
 categories:
@@ -112,10 +112,10 @@ Analysis of identity and access management (IAM) polices taking into account hun
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -136,10 +136,10 @@ Another practice that isn't helping IT departments is [poor password security](h
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### special feature
@@ -159,16 +159,10 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -194,17 +188,20 @@ IT departments should also consider whether regular accounts need administrator 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-rising-above-the-crowd-trending-techniques-for-youtubers/"><u>[New] In 2024, Rising Above the Crowd Trending Techniques for YouTubers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-top-rated-8-android-tools-for-team-video-calls/"><u>[New] In 2024, The Top-Rated 8 Android Tools for Team Video Calls</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-hassle-free-techniques-for-igtv-on-stories/"><u>[Updated] Hassle-Free Techniques for IGTV on Stories</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-how-to-safeguard-your-live-streams-on-periscope/"><u>[Updated] How To Safeguard Your Live Streams on Periscope</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1726227079944-ogg-movavi/"><u>「オフラインでも使える簡単な無料OGG音声コーデックへの変換手順 -Movavi」</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-motorola-moto-g23-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Motorola Moto G23? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/busting-top-5-fallacies-surrounding-the-profitability-of-data-sharing-techwise-insights/"><u>Busting Top 5 Fallacies Surrounding the Profitability of Data Sharing | TechWise Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-you-master-artificial-intelligence-without-technical-expertise-understanding-the-need-for-varied-education-in-complex-systems-zdnet/"><u>Can You Master Artificial Intelligence Without Technical Expertise? Understanding the Need for Varied Education in Complex Systems | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/half-of-all-biz-marketers-now-leverage-ai-tools-insights-from-zdnet/"><u>Half of All Biz Marketers Now Leverage AI Tools: Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-k70-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi K70 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ibm-survey-highlights-growing-skepticism-among-corporate-heads-towards-it-discover-the-factors-zdnet/"><u>IBM Survey Highlights Growing Skepticism Among Corporate Heads Towards IT - Discover the Factors | ZDNet</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-essential-tips-for-attending-tiktok-live-events/"><u>[New] Essential Tips for Attending TikTok Live Events</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-easy-techniques-for-bending-digital-pictures/"><u>[Updated] Easy Techniques for Bending Digital Pictures</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-framefraction-analysis/"><u>[Updated] FrameFraction Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-alternative-paths-for-your-still-running-windows-10-system-as-microsofts-official-support-nears-its-end/"><u>Five Alternative Paths for Your Still-Running Windows 10 System as Microsoft's Official Support Nears Its End</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-12-4g-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 12 4G Lock Screen Password?</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-13-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-se-2020-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone SE (2020) Apple ID and Apple Pay</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-social-media-power-up-grouping-multiple-photos-and-vids-for-instagram/"><u>In 2024, Social Media Power-Up Grouping Multiple Photos & Vids for Instagram</u></a></li>
+<li><a href="https://app-tips.techidaily.com/new-microsoft-software-refresh-risks-boosting-office-stress-levels-says-zdnet-analysis/"><u>New Microsoft Software Refresh Risks Boosting Office Stress Levels, Says ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-obstacles-in-ai-precision-and-reliability-for-todays-developers-expert-analysis-at-zdnet/"><u>Overcoming Obstacles in AI Precision & Reliability for Today's Developers | Expert Analysis at ZDNet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/quick-guide-to-adding-snapchat-on-your-macbook-for-2024/"><u>Quick Guide to Adding Snapchat on Your MacBook for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-critical-need-for-clarity-in-artificer-interests-exploring-the-transparency-gap-in-ai-evolution-zdnet/"><u>The Critical Need for Clarity in Artificer Interests: Exploring the Transparency Gap in AI Evolution | ZDNET</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-elder-scrolls-online-blackwood-lag-problem-solved-gameplay-enhanced/"><u>The Elder Scrolls Online Blackwood Lag Problem Solved – Gameplay Enhanced</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-purpose-of-an-artificial-earth-plane-in-antenna-systems-can-be-similar-to-that-of-natural-ground-when-it-comes-to-reflecting-radio-waves-and-improving-s78/"><u>The Purpose of an Artificial Earth Plane in Antenna Systems Can Be Similar to that of Natural Ground when It Comes to Reflecting Radio Waves and Improving Signal Quality.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-ai-servicenows-essential-four-core-tenets-explained-boost-your-enterprise-success/"><u>Unlocking the Power of AI: ServiceNow's Essential Four Core Tenets Explained - Boost Your Enterprise Success!</u></a></li>
 </ul></div>
 

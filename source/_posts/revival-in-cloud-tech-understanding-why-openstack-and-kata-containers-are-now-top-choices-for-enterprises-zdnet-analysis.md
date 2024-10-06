@@ -1,7 +1,7 @@
 ---
 title: "Revival in Cloud Tech: Understanding Why OpenStack and Kata Containers Are Now Top Choices for Enterprises | ZDNet Analysis"
-date: 2024-09-17 18:31:40
-updated: 2024-09-20 12:12:16
+date: 2024-10-02T17:45:02.288Z
+updated: 2024-10-06T16:13:56.092Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://app-tips.techidaily.com/beware-latest-microsoft-upgrade-could-worsen-after-hours-stress-insights-from-zdnet/"><u>Beware: Latest Microsoft Upgrade Could Worsen After-Hours Stress - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-lightspeed-on-openshift-the-intelligent-ai-companion-for-your-kubernetes-clusters-zdnet/"><u>Discover Lightspeed on OpenShift – The Intelligent AI Companion for Your Kubernetes Clusters | ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-insights-on-constructing-high-quality-srt-files-for-2024/"><u>Expert Insights on Constructing High-Quality SRT Files for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experts-choose-the-leading-network-surveillance-software-comprehensive-review-and-selection-guide-techinsight/"><u>Experts Choose the Leading Network Surveillance Software : Comprehensive Review and Selection Guide | TechInsight</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beginners-guide-to-perfecting-gopro-footage/"><u>In 2024, Beginner's Guide to Perfecting GoPro Footage</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-15-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 15 Pro Max without Password?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-rising-popularity-of-rust-and-importance-of-linux-kernel-in-modern-computing/"><u>Linus Torvalds Discusses Rising Popularity of Rust & Importance of Linux Kernel in Modern Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-challenge-of-lost-arcs-server-connection-error/"><u>Overcoming the Challenge of Lost Arc's Server Connection Error</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prepare-for-windows-10-eol-explore-five-essential-upgrades-or-migrations-options-now-zdnet-insights/"><u>Prepare for Windows 10 EOL: Explore Five Essential Upgrades or Migrations Options Now | ZDNet Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seeking-a-true-witchs-tongue-are-vocal-changer-apps-legit-find-substitutes/"><u>Seeking a True Witch's Tongue Are Vocal Changer Apps Legit? Find Substitutes</u></a></li>
+<li><a href="https://win11.techidaily.com/set-up-your-pc-for-win-11-ease-create-bootable-media-in-3-steps/"><u>Set Up Your PC for Win 11 Ease: Create Bootable Media in 3 Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-recommended-mac-software-insights-from-zdnet/"><u>Top Recommended Mac Software - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-capabilities-detailed-insights-into-the-netgear-ac1200-ex6200-wi-fi-signal-booster-review/"><u>Unveiling the Capabilities: Detailed Insights Into the Netgear AC1200 (EX6200) Wi-Fi Signal Booster Review</u></a></li>
+</ul></div>
+

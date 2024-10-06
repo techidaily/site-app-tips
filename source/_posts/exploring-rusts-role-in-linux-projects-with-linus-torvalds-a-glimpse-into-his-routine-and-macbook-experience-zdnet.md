@@ -1,7 +1,7 @@
 ---
 title: "Exploring Rust's Role in Linux Projects with Linus Torvalds: A Glimpse Into His Routine and MacBook Experience - ZDNet"
-date: 2024-09-29T04:46:27.738Z
-updated: 2024-09-30T20:40:53.113Z
+date: 2024-10-05T16:24:56.361Z
+updated: 2024-10-06T18:38:41.981Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,14 +187,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-artists-pathway-journeying-from-hobbyist-to-professional/"><u>[New] 2024 Approved The Artist's Pathway Journeying From Hobbyist to Professional</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-untold-chronicles-adventures-in-antique-literature/"><u>[Updated] In 2024, The Untold Chronicles Adventures in Antique Literature</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-stop-the-sway-achieve-solidity-in-your-handhraned-gopro-video/"><u>In 2024, Stop The Sway Achieve Solidity in Your Handhraned GoPro Video</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-ubuntu-2404-enhancements-with-expert-tips-from-zdnets-guide/"><u>Mastering Ubuntu 24.04 Enhancements with Expert Tips From ZDNet's Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-turmoil-unpacking-russias-invasion-effects-on-ukraines-it-landscape-analysis-by-zdnet/"><u>Tech Turmoil: Unpacking Russia's Invasion Effects on Ukraine's IT Landscape | Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-amazons-cutting-edge-ai-benchmark-assessing-relevance-answers-and-contextual-groundings/"><u>Unveiling Amazon's Cutting-Edge AI Benchmark: Assessing Relevance, Answers & Contextual Groundings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/user-experience-insights-into-googles-battery-operated-smart-doorbell/"><u>User Experience Insights Into Google's Battery-Operated Smart Doorbell</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-open-source-expertise-and-linux-mastery-remain-highly-sought-after-despite-challenging-financial-climates-insights-from-zdnet/"><u>Why Open-Source Expertise & Linux Mastery Remain Highly Sought After, Despite Challenging Financial Climates - Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-crafting-sound-saturated-instagram-visuals-for-2024/"><u>[New] Crafting Sound-Saturated Instagram Visuals for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-to-the-top-webcams-for-windows-10-for-2024/"><u>[New] The Ultimate Guide to the Top Webcams for Windows 10 for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-personalizing-your-ig-experience-blocking-tactics/"><u>[Updated] Personalizing Your IG Experience Blocking Tactics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-basic-gamers-guide-to-outstanding-video-editing-software/"><u>2024 Approved Basic Gamers' Guide to Outstanding Video Editing Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beamwidth/"><u>Beamwidth</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-efficiency-a-comprehensive-guide-to-essential-productivity-apps-and-techniques-for-streamlining-your-day-to-day-job/"><u>Boosting Efficiency: A Comprehensive Guide to Essential Productivity Apps & Techniques for Streamlining Your Day-to-Day Job</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-software-development-success-with-agile-awareness-explore-6-key-principles/"><u>Boosting Software Development Success with Agile Awareness: Explore 6 Key Principles</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/como-convertir-archivos-wmv-en-flv-gratuitamente-online-metodos-eficaces-y-soluciones-de-movavi/"><u>Cómo Convertir Archivos WMV en FLV Gratuitamente Online: Métodos Eficaces Y Soluciones De Movavi</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-poco-c65-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Poco C65 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/limited-offer-upgrade-to-professionals-edition-of-ashampoo-3d-cad-for-only-40-now-on-zdnet-shop/"><u>Limited Offer: Upgrade to Professionals Edition of Ashampoo 3D CAD for Only $40, Now On ZDNet Shop!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-edition-the-ultimate-guide-to-final-cut-pro-x-keyboard-shortcuts-40-must-knows/"><u>New Edition The Ultimate Guide to Final Cut Pro X Keyboard Shortcuts (40 Must-Knows)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-triumph-unveiling-the-story-behind-an-engineers-app-that-outsmarts-mcdonalds-strategy-analysis-by-zdnet/"><u>Tech Triumph: Unveiling the Story Behind an Engineer’s App That Outsmarts McDonald's Strategy | Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-gain-renewed-interest-insights-from-zdnet/"><u>The Rising Popularity: How OpenStack & Kata Containers Gain Renewed Interest - Insights From ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-new-potential-how-the-google-microsoft-collaboration-allows-windows-apps-to-thrive-on-chromebooks-zdnet/"><u>Unlocking New Potential: How the Google-Microsoft Collaboration Allows Windows Apps to Thrive on Chromebooks | ZDNet</u></a></li>
 </ul></div>
 

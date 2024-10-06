@@ -1,7 +1,7 @@
 ---
 title: How Does the Conflict Between Russia and Ukraine Endanger Information Technology in Ukraine? Insights & Predictions.
-date: 2024-09-19 22:54:30
-updated: 2024-09-20 12:23:43
+date: 2024-09-29T17:11:59.094Z
+updated: 2024-10-06T17:56:45.604Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-highlight-heroics-in-samsung-phone-games-for-2024/"><u>[New] Highlight Heroics in Samsung Phone Games for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-mastering-youtube-images-your-complete-thumbnail-handbook/"><u>[New] In 2024, Mastering YouTube Images Your Complete Thumbnail Handbook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-two-simple-tweaks-for-skyrocketing-youtube-traffic/"><u>[Updated] In 2024, Two Simple Tweaks for Skyrocketing YouTube Traffic</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-aquatic-cinematography-with-these-7-essential-strategies-for-2024/"><u>[Updated] Mastering Aquatic Cinematography with These 7 Essential Strategies for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-art-of-xbox-playback-tips-for-clear-video/"><u>[Updated] The Art of Xbox Playback Tips for Clear Video</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-dissecting-the-livestream-battlefield-twitch-vs-youtube/"><u>2024 Approved Dissecting the Livestream Battlefield Twitch vs YouTube</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieve-sql-mastery-with-premier-course-selections-comprehensive-guide-by-zdnet/"><u>Achieve SQL Mastery with Premier Course Selections - Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/antenna-impedance-matching-is-essential-not-only-for-efficient-power-transfer-but-also-because-mismatches-can-distort-the-radiation-pattern-due-to-standing-81/"><u>Antenna Impedance Matching Is Essential Not only for Efficient Power Transfer but Also because Mismatches Can Distort the Radiation Pattern Due to Standing Waves on Transmission Lines.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ciq-gains-support-from-linux-experts-as-main-backer-of-rocks-cluster-os-initiative-techinsight/"><u>CIQ Gains Support From Linux Experts as Main Backer of Rocks Cluster OS Initiative - TechInsight</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dive-into-the-most-effective-online-tools-your-guide-to-perfect-captions/"><u>Dive Into the Most Effective Online Tools Your Guide to Perfect Captions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exhaustion-amongst-it-specialists-positive-developments-in-sight/"><u>Exhaustion Amongst IT Specialists - Positive Developments in Sight</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204413318-nba-2k21-green-hiccup-patch-details-and-how-its-gone/"><u>NBA 2K21 Green Hiccup: Patch Details & How It's Gone!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-remote-communication-the-emergence-of-an-innovative-lip-reading-challenger-for-microsoft-teams-and-zoom-zdnet/"><u>Revolutionizing Remote Communication: The Emergence of an Innovative Lip-Reading Challenger for Microsoft Teams & Zoom | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-premier-linux-learning-experiences-exploring-elite-bootcamps-and-training-opportun-2-engaging-with-the-pioneers-of-tech-a-deep-dive-in82/"><u>The Ultimate Guide to Premier Linux Learning Experiences: Exploring Elite Bootcamps & Training Opportun 2. Engaging with the Pioneers of Tech: A Deep Dive Into Linux Mastery Courses</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-enterprise-ai-potential-discover-anthropics-revolutionary-claude-plan-as-featured-on-zdnet/"><u>Unleashing Enterprise AI Potential: Discover Anthropic's Revolutionary Claude Plan as Featured on ZDNet</u></a></li>
+</ul></div>
+

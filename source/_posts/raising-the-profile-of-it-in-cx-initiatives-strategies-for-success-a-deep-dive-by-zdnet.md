@@ -1,7 +1,7 @@
 ---
 title: "Raising the Profile of IT in CX Initiatives: Strategies for Success - A Deep Dive by ZDNET"
-date: 2024-09-17 12:40:48
-updated: 2024-09-20 10:48:45
+date: 2024-10-04T17:55:46.273Z
+updated: 2024-10-06T17:54:49.870Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-examining-the-income-mechanics-of-tseries-on-youtube/"><u>[Updated] 2024 Approved Examining the Income Mechanics of TSeries on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creators-uniting-for-marvels-digital-future/"><u>[Updated] In 2024, Creators Uniting for Marvel's Digital Future</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-seeking-clarity-complete-accessibility-of-mutual-shared-materials/"><u>[Updated] In 2024, Seeking Clarity Complete Accessibility of Mutual Shared Materials</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-journey-through-history-similar-themed-video-games-to-ghost-of-tsushima-for-2024/"><u>[Updated] Journey Through History Similar Themed Video Games to Ghost of Tsushima for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-filmmaker-mode-crafting-viral-tiktok-reactions-with-filmora-for-2024/"><u>[Updated] Mastering Filmmaker Mode Crafting Viral TikTok Reactions with Filmora for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pushing-the-boundaries-with-sony-discovering-4k-on-smartphones/"><u>[Updated] Pushing the Boundaries with Sony - Discovering 4K on Smartphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-economic-aspects-of-making-a-music-video/"><u>[Updated] The Economic Aspects of Making a Music Video</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-transferring-your-icloud-password-vault-on-and-off-macos/"><u>Comprehensive Guide: Transferring Your iCloud Password Vault on and Off macOS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-the-gtx-nine-fifty-zero-code-43-issue-in-microsofts-latest-operating-system/"><u>How to Fix the GTX Nine-Fifty Zero 'Code 43' Issue in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-restore-your-ipad-using-icloud-backup-a-step-by-step-guide-with-and-without-factory-reset/"><u>How to Restore Your iPad Using iCloud Backup: A Step-by-Step Guide with and Without Factory Reset</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-peek-behind-windows-curtain-top-30-undisclosed-tips-for-windows-11/"><u>In 2024, A Peek Behind Window's Curtain Top 30 Undisclosed Tips for Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-data-security-the-ultimate-icloud-storage-and-backup-manual/"><u>Mastering Data Security: The Ultimate iCloud Storage & Backup Manual</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-clearing-out-icloud-backups-across-devices-for-more-space/"><u>Step-by-Step Guide: Clearing Out iCloud Backups Across Devices for More Space</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-connecting-your-pc-with-icloud-through-the-icloud-control-panel/"><u>Step-by-Step Guide: Connecting Your PC with iCloud Through the iCloud Control Panel</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-3-methods-to-remove-ebooks-from-your-icloud-library-freeing-up-space/"><u>Top 3 Methods to Remove eBooks From Your iCloud Library, Freeing Up Space</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-methods-for-transferring-icloud-tunes-to-ios-and-mac-a-comprehensive-guide/"><u>Top 5 Methods for Transferring iCloud Tunes to iOS and Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-to-kali-your-windows-pathway/"><u>Transitioning to Kali: Your Windows Pathway</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-free-contact-acquisition-top-4-methods-for-seamless-retrieval-from-icloud/"><u>Unlocking the Power of Free Contact Acquisition: Top 4 Methods for Seamless Retrieval From iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-icloud-family-sharing-a-comprehensive-guide-on-implementation-and-usage/"><u>Unveiling iCloud Family Sharing: A Comprehensive Guide on Implementation and Usage</u></a></li>
+</ul></div>
+

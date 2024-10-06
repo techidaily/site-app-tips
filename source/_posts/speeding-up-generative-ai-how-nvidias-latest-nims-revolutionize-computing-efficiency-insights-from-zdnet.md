@@ -1,7 +1,7 @@
 ---
 title: "Speeding Up Generative AI: How Nvidia's Latest 'NIMs' Revolutionize Computing Efficiency | Insights From ZDNET"
-date: 2024-09-19 20:19:35
-updated: 2024-09-20 11:22:40
+date: 2024-10-02T16:01:55.504Z
+updated: 2024-10-06T17:43:40.674Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +116,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +184,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-crafting-engaging-youtube-channel-names-for-vlogger-success-no-more-than-156/"><u>[New] 2024 Approved Crafting Engaging YouTube Channel Names for Vlogger Success (No More Than 156)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebooks-shift-to-short-videos-a-look-into-2023-trends-for-2024/"><u>[New] Facebook's Shift to Short Videos A Look Into 2023 Trends for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-combining-youtube-videos-for-seamless-playback-for-2024/"><u>[Updated] Combining YouTube Videos for Seamless Playback for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-easing-excessive-encoding-of-obs-media/"><u>[Updated] Easing Excessive Encoding of OBS Media</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-enhance-your-viewing-with-ease-utilizing-the-pip-mode-on-netflix/"><u>[Updated] Enhance Your Viewing with Ease Utilizing the PIP Mode on Netflix</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-navigating-advanced-sound-switching-techniques-for-2024/"><u>[Updated] Navigating Advanced Sound-Switching Techniques for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-learn-the-best-monitors-for-xbox-series-x-here/"><u>2024 Approved Learn The Best Monitors for Xbox Series X Here</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-essentials-of-apple-mdm-and-deploying-on-the-ios-ecosystem/"><u>Discover the Essentials of Apple MDM & Deploying on the iOS Ecosystem</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-user-friendly-android-notes-applications-the-best-picks-you-need/"><u>Discover the Ultimate List of FREE, User-Friendly Android Notes Applications: The Best Picks You Need</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-the-ultimate-free-audiobook-library-now-compatible-with-ios-and-android-devices/"><u>Download the Ultimate Free Audiobook Library Now - Compatible with iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-the-mumu-player-a-high-performance-android-simulator-for-desktop-environments/"><u>Experience the MuMu Player: A High-Performance Android Simulator for Desktop Environments</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-examination-of-nox-player-insights-on-functionality-advantages-and-limitations/"><u>In-Depth Examination of Nox Player: Insights on Functionality, Advantages, and Limitations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/play-ogg-format-files-at-no-cost-best-cross-platform-ogg-players-for-windows-and-macos/"><u>Play OGG Format Files at No Cost: Best Cross-Platform OGG Players for Windows & macOS</u></a></li>
+</ul></div>
+

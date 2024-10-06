@@ -1,7 +1,7 @@
 ---
 title: ZDNet Investigates the Recent Cybersecurity Breach Exposing 30K+ Healthcare Workers' Confidential Details in Florida Database
-date: 2024-09-27T05:39:19.984Z
-updated: 2024-09-30T19:06:32.044Z
+date: 2024-10-01T17:34:22.597Z
+updated: 2024-10-06T16:29:03.148Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -99,19 +99,14 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-phones-as-webcams-tips-and-tricks-for-quality-videos/"><u>[New] 2024 Approved Phones as Webcams Tips and Tricks for Quality Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-inside-instagrams-maximum-video-restriction-policy-for-2024/"><u>[New] Inside Instagram's Maximum Video Restriction Policy for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-pathways-to-gaining-premium-image-content-without-payment/"><u>[New] Pathways to Gaining Premium Image Content Without Payment</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-premium-serene-pc-games-catalog-for-2024/"><u>[Updated] Premium Serene PC Games Catalog for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-introduction-to-effective-analysis-facebook-insights/"><u>2024 Approved Introduction to Effective Analysis Facebook Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-apple-clips-in-depth-analysis-and-tips/"><u>Comprehensive Guide to Using Apple Clips: In-Depth Analysis and Tips</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-steps-converting-avi-files-to-compatible-formats-for-your-ipad-using-a-mac/"><u>Easy Steps: Converting AVI Files to Compatible Formats for Your iPad Using a Mac</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-shut-down-bluetooth-on-windows-10-completed/"><u>How To Shut Down Bluetooth On Windows 10 Completed</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-communication-avoid-missing-calls-amidst-noise-or-muting-with-advanced-flash-tech-for-up-to-10-contacts/"><u>Master Your Communication: Avoid Missing Calls Amidst Noise or Muting with Advanced Flash Tech for Up to 10 Contacts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-automated-photography-setting-timers-on-iphones-and-android-devices/"><u>Mastering the Art of Automated Photography: Setting Timers on iPhones & Android Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/selecting-prime-meme-blueprints/"><u>Selecting Prime Meme Blueprints</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-best-multiplayer-bluetooth-games-for-android-and-ios-devices/"><u>The Ultimate List of Best Multiplayer Bluetooth Games for Android & iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-11-audio-enhancement-applications-for-video-editing-on-mobile-devices-and-desktop-systems/"><u>Top 11 Audio Enhancement Applications for Video Editing on Mobile Devices and Desktop Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/guarantee-secure-xbox-series-x-linking/"><u>Guarantee Secure Xbox Series X Linking</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/is-av1-codec-compatible-with-handbrake-encoder-software/"><u>Is AV1 Codec Compatible with HandBrake Encoder Software?</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-default-energy-settings-on-modern-windows/"><u>Reactivating Default Energy Settings on Modern Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapore-invests-24-billion-in-enhancing-it-networks-and-digital-solutions-insights-from-zdnet/"><u>Singapore Invests $2.4 Billion in Enhancing IT Networks & Digital Solutions – Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-to-secure-wacom-intuos-pro-drivers-on-your-windows-10-pc/"><u>Step-by-Step Tutorial to Secure Wacom Intuos Pro Drivers on Your Windows 10 PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-now-reinventing-development-with-ai-in-low-code-and-no-code-solutions-featured-on-zdnet/"><u>The Future Is Now: Reinventing Development with AI in Low-Code and No-Code Solutions | Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-insiders-guide-to-choosing-a-devops-path-benefits-vs-hurdles-in-detail/"><u>The Insider's Guide to Choosing a DevOps Path: Benefits Vs. Hurdles in Detail</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-it-expansion-navigating-the-increase-in-employee-burnout-solutions-for-a-healthier-workplace-zdnet/"><u>The Rise of IT Expansion: Navigating the Increase in Employee Burnout - Solutions for a Healthier Workplace | ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-infinix-note-30i-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Infinix Note 30i Screen | Dr.fone</u></a></li>
 </ul></div>
 

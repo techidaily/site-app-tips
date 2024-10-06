@@ -1,7 +1,7 @@
 ---
 title: How Expert Insights Suggest AI Is Key to Securing Our Digital Future - ZDNet
-date: 2024-09-18 15:23:42
-updated: 2024-09-20 12:31:13
+date: 2024-09-30T18:17:38.123Z
+updated: 2024-10-06T17:32:19.129Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-10-free-web-conferencing-software-for-online-meeting/"><u>[Updated] 10 Free Web Conferencing Software for Online Meeting</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-macos-11-big-sur-a-complete-hardware-overview/"><u>2024 Approved MacOS 11 Big Sur A Complete Hardware Overview</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/avoid-unwanted-interrucier-top-7-selective-android-adblockers-reviewed/"><u>Avoid Unwanted Interrucier Top 7 Selective Android AdBlockers Reviewed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-most-effective-cross-platform-chat-applications-for-ios-and-android-devices/"><u>Discover the Most Effective Cross-Platform Chat Applications for iOS and Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-8-leading-projector-apps-for-effortless-wi-fi-hookup-on-your-android-device/"><u>Discover the Ultimate List of 8 Leading Projector Apps for Effortless Wi-Fi Hookup on Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-insights-into-the-vita-video-editing-suite-why-its-a-game-changer/"><u>Essential Insights Into the VITA Video Editing Suite: Why It's a Game-Changer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-transform-your-instagram-footage-with-the-leading-video-conversion-apps-of-the-year/"><u>How To Transform Your Instagram Footage With The Leading Video Conversion Apps of the Year</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-huaweis-built-in-recorder-screen-capture-for-mate-and-p-series/"><u>In 2024, Huawei's Built-In Recorder Screen Capture for Mate and P Series</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-y28-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo Y28 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-great-android-camera-apps-for-amazing-shots/"><u>The Ultimate List of Great Android Camera Apps for Amazing Shots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-9plus-secure-unlocking-apps-with-fingerprint-recognition-for-android-smartphones/"><u>The Ultimate List: 9+ Secure Unlocking Apps with Fingerprint Recognition for Android Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-review-of-the-shotcut-app-unveil-its-features-and-benefits-now/"><u>Ultimate Review of the Shotcut App: Unveil Its Features and Benefits Now</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-young-directors-handbook-teach-kids-to-make-their-own-movies/"><u>Updated The Young Directors Handbook Teach Kids to Make Their Own Movies</u></a></li>
+</ul></div>
+

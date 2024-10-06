@@ -1,7 +1,7 @@
 ---
 title: Beamforming
-date: 2024-09-18 17:53:12
-updated: 2024-09-20 11:56:49
+date: 2024-10-04T16:44:46.563Z
+updated: 2024-10-06T18:47:29.531Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,25 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-exclusive-video-editing-software-just-for-vimeo-pros/"><u>[Updated] In 2024, Exclusive Video Editing Software Just For Vimeo Pros</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-guide-to-shopping-for-a-gopro-camera/"><u>[Updated] The Essential Guide to Shopping for a Gopro Camera</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-11-screen-recorders-for-mac-for-2024/"><u>[Updated] Top 11 Screen Recorders for Mac for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/closest-known-black-hole-found-by-astronomers-surprisingly-distant-yet-fascinating/"><u>Closest Known Black Hole Found by Astronomers, Surprisingly Distant Yet Fascinating</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-hurdles-ahead-microsofts-race-against-time-to-fix-windows-11-issues-insights-from-zdnet/"><u>Critical Hurdles Ahead: Microsoft's Race Against Time to Fix Windows 11 Issues - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-citizen-devs-the-rising-influence-in-crafting-business-software-solutions-zdnet/"><u>Empowering Citizen Devs: The Rising Influence in Crafting Business Software Solutions | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exclusive-offer-acquire-professional-level-ashampoo-3d-cad-v11-for-only-40-from-zdnet-right-now/"><u>Exclusive Offer: Acquire Professional Level Ashampoo 3D CAD v11 for Only $40 From ZDNet Right Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-successfully-upgrade-to-ubuntu-linux-2404-a-step-by-step-guide/"><u>How to Successfully Upgrade to Ubuntu Linux 24.04: A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/juniper-networks-expands-security-offerings-with-new-cloud-based-firewall-feature-in-unified-secure-access-service-sezn-architecture/"><u>Juniper Networks Expands Security Offerings with New Cloud-Based Firewall Feature in Unified Secure Access Service (SEZN) Architecture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swap-periscope-for-success-best-replacements-for-iphoneandroid-for-2024/"><u>Swap Periscope for Success Best Replacements for iPhone/Android for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tech-talk-titans-who-reigns-supreme-google-bard-or-bing-chat/"><u>Tech Talk Titans: Who Reigns Supreme, Google Bard or Bing Chat?</u></a></li>
+</ul></div>
+

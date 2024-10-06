@@ -1,7 +1,7 @@
 ---
 title: Navigating the Overlap of Kernel Issues & Cybersecurity in Linux Environments - Strategies to Maintain Safety
-date: 2024-09-19 11:52:38
-updated: 2024-09-20 12:58:34
+date: 2024-09-30T19:02:56.595Z
+updated: 2024-10-06T16:12:44.887Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-expertise-in-easel-alterations-color-command/"><u>[New] Expertise in Easel Alterations - Color Command</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-exploring-video-file-limits-in-64128gb/"><u>[Updated] 2024 Approved Exploring Video File Limits in 64/128GB</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-real-story-exploring-recordcast-features/"><u>2024 Approved The Real Story Exploring RecordCast Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-initiatives-surge-by-10x-in-recent-year-insights-from-latest-research-zdnet/"><u>AI Initiatives Surge by 10X in Recent Year - Insights From Latest Research | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/collaboration-ensures-continued-life-for-linux-414-long-term-support-version-zdnet-tech-news/"><u>Collaboration Ensures Continued Life for Linux 4.14 Long-Term Support Version | ZDNET Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/conquering-chaos-in-linuxopen-source-guidebooks-explore-our-streamlined-remedy-zdnet/"><u>Conquering Chaos in Linux/Open-Source Guidebooks: Explore Our Streamlined Remedy | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/could-microsofts-new-offering-soothe-or-annoy-you-expert-analysis-by-zdnet-revealed/"><u>Could Microsoft's New Offering Soothe or Annoy You? Expert Analysis by ZDNet Revealed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-barriers-how-firms-find-it-challenging-to-leverage-generative-ai-according-to-deloittes-latest-insights/"><u>Exploring the Barriers: How Firms Find It Challenging to Leverage Generative AI According to Deloitte's Latest Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-xiaomi-redmi-note-12-pro-4g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Xiaomi Redmi Note 12 Pro 4G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtubes-glamour-guild-comprehensive-style-compendium/"><u>In 2024, Youtube's Glamour Guild Comprehensive Style Compendium</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/stealthy-ios-youtube-bgm-sessions-for-2024/"><u>Stealthy iOS YouTube BGM Sessions for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/surprising-upsides-for-it-professionals-facing-burnout-insights-from-zdnets-latest-article/"><u>Surprising Upsides for IT Professionals Facing Burnout: Insights From ZDNet's Latest Article</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-comprehensive-insights-into-computer-hardware/"><u>Tom's Tech: Comprehensive Insights Into Computer Hardware</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleash-efficiency-on-the-linux-platform-explore-ubuntu-2204-as-your-workhorse-insights-by-zdnet/"><u>Unleash Efficiency on the Linux Platform - Explore Ubuntu 22.04 as Your Workhorse | Insights by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vrijwelke-conversie-van-offline-snd-bestandsen-naar-online-zeer-veilig-movavi/"><u>Vrijwelke Conversie Van Offline SND-Bestandsen Naar Online Zeer Veilig - Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Turning On the Bitwarden Security Prompt for Your Master Key"
-date: 2024-09-29T11:23:35.800Z
-updated: 2024-10-01T07:33:54.602Z
+date: 2024-10-02T18:27:04.187Z
+updated: 2024-10-06T17:55:14.592Z
 tags:
   - password-manager
 categories:
@@ -67,10 +67,10 @@ With that said, how do you enable the password re-prompt? Let me show you.
 **What you'll need:** The only things you need for this are a working instance of Bitwarded, either on a desktop or mobile device. The process also works on the web-based version. I'll demonstrate this on the desktop app, but the process is the same on all platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Bitwarden and unlock your vault
@@ -78,10 +78,10 @@ With that said, how do you enable the password re-prompt? Let me show you.
 The first thing to do is open the Bitwarden app and unlock your vault.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Open a vault item for editing
@@ -93,10 +93,10 @@ The edit button is the pencil directly to the right of the + button.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable the password re-prompt
@@ -114,10 +114,10 @@ Now, any time you want to view that password, you'll be prompted to type your Bi
 Keep going and add the re-prompt feature to any/all vault entries you believe need the extra layer of security. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A couple of extra steps
@@ -157,20 +157,20 @@ This may not stop unwanted users from copying and pasting your passwords, but it
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-inaugural-zooid-creations-ranked/"><u>[New] Inaugural Zooid Creations Ranked</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-budget-video-players-and-streaming-tools-reviewed-pc-and-mobile/"><u>[Updated] Best Budget Video Players and Streaming Tools Reviewed (PC & Mobile)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-expert-techniques-for-opening-srt-on-computers/"><u>[Updated] Expert Techniques for Opening SRT on Computers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2022s-leading-iam-solutions-reviewed-expert-picks-by-zdnet/"><u>2022'S Leading IAM Solutions Reviewed: Expert Picks by ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/webmov-movavi/"><u>無償でWeb上でMOVフォーマットをオンラインに変換する方法 | Movavi</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-crm-solutions-for-2-surveillance-system-we-use-a-variety-of-methods-to-detect-and-monitor-suspicious-activity-within-our-facility-these-include-the-fol79/"><u>Best CRM Solutions for 2 Surveillance System, We Use a Variety of Methods to Detect and Monitor Suspicious Activity Within Our Facility. These Include the Following Steps:</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-tech-teams-amplifying-your-voice-in-the-realm-of-customer-experience-insights-from-zdnet/"><u>Empowering Tech Teams: Amplifying Your Voice in the Realm of Customer Experience - Insights From ZDNet</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-12-pro-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 12 Pro Passcode not Working?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/masterclass-in-tablets-discovering-why-the-samsung-galaxy-tab-s7plus-reigns-supreme-on-android/"><u>Masterclass in Tablets: Discovering Why the Samsung Galaxy Tab S7+ Reigns Supreme on Android</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-gpt-3-conversations-5-critical-chat-prompt-faux-pas-to-sidestep/"><u>Mastering GPT-3 Conversations: 5 Critical Chat Prompt Faux Pas to Sidestep</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-slacks-new-functionality-a-step-by-step-tutorial-on-using-slack-connect-effectively/"><u>Mastering Slack's New Functionality - A Step-by-Step Tutorial on Using Slack Connect Effectively</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-etiquette-with-virtual-helpers-and-chatbots-like-siri-and-alexa/"><u>Navigating Etiquette With Virtual Helpers & Chatbots Like Siri and Alexa</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-art-of-surrendering-to-the-spectacle-posting-immersive-videos-on-facebook-for-2024/"><u>The Art of Surrendering to the Spectacle Posting Immersive Videos on Facebook for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-pivotal-role-of-enterprise-architects-in-spearheading-digital-change-zdnet/"><u>The Pivotal Role of Enterprise Architects in Spearheading Digital Change | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsofts-crucial-year-ahead-to-fix-windows-10-issues-techinsight/"><u>Urgent Challenge: Microsoft's Crucial Year Ahead to Fix Windows 10 Issues | TechInsight</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-command-your-cloud-data-leading-providers-to-watch/"><u>[New] Command Your Cloud Data Leading Providers to Watch</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-web-add-on-fb-stories-repository-app/"><u>[New] In 2024, Web Add-On FB Stories Repository App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-communication-enhancing-rocketchat-functionality-through-app-add-ons/"><u>Boost Your Communication: Enhancing Rocket.Chat Functionality Through App Add-Ons</u></a></li>
+<li><a href="https://driver-error.techidaily.com/curing-sluggish-serial-transmission-on-windows/"><u>Curing Sluggish Serial Transmission on Windows</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/holy-stone-hs170-predator-mini-rc-helicopter-drone-review-a-drone-on-a-budget/"><u>Holy Stone HS170 Predator Mini RC Helicopter Drone Review: A Drone on a Budget</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-honor-magic-v2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Honor Magic V2 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-microsoft-working-on-windows-12-insider-tips-and-unforeseen-projections-digitalchronicle/"><u>Is Microsoft Working on Windows 12? Insider Tips and Unforeseen Projections | DigitalChronicle</u></a></li>
+<li><a href="https://win-blog.techidaily.com/push-your-frames-per-second-fps-up-with-these-pro-techniques-for-escape-from-tarkov/"><u>Push Your Frames Per Second (FPS) Up With These Pro Techniques for 'Escape From Tarkov'</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionize-user-interaction-using-xr-virtual-replicas-and-immersive-computing-a-strategic-enterprise-handbook-zdnet/"><u>Revolutionize User Interaction Using XR, Virtual Replicas, and Immersive Computing: A Strategic Enterprise Handbook [ZDNET]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/square-and-cash-app-downtime-essential-info-for-entrepreneurs-tech-news/"><u>Square and Cash App Downtime: Essential Info for Entrepreneurs | Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-switching-from-windows-to-linux-mint-on-your-computer-tips-and-tricks/"><u>Step-by-Step Guide: Switching From Windows to Linux Mint on Your Computer - Tips & Tricks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-the-tangled-web-of-linuxopen-source-documentation-solutions-for-clarity/"><u>Taming the Tangled Web of Linux/Open Source Documentation: Solutions for Clarity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-secure-enterprise-deployments-with-canonicals-distroless-linux-solutions-cybertechdaily/"><u>The Future of Secure Enterprise Deployments with Canonical's Distroless Linux Solutions | CyberTechDaily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-preview-of-the-rumored-oneplus-model-ex-pricing-and-launch-details-unveiled/"><u>The Next Big Thing? Preview of the Rumored OnePlus Model eX – Pricing & Launch Details Unveiled</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/windows-movie-maker-the-ultimate-guide-to-youtube-video-production-for-2024/"><u>Windows Movie Maker The Ultimate Guide to YouTube Video Production for 2024</u></a></li>
 </ul></div>
 

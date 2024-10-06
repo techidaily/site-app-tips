@@ -1,7 +1,7 @@
 ---
 title: Future of AI Innovations in the Coming Years - Insights & Predictions | ZDNet
-date: 2024-09-19 17:17:37
-updated: 2024-09-20 10:37:27
+date: 2024-10-02T18:11:18.825Z
+updated: 2024-10-06T16:02:29.741Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ios-guide-to-stunning-time-lapse-cinematography-for-2024/"><u>[New] IOS Guide to Stunning Time-Lapse Cinematography for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-a-step-by-step-plan-efficient-vimeo-video-logging-for-2024/"><u>[Updated] A Step-by-Step Plan Efficient Vimeo Video Logging for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unleashing-classic-psp-gaming-best-ios-emulators-ranked/"><u>[Updated] In 2024, Unleashing Classic PSP Gaming Best iOS Emulators Ranked</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-to-elite-a-comprehensive-tutorial-on-switching-from-windows-home-to-the-power-of-pro-version/"><u>Elevate to Elite: A Comprehensive Tutorial on Switching From Windows Home to the Power of Pro Version</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevating-software-creation-with-github-copilots-productive-precision-insights-from-zdnet/"><u>Elevating Software Creation with GitHub Copilot's Productive Precision - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-seamless-cross-platform-integration-chrome-os-welcomes-windows-apps-via-exciting-new-collaboration/"><u>Experience Seamless Cross-Platform Integration: Chrome OS Welcomes Windows Apps via Exciting New Collaboration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/grounding-systems-must-comply-with-national-and-international-standards-to-ensure-they-are-safe-and-do-not-cause-harmful-interference/"><u>Grounding Systems Must Comply with National and International Standards to Ensure They Are Safe and Do Not Cause Harmful Interference.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-s18e-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo S18e Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578758448-porque-vs-por-que-whats-the-difference/"><u>Porque vs Por Que: What’s the Difference?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/strategies-for-fixing-the-persistent-error-code-108-in-steam-virtual-reality/"><u>Strategies for Fixing the Persistent Error Code 지108 in Steam Virtual Reality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-ai-driven-success-for-any-size-business-using-anthropics-latest-enterprise-offering-the-claude-upgrade-zdnet-insights/"><u>Unlock AI-Driven Success for Any Size Business Using Anthropic's Latest Enterprise Offering, The Claude Upgrade | ZDNET Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/vocal-variations-a-curated-list-of-the-best-15-youtube-vocals-tutorials-for-2024/"><u>Vocal Variations A Curated List of the Best 15 YouTube Vocals Tutorials for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks"
-date: 2024-09-23T20:28:00.031Z
-updated: 2024-10-01T04:13:22.700Z
+date: 2024-10-03T18:50:41.060Z
+updated: 2024-10-06T16:15:43.324Z
 tags:
   - password-manager
 categories:
@@ -110,10 +110,10 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -140,10 +140,10 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -191,20 +191,22 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-effortlessly-capture-mac-screenshots-for-2024/"><u>[Updated] How to Effortlessly Capture Mac Screenshots for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-enhancing-visual-storytelling-on-instagram-with-loops/"><u>[Updated] In 2024, Enhancing Visual Storytelling on Instagram With Loops</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-optimizing-video-sharing-with-vimeo-subscription-choices/"><u>2024 Approved Optimizing Video Sharing With Vimeo Subscription Choices</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-top-rated-no-cost-video-editors-cnet/"><u>Discover the Ultimate Selection of Top-Rated, No-Cost Video Editors | CNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/engineers-innovative-tool-challenges-the-giant-unveiling-how-it-continuously-shames-mcdonalds-strategies/"><u>Engineer's Innovative Tool Challenges the Giant - Unveiling How It Continuously Shames McDonald's Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expanding-low-codeno-code-landscape-implications-for-tech-job-evolution-insights-by-zdnet/"><u>Expanding Low-Code/No-Code Landscape: Implications for Tech Job Evolution - Insights by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-future-without-microsofts-support-top-5-alternatives-for-your-windows-11-machine-insights-by-zdnet/"><u>Facing the Future without Microsoft's Support: Top 5 Alternatives for Your Windows 11 Machine - Insights by ZDNet</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-8-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 8 Plus Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-your-content-youtube-video-editing-secrets-revealed/"><u>In 2024, Elevate Your Content YouTube Video Editing Secrets Revealed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-huawei-nova-y91-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Huawei Nova Y91 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/launch-your-fortune-on-periscope-live-chats/"><u>Launch Your Fortune on Periscope Live Chats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-electronic-signature-solutions-insights-from-zdnet/"><u>Top Rated Electronic Signature Solutions - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-microsoft-faces-critical-challenge-with-windows-11-just-one-year-left-zdnet-exclusive/"><u>Urgent: Microsoft Faces Critical Challenge with Windows 11 - Just One Year Left! [ZDNet Exclusive]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-embracing-low-code-tech-boosts-employer-branding-zdnet-analysis/"><u>Why Embracing Low-Code Tech Boosts Employer Branding - ZDNet Analysis</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-streamlining-your-360-video-process-for-social-media-platforms-for-2024/"><u>[Updated] Streamlining Your 360 Video Process for Social Media Platforms for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-achieving-excellence-in-game-recording-techniques-windows-11-style/"><u>2024 Approved Achieving Excellence in Game Recording Techniques, Windows 11 Style</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-reno-10-pro-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-microsoft-recall-as-a-privacy-catastrophe-here-are-7-compelling-reasons-you-shouldnt-worry-zdnet/"><u>Debunking Microsoft Recall as a Privacy Catastrophe? Here Are 7 Compelling Reasons You Shouldn't Worry | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-rapid-impact-of-ai-on-software-engineering-challenges-in-quantifying-progress-insights-from-zdnet/"><u>Exploring the Rapid Impact of AI on Software Engineering: Challenges in Quantifying Progress - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-essential-is-devops-for-staying-ahead-in-business-ensuring-safety-through-top-strategies-insights-from-zdnet/"><u>How Essential Is DevOps for Staying Ahead in Business: Ensuring Safety Through Top Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-major-cloud-services-aws-azure-and-google-cloud-for-a-hybrid-and-saas-strategy-insights-by-zdnet/"><u>In-Depth Analysis of Major Cloud Services: AWS, Azure, and Google Cloud for a Hybrid and SaaS Strategy | Insights by ZDNET</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721461104619-iphone-app-icon-error-heres-how-you-can-fix-them-back/"><u>IPhone App Icon Error? Here's How You Can Fix Them Back!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-process-of-upgrading-your-system-to-ubuntu-2404-tips-and-tricks-from-zdnet/"><u>Mastering the Process of Upgrading Your System to Ubuntu 24.04: Tips and Tricks From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-openai-api-a-step-by-step-strategy-guide/"><u>Navigating Through OpenAI API: A Step-by-Step Strategy Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/sonys-research-division-joins-forces-with-ai-singapore-for-next-gen-language-models-innovation-breakthrough/"><u>Sony's Research Division Joins Forces with AI Singapore for Next-Gen Language Models | Innovation Breakthrough</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-troubleshooting-for-stop-error-0x0000007b-blue-screen-of-death-fixes/"><u>Step-by-Step Troubleshooting for STOP Error 0X0000007B - Blue Screen of Death Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-crisis-microsofts-critical-challenge-with-windows-10-looms-as-deadline-approaches-tech-news-by-zdnet/"><u>Urgent Crisis: Microsoft's Critical Challenge with Windows 10 Looms as Deadline Approaches | Tech News by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-microsoft-edge-holds-the-crown-in-gaming-browsers/"><u>Why Microsoft Edge Holds the Crown in Gaming Browsers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-woes-intensify-for-microsoft-as-launch-deadline-looms-expert-analysis-by-zdnet/"><u>Windows 11 Woes Intensify for Microsoft as Launch Deadline Looms – Expert Analysis by ZDNET</u></a></li>
 </ul></div>
 

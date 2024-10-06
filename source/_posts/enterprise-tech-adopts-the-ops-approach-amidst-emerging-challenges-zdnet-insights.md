@@ -1,7 +1,7 @@
 ---
 title: Enterprise Tech Adopts the 'Ops' Approach Amidst Emerging Challenges | ZDNet Insights
-date: 2024-09-17 22:32:56
-updated: 2024-09-20 10:32:20
+date: 2024-10-04T18:06:17.234Z
+updated: 2024-10-06T18:04:46.115Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://app-tips.techidaily.com/company-names-revolutionary-ai-for-sustainable-smart-appliances-spotlight-on-zdnet-review/"><u>[Company Name]'s Revolutionary AI for Sustainable Smart Appliances: Spotlight on ZDNET Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-leveraging-whiteboards-across-ios-android-and-desktop-zoom-sessions/"><u>[New] In 2024, Leveraging Whiteboards Across iOS, Android & Desktop Zoom Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-non-sharex-heroes-for-secure-file-sharing/"><u>[New] In 2024, Non-ShareX Heroes for Secure File Sharing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-podcast-prominence-with-advanced-seo-techniques/"><u>[New] Unlock Podcast Prominence with Advanced SEO Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-efficient-tagging-techniques-to-boost-your-youtube-traffic/"><u>[Updated] In 2024, Efficient Tagging Techniques to Boost Your Youtube Traffic</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-manager-training-essential-before-introducing-artificial-intelligence-in-business-insights-from-zdnet/"><u>1. Manager Training Essential Before Introducing Artificial Intelligence in Business: Insights From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-timekeepers-top-10-androidios-apps-for-your-big-day/"><u>2024 Approved Ideal Timekeepers Top 10 Android/iOS Apps for Your Big Day</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-interoperable-iptv-networking/"><u>2024 Approved Interoperable IPTV Networking</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-marketing-crews-embrace-advanced-tech-zdnet-insights/"><u>AI Integration: One-Third of Marketing Crews Embrace Advanced Tech | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-ais-horizon-discover-the-accelerating-wave-of-emerging-technologies/"><u>Beyond AI's Horizon: Discover the Accelerating Wave of Emerging Technologies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-common-errors-in-understanding-how-to-earn-from-big-data-a-deep-dive-nextgen-business-trends/"><u>Debunking Common Errors in Understanding How to Earn From Big Data: A Deep Dive | NextGen Business Trends</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-strategies-for-technology-team-management-dive-into-your-business-foundations-expert-advice-from-zdnet/"><u>Effective Strategies for Technology Team Management: Dive Into Your Business Foundations | Expert Advice From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-prove-the-value-of-generative-ai-overcoming-roi-hurdles-explained-expert-analysis-by-zdnet/"><u>How to Prove the Value of Generative AI - Overcoming ROI Hurdles Explained | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-x-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone X Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hukum-ve-kosullar-movaviden-kapali-yazlik-kartlarin-kuruslandirilmasinda-kaynaklanan-soz/"><u>Hüküm Ve Koşullar: Movavi'den Kapalı Yazlık Kartların Kuruşlandırılmasında Kaynaklanan Söz</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-professionals-way-of-removing-backgrounds/"><u>In 2024, The Professional's Way of Removing Backgrounds</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-ai-how-multiple-machine-learning-models-will-power-your-business-according-to-zdnet/"><u>The Future Is AI: How Multiple Machine Learning Models Will Power Your Business, According to ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tips-and-tricks-for-responsibly-finding-private-contact-information/"><u>Tips and Tricks for Responsibly Finding Private Contact Information</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-singapore-advocates-for-financial-backing-of-ai-integration-and-carbon-neutral-goals/"><u>ZDNet Exclusive: Singapore Advocates for Financial Backing of AI Integration and Carbon-Neutral Goals</u></a></li>
+</ul></div>
+

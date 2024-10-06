@@ -1,7 +1,7 @@
 ---
 title: "The Future of Artificial Intelligence: Projected Breakthroughs in the Coming Years - ZDNet"
-date: 2024-09-24T05:05:58.263Z
-updated: 2024-09-30T23:44:25.154Z
+date: 2024-10-05T17:31:26.045Z
+updated: 2024-10-06T18:43:01.035Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-quick-start-method-for-combining-obs-and-zoom/"><u>[New] In 2024, The Quick-Start Method for Combining OBS & Zoom</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-task-mastery-top-picks-for-efficient-calendar-management-in-fb-for-2024/"><u>[New] Task Mastery Top Picks for Efficient Calendar Management in FB for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-tunefab-revolutionizing-the-art-of-video-capture/"><u>[Updated] In 2024, Tunefab Revolutionizing the Art of Video Capture</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-picart-hack-keep-identities-unseen-for-2024/"><u>[Updated] PicArt Hack Keep Identities Unseen for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-gt-neo-5-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme GT Neo 5? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/before-your-windows-10-becomes-unsupported-top-5-options-revealed-by-zdnet/"><u>Before Your Windows 10 Becomes Unsupported: Top 5 Options Revealed by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-what-sets-macos-sonoma-apart-key-updates-and-tips-explored-by-experts-at-zdnet/"><u>Discover What Sets macOS Sonoma Apart: Key Updates and Tips Explored by Experts at ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/has-microsoft-retracted-its-promise-of-a-complimentary-windows-11-update-promotion-tech-news/"><u>Has Microsoft Retracted Its Promise of a Complimentary Windows 11 Update Promotion? | Tech News</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-photoshop-fundamentals-a-beginners-guide-to-simple-image-editing-techniques/"><u>Mastering Photoshop Fundamentals: A Beginner's Guide to Simple Image Editing Techniques</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-c210-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for C210</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-repairing-incompatibility-issues-between-your-app-and-pc/"><u>The Ultimate Guide to Repairing Incompatibility Issues Between Your App and PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-ultimate-list-of-ios-compatible-fb-videos-downloader-apps-for-2024/"><u>The Ultimate List of iOS-Compatible FB Videos Downloader Apps for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-accounting-solutions-of-2022-find-your-ideal-match-today/"><u>Top Rated Accounting Solutions of 2022: Find Your Ideal Match Today!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-support-ending-soon-discover-your-5-last-options-with-expert-insights-from-zdnet/"><u>Windows 11 Support Ending Soon? Discover Your 5 Last Options with Expert Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-defender-essentials-a-guide-to-securing-personal-and-smb-computers/"><u>Windows Defender Essentials: A Guide to Securing Personal & SMB Computers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-innovative-approaches-to-keeping-your-snaps-connected/"><u>[New] In 2024, Innovative Approaches to Keeping Your Snaps Connected</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/12-ultimate-insta-image-enhancers-for-2024/"><u>12 Ultimate Insta Image Enhancers for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/captivating-video-content-tips-for-pinterest-boards-for-2024/"><u>Captivating Video Content Tips for Pinterest Boards for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/converting-your-documents-seamless-creation-of-microsoft-word-files-via-google-docs-on-an-android-device/"><u>Converting Your Documents: Seamless Creation of Microsoft Word Files via Google Docs on an Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-vulnerability-found-in-popular-linux-tool-curl-fixes-released-promptly-insights-from-zdnet/"><u>Critical Vulnerability Found in Popular Linux Tool 'Curl'; Fixes Released Promptly - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/extract-and-save-detective-trailers-as-mp4movaviflvwmvmkv-for-high-quality-viewing/"><u>Extract & Save Detective Trailers as MP4/MOV/AVI/FLV/WMV/MKV for High-Quality Viewing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/human-expression-capabilities-in-latest-ai-avatar-innovations-insights-from-zdnet/"><u>Human Expression Capabilities in Latest AI Avatar Innovations - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-mastering-online-streams-your-easy-to-follow-internet-radio-recording-tutorial/"><u>In 2024, Mastering Online Streams Your Easy-to-Follow Internet Radio Recording Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimal-accessories-for-your-high-quality-gopro/"><u>Optimal Accessories for Your High-Quality GoPro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-infinix-zero-30-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Infinix Zero 30 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-truth-about-being-a-devops-professional-benefits-and-pitfalls-revealed-by-zdnet/"><u>The Truth About Being a DevOps Professional: Benefits & Pitfalls Revealed by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-your-pc-experience-upgrade-from-windows-home-edition-to-pro-key-reasons-and-how-to-tips/"><u>Transforming Your PC Experience: Upgrade From Windows Home Edition to Pro - Key Reasons and How-To Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-5-alternatives-to-ensure-continued-security/"><u>Windows 10 End of Life Approaching: Discover Your 5 Alternatives to Ensure Continued Security</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-against-xbox-glitches-fixing-cod-boicw-error-code-8834x-q1-l9/"><u>Winning Against Xbox Glitches: Fixing COD: BOICW Error Code 88^3/4X-Q1-L9</u></a></li>
 </ul></div>
 

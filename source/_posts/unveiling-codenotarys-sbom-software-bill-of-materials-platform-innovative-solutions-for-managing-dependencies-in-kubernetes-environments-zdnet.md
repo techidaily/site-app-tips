@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Codenotary's SBOM (Software Bill of Materials) Platform: Innovative Solutions for Managing Dependencies in Kubernetes Environments - ZDNet"
-date: 2024-09-18 12:24:13
-updated: 2024-09-20 10:33:50
+date: 2024-10-02T16:58:53.415Z
+updated: 2024-10-06T16:28:36.253Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-text-insertion-in-digital-pictures/"><u>[New] Mastering the Art of Text Insertion in Digital Pictures</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-transforming-your-spotify-list-into-a-youtube-music-collection/"><u>[Updated] In 2024, Transforming Your Spotify List Into a YouTube Music Collection</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-revolutionize-viewing-with-these-6-ultimate-youtube-shorts-downloader-apps/"><u>2024 Approved Revolutionize Viewing with These 6 Ultimate YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advanced-audio-capture-and-conversion-made-simple-by-otters-latest-teams-software-update-explore-features-on-zdnet/"><u>Advanced Audio Capture and Conversion Made Simple by Otter's Latest Teams Software Update | Explore Features on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/before-its-too-late-discover-5-essential-steps-to-prepare-your-windows-e-pc-for-post-support-era-expert-advice-from-zdnet/"><u>Before It's Too Late: Discover 5 Essential Steps to Prepare Your Windows E PC for Post-Support Era | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://driver-error.techidaily.com/demystifying-the-legacy-usb-composite-device-issue-a-complete-guide/"><u>Demystifying the Legacy USB Composite Device Issue - A Complete Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-apples-next-move-the-development-of-an-enhanced-security-operating-system-for-ai-infrastructure/"><u>Exploring Apple's Next Move: The Development of an Enhanced Security Operating System for AI Infrastructure</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-windows-10-update-initiative-where-did-it-go/"><u>Free Windows 10 Update Initiative: Where Did It Go?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/precision-planning-with-ai-how-to-use-chatgpt-effectively-for-scheduling/"><u>Precision Planning with AI: How to Use ChatGPT Effectively for Scheduling</u></a></li>
+<li><a href="https://app-tips.techidaily.com/safeguard-firefox-stored-usernames-and-passwords-using-a-principal-key-tips-by-techexperts/"><u>Safeguard Firefox Stored Usernames and Passwords Using a Principal Key | Tips by TechExperts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-tecno-pop-8-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Tecno Pop 8 Phone Hassle-Free</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-roadmap-for-artifice-intelligence-developments-over-the-next-ten-years-zdnet/"><u>The Roadmap for Artifice Intelligence Developments Over the Next Ten Years | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-last-5-optionsto-ensure-continued-use/"><u>Windows 10 End of Life Approaching: Discover Your Last 5 Optionsto Ensure Continued Use</u></a></li>
+</ul></div>
+

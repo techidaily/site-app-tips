@@ -1,7 +1,7 @@
 ---
 title: "Key Challenges in Leveraging Generative AI: Insights From the Latest Deloitte Research Highlighted by ZDNet"
-date: 2024-09-18 18:22:20
-updated: 2024-09-20 11:11:43
+date: 2024-09-29T18:09:34.123Z
+updated: 2024-10-06T17:57:22.600Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-depth-look-at-the-gecata-game-capture-tool-for-2024/"><u>[New] In-Depth Look at the Gecata Game Capture Tool for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unveiling-apples-powerhouses-the-m1-pro-and-m1-max-analysis-for-2024/"><u>[New] Unveiling Apple's Powerhouses The M1 Pro and M1 Max Analysis for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-avoiding-strikes-youtube-edition/"><u>[Updated] Avoiding Strikes YouTube Edition</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-widening-gulf-in-data-expertise-a-closer-look-at-innovative-solutions-by-companeby-zdnet/"><u>Bridging the Widening Gulf in Data Expertise: A Closer Look at Innovative Solutions by Companeby ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/championing-creativity-in-ai-development-bank-chief-rejects-relying-on-simple-prompts-urges-intellectual-revolution-zdnet/"><u>Championing Creativity in AI Development, Bank Chief Rejects Relying on Simple Prompts; Urges Intellectual Revolution | ZDNET</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/french-novel-selections-top-picks-for-new-language-learners/"><u>French Novel Selections: Top Picks for New Language Learners</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cartoony-conversion-chronicles-top-windowsmac-imaging-software/"><u>In 2024, Cartoony Conversion Chronicles Top Windows/Mac Imaging Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-poco-c55-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Poco C55 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-inside-the-world-of-adobe-cloud-storing-strategies-and-alternative-spaces-reviewed/"><u>In 2024, Inside The World of Adobe Cloud Storing Strategies and Alternative Spaces Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photoshop-partners-for-pixel-perfect-grids-and-frames/"><u>In 2024, Photoshop Partners for Pixel-Perfect Grids and Frames</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-challenges-unlocking-the-full-potential-of-ai-in-your-business-strategy-zdnet/"><u>Navigating Challenges: Unlocking the Full Potential of AI in Your Business Strategy | ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-nokia-105-classic-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Nokia 105 Classic Screen | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapore-invests-24-billion-in-enhancing-ict-frameworks-and-digital-service-offerings-a-deep-dive-into-the-national-strategy/"><u>Singapore Invests $2.4 Billion in Enhancing ICT Frameworks & Digital Service Offerings: A Deep Dive Into the National Strategy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolution-of-creativity-and-commerce-introducing-the-next-generation-ai-developers-unlocking-new-potential-in-tech/"><u>The Evolution of Creativity & Commerce: Introducing the Next Generation AI Developers - Unlocking New Potential in Tech</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-overlooked-foundation-of-ai-success-enhancing-machine-learning-with-essential-data-insights/"><u>The Overlooked Foundation of AI Success: Enhancing Machine Learning with Essential Data Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-complete-ai-workflow-engaging-with-organizations-leading-tech-expertise-zdnet/"><u>Unveiling the Complete AI Workflow: Engaging with Organization's Leading Tech Expertise | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/utilizing-artificial-intelligence-the-key-strategy-to-alleviate-job-burnout-and-combat-alert-overload-for-it-professionals-insights-from-zdnet/"><u>Utilizing Artificial Intelligence: The Key Strategy to Alleviate Job Burnout & Combat Alert Overload for IT Professionals | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029505997-windows-pc/"><u>Windows PCにおすすめ！ビデオの左右反転手順：マルチメディア管理ツール</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-how-many-marketing-teams-are-using-ai-the-answer-may-surprise-you/"><u>ZDNet Reveals: How Many Marketing Teams Are Using AI? The Answer May Surprise You!</u></a></li>
+</ul></div>
+

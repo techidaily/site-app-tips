@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Digital Keykeeper: Essential Steps for Safer Password Management | ZDNet"
-date: 2024-09-29T02:51:47.617Z
-updated: 2024-10-01T07:35:27.215Z
+date: 2024-10-03T19:08:49.792Z
+updated: 2024-10-06T18:15:07.509Z
 tags:
   - password-manager
 categories:
@@ -42,16 +42,10 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -71,10 +65,16 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -98,10 +98,10 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -150,19 +150,24 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-leading-ipad-audio-recorder-software-list-3/"><u>[Updated] 2024 Approved Leading iPad Audio Recorder Software List #3</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-interplay-of-html-css-and-javascript-in-modern-web-pages/"><u>2024 Approved The Interplay of HTML, CSS, and JavaScript in Modern Web Pages</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-writing-game-on-microsoft-365-using-the-new-co-pilot-features-according-to-recent-zdnet-reviews/"><u>Elevate Your Writing Game on Microsoft 365 Using the New Co-Pilot Features, According to Recent ZDNet Reviews!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/essential-auditory-collection-top-1e-spotify-sound-capturers/"><u>Essential Auditory Collection Top 1E Spotify Sound Capturers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-infinix-hot-30i-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Infinix Hot 30i</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a15-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A15 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-lava-blaze-pro-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Lava Blaze Pro 5G Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/launch-budget-friendly-home-based-chatgpt-alternative/"><u>Launch Budget-Friendly, Home-Based ChatGPT Alternative</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/izing-your-content-deciphering-the-minimum-views-needed-for-2024/"><u>Monetizing Your Content Deciphering the Minimum Views Needed for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/resending-deleted-messages-in-microsoft-outlook-a-step-by-step-guide-techradar/"><u>Resending Deleted Messages in Microsoft Outlook: A Step-by-Step Guide - TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rethinking-artificial-intelligence-insights-from-a-leading-ai-researcher-for-innovative-breakthroughs/"><u>Rethinking Artificial Intelligence: Insights From a Leading AI Researcher for Innovative Breakthroughs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simplify-development-enhance-hiring-potential-the-power-of-low-code-technologies-in-recruitment/"><u>Simplify Development, Enhance Hiring Potential - The Power of Low-Code Technologies in Recruitment</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ticking-clock-for-ms-how-microsoft-is-racing-against-time-to-fix-key-windows-10-challenges-by-zdnets-analysis/"><u>Ticking Clock for MS: How Microsoft Is Racing Against Time to Fix Key Windows 10 Challenges by ZDNet's Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranking-web-hosts-comprehensive-reviews-and-ratings-by-industry-experts-zdnet/"><u>Top-Ranking Web Hosts : Comprehensive Reviews and Ratings by Industry Experts | ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-custom-soundtracks-simplified-converting-from-spotify-playlists-to-youtube-music-for-2024/"><u>[New] Custom Soundtracks Simplified Converting From Spotify Playlists to YouTube Music for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-master-the-art-of-messaging-in-discord-apps-for-2024/"><u>[New] Master the Art of Messaging in Discord Apps for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-power-of-words-in-transforming-realities-to-documentaries/"><u>[Updated] In 2024, The Power of Words in Transforming Realities to Documentaries</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-turning-time-on-its-ear-unique-approaches-to-reversed-youtube-content/"><u>[Updated] Turning Time on Its Ear Unique Approaches to Reversed YouTube Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellence-in-image-making-via-premium-grid-makers/"><u>2024 Approved Excellence in Image Making via Premium Grid Makers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-vivid-visuals-brighten-on-android/"><u>2024 Approved Vivid Visuals Brighten on Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/antenna-arrays-can-synthesize-a-desired-radiation-pattern-by-controlling-the-relative-phases-and-amplitudes-of-signals-fed-to-each-element/"><u>Antenna Arrays Can Synthesize a Desired Radiation Pattern by Controlling the Relative Phases and Amplitudes of Signals Fed to Each Element.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybersecurity-breakthroughs-with-ai-how-leading-experts-envision-defeating-digital-threats-zdnet/"><u>Cybersecurity Breakthroughs with AI: How Leading Experts Envision Defeating Digital Threats | ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dead-by-daylight-bugs-be-gone-a-step-by-step-solution-to-error-code-8014/"><u>Dead by Daylight Bugs Be Gone - A Step-by-Step Solution to Error Code 8014</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discord-not-working-heres-how-to-check-if-its-an-outage-or-your-network-problem/"><u>Discord Not Working? Here's How to Check if It’s an Outage or Your Network Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-macos-with-windows-based-tools-and-applications/"><u>Enhancing macOS with Windows-Based Tools and Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-citizen-devops-revolutionize-workload-management-in-corporate-it-systems/"><u>How Citizen DevOps Revolutionize Workload Management in Corporate IT Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capturing-every-frame-the-apeaksoft-reviewed-screen-recorder/"><u>In 2024, Capturing Every Frame The Apeaksoft Reviewed Screen Recorder</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-new-release-a-game-changer-or-annoyance-find-out-how-it-stacks-up-zdnet/"><u>Microsoft's New Release: A Game Changer or Annoyance? Find Out How It Stacks Up [ZDNet]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-overlap-of-kernel-issues-and-cybersecurity-in-linux-environments-strategies-to-maintain-safety/"><u>Navigating the Overlap of Kernel Issues & Cybersecurity in Linux Environments - Strategies to Maintain Safety</u></a></li>
+<li><a href="https://app-tips.techidaily.com/new-advancements-for-ai-tasks-with-latest-kubernetes-version-released-insights-from-tech-experts-at-zdnet/"><u>New Advancements for AI Tasks with Latest Kubernetes Version Released, Insights From Tech Experts at ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ticking-clock-for-microsoft-overcoming-the-imminent-windows-11-dilemma-in-under-a-year-exclusive-insights-from-zdnet/"><u>Ticking Clock for Microsoft: Overcoming the Imminent Windows 11 Dilemma in Under a Year | Exclusive Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-red-hats-lightspeed-an-advanced-ai-solution-tailored-for-kubernetes-admins-with-openshift-zdnet/"><u>Unveiling Red Hat’s Lightspeed: An Advanced AI Solution Tailored for Kubernetes Admins with OpenShift | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/where-is-microsofts-promised-free-windows-10-update-now/"><u>Where Is Microsoft's Promised Free Windows 10 Update Now?</u></a></li>
 </ul></div>
 

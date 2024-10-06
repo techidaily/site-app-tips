@@ -1,7 +1,7 @@
 ---
 title: Exploring the Truth Behind Crypto Anonymity – A Deep Dive Into a Groundbreaking Study
-date: 2024-09-24T19:28:47.459Z
-updated: 2024-09-30T16:17:20.657Z
+date: 2024-09-30T16:23:37.568Z
+updated: 2024-10-06T17:18:32.277Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,16 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -61,10 +67,10 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -121,21 +127,18 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-audio-essentials-latest-speakers/"><u>[New] 2024 Approved Audio Essentials Latest Speakers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-masterclass-on-minimizing-video-footage-in-youtube/"><u>[New] Masterclass on Minimizing Video Footage in YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-beginner-to-expert-a-comprehensive-guide-to-looping-your-favorite-vids-for-2024/"><u>[Updated] From Beginner to Expert A Comprehensive Guide to Looping Your Favorite Vids for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/advrcntr2dll-missing-on-your-computer-fixes-for-neros-critical-component-issue/"><u>Advrcntr2.dll Missing on Your Computer? Fixes for Nero's Critical Component Issue</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-employer-appeal-with-low-code-solutions-insights-from-zdnet/"><u>Boosting Employer Appeal with Low-Code Solutions: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ceo-flips-out-over-team-usage-on-microsoft-teams-office-chaos-unleashed/"><u>CEO Flips Out Over Team Usage on Microsoft Teams - Office Chaos Unleashed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-does-the-conflict-between-russia-and-ukraine-endanger-information-technology-in-ukraine-insights-and-predictions/"><u>How Does the Conflict Between Russia and Ukraine Endanger Information Technology in Ukraine? Insights & Predictions.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-snowflakes-latest-language-model-outshines-metas-llama-less-training-greater-efficiency-zdnet/"><u>How Snowflake's Latest Language Model Outshines Meta's LLaMA 지침 - Less Training, Greater Efficiency | ZDNET</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-best-lyric-video-makers-you-should-try/"><u>In 2024, Best Lyric Video Makers You Should Try</u></a></li>
-<li><a href="https://app-tips.techidaily.com/innovating-communication-technology-sony-research-joins-forces-with-ai-singapore-for-advanced-large-language-model-development-zdnet-insights/"><u>Innovating Communication Technology: Sony Research Joins Forces with AI Singapore for Advanced Large Language Model Development | ZDNET Insights</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/matters-top-educational-youtube-picks/"><u>Mind Matters Top Educational YouTube Picks</u></a></li>
-<li><a href="https://facebook.techidaily.com/propel-interactive-platforms-with-stories-and-page-polling/"><u>Propel Interactive Platforms with Stories & Page Polling</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-communication-with-vivaldi-introducing-a-superior-mail-client-experience-digital-trends/"><u>Revolutionizing Communication with Vivaldi - Introducing a Superior Mail Client Experience | Digital Trends</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-2a-understanding-grounding-in-antenna-systems/"><u>Section 2A: Understanding Grounding in Antenna Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-optimizing-your-gameplay-in-tiny-tinas-wonderlands-for-pc/"><u>Troubleshooting and Optimizing Your Gameplay in Tiny Tina's Wonderlands for PC</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-high-connectivity-with-the-budget-friendly-tp-link-archer-a9-an-under-100-wireless-router-review/"><u>Unlocking High Connectivity with the Budget-Friendly TP-Link Archer A9: An Under-$100 Wireless Router Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-windows-music-managers/"><u>2024 Approved Best Windows Music Managers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebooks-forgotten-treasures-how-to-rescue-conversations-and-videos/"><u>2024 Approved Facebook's Forgotten Treasures How to Rescue Conversations and Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevating-software-creation-with-github-copilots-productive-precision-insights-from-zdnet/"><u>Elevating Software Creation with GitHub Copilot's Productive Precision - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/engaging-epics-the-most-gripping-yt-stories-to-follow-this-year/"><u>Engaging Epics The Most Gripping YT Stories to Follow This Year</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-tech-adopts-the-ops-approach-amidst-emerging-challenges-zdnet-insights/"><u>Enterprise Tech Adopts the 'Ops' Approach Amidst Emerging Challenges | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-seamless-cross-platform-integration-chrome-os-welcomes-windows-apps-via-exciting-new-collaboration/"><u>Experience Seamless Cross-Platform Integration: Chrome OS Welcomes Windows Apps via Exciting New Collaboration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/grounding-systems-must-comply-with-national-and-international-standards-to-ensure-they-are-safe-and-do-not-cause-harmful-interference/"><u>Grounding Systems Must Comply with National and International Standards to Ensure They Are Safe and Do Not Cause Harmful Interference.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-tech-professionals-can-overcome-burnout-with-positive-developments-discoveries-by-zdnet/"><u>How Tech Professionals Can Overcome Burnout with Positive Developments - Discoveries by ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-brands-of-steadicams-for-professional-drones-in-film/"><u>Leading Brands of Steadicams for Professional Drones in Film</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-hurdles-in-wolcen-mayhem-mastery-pc-edition/"><u>Overcoming Technical Hurdles in Wolcen: Mayhem Mastery - PC Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/premium-tools-for-virtual-meeting-efficiency-for-2024/"><u>Premium Tools for Virtual Meeting Efficiency for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/transition-effortlessly-top-10-alternatives-to-flvto-for-youtube-for-2024/"><u>Transition Effortlessly Top 10 Alternatives to Flvto For YouTube for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-ai-driven-success-for-any-size-business-using-anthropics-latest-enterprise-offering-the-claude-upgrade-zdnet-insights/"><u>Unlock AI-Driven Success for Any Size Business Using Anthropic's Latest Enterprise Offering, The Claude Upgrade | ZDNET Insights</u></a></li>
 </ul></div>
 

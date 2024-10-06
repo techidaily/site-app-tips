@@ -1,7 +1,7 @@
 ---
 title: Tenfold Surge in Artifice Intelligence Initiatives This Year, Confirms ZDNet Insight Survey
-date: 2024-09-28T00:17:56.582Z
-updated: 2024-10-01T01:49:34.812Z
+date: 2024-10-01T18:52:54.780Z
+updated: 2024-10-06T17:48:05.930Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +181,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-audio-essentials-latest-speakers/"><u>[New] 2024 Approved Audio Essentials Latest Speakers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-express-faster-window-photo-sorter/"><u>[New] Express Faster Window Photo Sorter</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726026358635-pc/"><u>無料動画連結ツール:PC用優秀なオプションと簡単操作ガイド</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ascending-the-rankings-iphones-top-selfie-accessories/"><u>Ascending the Rankings IPhone's Top Selfie Accessories</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-progress-toward-a-unified-vision-insights-from-zdnet/"><u>Bridging the Tech & Business Divide: Progress Toward a Unified Vision - Insights From ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-when-your-realtek-microphone-fails/"><u>Effective Solutions for When Your Realtek Microphone Fails</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-recent-payment-platform-failures-impacts-on-smbs-business-insights/"><u>Navigating Recent Payment Platform Failures: Impacts on SMBs | Business Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-challenge-of-upgrading-from-ubuntu-2404-a-step-by-step-guide/"><u>Navigating the Challenge of Upgrading From Ubuntu 24.04 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Itel A05s? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-non-working-usb-portable-internet-sharing/"><u>Step-by-Step Solutions for Non-Working USB Portable Internet Sharing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-video-conference-tools-of-2022-features-and-reviews-pcmag/"><u>Top Rated Video Conference Tools of 2022: Features & Reviews - PCMag</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ubuntu-2404-unveiled-the-latest-lightning-speed-linux-os-with-enhanced-security-features-zdnet/"><u>Ubuntu 24.04 Unveiled: The Latest, Lightning-Speed Linux OS with Enhanced Security Features | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-whats-next-from-microsoft-potential-solutions-or-more-nuisances-learn-the-details-zdnet/"><u>Unveiling What's Next From Microsoft - Potential Solutions, Or More Nuisances? Learn the Details [ZDNet]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-navigating-safe-mode-and-pip-features-on-iphone-ipad-and-macos/"><u>[Updated] 2024 Approved Navigating Safe Mode and PIP Features on iPhone, iPad & MacOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-supercharge-your-account-top-10-instagram-must-haves/"><u>[Updated] 2024 Approved Supercharge Your Account Top 10 Instagram Must-Haves</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-blurry-looks-simple-ways-to-hide-identities-in-pictures/"><u>[Updated] In 2024, Blurry Looks Simple Ways to Hide Identities in Pictures</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oppo-reno-10-pro-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Oppo Reno 10 Pro 5G without App | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieving-synergy-how-tech-and-business-are-finally-joining-forces-today-zdnet/"><u>Achieving Synergy: How Tech & Business Are Finally Joining Forces Today | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-progressive-upgrades-during-artificial-intelligence-revolution-its-pledge-as-featured-on-zdnet/"><u>Embracing Progressive Upgrades During Artificial Intelligence Revolution: IT's Pledge as Featured on ZDNET</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/capture-to-curve-an-insider-look-at-editing-and-sharing-360-videos-on-youtube/"><u>From Capture to Curve An Insider Look at Editing and Sharing 360° Videos on YouTube</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-thanksgiving-day-a-comparative-view/"><u>Global Thanksgiving Day: A Comparative View</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-understanding-video-storage-in-24-hours/"><u>In 2024, Understanding Video Storage in 24-Hours</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-edge-in-hyperconvergence-the-elite-vendors-featured-on-zdnet/"><u>Leading Edge in Hyperconvergence: The Elite Vendors , Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-hybrid-cloud-challenges-with-the-latest-enhancements-of-red-hats-enterprise-linux-distribution/"><u>Mastering Hybrid Cloud Challenges with the Latest Enhancements of Red Hat's Enterprise Linux Distribution</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-s17-pro-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from S17 Pro.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-new-release-of-robust-enduring-linux-kernel-for-extended-lifetime-support/"><u>ZDNet Exclusive: New Release of Robust, Enduring Linux Kernel for Extended Lifetime Support</u></a></li>
 </ul></div>
 

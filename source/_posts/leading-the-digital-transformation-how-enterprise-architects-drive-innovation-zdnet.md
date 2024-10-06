@@ -1,7 +1,7 @@
 ---
 title: "Leading the Digital Transformation: How Enterprise Architects Drive Innovation | ZDNet"
-date: 2024-09-19 18:21:53
-updated: 2024-09-20 12:43:31
+date: 2024-10-03T16:53:32.581Z
+updated: 2024-10-06T16:05:14.167Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,25 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-exceptional-book-trailer-selections/"><u>[Updated] Exceptional Book Trailer Selections</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bluetooth-basics-for-techies-connecting-pcs-with-high-quality-sound-systems/"><u>Bluetooth Basics for Techies: Connecting PCs with High-Quality Sound Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-and-critique-of-the-vizmato-application/"><u>Comprehensive Analysis & Critique of the Vizmato Application</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-techniques-to-fix-and-prevent-power-surges-in-your-computers-usb-connections-on-windows-10/"><u>Effective Techniques to Fix and Prevent Power Surges in Your Computer's USB Connections on Windows 10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-road-safety-with-the-11-most-effective-apps-for-handsfree-sms-access/"><u>Enhance Road Safety with the 11 Most Effective Apps for Handsfree SMS Access</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-twitter-visual-content-proportions/"><u>In 2024, Twitter Visual Content Proportions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-to-downloading-drivers-for-your-asus-z370-e-platform/"><u>Quick Guide to Downloading Drivers for Your ASUS Z370-E Platform</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-guide-5-methods-to-securely-backup-your-iphone-applications/"><u>Simple Guide: 5 Methods to Securely Backup Your iPhone Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-biometric-lock-screen-applications-for-your-android-device/"><u>Top 10 Biometric Lock Screen Applications for Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-of-free-tools-create-and-share-laugh-out-loud-memes-anywhere-anytime/"><u>Ultimate List of Free Tools: Create and Share Laugh-Out-Loud Memes Anywhere, Anytime</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/understanding-the-shift-navigating-posting-in-an-algorithm-world-for-2024/"><u>Understanding the Shift Navigating Posting in an Algorithm World for 2024</u></a></li>
+</ul></div>
+

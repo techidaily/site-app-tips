@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Ultimate Ranking: The Leading Antivirus Solutions"
-date: 2024-09-28T08:22:36.949Z
-updated: 2024-10-01T01:07:38.443Z
+date: 2024-09-30T16:13:14.062Z
+updated: 2024-10-06T17:28:51.420Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +187,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-master-zoom-recording-with-essential-gear/"><u>[New] 2024 Approved Master Zoom Recording with Essential Gear</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-back-track-technique-reverse-video-in-ios-devices-for-2024/"><u>[New] Back-Track Technique Reverse Video in iOS Devices for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-best-budget-switch-emulation-tools/"><u>[New] In 2024, Best Budget Switch Emulation Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2022s-leading-collaborative-software-comprehensive-rankings-for-peak-productivity/"><u>2022'S Leading Collaborative Software: Comprehensive Rankings for Peak Productivity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/declutter-your-codebase-fixing-disarray-in-linuxopen-source-guides-on-zdnet/"><u>Declutter Your Codebase: Fixing Disarray in Linux/Open Source Guides on ZDNet.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/excellence-unleashed-top-tech-for-your-workspace-for-2024/"><u>Excellence Unleashed - Top Tech For Your Workspace for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/instant-freeze-capture-feature-guide/"><u>Instant Freeze Capture Feature Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-covid-19-vaccine-scheduling-solutions-reviewed-and-compared-itadvisor/"><u>Leading COVID-19 Vaccine Scheduling Solutions Reviewed & Compared - ITAdvisor</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-system-sync-resurrecting-unresponsive-windows-photoshop/"><u>Seamless System Sync: Resurrecting Unresponsive Windows Photoshop</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-artificial-intelligence-projected-breakthroughs-in-the-coming-years-zdnet/"><u>The Future of Artificial Intelligence: Projected Breakthroughs in the Coming Years - ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-restricting-removable-storage-via-windows-settings/"><u>Tips for Restricting Removable Storage via Windows Settings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-team-collaboration-software-of-2022-ultimate-list-and-reviews-techradar/"><u>Top Team Collaboration Software of 2022: Ultimate List and Reviews | TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-list-of-the-most-popular-linux-os-choices-for-coders-according-to-pcmagazine/"><u>Ultimate List of the Most Popular Linux OS Choices for Coders, According to PCMagazine</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-crimson-classic-codec/"><u>[New] 2024 Approved Crimson Classic Codec</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximizing-your-time-best-ways-to-follow-facebook-live/"><u>[New] 2024 Approved Maximizing Your Time Best Ways to Follow Facebook Live</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-from-ordinary-to-stunning-photo-tile-magic/"><u>[New] From Ordinary to Stunning Photo Tile Magic</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beat-the-hate-smoothly-add-tracks-into-your-video-on-windows-11/"><u>[Updated] Beat the Hate Smoothly Add Tracks Into Your Video on Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-exploring-free-screen-capture-tools/"><u>[Updated] In 2024, Exploring Free Screen Capture Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-strategies-to-resolve-android-whatsapp-backup-issues-top-5-tips/"><u>Best Strategies to Resolve Android WhatsApp Backup Issues: Top 5 Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-nubia-red-magic-8s-pro-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-steps-to-accessing-whatsapp-anonymously-no-phone-required/"><u>Comprehensive Steps to Accessing WhatsApp Anonymously: No Phone Required</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620197018-expert-tips-for-retrieving-lost-whatsapp-data-on-ios-recover-texts-images-movies-and-sounds-easily/"><u>Expert Tips for Retrieving Lost WhatsApp Data on iOS - Recover Texts, Images, Movies & Sounds Easily!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-retrieve-older-whatsapp-messages-a-guide-to-accessing-deleted-or-archived-conversations/"><u>How to Retrieve Older WhatsApp Messages: A Guide to Accessing Deleted or Archived Conversations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nokia-105-classic-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Nokia 105 Classic Lock Screen Password?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-friends-into-your-chat-list-a-comprehensive-tutorial-for-ios-and-android-users-of-whatsapp/"><u>Integrating Friends Into Your Chat List: A Comprehensive Tutorial for iOS & Android Users of WhatsApp</u></a></li>
+<li><a href="https://windows11.techidaily.com/powertoys-lockmaster-a-compreayers-guide-to-files/"><u>PowerToys Lockmaster: A Compreayer's Guide to Files</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revise-your-mobile-details-easily-the-ultimate-walkthrough-for-switching-numbers-on-whatsapp/"><u>Revise Your Mobile Details Easily: The Ultimate Walkthrough for Switching Numbers on WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-adding-new-contacts-in-whatsapp-across-iphone-and-android-devices/"><u>Step-by-Step Guide: Adding New Contacts in WhatsApp Across iPhone & Android Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723001475674-troubleshooting-performance-hitches-in-forza-horizon-5-solutions-included/"><u>Troubleshooting Performance Hitches in Forza Horizon 5 - Solutions Included!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-how-to-restore-deleted-whatsapp-conversations-on-android-phones/"><u>Ultimate Guide: How to Restore Deleted WhatsApp Conversations on Android Phones</u></a></li>
 </ul></div>
 

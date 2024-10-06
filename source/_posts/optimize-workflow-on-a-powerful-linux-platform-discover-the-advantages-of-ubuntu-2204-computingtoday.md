@@ -1,7 +1,7 @@
 ---
 title: "Optimize Workflow on a Powerful Linux Platform: Discover the Advantages of Ubuntu 22.04 | ComputingToday"
-date: 2024-09-18 23:31:46
-updated: 2024-09-20 10:24:23
+date: 2024-09-29T18:59:00.682Z
+updated: 2024-10-06T17:37:04.342Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-effortlessly-link-zoom-events-across-ios-android-and-desktops/"><u>[New] 2024 Approved Effortlessly Link Zoom Events Across iOS, Android, and Desktops</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-perfecting-the-science-of-instagram-highlight-recovery-for-2024/"><u>[New] Perfecting the Science of Instagram Highlight Recovery for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-elite-twitters-shortlist-of-top-tiktok-hits/"><u>2024 Approved The Elite Twitter's Shortlist of Top TikTok Hits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/6-effective-methods-for-restoring-your-icloud-account-password/"><u>6 Effective Methods for Restoring Your iCloud Account Password</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-fixes-for-downloading-image-failed-on-ios-1211-top-7-methods/"><u>Best Fixes for 'Downloading Image Failed' On iOS 12/11: Top 7 Methods</u></a></li>
+<li><a href="https://fox-access.techidaily.com/budget-buyers-guide-to-drone-tech-under-100-for-2024/"><u>Budget Buyers' Guide to Drone Tech Under $100 for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-beantech-bitwatch-s1-plus-revealed-the-ultimate-affordable-smartwatch-analysis/"><u>Comprehensive Beantech Bitwatch S1 Plus Revealed: The Ultimate Affordable Smartwatch Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-start-guide-mastering-icloud-photo-sharing-from-scratch/"><u>Easy Start Guide: Mastering iCloud Photo Sharing From Scratch</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-easily-and-instantly-unlock-your-device-from-apples-icloud/"><u>How to Easily and Instantly Unlock Your Device From Apple's iCloud</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-playing-avatar-frontiers-of-pandora-on-your-device/"><u>Step-by-Step Solutions for Playing Avatar: Frontiers of Pandora on Your Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-guide-to-speedy-windows-inspecting-for-2024/"><u>The Essential Guide to Speedy Windows Inspecting for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-free-gaming-solutions-for-the-common-geforce-experience-error-message/"><u>Trouble-Free Gaming: Solutions for the Common GeForce Experience Error Message</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-restoring-and-repairing-failed-icloud-backups/"><u>Troubleshooting Guide: Restoring and Repairing Failed iCloud Backups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620263135-ultimate-guide-steps-for-removing-your-icloud-email-address-top-strategies-inside/"><u>Ultimate Guide: Steps for Removing Your iCloud Email Address - Top Strategies Inside!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-steps-to-update-your-icloud-settings-on-an-iphone/"><u>Ultimate Guide: Steps to Update Your iCloud Settings on an iPhone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-from-square-to-wide-how-to-adjust-video-shape/"><u>Updated 2024 Approved From Square to Wide How to Adjust Video Shape</u></a></li>
+</ul></div>
+

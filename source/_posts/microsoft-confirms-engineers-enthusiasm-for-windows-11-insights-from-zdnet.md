@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Confirms Engineers' Enthusiasm for Windows 11: Insights From ZDNet"
-date: 2024-09-19 22:17:30
-updated: 2024-09-20 11:33:53
+date: 2024-10-03T16:47:44.438Z
+updated: 2024-10-06T16:19:18.893Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-expert-tips-for-high-quality-minecraft-saves/"><u>[New] Expert Tips for High-Quality Minecraft Saves</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-step-by-step-guide-to-effortless-telegram-web-use/"><u>[Updated] 2024 Approved Step-by-Step Guide to Effortless Telegram Web Use</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-excellent-text-plugin-compendium/"><u>2024 Approved Excellent Text Plugin Compendium</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-steps-to-safely-update-or-fresh-install-itunes-without-data-loss/"><u>Complete Guide: Steps to Safely Update or Fresh Install iTunes without Data Loss</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-senuti-app-evaluation-and-top-alternatives-for-both-windows-and-macos-users/"><u>Comprehensive Guide: Senuti App Evaluation & Top Alternatives for Both Windows & macOS Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-someone-fast-a-guide-to-the-top-8-people-search-platforms/"><u>Find Someone Fast: A Guide to the Top 8 People Search Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-activating-an-itunes-gift-card-for-apples-ios-and-macos-platforms/"><u>Guide: Activating An iTunes Gift Card For Apple's iOS & macOS Platforms</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-huawei-nova-y91-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Huawei Nova Y91 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-stay-on-top-the-essential-guide-to-fbs-latest-video-tracks/"><u>In 2024, Stay on Top The Essential Guide to FB's Latest Video Tracks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-fixes-for-recovering-deleted-itunes-content-on-ios-and-macos/"><u>Quick Fixes for Recovering Deleted iTunes Content on iOS & macOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/retrieve-deleted-contact-information-using-itunes-backup-on-ios-devices/"><u>Retrieve Deleted Contact Information Using iTunes Backup on iOS Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/surging-downloads-overcome-the-01kbs-stall-on-windows/"><u>Surging Downloads: Overcome the 0.1KB/S Stall on Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/tech-giants-sparring-over-ideologies/"><u>Tech Giants Sparring Over Ideologies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-solutions-seamlessly-transfer-your-itunes-library-to-android-devices/"><u>Top Solutions: Seamlessly Transfer Your iTunes Library to Android Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/wmv-to-mp3-quick-conversion-guide/"><u>WMV to MP3 - Quick Conversion Guide</u></a></li>
+</ul></div>
+

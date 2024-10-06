@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses Artificial Intelligence & Embracing Rust in Computing | Tech Insights on ZDNet
-date: 2024-09-24T23:45:38.787Z
-updated: 2024-10-01T04:25:26.058Z
+date: 2024-10-01T17:52:30.537Z
+updated: 2024-10-06T18:37:59.746Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +187,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-plex-vs-studio-prodigies/"><u>[New] Plex vs Studio Prodigies</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-save-verbatim-audio-review-notes-for-2024/"><u>[New] Save Verbatim Audio, Review Notes for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/13-premium-cost-free-dvd-viewing-apps-for-windows-11-users-in-depth-reviews-and-comparisons/"><u>13 Premium, Cost-Free DVD Viewing Apps for Windows 11 Users: In-Depth Reviews & Comparisons</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-paving-pathways-in-pixels-the-leading-vr-treadmills-reviewed/"><u>2024 Approved Paving Pathways in Pixels The Leading VR Treadmills Reviewed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/array-synthesis/"><u>Array Synthesis</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/color-fidelity-unleashed-in-hps-dreamcolor-monitor-for-2024/"><u>Color Fidelity Unleashed in HP's DreamColor Monitor for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enterprise-perspectives-on-the-overhyped-yet-underwhelming-reception-of-5g-technology-a-zdnet-discussion/"><u>Enterprise Perspectives on the Overhyped yet Underwhelming Reception of #5G Technology: A ZDNet Discussion</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-perfecting-yt-aesthetics-in-depth-guide-to-banner-and-art-sizing/"><u>In 2024, Perfecting YT Aesthetics In-Depth Guide to Banner & Art Sizing</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/quick-resize-youtube-to-fit-mac-display-ratio/"><u>Quick Resize YouTube to Fit Mac Display Ratio</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-2c-five-increasingly-complex-questions-on-antenna-ground-systems/"><u>Section 2C: Five Increasingly Complex Questions on Antenna Ground Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rising-popularity-of-openstack-and-kata-containers-understanding-their-growing-market-presence/"><u>The Rising Popularity of OpenStack & Kata Containers: Understanding Their Growing Market Presence</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-antivirus-solutions-expert-review-by-zdnet/"><u>Top-Rated Antivirus Solutions - Expert Review by ZDNet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/whats-trending-on-tiktok-and-twittersphere/"><u>What's Trending on TikTok and Twittersphere</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-elevating-your-google-meet-engagement-screen-sharing-tips-for-2024/"><u>[New] Elevating Your Google Meet Engagement Screen Sharing Tips for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-expert-techniques-to-efficiently-manipulate-whiteboards-in-web-conferencing-tools-for-2024/"><u>[New] Expert Techniques to Efficiently Manipulate Whiteboards in Web Conferencing Tools for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-master-the-switch-linking-instagram-with-facebook/"><u>[New] In 2024, Master the Switch Linking Instagram with Facebook</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-optimizing-viewing-distance-youtube-tips-for-2024/"><u>[Updated] Optimizing Viewing Distance YouTube Tips for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/act-now-uncover-the-five-essential-strategies-for-windows-11-users-before-microsoft-discontinues-support-zdnet-tech-analysis/"><u>Act Now: Uncover the Five Essential Strategies for Windows 11 Users Before Microsoft Discontinues Support | ZDNet Tech Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/activating-hidden-taskbar-query-function-in-windows-11/"><u>Activating Hidden Taskbar Query Function in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-the-virtual-realm-with-these-games/"><u>Conquer the Virtual Realm with These Games</u></a></li>
+<li><a href="https://app-tips.techidaily.com/emerging-tech-trends-top-developer-roles-and-key-coding-languages-shaping-the-future-insights-from-zdnet/"><u>Emerging Tech Trends: Top Developer Roles & Key Coding Languages Shaping the Future - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-vulnerability-escalates-with-generative-ai-says-crowdstrike-chief-technology-officer-zdnet-insights/"><u>Enterprise Vulnerability Escalates with Generative AI, Says CrowdStrike Chief Technology Officer | ZDNET Insights</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-13-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 13 to Android | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-of-upgrading-from-ubuntu-linux-2310-to-2404-a-step-by-step-guide/"><u>Navigating the Challenges of Upgrading From Ubuntu Linux 23.10 to 24.04 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/red-hat-enterprise-linux-release-and-hybrid-cloud/"><u>Red Hat, Enterprise Linux Release, and Hybrid Cloud.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/side-lobe-control/"><u>Side Lobe Control</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-windows-11-touch-screen-problem-with-these-5-strategies/"><u>Solve Your Windows 11 Touch Screen Problem with These 5 Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolving-job-landscape-with-ai-how-technology-replaces-and-creates-opportunities-in-training-and-ethics-insights-for-tomorrows-workforce-zdnet/"><u>The Evolving Job Landscape with AI: How Technology Replaces and Creates Opportunities in Training & Ethics | Insights for Tomorrow's Workforce | ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-soviet-union-launches-salyut-1-its-first-multirole-scientific-research-orbital-station-on-april-19th-this-marks-a-milestone-in-space-station-development650/"><u>The Soviet Union Launches Salyut 1, Its First Multirole Scientific Research Orbital Station on April 19Th. This Marks a Milestone in Space Station Development and Research Capabilities.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranking-customer-relationship-management-tools-of-2022-ideal-options-for-small-and-medium-businesses-zdnet-insights/"><u>Top-Ranking Customer Relationship Management Tools of 2022: Ideal Options for Small & Medium Businesses - ZDNet Insights</u></a></li>
 </ul></div>
 

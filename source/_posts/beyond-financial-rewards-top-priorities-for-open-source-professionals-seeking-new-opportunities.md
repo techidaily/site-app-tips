@@ -1,7 +1,7 @@
 ---
 title: "Beyond Financial Rewards: Top Priorities for Open-Source Professionals Seeking New Opportunities"
-date: 2024-09-18 23:33:28
-updated: 2024-09-20 12:37:43
+date: 2024-10-05T17:29:48.325Z
+updated: 2024-10-06T17:57:19.914Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,25 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-get-the-most-out-of-your-content-facebooks-full-screen-tutorial-2023/"><u>[Updated] In 2024, Get the Most Out of Your Content Facebook's Full-Screen Tutorial 2023</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-elevate-your-social-influence-the-six-step-guide-to-instagram-verified-status/"><u>[Updated] In 2024, How to Elevate Your Social Influence The Six-Step Guide to Instagram Verified Status</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-optimal-video-player-for-avi-files-on-devices-for-2024/"><u>[Updated] Optimal Video Player for Avi Files on Devices for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cerebras-releases-revolutionary-wse-section-1-advanced-problem-on-antenna-ground-systems/"><u>Cerebras Releases Revolutionary WSE- # Section 1: Advanced Problem on Antenna Ground Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/data-analysis/"><u>Data Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-panic-windows-11-users-discover-5-effective-strategies-before-official-end-of-service-zdnet/"><u>Don't Panic, Windows 11 Users! Discover 5 Effective Strategies Before Official End of Service | ZDNET</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-civi-3-disney-100th-anniversary-editionmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi Civi 3 Disney 100th Anniversary EditionMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-hurdles-in-ai-implementation-key-takeawives-from-deloitte-survey-zdnet/"><u>Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-great-microsoft-teams-debacle-how-boss-clash-over-communication-tools-shook-an-office/"><u>The Great Microsoft Teams Debacle: How Boss Clash Over Communication Tools Shook an Office</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-lava-storm-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Lava Storm 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-to-achieve-perfect-prints-from-powerpoint-on-pcs/"><u>Winning Strategies to Achieve Perfect Prints From PowerPoint on PCs</u></a></li>
+</ul></div>
+

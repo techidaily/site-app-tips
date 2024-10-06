@@ -1,7 +1,7 @@
 ---
 title: Critical Systems Compromised by Software Glitches Pose Same Dangers as Ransomware Attacks - Insights on ZDNET
-date: 2024-09-19 16:52:52
-updated: 2024-09-20 12:49:50
+date: 2024-10-05T18:53:29.962Z
+updated: 2024-10-06T18:46:46.696Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/"><u>[New] 2024 Approved Exclusive Guide Ranking Most Effective IG Money Makers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-aspect-ratio-guidelines-for-twitter-videos/"><u>[New] In 2024, Aspect Ratio Guidelines for Twitter Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quick-scan-recorder-for-chrome-devices/"><u>[New] Quick Scan Recorder for Chrome Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-tech-tips-snagging-your-fb-status-video/"><u>[Updated] In 2024, Tech Tips Snagging Your FB Status Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamline-your-soundtrack-with-these-playlist-tips-for-youtube/"><u>[Updated] Streamline Your Soundtrack with These Playlist Tips for YouTube</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-template-trick-for-eye-catching-tiktok-creation-mastery-for-2024/"><u>[Updated] The Template Trick for Eye-Catching TikTok Creation Mastery for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-radiance-visionaries-report-on-studio-25-2023/"><u>2024 Approved Radiance Visionaries Report on Studio 25, 2023</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-12-mobile-typing-applications-for-ios-and-android-devices-a-comprehensive-guide/"><u>Best 12 Mobile Typing Applications for iOS and Android Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-superior-android-podcasting-solutions-beyond-player-fm/"><u>Discover Superior Android Podcasting Solutions Beyond Player FM</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-top-21-zedge-tools-for-customizing-your-phone-with-free-ringtones-and-wallpapers-on-iphoneandroid/"><u>Discover the Ultimate Top 21 Zedge Tools for Customizing Your Phone with Free Ringtones & Wallpapers on iPhone/Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-ways-to-keep-your-apps-private-on-smartphones-and-tablets-android-and-apple/"><u>Effective Ways to Keep Your Apps Private on Smartphones & Tablets (Android & Apple)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193676-get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/image-guide-to-install-and-connect-canon-printers/"><u>Image Guide to Install and Connect Canon Printers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581758148-new-lingo-no-stress-save-95-and-speak-smoothly/"><u>New Lingo, No Stress: Save 95% and Speak Smoothly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-most-effective-android-management-software-from-pc-updated-top-picks/"><u>The Most Effective Android Management Software From PC - Updated Top Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-free-online-and-mobile-apps-for-crafting-hilarious-memes-effortlessly/"><u>Top Free Online & Mobile Apps for Crafting Hilarious Memes Effortlessly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-applications-for-seamlessly-casting-your-iphone-display-onto-tv-or-computer/"><u>Top-Rated Applications for Seamlessly Casting Your iPhone Display Onto TV or Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-integrating-home-theater-with-wifi-connectivity/"><u>Ultimate Guide: Integrating Home Theater with WiFi Connectivity</u></a></li>
+</ul></div>
+

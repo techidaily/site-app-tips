@@ -1,7 +1,7 @@
 ---
 title: "The Critical Need for Clarity in Artificer Interests: Exploring the Transparency Gap in AI Evolution | ZDNET"
-date: 2024-09-19 19:56:42
-updated: 2024-09-20 12:39:52
+date: 2024-10-04T17:04:00.138Z
+updated: 2024-10-06T16:10:47.598Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-building-a-strong-network-how-to-form-effective-youtube-partner-relationships/"><u>[Updated] Building a Strong Network How to Form Effective YouTube Partner Relationships</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-perfect-meeting-aesthetics-how-to-blur-video-backgrounds-for-2024/"><u>[Updated] Perfect Meeting Aesthetics How to Blur Video Backgrounds for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-streamline-task-management-with-safaris-picture-in-picture/"><u>[Updated] Streamline Task Management with Safari's Picture In Picture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-iphones-chatgpt-challenges-with-these-fixes/"><u>Conquer iPhone's ChatGPT Challenges with These Fixes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-patch-update-to-log4j-library-available-with-apache-2170-release-cybersecurity-breakthrough-on-zdnet/"><u>Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/defend-your-online-privacy-with-our-exclusive-offer-exceptional-vpn-and-password-management-services-for-a-limited-time-just-30-learn-how-on-zdnet/"><u>Defend Your Online Privacy with Our Exclusive Offer: Exceptional VPN and Password Management Services for a Limited Time, Just $30! Learn How on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-security-transform-your-digital-life-using-the-awarded-30-password-manager-by-zdnet-for-ultimate-protection/"><u>Effortless Security: Transform Your Digital Life Using the Awarded $30 Password Manager by ZDNET for Ultimate Protection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-password-manager-security-expert-tips-and-techniques-zdnet/"><u>Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-realme-11x-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Realme 11X 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-user-memory-lapses-with-biometric-authentication-insights-from-zdnet/"><u>Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/peering-into-ais-unseen-processes-black-box-exploration/"><u>Peering Into AI's Unseen Processes: Black Box Exploration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-your-data-avoid-these-common-mistakes-in-cloud-security-that-attract-cyber-thieves-zdnet/"><u>Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-sensitive-information-under-20month-using-robust-encryption-techniques-insights-from-zdnet/"><u>Secure Your Sensitive Information Under $20/Month Using Robust Encryption Techniques – Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-2024-fortnite-pc-stalling-issues/"><u>Ultimate Guide: Resolving 2024 Fortnite PC Stalling Issues</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Complexities of Implementing Generative AI in Corporations Revealed by Deloitte Survey | ZDNET
-date: 2024-09-17 14:19:34
-updated: 2024-09-20 12:24:30
+date: 2024-10-02T17:15:50.890Z
+updated: 2024-10-06T18:03:35.733Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-effective-techniques-for-crafting-and-changing-fb-video-covers/"><u>[New] 2024 Approved Effective Techniques for Crafting & Changing FB Video Covers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-on-replacing-cellphones-glass-screen-defender/"><u>Comprehensive Guide on Replacing Cellphone's Glass Screen Defender</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-steps-to-accessing-whatsapp-anonymously-no-phone-required/"><u>Comprehensive Steps to Accessing WhatsApp Anonymously: No Phone Required</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/exporting-tweets-as-webmaac-audio-for-2024/"><u>Exporting Tweets as WebM/AAC Audio for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-set-parameters-and-fix-error-87-during-library-loading-process/"><u>How to Correctly Set Parameters and Fix Error 87 During Library Loading Process</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-retrieve-older-whatsapp-messages-a-guide-to-accessing-deleted-or-archived-conversations/"><u>How to Retrieve Older WhatsApp Messages: A Guide to Accessing Deleted or Archived Conversations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-securely-transfer-whatsapp-pictures-from-ios-and-android-devices-without-losing-a-bit-explore-these-3-effective-strategies/"><u>How to Securely Transfer WhatsApp Pictures From iOS and Android Devices without Losing a Bit - Explore These 3 Effective Strategies</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-market-selecting-from-top-15-tripodsmounts/"><u>In 2024, Navigating the Market Selecting From Top 15 Tripods/Mounts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-quick-fixes-for-privacy-concerns-in-piscart-images/"><u>In 2024, Quick Fixes for Privacy Concerns in PiscArt Images</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-friends-into-your-chat-list-a-comprehensive-tutorial-for-ios-and-android-users-of-whatsapp/"><u>Integrating Friends Into Your Chat List: A Comprehensive Tutorial for iOS & Android Users of WhatsApp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-conversion-transforming-your-soundcloud-tracks-into-mp3-format/"><u>Seamless Conversion: Transforming Your SoundCloud Tracks Into MP3 Format</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-preservation-of-your-messages-syncing-whatsapp-chats-with-google-drive-tips-for-smartphones-and-tablets/"><u>Seamless Preservation of Your Messages: Syncing WhatsApp Chats with Google Drive - Tips for Smartphones and Tablets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-adding-new-contacts-in-whatsapp-across-iphone-and-android-devices/"><u>Step-by-Step Guide: Adding New Contacts in WhatsApp Across iPhone & Android Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/r-made-melodies-your-roadmap-for-playlists/"><u>Tailor-Made Melodies Your Roadmap for Playlists</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-on-restoring-past-whatsapp-dialogues-and-mastering-the-art-of-unarchiving-texts/"><u>The Ultimate Tutorial on Restoring Past WhatsApp Dialogues & Mastering the Art of Unarchiving Texts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-how-to-restore-deleted-whatsapp-conversations-on-android-phones/"><u>Ultimate Guide: How to Restore Deleted WhatsApp Conversations on Android Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/update-your-contact-info-a-step-by-step-guide-to-changing-your-phone-number-on-whatsapp/"><u>Update Your Contact Info: A Step-by-Step Guide to Changing Your Phone Number on WhatsApp</u></a></li>
+</ul></div>
+

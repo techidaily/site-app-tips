@@ -1,7 +1,7 @@
 ---
 title: "The Changing Landscape for Software Engineers: Perspectives by Atlassian's Agnes Ro on ZDNet"
-date: 2024-09-19 22:38:48
-updated: 2024-09-20 10:21:44
+date: 2024-10-04T18:03:24.197Z
+updated: 2024-10-06T16:35:02.363Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +116,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +184,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-streamers-dilemma-deciding-between-obs-and-shadowplay/"><u>[New] 2024 Approved Streamers' Dilemma Deciding Between OBS and ShadowPlay</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-annual-salary-details-for-streaming-sensation-pewdiepie/"><u>[New] Annual Salary Details for Streaming Sensation PewDiePie</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-cognitive-conclave-selective-general-knowledge-channels/"><u>[New] Cognitive Conclave Selective General Knowledge Channels</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-15-stabilizers-and-platforms-for-dynamic-gopro-use/"><u>[Updated] In 2024, Top 15 Stabilizers & Platforms for Dynamic GoPro Use</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-a-deeper-dive-into-the-game-five-easy-zooming-methods/"><u>2024 Approved A Deeper Dive Into the Game Five Easy Zooming Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fb-video-ripper-convert-fb-content-to-mp3/"><u>2024 Approved FB Video Ripper Convert FB Content To MP3</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-chatgpt-2erview-insights-on-capabilities-updates-and-handling-server-issues/"><u>Comprehensive ChatGPT 2Erview: Insights on Capabilities, Updates, and Handling Server Issues</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-eva-formerly-ex-journey-ai-chatbot-overview-essential-insights/"><u>Comprehensive EVA (Formerly Ex Journey) AI Chatbot Overview - Essential Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/decoding-eva-ai-a-deep-dive-into-the-transformed-ex-journey-conversational-agent/"><u>Decoding EVA AI - A Deep Dive Into the Transformed Ex Journey Conversational Agent</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-chatgpt-2024-complete-analysis-of-functionality-characteristics-and-server-hiccups/"><u>Exploring ChatGPT 2024: Complete Analysis of Functionality, Characteristics & Server Hiccups</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-lava-storm-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-through-the-best-of-ai-conversational-agents-in-depth-review-of-chatgpt/"><u>Navigating Through The Best of AI Conversational Agents: In-Depth Review Of ChatGPT</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mastering-video-rotation-a-simple-and-efficient-process/"><u>New Mastering Video Rotation A Simple and Efficient Process</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-windowsnvidia-compatibility-hurdle/"><u>Overcoming Windows/Nvidia Compatibility Hurdle</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-d3dx92ndll-missing-error-a-step-by-step-guide/"><u>Resolving d3dx9_2n.dll Missing Error - A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-advanced-chatbot-innovations-combining-gpt-tech-with-astrological-insights/"><u>The Ultimate Guide to Advanced Chatbot Innovations Combining GPT Tech with Astrological Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-expert-assessment-and-key-features-of-the-revolutionary-ai-chatbot-chatsoner/"><u>The Ultimate Walkthrough: Expert Assessment and Key Features of the Revolutionary AI Chatbot, Chatsoner</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-choosing-a-leading-ai-companion-spotlight-on-chatgpts-excellence/"><u>Ultimate Guide to Choosing a Leading AI Companion: Spotlight on ChatGPT's Excellence</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-eva-the-ultimate-guide-to-the-former-ex-journey-ai-bot/"><u>Unveiling the Power of EVA: The Ultimate Guide to the Former Ex Journey AI Bot</u></a></li>
+</ul></div>
+

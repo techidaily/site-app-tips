@@ -1,7 +1,7 @@
 ---
 title: "Navigating Cloud-Native Futures: Unveiling Skillsets & Enhanced Security in Emerging Platforms - Insights From ZDNet"
-date: 2024-09-17 18:33:33
-updated: 2024-09-20 11:46:41
+date: 2024-10-01T18:39:55.703Z
+updated: 2024-10-06T17:11:42.472Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-adeptness-at-mobile-app-development-for-luts/"><u>[Updated] Adeptness at Mobile App Development for LUTs</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-lava-blaze-curve-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Lava Blaze Curve 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-honor-magic-6-lite-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/android-workflow-boosted-transforming-google-docs-into-compatible-ms-word-formats-effortlessly/"><u>Android Workflow Boosted: Transforming Google Docs Into Compatible MS Word Formats Effortlessly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-llama-2-a-comprehensive-guide-for-practical-uses/"><u>Exploring LLaMA 2: A Comprehensive Guide for Practical Uses</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-y100a-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo Y100A Pattern Lock Screen</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-recent-payment-service-interruptions-affect-your-store-an-in-depth-analysis-by-zdnet/"><u>How Recent Payment Service Interruptions Affect Your Store: An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-how-to-optimize-your-steam-experience-with-a-switch-pro-controller/"><u>In 2024, How to Optimize Your Steam Experience with a Switch Pro Controller</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-programming-in-rust-and-balancing-work-life-on-his-macbook-air-exclusive-qanda-featured-by-zdnet/"><u>Linus Torvalds Discusses Programming in Rust & Balancing Work-Life on His MacBook Air - Exclusive Q&A Featured by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-future-the-pivotal-role-of-enterprise-architects-in-todays-tech-evolution-zdnet/"><u>Mastering the Future: The Pivotal Role of Enterprise Architects in Today's Tech Evolution | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-new-era-of-work-a-deep-dive-into-enterprise-transformation-through-decentralized-technologies-and-web3/"><u>Navigating the New Era of Work: A Deep Dive Into Enterprise Transformation Through Decentralized Technologies and Web3</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/screen-recording-essentials-and-competitive-analyses/"><u>Screen Recording Essentials and Competitive Analyses</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-most-efficient-to-do-list-applications-techradar/"><u>Top 10 Most Efficient To-Do List Applications - TechRadar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-screen-capture-tools-comprehensive-guide-pcmag/"><u>Top-Rated Screen Capture Tools: Comprehensive Guide - PCMag</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turn-tod-videos-to-avi-without-cost-quickflip-media-online-editing-tool/"><u>Turn TOD Videos to AVI Without Cost - QuickFlip Media Online Editing Tool</u></a></li>
+<li><a href="https://app-tips.techidaily.com/veteran-linus-developers-endorse-ciq-the-principal-patron-for-rocky-linuxs-launch-computing-world/"><u>Veteran Linus Developers Endorse CIQ: The Principal Patron for Rocky Linux's Launch | Computing World</u></a></li>
+</ul></div>
+

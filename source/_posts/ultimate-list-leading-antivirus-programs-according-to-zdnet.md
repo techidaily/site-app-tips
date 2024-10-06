@@ -1,7 +1,7 @@
 ---
 title: "Ultimate List: Leading Antivirus Programs , According to ZDNet"
-date: 2024-09-30T04:00:52.818Z
-updated: 2024-09-30T17:25:54.479Z
+date: 2024-10-03T16:38:31.139Z
+updated: 2024-10-06T18:09:05.170Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-syncing-zoom-to-your-calendar-on-iphoneandroiddesktop/"><u>[New] 2024 Approved Syncing Zoom to Your Calendar on iPhone/Android/Desktop</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-conquer-job-interviews-with-confidence-and-excellence/"><u>[New] Conquer Job Interviews with Confidence & Excellence</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-high-tech-5-live-screen-recorders-for-2024/"><u>[New] High-Tech 5 Live Screen Recorders for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-success-in-youtubes-creator-hub-for-2024/"><u>[Updated] Crafting Success in YouTube's Creator Hub for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-essential-software-for-efficient-teleconferences/"><u>2024 Approved Essential Software for Efficient Teleconferences</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dynamic-otter-transcription-in-teams-mode-a-comprehensive-guide-for-enhanced-virtual-collaboration/"><u>Dynamic Otter Transcription in Teams Mode: A Comprehensive Guide for Enhanced Virtual Collaboration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-vivaldis-new-inbuilt-email-feature-a-stunningly-excellent-addition/"><u>Experience Vivaldi's New Inbuilt Email Feature: A Stunningly Excellent Addition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-enhancements-in-red-hats-newest-enterprise-linux-release-solutions-for-managing-hybrid-cloud-challenges/"><u>Exploring the Enhancements in Red Hat's Newest Enterprise Linux Release: Solutions for Managing Hybrid Cloud Challenges</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-oppo-find-n3s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppo Find N3s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-elevating-your-pc-from-windows-home-to-professional-version/"><u>Step-by-Step Guide: Elevating Your PC From Windows Home to Professional Version</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-free-vmware-productivity-your-step-by-step-tutorial-on-obtaining-personal-copies-of-fusion-pro-and-workstation-pro-zdnet-insights/"><u>Unlock Free VMware Productivity: Your Step-by-Step Tutorial on Obtaining Personal Copies of Fusion Pro and Workstation Pro | ZDNet Insights</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-the-best-youtube-thumbnail-size/"><u>What's the Best YouTube Thumbnail Size?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-expert-tips-for-seamless-iphone-screen-recordings/"><u>[Updated] In 2024, Expert Tips for Seamless iPhone Screen Recordings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-incorporating-live-streaming-your-ultimate-website-guide/"><u>[Updated] Incorporating Live Streaming Your Ultimate Website Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/5-essential-productivity-hacks-for-streamlining-your-day-to-day-tasks-insights-from-zdnet/"><u>5 Essential Productivity Hacks for Streamlining Your Day-to-Day Tasks: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/buy-ashamapoos-pro-3d-cad-software-version-11-at-a-steal-just-40-on-zdnet-today/"><u>Buy Ashamapoo's Pro 3D CAD Software Version 11 at a Steal: Just $40 on ZDNet Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-top-4-open-source-slack-substitutes-to-elevate-your-teams-communication-game-explore-the-options-on-zdnet/"><u>Discover Top 4 Open-Source Slack Substitutes to Elevate Your Team's Communication Game - Explore the Options on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-updates-to-libreoffice-for-mac-users-a-comprehensive-installation-tutorial-on-zdnet/"><u>Discover Updates to LibreOffice for Mac Users – A Comprehensive Installation Tutorial on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/excel-mastery-how-to-craft-stunning-tables-for-data-presentation/"><u>Excel Mastery: How to Craft Stunning Tables for Data Presentation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-yours-before-it-sells-out-exclusive-moto-tags-for-motorcycles-are-ready/"><u>Get Yours Before It Sells Out: Exclusive Moto Tags For Motorcycles Are Ready!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-the-importance-of-ai-integration-and-rust-language-in-evolving-the-linux-kernel-the-core-aspect-driving-tech-forward/"><u>Linus Torvalds Discusses the Importance of AI Integration and Rust Language in Evolving the Linux Kernel - The Core Aspect Driving Tech Forward</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-btballloondll-file-not-presentmissing-issue-on-your-pc/"><u>Resolving the btballloon.dll File Not Present/Missing Issue on Your PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/tp-link-re200-ac750-wi-fi-range-extender-review/"><u>TP-Link RE200 AC750 Wi-Fi Range Extender Review</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unveiling-secret-youtube-clips-a-step-by-step-guide/"><u>Unveiling Secret YouTube Clips A Step-by-Step Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-siris-tone-a-guide-to-altering-siris-vocal-style/"><u>Updated Mastering Siris Tone A Guide to Altering Siris Vocal Style</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-update-needed-microsofts-crucial-challenge-with-windows-10-countdown-begins/"><u>Urgent Update Needed: Microsoft's Crucial Challenge with Windows 10 Countdown Begins!</u></a></li>
 </ul></div>
 

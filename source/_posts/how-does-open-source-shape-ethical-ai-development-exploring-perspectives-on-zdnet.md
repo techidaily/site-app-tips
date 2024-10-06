@@ -1,7 +1,7 @@
 ---
 title: How Does Open Source Shape Ethical AI Development? Exploring Perspectives on ZDNet
-date: 2024-09-17 21:48:38
-updated: 2024-09-20 11:23:37
+date: 2024-10-02T18:29:38.344Z
+updated: 2024-10-06T17:14:34.453Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-fundamentals-of-visual-communication-through-motion/"><u>[New] Fundamentals of Visual Communication Through Motion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-wacom-tablet-driver-not-found-on-windows-10/"><u>[Solved] Wacom Tablet Driver Not Found on Windows 10</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-exploring-media-magic-an-in-depth-analysis-of-magix-vpx/"><u>[Updated] 2024 Approved Exploring Media Magic An In-Depth Analysis of Magix VPX</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/15-high-performing-instagram-content-extractors/"><u>15 High-Performing Instagram Content Extractors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-bring-more-life-to-your-instagram-feed-with-these-4-gif-tips/"><u>2024 Approved Bring More Life to Your Instagram Feed with These 4 GIF Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bing-chat-unveiled-leveraging-artificial-intelligence-and-powerful-gpt-4-algorithms/"><u>Bing Chat Unveiled: Leveraging Artificial Intelligence and Powerful GPT-4 Algorithms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/convert-twitter-vids-to-customized-soundtracks/"><u>Convert Twitter Vids to Customized Soundtracks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-how-microsofts-bing-chat-revolutionizes-communication-through-advanced-gpt-4-technology/"><u>Discover How Microsoft's Bing Chat Revolutionizes Communication Through Advanced GPT-4 Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-power-of-chatsonic-an-in-depth-review-revealing-essential-facts-about-this-advanced-ai-chatbot/"><u>Discover the Power of Chatsonic – An In-Depth Review Revealing Essential Facts About This Advanced AI Chatbot</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-why-chatai-gdt-and-aichat-stand-out-as-top-ranking-ai-chatbot-apps-for-downloads/"><u>Discover Why ChatAi GDT & AiChat Stand Out as Top-Ranking AI Chatbot Apps for Downloads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-world-of-pixiz-turning-stills-into-storytelling-video/"><u>In 2024, Navigating the World of Pixiz Turning Stills Into Storytelling Video</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-comprehensive-guide-to-bings-ai-integration-with-the-cutting-edge-gpt-4-model/"><u>The Comprehensive Guide to Bing's AI Integration with the Cutting-Edge GPT-4 Model</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trouble-with-accessing-your-aol-email-heres-what-might-be-going-on/"><u>Trouble with Accessing Your AOL Email? Here's What Might Be Going On</u></a></li>
+</ul></div>
+

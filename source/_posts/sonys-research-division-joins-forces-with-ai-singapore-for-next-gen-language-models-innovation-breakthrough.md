@@ -1,7 +1,7 @@
 ---
 title: Sony's Research Division Joins Forces with AI Singapore for Next-Gen Language Models | Innovation Breakthrough
-date: 2024-09-19 20:54:39
-updated: 2024-09-20 12:27:36
+date: 2024-10-02T17:36:07.211Z
+updated: 2024-10-06T16:25:57.077Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,19 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-green-screen-basics-for-filmmakers-starting-out-for-2024/"><u>[New] Green Screen Basics for Filmmakers Starting Out for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-content-for-success-how-to-start-your-own-youtube-chanel/"><u>[Updated] In 2024, Crafting Content for Success How to Start Your Own YouTube Chanel</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-secrets-of-editing-numerical-data-in-tiktoks/"><u>[Updated] The Secrets of Editing Numerical Data in TikToks</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-an-ai-video-maker/"><u>2024 Approved What Is an AI Video Maker?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beware-these-sham-ai-tools-risky-for-data-security/"><u>Beware: These Sham AI Tools Risky for Data Security</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-chatgpt-2erview-insights-on-capabilities-updates-and-handling-server-issues/"><u>Comprehensive ChatGPT 2Erview: Insights on Capabilities, Updates, and Handling Server Issues</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-eva-formerly-ex-journey-ai-chatbot-overview-essential-insights/"><u>Comprehensive EVA (Formerly Ex Journey) AI Chatbot Overview - Essential Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/decoding-eva-ai-a-deep-dive-into-the-transformed-ex-journey-conversational-agent/"><u>Decoding EVA AI - A Deep Dive Into the Transformed Ex Journey Conversational Agent</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-affordable-premium-asmr-audio-equipment/"><u>Discover Affordable Premium ASMR Audio Equipment</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-setup-of-your-soundmax-device-with-windows-pc-using-latest-drivers/"><u>Easy Setup of Your SoundMAX Device with Windows PC Using Latest Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-vs-comparison-our-in-depth-review-of-we-try-mistral-ais-le-chat-with-chatgpt/"><u>Experience Vs. Comparison: Our In-Depth Review of We Try Mistral AI's Le Chat with ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-chatgpt-2024-complete-analysis-of-functionality-characteristics-and-server-hiccups/"><u>Exploring ChatGPT 2024: Complete Analysis of Functionality, Characteristics & Server Hiccups</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionize-conversations-with-these-top-10-artificial-intelligence-chatbot-tools/"><u>Revolutionize Conversations with These Top 10 Artificial Intelligence Chatbot Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-complete-insight-into-eva-ai-ex-journey-chatbot-a-must-read-reveal-for-tech-enthusiasts/"><u>The Complete Insight Into EVA AI (Ex-Journey) Chatbot: A Must-Read Reveal for Tech Enthusiasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-chatsonic-the-ultimate-review-for-insights-into-an-intelligent-artificial-conversational-agent/"><u>Unveiling Chatsonic: The Ultimate Review for Insights Into an Intelligent Artificial Conversational Agent</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-eva-the-ultimate-guide-to-the-former-ex-journey-ai-bot/"><u>Unveiling the Power of EVA: The Ultimate Guide to the Former Ex Journey AI Bot</u></a></li>
+</ul></div>
+

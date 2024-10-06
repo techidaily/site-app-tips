@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing the Cloud: Key Tech Leaders Anticipate Significant Shifts in Business Models – Exclusive ZDNet Report"
-date: 2024-09-26T06:19:08.363Z
-updated: 2024-10-01T03:28:09.567Z
+date: 2024-09-30T19:06:48.396Z
+updated: 2024-10-06T16:26:23.400Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,17 +181,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ecoding-the-visual-language-of-youtube-thumbnails/"><u>[New] Decoding the Visual Language of YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-full-disclosure-on-the-t5-cameras-action-features-for-2024/"><u>[Updated] Full Disclosure on the T5 Camera's Action Features for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-livestream-leaders-clash-for-2024/"><u>[Updated] LiveStream Leaders Clash for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-most-out-of-your-epson-printer-by-updating-its-drivers-a-windows-easily-accessible-guide/"><u>Get the Most Out of Your Epson Printer by Updating Its Drivers – A Windows Easily Accessible Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-does-the-bitwarden-prompt-for-master-password-work-tips-to-turn-it-on-easily/"><u>How Does the Bitwarden Prompt for Master Password Work? Tips to Turn It On Easily!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-enriching-room-atmosphere-with-natures-radiant-energy/"><u>In 2024, Enriching Room Atmosphere with Nature's Radiant Energy</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-12-pro-max-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 12 Pro Max From Your Apple ID</u></a></li>
-<li><a href="https://app-tips.techidaily.com/major-new-features-1password-mobile-app-receives-extensive-upgrade-zdnet/"><u>Major New Features: 1Password Mobile App Receives Extensive Upgrade - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/major-revamp-enhanced-security-and-features-in-the-latest-1password-app-for-smartphones/"><u>Major Revamp: Enhanced Security & Features in the Latest 1Password App for Smartphones!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/projectweb-shutdown-announced-fujitsu-reacts-to-japans-government-data-leaks-insights-from-zdnet/"><u>ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/targeted-health-transformation-using-chatgpt-wisely/"><u>Targeted Health Transformation: Using ChatGPT Wisely</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-vn-video-editor-pc-version-a-compact-review/"><u>Updated VN Video Editor PC Version A Compact Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-foremost-techniques-for-transforming-seminars-into-videos-for-2024/"><u>[New] The Foremost Techniques for Transforming Seminars Into Videos for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-shield-yourself-online-strategies-to-hide-visual-identities/"><u>[Updated] 2024 Approved Shield Yourself Online Strategies to Hide Visual Identities</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-impressive-book-trails-presented/"><u>[Updated] Impressive Book Trails Presented</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-gamers-choice-top-software-for-live-scenes/"><u>2024 Approved Gamers' Choice Top Software for Live Scenes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seeing-the-shades-uncovering-disguised-viewer-interactions/"><u>2024 Approved Seeing the Shades Uncovering Disguised Viewer Interactions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-use-your-itunes-gift-card-on-ios-devices-and-mac-computers/"><u>How To Use Your iTunes Gift Card On iOS Devices And Mac Computers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-note-30-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix Note 30 Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revive-missing-iphone-apps-and-photos-data-recovery-solutions-for-your-itunes-backups/"><u>Revive Missing iPhone Apps and Photos: Data Recovery Solutions for Your iTunes Backups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-methods-revive-your-lost-itunes-downloads-across-all-devices/"><u>Simple Methods: Revive Your Lost iTunes Downloads Across All Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-your-connectivity-issues-what-to-try-when-itunes-fails-to-detect-iphone-ipad-or-ipod/"><u>Solving Your Connectivity Issues: What To Try When iTunes Fails To Detect iPhone, iPad Or iPod</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-top-6-itunes-visualizers-bring-your-music-to-life-with-stunning-animations/"><u>The Ultimate Top 6 iTunes Visualizers: Bring Your Music to Life with Stunning Animations</u></a></li>
 </ul></div>
 

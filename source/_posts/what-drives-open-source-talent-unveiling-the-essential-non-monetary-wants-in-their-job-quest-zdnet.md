@@ -1,7 +1,7 @@
 ---
 title: What Drives Open-Source Talent? Unveiling the Essential Non-Monetary Wants in Their Job Quest | ZDNET
-date: 2024-09-19 10:46:40
-updated: 2024-09-20 10:46:52
+date: 2024-09-30T18:05:07.683Z
+updated: 2024-10-06T18:35:33.009Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-capturing-action-fraps-recorder-insights/"><u>[New] Capturing Action Fraps Recorder Insights</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-sonic-artistry-and-video-prowess-in-sonys-xperia-xz/"><u>[New] Sonic Artistry and Video Prowess in Sony's Xperia XZ</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-discover-the-leading-8-web-resources-for-free-3d-text-psdfiles/"><u>[Updated] In 2024, Discover the Leading 8 Web Resources for Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-travel-film-kit-the-necessary-arsenal/"><u>[Updated] In 2024, Travel Film Kit The Necessary Arsenal</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-cheerful-footage-extractor-analysis/"><u>2024 Approved Cheerful Footage Extractor Analysis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-step-into-the-metaverse-analyzing-6-engrossing-cases/"><u>2024 Approved Step Into the Metaverse Analyzing 6 Engrossing Cases</u></a></li>
+<li><a href="https://app-tips.techidaily.com/fujitsu-halted-projectweb-following-cybersecurity-incidents-in-japanese-administration-exclusive-coverage-by-zdnet/"><u>Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-passwords-under-control-at-half-price-save-big-now-only-50-off-keeper-manager-gizmonews/"><u>Get Your Passwords Under Control at Half Price! Save Big Now - Only 50% Off Keeper Manager | GizmoNews</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-mp4-video-editing-software-with-cutting-capabilities/"><u>In 2024, Free MP4 Video Editing Software with Cutting Capabilities</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-video-streaming-tools-a-focus-on-zoom-with-youtube/"><u>In 2024, Navigating Video Streaming Tools A Focus on Zoom with YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-20-anime-openers-soundscape/"><u>In 2024, Prime 20 Anime Openers' Soundscape</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-1password-a-high-value-investment-comprehensive-expert-evaluation-of-this-top-tier-password-solution-insights-from-tech-sector-leaders/"><u>Is 1Password a High-Value Investment? Comprehensive Expert Evaluation of This Top-Tier Password Solution - Insights From Tech Sector Leaders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/persistent-password-problems-why-we-keep-reusing-compromised-passwords-despite-risks/"><u>Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-password-security-applications-and-how-to-save-on-them-according-to-zdnet/"><u>Top 5 Password Security Applications & How to Save on Them, According to ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-expert-analysis-on-1password-high-quality-password-management-solutions-that-deliver-value/"><u>Top-Ranked Expert Analysis on 1Password - High-Quality Password Management Solutions That Deliver Value</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-security-why-embracing-a-password-manager-is-essential-now-more-than-ever/"><u>Unlocking Security: Why Embracing a Password Manager Is Essential Now More Than Ever</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-people-favor-biometrics-over-passwords-due-to-memory-challenges-zdnet-analysis/"><u>Why People Favor Biometrics Over Passwords Due to Memory Challenges | ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-protonmails-new-password-tool-promises-unbreakable-end-to-end-security-for-users/"><u>ZDNet Exclusive: ProtonMail's New Password Tool Promises Unbreakable End-to-End Security for Users</u></a></li>
+</ul></div>
+

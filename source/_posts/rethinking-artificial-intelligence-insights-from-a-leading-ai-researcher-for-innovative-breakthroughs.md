@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Artificial Intelligence: Insights From a Leading AI Researcher for Innovative Breakthroughs"
-date: 2024-09-18 15:18:22
-updated: 2024-09-20 11:45:27
+date: 2024-10-02T16:27:21.897Z
+updated: 2024-10-06T16:59:10.446Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-enhancing-snaps-with-zoom-feature/"><u>[Updated] Step-by-Step Guide Enhancing Snaps with Zoom Feature</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-global-content-makers-conference/"><u>2024 Approved Global Content Makers' Conference</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asus-rog-rapture-gt-ax110-router-assessment-highlighting-topnotch-performance-for-gamers/"><u>Asus ROG Rapture GT-AX110# Router Assessment: Highlighting Topnotch Performance for Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-11-hotspot-performance-post-restart/"><u>Boosting Windows 11 Hotspot Performance Post-Restart</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-premium-content-for-free-music-films-and-more-from-the-itunes-store/"><u>Download Premium Content For Free: Music, Films & More From the iTunes Store</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/efficiently-moving-photosvideos-between-iphones/"><u>Efficiently Moving Photos/Videos Between iPhones</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-asus-rog-phone-8-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Asus ROG Phone 8 to Roku | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/low-cost-high-performance-capturing-adrenaline-in-motion/"><u>Low-Cost, High-Performance Capturing Adrenaline in Motion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/permanent-removal-effective-ways-to-get-rid-of-unwanted-apps-from-your-itunes-library/"><u>Permanent Removal: Effective Ways to Get Rid of Unwanted Apps From Your iTunes Library</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-and-easy-fixes-how-to-resolve-itunes-not-opening-issue-on-your-device/"><u>Quick and Easy Fixes: How to Resolve 'iTunes Not Opening' Issue on Your Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620278349-revamp-your-itunes-collection-with-these-proven-techniques-for-inserting-album-images/"><u>Revamp Your iTunes Collection with These Proven Techniques for Inserting Album Images!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-problem-overcome-the-nba-2k21-black-screen-glitch/"><u>Solve Your Problem: Overcome the NBA 2K21 Black Screen Glitch</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-common-itunes-problems-downloading-updating-logging-in-and-connectivity/"><u>Troubleshooting Common iTunes Problems: Downloading, Updating, Logging In & Connectivity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-step-by-step-tutorial-restoring-your-itunes-collection-like-a-pro/"><u>Ultimate Step-by-Step Tutorial: Restoring Your iTunes Collection Like a Pro</u></a></li>
+</ul></div>
+

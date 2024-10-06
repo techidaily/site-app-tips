@@ -1,7 +1,7 @@
 ---
 title: Urgent Security Flaw Exposed in Linux's Essential Curl Utility, with Immediate Patch Available | Report by ZDNET
-date: 2024-09-17 23:58:42
-updated: 2024-09-20 12:56:24
+date: 2024-09-29T17:27:33.637Z
+updated: 2024-10-06T17:44:08.569Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-complete-how-to-for-mac-obs-plus-streamlabs-integration/"><u>[New] 2024 Approved The Complete How-To for Mac OBS + Streamlabs Integration</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snappy-solutions-maintaining-a-vigorous-snapstreak/"><u>[Updated] Snappy Solutions Maintaining a Vigorous Snapstreak</u></a></li>
+<li><a href="https://app-tips.techidaily.com/an-insightful-guide-to-choosing-between-elevenlabs-genvoice-ai-and-competitor-products/"><u>An Insightful Guide to Choosing Between ElevenLabs' GenVoice AI and Competitor Products</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-elevenlabs-generative-voice-ai-and-comparable-options/"><u>Comprehensive Analysis: ElevenLabs' Generative Voice AI & Comparable Options</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oneplus-nord-n30-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My OnePlus Nord N30 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-tecno-pop-7-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Tecno Pop 7 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-6s-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 6s Activation Lock</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lte-advanced-category-13-with-up-to-600-mbits-download-speeds-using-band-41-2x20-mhz-channel-arrangement-and-up-to-75-mbitn-upload-speeds-also-supports-dl-r99/"><u>LTE Advanced – Category 13 with up to 600 Mbit/S Download Speeds Using Band 41 (2X20 MHz) Channel Arrangement and up to 75 Mbit/N Upload Speeds. Also Supports DL-RevA Protocol Aggregation, but only with Other TANGO Radios on the Network</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-the-art-of-online-meeting-recordings-with-google-for-2024/"><u>Mastering the Art of Online Meeting Recordings with Google for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-of-ex-journeys-eva-ai-an-authoritative-chatbot-overview-you-need-to-read/"><u>Unlocking the Secrets of Ex Journey's EVA AI: An Authoritative Chatbot Overview You Need to Read</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-pros-and-cons-a-deep-dive-into-elevenlabs-ai-innovation/"><u>Unveiling the Pros and Cons: A Deep Dive Into ElevenLabs' AI Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/your-ai-companion-just-got-better-top-9-pluses-of-chatgptplus/"><u>Your AI Companion Just Got Better – Top 9 Pluses of ChatGPT+</u></a></li>
+</ul></div>
+

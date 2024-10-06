@@ -1,7 +1,7 @@
 ---
 title: Arista Expands Into Mid-Range Sector with Advanced Cognitive Network Solutions
-date: 2024-09-28T01:42:56.984Z
-updated: 2024-10-01T02:17:33.130Z
+date: 2024-09-29T16:43:03.099Z
+updated: 2024-10-06T16:54:47.636Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +187,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/reating-engaging-youtube-content-a-step-by-step-approach-for-2024/"><u>[New] Creating Engaging YouTube Content A Step-by-Step Approach for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-guide-to-silent-screen-time-view-unseen-stories-on-devices/"><u>[Updated] In 2024, Guide to Silent Screen Time View Unseen Stories on Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advancing-coding-skills-with-patience-and-productivity-unveiling-github-copilots-impact-on-software-development-zdnet/"><u>Advancing Coding Skills with Patience & Productivity: Unveiling GitHub Copilot's Impact on Software Development - ZDNet</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/clear-screens-crystal-vision-tips-for-blurry-social-media-content/"><u>Clear Screens, Crystal Vision Tips for Blurry Social Media Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-perfect-accounting-system-in-2-a-comprehensive-guide-techradar/"><u>Discover the Perfect Accounting System in 2# #: A Comprehensive Guide | TechRadar</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-power-of-gpt-3s-latest-browsing-updates/"><u>Discover the Power of GPT-3's Latest Browsing Updates</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/diy-fix-for-msi-afterburners-inability-to-detect-nvidia-gpu-under-windows-10-and-11-platforms/"><u>DIY Fix for MSI Afterburner's Inability to Detect Nvidia GPU Under Windows 10 and 11 Platforms</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/"><u>DVD Slideshow Builder Deluxe</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-sunset-of-windows-11-5-essential-steps-to-take-as-microsoft-ends-support/"><u>Facing the Sunset of Windows 11: 5 Essential Steps to Take as Microsoft Ends Support</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-anthropic-claude-mobile-application-now-available-company-unveils-new-business-strategy-tech-news-on-zdnet/"><u>Free Anthropic 'Claude' Mobile Application Now Available; Company Unveils New Business Strategy - Tech News on ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-repair-a-nonfunctional-realtek-microphone/"><u>How to Troubleshoot and Repair a Nonfunctional Realtek Microphone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-13-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 13</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-resolve-freezing-or-slow-downloads-in-windows/"><u>Steps to Resolve Freezing or Slow Downloads in Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-big-wave-of-enterprise-5g-celonas-landmark-60-million-series-c-investment-explained-by-zdnet/"><u>The 'Big Wave' Of Enterprise 5G: Celona's Landmark $60 Million Series C Investment Explained by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-design-of-an-artificial-earth-plane-can-vary-depending-on-the-frequency-of-operation-at-lower-frequencies-a-larger-physical-area-may-be-needed-to-effect85/"><u>The Design of an Artificial Earth Plane Can Vary Depending on the Frequency of Operation; at Lower Frequencies, a Larger Physical Area May Be Needed to Effectively Reflect Radio Waves.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-journey-towards-integrated-tech-and-enterprise-strategies-realizing-the-long-awaited-synergy-zdnet/"><u>The Journey Towards Integrated Tech and Enterprise Strategies: Realizing the Long-Awaited Synergy | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-checklist-for-choosing-your-ideal-motherboard-insights-on-what-to-prioritize/"><u>The Ultimate Checklist for Choosing Your Ideal Motherboard: Insights on What to Prioritize</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-in-demand-coding-languages-of-today-comprehensive-learning-resources/"><u>Top 5 In-Demand Coding Languages of Today: Comprehensive Learning Resources</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-companies-find-it-hard-to-utilize-generative-ai-unveiling-survey-results-by-deloitte-as-featured-on-zdnet/"><u>Why Companies Find It Hard to Utilize Generative AI - Unveiling Survey Results by Deloitte as Featured on ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ps4-live-broadcasting-101-with-obs-recording-tips-for-2024/"><u>[New] PS4 Live Broadcasting 101 with OBS Recording Tips for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1password-secures-massive-620m-investment-recent-financing-news-covered-by-tech-industry-leaders/"><u>1Password Secures Massive $620M Investment - Recent Financing News Covered by Tech Industry Leaders</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-y36-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y36</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-c51-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme C51</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-nokia-c110-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Nokia C110?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-sensitive-information-under-20month-using-robust-encryption-techniques-insights-from-zdnet/"><u>Secure Your Sensitive Information Under $20/Month Using Robust Encryption Techniques – Insights From ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-connection-error-in-new-world/"><u>Step-by-Step Solutions for 'Connection Error in New World'</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-myth-of-untraceable-transactions-shattered-bitcoins-anonymity-revealed-in-recent-paper/"><u>The Myth of Untraceable Transactions Shattered: Bitcoin's Anonymity Revealed in Recent Paper</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-password-security-tools-comprehensive-reviews-and-comparisons-cnet/"><u>Top Rated Password Security Tools : Comprehensive Reviews and Comparisons - CNET</u></a></li>
 </ul></div>
 

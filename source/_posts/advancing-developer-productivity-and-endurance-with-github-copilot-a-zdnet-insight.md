@@ -1,7 +1,7 @@
 ---
 title: Advancing Developer Productivity & Endurance with GitHub Copilot - A ZDNet Insight
-date: 2024-09-17 15:40:58
-updated: 2024-09-20 12:59:33
+date: 2024-10-04T17:30:50.417Z
+updated: 2024-10-06T16:02:47.566Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,27 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-hearing-from-you-simple-windows-10-recorder-guide/"><u>[New] Hearing From You Simple Windows 10 Recorder Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-romantic-recitals-perfect-love-songs-for-your-proposal-moment/"><u>[New] Romantic Recitals Perfect Love Songs for Your Proposal Moment</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tep-inside-youtube-master-one-frame-no-money-spent-for-2024/"><u>[New] Step Inside YouTube Master One Frame, No Money Spent for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-full-exploration-new-features-in-videoshow-app-24-for-2024/"><u>[Updated] Full Exploration New Features in VideoShow App '24 for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-vlc-playback-mastery-secret-tips-and-tricks-revealed/"><u>[Updated] In 2024, VLC Playback Mastery Secret Tips and Tricks Revealed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anthropic-introduces-complimentary-ios-claude-app-expands-to-enterprise-market-latest-from-zdnet/"><u>Anthropic Introduces Complimentary iOS Claude App, Expands to Enterprise Market | Latest From ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-12-pro-max-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 12 Pro Max without Apple ID?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-list-of-top-vector-stock-portals/"><u>In 2024, The Expert's List of Top Vector Stock Portals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/latest-features-in-libreoffice-and-easy-macos-installation-guide-insights-from-zdnet/"><u>Latest Features in LibreOffice & Easy macOS Installation Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/strategies-for-troubleshooting-and-resolving-msvcrtdll-errors-on-your-pc/"><u>Strategies for Troubleshooting and Resolving Msvcrt.dll Errors on Your PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-impact-of-the-russian-ukrainian-conflict-on-global-tech-sector-insights-from-zdnet/"><u>The Impact of the Russian-Ukrainian Conflict on Global Tech Sector | Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultra-stable-linux-kernel-the-long-haul-solution-released-insights-from-zdnet/"><u>Ultra-Stable Linux Kernel: The Long-Haul Solution Released - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-the-mystery-is-the-no-cost-windows-11-upgrade-still-available-analysis-by-zdnet/"><u>Unraveling the Mystery: Is the No-Cost Windows 11 Upgrade Still Available? - Analysis by ZDNET</u></a></li>
+</ul></div>
+

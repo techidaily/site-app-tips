@@ -1,7 +1,7 @@
 ---
 title: "Silent Release Sparks Fury: Unveiling the Controversial Feature From Microsoft on ZDNet"
-date: 2024-09-17 21:25:42
-updated: 2024-09-20 12:48:57
+date: 2024-09-30T17:38:41.871Z
+updated: 2024-10-06T18:27:06.805Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,25 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-endless-viewing-with-iphone-writes-of-video/"><u>[Updated] In 2024, Endless Viewing with iPhone' Writes of Video</u></a></li>
+<li><a href="https://blog-min.techidaily.com/44cm44oe44kk44kv44ot6yyy55s744k944ov44oi44km44kn44ki44ks5l244ge44ke44gz44gp77yb6auy55s76loq44kq44ox44og44kj44oe44or6kit5a6a44cn/"><u>「マイクロ録画ソフトウェアを使いやすく！高画質オプティマル設定」</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-game-changing-entrant-in-the-video-call-arena-outshines-microsoft-teams-and-zoom-with-lip-reading-capabilities-zdnet/"><u>A Game-Changing Entrant in the Video Call Arena Outshines Microsoft Teams and Zoom with Lip-Reading Capabilities | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/celona-secures-60m-in-funding-drives-enterprise-level-5g-innovation-tech-news/"><u>Celona Secures $60M in Funding, Drives Enterprise-Level 5G Innovation - Tech News</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-impactful-world-of-marvels-spider-man-miles-morales-a-focused-perspective/"><u>Exploring the Impactful World of Marvel's Spider-Man: Miles Morales - A Focused Perspective</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/integrating-ai-assistants-into-slides-with-s2t-for-2024/"><u>Integrating AI Assistants Into Slides with S2T for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-xcover-7-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy XCover 7 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-through-disorder-revolutionary-fixes-for-cluttered-linux-and-open-source-guides-on-zdnet/"><u>Navigating Through Disorder: Revolutionary Fixes for Cluttered Linux & Open-Source Guides on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rocky-linux-receives-major-backing-with-ciq-as-principal-supporter-insights-from-the-tech-community/"><u>Rocky Linux Receives Major Backing with CIQ as Principal Supporter - Insights From the Tech Community</u></a></li>
+<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-pick-the-ultimate-guide-to-effortlessly-downloading-videos-from-reddit/"><u>Top Pick: The Ultimate Guide to Effortlessly Downloading Videos From Reddit</u></a></li>
+</ul></div>
+

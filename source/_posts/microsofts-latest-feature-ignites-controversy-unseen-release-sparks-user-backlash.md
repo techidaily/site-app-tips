@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Latest Feature Ignites Controversy – Unseen Release Sparks User Backlash
-date: 2024-09-17 18:18:45
-updated: 2024-09-20 11:53:53
+date: 2024-10-05T17:40:13.940Z
+updated: 2024-10-06T17:34:02.661Z
 tags:
   - enterprise-software
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-ipad-recording-tools-3-edition/"><u>[Updated] 2024 Approved Essential iPad Recording Tools #3 Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-premiere-pros-lut-potential/"><u>[Updated] Unlocking Premiere Pro's LUT Potential</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebook-video-wonders-your-must-see-list/"><u>2024 Approved Facebook Video Wonders - Your Must-See List</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-securing-youtube-partnership-a-comprehensive-guide-for-video-creators/"><u>2024 Approved Securing YouTube Partnership A Comprehensive Guide for Video Creators</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-steps-to-transition-from-windows-to-linux-mint-for-optimized-performance-cnet/"><u>Complete Steps to Transition From Windows to Linux Mint for Optimized Performance | C|Net</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolution-of-dev-responsibilities-as-seen-by-agnes-ro-of-atlassian-expert-analysis-on-zdnet/"><u>Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guia-passo-a-passo-convertendo-filmes-em-formato-mov-para-mp4-com-o-vlc-media-player/"><u>Guia Passo-a-Passo: Convertendo Filmes Em Formato MOV Para MP4 Com O VLC Media Player</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-14-plus-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 14 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ative-setup-essentials-for-game-streaming/"><u>Innovative Setup Essentials for Game Streaming</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-codenotarys-sbom-solution-a-revolution-in-managing-dependencies-on-kubernetes-insights-from-zdnet/"><u>Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/luminary-collage-conceptions-aesthetic-illumination-ideas/"><u>Luminary Collage Conceptions Aesthetic Illumination Ideas</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-shift-to-cloud-infrastructure-amidst-an-era-of-persistent-on-premises-systems-insights-from-zdnet/"><u>Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-streamlining-linux-and-open-source-docs-solutions-from-zdnet/"><u>Organizing Chaos: Streamlining Linux & Open Source Docs - Solutions From ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-mic-issues-a-step-by-step-guide/"><u>Solving iPhone Mic Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tackling-disorder-in-linux-and-open-source-manuals-unveiling-the-ultimate-fix-zdnet/"><u>Tackling Disorder in Linux & Open Source Manuals: Unveiling the Ultimate Fix | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-cloud-tech-vs-current-dominance-of-on-site-solutions-a-deep-dive-with-zdnet/"><u>The Rise of Cloud Tech Vs. Current Dominance of On-Site Solutions - A Deep Dive with ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-crm-platforms-of-2022-revealed-see-whos-leading-in-customer-engagement-zdnet/"><u>Top CRM Platforms of 2022 Revealed: See Who's Leading in Customer Engagement - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-leading-antivirus-programs-according-to-zdnet/"><u>Ultimate List: Leading Antivirus Programs , According to ZDNet</u></a></li>
+</ul></div>
+
