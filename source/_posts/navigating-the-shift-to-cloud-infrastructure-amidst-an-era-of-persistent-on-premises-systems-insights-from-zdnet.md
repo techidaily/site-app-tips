@@ -1,7 +1,7 @@
 ---
 title: Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET
-date: 2024-10-05T19:04:29.155Z
-updated: 2024-10-06T17:44:29.811Z
+date: 2024-10-10T03:01:43.089Z
+updated: 2024-10-11T20:30:20.315Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +118,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +193,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-tiktoks-hidden-treasures-grab-em-all-for-free/"><u>[New] TikTok's Hidden Treasures Grab 'Em All for Free</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-online-presence-choosing-the-right-webcam-for-2024/"><u>[Updated] Elevate Your Online Presence Choosing the Right Webcam for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-echo-chamber-new-tech-insights/"><u>[Updated] In 2024, Echo Chamber New Tech Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/achieve-sql-mastery-with-premier-course-selections-comprehensive-guide-by-zdnet/"><u>Achieve SQL Mastery with Premier Course Selections - Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/antenna-impedance-matching-is-essential-not-only-for-efficient-power-transfer-but-also-because-mismatches-can-distort-the-radiation-pattern-due-to-standing-81/"><u>Antenna Impedance Matching Is Essential Not only for Efficient Power Transfer but Also because Mismatches Can Distort the Radiation Pattern Due to Standing Waves on Transmission Lines.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/creating-effective-reminders-using-slackbot-a-step-by-step-guide-on-slack/"><u>Creating Effective Reminders Using Slackbot: A Step-by-Step Guide on Slack</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/cutting-edge-screen-shifting-for-editors/"><u>Cutting-Edge Screen Shifting for Editors</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/experience-seamless-photo-recovery-with-windowwizards-editing-tool-order-today/"><u>Experience Seamless Photo Recovery with WindowWizards Editing Tool - Order Today</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-vital-are-it-specialists-for-modern-businesses-operating-without-technology-insights-from-a-zdnet-perspective/"><u>How Vital Are IT Specialists for Modern Businesses Operating Without Technology? Insights From a ZDNET Perspective</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leveraging-next-gen-cloud-infrastructures-for-skills-development-and-robust-security-in-modern-applications/"><u>Leveraging Next-Gen Cloud Infrastructures for Skills Development and Robust Security in Modern Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-faces-critical-deadline-for-fixing-windows-10-issues-just-one-year-left-to-rectify-technewszdnet/"><u>Microsoft Faces Critical Deadline for Fixing Windows 10 Issues – Just One Year Left to Rectify | TechNewsZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-todays-it-landscape-balancing-cloud-innovation-with-current-on-premise-realities-techinsights/"><u>Navigating Today's IT Landscape: Balancing Cloud Innovation with Current On-Premise Realities | TechInsights</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/stunning-slideshow-for-social-sharing-for-2024/"><u>Stunning Slideshow for Social Sharing for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleashing-enterprise-ai-potential-discover-anthropics-revolutionary-claude-plan-as-featured-on-zdnet/"><u>Unleashing Enterprise AI Potential: Discover Anthropic's Revolutionary Claude Plan as Featured on ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-capture-the-action-crafting-best-in-class-sports-films/"><u>[Updated] 2024 Approved Capture the Action Crafting Best-in-Class Sports Films</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-comprehensible-approach-to-adding-dates-on-youtube-videos/"><u>2024 Approved A Comprehensible Approach to Adding Dates on YouTube Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-your-skills-beyond-ai-explore-cutting-edge-career-opportunemail-protected/"><u>Advancing Your Skills Beyond AI - Explore Cutting-Edge Career Opportun([email Protected])!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-artificial-intelligence-revolutionizes-the-creation-of-eco-friendly-smart-home-devices-insights-from-a-leading-tech-firm/"><u>How Artificial Intelligence Revolutionizes the Creation of Eco-Friendly Smart Home Devices - Insights From a Leading Tech Firm</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-xiaomi-14-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Xiaomi 14 Pro?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/investing-in-the-future-singapore-advocates-funding-ai-integration-and-eco-friendly-technologies/"><u>Investing in the Future: Singapore Advocates Funding AI Integration and Eco-Friendly Technologies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastery-in-making-gifs-into-stickers-on-messaging-platforms-with-this-guide/"><u>Mastery in Making Gifs Into Stickers on Messaging Platforms with This Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stanford-investigation-highlights-ais-english-focused-flaw-in-chatbots-urging-diverse-language-support-zdnet/"><u>Stanford Investigation Highlights AI's English-Focused Flaw in Chatbots, Urging Diverse Language Support | ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-eradicating-windowed-chrome-flicker-issues-the-definitive-2024-guide/"><u>Step-by-Step Solutions for Eradicating Windowed Chrome Flicker Issues – The Definitive 2024 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/the-blueprint-for-beginning-your-steam-gamers-journey-anew/"><u>The Blueprint for Beginning Your Steam Gamers' Journey Anew</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-it-expansion-navigating-the-increase-in-employee-burnout-solutions-for-a-healthier-workplace-zdnet/"><u>The Rise of IT Expansion: Navigating the Increase in Employee Burnout - Solutions for a Healthier Workplace | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uncovering-the-ultimate-ai-watermark-strategy-on-zdnet/"><u>Uncovering the Ultimate AI Watermark Strategy on ZDNet</u></a></li>
 </ul></div>
 

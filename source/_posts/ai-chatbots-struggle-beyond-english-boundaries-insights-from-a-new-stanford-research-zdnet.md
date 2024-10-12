@@ -1,7 +1,7 @@
 ---
 title: AI Chatbots Struggle Beyond English Boundaries - Insights From a New Stanford Research | ZDNet
-date: 2024-09-17 20:37:14
-updated: 2024-09-20 12:54:10
+date: 2024-10-10T07:51:54.322Z
+updated: 2024-10-12T01:30:26.004Z
 tags:
   - digital-transformation
 categories:
@@ -78,11 +78,33 @@ Dukic also urged "extensive testing with local users before full deployment to h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-master-photographers-techniques-for-onscreen-cutting/"><u>[Updated] 2024 Approved Master Photographer's Techniques for Onscreen Cutting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-seamless-podcast-journey-from-creation-to-google-submission/"><u>[Updated] 2024 Approved Seamless Podcast Journey From Creation to Google Submission</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creating-timely-alerts-a-step-by-step-guide-to-setting-up-slackbot-reminders/"><u>Creating Timely Alerts: A Step-by-Step Guide to Setting Up Slackbot Reminders</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-addressing-printer-errors-linked-to-domain-services/"><u>Essential Guide: Addressing Printer Errors Linked to Domain Services</u></a></li>
+<li><a href="https://win-dash.techidaily.com/h264mp4-iso/"><u>H264(MP4)への変換ガイド: ISOファイルから始めよう</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-15-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 15 Plus without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-10-steps-to-perfectly-plated-food-vids/"><u>In 2024, 10 Steps to Perfectly Plated Food Vids</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-itel-p40plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Itel P40+ without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-potential-master-avi-to-gif-conversion-using-filmora/"><u>In 2024, Unleash the Potential Master AVI-to-GIF Conversion Using Filmora</u></a></li>
+<li><a href="https://app-tips.techidaily.com/pioneering-ai-benchmark-standard-released-by-amazon-detailed-in-zdnets-insightful-article-on-enhanced-rag-measurement/"><u>Pioneering AI Benchmark Standard Released by Amazon, Detailed in ZDNet's Insightful Article on Enhanced RAG Measurement</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-transition-ahead-how-office-users-can-stay-connected-with-new-microsoft-365-services-in-the-coming-year-zdnet/"><u>Seamless Transition Ahead: How Office Users Can Stay Connected With New Microsoft 365 Services in the Coming Year | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-why-it-departments-must-step-up-for-superior-customer-interactions/"><u>ZDNet Exclusive: Why IT Departments Must Step Up for Superior Customer Interactions</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

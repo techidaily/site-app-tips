@@ -1,7 +1,7 @@
 ---
 title: "Exploring Rust's Role in Linux Projects with Linus Torvalds: A Glimpse Into His Routine and MacBook Experience - ZDNet"
-date: 2024-10-05T16:24:56.361Z
-updated: 2024-10-06T18:38:41.981Z
+date: 2024-10-05T21:19:42.488Z
+updated: 2024-10-11T20:56:47.685Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,21 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-crafting-sound-saturated-instagram-visuals-for-2024/"><u>[New] Crafting Sound-Saturated Instagram Visuals for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-to-the-top-webcams-for-windows-10-for-2024/"><u>[New] The Ultimate Guide to the Top Webcams for Windows 10 for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-personalizing-your-ig-experience-blocking-tactics/"><u>[Updated] Personalizing Your IG Experience Blocking Tactics</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-basic-gamers-guide-to-outstanding-video-editing-software/"><u>2024 Approved Basic Gamers' Guide to Outstanding Video Editing Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beamwidth/"><u>Beamwidth</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-efficiency-a-comprehensive-guide-to-essential-productivity-apps-and-techniques-for-streamlining-your-day-to-day-job/"><u>Boosting Efficiency: A Comprehensive Guide to Essential Productivity Apps & Techniques for Streamlining Your Day-to-Day Job</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-software-development-success-with-agile-awareness-explore-6-key-principles/"><u>Boosting Software Development Success with Agile Awareness: Explore 6 Key Principles</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/como-convertir-archivos-wmv-en-flv-gratuitamente-online-metodos-eficaces-y-soluciones-de-movavi/"><u>Cómo Convertir Archivos WMV en FLV Gratuitamente Online: Métodos Eficaces Y Soluciones De Movavi</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-poco-c65-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Poco C65 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/limited-offer-upgrade-to-professionals-edition-of-ashampoo-3d-cad-for-only-40-now-on-zdnet-shop/"><u>Limited Offer: Upgrade to Professionals Edition of Ashampoo 3D CAD for Only $40, Now On ZDNet Shop!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-edition-the-ultimate-guide-to-final-cut-pro-x-keyboard-shortcuts-40-must-knows/"><u>New Edition The Ultimate Guide to Final Cut Pro X Keyboard Shortcuts (40 Must-Knows)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-triumph-unveiling-the-story-behind-an-engineers-app-that-outsmarts-mcdonalds-strategy-analysis-by-zdnet/"><u>Tech Triumph: Unveiling the Story Behind an Engineer’s App That Outsmarts McDonald's Strategy | Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-gain-renewed-interest-insights-from-zdnet/"><u>The Rising Popularity: How OpenStack & Kata Containers Gain Renewed Interest - Insights From ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-new-potential-how-the-google-microsoft-collaboration-allows-windows-apps-to-thrive-on-chromebooks-zdnet/"><u>Unlocking New Potential: How the Google-Microsoft Collaboration Allows Windows Apps to Thrive on Chromebooks | ZDNet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unearth-these-quirky-overlooked-facebook-pages/"><u>[New] In 2024, Unearth These Quirky, Overlooked Facebook Pages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-your-potential-on-telegram-a-comprehensive-marketing-guide/"><u>[Updated] Unleash Your Potential on Telegram A Comprehensive Marketing Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-discovering-the-ultimate-ai-watermark-techniques-insights-from-zdnet/"><u>1. Discovering the Ultimate AI Watermark Techniques: Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-your-pcs-power-for-high-dynamic-range-video-magic/"><u>2024 Approved Harness Your PC's Power for High Dynamic Range Video Magic</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/automate-calendar-events-to-zoom-on-mobile-devices-for-2024/"><u>Automate Calendar Events to Zoom on Mobile Devices for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723212247042-effective-fixes-for-dx-feature-level-10-issue-on-your-wwe-gamehttpswwwexample-game-linkcom-2k-battl/"><u>Effective Fixes for DX Feature Level 10 Issue on Your WWE ([^Game](https://www.example-game-link.com)) 2K Battl...</u></a></li>
+<li><a href="https://common-error.techidaily.com/frozen-function-computer-wont-leave-win1110-snooze/"><u>Frozen Function: Computer Won't Leave Win11/10 Snooze</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-todays-dilemma-strategies-to-tackle-imprecise-outcomes-in-artifical-intelligence-expert-analysis-by-zdnet/"><u>Mastering Today’s Dilemma: Strategies to Tackle Imprecise Outcomes in Artifical Intelligence | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-legacy-systems-lessons-from-a-failed-upgrade-insights-and-strategies/"><u>Navigating Legacy Systems: Lessons From a Failed Upgrade - Insights & Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolution-of-coding-from-rote-methods-to-ai-enhanced-software-engineering-insights-from-zdnet/"><u>The Evolution of Coding: From Rote Methods to AI-Enhanced Software Engineering - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-strategies-for-altering-pdf-colors-a-comprehensive-guide-updated/"><u>Top Strategies for Altering PDF Colors: A Comprehensive Guide (Updated)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-singapores-2nbillion-commitment-to-supercharge-its-it-infrastructure-and-elevate-digital-solutions-tech-insight/"><u>Unveiling Singapore's $2.nBillion Commitment to Supercharge Its IT Infrastructure and Elevate Digital Solutions | Tech Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-addressing-outdated-technology-is-crucial-a-case-study-on-migration-missteps/"><u>Why Addressing Outdated Technology Is Crucial: A Case Study on Migration Missteps</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-portable-macs-transform-the-gaming-world/"><u>Will Portable Macs Transform the Gaming World?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-pull-of-open-source-for-global-leaders-in-innovation/"><u>ZDNet Explores the Pull of Open Source for Global Leaders in Innovation</u></a></li>
 </ul></div>
 

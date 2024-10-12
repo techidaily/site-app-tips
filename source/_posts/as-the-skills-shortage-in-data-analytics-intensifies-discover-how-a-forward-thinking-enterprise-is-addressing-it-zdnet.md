@@ -1,7 +1,7 @@
 ---
 title: As the Skills Shortage in Data Analytics Intensifies, Discover How a Forward-Thinking Enterprise Is Addressing It | ZDNET
-date: 2024-09-19 11:11:55
-updated: 2024-09-20 10:44:46
+date: 2024-10-10T03:01:40.552Z
+updated: 2024-10-11T16:10:37.634Z
 tags:
   - digital-transformation
 categories:
@@ -120,11 +120,35 @@ From the people joining Bentley as apprentices all the way up to senior managers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-alternative-tools-that-outperform-sharex/"><u>[New] In 2024, Alternative Tools That Outperform ShareX</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-strategies-for-preventing-spam-messages-in-ios-devices-guide-for-iphone-and-ipad-including-ios-18/"><u>Effective Strategies for Preventing Spam Messages in iOS Devices: Guide for iPhone & iPad (Including iOS 18)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-a-guide-to-top-screen-capture-for-zoom/"><u>In 2024, A Guide to Top Screen Capture for Zoom</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-strategies-for-overcoming-packet-transfer-challenges-on-discord-platforms/"><u>In-Depth Strategies for Overcoming Packet Transfer Challenges on Discord Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-focusrite-scarlett-18i20-drivers-on-your-pc-windows-compatible-downloads-available-now/"><u>Install Focusrite Scarlett 18I20 Drivers on Your PC: Windows Compatible Downloads Available Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-motion-graphics-with-funimate-in-depth-analysis-for-top-notch-video-production-techniques/"><u>Mastering Motion Graphics with Funimate: In-Depth Analysis for Top-Notch Video Production Techniques</u></a></li>
+<li><a href="https://techidaily.com/remove-sony-xperia-1-v-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Sony Xperia 1 V unlock screen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/securing-your-childs-online-presence-top-5-safe-uses-of-chatgpt/"><u>Securing Your Child's Online Presence: Top 5 Safe Uses of ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-ranking-of-the-top-messaging-applications-on-iphone-and-android-phones/"><u>The Ultimate Ranking of the Top Messaging Applications on iPhone and Android Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-mobile-app-the-ultimate-video-editing-tool-for-android-users/"><u>Top-Rated Mobile App: The Ultimate Video Editing Tool for Android Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-the-non-functioning-facebook-messenger-application/"><u>Troubleshooting Guide: Resolving Issues with the Non-Functioning Facebook Messenger Application</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-successful-launches-of-csgo-expert-strategies/"><u>Unlocking Successful Launches of CS:GO - Expert Strategies</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

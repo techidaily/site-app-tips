@@ -1,7 +1,7 @@
 ---
 title: "IT Hand-Held Tight?: Exploring How Minimal-Coding Tools Are Changing Software Development Landscapes | ZDNET"
-date: 2024-09-17 11:44:30
-updated: 2024-09-20 10:31:34
+date: 2024-10-09T16:49:04.962Z
+updated: 2024-10-11T17:14:56.443Z
 tags:
   - digital-transformation
 categories:
@@ -60,11 +60,34 @@ The nature of direct IT involvement in building low and no-code apps depends on 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ow-to-execute-a-budget-friendly-youtube-seminar-for-2024/"><u>[New] How to Execute a Budget-Friendly Youtube Seminar for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-resisting-insta-imposters-protect-your-profiles-prestige/"><u>[Updated] 2024 Approved Resisting Insta Imposters Protect Your Profile's Prestige</u></a></li>
+<li><a href="https://app-tips.techidaily.com/4-essential-strategies-to-retrieve-and-rebuild-ios-apps-using-apples-icloud-services/"><u>4 Essential Strategies to Retrieve and Rebuild iOS Apps Using Apple's iCloud Services</u></a></li>
+<li><a href="https://app-tips.techidaily.com/android-performance-booster-fast-track-your-phone-with-efficient-task-killing/"><u>Android Performance Booster: Fast Track Your Phone with Efficient Task Killing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-and-premium-high-speed-camera-applications-for-both-iphone-and-android-users/"><u>Best Free and Premium High-Speed Camera Applications for Both iPhone and Android Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-full-simplemdm-essential-insights-for-ios-and-macos-users/"><u>Comprehensive Evaluation: Full SimpleMDM - Essential Insights for iOS and macOS Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-ralink-driver-download-and-update-tutorial-for-windows-users-resolved/"><u>Easy Ralink Driver Download & Update Tutorial for Windows Users - Resolved</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/examining-codegpts-capabilities-in-tech-innovation/"><u>Examining CodeGPT's Capabilities in Tech Innovation</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-s17-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-cyberlinks-actiondirector-features-benefits-and-competitors/"><u>In-Depth Analysis of CyberLink's ActionDirector: Features, Benefits & Competitors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-magisto-video-software-advantages-limitations-and-comparative-assessment/"><u>In-Depth Analysis of Magisto Video Software: Advantages, Limitations & Comparative Assessment</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1728466386289-windows-11-pc/"><u>Windows 11画像配布シンプルガイド - PCへの迅速な展開方法</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

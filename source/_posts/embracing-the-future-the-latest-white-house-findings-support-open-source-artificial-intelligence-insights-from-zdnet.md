@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Future: The Latest White House Findings Support Open-Source Artificial Intelligence - Insights From ZDNet"
-date: 2024-09-21T07:24:40.674Z
-updated: 2024-09-26T03:03:10.219Z
+date: 2024-10-11T01:12:19.558Z
+updated: 2024-10-12T09:24:12.444Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +181,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-understanding-youtube-revenue-models-today/"><u>[New] Understanding YouTube Revenue Models Today</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-ranking-the-top-16-youtube-intros-to-amplify-views/"><u>2024 Approved Ranking the Top 16 YouTube Intros to Amplify Views</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artificial-sentiments-for-financial-frauds/"><u>Artificial Sentiments for Financial Frauds</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-ways-to-keep-your-apps-private-on-smartphones-and-tablets-android-and-apple/"><u>Effective Ways to Keep Your Apps Private on Smartphones & Tablets (Android & Apple)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/effortless-method-to-retrace-video-steps-in-snapchat-for-2024/"><u>Effortless Method to Retrace Video Steps in Snapchat for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193676-get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-y27-4g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo Y27 4G Device SIM</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-htc-u23-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your HTC U23 Pro Phone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-jocular-video-hacker-review/"><u>In 2024, Jocular Video Hacker Review</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-on-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Engagement on Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-free-online-and-mobile-apps-for-crafting-hilarious-memes-effortlessly/"><u>Top Free Online & Mobile Apps for Crafting Hilarious Memes Effortlessly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-applications-for-seamlessly-casting-your-iphone-display-onto-tv-or-computer/"><u>Top-Rated Applications for Seamlessly Casting Your iPhone Display Onto TV or Computer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-social-media-savants-guide-to-stellar-instagram-posts/"><u>[New] 2024 Approved The Social Media Savant's Guide to Stellar Instagram Posts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-essential-tips-for-recording-movies-on-all-devices/"><u>[New] In 2024, Essential Tips for Recording Movies on All Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-zooming-out-your-guide-to-flawless-borders-for-2024/"><u>[New] Zooming Out Your Guide to Flawless Borders for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-crack-the-code-of-content-discovery-on-facebook/"><u>[Updated] Crack the Code of Content Discovery on Facebook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-innovating-your-fb-experience-with-stunning-video-covers/"><u>[Updated] In 2024, Innovating Your FB Experience with Stunning Video Covers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-transform-photos-with-ease-using-basic-adobe-tools-for-2024/"><u>[Updated] Transform Photos with Ease Using Basic Adobe Tools for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1password-analysis-is-this-top-tier-password-solution-a-smart-investment-insights-from-tech-experts/"><u>1Password Analysis: Is This Top-Tier Password Solution a Smart Investment? - Insights From Tech Experts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-security-my-experience-with-top-passwordless-password-manager-tools-the-clear-winner/"><u>Mastering Security: My Experience with Top Passwordless Password Manager Tools – The Clear Winner!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/oregon-healthcare-provider-alerts-over-half-a-million-clients-about-major-security-incident-tech-news/"><u>Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/secrecy-in-posts-how-to-oc/"><u>Secrecy in Posts How to Oc</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/simplified-workflow-streamlined-screen-capture-on-mac-using-keystroke-shortcuts/"><u>Simplified Workflow Streamlined Screen Capture on Mac Using Keystroke Shortcuts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/west-virginia-hospital-data-compromised-following-phishing-scheme-insights-by-zdnet/"><u>West Virginia Hospital Data Compromised Following Phishing Scheme - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zerofoxs-strategic-acquisition-of-idx-and-merger-with-landf-forms-a-mega-14b-cybersecurity-giant-insights-from-zdnet/"><u>ZeroFox's Strategic Acquisition of IDX and Merger with L&F Forms a Mega $1.4B Cybersecurity Giant - Insights From ZDNet</u></a></li>
 </ul></div>
 

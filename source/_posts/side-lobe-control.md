@@ -1,7 +1,7 @@
 ---
 title: Side Lobe Control
-date: 2024-09-24T20:46:43.117Z
-updated: 2024-10-01T01:22:22.427Z
+date: 2024-10-08T03:43:40.734Z
+updated: 2024-10-11T21:46:26.752Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,21 +181,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-autoplay-youtube-on-phones-without-interruption/"><u>[Updated] In 2024, Autoplay YouTube on Phones without Interruption</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-clicking-around-unveiling-the-future-of-uis-with-generative-ai-zdnet/"><u>Beyond Clicking Around: Unveiling the Future of UIs with Generative AI | ZDNet</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/bridging-visuals-and-audio-instagram-content-to-mp3-magic-for-2024/"><u>Bridging Visuals & Audio Instagram Content to Mp3 Magic for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-for-singaporean-smes-equip-your-team-with-genai-skills-insights-from-zdnet/"><u>Comprehensive Guide for Singaporean SMEs: Equip Your Team with GenAI Skills - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhancing-your-brother-device-functionality-windows-compatible-driver-upgrades-available-now/"><u>Enhancing Your Brother Device Functionality: Windows-Compatible Driver Upgrades Available Now!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a14-4g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A14 4G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/marketing-strategies-evolve-with-ai-how-many-are-on-board-an-analysis-by-zdnet/"><u>Marketing Strategies Evolve with AI: How Many Are on Board? An Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-start-with-understanding-your-companys-core-goals-insights-from-zdnet/"><u>Mastering Tech Team Leadership: Start with Understanding Your Company's Core Goals | Insights From ZDNet</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-tutorial-for-adding-functional-links-to-text-and-imagery-within-flipbuilders-digital-books/"><u>Step-by-Step Tutorial for Adding Functional Links to Text & Imagery Within FlipBuilder's Digital Books</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-recommended-vpns-for-unblocking-and-securing-your-youtube-streams/"><u>Top 5 Recommended VPNs for Unblocking and Securing Your YouTube Streams</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transform-your-snaps-into-art-with-snapseed-basics/"><u>Transform Your Snaps Into Art with Snapseed Basics</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-role-of-chief-ai-officers-steps-to-secure-this-key-position/"><u>Unveiling the Role of Chief AI Officers - Steps to Secure This Key Position</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-break-free-from-windows-10-photos-discover-the-best-image-editing-tools-for-2024/"><u>Updated Break Free From Windows 10 Photos Discover the Best Image Editing Tools for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-business-executives-doubt-it-reliability-insights-from-a-new-ibm-research-revealed-on-zdnet/"><u>Why Business Executives Doubt IT Reliability: Insights From a New IBM Research Revealed on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-recent-study-a-staggering-25-of-tech-workers-may-soon-seek-new-employment-opportunities/"><u>ZDNet's Recent Study: A Staggering 25% of Tech Workers May Soon Seek New Employment Opportunities</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-global-perspective-inclusive-technology-review/"><u>[New] Global Perspective Inclusive Technology Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-optimal-zooctorial-design-arrays/"><u>[New] Optimal Zooctorial Design Arrays</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-best-flip-screen-cam-picks-your-guide-to-excellent-vlogging/"><u>[Updated] 2024 Approved Best Flip-Screen Cam Picks Your Guide to Excellent Vlogging</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-controlling-youtubes-playback-speed-mobile-and-pc-for-2024/"><u>[Updated] Controlling YouTube's Playback Speed - Mobile and PC for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-tech-to-preserve-classroom-interactions/"><u>2024 Approved Best Tech to Preserve Classroom Interactions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-unlocking-luminous-images-a-comprehensive-lightroom-guide/"><u>2024 Approved Unlocking Luminous Images A Comprehensive Lightroom Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-6-secure-chat-guard-apps-for-safeguarding-text-communications-on-android-devices/"><u>Best 6 Secure Chat Guard Apps for Safeguarding Text Communications on Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194357-discover-the-top-factual-inshot-video-editing-tool-of-2024-a-must-see/"><u>Discover the Top Factual InShot Video Editing Tool of 2024 - A MUST-SEE</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-mobile-hotspot-enabler-applications-a-comprehensive-guide/"><u>Leading Mobile Hotspot Enabler Applications: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-woes-deciphered-unraveling-the-mystery-of-twofold-fps-decline/"><u>PC Gaming Woes Deciphered: Unraveling the Mystery of Twofold FPS Decline</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-choosing-iphone-scanners-and-transforming-your-documents/"><u>The Ultimate Guide to Choosing iPhone Scanners & Transforming Your Documents</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-20-high-earning-android-games-a-must-play-list-that-delivers-value/"><u>Top 20 High-Earning Android Games: A Must-Play List That Delivers Value</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620191785-top-insights-on-videoleap-dont-miss-whats-next/"><u>Top Insights on Videoleap - Don't Miss What's Next!</u></a></li>
 </ul></div>
 

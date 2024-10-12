@@ -1,7 +1,7 @@
 ---
 title: Collaboration Between Sony Research and AI Singapore Targets Advancements in Language Models
-date: 2024-09-29T18:28:20.869Z
-updated: 2024-10-06T17:58:32.775Z
+date: 2024-10-10T00:58:34.117Z
+updated: 2024-10-11T18:53:30.452Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +181,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-from-concept-to-measurement-configuring-and-assessing-facebooks-in-stream-ads/"><u>[New] 2024 Approved From Concept to Measurement Configuring and Assessing Facebook's In-Stream Ads</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-demystifying-data-first-steps-in-facebook-insights/"><u>[Updated] Demystifying Data First Steps in Facebook Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-leap-towards-no-code-revolution-the-impactful-role-of-generative-artificial-intelligence-in-evolving-coding-paradigms-zdnet-insights/"><u>A Leap Towards 'No Code' Revolution: The Impactful Role of Generative Artificial Intelligence in Evolving Coding Paradigms | ZDNET Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/access-control-systems/"><u>Access Control Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Samsung Galaxy XCover 6 Pro Tactical Edition.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-fresh-updates-in-macos-sonoma-comprehensive-overview-for-tech-enthusiasts-by-zdnet/"><u>Exploring the Fresh Updates in macOS Sonoma: Comprehensive Overview for Tech Enthusiasts by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-improve-windows-taskmanager-through-cli-integration/"><u>How to Improve Windows TaskManager Through CLI Integration</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-selecting-your-perfect-monitor-and-recorder-duo/"><u>In 2024, Selecting Your Perfect Monitor & Recorder Duo</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-task-management-adding-to-do-lists-to-your-slack-workspace-zdnet-insights/"><u>Integrating Task Management: Adding To-Do Lists to Your Slack Workspace | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-transition-seamless-update-strategies-for-ubuntu-linux-users-moving-to-version-2404/"><u>Mastering the Transition: Seamless Update Strategies for Ubuntu Linux Users Moving to Version 24.04</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-a-tale-of-office-woes/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown: A Tale of Office Woes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/open-source-mandate-switzerlands-federal-govt-moves-all-software-public/"><u>Open-Source Mandate: Switzerland's Federal Govt. Moves All Software Public</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reactivating-dark-mode-on-facebook-simple-solutions-for-a-stylish-interface/"><u>Reactivating Dark Mode on Facebook: Simple Solutions for a Stylish Interface</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamless-dell-audio-driver-installation-made-simple/"><u>Seamless Dell Audio Driver Installation Made Simple</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section/"><u>Section</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-update-issues-in-windows-10-resolve-error-code-0x800f0922/"><u>Solving Update Issues in Windows 10: Resolve Error Code 0X800f0922</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-save-your-memories-by-rescuing-deleted-iphones-pictures-efficiently/"><u>Step-by-Step Guide: Save Your Memories by Rescuing Deleted iPhones Pictures Efficiently</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranking-mac-software-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking Mac Software : A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-resolving-modern-warfare-3-mw3-errors/"><u>Troubleshooting Steps for Resolving Modern Warfare 3 MW3 Errors</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-delightful-no-cost-access-to-youtubes-nine-full-length-yule-celebrations/"><u>[New] Delightful, No-Cost Access to YouTube's Nine Full-Length Yule Celebrations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-twitch-facebook-collaboration-for-content-distribution/"><u>[Updated] Twitch-Facebook Collaboration for Content Distribution</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-premium-list-top-8-android-calls-with-multiple-users/"><u>2024 Approved Premium List Top 8 Android Calls with Multiple Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-new-era-of-advertising-embracing-the-metaverse/"><u>2024 Approved The New Era of Advertising Embracing the Metaverse</u></a></li>
+<li><a href="https://app-tips.techidaily.com/championing-creativity-in-ai-development-bank-chief-rejects-relying-on-simple-prompts-urges-intellectual-revolution-zdnet/"><u>Championing Creativity in AI Development, Bank Chief Rejects Relying on Simple Prompts; Urges Intellectual Revolution | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empower-management-with-ai-essential-training-strategies-before-deployment/"><u>Empower Management with AI: Essential Training Strategies Before Deployment</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-executives-with-tech-expertise-six-essential-tips-to-foster-digital-proficiency-in-management-teams/"><u>Empowering Executives with Tech Expertise - Six Essential Tips to Foster Digital Proficiency in Management Teams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-ai-evolution-is-pushing-the-limits-of-todays-tech-infrastructure-insights-from-zdnet/"><u>How AI Evolution Is Pushing the Limits of Today's Tech Infrastructure: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-fintech-figures-demand-thinking-revolution-not-simple-prompts-to-shape-ai-future/"><u>Leading Fintech Figures Demand Thinking Revolution, Not Simple Prompts, to Shape AI Future</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-transition-utilizing-gpt-4-within-todays-chatgpt-setup/"><u>Seamless Transition: Utilizing GPT-4 Within Today's ChatGPT Setup</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/unleashing-potential-the-extensive-functionality-of-samsung-gear-s3-frontier-examined-in-depth/"><u>Unleashing Potential: The Extensive Functionality of Samsung Gear S3 Frontier Examined in Depth</u></a></li>
 </ul></div>
 

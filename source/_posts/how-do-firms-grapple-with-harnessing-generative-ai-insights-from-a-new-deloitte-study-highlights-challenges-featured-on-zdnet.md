@@ -1,7 +1,7 @@
 ---
 title: "How Do Firms Grapple with Harnessing Generative AI: Insights From a New Deloitte Study Highlights Challenges - Featured on ZDNet"
-date: 2024-10-01T17:38:57.454Z
-updated: 2024-10-06T17:37:58.716Z
+date: 2024-10-06T22:14:50.573Z
+updated: 2024-10-11T20:01:19.914Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,24 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigating-the-top-10-ways-to-improve-fb-page-rankings/"><u>[New] 2024 Approved Navigating the Top 10 Ways to Improve FB Page Rankings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-convert-ppt-to-motion-picture/"><u>[New] Convert PPT to Motion Picture</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-digital-media-mapper/"><u>[New] In 2024, Digital Media Mapper</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-avoiding-pitfalls-in-low-light-portrait-photography/"><u>[Updated] 2024 Approved Avoiding Pitfalls in Low-Light Portrait Photography</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-game-changing-entrant-in-the-video-call-arena-outshines-microsoft-teams-and-zoom-with-lip-reading-capabilities-zdnet/"><u>A Game-Changing Entrant in the Video Call Arena Outshines Microsoft Teams and Zoom with Lip-Reading Capabilities | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/anthropic-unveils-newly-released-free-claude-mobile-application-on-ios-announces-premium-enterprise-solution-a-breakthrough-for-business-efficiency/"><u>Anthropic Unveils Newly Released Free Claude Mobile Application on iOS; Announces Premium Enterprise Solution: A Breakthrough for Business Efficiency!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/arista-expands-into-mid-range-sector-with-advanced-cognitive-network-solutions/"><u>Arista Expands Into Mid-Range Sector with Advanced Cognitive Network Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/celona-secures-60m-in-funding-drives-enterprise-level-5g-innovation-tech-news/"><u>Celona Secures $60M in Funding, Drives Enterprise-Level 5G Innovation - Tech News</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cybersecurity-measures/"><u>Cybersecurity Measures</u></a></li>
-<li><a href="https://app-tips.techidaily.com/defending-your-microsoft-profile-from-hacking-risks-expert-tips-for-enhanced-security-digitalguardianblog/"><u>Defending Your Microsoft Profile From Hacking Risks: Expert Tips for Enhanced Security - DigitalGuardianBlog</u></a></li>
-<li><a href="https://extra-information.techidaily.com/guiding-steps-for-obtaining-professional-grade-images/"><u>Guiding Steps for Obtaining Professional-Grade Images</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-google-pixel-fold-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Google Pixel Fold Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-sony-xperia-5-v-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Sony Xperia 5 V</u></a></li>
-<li><a href="https://facebook.techidaily.com/innovating-leadership-sheryls-time-at-facebook-inc/"><u>Innovating Leadership: Sheryl’s Time at Facebook Inc</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-rising-complexity-of-ops-how-it-professionals-address-emerging-challenges/"><u>Navigating the Rising Complexity of 'Ops': How IT Professionals Address Emerging Challenges</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-through-disorder-revolutionary-fixes-for-cluttered-linux-and-open-source-guides-on-zdnet/"><u>Navigating Through Disorder: Revolutionary Fixes for Cluttered Linux & Open-Source Guides on ZDNet</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/powerhouse-gaming-pc-resembles-laptop-design-ultra-mini-with-i9-14900hx-and-rtx/"><u>Powerhouse Gaming PC Resembles Laptop Design - Ultra Mini with I9-14900HX & RTX</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-rest-with-ihome-zenergy-a-detailed-breakdown-for-a-radiant-dawn/"><u>Revolutionize Your Rest with IHome Zenergy: A Detailed Breakdown for a Radiant Dawn</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rocky-linux-receives-major-backing-with-ciq-as-principal-supporter-insights-from-the-tech-community/"><u>Rocky Linux Receives Major Backing with CIQ as Principal Supporter - Insights From the Tech Community</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/obile-mastery-in-thumbnail-creation-for-engaging-youtube-videos-for-2024/"><u>[New] Mobile Mastery in Thumbnail Creation for Engaging YouTube Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-guide-top-10-gratis-mmo-rpgs-for-2024/"><u>[New] Ultimate Guide Top 10 Gratis MMO RPGs for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-videopro-4k-monitors-the-cutting-edge-in-visualization/"><u>[Updated] 2024 Approved VideoPro 4K Monitors The Cutting Edge in Visualization</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-online-and-offline-photo-fusion-guide/"><u>[Updated] Online and Offline Photo Fusion Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adapting-cyber-defense-tactics-modernizing-security-expertise-amidst-outdated-infrastructure-challenges/"><u>Adapting Cyber Defense Tactics: Modernizing Security Expertise Amidst Outdated Infrastructure Challenges</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/7-high-resolution-dslrs-for-engaging-video-blogs-for-2024/"><u>Best 7 High-Resolution DSLRs for Engaging Video Blogs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-version-of-amd-radeon-r5-graphics-drivers-for-all-windows-versions-w11w10w8w7/"><u>Download the Latest Version of AMD Radeon R5 Graphics Drivers for All Windows Versions (W11/W10/W8/W7)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/finding-reliable-artificial-intelligence-watermarks-insights-from-zdnet/"><u>Finding Reliable Artificial Intelligence Watermarks: Insights From ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974917463-get-the-latest-gigabyte-ethernet-drivers-here-free-download/"><u>Get the Latest Gigabyte Ethernet Drivers Here - Free Download</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-xiaomi-13t-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Xiaomi 13T?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-will-artificial-intelligence-impact-future-careers-in-cybersecurity-challenges-and-opportunities/"><u>How Will Artificial Intelligence Impact Future Careers in Cybersecurity?: Challenges & Opportunities</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapores-push-investing-in-ai-and-green-tech-transformation-insights-from-zdnet/"><u>Singapore's Push: Investing in AI & Green Tech Transformation - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-bulletproof-ai-watermarks-insights-from-zdnet/"><u>The Ultimate Guide to Bulletproof AI Watermarks: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-plans-of-2024-comprehensive-reviews-and-comparisons-techradar/"><u>Top-Ranked Web Hosting Plans of 2024: Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-by-tech-gurus-zdnets-exclusive-insights/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews by Tech Gurus | ZDNet's Exclusive Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-profitability-with-generative-ai-understanding-roi-challenges-and-strategies-featured-in-zdnet/"><u>Unlocking Profitability with Generative AI: Understanding ROI Challenges and Strategies | Featured in ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-data-as-key-ingredient-in-crafting-smart-ai-solutions-strategies-for-completing-your-technological-jigsaw/"><u>Unveiling Data as Key Ingredient in Crafting Smart AI Solutions: Strategies for Completing Your Technological Jigsaw</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On HTC U23 Pro | Dr.fone</u></a></li>
 </ul></div>
 

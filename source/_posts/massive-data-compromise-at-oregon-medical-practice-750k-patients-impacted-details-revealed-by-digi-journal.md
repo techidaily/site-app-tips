@@ -1,7 +1,7 @@
 ---
 title: "Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal"
-date: 2024-10-05T16:15:53.978Z
-updated: 2024-10-06T16:25:53.654Z
+date: 2024-10-08T07:15:44.719Z
+updated: 2024-10-11T19:29:58.531Z
 tags:
   - password-manager
 categories:
@@ -82,27 +82,27 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-essential-guide-to-compositing-using-blending-modes-for-2024/"><u>[New] Essential Guide to Compositing Using Blending Modes for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-markets-tiny-helicopters-a-ranked-list/"><u>[Updated] Market's Tiny Helicopters A Ranked List</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mkv-movavi/"><u>線上免收費MKV預覽 - Movavi</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-fongo-evaluation-best-canadian-voip-provider/"><u>Comprehensive Fongo Evaluation: Best Canadian VOIP Provider</u></a></li>
-<li><a href="https://app-tips.techidaily.com/devops-engineer-career-navigating-the-pros-cons-and-challenges-insights-from-zdnet/"><u>DevOps Engineer Career: Navigating the Pros, Cons, and Challenges – Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/five-alternatives-to-explore-as-microsofts-support-for-windows-10-concludes-insights-from-zdnet/"><u>Five Alternatives to Explore as Microsoft's Support for Windows 10 Concludes - Insights From ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-13t-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi 13T Through Google Earth?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/interference-reduction/"><u>Interference Reduction</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/laptop-guide-conducting-live-calls-on-whatsapp-browser-for-2024/"><u>Laptop Guide Conducting Live Calls on WhatsApp Browser for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/motion-detection/"><u>Motion Detection</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-precision-listening-top-audio-customization-techniques-for-2024/"><u>New Precision Listening Top Audio Customization Techniques for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transitioning-from-windows-home-to-professional-key-benefits-unveiled/"><u>Step-by-Step Guide: Transitioning From Windows Home to Professional - Key Benefits Unveiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-converting-your-computer-from-windows-to-linux-mint-for-beginners/"><u>Step-by-Step Tutorial: Converting Your Computer From Windows to Linux Mint for Beginners</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-compelling-benefits-of-adopting-aiops-insights-from-zdnet/"><u>Top 7 Compelling Benefits of Adopting AIOps: Insights From ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-laptop-the-ultimate-guide-to-free-movie-decoders/"><u>[New] Laptop The Ultimate Guide to Free Movie Decoders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-how-to-reactivate-your-photo-viewer-in-win-11-proactively/"><u>[Updated] In 2024, How to Reactivate Your Photo Viewer in Win 11 Proactively</u></a></li>
+<li><a href="https://article-posts.techidaily.com/10-best-classic-family-vacation-movie-for-summer/"><u>10 Best Classic Family Vacation Movie for Summer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-eva-formerly-ex-journey-ai-chatbot-overview-essential-insights/"><u>Comprehensive EVA (Formerly Ex Journey) AI Chatbot Overview - Essential Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevenlabs-ai-voice-generation-review-with-a-look-at-other-options/"><u>ElevenLabs AI: Voice Generation Review with a Look at Other Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-bing-chat-how-to-converse-using-cutting-edge-gpt-language-models-by-microsoft/"><u>Exploring Bing Chat: How to Converse Using Cutting-Edge GPT Language Models by Microsoft</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-discord-from-crashing-while-live-streaming-expert-tips-and-tricks/"><u>How to Stop Discord From Crashing While Live-Streaming: Expert Tips & Tricks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-a-facebook-retail-venture-on-the-horizon-for-local-shoppers/"><u>Is a Facebook Retail Venture on the Horizon for Local Shoppers?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-and-greatest-epson-artisan-1430-driver-for-windows-operating-systems-download-now/"><u>Latest and Greatest Epson Artisan 1430 Driver for Windows Operating Systems - Download Now!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-through-the-best-of-ai-conversational-agents-in-depth-review-of-chatgpt/"><u>Navigating Through The Best of AI Conversational Agents: In-Depth Review Of ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-advanced-chatbot-innovations-combining-gpt-tech-with-astrological-insights/"><u>The Ultimate Guide to Advanced Chatbot Innovations Combining GPT Tech with Astrological Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-expert-assessment-and-key-features-of-the-revolutionary-ai-chatbot-chatsoner/"><u>The Ultimate Walkthrough: Expert Assessment and Key Features of the Revolutionary AI Chatbot, Chatsoner</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-choosing-a-leading-ai-companion-spotlight-on-chatgpts-excellence/"><u>Ultimate Guide to Choosing a Leading AI Companion: Spotlight on ChatGPT's Excellence</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

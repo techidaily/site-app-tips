@@ -1,7 +1,7 @@
 ---
 title: Gartner Reveals Half of Generative AI Initiatives End in Failure - Insights From ZDNet
-date: 2024-10-02T17:03:18.437Z
-updated: 2024-10-06T16:58:04.998Z
+date: 2024-10-09T09:21:00.847Z
+updated: 2024-10-12T09:27:10.425Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +187,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-record-video-on-google-hangouts/"><u>[New] In 2024, How to Record Video on Google Hangouts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-checklist-to-record-web-chats/"><u>[New] The Ultimate Checklist to Record Web Chats</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-leading-emulators-top-5-for-playing-ps3-games-on-pc-for-2024/"><u>[Updated] Leading Emulators Top 5 for Playing PS3 Games on PC for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-the-course-for-your-niche-in-the-youtube-world/"><u>Charting the Course for Your Niche in the YouTube World</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-strategies-for-reconstructing-your-itunes-music-library-in-depth-guide/"><u>Expert Strategies for Reconstructing Your iTunes Music Library (In-Depth Guide)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-speed-up-your-itunes-experience-a-complete-guide-with-10-effective-steps/"><u>How to Speed Up Your iTunes Experience: A Complete Guide with 10 Effective Steps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-central-points-for-virtual-world-engagement/"><u>In 2024, Central Points for Virtual World Engagement</u></a></li>
-<li><a href="https://app-tips.techidaily.com/need-help-resetting-your-itunes-login-details-explore-proven-strategies-for-recovery/"><u>Need Help Resetting Your iTunes Login Details? Explore Proven Strategies for Recovery</u></a></li>
-<li><a href="https://app-tips.techidaily.com/recover-your-missed-texts-and-voicemails-tips-for-retrieving-accidentally-erased-data-on-itunes/"><u>Recover Your Missed Texts and Voicemails: Tips for Retrieving Accidentally Erased Data on iTunes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/speedy-installation-how-to-get-the-right-keyboard-driver-for-windows-7/"><u>Speedy Installation: How to Get the Right Keyboard Driver for Windows 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-next-chapter-in-gaming-meta-quest-3-reviewed/"><u>The Next Chapter in Gaming: Meta Quest 3 Reviewed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-steps-to-take-if-itunes-fails-to-identify-your-iphone/"><u>Troubleshooting: Steps to Take if iTunes Fails to Identify Your iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-move-and-enjoy-your-itunes-collection-on-android-phones-and-tablets/"><u>Ultimate Guide to Move and Enjoy Your iTunes Collection on Android Phones & Tablets</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/windows-1011wavmp3/"><u>Windows 10/11でWAV音声ファイルからMP3への変換ガイド</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebook-today-the-updated-guide/"><u>2024 Approved Facebook Today The Updated Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieving-excellence-in-agile-software-engineering-unveiling-the-6-key-principles-for-a-thriving-design-process/"><u>Achieving Excellence in Agile Software Engineering: Unveiling the 6 Key Principles for a Thriving Design Process</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anticipating-windows-12-release-latest-updates-and-unexpected-forecasts-techinsights/"><u>Anticipating Windows 12 Release: Latest Updates & Unexpected Forecasts | TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-development-process-with-generative-ai-tips-for-success-and-potential-hazards/"><u>Boost Your Development Process with Generative AI - Tips for Success & Potential Hazards</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-vivaldis-new-inbuilt-email-application-a-marvel-of-efficiency-and-style-tech-insights/"><u>Discover Vivaldi’s New Inbuilt Email Application: A Marvel of Efficiency and Style | Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-why-aiops-matters-7-key-points-backed-by-zdnets-research/"><u>Discover Why AIOps Matters: 7 Key Points Backed by ZDNet's Research</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175662321-expert-advice-for-upgrading-your-rig-check-out-toms-hardware/"><u>Expert Advice for Upgrading Your Rig? Check Out Tom's Hardware!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-by-drfone-android/"><u>Full Guide to Unlock Your Honor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-free-graphics-websites-a-compreran-analysis/"><u>In 2024, Top 10 FREE Graphics Websites A Compreran Analysis</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/polishing-the-final-product-perfect-for-instagrams-audience/"><u>Polishing the Final Product Perfect for Instagram's Audience</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/pro-level-efficiency-with-get-shtdone-pro-top-pick-premium-bootstrap-themes-by-creative-tim/"><u>Pro-Level Efficiency with Get Sh!tDone PRO: Top Pick Premium Bootstrap Themes by Creative Tim</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-your-nonfunctional-astro-a20-microphone/"><u>Quick Solutions for Your Nonfunctional Astro A20 Microphone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-guide-capturing-your-pc-screenshots-in-windows-10-without-using-the-xbox-game-bar/"><u>Ultimate Guide: Capturing Your PC Screenshots in Windows 10 Without Using the Xbox Game Bar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-corporate-potential-through-ai-discover-anthropics-claude-for-scalable-innovation/"><u>Unleashing Corporate Potential Through AI: Discover Anthropic's Claude for Scalable Innovation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/work-seamlessly-offline-on-onedrive-manage-your-documents-even-in-rural-locations-as-featured-by-zdnet/"><u>Work Seamlessly Offline on OneDrive - Manage Your Documents Even in Rural Locations, as Featured by ZDNet</u></a></li>
 </ul></div>
 

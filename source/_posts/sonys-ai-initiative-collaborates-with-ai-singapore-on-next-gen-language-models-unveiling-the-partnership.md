@@ -1,7 +1,7 @@
 ---
 title: "Sony's AI Initiative Collaborates with AI Singapore on Next-Gen Language Models: Unveiling the Partnership"
-date: 2024-09-22T00:28:18.742Z
-updated: 2024-09-26T00:53:30.283Z
+date: 2024-10-09T01:10:48.015Z
+updated: 2024-10-12T07:03:39.459Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-engineering-eye-catching-podcast-sizzle-reels/"><u>[New] Engineering Eye-Catching Podcast Sizzle Reels</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-your-digital-presence-through-strategic-social-media-mastery/"><u>[New] Revolutionizing Your Digital Presence Through Strategic Social Media Mastery</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elite-6-software-for-audiovisual-translation/"><u>[Updated] In 2024, Elite 6 Software for Audio/Visual Translation</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-tailoring-your-content-strategy-for-changed-algorithms/"><u>2024 Approved Tailoring Your Content Strategy for Changed Algorithms</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-methods-for-sharing-big-videos-via-whatsapp-on-your-iphone/"><u>Effective Methods for Sharing Big Videos via WhatsApp on Your iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-strategies-managing-your-visibility-and-last-seen-timestamp-on-whatsapp/"><u>Expert Strategies: Managing Your Visibility and Last Seen Timestamp on WhatsApp</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-windows-hdr-video-features/"><u>Exploring Windows HDR Video Features</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/cial-magnitude-in-mr-beasts-realm-for-2024/"><u>Financial Magnitude in Mr. Beast's Realm for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guaranteed-methods-restore-deleted-whatsapp-content-on-your-iphone-including-messages-photos-videos-and-audio/"><u>Guaranteed Methods: Restore Deleted WhatsApp Content on Your iPhone Including Messages, Photos, Videos & Audio</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-discreetly-adjust-and-verify-whatsapps-last-seen-feature-with-proven-tips/"><u>How to Discreetly Adjust and Verify WhatsApp's 'Last Seen' Feature with Proven Tips</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-14-pro-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 14 Pro Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-nokia-c110-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Nokia C110</u></a></li>
-<li><a href="https://app-tips.techidaily.com/swift-solutions-retrieving-your-lost-whatsapp-messages-on-iphone-with-simple-techniques/"><u>Swift Solutions: Retrieving Your Lost WhatsApp Messages on iPhone with Simple Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-on-restoring-past-whatsapp-dialogues-and-mastering-the-art-of-unarchiving-texts/"><u>The Ultimate Tutorial on Restoring Past WhatsApp Dialogues & Mastering the Art of Unarchiving Texts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/update-your-contact-info-a-step-by-step-guide-to-changing-your-phone-number-on-whatsapp/"><u>Update Your Contact Info: A Step-by-Step Guide to Changing Your Phone Number on WhatsApp</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/drevenue-on-youtube-unpacked-average-income-from-1000-viewers-engagement-for-2024/"><u>[New] AdRevenue on YouTube Unpacked Average Income From 1,000 Viewers' Engagement for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-customizing-windows-photos-to-enjoy-music-on-every-picture-for-2024/"><u>[New] Customizing Windows Photos to Enjoy Music on Every Picture for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-dive-into-picsart-comprehensive-analysis-release-for-2024/"><u>[New] Dive Into PicsArt - Comprehensive Analysis Release for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/10-top-tools-for-dynamic-image-background-alterations-for-2024/"><u>10 Top Tools for Dynamic Image Background Alterations for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dreaming-in-color-the-revolutionary-hp-monitor-z32x/"><u>Dreaming in Color The Revolutionary HP Monitor, Z32X</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-ultimate-top-5-to-do-apps-for-boosting-productivity-cnet/"><u>Exploring the Ultimate Top 5 To-Do Apps for Boosting Productivity - CNET</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-leading-camera-brands-the-15-best-selection/"><u>In 2024, Leading Camera Brands – The 15 Best Selection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-low-code-development-for-enhanced-employer-branding-a-look-at-zdnet-perspectives/"><u>Leveraging Low-Code Development for Enhanced Employer Branding: A Look at ZDnet Perspectives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-obstacles-to-utilize-generative-ai-effectively-reveals-new-study-by-deloitte-featured-on-zdnet/"><u>Overcoming Obstacles to Utilize Generative AI Effectively, Reveals New Study by Deloitte Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/scaling-your-business-with-anthropics-revolutionary-claude-platform-unleash-the-power-of-ai/"><u>Scaling Your Business with Anthropic's Revolutionary Claude Platform: Unleash the Power of AI</u></a></li>
+<li><a href="https://app-tips.techidaily.com/soaring-investments-in-generative-ai-training-overlooked-by-insufficient-risk-metrics-reveals-new-research-from-stanford-zdnet-exclusive/"><u>Soaring Investments in Generative AI Training Overlooked by Insufficient Risk Metrics, Reveals New Research From Stanford | ZDNET Exclusive</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-cinematic-look-a-comprehensive-guide-to-fcpx-video-editing/"><u>Updated 2024 Approved The Cinematic Look A Comprehensive Guide to FCPX Video Editing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/verizon-enhances-enterprise-solutions-with-celonas-innovative-5g-technology/"><u>Verizon Enhances Enterprise Solutions with Celona's Innovative 5G Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-5-main-options-for-continued-use/"><u>Windows 10 End of Life Approaching: Discover Your 5 Main Options for Continued Use</u></a></li>
 </ul></div>
 

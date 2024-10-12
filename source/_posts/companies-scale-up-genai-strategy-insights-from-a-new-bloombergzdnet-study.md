@@ -1,7 +1,7 @@
 ---
 title: "Companies Scale Up GenAI Strategy: Insights From a New Bloomberg/ZDNet Study"
-date: 2024-09-25T02:09:42.971Z
-updated: 2024-09-26T03:25:18.364Z
+date: 2024-10-10T04:52:40.158Z
+updated: 2024-10-11T23:39:01.864Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,24 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-the-art-of-youtube-posts-via-instagram-stories-for-2024/"><u>[New] Mastering the Art of YouTube Posts via Instagram Stories for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-media-recorder-disassembler-for-2024/"><u>[Updated] Media Recorder Disassembler for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-music-magic-for-instagram-a-guide-for-2024/"><u>[Updated] Music Magic for Instagram A Guide for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unleash-your-inner-videographer-with-these-4-methods-on-xbox/"><u>[Updated] Unleash Your Inner Videographer with These 4 Methods on Xbox</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-budget-friendly-android-block-puzzles-expert-reviews-and-how-to-get-them/"><u>Best Budget-Friendly Android Block Puzzles - Expert Reviews & How to Get Them</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-htc-u23-pro-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on HTC U23 Pro.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-youcut-tool-insights-and-essential-information/"><u>Comprehensive Guide to YouCut Tool : Insights & Essential Information</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-wifi-code-finder-for-android-devices-unlock-and-organize-your-connections-with-our-password-manager/"><u>Easy WiFi Code Finder for Android Devices: Unlock and Organize Your Connections with Our Password Manager</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-your-photography-skills-iphone-camera-tricks-and-effective-techniques/"><u>Enhancing Your Photography Skills: IPhone Camera Tricks & Effective Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/fresh-camera-lens-captured-analysis-with-backup-titles-for-2024/"><u>Fresh Camera Lens Captured Analysis with Backup Titles for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620189235-get-your-favorite-android-games-on-lockdown-the-ultimate-list-of-20-free-full-version-apks-to-download-today/"><u>Get Your Favorite Android Games on Lockdown: The Ultimate List of 20 Free, Full-Version APKs to Download Today</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-chorus-of-chats-music-infusion-in-whatsapp/"><u>In 2024, Chorus of Chats Music Infusion in WhatsApp</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Xiaomi Civi 3? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-6-mobile-text-defense-tools-to-shield-conversations-on-android-smartphones/"><u>Leading 6 Mobile Text Defense Tools to Shield Conversations on Android Smartphones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-tech-knowledge-advanced-reviews-by-toms-hardware-experts/"><u>Master Your Tech Knowledge: Advanced Reviews by Tom's Hardware Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/most-effective-iphone-surveillance-software-your-ultimate-guide-to-discreet-monitoring-tools/"><u>Most Effective iPhone Surveillance Software: Your Ultimate Guide to Discreet Monitoring Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-choice-affordable-samsung-mp3-players-compatible-with-galaxy-s8-s9-and-pcs-both-free-and-premium-options-available/"><u>Top Choice Affordable Samsung MP3 Players: Compatible with Galaxy S8, S9 & PCs [Both Free & Premium Options Available]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-choosing-the-best-app-to-check-if-your-android-is-rooted/"><u>Ultimate Guide: Choosing the Best App to Check if Your Android Is Rooted</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-sound-of-you-how-to-add-a-personal-touch-with-ringtones-and-alerts-on-android-phones/"><u>[New] The Sound of You How to Add a Personal Touch with Ringtones and Alerts on Android Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-power-of-srt-editing-for-mac-users/"><u>[New] Unlocking the Power of SRT Editing for Mac Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-detect-if-someone-has-muted-or-blocked-you-on-snapchat/"><u>[Updated] How to Detect If Someone Has Muted or Blocked You on Snapchat</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-on-managing-your-iphones-icloud-storage-backup-restoration-and-deletion-tips/"><u>Complete Guide on Managing Your iPhone's iCloud Storage: Backup, Restoration & Deletion Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-on-securing-data-full-process-for-backing-up-and-synchronizing-your-iphone-via-icloud/"><u>Comprehensive Tutorial on Securing Data: Full Process for Backing Up & Synchronizing Your iPhone via iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-accessing-your-icloud-keychain-passwords-across-iphone-ipad-and-mac/"><u>Guide: Accessing Your iCloud Keychain Passwords Across iPhone, iPad & Mac</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-yuva-2-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-picture-perusal-made-easy-top-alternatives-for-non-iphone-users/"><u>ICloud Picture Perusal Made Easy – Top Alternatives for Non-iPhone Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nubia-z50s-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nubia Z50S Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS with a Mask On</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-narzo-n55-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme Narzo N55 Phone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-windows-photo-inspector-fast-edition/"><u>In 2024, Top Windows Photo Inspector, Fast Edition</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-ios-photography-tips-on-managing-camera-roll-photo-library-and-pictures/"><u>Navigating iOS Photography: Tips on Managing Camera Roll, Photo Library, and Pictures</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264415-troubleshoot-your-icloud-picture-sharing-problems-for-ios-devices-and-macbook-computers-essential-steps/"><u>Troubleshoot Your iCloud Picture Sharing Problems for iOS Devices and MacBook Computers - Essential Steps!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme 11 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

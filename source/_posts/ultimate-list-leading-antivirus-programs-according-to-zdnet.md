@@ -1,7 +1,7 @@
 ---
 title: "Ultimate List: Leading Antivirus Programs , According to ZDNet"
-date: 2024-10-03T16:38:31.139Z
-updated: 2024-10-06T18:09:05.170Z
+date: 2024-10-04T16:40:01.610Z
+updated: 2024-10-12T02:03:18.459Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +187,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-expert-tips-for-seamless-iphone-screen-recordings/"><u>[Updated] In 2024, Expert Tips for Seamless iPhone Screen Recordings</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-incorporating-live-streaming-your-ultimate-website-guide/"><u>[Updated] Incorporating Live Streaming Your Ultimate Website Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/5-essential-productivity-hacks-for-streamlining-your-day-to-day-tasks-insights-from-zdnet/"><u>5 Essential Productivity Hacks for Streamlining Your Day-to-Day Tasks: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/buy-ashamapoos-pro-3d-cad-software-version-11-at-a-steal-just-40-on-zdnet-today/"><u>Buy Ashamapoo's Pro 3D CAD Software Version 11 at a Steal: Just $40 on ZDNet Today!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-top-4-open-source-slack-substitutes-to-elevate-your-teams-communication-game-explore-the-options-on-zdnet/"><u>Discover Top 4 Open-Source Slack Substitutes to Elevate Your Team's Communication Game - Explore the Options on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-updates-to-libreoffice-for-mac-users-a-comprehensive-installation-tutorial-on-zdnet/"><u>Discover Updates to LibreOffice for Mac Users – A Comprehensive Installation Tutorial on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/excel-mastery-how-to-craft-stunning-tables-for-data-presentation/"><u>Excel Mastery: How to Craft Stunning Tables for Data Presentation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-yours-before-it-sells-out-exclusive-moto-tags-for-motorcycles-are-ready/"><u>Get Yours Before It Sells Out: Exclusive Moto Tags For Motorcycles Are Ready!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-the-importance-of-ai-integration-and-rust-language-in-evolving-the-linux-kernel-the-core-aspect-driving-tech-forward/"><u>Linus Torvalds Discusses the Importance of AI Integration and Rust Language in Evolving the Linux Kernel - The Core Aspect Driving Tech Forward</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-btballloondll-file-not-presentmissing-issue-on-your-pc/"><u>Resolving the btballloon.dll File Not Present/Missing Issue on Your PC</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/tp-link-re200-ac750-wi-fi-range-extender-review/"><u>TP-Link RE200 AC750 Wi-Fi Range Extender Review</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unveiling-secret-youtube-clips-a-step-by-step-guide/"><u>Unveiling Secret YouTube Clips A Step-by-Step Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-siris-tone-a-guide-to-altering-siris-vocal-style/"><u>Updated Mastering Siris Tone A Guide to Altering Siris Vocal Style</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-update-needed-microsofts-crucial-challenge-with-windows-10-countdown-begins/"><u>Urgent Update Needed: Microsoft's Crucial Challenge with Windows 10 Countdown Begins!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-how-to-avoid-and-eliminate-fog-on-gopro-lenshousing/"><u>[New] How to Avoid and Eliminate Fog on GoPro Lens/Housing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-revolution-in-business-understanding-the-shift-to-hundreds-of-models-for-operational-excellence-perspectives-by-zdnet/"><u>AI Revolution in Business: Understanding the Shift to Hundreds of Models for Operational Excellence - Perspectives by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-at-forefront-non-cash-payments-projected-to-reach-16-trillion/"><u>Asia at Forefront: Non-Cash Payments Projected to Reach $1.6 Trillion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cio-warns-against-complacency-in-ai-development-advocates-for-innovative-thinkers-over-simplistic-ai-prompts-insights-from-zdnet/"><u>CIO Warns Against Complacency in AI Development; Advocates for Innovative Thinkers over Simplistic AI Prompts - Insights From ZDNet</u></a></li>
+<li><a href="https://solve-info.techidaily.com/cookiebot-driven-success-optimizing-your-website-with-advanced-analytics/"><u>Cookiebot-Driven Success: Optimizing Your Website with Advanced Analytics</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-12-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 12 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-scripts-crafting-captivating-video-blogs/"><u>In 2024, Perfect Scripts Crafting Captivating Video Blogs</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/master-the-art-of-protecting-your-windows-11windows-10-system-partition-effortlessly/"><u>Master the Art of Protecting Your Windows 11/Windows 10 System Partition Effortlessly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/open-source-as-a-magnet-for-elite-creativity-and-innovation-zdnet/"><u>Open Source as a Magnet for Elite Creativity and Innovation | ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-data-retrieval-tool-restore-lost-data-from-oppo-a78-5g-by-fonelab-android-recover-data/"><u>Oppo Data Retrieval tool – restore lost data from Oppo A78 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-ethernet-connectivity-on-windows/"><u>Re-Establishing Ethernet Connectivity on Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-business-intelligence-direct-access-to-corporate-chief-engineers-via-ai-chains-zdnet/"><u>Revolutionizing Business Intelligence: Direct Access to Corporate Chief Engineers via AI Chains | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-misconception-among-smbs-about-not-needing-cyber-insurance-despite-potential-risks-perspectives-by-zdnet/"><u>The Misconception Among SMBs About Not Needing Cyber Insurance Despite Potential Risks - Perspectives by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-next-horizon-in-employment-how-ai-agents-are-set-to-permanently-reshape-our-careers/"><u>The Next Horizon in Employment: How AI Agents Are Set to Permanently Reshape Our Careers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-importance-of-addressing-legacy-technology-lessons-from-a-failed-system-upgrade/"><u>Understanding the Importance of Addressing Legacy Technology: Lessons From a Failed System Upgrade</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-talent-quest-episodes-1-10-for-2024/"><u>Viral Talent Quest Episodes #1-10 for 2024</u></a></li>
 </ul></div>
 

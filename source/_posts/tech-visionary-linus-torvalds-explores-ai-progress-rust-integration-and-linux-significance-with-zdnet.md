@@ -1,7 +1,7 @@
 ---
 title: Tech Visionary Linus Torvalds Explores AI Progress, Rust Integration, and Linux Significance with ZDNET
-date: 2024-09-30T10:54:54.554Z
-updated: 2024-09-30T21:30:39.374Z
+date: 2024-10-05T23:22:57.665Z
+updated: 2024-10-11T16:08:52.114Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-launching-an-impactful-instagram-live-session/"><u>[New] 2024 Approved Launching an Impactful Instagram Live Session</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-snaprecorder-expert-breakdowns/"><u>[New] 2024 Approved SnapRecorder Expert Breakdowns</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-frosty-slopes-showdown-olympic-snowboard-cross-action/"><u>[New] Frosty Slopes Showdown Olympic Snowboard Cross Action</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-choreography-of-audio-and-visuals-a-guide-to-editing-videos/"><u>[New] The Choreography of Audio and Visuals A Guide to Editing Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-filmmakers-toolkit-essential-tips-for-youtube-creators-with-smartphones/"><u>[New] The Filmmaker's Toolkit Essential Tips for YouTube Creators with Smartphones</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-audience-connection-mastering-the-art-of-viewpoint-based-youtube-reaction-vids-2-pov-method-for-2024/"><u>[Updated] Audience Connection – Mastering the Art of Viewpoint-Based YouTube Reaction Vids (2 POV Method) for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/6-effective-methods-for-restoring-your-icloud-account-password/"><u>6 Effective Methods for Restoring Your iCloud Account Password</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlefield-v-blue-screen-fix-resolving-memory-error-1760-on-ps4-and-gaming-laptop/"><u>Battlefield V Blue Screen Fix - Resolving Memory Error 1760 on PS4 & Gaming Laptop</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-on-cloud-storage-protecting-data-for-ipads-pro-mini-and-air-via-icloud/"><u>Complete Tutorial on Cloud Storage: Protecting Data for iPads (Pro, Mini, and Air) via iCloud</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dawn-on-a-lenovo-once-in-blackout/"><u>Dawn on a Lenovo, Once in Blackout</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-easily-and-instantly-unlock-your-device-from-apples-icloud/"><u>How to Easily and Instantly Unlock Your Device From Apple's iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620264535-how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-retrieve-your-forgotten-iphone-itunes-backup-passcode/"><u>How to Retrieve Your Forgotten iPhone iTunes Backup Passcode</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-motorola-edge-40-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Motorola Edge 40 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-apples-icloud-family-sharing-an-in-depth-tutorial-for-seamless-collaboration/"><u>Mastering Apple's iCloud Family Sharing - An In-Depth Tutorial for Seamless Collaboration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-and-simple-methods-accessing-your-icloud-photos-without-an-iphone/"><u>Quick & Simple Methods: Accessing Your iCloud Photos Without an iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/struggling-with-a-forgotten-icloud-login-discover-these-6-effective-remedies/"><u>Struggling with a Forgotten iCloud Login? Discover These 6 Effective Remedies!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-liberating-tracks-with-pazeras-tools-for-2024/"><u>The Ultimate Guide to Liberating Tracks with Pazera's Tools for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620263135-ultimate-guide-steps-for-removing-your-icloud-email-address-top-strategies-inside/"><u>Ultimate Guide: Steps for Removing Your iCloud Email Address - Top Strategies Inside!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gamers-selection-top-livestraning-tech-picks/"><u>[New] Gamer's Selection Top Livestraning Tech Picks</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advanced-array-designs-employ-strategies-like-amplitude-tapering-and-null-steering-algorithms-to-control-side-lobes-for-improved-directivity-and-reduced-int87/"><u>Advanced Array Designs Employ Strategies Like Amplitude Tapering and Null-Steering Algorithms to Control Side Lobes for Improved Directivity and Reduced Interference Potential.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-initiatives-surge-by-10x-in-recent-year-insights-from-latest-research-zdnet/"><u>AI Initiatives Surge by 10X in Recent Year - Insights From Latest Research | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/conquering-chaos-in-linuxopen-source-guidebooks-explore-our-streamlined-remedy-zdnet/"><u>Conquering Chaos in Linux/Open-Source Guidebooks: Explore Our Streamlined Remedy | ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-classic-elegance-with-cutting-edge-features-in-the-withings-move-smartwatch/"><u>Experience Classic Elegance with Cutting-Edge Features in the Withings Move Smartwatch</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-barriers-how-firms-find-it-challenging-to-leverage-generative-ai-according-to-deloittes-latest-insights/"><u>Exploring the Barriers: How Firms Find It Challenging to Leverage Generative AI According to Deloitte's Latest Insights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-starters-guide-select-the-best-10-editors/"><u>Instagram Starters Guide - Select the Best 10 Editors</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-create-ai-avatar-video/"><u>New In 2024, Create AI Avatar Video</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/professional-noise-reduction-software-for-video-editing/"><u>Professional Noise-Reduction Software for Video Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spearhead-your-proposals-with-intelligent-chatgpt-tech/"><u>Spearhead Your Proposals with Intelligent ChatGPT Tech</u></a></li>
+<li><a href="https://app-tips.techidaily.com/surprising-upsides-for-it-professionals-facing-burnout-insights-from-zdnets-latest-article/"><u>Surprising Upsides for IT Professionals Facing Burnout: Insights From ZDNet's Latest Article</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-link-between-kernel-vulnerabilities-and-linux-system-security-proactive-measures-for-protection/"><u>Understanding the Link Between Kernel Vulnerabilities and Linux System Security: Proactive Measures for Protection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-alert-microsoft-faces-critical-challenge-with-windows-10-only-a-year-leftzdnet/"><u>Urgent Alert: Microsoft Faces Critical Challenge with Windows 10 - Only a Year Left![ZDNet]</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-voices-channeling-lifes-milestinasubscriber-channel-for-impactful-personal-storytelling/"><u>Youth Voices Channeling Life's Milestinasubscriber Channel for Impactful Personal Storytelling.</u></a></li>
 </ul></div>
 

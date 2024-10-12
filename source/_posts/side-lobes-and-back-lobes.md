@@ -1,7 +1,7 @@
 ---
 title: Side Lobes and Back Lobes
-date: 2024-09-30T09:59:35.332Z
-updated: 2024-10-01T07:41:51.528Z
+date: 2024-10-06T16:18:54.128Z
+updated: 2024-10-12T05:18:20.523Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,22 +181,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-professional-tips-for-perfectly-recording-your-powerpoint-sessions/"><u>[New] In 2024, Professional Tips for Perfectly Recording Your PowerPoint Sessions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-ethical-engagement-sustainable-strategies-for-content-creeps/"><u>[Updated] 2024 Approved Ethical Engagement Sustainable Strategies for Content Creeps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-android-sound-logging-without-need-for-rooting/"><u>[Updated] In 2024, Android Sound Logging Without Need for Rooting</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-innovative-techniques-for-captivating-fb-video-content/"><u>2024 Approved Innovative Techniques for Captivating FB Video Content</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-twitter-elite-moments-live-on-snapchat/"><u>2024 Approved Twitter Elite Moments Live on Snapchat</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723809009233-cant-find-that-elusive-document-on-your-pc-master-these-tips-to-easily-locate-any-file/"><u>Can't Find That Elusive Document on Your PC? Master These Tips to Easily Locate Any File</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-robust-ai-watermark-techniques-with-insights-from-zdnet/"><u>Discover Robust AI Watermark Techniques with Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-guide-pathways-to-becoming-an-ai-leadership-executive-in-tech-companies/"><u>Essential Guide: Pathways to Becoming an AI Leadership Executive in Tech Companies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/f4v-in-avi-converter-vrije-onlinetool-voor-format-omzetting/"><u>F4V in AVI Converter - Vrije Onlinetool Voor Format Omzetting</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/fix-disruption-chromium-and-tweeted-videos-for-2024/"><u>Fix Disruption Chromium and Tweeted Videos for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/full-featured-expansion-toggle-effortless-navigation-across-social-media-platforms-like-facebook-linkedin-and-youtube-with-quick-scroll-to-top-option/"><u>Full-Featured Expansion Toggle: Effortless Navigation Across Social Media Platforms Like Facebook, LinkedIn & YouTube with Quick 'Scroll To Top' Option</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uncharted-territory-latest-windows-10-apps-and-games/"><u>In 2024, Uncharted Territory Latest Windows 10 Apps & Games</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-new-horizons-in-business-search-solutions-the-evolution-post-copernic-era/"><u>Navigating New Horizons in Business Search Solutions - The Evolution Post-Copernic Era</u></a></li>
-<li><a href="https://app-tips.techidaily.com/optimize-your-search-with-date-and-file-type-filters-a-guide-to-superior-finds-using-copernic/"><u>Optimize Your Search with Date and File Type Filters: A Guide to Superior Finds Using Copernic</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-artifact-explorer-cookbook-uncovering-older-facebook-features-on-devices-for-2024/"><u>The Artifact Explorer' Cookbook Uncovering Older Facebook Features on Devices for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-primary-interface-of-copernic-software-an-in-depth-walkthrough/"><u>Understanding the Primary Interface of Copernic Software: An In-Depth Walkthrough</u></a></li>
-<li><a href="https://app-tips.techidaily.com/uplifting-information-and-communication-technology-singapores-24b-allocation-detailed-zdnet-analysis/"><u>Uplifting Information and Communication Technology: Singapore's $2.4B Allocation Detailed | ZDNet Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-tech-an-in-depth-review-of-apeaksofts-recorder-2023-for-2024/"><u>[Updated] Cutting-Edge Tech An In-Depth Review of Apeaksoft's Recorder, 2023 for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-maximizing-instagram-video-lengths-a-step-by-step-guide/"><u>[Updated] In 2024, Maximizing Instagram Video Lengths A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-proven-techniques-for-effective-video-transfer-ios-to-mac/"><u>[Updated] Proven Techniques for Effective Video Transfer IOS to MAC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bing-chat-explored-in-depth-insights-on-ai-and-gpt-4-integration/"><u>Bing Chat Explored: In-Depth Insights on AI and GPT-4 Integration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-chatgpt-2024-unveiling-key-functionalities-and-resolving-internal-errors/"><u>Complete Guide to ChatGPT 2024: Unveiling Key Functionalities and Resolving Internal Errors</u></a></li>
+<li><a href="https://facebook.techidaily.com/continuity-of-functionality-on-whatsapp-without-policy-consent/"><u>Continuity of Functionality on WhatsApp WITHOUT Policy Consent</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-everything-you-need-to-know-about-the-renamed-eva-ai-bot-formerly-known-as-ex-journey/"><u>Discover Everything You Need to Know About the Renamed EVA AI Bot: Formerly Known as Ex Journey</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-elite-choice-in-chatbots-why-chatgpt-reigns-supreme-a-comprehensive-analysis/"><u>Discover the Elite Choice in Chatbots: Why ChatGPT Reigns Supreme - A Comprehensive Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-google-pixel-8-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Google Pixel 8?</u></a></li>
+<li><a href="https://windows11.techidaily.com/missing-wingman-copilot-in-the-sky-of-windows-11/"><u>Missing Wingman (Copilot) in the Sky of Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-guide-to-rearranging-your-youtube-collection/"><u>Quick Guide to Rearranging Your YouTube Collection</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-typed-position-for-windows-11s-touch-interface/"><u>Resetting Typed Position for Windows 11'S Touch Interface</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-sony-vegas-for-windows-find-your-perfect-replacement-for-2024/"><u>Updated Sony Vegas for Windows Find Your Perfect Replacement for 2024</u></a></li>
 </ul></div>
 

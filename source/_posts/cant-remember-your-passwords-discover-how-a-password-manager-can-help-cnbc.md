@@ -1,7 +1,7 @@
 ---
 title: Can't Remember Your Passwords? Discover How a Password Manager Can Help | CNBC
-date: 2024-10-03T17:16:33.192Z
-updated: 2024-10-06T16:20:04.333Z
+date: 2024-10-10T10:56:29.584Z
+updated: 2024-10-11T16:29:47.097Z
 tags:
   - password-manager
 categories:
@@ -105,6 +105,13 @@ Direct LinkEmbed Code
 
 Close Modal Dialog
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** recommends
 
 [The best password managers for business Everyone needs a password manager. It's the only way to maintain unique, hard-to-guess credentials for every secure site you and your team access daily.  Read now](https://www.zdnet.com/article/best-password-manager/)
@@ -161,6 +168,13 @@ In this article, I explain why I consider a password manager essential. I also t
 
 * **See: [Best password manager in 2021](https://www.zdnet.com/article/best-password-manager/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The case for password managers 
 
 You can choose from dozens of third-party password manager apps and services, both commercial and open source. Despite some differences in user experience, they are all similar in their core features. On a PC running Windows or Linux, on a Mac running MacOS, or on a mobile device, you install an app that manages a database containing sets of credentials (usernames, passwords, and other required details). The contents of the database are protected with AES-256 encryption. To unlock the password database, you enter a decryption key (your master password) that only you know, and then allow the program to fill in the saved credentials so you can sign in on a webpage or app. 
@@ -188,13 +202,6 @@ Most password managers include browser extensions that automatically prompt you 
 
 Contrast that approach with the inevitable friction of a manual list. You don't need to find a file and add a password to it to save a new or changed set of credentials, and you don't need to find and open that same file to copy and paste your password. 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2) Password Generation 
 
 Every password manager worth its salted hash includes a password generator capable of instantly producing a truly random, never-before-used-by-you password. If you don't like that password, you can click to generate another. You can then use that random password when creating a new account or changing credentials for an existing one. 
@@ -211,6 +218,13 @@ Integrating a password manager with a browser is superb protection against phish
 
 That phishing protection is probably the most underrated feature of all. If you manage passwords manually, by copying and pasting from an encrypted personal file, you will paste your username and password into the respective fields on that well-designed fake page, because you don't realize it's fake. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  4) Cross Platform Access 
 
 Password managers work across devices, including PCs, Macs, and mobile devices, with the option to sync your encrypted password database to the cloud. Access to that file and its contents can be secured with biometric authentication and 2FA. 
@@ -218,10 +232,10 @@ Password managers work across devices, including PCs, Macs, and mobile devices, 
 By contrast, if you manage passwords in an encrypted file that's saved locally, you have to manually copy that file to other devices (or keep it in the cloud in a location under your personal control), and then make sure the contents of each copy stay in sync. More friction. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  5) Surveillance Safeguard 
@@ -229,10 +243,10 @@ By contrast, if you manage passwords in an encrypted file that's saved locally, 
 Password managers generally offer good protection against "shoulder surfing." An attacker who's able to watch you type, either live or with the help of a surveillance camera, can steal your login credentials with ease. Password managers never expose those details. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is there a case against password managers?
@@ -252,13 +266,6 @@ And so you wind up keeping an encrypted list of passwords that are not exactly u
 **"If someone steals my password file, they have all my passwords."**
 
 No, they don't. They have an AES-256 encrypted blob that is, for all intents and purposes, useless gibberish. The only way to extract its secrets is with the decryption key, which you and you alone know. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Security
 
@@ -316,13 +323,6 @@ We've put together a list of the best free and paid options here: [Best Password
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Related stories:
 
 * [Leaving LastPass? Here's how to get your passwords out](https://www.zdnet.com/article/leaving-lastpass-heres-how-to-get-your-passwords-out/)
@@ -345,17 +345,17 @@ We've put together a list of the best free and paid options here: [Best Password
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/company-names-revolutionary-ai-for-sustainable-smart-appliances-spotlight-on-zdnet-review/"><u>[Company Name]'s Revolutionary AI for Sustainable Smart Appliances: Spotlight on ZDNET Review</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-undead-uncovered-ranking-the-best-zombie-game-clusters/"><u>[New] In 2024, Undead Uncovered Ranking the Best Zombie Game Clusters</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-manager-training-essential-before-introducing-artificial-intelligence-in-business-insights-from-zdnet/"><u>1. Manager Training Essential Before Introducing Artificial Intelligence in Business: Insights From ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-hidden-elements-the-photoshop-anonymity-guide/"><u>2024 Approved Hidden Elements The Photoshop Anonymity Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/6-superior-android-screen-capture-apps/"><u>6 Superior Android Screen Capture Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-marketing-crews-embrace-advanced-tech-zdnet-insights/"><u>AI Integration: One-Third of Marketing Crews Embrace Advanced Tech | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-ais-horizon-discover-the-accelerating-wave-of-emerging-technologies/"><u>Beyond AI's Horizon: Discover the Accelerating Wave of Emerging Technologies</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-magic-5-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor Magic 5 Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-note-12-pro-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Xiaomi Redmi Note 12 Pro 4G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-integrated-story-spread-4-simple-steps-on-fb/"><u>In 2024, Integrated Story Spread 4 Simple Steps on FB</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-persistent-dark-display-issue-in-fortnite-on-windows/"><u>Resolved: Fixing the Persistent Dark Display Issue in Fortnite on Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-singapore-advocates-for-financial-backing-of-ai-integration-and-carbon-neutral-goals/"><u>ZDNet Exclusive: Singapore Advocates for Financial Backing of AI Integration and Carbon-Neutral Goals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-3-step-financial-forecasting-assessing-revenue-from-googles-platform-youtube/"><u>[New] In 2024, 3-Step Financial Forecasting Assessing Revenue From Google's Platform, YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-skincare-and-sensational-looks/"><u>[New] Skincare and Sensational Looks</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2022-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2022) without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Additional Tips About Sinnoh Stone For Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-macos-sierras-reversion-to-el-capitan/"><u>In 2024, Navigating MacOS Sierra's Reversion to El Capitan</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-top-3-ipad-voice-recorder/"><u>In 2024, Top 3 iPad Voice Recorder</u></a></li>
+<li><a href="https://app-tips.techidaily.com/persistent-password-problems-why-we-keep-reusing-compromised-passwords-despite-risks/"><u>Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-expert-analysis-on-1password-high-quality-password-management-solutions-that-deliver-value/"><u>Top-Ranked Expert Analysis on 1Password - High-Quality Password Management Solutions That Deliver Value</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/troubleshoot-steam-remote-play-issues-with-easy-solutions/"><u>Troubleshoot Steam Remote Play Issues with Easy Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/uncovering-secrets-deciphering-subtext-in-fb-chat/"><u>Uncovering Secrets: Deciphering Subtext in FB Chat</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-security-why-embracing-a-password-manager-is-essential-now-more-than-ever/"><u>Unlocking Security: Why Embracing a Password Manager Is Essential Now More Than Ever</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-people-favor-biometrics-over-passwords-due-to-memory-challenges-zdnet-analysis/"><u>Why People Favor Biometrics Over Passwords Due to Memory Challenges | ZDNet Analysis</u></a></li>
 </ul></div>
 

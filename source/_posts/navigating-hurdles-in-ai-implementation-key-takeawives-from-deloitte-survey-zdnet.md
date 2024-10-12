@@ -1,7 +1,7 @@
 ---
 title: "Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET"
-date: 2024-10-04T18:50:51.199Z
-updated: 2024-10-06T18:44:51.695Z
+date: 2024-10-10T07:58:49.480Z
+updated: 2024-10-12T08:21:15.476Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-building-a-strong-network-how-to-form-effective-youtube-partner-relationships/"><u>[Updated] Building a Strong Network How to Form Effective YouTube Partner Relationships</u></a></li>
-<li><a href="https://app-tips.techidaily.com/create-your-digital-twin-build-your-own-personal-ai-avatar-with-these-simple-steps-discover-the-future-of-interaction/"><u>Create Your Digital Twin: Build Your Own Personal AI Avatar with These Simple Steps – Discover the Future of Interaction</u></a></li>
-<li><a href="https://app-tips.techidaily.com/digital-evolution-in-business-the-crucial-role-of-enterprise-architects/"><u>Digital Evolution in Business: The Crucial Role of Enterprise Architects</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/effortlessly-record-audio-on-your-mac-using-audacity/"><u>Effortlessly Record Audio on Your Mac Using Audacity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-innovation-beyond-apples-walls-why-diverse-workplaces-spark-creativity/"><u>Embracing Innovation Beyond Apple's Walls - Why Diverse Workplaces Spark Creativity</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/open-source-mastery-and-proficiency-with-linux-a-ticket-to-employment-resilience-amidst-economic-uncertainty-featured-on-zdnet/"><u>Open Source Mastery and Proficiency with Linux: A Ticket to Employment Resilience Amidst Economic Uncertainty | Featured on ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revolutionizing-home-entertainment-the-value-offering-by-tcls-roku-smart-tv-model-50s425-in-4k-quality/"><u>Revolutionizing Home Entertainment: The Value Offering by TCL's Roku Smart TV, Model 50S425 in 4K Quality</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/simplified-data-retrieval-made-easy-with-stellars-new-software-version/"><u>Simplified Data Retrieval Made Easy with Stellar's New Software Version</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-higher-output-with-the-programmer-approach-learn-from-dev-teams-zdnet/"><u>Unlocking Higher Output with the Programmer Approach - Learn From Dev Teams | ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029904569-wavwindows-10/"><u>WAVファイル音量設定の簡単な手順を覚える「Windows 10」</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-low-code-tech-is-transforming-company-desirability-according-to-zdnet/"><u>Why Low-Code Tech Is Transforming Company Desirability, According to ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-professionals-prefer-windows-11-according-to-microsoft-and-zdnet-analysis/"><u>Why Professionals Prefer Windows 11, According to Microsoft & ZDNet Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-your-imessages-were-marked-as-undeliverable-last-night-uncover-the-reason/"><u>Why Your iMessages Were Marked as 'Undeliverable' Last Night: Uncover the Reason</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-screen-adjustment-mastery/"><u>Win10 Screen Adjustment Mastery</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-the-art-of-captivating-vimeo-staff-picks/"><u>[New] Mastering the Art of Captivating Vimeo Staff Picks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-master-your-videos-success-with-leading-rank-monitors/"><u>2024 Approved Master Your Video's Success with Leading Rank Monitors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-points-exploring-how-generative-artificial-intelligence-is-revolutionizing-user-interface-design-featured-on-zdnet/"><u>Beyond Clicks & Points: Exploring How Generative Artificial Intelligence Is Revolutionizing User Interface Design | Featured on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723809009233-cant-find-that-elusive-document-on-your-pc-master-these-tips-to-easily-locate-any-file/"><u>Can't Find That Elusive Document on Your PC? Master These Tips to Easily Locate Any File</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/changing-frozen-moments-into-sequential-movies/"><u>Changing Frozen Moments Into Sequential Movies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-robust-ai-watermark-techniques-with-insights-from-zdnet/"><u>Discover Robust AI Watermark Techniques with Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-guide-pathways-to-becoming-an-ai-leadership-executive-in-tech-companies/"><u>Essential Guide: Pathways to Becoming an AI Leadership Executive in Tech Companies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-i-fixed-the-persistent-black-screen-problem-on-my-device-a-step-by-step-guide/"><u>How I Fixed the Persistent Black Screen Problem on My Device - A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-a-quick-guide-to-pinpointing-recent-fb-views/"><u>In 2024, A Quick Guide to Pinpointing Recent FB Views</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-web-hosting-providers-in-depth-analysis-by-professionals-pcmag/"><u>Leading Web Hosting Providers : In-Depth Analysis by Professionals | PCMag</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-growth-of-edge-devices-and-its-impact-on-job-prospects-an-exploration-by-zdnet/"><u>The Growth of Edge Devices and Its Impact on Job Prospects - An Exploration by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uplifting-information-and-communication-technology-singapores-24b-allocation-detailed-zdnet-analysis/"><u>Uplifting Information and Communication Technology: Singapore's $2.4B Allocation Detailed | ZDNet Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208775208-usb-composite-device-cant-work-properly-with-usb-30-solved/"><u>USB Composite Device Can't Work Properly with USB 3.0 [SOLVED]</u></a></li>
 </ul></div>
 

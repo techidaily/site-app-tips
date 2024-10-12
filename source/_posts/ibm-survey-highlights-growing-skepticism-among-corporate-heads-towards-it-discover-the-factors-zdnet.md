@@ -1,7 +1,7 @@
 ---
 title: IBM Survey Highlights Growing Skepticism Among Corporate Heads Towards IT - Discover the Factors | ZDNet
-date: 2024-09-17 23:48:58
-updated: 2024-09-20 12:55:25
+date: 2024-10-08T03:02:49.132Z
+updated: 2024-10-11T19:59:36.884Z
 tags:
   - digital-transformation
 categories:
@@ -84,11 +84,34 @@ Running a successful business these days means running a successful technology e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-smartphones-and-tablets-leading-gb-gameplayers-for-2024/"><u>[New] Smartphones & Tablets Leading GB Gameplayers for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-boost-your-imagery-title-placement-techniques-on-video-clips-with-photos/"><u>[Updated] Boost Your Imagery Title Placement Techniques on Video Clips with Photos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-android-file-organizers-expert-opinions-and-comprehensive-reviews/"><u>Best Android File Organizers - Expert Opinions & Comprehensive Reviews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-platforms-and-tools-for-discreet-message-exchange/"><u>Best Free Platforms & Tools for Discreet Message Exchange</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-adding-emojis-on-your-android-device/"><u>Complete Guide: Adding Emojis on Your Android Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertissez-gratuitement-un-fichier-aac-au-format-mp4-sur-internet-avec-movavi/"><u>Convertissez Gratuitement Un Fichier AAC Au Format MP4 Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-best-ipad-video-players-for-2n4-a-guide-to-downloading-reliable-solutions/"><u>Discover the Best iPad Video Players for 2N4: A Guide to Downloading Reliable Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-5-must-try-free-cellphone-locator-applications/"><u>Discover the Ultimate List of 5 Must-Try Free Cellphone Locator Applications</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/enhance-gaming-bliss-ps5xbox-series-x-screen-revelations/"><u>Enhance Gaming Bliss PS5/Xbox Series X Screen Revelations</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/focus-on-you-iphone-and-android-photo-trimmers-for-2024/"><u>Focus On You IPhone & Android Photo Trimmers for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-does-dts-virtualx-transform-your-audio-experience/"><u>How Does DTS Virtual:X Transform Your Audio Experience?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/lenovo-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Lenovo ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

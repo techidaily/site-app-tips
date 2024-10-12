@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Singapore Advocates for Financial Backing of AI Integration and Carbon-Neutral Goals"
-date: 2024-09-19 16:28:42
-updated: 2024-09-20 11:54:37
+date: 2024-10-11T08:38:09.759Z
+updated: 2024-10-11T21:07:51.206Z
 tags:
   - digital-transformation
 categories:
@@ -96,11 +96,31 @@ Furthermore, Singapore could look to calibrate its property tax policies to offe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-obs-and-zoom-integration-tips/"><u>[Updated] Mastering OBS & Zoom Integration Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-sims-4-filming-a-comprehensive-guide-for-2024/"><u>[Updated] Mastering Sims 4 Filming A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-top-instagram-hidden-tips-and-tricks-for-2024/"><u>[Updated] Top Instagram Hidden Tips and Tricks for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cost-effective-customization-how-openai-reduced-the-price-of-gpt-4o-mini-for-easy-fine-tuning-insights-from-zdnet/"><u>Cost-Effective Customization: How OpenAI Reduced the Price of GPT-4o Mini for Easy Fine-Tuning - Insights From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-honor-x9a-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Honor X9a Unlock Without Password</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-the-best-virtual-meetings-software-in-2eplus22-expert-reviews-and-ratings-by-zdnet/"><u>The Ultimate Guide to the Best Virtual Meetings Software in 2E+22: Expert Reviews & Ratings by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-windows-home-to-professional-grade-essential-steps-and-compelling-reasons-to-upgrade/"><u>Transforming Windows Home to Professional Grade: Essential Steps and Compelling Reasons to Upgrade</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ubuntu-2404-unveiled-a-game-changer-in-linux-performance-and-protection-according-to-zdnet/"><u>Ubuntu 24.04 Unveiled: A Game-Changer in Linux Performance and Protection, According to ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

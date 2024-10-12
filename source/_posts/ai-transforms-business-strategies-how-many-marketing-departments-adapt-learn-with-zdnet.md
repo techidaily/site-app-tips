@@ -1,7 +1,7 @@
 ---
 title: "AI Transforms Business Strategies: How Many Marketing Departments Adapt? - Learn with ZDNet"
-date: 2024-09-18 16:25:26
-updated: 2024-09-20 12:44:37
+date: 2024-10-05T04:40:28.601Z
+updated: 2024-10-11T18:43:34.267Z
 tags:
   - digital-transformation
 categories:
@@ -63,6 +63,13 @@ Taking advantage of AI is the marketer's biggest priority -- and biggest challen
 
 The report found that marketers use an average of eight different marketing tools and technologies. All AI projects start as data projects. Capturing customer data from a large set of marketing tools that are not integrated creates a challenge for marketers to unify, harmonize, and create a 360-degree view of their customer engagement touchpoints. Only 32% of marketers are satisfied with how they use customer data to create relevant experiences. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Marketers shore up their data foundation
 
 Marketers use an average of 9 different tactics across the entire customer journey. The most common data sources for marketers are:
@@ -85,6 +92,13 @@ The modern marketer's challenge isn't a lack of first-party data -- it's fully i
 **Also: [5 reasons why I prefer Perplexity over every other AI chatbot](https://www.zdnet.com/article/5-reasons-why-i-prefer-perplexity-over-every-other-ai-chatbot/)**
 
 Only 31% of marketers are satisfied with their ability to unify customer data sources. Data integration across the enterprise app landscape is key to high-performance marketing. About two in five marketers still don't have real-time data at their disposal for crucial tasks, relying instead on potentially outdated insights -- or even intuition. Even teams with live data are slowed down by their ability to activate it. While over half of marketers say data is available in real time to execute a campaign, 59% need the IT department's help to do so. Most customer data is trapped in business, with limited or no access to marketing. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Marketers embrace AI with an eye on trust
 
@@ -142,11 +156,29 @@ To learn more about the 2024 State of Marketing report, you can visit [here](htt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-interactive-media-platform-breakdown-for-2024/"><u>[New] Interactive Media Platform Breakdown for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-artistry-behind-capturing-evening-light-and-people/"><u>[New] The Artistry Behind Capturing Evening Light and People</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-guide-to-professional-color-grading-top-11/"><u>[Updated] In 2024, The Ultimate Guide to Professional Color Grading (Top 11)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-seamless-integration-setting-up-email-in-your-onlyoffice-environment-tips-and-tricks/"><u>1. Seamless Integration: Setting Up Email in Your ONLYOFFICE Environment - Tips & Tricks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ais-forefront-top-8-trends-shaping-technology-this-year-and-how-professionals-can-adapt-zdnet/"><u>AI's Forefront: Top 8 Trends Shaping Technology This Year & How Professionals Can Adapt | ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/budget-friendly-airborision-top-5-under-500-drone-picks/"><u>Budget-Friendly Airborision Top 5 Under $500 Drone Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-hottest-tech-skills-best-platforms-for-mastering-key-programming-languages-now/"><u>Discover the Hottest Tech Skills: Best Platforms for Mastering Key Programming Languages Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-business-horizons-with-anthropics-claude-the-enterprise-level-ai-transformation/"><u>Expanding Business Horizons with Anthropic's Claude - The Enterprise-Level AI Transformation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-challenges-of-leveraging-generative-ai-insights-from-a-recent-deloitte-survey-zdnet/"><u>Exploring the Challenges of Leveraging Generative AI: Insights From a Recent Deloitte Survey - ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-installation-failure-resolving-error-code-80240020/"><u>Fixing Windows 10 Installation Failure: Resolving Error Code 80240020</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavimpegogg/"><u>Movaviで強力な、完全無料のオンラインMPEGからOggへの変換ツール</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamlessly-share-your-iphone-pictures-with-your-windows-computer-a-comprehensive-tutorial/"><u>Seamlessly Share Your iPhone Pictures with Your Windows Computer: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-servicenows-four-fundamental-ai-concepts-impactful-insights-for-modern-enterprises/"><u>Understanding ServiceNow's Four Fundamental AI Concepts: Impactful Insights for Modern Enterprises</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-reducing-ambient-acoustic-disturbances-a-guide-to-minimizing-hiss-for-2024/"><u>Updated Reducing Ambient Acoustic Disturbances A Guide to Minimizing Hiss for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Realme C67 4G | Dr.fone</u></a></li>
+</ul></div>
+

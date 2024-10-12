@@ -1,7 +1,7 @@
 ---
 title: "Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet"
-date: 2024-09-29T16:24:19.120Z
-updated: 2024-10-06T17:46:42.171Z
+date: 2024-10-10T17:46:46.624Z
+updated: 2024-10-12T06:24:25.418Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +181,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/1725286857027-dvd-winx-dvd-ripper-platinum/"><u>[公式情報] ダイナミックなDVDコピー - WinX DVD Ripper Platinum 詳細ガイド</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-get-precise-audio-capturing-for-your-pc-with-x-recorder/"><u>[New] 2024 Approved Get Precise Audio Capturing for Your PC with X-Recorder</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-lowering-sounds-on-mac-and-pc-gradually-and-invisibly/"><u>[New] 2024 Approved Lowering Sounds On Mac & PC Gradually and Invisibly</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-unveiling-sharex-analyses-and-options/"><u>[New] 2024 Approved Unveiling ShareX Analyses & Options</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-expert-insight-on-sierras-icloud-drive-accessibility/"><u>[New] Expert Insight on Sierra's iCloud Drive Accessibility</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-pro-video-practice-screen-record-on-various-devices/"><u>[Updated] Pro Video Practice Screen Record on Various Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-selection-choosing-excellent-free-srt-translators/"><u>[Updated] Ultimate Selection Choosing Excellent FREE SRT Translators</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-boundaries-coordinated-video-watch-across-channels-for-2024/"><u>Breaking Boundaries Coordinated Video Watch Across Channels for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ciq-gains-support-from-linux-experts-as-main-backer-of-rocks-cluster-os-initiative-techinsight/"><u>CIQ Gains Support From Linux Experts as Main Backer of Rocks Cluster OS Initiative - TechInsight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exhaustion-amongst-it-specialists-positive-developments-in-sight/"><u>Exhaustion Amongst IT Specialists - Positive Developments in Sight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-best-digital-signing-applications-a-zdnet-recommendation/"><u>Exploring the Best Digital Signing Applications: A ZDNet Recommendation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/impedance-matching/"><u>Impedance Matching</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-motorola-moto-g-5g-2023-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Motorola Moto G 5G (2023) Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-top-7-nft-generators-to-turn-your-artwork-into-nfts/"><u>In 2024, Top 7 NFT Generators to Turn Your Artwork Into NFTs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-windows-10-top-five-strategies-to-consider-before-support-concludes-next-year-zdnet-insights/"><u>Navigating the Future of Windows 10: Top Five Strategies to Consider Before Support Concludes Next Year | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preparing-for-the-future-five-must-know-steps-as-microsofts-windows-support-nears-its-end-according-to-zdnet/"><u>Preparing for the Future: Five Must-Know Steps as Microsoft's Windows ^Support Nears Its End, According to ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-remote-communication-the-emergence-of-an-innovative-lip-reading-challenger-for-microsoft-teams-and-zoom-zdnet/"><u>Revolutionizing Remote Communication: The Emergence of an Innovative Lip-Reading Challenger for Microsoft Teams & Zoom | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-seamlessly-connecting-google-drive-with-slack-tips-from-zdnet/"><u>Step-by-Step Guide: Seamlessly Connecting Google Drive with Slack – Tips From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-premier-linux-learning-experiences-exploring-elite-bootcamps-and-training-opportun-2-engaging-with-the-pioneers-of-tech-a-deep-dive-in82/"><u>The Ultimate Guide to Premier Linux Learning Experiences: Exploring Elite Bootcamps & Training Opportun 2. Engaging with the Pioneers of Tech: A Deep Dive Into Linux Mastery Courses</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-weaving-a-story-in-your-tiktok-closing-moment/"><u>[Updated] Weaving a Story in Your TikTok Closing Moment</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-uncomplicated-steps-to-record-instagrams-story-feed/"><u>2024 Approved Uncomplicated Steps to Record Instagram's Story Feed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/affordable-high-performance-game-mice-and-keyboards-for-gamers/"><u>Affordable High-Performance Game Mice and Keyboards for Gamers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-uncharted-territory-of-emerging-ai-based-careers-decoding-their-intriguing-titles-and-futures-on-zdnet/"><u>Exploring the Uncharted Territory of Emerging AI-Based Careers: Decoding Their Intriguing Titles & Futures on ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-xiaomi-14-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Xiaomi 14</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/online-omzettingen-loodsen-m4b-files-gratis-korting-bei-movavi/"><u>Online Omzettingen Loodsen M4B Files Gratis - Korting Bei Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapore-invests-24-billion-in-enhancing-it-networks-and-digital-solutions-insights-from-zdnet/"><u>Singapore Invests $2.4 Billion in Enhancing IT Networks & Digital Solutions – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-now-reinventing-development-with-ai-in-low-code-and-no-code-solutions-featured-on-zdnet/"><u>The Future Is Now: Reinventing Development with AI in Low-Code and No-Code Solutions | Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-insiders-guide-to-choosing-a-devops-path-benefits-vs-hurdles-in-detail/"><u>The Insider's Guide to Choosing a DevOps Path: Benefits Vs. Hurdles in Detail</u></a></li>
 </ul></div>
 

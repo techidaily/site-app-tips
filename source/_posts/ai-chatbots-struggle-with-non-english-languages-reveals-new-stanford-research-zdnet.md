@@ -1,7 +1,7 @@
 ---
 title: AI Chatbots Struggle with Non-English Languages, Reveals New Stanford Research | ZDNet
-date: 2024-09-17 18:54:24
-updated: 2024-09-20 10:36:20
+date: 2024-10-06T03:44:48.246Z
+updated: 2024-10-12T07:22:04.261Z
 tags:
   - digital-transformation
 categories:
@@ -78,11 +78,34 @@ Dukic also urged "extensive testing with local users before full deployment to h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-comparisons.techidaily.com/1-expert-advice-how-to-capture-your-iphone-or-ipads-display-like-a-pro/"><u>1. Expert Advice: How to Capture Your iPhone or iPad's Display Like a Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonic-highlights-incorrante-the-beat-to-insta-vids/"><u>2024 Approved Harmonic Highlights Incorrante the Beat to Insta Vids</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-innovative-approaches-for-effective-use-of-streamlabs-obs/"><u>2024 Approved Innovative Approaches for Effective Use of Streamlabs OBS</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-step-by-step-process-for-crafting-tiktok-video-captions/"><u>2024 Approved Step-by-Step Process for Crafting TikTok Video Captions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-c-suite-digital-literacy-a-guide-to-tech-education-in-six-steps-zdnet/"><u>Advancing C-Suite Digital Literacy: A Guide to Tech Education in Six Steps | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-dominates-the-surge-in-non-cash-payments-expected-to-reach-16-trillion-zdnet-insights/"><u>Asia Dominates the Surge in Non-Cash Payments Expected to Reach $1.6 Trillion | ZDNet Insights</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/camera-clip-chronicle-photo-retrieval-techniques/"><u>Camera Clip Chronicle: Photo Retrieval Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-fixing-error-0x80004005-a-comprehensive-walkthrough/"><u>Expert Advice on Fixing Error 0X80004005 – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-360-video-making-with-ios-devices/"><u>In 2024, Mastering 360 Video Making with iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-challenges-in-ai-for-profitable-ventures-expert-tips-by-zdnet/"><u>Navigating Challenges in AI for Profitable Ventures | Expert Tips by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainties-of-ai-outputs-and-reliability-in-modern-tech-challenges/"><u>Navigating the Uncertainties of AI Outputs & Reliability in Modern Tech Challenges</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-balance-between-ai-advancements-and-job-expansion-within-the-cybersecurity-sector-insights-from-zdnet/"><u>The Balance Between AI Advancements and Job Expansion Within the Cybersecurity Sector: Insights From ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-with-your-logitech-g533-mic-heres-how-to-fix-it/"><u>Unstuck with Your Logitech G533 Mic? Here's How to Fix It!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

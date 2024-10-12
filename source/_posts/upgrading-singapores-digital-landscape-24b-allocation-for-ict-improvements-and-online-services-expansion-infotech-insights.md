@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Singapore's Digital Landscape: $2.4B Allocation for ICT Improvements and Online Services Expansion | InfoTech Insights"
-date: 2024-09-19 15:20:38
-updated: 2024-09-20 11:29:10
+date: 2024-10-07T17:15:46.124Z
+updated: 2024-10-12T09:41:13.411Z
 tags:
   - digital-transformation
 categories:
@@ -68,11 +68,41 @@ The government's ICT budget last year was [focused on moving its systems to the 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-visual-editor-writes-guide-to-leveraging-luts-in-adobe-premiere-pro/"><u>2024 Approved A Visual Editor' Writes Guide to Leveraging LUTs in Adobe Premiere Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-widening-gulf-in-data-expertise-a-closer-look-at-innovative-solutions-by-companeby-zdnet/"><u>Bridging the Widening Gulf in Data Expertise: A Closer Look at Innovative Solutions by Companeby ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bright-idea-adjusting-the-colour-of-your-taskbar-in-windows-10-made-simple/"><u>Bright Idea: Adjusting the Colour of Your Taskbar in Windows 10 Made Simple</u></a></li>
+<li><a href="https://app-tips.techidaily.com/championing-creativity-in-ai-development-bank-chief-rejects-relying-on-simple-prompts-urges-intellectual-revolution-zdnet/"><u>Championing Creativity in AI Development, Bank Chief Rejects Relying on Simple Prompts; Urges Intellectual Revolution | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-driver-installation-guide-for-samsung-960-evo-on-windows-computers/"><u>Compatible Driver Installation Guide for Samsung 960 EVO on Windows Computers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empower-management-with-ai-essential-training-strategies-before-deployment/"><u>Empower Management with AI: Essential Training Strategies Before Deployment</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-executives-with-tech-expertise-six-essential-tips-to-foster-digital-proficiency-in-management-teams/"><u>Empowering Executives with Tech Expertise - Six Essential Tips to Foster Digital Proficiency in Management Teams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-ai-evolution-is-pushing-the-limits-of-todays-tech-infrastructure-insights-from-zdnet/"><u>How AI Evolution Is Pushing the Limits of Today's Tech Infrastructure: Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-make-your-instagram-pop-with-sharing-gifs-in-4-easy-steps-for-2024/"><u>How to Make Your Instagram Pop with Sharing GIFs in 4 Easy Steps for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oppo-reno-8t-to-mac-drfone-by-drfone-android/"><u>How to Mirror Oppo Reno 8T to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-frame-drops-and-speech-lag-issues-in-naraka-bladepoint-a-comprehensive-guide/"><u>Solving Frame Drops & Speech Lag Issues in Naraka: Bladepoint – A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-10-free-video-communication-tools-iphone-and-android-devices-for-2024/"><u>Top 10 Free Video Communication Tools - iPhone and Android Devices for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-x50-by-drfone-android/"><u>Universal Unlock Pattern for Honor X50</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-how-many-marketing-teams-are-using-ai-the-answer-may-surprise-you/"><u>ZDNet Reveals: How Many Marketing Teams Are Using AI? The Answer May Surprise You!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

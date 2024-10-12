@@ -1,7 +1,7 @@
 ---
 title: Championing Creativity in AI Development, Bank Chief Rejects Relying on Simple Prompts; Urges Intellectual Revolution | ZDNET
-date: 2024-09-17 10:28:43
-updated: 2024-09-20 11:36:11
+date: 2024-10-07T07:00:49.839Z
+updated: 2024-10-12T02:05:07.545Z
 tags:
   - digital-transformation
 categories:
@@ -98,11 +98,36 @@ As a result, he's seeing "the line between a classic coder and a business analys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-ultimate-5-slow-motion-capturers/"><u>[New] In 2024, Ultimate 5 Slow Motion Capturers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-navigating-the-complexities-of-ps4-live-streaming-and-recording/"><u>[New] Navigating the Complexities of PS4 Live Streaming and Recording</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-profitability-on-yt-post-monetization-financial-steps/"><u>2024 Approved Streamline Profitability on YT – Post-Monetization Financial Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/array-synthesis/"><u>Array Synthesis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-be-a-ghost-in-the-social-media-crowd-live/"><u>How to Be a Ghost in the Social Media Crowd - Live</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-what-does-the-signature-blue-glyph-on-messenger-stand-for/"><u>In 2024, What Does the Signature Blue Glyph on Messenger Stand For?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-video-conference-tools-of-2022-features-and-reviews-pcmag/"><u>Top Rated Video Conference Tools of 2022: Features & Reviews - PCMag</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-antivirus-solutions-expert-review-by-zdnet/"><u>Top-Rated Antivirus Solutions - Expert Review by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ubuntu-2404-unveiled-the-latest-lightning-speed-linux-os-with-enhanced-security-features-zdnet/"><u>Ubuntu 24.04 Unveiled: The Latest, Lightning-Speed Linux OS with Enhanced Security Features | ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: How Streamlined Regulations Are Boosting ASEAN's Path to a $2T Digital Economy by 2030, Featured on ZDNET
-date: 2024-09-17 20:25:33
-updated: 2024-09-20 11:16:28
+date: 2024-10-11T06:17:58.945Z
+updated: 2024-10-11T23:41:06.740Z
 tags:
   - digital-transformation
 categories:
@@ -86,11 +86,33 @@ The Asean Regional Computer Emergency Response Team (CERT) was [established in O
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-advanced-techniques-sending-subtitles-to-instagram-linkedin/"><u>[New] 2024 Approved Advanced Techniques Sending Subtitles to Instagram, LinkedIn</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-resuscitating-dormant-connections-with-your-obs-cam/"><u>[Updated] In 2024, Resuscitating Dormant Connections with Your OBS Cam</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-enhancing-tweets-adding-media-files/"><u>2024 Approved Enhancing Tweets Adding Media Files</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-fun-car-games-for-kids/"><u>Best Fun Car Games for Kids</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ceo-flips-out-over-team-usage-on-microsoft-teams-office-chaos-unleashed/"><u>CEO Flips Out Over Team Usage on Microsoft Teams - Office Chaos Unleashed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-does-the-conflict-between-russia-and-ukraine-endanger-information-technology-in-ukraine-insights-and-predictions/"><u>How Does the Conflict Between Russia and Ukraine Endanger Information Technology in Ukraine? Insights & Predictions.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/optimizing-video-size-for-seamless-whatsapp-sharing-tips-to-maintain-quality/"><u>Optimizing Video Size for Seamless WhatsApp Sharing: Tips to Maintain Quality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-communication-with-vivaldi-introducing-a-superior-mail-client-experience-digital-trends/"><u>Revolutionizing Communication with Vivaldi - Introducing a Superior Mail Client Experience | Digital Trends</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/secrets-to-profit-from-youtube-shorts-fundamentals-and-earning-prospects-for-2024/"><u>Secrets to Profit From Youtube Shorts Fundamentals and Earning Prospects for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-2a-understanding-grounding-in-antenna-systems/"><u>Section 2A: Understanding Grounding in Antenna Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-cable-and-streaming-key-distinctions-explained/"><u>Unraveling Cable and Streaming: Key Distinctions Explained</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

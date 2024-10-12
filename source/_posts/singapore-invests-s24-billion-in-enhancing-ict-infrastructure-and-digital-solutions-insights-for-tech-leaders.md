@@ -1,7 +1,7 @@
 ---
 title: Singapore Invests S$2.4 Billion in Enhancing ICT Infrastructure & Digital Solutions - Insights for Tech Leaders
-date: 2024-09-18 17:13:18
-updated: 2024-09-20 12:58:20
+date: 2024-10-05T16:54:46.994Z
+updated: 2024-10-12T10:56:06.627Z
 tags:
   - digital-transformation
 categories:
@@ -78,11 +78,34 @@ The government's ICT budget last year was [focused on moving its systems to the 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-monetization-potential-with-youtube-ad-strategies-for-2024/"><u>[New] Harnessing Monetization Potential with YouTube Ad Strategies for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-photographers-choice-top-10-watermarks-software/"><u>[New] Photographer's Choice Top 10 Watermarks Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-vega-graphics-card-download-and-update-windows-drivers-easily/"><u>AMD Vega Graphics Card: Download & Update Windows Drivers Easily!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boss-loses-cool-over-team-communication-mishaps-on-microsoft-teams/"><u>Boss Loses Cool Over Team Communication Mishaps on Microsoft Teams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/collaborative-development-of-advanced-llms-by-sony-and-ai-singapore-announced-tech-news/"><u>Collaborative Development of Advanced LLMs by Sony & AI Singapore Announced | Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/continued-access-office-20162019-to-retain-full-functionality-with-upcoming-microsoft-365-backend-enhancements-zdnet/"><u>Continued Access : Office 2016/2019 to Retain Full Functionality with Upcoming Microsoft 365 Backend Enhancements | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-a-massive-ddos-strike-crippled-microsofts-office-365-services-insights-for-it-security-experts/"><u>How a Massive DDoS Strike Crippled Microsoft's Office 365 Services – Insights for IT Security Experts</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-poco-f5-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Poco F5 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-must-use-livestream-shopping-apps-for-seamless-online-system/"><u>New In 2024, Must-Use Livestream Shopping Apps for Seamless Online System</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-innovative-music-creation-with-ipads-the-8-leading-ios-daws-you-must-try-for-2024/"><u>New Innovative Music Creation with iPads The 8 Leading iOS DAWs You Must Try for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/strategie-efficienti-per-la-regolazione-della-memoria-sul-tuo-disco-di-backup-tramite-lo-schema-integrato-aomei/"><u>Strategie Efficienti per La Regolazione Della Memoria Sul Tuo Disco Di Backup Tramite Lo Schema Integrato AOMEI</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-linux-distributions-ideal-for-developers-a-comprehensive-guide-by-techradar/"><u>Top 5 Linux Distributions Ideal for Developers: A Comprehensive Guide by TechRadar</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords"
-date: 2024-10-03T16:17:00.867Z
-updated: 2024-10-06T17:11:48.341Z
+date: 2024-10-05T01:18:51.691Z
+updated: 2024-10-12T04:26:05.476Z
 tags:
   - password-manager
 categories:
@@ -62,10 +62,10 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -91,20 +91,24 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-dark-light-on-asus-keys/"><u>[FIXED] Dark Light on ASUS Keys</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ejecutivo-de-movavi-como-crear-subtitulos-para-videos-sin-problemas/"><u>Ejecutivo De Movavi - Cómo Crear Subtítulos Para Vídeos Sin Problemas</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-tech-squads-amplifying-their-role-in-enhancing-customer-journey-insights-from-zdnet/"><u>Empowering Tech Squads: Amplifying Their Role in Enhancing Customer Journey – Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-customer-engagement-through-advanced-technologies-exploring-xr-digital-twins-and-spatial-computing-for-businesses-guided-by-experts-at-zdnet/"><u>Enhancing Customer Engagement Through Advanced Technologies: Exploring XR, Digital Twins, and Spatial Computing for Businesses | Guided by Experts at ZDNET</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-3g2-files-to-wma-format-movavi/"><u>Free Online Converter: Change .3G2 Files to WMA Format - Movavi</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-audio-dimming-the-live-approach/"><u>In 2024, Audio Dimming The Live Approach</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-infinix-smart-7-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Infinix Smart 7 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-question-collection-for-lively-podcast-discussions/"><u>In 2024, Innovative Question Collection for Lively Podcast Discussions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mainstream-market-entry-with-aristas-new-cognitive-network-solutions-for-mid-sized-businesses-industry-analysis/"><u>Mainstream Market Entry with Arista's New Cognitive Network Solutions for Mid-Sized Businesses | Industry Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/stability/"><u>Stability</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-chaos-in-linux-and-open-source-manuals-a-revolutionary-fix-zdnet-insight/"><u>Taming Chaos in Linux & Open Source Manuals: A Revolutionary Fix | ZDNet Insight</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-4-must-try-ai-powered-story-creation-tools-unleash-your-imagination/"><u>Top 4 Must-Try AI-Powered Story Creation Tools - Unleash Your Imagination!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transportation-showdown-can-you-save-money-with-uber-compared-to-a-traditional-taxi-service/"><u>Transportation Showdown: Can You Save Money with Uber Compared to a Traditional Taxi Service?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-artificer-adobes-revolutionary-ai-tool-for-enhancing-business-teams-explained-by-zdnet/"><u>Unleashing the Power of Artificer: Adobe's Revolutionary AI Tool for Enhancing Business Teams, Explained by ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-does-my-iphones-display-stay-on-too-long-solutions-inside/"><u>Why Does My iPhone's Display Stay On Too Long? Solutions Inside</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-ultimate-cut-for-quality-offline-ipad-gaming/"><u>[Updated] 2024 Approved The Ultimate Cut for Quality Offline iPad Gaming</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-autoplay-youtube-on-phones-without-interruption/"><u>[Updated] In 2024, Autoplay YouTube on Phones without Interruption</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-vcs-quickcapture-critique-full-review-and-guide/"><u>[Updated] In 2024, VCS QuickCapture Critique Full Review & Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-leveraging-azure-ai-for-audio-to-text-translation/"><u>[Updated] Leveraging Azure AI for Audio to Text Translation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-successful-uploads-on-google-podcast/"><u>2024 Approved Step-by-Step Successful Uploads on Google Podcast</u></a></li>
+<li><a href="https://app-tips.techidaily.com/chatgpt-2024-ultimate-review-unpacking-advanced-features-and-solving-internal-server-malfunctions/"><u>ChatGPT 2024 Ultimate Review: Unpacking Advanced Features and Solving Internal Server Malfunctions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-elevenlabs-generative-voice-ai-options-and-reviews/"><u>Comprehensive Analysis of ElevenLabs' Generative Voice AI: Options & Reviews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-monica-ai-understanding-its-features-and-mastering-chatgpt-assistance/"><u>Exploring Monica AI: Understanding Its Features & Mastering ChatGPT Assistance</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-to-perfectly-capture-your-google-hangouts-on-windowsmac-expert-tips-and-tricks/"><u>How to Perfectly Capture Your Google Hangouts on Windows/Mac: Expert Tips & Tricks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-zte-blade-a73-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of ZTE Blade A73 5G Without PUK Codes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-review-of-elevenlabs-genai-vs-other-voice-generation-technologies/"><u>In-Depth Review of ElevenLabs' GenAI Vs. Other Voice Generation Technologies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovative-model-conversion-from-text-to-video-within-hugging-faces-collaborative-ecosystem/"><u>Innovative Model Conversion From Text to Video Within Hugging Face's Collaborative Ecosystem</u></a></li>
+<li><a href="https://app-tips.techidaily.com/must-know-review-inside-look-at-the-revolutionary-eva-previously-ex-journey-chatbot/"><u>Must-Know Review: Inside Look at the Revolutionary EVA (Previously Ex Journey) Chatbot</u></a></li>
+<li><a href="https://win-blog.techidaily.com/persistent-crashes-for-tormented-souls-pc-version-solutions-inside/"><u>Persistent Crashes for Tormented Souls PC Version: Solutions Inside!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-position-predictor-highest-charting-videos-for-2024/"><u>Prime Position Predictor Highest Charting Videos for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-step-by-step-process-of-tracking-down-a-private-number/"><u>The Comprehensive Step-by-Step Process of Tracking Down a Private Number</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-10-cutting-edge-ai-chatbots-to-enhance-your-messaging-game/"><u>The Ultimate List of 10 Cutting-Edge AI Chatbots to Enhance Your Messaging Game</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-conversational-ai-exploring-the-best-features-of-gpt-powered-chatbots/"><u>Top-Rated Conversational AI: Exploring the Best Features of GPT-Powered Chatbots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-reviews-explore-the-best-in-ai-meet-chatgpt-your-new-preferred-chatbot-companion/"><u>Top-Rated Reviews: Explore the Best in AI - Meet ChatGPT, Your New Preferred Chatbot Companion</u></a></li>
 </ul></div>
 

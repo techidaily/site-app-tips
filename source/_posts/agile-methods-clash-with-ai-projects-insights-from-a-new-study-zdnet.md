@@ -1,7 +1,7 @@
 ---
 title: "Agile Methods Clash with AI Projects: Insights From a New Study | ZDNet"
-date: 2024-09-18 13:35:36
-updated: 2024-09-20 10:44:47
+date: 2024-10-08T22:53:12.888Z
+updated: 2024-10-11T19:38:42.152Z
 tags:
   - digital-transformation
 categories:
@@ -89,11 +89,35 @@ Finally, as noted above, the report suggested AI is not a magic wand and has lim
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-a-practical-approach-to-incorporate-youtube-playlists-online-for-2024/"><u>[Updated] A Practical Approach to Incorporate YouTube Playlists Online for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-peeling-back-layers-of-the-apple-m1-chip/"><u>2024 Approved Peeling Back Layers of the Apple M1 Chip</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/end-playback-glitch-at-0xc00d36c4-error/"><u>End Playback Glitch at 0XC00D36C4 Error</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-servicenow-embraces-ai-fundamentals-for-competitive-advantage-insights-and-implications-for-business-growth-zdnet/"><u>How ServiceNow Embraces AI Fundamentals for Competitive Advantage – Insights & Implications for Business Growth | ZDNET</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-insights-on-gopro-hero5-adventure-series/"><u>In 2024, Insights on GoPro Hero5 Adventure Series</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-hot-40-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Hot 40 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-new-era-of-work-a-deep-dive-into-enterprise-transformation-through-decentralized-technologies-and-web3/"><u>Navigating the New Era of Work: A Deep Dive Into Enterprise Transformation Through Decentralized Technologies and Web3</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-shift-from-on-premises-infrastructure-to-cloud-dominance/"><u>Navigating the Shift From On-Premises Infrastructure to Cloud Dominance</u></a></li>
+<li><a href="https://win11.techidaily.com/spotlight-on-windows-11-speed-actionable-fixes-for-slowdowns/"><u>Spotlight on Windows 11 Speed: Actionable Fixes for Slowdowns</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-most-efficient-to-do-list-applications-techradar/"><u>Top 10 Most Efficient To-Do List Applications - TechRadar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-screen-capture-tools-comprehensive-guide-pcmag/"><u>Top-Rated Screen Capture Tools: Comprehensive Guide - PCMag</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-the-features-and-cost-efficiency-of-the-sony-xbr65x850f-tv/"><u>Unpacking the Features and Cost Efficiency of the Sony XBR65X850F TV.</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

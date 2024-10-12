@@ -1,7 +1,7 @@
 ---
 title: "Outdated Automation Meets Modern Smart Tech in Software Creation: Unveiling AI's Role | ZDNET"
-date: 2024-09-19 16:36:20
-updated: 2024-09-20 10:48:56
+date: 2024-10-05T18:55:59.864Z
+updated: 2024-10-12T05:31:13.700Z
 tags:
   - digital-transformation
 categories:
@@ -94,11 +94,33 @@ Ferguson said that with human oversight, "AI can strengthen approaches like DevO
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-methodology-to-purging-your-youtube-watch-later-playlist/"><u>[New] Methodology to Purging Your YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-photographers-toolkit-top-text-editors-for-images/"><u>[New] The Photographer's Toolkit Top Text Editors for Images</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-snapchat-integration-for-twitters-visual-content/"><u>[Updated] In 2024, Snapchat Integration for Twitter's Visual Content</u></a></li>
+<li><a href="https://app-tips.techidaily.com/emerging-trends-how-edge-computing-boosts-job-opportunities-and-growth-insights-by-zdnet/"><u>Emerging Trends: How Edge Computing Boosts Job Opportunities & Growth - Insights by ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/excellent-camcorders-with-facing-panel/"><u>Excellent Camcorders with Facing Panel</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-role-of-a-chief-ai-officer-pathways-to-achieve-this-executive-position/"><u>Exploring the Role of a Chief AI Officer – Pathways to Achieve This Executive Position</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-assortment-premier-webcam-stabilizers/"><u>In 2024, Optimal Assortment Premier Webcam Stabilizers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-f23-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo F23 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/llm-essentials-understanding-giants-in-ai-language-processing/"><u>LLM Essentials: Understanding Giants in AI Language Processing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-cashless-how-non-monetary-transactions-are-set-to-soar-past-16t-driven-by-asian-markets-zdnet-insights/"><u>The Future Is Cashless: How Non-Monetary Transactions Are Set to Soar Past $1.6T, Driven by Asian Markets | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-singapores-push-towards-eco-friendly-tech-funding-artificeal-intelligence-to-combat-climate-change/"><u>ZDNet Explores Singapore’s Push Towards Eco-Friendly Tech: Funding Artificeal Intelligence to Combat Climate Change</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

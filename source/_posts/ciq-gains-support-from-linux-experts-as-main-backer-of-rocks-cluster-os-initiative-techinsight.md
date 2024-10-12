@@ -1,7 +1,7 @@
 ---
 title: CIQ Gains Support From Linux Experts as Main Backer of Rocks Cluster OS Initiative - TechInsight
-date: 2024-09-22T19:54:01.981Z
-updated: 2024-09-25T16:02:12.202Z
+date: 2024-10-08T01:05:40.619Z
+updated: 2024-10-11T16:51:14.788Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +187,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-blitz-photography-crafting-quick-google-collage-images-for-2024/"><u>[New] Blitz Photography Crafting Quick Google Collage Images for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-jumping-into-group-video-calls-the-zoom-way-on-android/"><u>[New] Jumping Into Group Video Calls The Zoom Way on Android</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-techniques-to-halt-live-streams-in-qt-player-for-2024/"><u>[Updated] Techniques to Halt Live Streams in QT Player for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-youtube-partnerships-successfully/"><u>2024 Approved Navigating YouTube Partnerships Successfully</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/8-key-metaverse-ventures-unveiling-core-concepts-for-2024/"><u>8 Key Metaverse Ventures Unveiling Core Concepts for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-strategies-to-resolve-android-whatsapp-backup-issues-top-5-tips/"><u>Best Strategies to Resolve Android WhatsApp Backup Issues: Top 5 Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620197018-expert-tips-for-retrieving-lost-whatsapp-data-on-ios-recover-texts-images-movies-and-sounds-easily/"><u>Expert Tips for Retrieving Lost WhatsApp Data on iOS - Recover Texts, Images, Movies & Sounds Easily!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/happy-enrollment-and-logout-flowchart/"><u>Happy Enrollment & Logout Flowchart</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-effortlessly-backup-and-restore-whatsapp-messages-from-one-android-phone-to-another/"><u>How to Effortlessly Backup and Restore WhatsApp Messages From One Android Phone to Another</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-friends-into-your-chat-list-a-comprehensive-tutorial-for-ios-and-android-users-of-whatsapp/"><u>Integrating Friends Into Your Chat List: A Comprehensive Tutorial for iOS & Android Users of WhatsApp</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-for-players-facing-startup-difficulties-with-simcity-cities-skylines-2/"><u>Quick Fixes for Players Facing Startup Difficulties with SimCity (Cities: Skylines) 2</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revise-your-mobile-details-easily-the-ultimate-walkthrough-for-switching-numbers-on-whatsapp/"><u>Revise Your Mobile Details Easily: The Ultimate Walkthrough for Switching Numbers on WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-adding-new-contacts-in-whatsapp-across-iphone-and-android-devices/"><u>Step-by-Step Guide: Adding New Contacts in WhatsApp Across iPhone & Android Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-keyboard-shortcut-management-apps-for-windows-pc/"><u>Top Rated Keyboard Shortcut Management Apps for Windows PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-how-to-restore-deleted-whatsapp-conversations-on-android-phones/"><u>Ultimate Guide: How to Restore Deleted WhatsApp Conversations on Android Phones</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleash-potential-with-nvidias-updated-win11-driver/"><u>Unleash Potential with NVIDIA's Updated Win11 Driver</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-gopro-and-yi-the-2023-ultimate-actions-camera-verdict/"><u>[New] GoPro & YI The 2023 Ultimate Actions Camera Verdict</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bypassing-the-developer-cannot-be-verified-hurdle-on-your-mac-device/"><u>Bypassing the 'Developer Cannot Be Verified' Hurdle on Your Mac Device</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-testing-of-motorola-mg7700-swift-and-steady-performance/"><u>Comprehensive Testing of Motorola MG7700: Swift & Steady Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-experience-dall-e-3s-latest-integration-of-editing-tools-requires-further-enhancement/"><u>Elevate Your Experience: DALL-E 3'S Latest Integration of Editing Tools Requires Further Enhancement</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-expert-advice-extracting-and-saving-tweets-video-files-in-android/"><u>In 2024, Expert Advice Extracting & Saving Tweets' Video Files in Android</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-13-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone 13 Pro Max and iPad</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-demystified-understanding-its-essentiality-in-cloud-computing/"><u>Kubernetes Demystified: Understanding Its Essentiality in Cloud Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-team-meetings-with-otter-adaptable-audio-transcription-tools-explored-insights-and-tips-zdnet/"><u>Mastering Team Meetings with Otter: Adaptable Audio Transcription Tools Explored - Insights & Tips | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/polarization/"><u>Polarization</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-is-now-a-comprehensive-review-of-verizons-5g-capabilities/"><u>The Future Is Now: A Comprehensive Review of Verizon’s 5G Capabilities</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-leading-8-applications-of-artificer-intellect-essential-tips-for-tech-enthusiasts/"><u>The Leading 8 Applications of Artificer Intellect - Essential Tips for Tech Enthusiasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-customer-relationship-management-crm-systems-optimal-choices-for-small-and-medium-businesses-insights-by-zdnet/"><u>Top Customer Relationship Management (CRM) Systems : Optimal Choices for Small and Medium Businesses - Insights by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-pc-hurdles-steadying-cpu-load-in-rm-toolkit/"><u>Troubleshoot PC Hurdles: Steadying CPU Load in RM Toolkit</u></a></li>
 </ul></div>
 

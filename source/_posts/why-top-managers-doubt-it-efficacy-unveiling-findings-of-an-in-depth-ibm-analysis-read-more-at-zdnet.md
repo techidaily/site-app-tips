@@ -1,7 +1,7 @@
 ---
 title: Why Top Managers Doubt IT Efficacy – Unveiling Findings of an In-Depth IBM Analysis | Read More at ZDNet
-date: 2024-09-17 16:29:44
-updated: 2024-09-20 10:59:34
+date: 2024-10-09T00:50:52.182Z
+updated: 2024-10-11T16:57:13.092Z
 tags:
   - digital-transformation
 categories:
@@ -84,11 +84,38 @@ Running a successful business these days means running a successful technology e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-excellent-quality-hd-video-preservers/"><u>[New] 2024 Approved Excellent Quality HD Video Preservers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-inside-look-what-makes-asmr-special/"><u>[New] 2024 Approved Inside Look What Makes ASMR Special</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-essentials-of-using-tiktok-on-both-macs-and-pcs/"><u>[Updated] In 2024, The Essentials of Using TikTok on Both Macs & PCs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-revolutionary-tactics-for-enhanced-roi-in-animated-facebook-advertising-for-2024/"><u>[Updated] Revolutionary Tactics for Enhanced ROI in Animated Facebook Advertising for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-vivas-video-experience/"><u>2024 Approved Understanding Viva's Video Experience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-and-fair-evaluation-of-airwatch-your-ultimate-guide/"><u>Comprehensive and Fair Evaluation of AirWatch - Your Ultimate Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-factual-inshot-video-editing-tool-of-2024-a-must-see/"><u>Discover the Top Factual InShot Video Editing Tool of 2024 - A MUST-SEE!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-and-use-the-free-ogg-media-player-compatible-with-pc-and-mac/"><u>Download & Use the Free OGG Media Player Compatible with PC & Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-photography-skills-discover-5-remarkable-tools-for-upgrading-and-perfecting-images-beyond-remini/"><u>Elevate Your Photography Skills: Discover 5 Remarkable Tools for Upgrading and Perfecting Images Beyond Remini</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/from-novice-to-pro-an-extensive-guide-on-using-zd-softs-recording-features/"><u>From Novice to Pro An Extensive Guide on Using ZD Soft’s Recording Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-gear-s3-frontier-review/"><u>Samsung Gear S3 Frontier Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620190391-the-ultimate-guide-12-hilarious-mobile-faces-you-can-try-on-any-phone/"><u>The Ultimate Guide: 12 Hilarious Mobile Faces You Can Try on Any Phone!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-paid-and-free-calendar-applications-for-ios-devices/"><u>Top Rated Paid & Free Calendar Applications for iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193087-ultimate-review-of-the-shotcut-app-unveil-its-features-and-benefits-now/"><u>Ultimate Review of the Shotcut App: Unveil Its Features and Benefits Now!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unique-content-creation-the-ultimate-guide-to-6-video-types-for-2024/"><u>Unique Content Creation The Ultimate Guide to 6 Video Types for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193647-unlock-ultimate-convenience-and-safety-on-ios-discover-the-premier-password-protector-app/"><u>Unlock Ultimate Convenience & Safety on iOS - Discover the Premier Password Protector App!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oneplus-12r-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your OnePlus 12R Phone Network-Ready</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

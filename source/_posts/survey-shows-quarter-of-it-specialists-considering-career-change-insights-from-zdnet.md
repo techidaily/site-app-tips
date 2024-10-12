@@ -1,7 +1,7 @@
 ---
 title: Survey Shows Quarter of IT Specialists Considering Career Change - Insights From ZDNet
-date: 2024-09-18 17:48:25
-updated: 2024-09-20 12:44:21
+date: 2024-10-11T08:40:35.699Z
+updated: 2024-10-11T21:40:37.316Z
 tags:
   - digital-transformation
 categories:
@@ -47,15 +47,36 @@ Industry leaders across the spectrum share their concerns and advice about worki
 
 "Keep learning is my best advice," says [Andrew Duncan](https://www.linkedin.com/in/andrewdun/?originalSubdomain=uk), CEO and managing partner at Infosys Consulting. "New experiences, new skills development, and new project opportunities are always the best path to keep advancing. Find a mentor that can help you through coaching and advisory -- these types of more seasoned business veterans are often a great ticket to opening new doors within a company, especially for younger professionals. Keep yourself visible and market yourself -- show people your successes and achievements and the value you have created in a project." 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Be a team player** 
 
 "Become critically important for the success of your team," says [Zaven Nahapetyan](https://www.linkedin.com/in/zavn/), co-founder of Niche.club, and a former engineering manager at Facebook. "As you get more senior, think about your team in broader terms: First, your immediate coworkers, then your organization. Understand what results you, your team, and your organization are supposed to be driving. Don't think of your job as a list of responsibilities, but rather as an investment by the company in order to achieve some goal. Try to understand what that goal is, and do everything in your power to help achieve it." 
 
 **Also:** [**5 ways to boost your skills and increase your career opportunities**](https://www.zdnet.com/education/professional-development/5-ways-to-boost-your-skills-and-increase-your-career-opportunities/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Focus on the big picture**
 
 "Today's technology professionals should look beyond their current role in their organization, to think more broadly about the current challenges of the industry as a whole," says [Ben Smith](https://www.linkedin.com/in/bnsmth/), CTO of NetWitness. "Internally, they should seek out educational opportunities and tools available to expand their skills and succeed in their roles. Managers should know the top two or three goals of each of their employees, particularly those goals which may cross over from the professional world into the personal. The sooner a manager realizes that they cannot succeed by managing every employee identically, the stronger that manager's retention metric will be, whether in cybersecurity or any other industry." 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Shift thinking from heads-down tech to heads-up business concerns** 
 
@@ -82,11 +103,31 @@ Industry leaders across the spectrum share their concerns and advice about worki
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unlocking-fullscreen-footage-screen-recording-made-simple-for-mac-users/"><u>[New] 2024 Approved Unlocking Fullscreen Footage Screen Recording Made Simple for Mac Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-stabilizing-high-flying-camera-work-a-guide/"><u>[New] Stabilizing High-Flying Camera Work A Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-8-best-video-conferencing-software-for-small-business-safe-and-stable/"><u>[Updated] 2024 Approved 8 Best Video Conferencing Software for Small Business (Safe and Stable)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-excellent-record-maker-chromebook-edition/"><u>[Updated] Excellent Record Maker Chromebook Edition</u></a></li>
+<li><a href="https://discover-data.techidaily.com/1-ultimate-guide-to-hdd-and-ssd-duplication-seamless-cloning-and-upgrading/"><u>1. Ultimate Guide to HDD & SSD Duplication: Seamless Cloning and Upgrading</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-leading-resources-for-premium-vector-data/"><u>2024 Approved 10 Leading Resources for Premium Vector Data</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterclass-on-blending-sound-and-sight-for-media-professionals/"><u>2024 Approved Masterclass on Blending Sound & Sight for Media Professionals</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723005855776-battling-with-constant-pc-crashes-during-the-king-of-fighters-xv-heres-how-you-can-win/"><u>Battling with Constant PC Crashes During 'The King of Fighters XV'? Here's How You Can Win</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-to-elite-a-comprehensive-tutorial-on-switching-from-windows-home-to-the-power-of-pro-version/"><u>Elevate to Elite: A Comprehensive Tutorial on Switching From Windows Home to the Power of Pro Version</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevating-software-creation-with-github-copilots-productive-precision-insights-from-zdnet/"><u>Elevating Software Creation with GitHub Copilot's Productive Precision - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-tech-adopts-the-ops-approach-amidst-emerging-challenges-zdnet-insights/"><u>Enterprise Tech Adopts the 'Ops' Approach Amidst Emerging Challenges | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-seamless-cross-platform-integration-chrome-os-welcomes-windows-apps-via-exciting-new-collaboration/"><u>Experience Seamless Cross-Platform Integration: Chrome OS Welcomes Windows Apps via Exciting New Collaboration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/grounding-systems-must-comply-with-national-and-international-standards-to-ensure-they-are-safe-and-do-not-cause-harmful-interference/"><u>Grounding Systems Must Comply with National and International Standards to Ensure They Are Safe and Do Not Cause Harmful Interference.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-tech-professionals-can-overcome-burnout-with-positive-developments-discoveries-by-zdnet/"><u>How Tech Professionals Can Overcome Burnout with Positive Developments - Discoveries by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-compelling-benefits-of-embracing-aiops-insights-from-zdnet/"><u>Top 7 Compelling Benefits of Embracing AIOps: Insights From ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-dropboxs-effect-on-video-size-and-image-clarity-during-upload/"><u>Understanding Dropbox's Effect on Video Size and Image Clarity During Upload</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-ai-driven-success-for-any-size-business-using-anthropics-latest-enterprise-offering-the-claude-upgrade-zdnet-insights/"><u>Unlock AI-Driven Success for Any Size Business Using Anthropic's Latest Enterprise Offering, The Claude Upgrade | ZDNET Insights</u></a></li>
+</ul></div>
+

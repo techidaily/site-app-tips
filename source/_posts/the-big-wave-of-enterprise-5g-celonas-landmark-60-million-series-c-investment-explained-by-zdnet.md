@@ -1,7 +1,7 @@
 ---
 title: "The 'Big Wave' Of Enterprise 5G: Celona's Landmark $60 Million Series C Investment Explained by ZDNet"
-date: 2024-09-28T22:39:59.441Z
-updated: 2024-09-30T23:25:09.738Z
+date: 2024-10-09T23:06:44.769Z
+updated: 2024-10-11T20:55:50.076Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,16 +187,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-screencast-pro-efficient-recording-macpc-upload-to-youtube/"><u>[New] In 2024, ScreenCast Pro Efficient Recording, Mac/PC Upload to YouTube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-acquire-high-quality-sounds-for-media-creators/"><u>[Updated] 2024 Approved Acquire High-Quality Sounds for Media Creators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-turn-up-your-pexels-photo-game/"><u>[Updated] How to Turn Up Your Pexels Photo Game</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-portable-recording-stands-and-lenses/"><u>[Updated] Portable Recording Stands and Lenses</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-mastering-whatsapp-audio-chats/"><u>2024 Approved Mastering WhatsApp Audio Chats</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-revive-iphone-hdr-video-on-premiere-pro-with-5-tips/"><u>2024 Approved Revive iPhone HDR Video on Premiere Pro with 5 Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-how-iphone-users-can-download-and-preserve-pdfs-from-whatsapp/"><u>Complete Tutorial: How iPhone Users Can Download and Preserve PDFs From WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-tips-for-retrieving-lost-whatsapp-data-on-ios-recover-texts-images-movies-and-sounds-easily/"><u>Expert Tips for Retrieving Lost WhatsApp Data on iOS - Recover Texts, Images, Movies & Sounds Easily</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-guide-capturing-your-whatsapp-video-calls-on-ios-android-and-pc/"><u>Simple Guide: Capturing Your WhatsApp Video Calls on iOS, Android, and PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-steps-to-seamlessly-download-audio-messages-from-whatsapp/"><u>Simple Steps to Seamlessly Download Audio Messages From WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-whatsapp-video-conversion-apps-for-perfect-quality/"><u>The Ultimate Guide: Top WhatsApp Video Conversion Apps for Perfect Quality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-does-active-presenter-8-outperform-its-rivals/"><u>[New] In 2024, Does Active Presenter 8 Outperform Its Rivals?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamlined-recording-of-powerpoint-slides-via-webcam/"><u>[New] Streamlined Recording of PowerPoint Slides via Webcam</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-delete-a-tiktok-account-permanently-in-2024/"><u>[Updated] How to Delete a TikTok Account Permanently, In 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-se-2022-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone SE (2022) Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969651955-efficient-troubleshooting-guide-for-logitech-c615-mouse-drivers-instantly-resolved/"><u>Efficient Troubleshooting Guide for Logitech C615 Mouse Drivers - Instantly Resolved!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/cing-your-youtube-content-with-right-camera-gear/"><u>Enhancing Your YouTube Content with Right Camera Gear</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-rust-with-linux-creator-linus-torvalds-insights-on-his-work-habits-and-life-with-macbook-air-exclusive-coverage-from-zdnet/"><u>Exploring Rust with Linux Creator Linus Torvalds: Insights on His Work Habits and Life with MacBook Air | Exclusive Coverage From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/grounding-is-especially-critical-for-transmitting-antennas-due-to-the-high-power-involved-which-increases-the-risk-of-lightning-strikes-and-electrical-hazar80/"><u>Grounding Is Especially Critical for Transmitting Antennas Due to the High Power Involved, Which Increases the Risk of Lightning Strikes and Electrical Hazards.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-prompt-injection-paves-way-for-ai-abuse/"><u>How Prompt Injection Paves Way for AI Abuse</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-the-digital-shift-how-enterprise-architects-are-steering-change-zdnet/"><u>Leading the Digital Shift: How Enterprise Architects Are Steering Change | ZDNet</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/izing-monetization-unlocking-partnerships-without-limits/"><u>Maximizing Monetization Unlocking Partnerships Without Limits</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-guide-to-using-github-desktop-for-windows-11-dev-teams/"><u>Tailored Guide to Using GitHub Desktop for Windows 11 Dev Teams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-hottest-developer-positions-and-rising-programming-languages-predictions-for-the-tech-industry-insights-from-zdnet/"><u>The Hottest Developer Positions & Rising Programming Languages: Predictions for the Tech Industry | Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-potential-of-ai-in-business-with-servicenow-understanding-the-four-critical-guiding-principles-insights-from-zdnet/"><u>Unlocking the Potential of AI in Business with ServiceNow: Understanding the Four Critical Guiding Principles - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsoft-must-fix-windows-10-issues-within-just-one-year-insights-from-zdnet/"><u>Urgent Challenge: Microsoft Must Fix Windows 10 Issues Within Just One Year - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-companies-face-difficulty-in-harnessing-generative-ai-key-findings-from-deloittes-research-zdnet/"><u>Why Companies Face Difficulty in Harnessing Generative AI: Key Findings From Deloitte's Research | ZDNet</u></a></li>
 </ul></div>
 

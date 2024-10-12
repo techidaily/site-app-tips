@@ -1,7 +1,7 @@
 ---
 title: Preparing Management Skills Is Key Prior to Deploying AI Technology - Discover Strategies with ZDNET
-date: 2024-09-18 16:27:22
-updated: 2024-09-20 10:17:53
+date: 2024-10-10T00:23:31.637Z
+updated: 2024-10-11T20:42:23.532Z
 tags:
   - digital-transformation
 categories:
@@ -87,11 +87,40 @@ Predicting or calculating return on investment is another mandate that needs to 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-premier-mobile-dev-editor-software-guide/"><u>[New] 2024 Approved Premier Mobile Dev Editor Software Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-blueprint-for-creating-viral-trailers-in-the-world-of-youtube/"><u>[New] Blueprint for Creating Viral Trailers in the World of YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-groundwork-for-av1-mastery-for-2024/"><u>[Updated] Groundwork for AV1 Mastery for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-tecno-spark-10-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Tecno Spark 10 Pro Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acer-predator-triton-300-se-explored-where-performance-and-portability-collide/"><u>Acer Predator Triton 300 SE Explored: Where Performance and Portability Collide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adapting-cyber-defense-tactics-modernizing-security-expertise-amidst-outdated-infrastructure-challenges/"><u>Adapting Cyber Defense Tactics: Modernizing Security Expertise Amidst Outdated Infrastructure Challenges</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-sgs-green-transition-calls-increase-for-financing-ai-based-carbon-reduction-strategies-insights-from-zdnet/"><u>Boosting SG's Green Transition: Calls Increase for Financing AI-Based Carbon Reduction Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/creating-compelling-montage-images-step-by-step-for-2024/"><u>Creating Compelling Montage Images Step by Step for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/finding-reliable-artificial-intelligence-watermarks-insights-from-zdnet/"><u>Finding Reliable Artificial Intelligence Watermarks: Insights From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/glow-innovations-outshining-videos-through-design/"><u>Glow Innovations Outshining Videos Through Design</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-will-artificial-intelligence-impact-future-careers-in-cybersecurity-challenges-and-opportunities/"><u>How Will Artificial Intelligence Impact Future Careers in Cybersecurity?: Challenges & Opportunities</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapores-push-investing-in-ai-and-green-tech-transformation-insights-from-zdnet/"><u>Singapore's Push: Investing in AI & Green Tech Transformation - Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722996198874-the-mystery-of-missing-la-noire-pc-version-is-solved-start-playing-today/"><u>The Mystery of Missing L.A. Noire PC Version Is Solved - Start Playing Today</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-unyielding-nature-of-facebooks-content-advice/"><u>The Unyielding Nature of Facebook's Content Advice</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-plans-of-2024-comprehensive-reviews-and-comparisons-techradar/"><u>Top-Ranked Web Hosting Plans of 2024: Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-by-tech-gurus-zdnets-exclusive-insights/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews by Tech Gurus | ZDNet's Exclusive Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-profitability-with-generative-ai-understanding-roi-challenges-and-strategies-featured-in-zdnet/"><u>Unlocking Profitability with Generative AI: Understanding ROI Challenges and Strategies | Featured in ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-data-as-key-ingredient-in-crafting-smart-ai-solutions-strategies-for-completing-your-technological-jigsaw/"><u>Unveiling Data as Key Ingredient in Crafting Smart AI Solutions: Strategies for Completing Your Technological Jigsaw</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

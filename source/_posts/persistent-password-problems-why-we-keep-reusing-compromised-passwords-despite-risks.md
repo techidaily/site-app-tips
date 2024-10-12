@@ -1,7 +1,7 @@
 ---
 title: "Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks"
-date: 2024-10-03T18:50:41.060Z
-updated: 2024-10-06T16:15:43.324Z
+date: 2024-10-09T17:55:31.913Z
+updated: 2024-10-11T17:53:45.376Z
 tags:
   - password-manager
 categories:
@@ -110,10 +110,10 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -140,10 +140,10 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -191,22 +191,20 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-streamlining-your-360-video-process-for-social-media-platforms-for-2024/"><u>[Updated] Streamlining Your 360 Video Process for Social Media Platforms for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-achieving-excellence-in-game-recording-techniques-windows-11-style/"><u>2024 Approved Achieving Excellence in Game Recording Techniques, Windows 11 Style</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-reno-10-pro-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/debunking-microsoft-recall-as-a-privacy-catastrophe-here-are-7-compelling-reasons-you-shouldnt-worry-zdnet/"><u>Debunking Microsoft Recall as a Privacy Catastrophe? Here Are 7 Compelling Reasons You Shouldn't Worry | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-rapid-impact-of-ai-on-software-engineering-challenges-in-quantifying-progress-insights-from-zdnet/"><u>Exploring the Rapid Impact of AI on Software Engineering: Challenges in Quantifying Progress - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-essential-is-devops-for-staying-ahead-in-business-ensuring-safety-through-top-strategies-insights-from-zdnet/"><u>How Essential Is DevOps for Staying Ahead in Business: Ensuring Safety Through Top Strategies - Insights From ZDNet</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-major-cloud-services-aws-azure-and-google-cloud-for-a-hybrid-and-saas-strategy-insights-by-zdnet/"><u>In-Depth Analysis of Major Cloud Services: AWS, Azure, and Google Cloud for a Hybrid and SaaS Strategy | Insights by ZDNET</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721461104619-iphone-app-icon-error-heres-how-you-can-fix-them-back/"><u>IPhone App Icon Error? Here's How You Can Fix Them Back!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-process-of-upgrading-your-system-to-ubuntu-2404-tips-and-tricks-from-zdnet/"><u>Mastering the Process of Upgrading Your System to Ubuntu 24.04: Tips and Tricks From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-openai-api-a-step-by-step-strategy-guide/"><u>Navigating Through OpenAI API: A Step-by-Step Strategy Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/sonys-research-division-joins-forces-with-ai-singapore-for-next-gen-language-models-innovation-breakthrough/"><u>Sony's Research Division Joins Forces with AI Singapore for Next-Gen Language Models | Innovation Breakthrough</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-troubleshooting-for-stop-error-0x0000007b-blue-screen-of-death-fixes/"><u>Step-by-Step Troubleshooting for STOP Error 0X0000007B - Blue Screen of Death Fixes</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-crisis-microsofts-critical-challenge-with-windows-10-looms-as-deadline-approaches-tech-news-by-zdnet/"><u>Urgent Crisis: Microsoft's Critical Challenge with Windows 10 Looms as Deadline Approaches | Tech News by ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-microsoft-edge-holds-the-crown-in-gaming-browsers/"><u>Why Microsoft Edge Holds the Crown in Gaming Browsers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-woes-intensify-for-microsoft-as-launch-deadline-looms-expert-analysis-by-zdnet/"><u>Windows 11 Woes Intensify for Microsoft as Launch Deadline Looms – Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-how-to-zoom-in-google-meet/"><u>[New] 2024 Approved How to Zoom In Google Meet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-easy-to-follow-guide-to-mobile-recording-snapchat-edition/"><u>[Updated] 2024 Approved Easy-to-Follow Guide to Mobile Recording Snapchat Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-stunning-hdr-portraits-step-by-step-instructions/"><u>2024 Approved Capturing Stunning HDR Portraits Step-by-Step Instructions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-steps-to-uncover-youtubes-central-editing-nexus/"><u>2024 Approved Steps to Uncover YouTube’s Central Editing Nexus</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-3ds-emulator-apps-top-picks-for-windows-mac-ios-and-android/"><u>Best Free 3DS Emulator Apps: Top Picks for Windows, Mac, iOS & Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-vsco-features-advantages-disadvantages-and-top-substitutes/"><u>Comprehensive Guide: Understanding VSCO – Features, Advantages, Disadvantages, and Top Substitutes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/delving-into-virtual-realms-a-basic-guide/"><u>Delving Into Virtual Realms A Basic Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620195653-discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More</u></a></li>
+<li><a href="https://app-tips.techidaily.com/endless-interruptions-a-complete-guide-to-stopping-unsolicited-calls-on-your-smartphone/"><u>Endless Interruptions: A Complete Guide to Stopping Unsolicited Calls on Your Smartphone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-s21-fe-5g-2023-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy S21 FE 5G (2023) FRP Bypass</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-minute-movie-narrative-blueprint/"><u>In 2024, Minute Movie Narrative Blueprint</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-resolution-of-livekernelevent-error-number-117/"><u>Mastering the Resolution of LiveKernelEvent Error Number 117</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-15-mobile-workout-apps-ideal-for-both-ios-and-android-devices/"><u>Top 15 Mobile Workout Apps: Ideal for Both iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-15-health-and-fitness-apps-compatible-with-apple-and-android-phones/"><u>Ultimate Selection of 15 Health and Fitness Apps Compatible with Apple & Android Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-the-mystery-of-the-bnsf-emulator-thorough-assessment-and-interpretation/"><u>Unraveling the Mystery of the BNSF Emulator: Thorough Assessment and Interpretation</u></a></li>
 </ul></div>
 

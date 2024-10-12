@@ -1,7 +1,7 @@
 ---
 title: "Tech Triumph: Unveiling the Story Behind an Engineer’s App That Outsmarts McDonald's Strategy | Analysis by ZDNet"
-date: 2024-09-19T16:04:09.394Z
-updated: 2024-09-25T20:15:14.771Z
+date: 2024-10-06T08:57:35.365Z
+updated: 2024-10-11T20:02:19.923Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +187,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snaps-for-cash-a-guide-to-profitability/"><u>[New] In 2024, Snaps for Cash A Guide to Profitability</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-enhancing-remote-sessions-with-premium-bgs/"><u>[Updated] 2024 Approved Enhancing Remote Sessions with Premium BGs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-snap-save-and-share-like-a-pro-with-the-mi-11-screen-recording-suite/"><u>[Updated] 2024 Approved Snap, Save and Share Like a Pro with the Mi 11 Screen Recording Suite</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-80plus-creative-cooking-channel-names-to-attract-more-audience-for-2024/"><u>[Updated] 80+ Creative Cooking Channel Names to Attract More Audience for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-use-adsense-for-youtube/"><u>2024 Approved How to Use AdSense for YouTube</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-premium-content-for-free-music-films-and-more-from-the-itunes-store/"><u>Download Premium Content For Free: Music, Films & More From the iTunes Store</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-15-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 15 to Computer? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-v27-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo V27 Pro FRP Bypass</u></a></li>
-<li><a href="https://app-tips.techidaily.com/no-more-itunes-required-master-the-art-of-seamless-ipod-management-using-modern-alternatives/"><u>No More iTunes Required: Master the Art of Seamless iPod Management Using Modern Alternatives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcome-sluggish-itunes-discover-the-top-10-proven-tips-for-optimal-performance/"><u>Overcome Sluggish iTunes: Discover the Top 10 Proven Tips for Optimal Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/permanent-removal-effective-ways-to-get-rid-of-unwanted-apps-from-your-itunes-library/"><u>Permanent Removal: Effective Ways to Get Rid of Unwanted Apps From Your iTunes Library</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-and-easy-fixes-how-to-resolve-itunes-not-opening-issue-on-your-device/"><u>Quick and Easy Fixes: How to Resolve 'iTunes Not Opening' Issue on Your Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/refining-ai-communication-top-prompting-methods-for-better-outputs/"><u>Refining AI Communication: Top Prompting Methods for Better Outputs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-professionals-playbook-refined-gopro-video-production-techniques-for-2024/"><u>The Professional's Playbook Refined GoPro Video Production Techniques for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-top-3-methods-for-adding-cover-art-to-your-itunes-library/"><u>Unlocking the Secrets: Top 3 Methods for Adding Cover Art to Your iTunes Library</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-boom-in-the-loop-crafting-addictive-ig-videos/"><u>[New] In 2024, Boom in the Loop Crafting Addictive IG Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-efficient-video-storing-in-google-chat/"><u>[Updated] Efficient Video Storing in Google Chat</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-multitasking-using-obs-studio-for-dynamic-streaming-for-2024/"><u>[Updated] Mastering Multitasking Using OBS Studio for Dynamic Streaming for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unleashing-potential-essential-upgrades-and-supplemental-gear-for-drones-for-2024/"><u>[Updated] Unleashing Potential Essential Upgrades & Supplemental Gear for Drones for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-blueprint-of-tomorrow-eco-friendly-urban-strategies/"><u>2024 Approved The Blueprint of Tomorrow Eco-Friendly Urban Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/defending-your-microsoft-profile-from-hacking-risks-expert-tips-for-enhanced-security-digitalguardianblog/"><u>Defending Your Microsoft Profile From Hacking Risks: Expert Tips for Enhanced Security - DigitalGuardianBlog</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-malwarebytes-service-connection-failures-on-windows-11-os/"><u>Fixing Malwarebytes' Service Connection Failures on Windows 11 OS</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/journey-into-the-enigma-discovering-hidden-emoji-messages/"><u>Journey Into the Enigma Discovering Hidden Emoji Messages</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-rising-complexity-of-ops-how-it-professionals-address-emerging-challenges/"><u>Navigating the Rising Complexity of 'Ops': How IT Professionals Address Emerging Challenges</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-through-disorder-revolutionary-fixes-for-cluttered-linux-and-open-source-guides-on-zdnet/"><u>Navigating Through Disorder: Revolutionary Fixes for Cluttered Linux & Open-Source Guides on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rocky-linux-receives-major-backing-with-ciq-as-principal-supporter-insights-from-the-tech-community/"><u>Rocky Linux Receives Major Backing with CIQ as Principal Supporter - Insights From the Tech Community</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-tutorial-making-gpeditmsc-available-in-windows-10-home-edition/"><u>Step-by-Step Tutorial: Making gpedit.msc Available in Windows 10 Home Edition</u></a></li>
 </ul></div>
 

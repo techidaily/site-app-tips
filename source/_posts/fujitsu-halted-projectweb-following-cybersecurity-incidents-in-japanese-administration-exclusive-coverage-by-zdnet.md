@@ -1,7 +1,7 @@
 ---
 title: Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET
-date: 2024-09-30T18:31:56.197Z
-updated: 2024-10-06T19:00:16.290Z
+date: 2024-10-11T08:52:40.222Z
+updated: 2024-10-12T08:43:41.294Z
 tags:
   - password-manager
 categories:
@@ -64,26 +64,23 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-advanced-techniques-for-high-quality-youtube-content/"><u>[Updated] Advanced Techniques for High-Quality YouTube Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/365-as-revealed-by-zdnet/"><u>365, as Revealed by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/adaptive-arrays/"><u>Adaptive Arrays</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-ai-vulnerabilities-insights-into-the-operations-of-prompt-injection-tactics/"><u>Decoding AI Vulnerabilities: Insights Into the Operations of Prompt Injection Tactics</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Motorola Moto G14? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Oppo A2? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-expert-techniques-to-make-the-most-of-instagrams-question-marker/"><u>In 2024, Expert Techniques to Make the Most of Instagram's Question Marker</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-mastering-the-art-of-vr-exploration-for-2024/"><u>Step-by-Step Mastering the Art of VR Exploration for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-comeback-kid-unpacking-why-openstack-and-kata-containers-are-winning-over-enterprises-again-analysis-on-zdnet/"><u>The Comeback Kid: Unpacking Why OpenStack & Kata Containers Are Winning Over Enterprises Again - Analysis on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-main-lobe-or-beam-represents-the-direction-in-which-an-antenna-radiates-most-of-its-energy-a-highly-directive-antenna-has-a-narrow-main-lobe/"><u>The Main Lobe, or Beam, Represents the Direction in Which an Antenna Radiates Most of Its Energy; a Highly Directive Antenna Has a Narrow Main Lobe.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-tecno-camon-30-pro-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Camon 30 Pro 5G Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-secrets-of-successful-virtual-workspaces-embracing-anonymity-zdnet/"><u>Unveiling Secrets of Successful Virtual Workspaces: Embracing Anonymity | ZDNET</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-secrets-to-flawless-gopro-4k-edits/"><u>Unveiling the Secrets to Flawless GoPro 4K Edits</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-update-microsoft-faces-major-challenges-with-windows-11-just-one-year-left/"><u>Urgent Update: Microsoft Faces Major Challenges with Windows 11 - Just One Year Left!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-precision-and-professionalism-a-vr-recording-handbook/"><u>[New] Precision and Professionalism A VR Recording Handbook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-mobile-games-hacking-tools-on-android-rooted-and-non-rooted-options/"><u>Best 10 Mobile Games Hacking Tools on Android: Rooted & Non-Rooted Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-top-20-best-free-android-games-play-the-complete-versions-with-no-cost/"><u>Download Top 20 Best Free Android Games: Play the Complete Versions with No Cost</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-adobe-premiere-rush-strengths-weaknesses-and-competitor-solutions/"><u>In-Depth Analysis of Adobe Premiere Rush - Strengths, Weaknesses, and Competitor Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-discovering-what-sets-iphone-15-pro-max-apart-from-samsung-galaxy-s2n-ultra/"><u>In-Depth Analysis: Discovering What Sets iPhone 15 Pro Max Apart From Samsung Galaxy S2n Ultra</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-apple-clips-expert-reviews-and-detailed-instructional-insights/"><u>Mastering Apple Clips: Expert Reviews & Detailed Instructional Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-note-30-vip-racing-edition-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Note 30 VIP Racing Edition to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapchat-voice-tweaks-simple-methods-for-smooth-adjustments-for-2024/"><u>Snapchat Voice Tweaks Simple Methods for Smooth Adjustments for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721922963127-the-era-of-individual-ai-openais-personalized-gpt-shops/"><u>The Era of Individual AI: OpenAI's Personalized GPT Shops!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-8-ios-data-backup-solutions-protecting-your-photos-messages-and-more/"><u>Top 8 iOS Data Backup Solutions: Protecting Your Photos, Messages & More</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

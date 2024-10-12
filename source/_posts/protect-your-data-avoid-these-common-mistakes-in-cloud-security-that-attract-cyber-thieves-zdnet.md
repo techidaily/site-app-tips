@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet"
-date: 2024-10-05T18:15:42.043Z
-updated: 2024-10-06T18:16:42.813Z
+date: 2024-10-07T10:54:40.836Z
+updated: 2024-10-12T09:04:15.003Z
 tags:
   - password-manager
 categories:
@@ -112,10 +112,10 @@ Analysis of identity and access management (IAM) polices taking into account hun
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -136,10 +136,10 @@ Another practice that isn't helping IT departments is [poor password security](h
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### special feature
@@ -159,10 +159,10 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -188,20 +188,20 @@ IT departments should also consider whether regular accounts need administrator 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-essential-tips-for-attending-tiktok-live-events/"><u>[New] Essential Tips for Attending TikTok Live Events</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-easy-techniques-for-bending-digital-pictures/"><u>[Updated] Easy Techniques for Bending Digital Pictures</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-framefraction-analysis/"><u>[Updated] FrameFraction Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/five-alternative-paths-for-your-still-running-windows-10-system-as-microsofts-official-support-nears-its-end/"><u>Five Alternative Paths for Your Still-Running Windows 10 System as Microsoft's Official Support Nears Its End</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-12-4g-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 12 4G Lock Screen Password?</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-13-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-se-2020-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone SE (2020) Apple ID and Apple Pay</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-social-media-power-up-grouping-multiple-photos-and-vids-for-instagram/"><u>In 2024, Social Media Power-Up Grouping Multiple Photos & Vids for Instagram</u></a></li>
-<li><a href="https://app-tips.techidaily.com/new-microsoft-software-refresh-risks-boosting-office-stress-levels-says-zdnet-analysis/"><u>New Microsoft Software Refresh Risks Boosting Office Stress Levels, Says ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-obstacles-in-ai-precision-and-reliability-for-todays-developers-expert-analysis-at-zdnet/"><u>Overcoming Obstacles in AI Precision & Reliability for Today's Developers | Expert Analysis at ZDNet</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/quick-guide-to-adding-snapchat-on-your-macbook-for-2024/"><u>Quick Guide to Adding Snapchat on Your MacBook for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-critical-need-for-clarity-in-artificer-interests-exploring-the-transparency-gap-in-ai-evolution-zdnet/"><u>The Critical Need for Clarity in Artificer Interests: Exploring the Transparency Gap in AI Evolution | ZDNET</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-elder-scrolls-online-blackwood-lag-problem-solved-gameplay-enhanced/"><u>The Elder Scrolls Online Blackwood Lag Problem Solved – Gameplay Enhanced</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-purpose-of-an-artificial-earth-plane-in-antenna-systems-can-be-similar-to-that-of-natural-ground-when-it-comes-to-reflecting-radio-waves-and-improving-s78/"><u>The Purpose of an Artificial Earth Plane in Antenna Systems Can Be Similar to that of Natural Ground when It Comes to Reflecting Radio Waves and Improving Signal Quality.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-ai-servicenows-essential-four-core-tenets-explained-boost-your-enterprise-success/"><u>Unlocking the Power of AI: ServiceNow's Essential Four Core Tenets Explained - Boost Your Enterprise Success!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-boosting-vimeo-video-playback-tips-and-tricks-for-2024/"><u>[New] Boosting Vimeo Video Playback Tips and Tricks for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoiding-blunders-essential-tips-for-effective-use-of-generative-ai/"><u>Avoiding Blunders: Essential Tips for Effective Use of Generative AI</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cod-warzone-error-code-6328-decoded-best-fixes-and-tips-for-gamers/"><u>Cod Warzone Error Code 6328 Decoded - Best Fixes and Tips for Gamers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-compatibility-download-wacom-intuos-3-drivers-for-windows-and-enjoy-uninterrupted-productivity/"><u>Complete Compatibility: Download Wacom Intuos 3 Drivers for Windows and Enjoy Uninterrupted Productivity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-anytime-anythnough-how-to-get-past-or-latest-itunes-versions-for-pcs-and-apple-devices-without-paying-a-dime/"><u>Download Anytime, Anythnough: How to Get Past or Latest iTunes Versions for PCs and Apple Devices Without Paying a Dime</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-recover-lost-contacts-from-your-iphones-itunes-backup/"><u>How to Recover Lost Contacts From Your iPhone's iTunes Backup</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-13-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 13 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/master-the-art-of-painless-windows-update-perfect-driver-setup/"><u>Master the Art of Painless Windows Update: Perfect Driver Setup</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-fix-guide-eliminate-itunes-music-duplicates-with-simple-methods/"><u>Quick Fix Guide: Eliminate iTunes Music Duplicates with Simple Methods</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revamp-your-itunes-collection-with-these-proven-techniques-for-inserting-album-images/"><u>Revamp Your iTunes Collection with These Proven Techniques for Inserting Album Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionizing-videography-with-the-impressive-nikon-j5-for-2024/"><u>Revolutionizing Videography with the Impressive Nikon J5 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-running-a-fresh-boot-on-windows-10-without-third-party-software/"><u>Step-by-Step Guide: Running a Fresh Boot on Windows 10 Without Third-Party Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/syncing-imovie-projects-with-itunes-a-step-by-step-guide/"><u>Syncing iMovie Projects with iTunes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-12-replacements-for-itunes-on-pc-and-mac-in-2n34-best-options-explored/"><u>Top 12 Replacements for iTunes on PC and Mac in 2N34 - Best Options Explored</u></a></li>
 </ul></div>
 

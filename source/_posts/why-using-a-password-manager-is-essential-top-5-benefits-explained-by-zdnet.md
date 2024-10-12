@@ -1,7 +1,7 @@
 ---
 title: "Why Using a Password Manager Is Essential: Top 5 Benefits Explained by ZDNet"
-date: 2024-10-02T18:24:23.317Z
-updated: 2024-10-06T18:07:38.867Z
+date: 2024-10-05T09:06:28.025Z
+updated: 2024-10-12T11:26:54.059Z
 tags:
   - password-manager
 categories:
@@ -175,26 +175,12 @@ The companies that manage and sync those saved files don't have access to the de
 
 That architecture offers five distinct advantages over a DIY solution. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 * [Best VPN services](https://www.zdnet.com/article/best-vpn/)
 * [Best security keys](https://www.zdnet.com/article/best-security-key/)
 * [Best antivirus software](https://www.zdnet.com/article/best-antivirus/)
 * [The fastest VPNs](https://www.zdnet.com/article/fastest-vpn/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1) Browser Integration 
 
@@ -203,10 +189,10 @@ Most password managers include browser extensions that automatically prompt you 
 Contrast that approach with the inevitable friction of a manual list. You don't need to find a file and add a password to it to save a new or changed set of credentials, and you don't need to find and open that same file to copy and paste your password. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2) Password Generation 
@@ -235,6 +221,13 @@ By contrast, if you manage passwords in an encrypted file that's saved locally, 
 
 Password managers generally offer good protection against "shoulder surfing." An attacker who's able to watch you type, either live or with the help of a surveillance camera, can steal your login credentials with ease. Password managers never expose those details. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is there a case against password managers?
 
 Even armed with those arguments, when I make that recommendation to other people, I typically hear the same excuses. Honestly, though, none of them hold up to scrutiny.
@@ -254,10 +247,10 @@ And so you wind up keeping an encrypted list of passwords that are not exactly u
 No, they don't. They have an AES-256 encrypted blob that is, for all intents and purposes, useless gibberish. The only way to extract its secrets is with the decryption key, which you and you alone know. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Security
@@ -294,6 +287,13 @@ If you're a journalist working on security issues, or an activist in a country w
 
 But even if you're not an obvious candidate for targeted attacks, you can be swept up in a website breach. That's why [Have I Been Pwned?](https://haveibeenpwned.com/) exists. It's easy enough for a compromised website to force you to reset your password, minimizing the risk of that breach, but if you've used that same combination of credentials elsewhere, you're at serious risk. And no matter how careful you are, you're always at risk of being fooled into handing over your credentials in a well-designed phishing attack.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Which password manager is right for you?
 
 Any password manager solution is better than none.
@@ -301,16 +301,10 @@ Any password manager solution is better than none.
 The simplest solution is to use the password management tools built into your default browser or operating system. That option works especially well for anyone who is technically unsophisticated, has a limited number of credentials to store, and uses hardware and services from a single ecosystem. If you're setting things up for a friend or relative who has a Mac and an iPhone, for example, Apple's Keychain will suffice. Those who live in Google's ecosystem can probably get by with Chrome's password manager.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### read this
@@ -351,22 +345,20 @@ We've put together a list of the best free and paid options here: [Best Password
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-broadcast-perfection-recommended-tech-and-apps-for-youtubers/"><u>[New] 2024 Approved Broadcast Perfection Recommended Tech and Apps for YouTubers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-comparative-analysis-of-game-streaming-software-obs-vs-shadowplay/"><u>[Updated] Comparative Analysis of Game Streaming Software OBS Vs. ShadowPlay</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastery-over-instagrams-integration-with-music-emoji-features-for-2024/"><u>[Updated] Mastery Over Instagram's Integration with Music Emoji Features for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-selection-of-mp4-devices/"><u>2024 Approved Premium Selection of MP4 Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-10-mobile-messaging-platforms-top-picks-for-ios-and-android-devices/"><u>Best 10 Mobile Messaging Platforms: Top Picks for iOS and Android Devices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/capture-and-share-adventures-with-gopro-tips-for-livestreams-and-social-media/"><u>Capture and Share Adventures with GoPro Tips for Livestreams & Social Media</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-plus-vs-perplexity-which-is-the-better-ai-chatbot/"><u>ChatGPT Plus Vs. Perplexity: Which Is the Better AI Chatbot?</u></a></li>
-<li><a href="https://article-files.techidaily.com/complete-biomechanical-study-2023/"><u>Complete Biomechanical Study 2023</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-apple-music-evaluation-cost-analysis-and-features-breakdown-free-download/"><u>Comprehensive Apple Music Evaluation: Cost Analysis & Features Breakdown - Free Download</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-7-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 7 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/speed-up-your-experience-top-three-methods-for-swiftly-moving-applications-from-older-iphone-to-newer-model/"><u>Speed Up Your Experience: Top Three Methods for Swiftly Moving Applications From Older iPhone to Newer Model</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-8-xbox-console-emulators-on-pcandroid-reviewed-objectively/"><u>The Ultimate Guide: Top 8 Xbox Console Emulators on PC/Android, Reviewed Objectively</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-audio-management-apps-compatible-with-pc-mac-ios-and-android-devices/"><u>Top 10 Audio Management Apps Compatible with PC, Mac, iOS & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-swf-player-apps-compatible-with-pc-mac-android-and-iphone-devices/"><u>Top Rated SWF Player Apps Compatible with PC, Mac, Android & iPhone Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-android-app-locks-essential-guides-and-reviews/"><u>Top-Rated Android App Locks: Essential Guides and Reviews</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/webmand/"><u>WebM動画が開けない場合、このヒントで解析&修正法 - テクニカルサポート</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nraveling-the-secrets-of-captivating-education-videos-the-ultimate-youtube-strategy-for-2024/"><u>[New] Unraveling the Secrets of Captivating Education Videos The Ultimate YouTube Strategy for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-breathing-life-into-your-ig-story-text-with-animation/"><u>2024 Approved Breathing Life Into Your IG Story Text with Animation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-itel-a60s-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Itel A60s to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/chrome-os-and-microsoft-unite-seamlessly-running-windows-apps-on-chromebooks-zdnet/"><u>Chrome OS and Microsoft Unite: Seamlessly Running Windows Apps on Chromebooks | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-power-of-ai-introducing-openshift-lightspeed-by-red-hat-the-ultimate-solution-for-kubernetes-administrators/"><u>Discover the Power of AI: Introducing OpenShift Lightspeed by Red Hat – The Ultimate Solution for Kubernetes Administrators</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-let-your-windows-1-be-left-in-the-lurch-discover-your-five-options-before-support-concludes-zdnet-insight/"><u>Don't Let Your Windows 지정 1 컴퓨터 Be Left in the Lurch - Discover Your Five Options Before Support Concludes | ZDNet Insight</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/enhanced-web-analytics-with-automated-cookie-technology-discover-the-power-of-your-productservice/"><u>Enhanced Web Analytics with Automated Cookie Technology: Discover the Power of [Your Product/Service]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-picks-for-the-ultimate-to-do-list-software-of-2023-features-and-comparisons/"><u>Expert Picks for the Ultimate To-Do List Software of 2023 – Features and Comparisons</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-ensure-audio-plays-only-through-your-headset-on-xbox-series-xs/"><u>How to Ensure Audio Plays Only Through Your Headset on Xbox Series X|S</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mimo-systems/"><u>MIMO Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/perfecting-video-speed-for-engaging-instagram-stories-for-2024/"><u>Perfecting Video Speed for Engaging Instagram Stories for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/streamline-your-media-library-by-converting-mkv-videos-to-efficient-flv-with-simple-steps/"><u>Streamline Your Media Library by Converting MKV Videos to Efficient FLV with Simple Steps!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/switching-to-linux-mint-from-windows-a-comprehensive-guide-techrepublic/"><u>Switching to Linux Mint From Windows: A Comprehensive Guide | TechRepublic</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-mind-mapping-tools-and-applications-a-comprehensive-review-by-zdnet/"><u>Top 5 Mind Mapping Tools & Applications : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-5-solutions-pour-le-dysfonctionnement-du-transfert-de-fichier-usb/"><u>Top 5 Solutions Pour Le Dysfonctionnement Du Transfert De Fichier USB</u></a></li>
 </ul></div>
 

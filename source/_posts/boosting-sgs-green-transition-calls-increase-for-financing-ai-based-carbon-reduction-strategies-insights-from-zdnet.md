@@ -1,7 +1,7 @@
 ---
 title: "Boosting SG's Green Transition: Calls Increase for Financing AI-Based Carbon Reduction Strategies - Insights From ZDNet"
-date: 2024-09-17 11:34:36
-updated: 2024-09-20 12:53:26
+date: 2024-10-09T02:02:07.117Z
+updated: 2024-10-12T11:32:45.526Z
 tags:
   - digital-transformation
 categories:
@@ -96,11 +96,40 @@ Furthermore, Singapore could look to calibrate its property tax policies to offe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-steps-for-unlocking-stuck-obs-fullscreen-mode/"><u>[New] Steps for Unlocking Stuck OBS Fullscreen Mode</u></a></li>
+<li><a href="https://app-tips.techidaily.com/10-owners-to-consider-before-end-of-life-date-hits/"><u>10 Owners to Consider Before End-of-Life Date Hits</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-investing-in-success-budget-for-youtube-growth/"><u>2024 Approved Investing in Success Budget for YouTube Growth</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/asustor/"><u>ASUSTORバックアップ方法と互換性がある代替品を見つけるための全図解</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-premier-cloud-platforms-exploring-the-strengths-of-aws-microsoft-azure-and-google-cloud-in-hybrid-saas-markets-insights-by-zdnet/"><u>Comprehensive Review of Premier Cloud Platforms: Exploring the Strengths of AWS, Microsoft Azure & Google Cloud in Hybrid, SaaS Markets | Insights by ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-5-friend-making-applications-online/"><u>Discover The Best 5 Friend-Making Applications Online</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-panic-five-essential-steps-for-your-windows-11-pre-end-of-support-journey-insights-from-zdnet/"><u>Don't Panic: Five Essential Steps for Your Windows 11 Pre-End-of-Support Journey - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-elite-selection-of-macos-programs-featured-on-zdnet/"><u>Explore the Elite Selection of macOS Programs - Featured on ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-6s-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone 6s Without Apple ID Password?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-code-28-issue-on-your-windows-pcs-device-manager/"><u>How to Fix a 'Code 28' Issue on Your Windows PC's Device Manager</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-s17-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo S17 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-persistent-display-repository-solutions/"><u>In 2024, Persistent Display Repository Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovating-ai-research-breaking-free-from-conventional-llm-approaches/"><u>Innovating AI Research - Breaking Free From Conventional LLM Approaches</u></a></li>
+<li><a href="https://app-tips.techidaily.com/joint-development-of-scalable-llms-by-sony-intelligence-and-ai-singapore-announced-futuretech-weekly/"><u>Joint Development of Scalable LLMs by Sony Intelligence and AI Singapore Announced | FutureTech Weekly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-competitive-edge-with-devops-best-practices-to-mitigate-risk-expertise-by-zdnet/"><u>Mastering the Art of Competitive Edge with DevOps Best Practices to Mitigate Risk | Expertise by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-2b-five-facts-to-remember-about-antenna-grounding/"><u>Section 2B: Five Facts to Remember About Antenna Grounding</u></a></li>
+<li><a href="https://techidaily.com/sign-wpt-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wpt file Documents Online for Free</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-here-exploring-the-cutting-edge-of-5g-and-edge-computing-innovations-highlights-by-zdnet/"><u>The Future Is Here: Exploring the Cutting-Edge of 5G and Edge Computing Innovations | Highlights by ZDNET</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

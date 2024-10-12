@@ -1,7 +1,7 @@
 ---
 title: "Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet"
-date: 2024-09-29T17:51:48.194Z
-updated: 2024-10-06T17:00:04.929Z
+date: 2024-10-07T20:33:32.473Z
+updated: 2024-10-12T10:53:40.700Z
 tags:
   - password-manager
 categories:
@@ -62,10 +62,10 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -91,17 +91,24 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-15-best-youtube-channels-for-stock-market-to-follow/"><u>[Updated] 15 Best YouTube Channels for Stock Market to Follow</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-cinema-magic-with-fcps-top-10-plugin-choices/"><u>[Updated] Crafting Cinema Magic with FCP’s Top 10 Plugin Choices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/as-the-need-for-data-talent-expands-one-organizations-proactive-approach-to-skill-development-zdnet/"><u>As the Need for Data Talent Expands, One Organization's Proactive Approach to Skill Development | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-for-singaporean-small-businesses-harnessing-genai-for-employee-development-zdnet/"><u>Comprehensive Guide for Singaporean Small Businesses: Harnessing GenAI for Employee Development | ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-restore-windows-photo-viewer-in-windows-11-2-methods/"><u>In 2024, How to Restore Windows Photo Viewer in Windows 11 (2 Methods)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pros-picks-5-best-low-frame-rate-recorders/"><u>In 2024, Pros' Picks 5 Best Low Frame Rate Recorders</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-reinvent-storytelling-the-path-to-better-narratives-starts-here/"><u>In 2024, Reinvent Storytelling – The Path to Better Narratives Starts Here</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-yt-content-with-background-softening-tricks/"><u>In 2024, Streamline Your YT Content with Background Softening Tricks</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-strategies-to-reduce-excessive-disk-load-and-improve-efficiency-in-windows-11/"><u>Step-by-Step Strategies to Reduce Excessive Disk Load and Improve Efficiency in Windows 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-next-horizon-in-employment-how-ai-agents-are-set-to-permanently-reshape-our-careers/"><u>The Next Horizon in Employment: How AI Agents Are Set to Permanently Reshape Our Careers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-onikuma-headsets-non-functional-mic-expert-advice/"><u>Troubleshooting Your Onikuma Headset's Non-Functional Mic - Expert Advice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-small-and-medium-sized-businesses-overlook-necessary-cybersecurity-coverage-insights-from-zdnet/"><u>Why Small and Medium-Sized Businesses Overlook Necessary Cybersecurity Coverage: Insights From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-15-top-mobiles-elevating-dji-video-production-value/"><u>[New] 15 Top Mobiles Elevating DJi Video Production Value</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-fps-fanatics-resource-for-fast-controls-and-extensions/"><u>2024 Approved FPS Fanatics' Resource for Fast Controls and Extensions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/comparing-ig-reels-and-ig-stories-a-comprehensive-guide-for-2024/"><u>Comparing IG Reels & IG Stories A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-gratis-perfezionatore-di-video-con-codifica-hevc-e-encoder-h265/"><u>Download Gratis - Perfezionatore Di Video Con Codifica HEVC E Encoder H.265</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-grok-ai-its-role-relevance-and-pricing-as-explained-by-elon-musk/"><u>Exploring Grok AI: Its Role, Relevance & Pricing as Explained by Elon Musk</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-rusts-role-in-linux-projects-with-linus-torvalds-a-glimpse-into-his-routine-and-macbook-experience-zdnet/"><u>Exploring Rust's Role in Linux Projects with Linus Torvalds: A Glimpse Into His Routine and MacBook Experience - ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-x90s-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo X90S FRP Bypass</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-leading-12-free-video-trimming-apps-for-android-users/"><u>In 2024, Leading 12 Free Video Trimming Apps for Android Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-linklister-video-grab-from-fb-groups/"><u>In 2024, LinkLister Video Grab From FB Groups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-codenotarys-sbom-solution-for-kubernetes-ensuring-security-and-compliance/"><u>Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-linux-kernel-v65-a-comprehensive-look-at-its-latest-groundbreaking-capabilities-techworld/"><u>Introducing Linux Kernel v6.5: A Comprehensive Look at Its Latest Groundbreaking Capabilities | TechWorld</u></a></li>
+<li><a href="https://app-tips.techidaily.com/latest-tech-tip-seamless-transition-how-to-move-from-linux-mint-to-mint-21-efficiently/"><u>Latest Tech Tip: Seamless Transition - How To Move From Linux Mint to Mint 21 Efficiently!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-shift-to-cloud-infrastructure-amidst-an-era-of-persistent-on-premises-systems-insights-from-zdnet/"><u>Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-streamlining-linux-and-open-source-docs-solutions-from-zdnet/"><u>Organizing Chaos: Streamlining Linux & Open Source Docs - Solutions From ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/swift-valorant-image-crafting-professionally-done-on-the-fly/"><u>Swift Valorant Image Crafting Professionally Done on the Fly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-impending-crisis-for-microsofts-windows-10-a-race-against-time-reviewed-by-zdnet/"><u>The Impending Crisis for Microsoft's Windows 10: A Race Against Time Reviewed by ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-6-indicators-its-time-to-upgrade-transitioning-from-mobile-games-to-cutting-edge-portable-consoles/"><u>Top 6 Indicators It's Time to Upgrade: Transitioning From Mobile Games to Cutting-Edge Portable Consoles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-accounting-programs-finding-the-perfect-match/"><u>Top Rated Accounting Programs : Finding the Perfect Match!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-short-window-of-success-in-ai-implementations-lessons-from-a-zdnet-perspective/"><u>Understanding the Short Window of Success in AI Implementations - Lessons From a ZDNet Perspective</u></a></li>
 </ul></div>
 

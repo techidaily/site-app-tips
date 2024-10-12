@@ -1,7 +1,7 @@
 ---
 title: "Securing the Cloud: Don’t Fall Victim to Hacking - Spot and Fix These Flaws Now! | ZDNet"
-date: 2024-10-04T18:41:23.082Z
-updated: 2024-10-06T16:41:14.206Z
+date: 2024-10-10T05:53:50.193Z
+updated: 2024-10-12T05:40:37.348Z
 tags:
   - password-manager
 categories:
@@ -112,16 +112,10 @@ Analysis of identity and access management (IAM) polices taking into account hun
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -142,10 +136,10 @@ Another practice that isn't helping IT departments is [poor password security](h
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### special feature
@@ -165,10 +159,10 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -194,22 +188,24 @@ IT departments should also consider whether regular accounts need administrator 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-top-language-model-bard-chatgpt-or-offline-alpaca/"><u>Choosing the Top Language Model: Bard, ChatGPT or Offline Alpaca?</u></a></li>
-<li><a href="https://discover-best.techidaily.com/dvd-clone-ohne-bildqualitatseinbussen-unter-macos-erstellen/"><u>DVD-Clone Ohne Bildqualitätseinbußen Unter macOS Erstellen</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/effortless-free-capture-of-your-android-world-for-2024/"><u>Effortless Free Capture of Your Android World for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-rust-with-linux-creator-linus-torvalds-insights-on-his-work-habits-and-life-with-macbook-air-exclusive-coverage-from-zdnet/"><u>Exploring Rust with Linux Creator Linus Torvalds: Insights on His Work Habits and Life with MacBook Air | Exclusive Coverage From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/grounding-is-especially-critical-for-transmitting-antennas-due-to-the-high-power-involved-which-increases-the-risk-of-lightning-strikes-and-electrical-hazar80/"><u>Grounding Is Especially Critical for Transmitting Antennas Due to the High Power Involved, Which Increases the Risk of Lightning Strikes and Electrical Hazards.</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-meizu-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Meizu online without jailbreak</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-the-digital-shift-how-enterprise-architects-are-steering-change-zdnet/"><u>Leading the Digital Shift: How Enterprise Architects Are Steering Change | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-todays-challenges-overcoming-uncertainty-in-ai-output-and-doubts-on-precision-insights-from-zdnet/"><u>Navigating Today's Challenges: Overcoming Uncertainty in AI Output & Doubts on Precision - Insights From ZDNet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-cryptocurrency-computing-with-newly-installed-amd-drivers/"><u>Optimize Cryptocurrency Computing with Newly Installed AMD Drivers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamlining-youtube-video-transformations-into-mpegs/"><u>Streamlining YouTube Video Transformations Into MPEGs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-polarization-shown-by-the-radiation-pattern-should-match-that-of-the-receiving-antenna-to-maximize-signal-reception-and-minimize-losses/"><u>The Polarization Shown by the Radiation Pattern Should Match that of the Receiving Antenna to Maximize Signal Reception and Minimize Losses.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-dead-by-daylights-issue-understanding-error-8014/"><u>Troubleshooting Dead By Daylight's Issue: Understanding Error 8014</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-unexpected-security-alerts/"><u>Troubleshooting Windows' Unexpected Security Alerts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-mastery-in-quick-writer-with-these-latest-copilot-updates-for-microsoft-365-expert-insights-from-zdnet/"><u>Unlocking Mastery in Quick Writer with These Latest Copilot Updates for Microsoft 365 - Expert Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-potential-of-ai-in-business-with-servicenow-understanding-the-four-critical-guiding-principles-insights-from-zdnet/"><u>Unlocking the Potential of AI in Business with ServiceNow: Understanding the Four Critical Guiding Principles - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsoft-must-fix-windows-10-issues-within-just-one-year-insights-from-zdnet/"><u>Urgent Challenge: Microsoft Must Fix Windows 10 Issues Within Just One Year - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-circumventing-video-send-blockages-in-facebook-chat-apps/"><u>[Updated] 2024 Approved Circumventing Video Send Blockages in Facebook Chat Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-complete-blueprint-for-tracking-yt-viewsrevenue/"><u>2024 Approved Complete Blueprint for Tracking YT Views/Revenue</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-best-way-to-record-a-powerpoint-presentation/"><u>2024 Approved The Best Way to Record a PowerPoint Presentation</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/nvme-ssd3/"><u>速く、安全にNVMe SSDをシステムの初期化ドライブに変更する3つの方法</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-12-mobile-typing-applications-for-ios-and-android-devices-a-comprehensive-guide/"><u>Best 12 Mobile Typing Applications for iOS and Android Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-superior-android-podcasting-solutions-beyond-player-fm/"><u>Discover Superior Android Podcasting Solutions Beyond Player FM</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-note-taking-solutions-for-android-phones-our-favorite-5-apps/"><u>Discover the Ultimate List of Note-Taking Solutions for Android Phones: Our Favorite 5 Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-top-21-zedge-tools-for-customizing-your-phone-with-free-ringtones-and-wallpapers-on-iphoneandroid/"><u>Discover the Ultimate Top 21 Zedge Tools for Customizing Your Phone with Free Ringtones & Wallpapers on iPhone/Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-your-listening-experience-by-increasing-volume-on-windows-11/"><u>Enhance Your Listening Experience by Increasing Volume on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/game-on-with-apc-the-best-ups-for-a-seamless-and-stable-pc-setup/"><u>Game On with APC: The Best UPS for a Seamless and Stable PC Setup</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-secrets-to-pristine-bg-removal-techniques-in-figma/"><u>In 2024, Unveiling Secrets to Pristine BG Removal Techniques in Figma</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-google-mdm-and-upcoming-features-an-in-depth-analysis-of-what-to-expect-in-mobile-management-systems-by-2024/"><u>Mastering Google MDM & Upcoming Features: An In-Depth Analysis of What to Expect in ^Mobile Management Systems^ by 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-record-like-a-pro-10-best-webcam-software-for-windows-10-for-2024/"><u>New Record Like a Pro 10 Best Webcam Software for Windows 10 for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-and-easy-guide-to-rapid-iphone-app-migration-discover-the-fastest-transfer-techniques/"><u>Quick & Easy Guide to Rapid iPhone App Migration: Discover the Fastest Transfer Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-wi-fi-messaging-apps-for-seamless-internet-text-communication/"><u>Top 5 Wi-Fi Messaging Apps for Seamless Internet Text Communication</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-applications-for-seamlessly-casting-your-iphone-display-onto-tv-or-computer/"><u>Top-Rated Applications for Seamlessly Casting Your iPhone Display Onto TV or Computer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-iphone-updates-top-issues-and-fixes/"><u>Troubleshooting iPhone Updates: Top Issues & Fixes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Widening Chasm of Data Expertise: Innovative Strategies From a Leading Tech Firm | ZDNET"
-date: 2024-09-18 12:36:56
-updated: 2024-09-20 12:22:18
+date: 2024-10-11T08:31:10.348Z
+updated: 2024-10-11T23:12:37.408Z
 tags:
   - digital-transformation
 categories:
@@ -120,11 +120,40 @@ From the people joining Bentley as apprentices all the way up to senior managers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/ryu-ga-gotoku-like-a-dragon-unboxing-its-successful-port-to-your-personal-computer/"><u>'Ryu Ga Gotoku: Like a Dragon' – Unboxing Its Successful Port to Your Personal Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-robotic-skies-varieties/"><u>[New] Robotic Skies' Varieties</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-identifying-high-impact-hdr-photography-tools/"><u>[Updated] Identifying High-Impact HDR Photography Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-guide-to-top-sd-cards-with-gopro-hero-cameras/"><u>2024 Approved Comprehensive Guide to Top SD Cards with GoPro HERO Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-instruction-manual-for-wm6/"><u>2024 Approved Perfect Instruction Manual for WM6</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/customized-interactions-with-cookiebot-technology-for-improved-conversions/"><u>Customized Interactions with Cookiebot Technology for Improved Conversions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192671-discover-the-ideal-free-pdf-modification-apps-and-online-utilities-ranked-for-you/"><u>Discover the Ideal Free PDF Modification Apps & Online Utilities – Ranked for You</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ideal-free-pdf-modification-apps-and-online-utilities-ranked-for-you/"><u>Discover the Ideal Free PDF Modification Apps & Online Utilities – Ranked for You!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620188306-download-top-20-best-free-android-games-play-the-complete-versions-with-no-cost/"><u>Download Top 20 Best Free Android Games: Play the Complete Versions with No Cost!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-se-2022-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone SE (2022) with iTunes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-itel-a60-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Itel A60 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mobile-memories-creator-high-quality-iphone-photo-and-file-printer/"><u>Mobile Memories Creator: High-Quality iPhone Photo & File Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-world-of-hardware-with-toms-guidance/"><u>Navigate the World of Hardware with Tom's Guidance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-2-apps-for-effortless-iphone-reflection-on-televisions-and-desktops/"><u>The Ultimate Guide: Top 2 Apps for Effortless iPhone Reflection on Televisions and Desktops</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-top-ranking-lock-screen-enhancers-for-android-devices/"><u>The Ultimate List of Top-Ranking Lock Screen Enhancers for Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-stunning-gallery-apps-on-android-your-guide-to-capturing-and-sharing-perfect-images/"><u>Top 10 Stunning Gallery Apps on Android: Your Guide to Capturing and Sharing Perfect Images</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-free-iphone-and-android-entertainment-with-appcake-get-all-your-favorite-cracked-apps-and-games-now/"><u>Unlock Free iPhone & Android Entertainment with AppCake - Get All Your Favorite Cracked Apps & Games Now!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-ultimate-convenience-and-safety-on-ios-discover-the-premier-password-protector-app/"><u>Unlock Ultimate Convenience & Safety on iOS - Discover the Premier Password Protector App</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/gateway-to-success-with-a-bundle-of-50-free-adornments/"><u>Your Gateway to Success with a Bundle of 50 FREE Adornments!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

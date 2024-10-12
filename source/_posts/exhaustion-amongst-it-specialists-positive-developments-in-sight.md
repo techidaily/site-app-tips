@@ -1,7 +1,7 @@
 ---
 title: Exhaustion Amongst IT Specialists - Positive Developments in Sight
-date: 2024-09-21T06:46:21.307Z
-updated: 2024-09-26T07:41:12.009Z
+date: 2024-10-09T01:23:20.406Z
+updated: 2024-10-12T01:19:43.347Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -118,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -193,20 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-clipcrafter-window-edition-for-2024/"><u>[Updated] ClipCrafter Window Edition for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-top-tweets-from-tiktok-stars-a-viral-snapshot-for-2024/"><u>[Updated] Top Tweets From TikTok Stars A Viral Snapshot for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-through-the-eyes-of-one-a-critical-look-at-3dr/"><u>2024 Approved Through the Eyes of One A Critical Look at '3DR'</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-for-engaging-video-blog-storytelling/"><u>2024 Approved Tips for Engaging Video Blog Storytelling</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-infinix-note-30-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Infinix Note 30 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-how-iphone-users-can-download-and-preserve-pdfs-from-whatsapp/"><u>Complete Tutorial: How iPhone Users Can Download and Preserve PDFs From WhatsApp</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/corrective-actions-how-to-recover-and-solve-lib402dll-not-detected-errors/"><u>Corrective Actions: How to Recover and Solve lib402.dll Not Detected Errors</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-digital-image-combination/"><u>In 2024, Mastering the Art of Digital Image Combination</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-huawei-nova-y91-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Huawei Nova Y91? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximizing-your-media-sharing-on-whatsapp-ultimate-guide-to-reducing-video-file-size-without-quality-loss/"><u>Maximizing Your Media Sharing on WhatsApp: Ultimate Guide to Reducing Video File Size Without Quality Loss</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcome-whatsapp-backup-freeze-on-android-with-these-5-effective-methods/"><u>Overcome WhatsApp Backup Freeze on Android with These 5 Effective Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-guide-capturing-your-whatsapp-video-calls-on-ios-android-and-pc/"><u>Simple Guide: Capturing Your WhatsApp Video Calls on iOS, Android, and PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-steps-to-seamlessly-download-audio-messages-from-whatsapp/"><u>Simple Steps to Seamlessly Download Audio Messages From WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-whatsapp-video-conversion-apps-for-perfect-quality/"><u>The Ultimate Guide: Top WhatsApp Video Conversion Apps for Perfect Quality</u></a></li>
-<li><a href="https://solve-help.techidaily.com/trasforma-i-tuoi-dvd-in-formato-hd-senza-problemi-tecniche-avanzate-di-ripping-e-correzione-h2650334hevc/"><u>Trasforma I Tuoi DVD in Formato HD Senza Problemi – Tecniche Avanzate Di Ripping E Correzione H.2#65033;4/HEVC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-note-13-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Xiaomi Redmi Note 13 5G Phone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-enhanced-functionality-in-windows-11s-most-recent-update-tech-news-zdnet/"><u>Discover the Enhanced Functionality in Windows 11'S Most Recent Update | Tech News - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-businesses-through-xr-virtual-replicas-and-immersive-computing-for-enhanced-user-experience-zdnet/"><u>Empowering Businesses Through XR, Virtual Replicas, and Immersive Computing for Enhanced User Experience | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-protection-juniper-networks-integrates-advanced-cloud-firewall-into-its-comprehensive-sase-offerings-on-zdnet/"><u>Expanding Protection: Juniper Networks Integrates Advanced Cloud Firewall Into Its Comprehensive SASE Offerings on ZDNET</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/free-tools-and-tricks-creating-compelling-youtube-video-ads/"><u>Free Tools and Tricks Creating Compelling YouTube Video Ads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-a2-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Redmi A2 Lock Screen Password?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-numeric-key-icons-into-win11s-systray/"><u>Implementing Numeric Key Icons Into Win11's SysTray</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-detailed-steps-to-using-azure-speech-recognition/"><u>In 2024, Detailed Steps to Using Azure Speech Recognition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-y77t-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo Y77t</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linux-vendor-kernel-security-compromised-recent-research-confirms-and-suggests-remedies-zdnet/"><u>Linux Vendor Kernel Security Compromised? Recent Research Confirms & Suggests Remedies | ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/samsungs-opponent-the-finest-non-gear-360-cameras/"><u>Samsung's Opponent The Finest Non-Gear 360 Cameras</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-dual-comeback-why-openstack-and-kata-containers-are-gaining-popularity-again-insights-from-zdnet/"><u>The Dual Comeback: Why OpenStack & Kata Containers Are Gaining Popularity Again - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-slack-connect-a-complete-guide-on-features-and-usage/"><u>Understanding Slack Connect: A Complete Guide on Features & Usage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/your-guide-to-intels-latest-extended-warranties-enhanced-protection-for-13gen14gen-core-i5-i7-and-i9-cpus/"><u>Your Guide to Intel's Latest Extended Warranties: Enhanced Protection for 13Gen/14Gen Core I5, I7 & I9 CPUs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-booming-growth-of-no-codelow-code-solutions-and-its-impact-on-it-career-paths/"><u>ZDNet Explores the Booming Growth of No-Code/Low-Code Solutions and Its Impact on IT Career Paths</u></a></li>
 </ul></div>
 

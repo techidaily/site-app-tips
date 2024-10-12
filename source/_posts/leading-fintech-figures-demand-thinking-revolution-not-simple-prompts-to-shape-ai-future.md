@@ -1,7 +1,7 @@
 ---
 title: Leading Fintech Figures Demand Thinking Revolution, Not Simple Prompts, to Shape AI Future
-date: 2024-09-19 13:59:51
-updated: 2024-09-20 12:14:13
+date: 2024-10-07T17:10:42.017Z
+updated: 2024-10-12T07:42:04.960Z
 tags:
   - digital-transformation
 categories:
@@ -98,11 +98,46 @@ As a result, he's seeing "the line between a classic coder and a business analys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/2024-approved-step-by-step-crafting-captivating-haul-videos/"><u>2024 Approved Step-by-Step Crafting Captivating Haul Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-comprehensive-look-at-spanish-accented-letters-and-symbols/"><u>A Comprehensive Look at Spanish Accented Letters & Symbols</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-revolutionizing-the-workforce-transforming-traditional-roles-from-training-to-ethics-the-future-of-employment-explained-zdnet/"><u>AI Revolutionizing the Workforce: Transforming Traditional Roles From Training to Ethics - The Future of Employment Explained | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-speed-top-5-chrome-os-hacks-for-smoother-sailing-and-enhanced-productivity-zdnet/"><u>Boost Your Speed: Top 5 Chrome OS Hacks for Smoother Sailing & Enhanced Productivity | ZDNet</u></a></li>
+<li><a href="https://discover-great.techidaily.com/claim-your-money-winning-spot-in-the-latest-digiarty-youtube-raffle/"><u>Claim Your Money-Winning Spot in the Latest DigiArty YouTube Raffle!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/clearing-up-elan-input-discrepanrancies-in-w11-os/"><u>Clearing Up Elan Input Discrepanrancies in W11 OS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cutting-edge-ai-how-openais-gpt-4-goes-mini-reduces-application-development-expenses-insights-from-zdnet/"><u>Cutting Edge AI: How OpenAI's GPT-4 Goes Mini Reduces Application Development Expenses - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/directivity/"><u>Directivity</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tless-strategy-deleting-dislikes-from-youtube-discussions-for-2024/"><u>Effortless Strategy Deleting Dislikes From YouTube Discussions for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-fixing-and-stabilizing-ring-of-elysium-for-uninterrupted-gaming/"><u>Expert Advice on Fixing and Stabilizing Ring of Elysium for Uninterrupted Gaming</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-agile-mindsets-key-strategies-for-successful-software-development-with-zdnet/"><u>Mastering Agile Mindsets: Key Strategies for Successful Software Development with ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/stealthy-photo-editing-with-picsart-for-2024/"><u>Stealthy Photo Editing with Picsart for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-crafting-your-own-version-of-chatgpt-with-user-provided-data/"><u>Step-by-Step Tutorial on Crafting Your Own Version of ChatGPT with User-Provided Data</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-sql-training-programs-explore-the-best-online-courses-on-zdnet/"><u>Top-Ranked SQL Training Programs: Explore the Best Online Courses on ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tracking-down-viewer-activity-in-google-docs-step-by-step-tips/"><u>Tracking Down Viewer Activity in Google Docs – Step-by-Step Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-ux-with-xr-digital-twins-and-spatial-tech-your-essential-business-roadmap-insights-from-zdnet/"><u>Transforming UX with XR, Digital Twins & Spatial Tech: Your Essential Business Roadmap - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-expert-advice-on-linking-your-google-drive-to-slack-for-enhanced-collaboration/"><u>ZDNet's Expert Advice on Linking Your Google Drive to Slack for Enhanced Collaboration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zoom-vs-microsoft-teams-meet-your-astonishing-lip-reading-challenger-breaking-news-from-zdnet/"><u>Zoom Vs. Microsoft Teams? Meet Your Astonishing Lip-Reading Challenger - Breaking News From ZDNet!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Cashless: How Non-Monetary Transactions Are Set to Soar Past $1.6T, Driven by Asian Markets | ZDNET Insights"
-date: 2024-09-19 21:43:26
-updated: 2024-09-20 10:21:25
+date: 2024-10-09T02:24:47.393Z
+updated: 2024-10-11T18:23:24.015Z
 tags:
   - digital-transformation
 categories:
@@ -84,11 +84,41 @@ The report noted that just 17% of banks are at an advanced stage -- where they a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-fix-the-invisible-fb-watch-video-icon-restored-for-2024/"><u>[New] Fix the Invisible FB Watch Video Icon, Restored for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-guide-to-google-docs-speech-to-text-service/"><u>2024 Approved Full Guide to Google Docs Speech to Text Service</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-free-android-chat-applications-ranked-from-1-to-10/"><u>Discover the Ultimate Selection of Free Android Chat Applications: Ranked From #1 to #10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-ways-to-master-boomerang-feature-across-ios-android-and-web-platforms/"><u>Effortless Ways to Master Boomerang Feature Across iOS, Android & Web Platforms</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-cover-video-widthheight-recommendation/"><u>Facebook Cover Video Width/Height Recommendation</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-2-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock OnePlus Ace 2 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976133230-hp-spectre-x360-windows-drivers-get-them-here/"><u>HP Spectre X360 Windows Drivers - Get Them Here!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-xr-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone XR from iCloud</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/premier-choice-the-best-10-recorders-for-tech-talks-for-2024/"><u>Premier Choice The Best 10 Recorders for Tech Talks for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-6s-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 6s and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-11-superior-sound-integration-tools-for-adding-music-and-voice-to-videos-across-android-ios-mac-and-pc-platforms/"><u>The Ultimate List of 11 Superior Sound Integration Tools for Adding Music & Voice to Videos Across Android, iOS, Mac & PC Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-6-must-have-android-contact-widget-apps-of-2024-a-comprehensive-guide/"><u>Top 6 Must-Have Android Contact Widget Apps of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-10-leading-music-organizers-for-all-your-platform-needs-windows-mac-iphone-and-android/"><u>Ultimate Selection of 10 Leading Music Organizers for All Your Platform Needs: Windows, Mac, iPhone & Android</u></a></li>
+<li><a href="https://win11.techidaily.com/using-your-android-on-windows-11-as-an-effective-webcam/"><u>Using Your Android on Windows 11 as an Effective Webcam</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

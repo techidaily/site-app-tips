@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Explores Singapore’s Push Towards Eco-Friendly Tech: Funding Artificeal Intelligence to Combat Climate Change"
-date: 2024-09-19 11:27:44
-updated: 2024-09-20 10:14:45
+date: 2024-10-07T03:57:02.920Z
+updated: 2024-10-11T19:57:50.779Z
 tags:
   - digital-transformation
 categories:
@@ -96,11 +96,36 @@ Furthermore, Singapore could look to calibrate its property tax policies to offe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-mastery-adding-visuals-to-your-tweet/"><u>[New] In 2024, Twitter Mastery Adding Visuals to Your Tweet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-small-companies-guide-to-the-most-secure-video-tools/"><u>[Updated] In 2024, Small Companies' Guide to the Most Secure Video Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unveiling-the-best-practices-for-crafting-viral-instagram-reels/"><u>2024 Approved Unveiling the Best Practices for Crafting Viral Instagram Reels</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-and-critique-of-the-vizmato-application/"><u>Comprehensive Analysis & Critique of the Vizmato Application</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-road-safety-with-the-11-most-effective-apps-for-handsfree-sms-access/"><u>Enhance Road Safety with the 11 Most Effective Apps for Handsfree SMS Access</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/epic-zombie-battles-our-favorites-revealed-for-2024/"><u>Epic Zombie Battles Our Favorites Revealed for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-infinix-note-30-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Infinix Note 30 5G? Try These Fixes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/projecting-facebook-videos-onto-your-home-entertainment-system-for-2024/"><u>Projecting Facebook Videos Onto Your Home Entertainment System for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-guide-5-methods-to-securely-backup-your-iphone-applications/"><u>Simple Guide: 5 Methods to Securely Backup Your iPhone Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-top-5-utilities-for-efficiently-organizing-and-handling-android-phone-storage-via-sd-cards/"><u>The Top 5 Utilities for Efficiently Organizing and Handling Android Phone Storage via SD Cards</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-biometric-lock-screen-applications-for-your-android-device/"><u>Top 10 Biometric Lock Screen Applications for Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-of-free-tools-create-and-share-laugh-out-loud-memes-anywhere-anytime/"><u>Ultimate List of Free Tools: Create and Share Laugh-Out-Loud Memes Anywhere, Anytime</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-bandicams-potential-for-efficient-video-capture-for-2024/"><u>Unlocking Bandicam's Potential for Efficient Video Capture for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

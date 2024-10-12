@@ -1,7 +1,7 @@
 ---
 title: "The Rising Popularity of Low-Code/No-Code Development: Understanding Who's Ready to Embrace It | Perspectives by ZDNET"
-date: 2024-09-19 22:44:20
-updated: 2024-09-20 10:40:39
+date: 2024-10-05T21:24:14.812Z
+updated: 2024-10-11T18:07:44.503Z
 tags:
   - digital-transformation
 categories:
@@ -80,11 +80,35 @@ Automation in a vacuum is not the answer to everything, Mehta points out. "You m
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-essential-guide-to-using-zdsoft-vision/"><u>[New] In 2024, The Essential Guide to Using ZDSoft Vision</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-next-level-gameplay-leading-monitors-for-ps5-with-hdmi-21-features/"><u>[New] Next-Level Gameplay Leading Monitors for PS5 with HDMI 2.1 Features</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-effortless-techniques-crafting-youtube-shorts-images-on-the-fly-for-2024/"><u>[Updated] Effortless Techniques Crafting YouTube Shorts Images on the Fly for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unlocking-color-grading-with-luts-in-pscc/"><u>2024 Approved Unlocking Color Grading with LUTs in PSCC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620191219-7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-graphically-advanced-game-emulators-high-quality-visuals-and-optimal-frame-rates/"><u>Best Graphically Advanced Game Emulators: High-Quality Visuals & Optimal Frame Rates</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-apples-device-management-insights-into-mdm-and-platform-implementation-strategies/"><u>Explore Apple's Device Management: Insights Into MDM and Platform Implementation Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-interactive-interface-for-podcasters-for-2024/"><u>Ideal Interactive Interface for Podcasters for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-infinix-smart-7-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Infinix Smart 7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-oppo-reno-11-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Oppo Reno 11 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-assessment-of-apple-music-pricing-structure-advantagesdisadvantages-and-how-to-get-started/"><u>In-Depth Assessment of Apple Music: Pricing Structure, Advantages/Disadvantages, and How to Get Started</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-best-5-top-rated-free-mobile-tracking-apps-unveiling-the-options/"><u>The Best 5 Top-Rated Free Mobile Tracking Apps: Unveiling the Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-the-best-android-photo-editor-does-picku-stand-out-in-2024/"><u>Uncover the Best Android Photo Editor – Does PickU Stand Out, In 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

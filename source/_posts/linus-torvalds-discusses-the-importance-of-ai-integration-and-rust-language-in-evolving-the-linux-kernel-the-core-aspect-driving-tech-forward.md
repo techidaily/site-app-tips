@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses the Importance of AI Integration and Rust Language in Evolving the Linux Kernel - The Core Aspect Driving Tech Forward
-date: 2024-09-26T23:31:59.056Z
-updated: 2024-10-01T10:58:08.151Z
+date: 2024-10-08T11:14:57.030Z
+updated: 2024-10-12T00:55:04.518Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +187,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-from-concept-to-creation-top-10-podcast-design-principles/"><u>[New] From Concept to Creation Top 10 Podcast Design Principles</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-messenger-maestros-guide-to-capturing-social-media-videos/"><u>[New] The Messenger Maestro's Guide to Capturing Social Media Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-replay-rare-relationship-recaps/"><u>[Updated] 2024 Approved Replay Rare Relationship Recaps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-ultimate-tutorial-for-musical-harmony-in-your-facebook-feed/"><u>[Updated] In 2024, The Ultimate Tutorial for Musical Harmony in Your Facebook Feed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-minecraft-screen-capture-a-mac-guide-for-2024/"><u>[Updated] Mastering Minecraft Screen Capture A Mac Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-showdown-the-ultimate-guide-for-xsplit-and-obs-fans/"><u>2024 Approved Streaming Showdown The Ultimate Guide for XSplit and OBS Fans</u></a></li>
-<li><a href="https://extra-information.techidaily.com/7-ideas-to-improve-the-unboxing-experience/"><u>7 Ideas to Improve the Unboxing Experience</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-itunes-backup-strategies-learn-the-best-techniques-for-protection/"><u>Comprehensive iTunes Backup Strategies – Learn the Best Techniques for Protection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-methods-to-transform-avi-files-for-streamlined-playback-on-iphone-ipad-and-ipod-via-itunes/"><u>Effortless Methods to Transform AVI Files for Streamlined Playback on iPhone, iPad & iPod via iTunes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/eliminating-exposure-techniques-to-hide-sensitive-content/"><u>Eliminating Exposure Techniques to Hide Sensitive Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-tips-for-resolving-unrecognized-devices-making-itunes-recognize-your-iphone-ipad-or-ipod-again/"><u>Expert Tips For Resolving Unrecognized Devices: Making iTunes Recognize Your iPhone, iPad, or iPod Again</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-redmi-12-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi Redmi 12 Device</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/pro-tips-for-captivating-vr-videos-top-9-strategies/"><u>Pro Tips for Captivating VR Videos Top 9 Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-the-issue-of-non-syncing-tunes-from-itunes-to-ios-devices/"><u>Solving the Issue of Non-Syncing Tunes From iTunes to iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transferring-your-itunes-collection-from-computer-to-external-hard-drive/"><u>Step-by-Step Guide: Transferring Your iTunes Collection From Computer to External Hard Drive</u></a></li>
-<li><a href="https://app-tips.techidaily.com/temporary-itunes-store-outage-discover-7-effective-solutions/"><u>Temporary iTunes Store Outage: Discover 7 Effective Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-solutions-for-resolving-the-issue-of-music-not-playing-in-itunes/"><u>Top Solutions for Resolving the Issue of Music Not Playing in iTunes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-how-to-set-up-and-use-xbox-screen-recording-tools/"><u>[New] In 2024, How to Set Up and Use Xbox Screen Recording Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-optimizing-your-whiteboard-use-on-desktopiosandroid-devices-in-a-zoom-environment/"><u>[New] In 2024, Optimizing Your Whiteboard Use on Desktop/iOS/Android Devices in a Zoom Environment</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-comprehensive-guide-understanding-google-podcasts/"><u>2024 Approved Comprehensive Guide Understanding Google Podcasts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-guiding-users-on-completely-audible-fb-videos/"><u>2024 Approved Guiding Users on Completely Audible FB Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-ultimate-guide-to-boosting-views-on-tiktok-unboxings/"><u>2024 Approved The Ultimate Guide to Boosting Views on TikTok Unboxings</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/finding-order-in-the-disarray-of-linuxopen-source-manuals-the-ultimate-fix/"><u>Finding Order in the Disarray of Linux/Open Source Manuals - The Ultimate Fix!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/foto-wiederherstellung-auf-einem-windows-11-pc-schritt-fur-schritt-anleitung/"><u>Foto-Wiederherstellung Auf Einem Windows 11 PC: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-samsung-galaxy-s24plus-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Samsung Galaxy S24+ Android SIM Unlock APK</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/les-meilleurs-liseurs-mkv-de-2020-tops-pour-windows-et-mac-installer-and-utiliser/"><u>Les Meilleurs Liseurs MKV De 2020 : Tops Pour Windows Et Mac, Installer & Utiliser</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-anonymity-the-underestimated-edge-in-managing-todays-digital-workforce-zdnet/"><u>Leveraging Anonymity: The Underestimated Edge in Managing Today's Digital Workforce | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mimo-systems-leverage-antenna-arrays-to-multiply-the-capacity-of-wireless-channels-by-transmitting-different-data-streams-over-multiple-spatial-paths-simult77/"><u>MIMO Systems Leverage Antenna Arrays to Multiply the Capacity of Wireless Channels by Transmitting Different Data Streams over Multiple Spatial Paths Simultaneously.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-future-without-official-support-top-5-strategies-for-windows/"><u>Navigating the Future Without Official Support: Top 5 Strategies for Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-linux-kernel-414-lts-through-strategic-partnership-announcement/"><u>Reviving Linux Kernel 4.14 LTS Through Strategic Partnership Announcement</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-expenses-in-gen-ai-education-risk-assessment-lags-behind-according-to-recent-stanford-study-insights-on-cost-and-safety/"><u>Rising Expenses in Gen AI Education: Risk Assessment Lags Behind According to Recent Stanford Study - Insights on Cost & Safety</u></a></li>
 </ul></div>
 

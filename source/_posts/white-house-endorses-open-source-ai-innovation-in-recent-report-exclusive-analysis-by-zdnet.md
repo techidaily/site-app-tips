@@ -1,7 +1,7 @@
 ---
 title: White House Endorses Open Source AI Innovation in Recent Report – Exclusive Analysis by ZDNet
-date: 2024-09-29T17:51:32.530Z
-updated: 2024-10-06T17:29:15.944Z
+date: 2024-10-10T20:01:35.188Z
+updated: 2024-10-12T03:30:17.689Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,24 +181,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-top-10-techniques-for-youtube-to-mpeg-conversion/"><u>[New] Top 10 Techniques for YouTube-to-MPEG Conversion</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-vision-quest-steps-to-secure-your-dream-4k-screen-for-2024/"><u>[New] Vision Quest Steps to Secure Your Dream 4K Screen for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-stand-out-in-a-sea-of-content-our-offer-includes-50-free-banners/"><u>[Updated] 2024 Approved Stand Out in a Sea of Content - Our Offer Includes 50 Free Banners</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/channel-transformation-optimal-video-concepts-to-elevate-creativity-for-2024/"><u>Channel Transformation Optimal Video Concepts to Elevate Creativity for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/efficiently-convert-your-video-content-into-animation-a-guide-with-10-strategies/"><u>Efficiently Convert Your Video Content Into Animation: A Guide with 10 Strategies</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tless-media-transition-from-mp3-to-youtube-video-posting-for-2024/"><u>Effortless Media Transition From MP3 to YouTube Video Posting for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/enhance-your-nintendo-entertainment-system-classics-with-these-game-adding-hacks/"><u>Enhance Your Nintendo Entertainment System Classics With These Game-Adding Hacks</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/free-tiktok-creation-software-for-mac-devices/"><u>Free TikTok Creation Software for Mac Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-recover-deleted-files-via-icloud-without-performing-a-device-factory-reset/"><u>How to Recover Deleted Files via iCloud Without Performing a Device Factory Reset</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-successfully-download-images-from-icloud-on-ios-1211-ultimate-guide-with-7-pro-tips/"><u>How to Successfully Download Images From iCloud on iOS 12/11 – Ultimate Guide with 7 Pro Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lost-something-in-your-icloud-storage-master-the-art-of-icloud-backup-data-retrieval/"><u>Lost Something in Your iCloud Storage? Master the Art of iCloud Backup Data Retrieval</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximize-your-network-proven-strategies-to-recover-contacts-from-icloud-without-compromise/"><u>Maximize Your Network: Proven Strategies to Recover Contacts From iCloud Without Compromise</u></a></li>
-<li><a href="https://app-tips.techidaily.com/recovering-lost-apple-id-credentials-for-itunes-backups-on-ios-devices/"><u>Recovering Lost Apple ID Credentials for iTunes Backups on iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/resolving-the-icloud-messages-disabled-issue-step-by-step-guide-to-restore-your-apple-id/"><u>Resolving the 'iCloud Messages Disabled' Issue: Step-by-Step Guide to Restore Your Apple ID</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-for-securing-your-whatsapp-data-with-icloud-backups/"><u>Step-by-Step Instructions for Securing Your WhatsApp Data with iCloud Backups</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-full-breakdown-of-toolwizs-image-processing/"><u>The Full Breakdown of Toolwiz's Image Processing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-on-clearing-out-your-visual-memories-photosimages-from-icloud-storage/"><u>Ultimate Tutorial on Clearing Out Your Visual Memories (Photos/Images) From iCloud Storage</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-techniques-for-efficient-utilization-of-zooms-whiteboard-feature-for-2024/"><u>[New] Essential Techniques for Efficient Utilization of Zoom's Whiteboard Feature for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-understanding-zooms-participant-clusters-for-2024/"><u>[New] Understanding Zoom's Participant Clusters for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-androids-best-moba-games-roundup-10-edition/"><u>[Updated] 2024 Approved Android's Best MOBA Games Roundup - #10 Edition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-embrace-the-future-of-tv-engage-with-fb-live-via-roku/"><u>[Updated] Embrace the Future of TV Engage with FB Live via Roku</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-with-microsoft-a-step-by-step-guide-on-upgrading-to-windows-pro-edition-and-its-advantages/"><u>Advancing with Microsoft: A Step-by-Step Guide on Upgrading to Windows Pro Edition & Its Advantages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-submerge-the-iphone-15-pro-max-underwater-is-it-water-resistant/"><u>Can You Submerge the iPhone 15 Pro Max Underwater? - Is It Water-Resistant?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/continuity-of-microsoft-365-support-for-office-2016-and-2019-what-to-expect-in-the-coming-year-zdnet/"><u>Continuity of Microsoft 365 Support for Office 2016 & 2019: What to Expect in the Coming Year | ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-13-ultra-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Xiaomi 13 Ultra to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revival-in-cloud-tech-understanding-why-openstack-and-kata-containers-are-now-top-choices-for-enterprises-zdnet-analysis/"><u>Revival in Cloud Tech: Understanding Why OpenStack and Kata Containers Are Now Top Choices for Enterprises | ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/superduperdb-your-gateway-to-accessing-top-artificial-intelligence-applications-insights-from-zdnet/"><u>SuperDuperDB: Your Gateway to Accessing Top Artificial Intelligence Applications - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/switzerland-adopts-policy-for-open-source-public-sector-software/"><u>Switzerland Adopts Policy for Open-Source Public Sector Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-restoring-touch-functionality-in-windows-10-devices-5-strategies/"><u>Troubleshooting Tips: Restoring Touch Functionality in Windows 10 Devices (5 Strategies)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/winning-strategies-for-troubleshooting-dark-monitor-scenarios-in-windows-11/"><u>Winning Strategies for Troubleshooting Dark Monitor Scenarios in Windows 11</u></a></li>
 </ul></div>
 

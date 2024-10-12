@@ -1,7 +1,7 @@
 ---
 title: Free Anthropic 'Claude' Mobile Application Now Available; Company Unveils New Business Strategy - Tech News on ZDNet
-date: 2024-09-25T06:46:06.164Z
-updated: 2024-09-30T16:05:28.531Z
+date: 2024-10-09T23:28:06.211Z
+updated: 2024-10-11T23:00:38.699Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,15 +181,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ips-for-higher-youtube-traction-with-persistent-creative-commons-usage/"><u>[New] Tips for Higher YouTube Traction with Persistent Creative Commons Usage</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/easy-fixes-for-system-thread-exception-not-handled/"><u>Easy Fixes for System Thread Exception Not Handled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-your-efficiency-with-concurrent-subfolder-creation-on-windows-pcs/"><u>Maximize Your Efficiency with Concurrent Subfolder Creation on Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/missing-charge-status-symbol-in-windows-10-heres-how-to-get-it-back/"><u>Missing Charge Status Symbol in Windows 10? Here's How to Get It Back</u></a></li>
-<li><a href="https://app-tips.techidaily.com/reviving-your-ipad-from-an-icloud-backup-complete-instructions-including-non-reset-options/"><u>Reviving Your iPad From an iCloud Backup: Complete Instructions Including Non-Reset Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamless-iphone-photo-syncing-strategies-with-icloud-discover-these-4-effective-techniques/"><u>Seamless iPhone Photo Syncing Strategies with iCloud - Discover These 4 Effective Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/sketch-out-your-design-on-paper-before-painting-directly-onto-the-tile-this-helps-prevent-mistakes-and-allows-for-planning-of-color-transitions/"><u>Sketch Out Your Design on Paper Before Painting Directly Onto the Tile. This Helps Prevent Mistakes and Allows for Planning of Color Transitions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-tips-reactivating-your-disrupted-discord-webcam-functionality/"><u>Step-by-Step Tips: Reactivating Your Disrupted Discord Webcam Functionality</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-viewing-icloud-saved-passwords-on-ios-devices-and-computers/"><u>Step-by-Step Tutorial: Viewing iCloud Saved Passwords on iOS Devices & Computers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-pivot-point-review-diversifying-video-tech/"><u>[New] 2024 Approved Pivot Point Review Diversifying Video Tech</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-best-practices-for-zoom-engagement-on-win10-systems-for-2024/"><u>[New] Best Practices for Zoom Engagement on Win10 Systems for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adaptive-arrays/"><u>Adaptive Arrays</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-rapid-impact-of-ai-on-software-engineering-challenges-in-quantifying-progress-insights-from-zdnet/"><u>Exploring the Rapid Impact of AI on Software Engineering: Challenges in Quantifying Progress - Insights From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flash-freeze-focus-leading-cameras-for-slow-speed-recording/"><u>In 2024, Flash Freeze Focus Leading Cameras for Slow Speed Recording</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-make-your-own-meme/"><u>In 2024, Make Your Own Meme</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-pioneering-3-approaches-to-ipad-voice-capture/"><u>In 2024, Pioneering 3 Approaches to iPad Voice Capture</u></a></li>
+<li><a href="https://app-tips.techidaily.com/sonys-research-division-joins-forces-with-ai-singapore-for-next-gen-language-models-innovation-breakthrough/"><u>Sony's Research Division Joins Forces with AI Singapore for Next-Gen Language Models | Innovation Breakthrough</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-crisis-microsofts-critical-challenge-with-windows-10-looms-as-deadline-approaches-tech-news-by-zdnet/"><u>Urgent Crisis: Microsoft's Critical Challenge with Windows 10 Looms as Deadline Approaches | Tech News by ZDNet</u></a></li>
 </ul></div>
 

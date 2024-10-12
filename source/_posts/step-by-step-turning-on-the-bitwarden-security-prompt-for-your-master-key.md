@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Turning On the Bitwarden Security Prompt for Your Master Key"
-date: 2024-10-02T18:27:04.187Z
-updated: 2024-10-06T17:55:14.592Z
+date: 2024-10-07T02:24:04.457Z
+updated: 2024-10-12T07:56:06.735Z
 tags:
   - password-manager
 categories:
@@ -67,10 +67,10 @@ With that said, how do you enable the password re-prompt? Let me show you.
 **What you'll need:** The only things you need for this are a working instance of Bitwarded, either on a desktop or mobile device. The process also works on the web-based version. I'll demonstrate this on the desktop app, but the process is the same on all platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Bitwarden and unlock your vault
@@ -78,10 +78,10 @@ With that said, how do you enable the password re-prompt? Let me show you.
 The first thing to do is open the Bitwarden app and unlock your vault.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Open a vault item for editing
@@ -93,10 +93,10 @@ The edit button is the pencil directly to the right of the + button.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable the password re-prompt
@@ -114,10 +114,16 @@ Now, any time you want to view that password, you'll be prompted to type your Bi
 Keep going and add the re-prompt feature to any/all vault entries you believe need the extra layer of security. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A couple of extra steps
@@ -157,20 +163,21 @@ This may not stop unwanted users from copying and pasting your passwords, but it
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-command-your-cloud-data-leading-providers-to-watch/"><u>[New] Command Your Cloud Data Leading Providers to Watch</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-web-add-on-fb-stories-repository-app/"><u>[New] In 2024, Web Add-On FB Stories Repository App</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-communication-enhancing-rocketchat-functionality-through-app-add-ons/"><u>Boost Your Communication: Enhancing Rocket.Chat Functionality Through App Add-Ons</u></a></li>
-<li><a href="https://driver-error.techidaily.com/curing-sluggish-serial-transmission-on-windows/"><u>Curing Sluggish Serial Transmission on Windows</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/holy-stone-hs170-predator-mini-rc-helicopter-drone-review-a-drone-on-a-budget/"><u>Holy Stone HS170 Predator Mini RC Helicopter Drone Review: A Drone on a Budget</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-honor-magic-v2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Honor Magic V2 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/is-microsoft-working-on-windows-12-insider-tips-and-unforeseen-projections-digitalchronicle/"><u>Is Microsoft Working on Windows 12? Insider Tips and Unforeseen Projections | DigitalChronicle</u></a></li>
-<li><a href="https://win-blog.techidaily.com/push-your-frames-per-second-fps-up-with-these-pro-techniques-for-escape-from-tarkov/"><u>Push Your Frames Per Second (FPS) Up With These Pro Techniques for 'Escape From Tarkov'</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionize-user-interaction-using-xr-virtual-replicas-and-immersive-computing-a-strategic-enterprise-handbook-zdnet/"><u>Revolutionize User Interaction Using XR, Virtual Replicas, and Immersive Computing: A Strategic Enterprise Handbook [ZDNET]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/square-and-cash-app-downtime-essential-info-for-entrepreneurs-tech-news/"><u>Square and Cash App Downtime: Essential Info for Entrepreneurs | Tech News</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-switching-from-windows-to-linux-mint-on-your-computer-tips-and-tricks/"><u>Step-by-Step Guide: Switching From Windows to Linux Mint on Your Computer - Tips & Tricks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-the-tangled-web-of-linuxopen-source-documentation-solutions-for-clarity/"><u>Taming the Tangled Web of Linux/Open Source Documentation: Solutions for Clarity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-secure-enterprise-deployments-with-canonicals-distroless-linux-solutions-cybertechdaily/"><u>The Future of Secure Enterprise Deployments with Canonical's Distroless Linux Solutions | CyberTechDaily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-preview-of-the-rumored-oneplus-model-ex-pricing-and-launch-details-unveiled/"><u>The Next Big Thing? Preview of the Rumored OnePlus Model eX – Pricing & Launch Details Unveiled</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/windows-movie-maker-the-ultimate-guide-to-youtube-video-production-for-2024/"><u>Windows Movie Maker The Ultimate Guide to YouTube Video Production for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-master-the-art-of-instagram-live-chats-a-comprehensive-guide-for-2024/"><u>[Updated] Master the Art of Instagram Live Chats A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-deep-dive-into-microsofts-bing-chat-and-its-use-of-advanced-ai-like-gpt-4/"><u>A Deep Dive Into Microsoft's Bing Chat and Its Use of Advanced AI Like GPT-4</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/budget-drone-buyers-guide-top-choices-under-100/"><u>Budget Drone Buyer's Guide Top Choices Under $100</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/corsair-h115i-and-windows-8-11-overcoming-common-driver-challenges/"><u>Corsair H115i and Windows 8-11: Overcoming Common Driver Challenges</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-guide-to-evaluating-gpt-powered-conversational-agents-insights-and-recommendations/"><u>Essential Guide to Evaluating GPT-Powered Conversational Agents - Insights & Recommendations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-tips-for-capturing-your-skype-conversations-for-2024/"><u>Essential Tips for Capturing Your Skype Conversations for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-bing-chat-how-to-utilize-ai-and-gpt-n-technology-for-enhanced-conversations/"><u>Exploring Bing Chat: How to Utilize AI and GPT-N Technology for Enhanced Conversations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-at-chatsonic-thorough-review-uncovers-vital-information-on-this-state-of-the-art-artificial-intelligence-chat-interface/"><u>Inside Look at Chatsonic: Thorough Review Uncovers Vital Information on This State-of-the-Art Artificial Intelligence Chat Interface</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lost-in-silence-a-step-by-step-strategy-for-reactivating-your-nvidia-hd-speakers/"><u>Lost in Silence: A Step-by-Step Strategy for Reactivating Your Nvidia HD Speakers</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/pros-and-cons-of-apple-watch-series/"><u>Pros & Cons of Apple Watch Series</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/stardews-ultimate-enhancements-ranked-the-seven-best-mods-for-2024/"><u>Stardew's Ultimate Enhancements Ranked The Seven Best Mods for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-chatgpt-a-thorough-breakdown-of-its-capabilities-flaws-and-error-management-techniques/"><u>The Ultimate Guide to ChatGPT - A Thorough Breakdown of Its Capabilities, Flaws & Error Management Techniques</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-11-cost-free-video-title-creator-tools-online/"><u>Top 11 Cost-Free Video Title Creator Tools Online</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-chatsonic-an-exhaustive-evaluation-for-insights-into-cutting-edge-ai-conversational-technology/"><u>Unveiling Chatsonic: An Exhaustive Evaluation for Insights Into Cutting-Edge AI Conversational Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-bing-chat-interacting-with-artificial-intelligence-via-gpt-technology/"><u>Unveiling the Power of Bing Chat: Interacting with Artificial Intelligence via GPT Technology</u></a></li>
 </ul></div>
 

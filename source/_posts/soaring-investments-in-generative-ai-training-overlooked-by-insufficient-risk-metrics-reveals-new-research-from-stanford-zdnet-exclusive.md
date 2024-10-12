@@ -1,7 +1,7 @@
 ---
 title: Soaring Investments in Generative AI Training Overlooked by Insufficient Risk Metrics, Reveals New Research From Stanford | ZDNET Exclusive
-date: 2024-09-22T09:50:43.757Z
-updated: 2024-09-26T01:10:45.671Z
+date: 2024-10-08T05:45:14.221Z
+updated: 2024-10-12T02:13:20.725Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,15 +181,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-focus-on-action-exclude-unwanted-surroundings-for-2024/"><u>[New] Focus on Action, Exclude Unwanted Surroundings for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-your-contents-exposure-with-ongoing-creative-commons-usage-for-2024/"><u>[Updated] Elevating Your Content's Exposure with Ongoing Creative Commons Usage for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/1717288296585-updated-how-much-does-youtube-pay-for-1-million-views/"><u>[Updated] How Much Does YouTube Pay for 1 Million Views</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-15-android-compatible-free-messaging-apps-a-comprehensive-guide/"><u>Best 15 Android-Compatible Free Messaging Apps: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-sms-automation-tools-top-10-applications-for-android-and-ios-devices/"><u>Best SMS Automation Tools: Top 10 Applications for Android & iOS Devices</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/corrupted-clip-rehabilitation-service/"><u>Corrupted Clip Rehabilitation Service</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-perfecting-tone-modulation-keeping-sound-quality-intact-in-audacity/"><u>In 2024, Perfecting Tone Modulation Keeping Sound Quality Intact in Audacity</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sky-high-graphics-meet-innovative-features-in-our-x-plane-11-flight-simulator-breakdown/"><u>Sky High Graphics Meet Innovative Features in Our X-Plane 11 Flight Simulator Breakdown</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-the-non-functioning-facebook-messenger-application/"><u>Troubleshooting Guide: Resolving Issues with the Non-Functioning Facebook Messenger Application</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-tiktok-files-free-and-unmarked-your-savior/"><u>[Updated] In 2024, TikTok Files, Free and Unmarked Your Savior</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-path-to-higher-engagement-essential-shortcuts-for-youtubers-for-2024/"><u>[Updated] The Path to Higher Engagement Essential Shortcuts for YouTubers for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-syncing-your-chats-with-icloud-via-whatsapp/"><u>Comprehensive Guide: Syncing Your Chats with iCloud via WhatsApp</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/digital-cosmos-display-top-pick-hdr-sky-sites-list-for-2024/"><u>Digital Cosmos Display Top Pick HDR Sky Sites List for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-gigabyte-ethernet-drivers-here-free-download/"><u>Get the Latest Gigabyte Ethernet Drivers Here - Free Download!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expert-analysis-the-best-webcam-videotaping-tools/"><u>In 2024, Expert Analysis The Best WebCam Videotaping Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-hone-your-livestream-skills-on-youtubes-premier-platform/"><u>In 2024, Hone Your Livestream Skills on YouTube's Premier Platform</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-the-art-of-photo-color-correction/"><u>Mastering the Art of Photo Color Correction</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-messaging-ultimate-guide-to-whatsapp-passwords-on-ios-and-android-devices/"><u>Secure Your Messaging: Ultimate Guide to WhatsApp Passwords on iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-no-backup-available-errors-in-whatsapp-understanding-the-cause-and-top-5-remediation-strategies/"><u>Solving 'No Backup Available' Errors in WhatsApp: Understanding the Cause & Top 5 Remediation Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-completely-removing-your-whatsapp-profile-from-ios-devices/"><u>Step-by-Step Guide: Completely Removing Your WhatsApp Profile From iOS Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-choices-animation-friendly-3d-model-tools/"><u>Top Choices Animation-Friendly 3D Model Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-techniques-for-retrieving-lost-whatsapp-messages-on-android-devices/"><u>Top Techniques for Retrieving Lost WhatsApp Messages on Android Devices</u></a></li>
 </ul></div>
 

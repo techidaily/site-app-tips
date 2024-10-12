@@ -1,7 +1,7 @@
 ---
 title: "Half of All Biz Marketers Now Leverage AI Tools: Insights From ZDNet"
-date: 2024-09-19 12:46:26
-updated: 2024-09-20 12:40:52
+date: 2024-10-05T16:26:24.027Z
+updated: 2024-10-12T03:25:50.070Z
 tags:
   - digital-transformation
 categories:
@@ -63,6 +63,13 @@ Taking advantage of AI is the marketer's biggest priority -- and biggest challen
 
 The report found that marketers use an average of eight different marketing tools and technologies. All AI projects start as data projects. Capturing customer data from a large set of marketing tools that are not integrated creates a challenge for marketers to unify, harmonize, and create a 360-degree view of their customer engagement touchpoints. Only 32% of marketers are satisfied with how they use customer data to create relevant experiences. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Marketers shore up their data foundation
 
 Marketers use an average of 9 different tactics across the entire customer journey. The most common data sources for marketers are:
@@ -85,6 +92,13 @@ The modern marketer's challenge isn't a lack of first-party data -- it's fully i
 **Also: [5 reasons why I prefer Perplexity over every other AI chatbot](https://www.zdnet.com/article/5-reasons-why-i-prefer-perplexity-over-every-other-ai-chatbot/)**
 
 Only 31% of marketers are satisfied with their ability to unify customer data sources. Data integration across the enterprise app landscape is key to high-performance marketing. About two in five marketers still don't have real-time data at their disposal for crucial tasks, relying instead on potentially outdated insights -- or even intuition. Even teams with live data are slowed down by their ability to activate it. While over half of marketers say data is available in real time to execute a campaign, 59% need the IT department's help to do so. Most customer data is trapped in business, with limited or no access to marketing. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Marketers embrace AI with an eye on trust
 
@@ -142,11 +156,30 @@ To learn more about the 2024 State of Marketing report, you can visit [here](htt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-developing-dynamic-instagram-feed-slides/"><u>[New] 2024 Approved Developing Dynamic Instagram Feed Slides</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-spotlight-10-anonymous-story-gazers/"><u>[New] 2024 Approved Spotlight 10 Anonymous Story Gazers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-budget-friendly-android-video-call-alternatives-for-2024/"><u>[New] Budget-Friendly Android Video Call Alternatives for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-insta-videos-3-simple-border-techniques-for-2024/"><u>[Updated] Enhancing Insta Videos 3 Simple Border Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-youtube-thumbnails-capture-your-top-views-for-2024/"><u>[Updated] Essential YouTube Thumbnails Capture Your Top Views for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-challenge-effective-fixes-for-resolving-error-code-tfla0002-in-exams/"><u>Beat the Challenge: Effective Fixes for Resolving Error Code TFLA0002 in Exams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194092-enhance-your-cinematic-journey-with-the-ultimate-list-of-15-vr-film-apps-for-mobile-devices/"><u>Enhance Your Cinematic Journey with the Ultimate List of 15 VR Film Apps for Mobile Devices!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-6-mobile-text-defense-tools-to-shield-conversations-on-android-smartphones/"><u>Leading 6 Mobile Text Defense Tools to Shield Conversations on Android Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lumafusion-the-ultimate-top-pick-for-ios-video-editing-apps/"><u>LumaFusion: The Ultimate Top Pick for iOS Video Editing Apps</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/problematik-des-gefrorenen-laptops-und-mogliche-losungen-fur-reaktivierung/"><u>Problematik Des Gefrorenen Laptops Und Mögliche Lösungen Für Reaktivierung</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-fix-top-5-methods-for-forcing-a-close-on-stuck-mac-applications/"><u>Quick Fix: Top 5 Methods for Forcing a Close on Stuck Mac Applications</u></a></li>
+<li><a href="https://blog-min.techidaily.com/simple-guide-converting-vob-files-to-high-quality-flac-format/"><u>Simple Guide: Converting VOB Files to High-Quality FLAC Format</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-on-android-rooting-using-elite-root-applications-both-gratis-and-subscription/"><u>Step-by-Step Tutorial on Android Rooting Using Elite ROOT Applications (Both Gratis and Subscription)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-time-worn-images-with-these-3-powerful-applications-for-modernizing-classic-photos/"><u>Transform Time-Worn Images with These 3 Powerful Applications for Modernizing Classic Photos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-werfaultexe-error-on-your-pc-a-step-by-step-guide/"><u>Troubleshooting the werFault.exe Error on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlimited-free-communication-tool-cross-platform-calling-and-text-service-for-smartphones-and-computers/"><u>Unlimited Free Communication Tool: Cross-Platform Calling & Text Service for Smartphones & Computers</u></a></li>
+</ul></div>
+

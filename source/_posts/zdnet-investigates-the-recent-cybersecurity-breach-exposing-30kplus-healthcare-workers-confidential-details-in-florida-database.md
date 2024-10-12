@@ -1,7 +1,7 @@
 ---
 title: ZDNet Investigates the Recent Cybersecurity Breach Exposing 30K+ Healthcare Workers' Confidential Details in Florida Database
-date: 2024-10-01T17:34:22.597Z
-updated: 2024-10-06T16:29:03.148Z
+date: 2024-10-05T22:21:29.173Z
+updated: 2024-10-11T21:50:34.658Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -99,14 +99,22 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://games-able.techidaily.com/guarantee-secure-xbox-series-x-linking/"><u>Guarantee Secure Xbox Series X Linking</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/is-av1-codec-compatible-with-handbrake-encoder-software/"><u>Is AV1 Codec Compatible with HandBrake Encoder Software?</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-default-energy-settings-on-modern-windows/"><u>Reactivating Default Energy Settings on Modern Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/singapore-invests-24-billion-in-enhancing-it-networks-and-digital-solutions-insights-from-zdnet/"><u>Singapore Invests $2.4 Billion in Enhancing IT Networks & Digital Solutions – Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-to-secure-wacom-intuos-pro-drivers-on-your-windows-10-pc/"><u>Step-by-Step Tutorial to Secure Wacom Intuos Pro Drivers on Your Windows 10 PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-now-reinventing-development-with-ai-in-low-code-and-no-code-solutions-featured-on-zdnet/"><u>The Future Is Now: Reinventing Development with AI in Low-Code and No-Code Solutions | Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-insiders-guide-to-choosing-a-devops-path-benefits-vs-hurdles-in-detail/"><u>The Insider's Guide to Choosing a DevOps Path: Benefits Vs. Hurdles in Detail</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-it-expansion-navigating-the-increase-in-employee-burnout-solutions-for-a-healthier-workplace-zdnet/"><u>The Rise of IT Expansion: Navigating the Increase in Employee Burnout - Solutions for a Healthier Workplace | ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-infinix-note-30i-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Infinix Note 30i Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-mac-mkv-players-compilation-for-2024/"><u>[New] Top Mac MKV Players Compilation for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-huawei-nova-y71-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Huawei Nova Y71 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-leap-towards-no-code-revolution-the-impactful-role-of-generative-artificial-intelligence-in-evolving-coding-paradigms-zdnet-insights/"><u>A Leap Towards 'No Code' Revolution: The Impactful Role of Generative Artificial Intelligence in Evolving Coding Paradigms | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/access-control-systems/"><u>Access Control Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discover-language-growth-in-international-film/"><u>Discover Language Growth in International Film</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-your-gameplay-a-guide-to-addressing-the-frame-rate-slump-in-dying-light/"><u>Enhancing Your Gameplay: A Guide to Addressing the Frame Rate Slump in Dying Light</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-bandicam-know-how-a-complete-review/"><u>Essential Bandicam Know-How - A Complete Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-innovative-techniques-unlocking-your-steam-decks-potential/"><u>Exploring Innovative Techniques: Unlocking Your Steam Deck's Potential</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-fresh-updates-in-macos-sonoma-comprehensive-overview-for-tech-enthusiasts-by-zdnet/"><u>Exploring the Fresh Updates in macOS Sonoma: Comprehensive Overview for Tech Enthusiasts by ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y100a-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y100A to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-task-management-adding-to-do-lists-to-your-slack-workspace-zdnet-insights/"><u>Integrating Task Management: Adding To-Do Lists to Your Slack Workspace | ZDNet Insights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/master-the-art-of-social-media-video-capture-with-5-leaders-for-2024/"><u>Master the Art of Social Media Video Capture with 5 Leaders for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-transition-seamless-update-strategies-for-ubuntu-linux-users-moving-to-version-2404/"><u>Mastering the Transition: Seamless Update Strategies for Ubuntu Linux Users Moving to Version 24.04</u></a></li>
+<li><a href="https://app-tips.techidaily.com/side-and-back-lobes-are-usually-undesirable-as-they-represent-radiation-in-directions-that-do-not-contribute-to-effective-communication-and-can-cause-interf86/"><u>Side and Back Lobes Are Usually Undesirable as They Represent Radiation in Directions that Do Not Contribute to Effective Communication and Can Cause Interference.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-battle-for-dominance-in-the-web-browsing-realm-who-leads/"><u>The Battle for Dominance in the Web Browsing Realm: Who Leads?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-ranked-driver-downloads-compatible-bluetooth-drivers-for-windows-systems/"><u>Top-Ranked Driver Downloads: Compatible Bluetooth Drivers for Windows Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranking-mac-software-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking Mac Software : A Comprehensive Guide by ZDNet</u></a></li>
 </ul></div>
 

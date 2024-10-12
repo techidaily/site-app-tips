@@ -1,7 +1,7 @@
 ---
 title: "Singapore Invests $2.4 Billion in Enhancing ICT Frameworks & Digital Service Offerings: A Deep Dive Into the National Strategy"
-date: 2024-09-17 21:11:37
-updated: 2024-09-20 10:56:56
+date: 2024-10-10T02:24:23.222Z
+updated: 2024-10-12T04:56:48.770Z
 tags:
   - digital-transformation
 categories:
@@ -78,11 +78,34 @@ The government's ICT budget last year was [focused on moving its systems to the 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-illusions-the-art-of-time-and-space-manipulation/"><u>[New] Crafting Illusions The Art of Time & Space Manipulation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-integrating-custom-luts-into-your-post-production-workflow/"><u>[New] Integrating Custom LUTs Into Your Post-Production Workflow</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-easy-route-to-capturing-every-gameplay-moment/"><u>[New] The Easy Route to Capturing Every Gameplay Moment</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-guide-to-applying-luts-in-obs-streaming-for-2024/"><u>[Updated] The Ultimate Guide to Applying LUTs in OBS Streaming for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-vectors-unveiled-a-novices-path-through-types-and-apps/"><u>[Updated] Vectors Unveiled A Novice’s Path Through Types and Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/accelerate-your-coding-process-using-generative-ai-understanding-potential-pitfalls/"><u>Accelerate Your Coding Process Using Generative AI: Understanding Potential Pitfalls</u></a></li>
+<li><a href="https://article-helps.techidaily.com/animationpros-complete-guide-24/"><u>AnimationPros Complete Guide '24</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-a-tech-career-journey-with-wisdom-from-the-top-of-the-aeronautics-world-analyzed-on-zdnet/"><u>Navigating a Tech Career Journey with Wisdom From the Top of the Aeronautics World | Analyzed on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-ai-with-open-source-the-smart-path-forward-insights-from-zdnet/"><u>Navigating the Future of AI with Open Source: The Smart Path Forward - Insights From ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/success-established-printer-connections/"><u>Success: Established Printer Connections</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-humble-code-that-put-big-mac-in-a-bind-how-an-ingenious-application-challenged-mcdonalds-systems/"><u>The Humble Code That Put Big Mac in a Bind: How an Ingenious Application Challenged McDonald's Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranking-mac-optimization-tools-of-2022-expert-picks/"><u>Top-Ranking Mac Optimization Tools of 2022 - Expert Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-guide-to-the-most-effective-crm-systems-in-2vee-a-2022-selection-tailored-for-smb-success/"><u>ZDNET's Guide to the Most Effective CRM Systems in 2Vee: A 2022 Selection Tailored for SMB Success</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

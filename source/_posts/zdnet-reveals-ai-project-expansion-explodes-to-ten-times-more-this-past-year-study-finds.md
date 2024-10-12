@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reveals AI Project Expansion Explodes to Ten Times More This Past Year - Study Finds
-date: 2024-09-26T07:00:49.712Z
-updated: 2024-10-01T01:55:04.470Z
+date: 2024-10-11T03:51:11.330Z
+updated: 2024-10-12T06:59:34.850Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/nstantly-convert-online-tutorials-into-interactive-animation-gifs/"><u>[New] Instantly Convert Online Tutorials Into Interactive Animation GIFs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-a-detailed-list-of-top-free-cross-platform-mobile-video-chats-for-2024/"><u>[Updated] A Detailed List of Top Free, Cross-Platform Mobile Video Chats for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-expertly-selecting-the-best-tools-for-browser-content-capturing/"><u>[Updated] In 2024, Expertly Selecting the Best Tools for Browser Content Capturing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-professional-gopro-video-making/"><u>2024 Approved The Ultimate Guide to Professional GoPro Video Making</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-photoshop-guide-to-text-becoming-3d/"><u>2024 Approved The Ultimate Photoshop Guide to Text Becoming 3D</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g84-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G84 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/laugh-out-loud-portraits-top-12-witty-face-photo-effects-for-both-android-and-iphone/"><u>Laugh Out Loud Portraits: Top 12 Witty Face Photo Effects for Both Android & iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-best-free-messaging-apps-on-android-a-comprehensive-top-10-list/"><u>The Best Free Messaging Apps on Android: A Comprehensive Top 10 List</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/this-article-shows-you-how-to-do-freeze-frames-and-slow-motion-in-final-cut-pro-x/"><u>This Article Shows You How to Do Freeze-Frames and Slow Motion in Final Cut Pro X</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-iphone-security-software-simplify-your-login-process-with-our-best-recommended-password-manager/"><u>Top-Rated iPhone Security Software: Simplify Your Login Process with Our Best Recommended Password Manager</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193804-transform-your-clips-with-this-exceptional-android-video-editing-software/"><u>Transform Your Clips with This Exceptional Android Video Editing Software!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-top-5-must-have-gif-creators-for-android-devices/"><u>Ultimate Guide: Top 5 Must-Have GIF Creators for Android Devices</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-generate-mind-bending-glitches-online-for-free-top-picks-2023/"><u>Updated Generate Mind-Bending Glitches Online for Free Top Picks 2023</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620189209-why-everyone-needs-to-try-the-newly-updated-factual-inshot-editor-unleash-your-creativity/"><u>Why Everyone Needs to Try the Newly Updated Factual InShot Editor - Unleash Your Creativity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-enhance-your-photography-journey-adding-music-and-filters-in-windows-10-photos/"><u>[New] Enhance Your Photography Journey Adding Music and Filters in Windows 10 Photos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illusory-motion-capture-guide/"><u>[New] Illusory Motion Capture Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-quick-stitching-together-synchronizing-obs-and-zoom/"><u>[New] Quick Stitching Together Synchronizing OBS and Zoom</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-step-by-step-crafting-time-lapses-on-a-canon/"><u>[Updated] In 2024, Step-by-Step Crafting Time-Lapses on a Canon</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-bing-chat-and-its-synergy-with-gpt-n-language-models/"><u>Comprehensive Guide to Bing Chat & Its Synergy with GPT-N Language Models</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620185282-comprehensive-guide-to-the-eva-ai-chatbot-from-ex-journey-dont-miss-this/"><u>Comprehensive Guide to the EVA AI Chatbot From Ex Journey – Don't Miss This</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-top-10-innovative-ai-chatbots-for-superior-conversations/"><u>Experience Next-Level Interaction: Top 10 Innovative AI Chatbots for Superior Conversations</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-12-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 12 Pro Max and iPad</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oneplus-12-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent OnePlus 12 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-microsofts-bing-chat-feature-using-advanced-ai-and-gpt-4/"><u>In-Depth Analysis of Microsoft's Bing Chat Feature Using Advanced AI & GPT-4</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-image-transformations-today-for-2024/"><u>Master Image Transformations Today for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-interactions-with-nova-chatgpt-the-premier-ai-companion-for-cutting-edge-dialogues/"><u>Transform Your Interactions with Nova ChatGPT: The Premier AI Companion for Cutting-Edge Dialogues</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-champion-of-ai-bots-in-depth-review-of-chatgpt-for-next-level-conversations/"><u>Unveiling the Champion of AI Bots: In-Depth Review of ChatGPT for Next-Level Conversations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-facets-of-chatgpt-2024-detailed-examination-of-features-and-strategies-for-server-glitches/"><u>Unveiling the Facets of ChatGPT 2024: Detailed Examination of Features and Strategies for Server Glitches</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-from-photos-to-films-easy-video-creation-with-ezvid-on-mac-os-for-2024/"><u>Updated From Photos to Films Easy Video Creation with Ezvid on Mac OS for 2024</u></a></li>
 </ul></div>
 

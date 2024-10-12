@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Right Hosting Platform: GitHub or GitLab? - A Comparative Guide by ZDNet"
-date: 2024-09-29T18:16:26.377Z
-updated: 2024-10-06T17:32:46.535Z
+date: 2024-10-05T22:00:45.166Z
+updated: 2024-10-12T01:26:25.205Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +181,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-fixing-blank-sequences-during-obs-recording-for-2024/"><u>[Updated] Fixing Blank Sequences During OBS Recording for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-discover-engaging-free-slide-shows-with-these-amazing-template-selections/"><u>2024 Approved Discover Engaging, Free Slide Shows with These Amazing Template Selections</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-optimal-free-webcam-video-grabber-app/"><u>2024 Approved Optimal Free Webcam Video Grabber App</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/apple-iphone-14-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 14 Screen Mirroring You Must Know | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-and-rectifying-windows-steams-error-e84/"><u>Demystifying and Rectifying Windows Steam's Error E84</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-perfect-accounting-system-in-2-a-comprehensive-guide-techradar/"><u>Discover the Perfect Accounting System in 2# #: A Comprehensive Guide | TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-anthropic-claude-mobile-application-now-available-company-unveils-new-business-strategy-tech-news-on-zdnet/"><u>Free Anthropic 'Claude' Mobile Application Now Available; Company Unveils New Business Strategy - Tech News on ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-11-pro-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone 11 Pro?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-itel-a70-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-visionary-linus-torvalds-explores-ai-progress-rust-integration-and-linux-significance-with-zdnet/"><u>Tech Visionary Linus Torvalds Explores AI Progress, Rust Integration, and Linux Significance with ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-journey-towards-integrated-tech-and-enterprise-strategies-realizing-the-long-awaited-synergy-zdnet/"><u>The Journey Towards Integrated Tech and Enterprise Strategies: Realizing the Long-Awaited Synergy | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/upgrade-journey-for-ubuntu-linux-2404-demystified-by-zdnet-experts/"><u>Upgrade Journey for Ubuntu Linux 24.04 Demystified by ZDNet Experts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/whats-youtube-creative-commons-and-how-to-use-cc-to-make-video-for-2024/"><u>What's YouTube Creative Commons and How to Use CC to Make Video for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11s-recent-update-unleashes-exciting-novel-capabilities-insights-from-zdnet/"><u>Windows 11'S Recent Update Unleashes Exciting Novel Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-bypassing-instagrams-video-roadblocks-effortlessly/"><u>[New] In 2024, Bypassing Instagram's Video Roadblocks Effortlessly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-channel-transformation-through-strategic-use-of-youtube-outros/"><u>[Updated] 2024 Approved Channel Transformation Through Strategic Use of YouTube Outros</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagram-a-guide-to-sharing-gifs-in-4-simple-steps/"><u>[Updated] Mastering Instagram A Guide to Sharing GIFs in 4 Simple Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-free-and-premium-screen-recording-apps-explore-manycam-obs-studio-and-beyond/"><u>Best Free and Premium Screen Recording Apps: Explore ManyCam, OBS Studio, and Beyond</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-video-sizes-and-proportions-for-2024/"><u>FB Video Sizes and Proportions for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-xiaomi-redmi-12-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Xiaomi Redmi 12 Face Lock?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-surge-of-edge-computing-devices-implications-for-professional-growth-and-opportunities-zdnet/"><u>Navigating the Surge of Edge Computing Devices: Implications for Professional Growth and Opportunities | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prepare-your-leaders-why-managerial-training-is-key-for-successful-ai-integration/"><u>Prepare Your Leaders: Why Managerial Training Is Key for Successful AI Integration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-ui-with-ai-the-end-of-traditional-interfaces-zdnet-insights/"><u>Revolutionizing UI with AI: The End of Traditional Interfaces | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/survey-finds-quarter-of-it-workers-considering-job-switches-insights-from-zdnet/"><u>Survey Finds Quarter of IT Workers Considering Job Switches - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-secrets-of-midland-gxt1000vp4-the-ultimate-two-way-radio-reviewed/"><u>Unveiling the Secrets of Midland GXT1000VP4 – The Ultimate Two-Way Radio Reviewed</u></a></li>
 </ul></div>
 

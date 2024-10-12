@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Generative AI Hurdles: Demonstrating Tangible Returns on Investment - Insights From ZDNet"
-date: 2024-09-19 17:32:32
-updated: 2024-09-20 12:24:26
+date: 2024-10-06T10:27:48.542Z
+updated: 2024-10-12T08:52:38.751Z
 tags:
   - digital-transformation
 categories:
@@ -77,11 +77,40 @@ Generative AI "doesn't go wrong in normal ways," he added. "GenAI is where you p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-saving-the-ephemeral-a-guide-to-online-audio-recording/"><u>[New] 2024 Approved Saving the Ephemeral A Guide to Online Audio Recording</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-beginners-guide-to-crafting-trendy-mac-video-content/"><u>[Updated] Beginner's Guide to Crafting Trendy Mac Video Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-get-the-most-out-of-your-content-facebooks-full-screen-tutorial-2023/"><u>[Updated] Get the Most Out of Your Content Facebook's Full-Screen Tutorial 2023</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximize-your-engagement-with-full-screen-facebook-videos-for-2024/"><u>[Updated] Maximize Your Engagement with Full-Screen Facebook Videos for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/awaken-with-joy-discover-the-10-most-engaging-free-alarm-clock-applications-for-a-playful-routine/"><u>Awaken with Joy: Discover the 10 Most Engaging Free Alarm Clock Applications for a Playful Routine</u></a></li>
+<li><a href="https://app-tips.techidaily.com/capturing-perfect-moments-with-auto-timer-features-for-iphone-and-android-cameras/"><u>Capturing Perfect Moments with Auto-Timer Features for iPhone and Android Cameras</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-steps-to-remove-or-uninstall-applications-from-iphone-and-android-devices/"><u>Complete Guide: Steps to Remove or Uninstall Applications From iPhone and Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-imovie-review-features-assessment-and-top-editing-software-substitutes/"><u>Comprehensive IMovie Review: Features, Assessment & Top Editing Software Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-leading-10-image-cataloging-applications-for-both-windows-and-mac-systems-a-comprehensive-ranking-guide/"><u>Discover the Leading 10 Image Cataloging Applications for Both Windows & Mac Systems: A Comprehensive Ranking Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-6-free-online-casino-slots-for-android-phones-and-iphones/"><u>Discover the Ultimate Selection of 6 Free Online Casino Slots for Android Phones and iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortlessly-explore-inbox-the-best-five-apps-for-computer-based-message-management/"><u>Effortlessly Explore Inbox: The Best Five Apps for Computer-Based Message Management</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-find-n3-flip-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo Find N3 Flip Devices</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-14-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 14 Pro Max to PC | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-hdr-shifts-the-paradigm-of-video-quality-standards/"><u>In 2024, How HDR Shifts the Paradigm of Video Quality Standards</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-a34-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy A34 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-level-ipad-calculator-software-drives-users-towards-buying-an-apple-pencil-expert-analysis-by-zdnet/"><u>Next-Level iPad Calculator Software Drives Users Towards Buying an Apple Pencil | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-your-children-online-a-guide-to-the-20-best-parental-control-tools-available-today/"><u>Protect Your Children Online: A Guide to the 20 Best Parental Control Tools Available Today</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unsuccessful-repairs-on-specific-video-files/"><u>Unsuccessful Repairs on Specific Video Files.</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

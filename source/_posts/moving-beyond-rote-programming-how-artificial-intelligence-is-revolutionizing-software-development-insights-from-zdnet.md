@@ -1,7 +1,7 @@
 ---
 title: "Moving Beyond Rote Programming: How Artificial Intelligence Is Revolutionizing Software Development - Insights From ZDNet"
-date: 2024-09-18 23:44:41
-updated: 2024-09-20 10:46:10
+date: 2024-10-09T08:44:56.416Z
+updated: 2024-10-12T10:27:44.344Z
 tags:
   - digital-transformation
 categories:
@@ -94,11 +94,37 @@ Ferguson said that with human oversight, "AI can strengthen approaches like DevO
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-brief-tips-on-easy-audiovideo-recording-in-gotomeeting/"><u>[New] 2024 Approved Brief Tips on Easy Audio/Video Recording in GoToMeeting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-prime-lineup-ultimate-cycle-races/"><u>[Updated] In 2024, Prime Lineup Ultimate Cycle Races</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-best-practices-in-cds-ripping-and-burning-with-win-media/"><u>[Updated] Unveiling the Best Practices in Cds Ripping & Burning with Win, Media</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-easy-access-to-12-exclusive-livestreams-daily/"><u>2024 Approved Easy Access to 12 Exclusive Livestreams Daily</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-deeplucas-ai-powered-video-creation-tool-unveiling-key-attributes-and-benefits-vs-drawbacks/"><u>Comprehensive Analysis of DeepLucas' AI-Powered Video Creation Tool - Unveiling Key Attributes & Benefits vs Drawbacks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-top-5-ai-powered-video-creation-tools-based-on-images/"><u>Comprehensive Evaluation: Top 5 AI-Powered Video Creation Tools Based on Images</u></a></li>
+<li><a href="https://app-tips.techidaily.com/decoding-sora-by-openai-key-features-practical-applications-and-potential-restrictions/"><u>Decoding Sora by OpenAI: Key Features, Practical Applications, and Potential Restrictions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-leading-4-web-apps-to-eliminate-artificial-intelligence-branding-in-videos/"><u>Discover the Leading 4 Web Apps to Eliminate Artificial Intelligence Branding in Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-ai-video-stabilizers-of-2024-our-selection-of-top-6-online-and-offline-solutions/"><u>Discover the Ultimate AI Video Stabilizers of 2024: Our Selection of Top 6 Online and Offline Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-insights-on-the-deep-lucas-video-generator-detailed-breakdown-of-functionalities-advantages-and-limitations/"><u>Expert Insights on the Deep Lucas Video Generator: Detailed Breakdown of Functionalities, Advantages and Limitations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-ai-highlight-creators-introduction-and-key-features-of-top-tools/"><u>Exploring AI Highlight Creators: Introduction & Key Features of Top Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721851653957-get-started-quickly-effective-ways-to-apply-gpt-3-in-your-chatgpt-experience-today/"><u>Get Started Quickly: Effective Ways to Apply GPT-^3 in Your ChatGPT Experience Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guarded-communication-the-risks-of-ai-data-sharing/"><u>Guarded Communication: The Risks of AI Data Sharing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-naraka-point-blades-stutter-a-comprehensive-guide/"><u>How to Fix Naraka: Point Blades Stutter - A Comprehensive Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-path-to-your-first-tweet-signing-up-for-twitter/"><u>In 2024, The Path to Your First Tweet Signing Up for Twitter</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/singing-alerts-crafting-and-configuring-customizable-sounds-and-ringtones-on-android-for-2024/"><u>Singing Alerts Crafting and Configuring Customizable Sounds & Ringtones on Android for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

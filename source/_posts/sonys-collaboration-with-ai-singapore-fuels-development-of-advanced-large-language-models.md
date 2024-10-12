@@ -1,7 +1,7 @@
 ---
 title: Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models
-date: 2024-10-01T18:31:59.937Z
-updated: 2024-10-06T18:22:25.962Z
+date: 2024-10-09T20:50:52.666Z
+updated: 2024-10-12T10:41:57.627Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +187,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-guide-to-various-video-recording-devices/"><u>[Updated] 2024 Approved Guide to Various Video Recording Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-free-video-player-face-off-vlc-versus-mpc/"><u>[Updated] Free Video Player Face-Off VLC Versus MPC</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-hitting-the-high-scores-with-youtube-gaming-livestreams/"><u>[Updated] Hitting the High Scores with YouTube Gaming Livestreams</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-crafting-immersive-experiences-with-green-screen-technology/"><u>2024 Approved Crafting Immersive Experiences with Green Screen Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/achieving-tangible-synergy-between-technology-innovations-and-business-strategy/"><u>Achieving Tangible Synergy Between Technology Innovations and Business Strategy</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advancing-skillsets-and-enhancing-security-through-cloud-native-solutions-on-emerging-platforms/"><u>Advancing Skillsets & Enhancing Security Through Cloud-Native Solutions on Emerging Platforms</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-3-updates-in-the-latest-version-of-linux-kernel-v69-technews/"><u>Best 3 Updates in the Latest Version of Linux Kernel v6.9 | TechNews</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/converting-your-collection-of-jpegs-into-a-single-pdf-file-a-how-to-guide/"><u>Converting Your Collection of JPEGs Into a Single PDF File: A How-To Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/could-microsofts-new-innovation-drive-you-crazy-or-will-it-surprise-and-delight-insights-from-zdnet/"><u>Could Microsoft's New Innovation Drive You Crazy, or Will It Surprise and Delight? Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-the-ops-movement-in-corporate-tech-landscapes-amidst-emerging-challenges-insights-from-zdnet/"><u>Embracing the 'Ops' Movement in Corporate Tech Landscapes Amidst Emerging Challenges - Insights From ZDNet</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-discover-the-ultimate-no-cost-iphone-image-arrangement-software/"><u>In 2024, Discover the Ultimate, No-Cost iPhone Image Arrangement Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-the-charge-how-enterprise-architects-are-driving-the-digital-transformation/"><u>Leading the Charge: How Enterprise Architects Are Driving the Digital Transformation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-self-cloning-craft-a-customized-ai-persona-for-enhanced-communication-learn-how-to-make-it-happen-today/"><u>Mastering Self-Cloning: Craft a Customized AI Persona for Enhanced Communication - Learn How to Make It Happen Today!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-windows-11-vm-setup-on-any-platform-step-by-step-instructions/"><u>Mastering Windows 11 VM Setup on Any Platform - Step-by-Step Instructions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-results-in-chatgpt-through-strategic-user-persona-development/"><u>Maximizing Results in ChatGPT Through Strategic User Persona Development</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/premier-alternatives-exceeding-the-limits-of-twitter/"><u>Premier Alternatives Exceeding the Limits of Twitter</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1726029612271-step-by-step-tutorial-for-transforming-mpeg-files-into-mp4-format-across-various-systems-updated/"><u>Step-by-Step Tutorial for Transforming MPEG Files Into MP4 Format Across Various Systems (Updated )</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-image-enhancement-made-simple-how-to-inject-text-into-pictures-on-windowsmacos/"><u>[New] Image Enhancement Made Simple How to Inject Text Into Pictures on Windows/MacOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-audacity-over-convenience-bank-cios-call-to-elevate-ai-challenges-dismiss-lazy-prompt-creation-exclusive-on-zdnet/"><u>Embracing Audacity Over Convenience: Bank CIO's Call to Elevate AI Challenges, Dismiss Lazy Prompt Creation - Exclusive on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-opportunities-for-new-players-in-the-ai-model-development-arena-insights-from-zdnet/"><u>Exploring Opportunities for New Players in the AI Model Development Arena - Insights From ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-13-pro-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 13 Pro Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-chaptered-videos-on-vimeo-a-comprehensible-guide/"><u>In 2024, Chaptered Videos on Vimeo A Comprehensible Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From iPhone SE (2022)?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-ai-limitations-an-in-depth-look-at-precision-challenges-by-zdnet/"><u>Mastering AI Limitations: An In-Depth Look at Precision Challenges by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-digital-defense-the-urgent-call-for-enhanced-cybersecurity-expertise-amidst-legacy-system-challenges/"><u>Navigating the Digital Defense: The Urgent Call for Enhanced Cybersecurity Expertise Amidst Legacy System Challenges</u></a></li>
 </ul></div>
 

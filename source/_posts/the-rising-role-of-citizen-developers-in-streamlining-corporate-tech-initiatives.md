@@ -1,7 +1,7 @@
 ---
 title: The Rising Role of Citizen Developers in Streamlining Corporate Tech Initiatives
-date: 2024-10-01T18:33:00.294Z
-updated: 2024-10-06T16:44:55.666Z
+date: 2024-10-08T19:24:39.336Z
+updated: 2024-10-12T07:20:48.693Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +181,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-a-step-by-step-approach-to-popularizing-instagram-posts/"><u>[New] A Step-by-Step Approach to Popularizing Instagram Posts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-discover-a-broad-array-top-15-cams-not-like-gopro/"><u>[New] In 2024, Discover a Broad Array Top 15 Cams Not Like GoPro</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-achieve-video-excellence-learn-the-studio-editor-way/"><u>2024 Approved Achieve Video Excellence Learn the Studio Editor Way</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-deep-dive-into-microsofts-bing-chat-and-its-use-of-advanced-ai-like-gpt-4/"><u>A Deep Dive Into Microsoft's Bing Chat and Its Use of Advanced AI Like GPT-4</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-guide-to-evaluating-gpt-powered-conversational-agents-insights-and-recommendations/"><u>Essential Guide to Evaluating GPT-Powered Conversational Agents - Insights & Recommendations</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-itel-p55plus-screen-sharing-drfone-by-drfone-android/"><u>How To Do Itel P55+ Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-cameras-boosting-podcast-clarity-for-2024/"><u>Ideal Cameras Boosting Podcast Clarity for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-expert-analysis-top-9-digital-recording-tools-assessed/"><u>In 2024, Expert Analysis Top 9 Digital Recording Tools Assessed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-eva-ai-by-ex-journey-the-ultimate-chatbot-review/"><u>In-Depth Analysis: EVA AI by Ex Journey - The Ultimate Chatbot Review</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-windows-10-system-cache-with-ease/"><u>Step-by-Step Guide: Clearing Windows 10 System Cache with Ease</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-gpt-powered-ai-chatbot-comprehensive-insights-and-reviews/"><u>Top Rated GPT-Powered AI Chatbot: Comprehensive Insights & Reviews</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-of-chatsonic-in-depth-analysis-and-key-takeawutes-for-mastery-over-the-advanced-ai-chatterbot/"><u>Unlocking the Secrets of Chatsonic: In-Depth Analysis and Key Takeawutes for Mastery over the Advanced AI Chatterbot</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-bing-chat-interacting-with-artificial-intelligence-via-gpt-technology/"><u>Unveiling the Power of Bing Chat: Interacting with Artificial Intelligence via GPT Technology</u></a></li>
+<li><a href="https://fox-access.techidaily.com/chromebooks-finest-drawing-software-compared-for-2024/"><u>Chromebook's Finest Drawing Software Compared for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/collaborative-effort-between-sonys-ai-division-and-ai-singapore-on-advanced-language-models-insights-from-zdnet/"><u>Collaborative Effort Between Sony's AI Division and AI Singapore on Advanced Language Models - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gaming-setup-with-tv-tuning-guide/"><u>Elevate Your Gaming Setup with TV Tuning Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-obs-tutorial-for-effective-skype-recording/"><u>Expert OBS Tutorial for Effective Skype Recording</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-concept-of-immutable-systems-in-linux-key-advantages-for-stable-and-secure-operations-it-security-hub/"><u>Exploring the Concept of Immutable Systems in Linux: Key Advantages for Stable and Secure Operations | IT Security Hub</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1728497288530-gmail3/"><u>Gmailから消えたメールの回復方法：3つの手順ガイド</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-itunes-recording-proven-techniques-for-success/"><u>In 2024, ITunes Recording Proven Techniques for Success</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-with-legends-top-history-youtube-content-for-learners/"><u>Learning with Legends Top History YouTube Content for Learners</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prepare-now-top-five-actions-to-take-with-your-windows-10-pc-before-end-of-service-in-a-years-time-insights-from-zdnet/"><u>Prepare Now: Top Five Actions to Take with Your Windows 10 PC Before End of Service in a Year's Time - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-power-of-concealment-leveraging-anonymity-to-strengthen-your-virtual-workforce-zdnet/"><u>The Power of Concealment: Leveraging Anonymity to Strengthen Your Virtual Workforce | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-lms-solutions-reviewed-comprehensive-guide-zdnet/"><u>Top Rated LMS Solutions Reviewed: Comprehensive Guide | ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-a-safer-social-media-experience-with-facebooks-streamlined-privacy-control/"><u>Unlocking a Safer Social Media Experience with Facebook’s Streamlined Privacy Control</u></a></li>
 </ul></div>
 

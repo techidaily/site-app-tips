@@ -1,7 +1,7 @@
 ---
 title: Empowering Citizen Developers in Modern Business Workflows
-date: 2024-09-23T17:13:48.625Z
-updated: 2024-09-25T17:22:34.648Z
+date: 2024-10-06T20:29:36.697Z
+updated: 2024-10-12T07:14:12.796Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +187,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-converging-computer-visuals-flawlessly/"><u>[New] In 2024, Converging Computer Visuals Flawlessly</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unlock-advanced-broadcast-techniques-with-obs-on-youtube-and-twitch/"><u>[New] In 2024, Unlock Advanced Broadcast Techniques with OBS on YouTube & Twitch</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unlocking-the-secrets-to-outstanding-documentary-storytelling/"><u>[New] In 2024, Unlocking the Secrets to Outstanding Documentary Storytelling</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-record-to-remember-top-5-best-tools-for-virtual-meeting-capture-for-2024/"><u>[New] Record to Remember Top 5 Best Tools for Virtual Meeting Capture for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-full-application-review-with-az-video-loggers-for-2024/"><u>[Updated] Full Application Review with AZ Video Loggers for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/an-insightful-guide-to-choosing-between-elevenlabs-genvoice-ai-and-competitor-products/"><u>An Insightful Guide to Choosing Between ElevenLabs' GenVoice AI and Competitor Products</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-chatsonic-the-complete-guide-to-understanding-this-innovative-ai-chatbot/"><u>Comprehensive Analysis of Chatsonic: The Complete Guide to Understanding This Innovative AI Chatbot</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-elevenlabs-generative-voice-ai-and-comparable-options/"><u>Comprehensive Analysis: ElevenLabs' Generative Voice AI & Comparable Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-top-10-innovative-ai-chatbots-for-superior-conversations/"><u>Experience Next-Level Interaction: Top 10 Innovative AI Chatbots for Superior Conversations</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-lava-blaze-2-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Lava Blaze 2 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-premium-top-11-list-audio-recording-essentials/"><u>In 2024, Premium Top 11 List - Audio Recording Essentials</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-microsofts-bing-chat-feature-using-advanced-ai-and-gpt-4/"><u>In-Depth Analysis of Microsoft's Bing Chat Feature Using Advanced AI & GPT-4</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premier-video-cutting-software-recommendations-for-windows-users/"><u>Premier Video Cutting Software Recommendations for Windows Users</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-narzo-n55-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme Narzo N55 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-champion-of-ai-bots-in-depth-review-of-chatgpt-for-next-level-conversations/"><u>Unveiling the Champion of AI Bots: In-Depth Review of ChatGPT for Next-Level Conversations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-pros-and-cons-a-deep-dive-into-elevenlabs-ai-innovation/"><u>Unveiling the Pros and Cons: A Deep Dive Into ElevenLabs' AI Innovation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-master-adding-youtube-videos-to-gslides-a-step-by-step-guide/"><u>[New] 2024 Approved Master Adding YouTube Videos to GSlides A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-digital-diaries-blending-visuals-with-audio-threads-for-2024/"><u>[Updated] Digital Diaries Blending Visuals with Audio Threads for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breezy-blogging-quick-video-concept-ideas/"><u>Breezy Blogging Quick Video Concept Ideas</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cerebras-releases-revolutionary-wse-section-1-advanced-problem-on-antenna-ground-systems/"><u>Cerebras Releases Revolutionary WSE- # Section 1: Advanced Problem on Antenna Ground Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-panic-windows-11-users-discover-5-effective-strategies-before-official-end-of-service-zdnet/"><u>Don't Panic, Windows 11 Users! Discover 5 Effective Strategies Before Official End of Service | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/h264-video-playback-issues-on-windows-10-and-how-to-resolve-them/"><u>H.264 Video Playback Issues on Windows 10 and How to Resolve Them</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-handle-previewed-activities-on-facebook/"><u>How to Handle Previewed Activities on Facebook</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-rx250-driver-download-for-windows-7810/"><u>Logitech RX250 Driver Download for Windows 7/8/10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-hurdles-in-ai-implementation-key-takeawives-from-deloitte-survey-zdnet/"><u>Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/sonys-collaboration-with-ai-singapore-fuels-development-of-advanced-large-language-models/"><u>Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-great-microsoft-teams-debacle-how-boss-clash-over-communication-tools-shook-an-office/"><u>The Great Microsoft Teams Debacle: How Boss Clash Over Communication Tools Shook an Office</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-insiders-look-at-configuring-a-powerful-zoom-room/"><u>The Insider's Look at Configuring a Powerful Zoom Room</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo V27 Pro | Dr.fone</u></a></li>
 </ul></div>
 

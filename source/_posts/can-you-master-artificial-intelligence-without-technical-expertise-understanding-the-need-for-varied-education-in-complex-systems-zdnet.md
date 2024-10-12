@@ -1,7 +1,7 @@
 ---
 title: Can You Master Artificial Intelligence Without Technical Expertise? Understanding the Need for Varied Education in Complex Systems | ZDNET
-date: 2024-09-18 22:50:22
-updated: 2024-09-20 12:55:27
+date: 2024-10-09T09:47:48.037Z
+updated: 2024-10-12T10:47:52.480Z
 tags:
   - digital-transformation
 categories:
@@ -86,11 +86,46 @@ Certain evergreen skills will still be in demand for the foreseeable future, say
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-strategy-for-elevating-your-video-visibility/"><u>[New] 2024 Approved The Ultimate Strategy for Elevating Your Video Visibility</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-from-idea-to-airtime-crafting-compelling-content-live-for-2024/"><u>[New] From Idea to Airtime Crafting Compelling Content Live for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ow-to-shuffle-youtube-playlist/"><u>[New] How to Shuffle YouTube Playlist</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-techniques-for-capturing-wide-angle-360-photos-effortlessly/"><u>[New] In 2024, Techniques for Capturing Wide Angle 360 Photos Effortlessly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-insiders-guide-recording-high-octane-play/"><u>[New] Insider's Guide Recording High-Octane Play</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-essence-of-authenticity-applying-personalized-watermarks-in-insta-for-2024/"><u>[New] The Essence of Authenticity Applying Personalized Watermarks in Insta for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-perfectly-prepared-videos-a-guide-to-instagram-fitness/"><u>[Updated] In 2024, Perfectly Prepared Videos A Guide to Instagram Fitness</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-budget-friendly-android-block-puzzles-expert-reviews-and-how-to-get-them/"><u>Best Budget-Friendly Android Block Puzzles - Expert Reviews & How to Get Them</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-youcut-tool-insights-and-essential-information/"><u>Comprehensive Guide to YouCut Tool : Insights & Essential Information</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-wifi-code-finder-for-android-devices-unlock-and-organize-your-connections-with-our-password-manager/"><u>Easy WiFi Code Finder for Android Devices: Unlock and Organize Your Connections with Our Password Manager</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-your-photography-skills-iphone-camera-tricks-and-effective-techniques/"><u>Enhancing Your Photography Skills: IPhone Camera Tricks & Effective Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620189235-get-your-favorite-android-games-on-lockdown-the-ultimate-list-of-20-free-full-version-apks-to-download-today/"><u>Get Your Favorite Android Games on Lockdown: The Ultimate List of 20 Free, Full-Version APKs to Download Today</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-emoji-use-in-android-a-step-by-step-tutorial/"><u>Mastering Emoji Use in Android - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/most-effective-iphone-surveillance-software-your-ultimate-guide-to-discreet-monitoring-tools/"><u>Most Effective iPhone Surveillance Software: Your Ultimate Guide to Discreet Monitoring Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reset-and-refresh-your-macbook-pro-with-these-simple-steps/"><u>Reset and Refresh Your MacBook Pro with These Simple Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-choice-affordable-samsung-mp3-players-compatible-with-galaxy-s8-s9-and-pcs-both-free-and-premium-options-available/"><u>Top Choice Affordable Samsung MP3 Players: Compatible with Galaxy S8, S9 & PCs [Both Free & Premium Options Available]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-choosing-the-best-app-to-check-if-your-android-is-rooted/"><u>Ultimate Guide: Choosing the Best App to Check if Your Android Is Rooted</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-lava-storm-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Lava Storm 5G.</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

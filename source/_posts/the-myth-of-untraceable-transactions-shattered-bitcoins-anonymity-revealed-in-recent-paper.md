@@ -1,7 +1,7 @@
 ---
 title: "The Myth of Untraceable Transactions Shattered: Bitcoin's Anonymity Revealed in Recent Paper"
-date: 2024-10-02T18:50:06.798Z
-updated: 2024-10-06T18:59:31.716Z
+date: 2024-10-10T21:48:10.851Z
+updated: 2024-10-11T16:43:27.782Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -61,10 +61,16 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -121,17 +127,19 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unseen-glimpse-of-fb-stories/"><u>[New] In 2024, Unseen Glimpse of FB Stories</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-strategizing-superior-screen-snatchers/"><u>[Updated] 2024 Approved Strategizing Superior Screen-Snatchers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-magic-5-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Magic 5</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advancing-ai-responsibly-with-open-source-innovations-insights-from-zdnet/"><u>Advancing AI Responsibly with Open Source Innovations - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/immutable-linux-explained-how-a-static-system-can-enhance-your-it-infrastructure/"><u>Immutable Linux Explained: How a Static System Can Enhance Your IT Infrastructure</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-15-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 15 Plus to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/insecurity-in-linux-based-systems-latest-findings-reveal-yes-with-potential-fixes-insights-from-a-new-study-zdnet/"><u>Insecurity in Linux-Based Systems: Latest Findings Reveal Yes with Potential Fixes - Insights From a New Study | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/is-microsofts-new-release-bound-to-irk-users-or-surprise-them-positively-insights-from-zdnet/"><u>Is Microsoft's New Release Bound to Irk Users, or Surprise Them Positively? Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-latest-feature-ignites-controversy-unseen-release-sparks-user-backlash/"><u>Microsoft's Latest Feature Ignites Controversy – Unseen Release Sparks User Backlash</u></a></li>
-<li><a href="https://program-issues.techidaily.com/regain-control-in-terraria-top-6-methods-to-restore-a-disconnected-game/"><u>Regain Control in Terraria: Top 6 Methods to Restore a Disconnected Game</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-is-avs-video-editor-worth-it-a-comprehensive-review-for-2024/"><u>Updated Is AVS Video Editor Worth It? A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/m4b-mp3-online-movavi/"><u>무료 M4B 대화클러스터 MP3로의 Online 전환기 - Movavi</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-master-the-art-of-fb-video-ads-with-a-complimentary-kit/"><u>[New] In 2024, Master the Art of FB Video Ads with a Complimentary Kit</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-smallscreen-capture-critique-plus-options/"><u>[New] SmallScreen Capture Critique + Options</u></a></li>
+<li><a href="https://common-error.techidaily.com/repaired-comprehensive-tips-to-correct-the-pervasive-red-screen-of-death-problem/"><u>[REPAIRED] Comprehensive Tips to Correct the Pervasive 'Red Screen of Death' Problem</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-harnessing-lut-power-for-free-high-quality-colorization/"><u>[Updated] Harnessing LUT Power for Free, High-Quality Colorization</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-future-is-now-hot-10-vr-gear-options/"><u>[Updated] In 2024, The Future Is Now Hot 10 VR Gear Options</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-a-list-ps3-mimicry-software-on-pcs-ranked-1-5/"><u>2024 Approved A-List PS3 Mimicry Software on PCs, Ranked #1-5</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-se-2020-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone SE (2020) without Security Questions?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-maximize-your-visuals-on-zoom-the-definitive-guide/"><u>In 2024, Maximize Your Visuals on Zoom – The Definitive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/itunes-backup-file-restoration-how-to-retrieve-deleted-or-lost-ios-content-from-your-itunes-archive/"><u>ITunes Backup File Restoration: How to Retrieve Deleted or Lost iOS Content From Your iTunes Archive</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lost-your-itunes-account-passcode-discover-the-top-methods-to-retrieve-it/"><u>Lost Your iTunes Account Passcode? Discover the Top Methods to Retrieve It</u></a></li>
+<li><a href="https://app-tips.techidaily.com/move-it-like-that-a-guide-for-shifting-itunes-lists-onto-usb-drives-across-windows-and-mac-systems/"><u>Move It Like That: A Guide for Shifting iTunes Lists Onto USB Drives Across Windows and Mac Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/resolve-constant-itunes-password-prompts-on-your-iphone-with-this-simple-guide/"><u>Resolve Constant ITunes Password Prompts on Your iPhone with This Simple Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-steps-converting-your-avi-videos-into-apples-itunes-format-for-ios-devices/"><u>Simple Steps: Converting Your AVI Videos Into Apple's iTunes Format for iOS Devices</u></a></li>
 </ul></div>
 

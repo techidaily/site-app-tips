@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Obstacles to Leveraging Generative AI in Business Practices: Key Findings From Recent Deloitte Research, Explored by ZDNET"
-date: 2024-09-30T11:44:17.750Z
-updated: 2024-10-01T00:56:54.433Z
+date: 2024-10-08T07:20:24.119Z
+updated: 2024-10-11T17:47:43.971Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +187,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-picks-for-retro-play-5-expert-picked-psone-emulators/"><u>[New] 2024 Approved Top Picks for Retro Play 5 Expert-Picked PsOne Emulators</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-win-gpgpu-capabilities-using-1-6-tools/"><u>Enhance Win GPGPU Capabilities Using #1-#6 Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-challenges-to-unlock-the-economic-potential-of-ai-in-business-insights-from-zdnet/"><u>Overcoming Challenges to Unlock the Economic Potential of AI in Business - Insights From ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-infinix-note-30-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Infinix Note 30</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fix-your-microsoft-flight-simulator-2amstuckatupdatescreen-woes-today/"><u>Resolved: Fix Your Microsoft Flight Simulator 2amstuckatUpdateScreen Woes Today!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smart-study-habits-how-students-should-steer-clear-of-misusing-chatgpt/"><u>Smart Study Habits: How Students Should Steer Clear of Misusing ChatGPT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-end-of-point-and-click-era-exploring-ais-role-in-transforming-user-interfaces-zdnet/"><u>The End of Point-and-Click Era: Exploring AI's Role in Transforming User Interfaces | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-here-exploring-the-revolutionary-impact-of-ai-agents-on-our-careers-and-industries-zdnet-insights/"><u>The Future Is Here: Exploring the Revolutionary Impact of AI Agents on Our Careers and Industries | ZDNET Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-generative-ai-wave-transforming-workflow-how-automation-impacts-coding-jobs-techzine/"><u>The Generative AI Wave Transforming Workflow: How Automation Impacts Coding Jobs | TechZine</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-activating-your-new-echo-dots-setup-mode/"><u>Ultimate Guide: Activating Your New Echo Dot's Setup Mode</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-next-big-thing-the-quest-for-an-unprecedented-5g-game-changer-beyond-simple-connections-insights-from-zdnet/"><u>Unveiling the Next Big Thing: The Quest for an Unprecedented 5G Game-Changer Beyond Simple Connections - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-truth-five-common-errors-in-understanding-data-revenue-strategies-on-zdnet/"><u>Unveiling the Truth: Five Common Errors in Understanding Data Revenue Strategies on ZDNet</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-expert-tips-for-blending-multiple-hdr-photographs-in-lightroom-for-2024/"><u>[New] Expert Tips for Blending Multiple HDR Photographs in Lightroom for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-easy-android-image-fixes/"><u>2024 Approved Top 5 Easy Android Image Fixes</u></a></li>
+<li><a href="https://win-web3.techidaily.com/54sh5paz44gn44ov44kh44kk44or44o744ov44kp44or44oa44o844gu44oq44od44kv44ki44od44ox5oml6acg44gr44gk44ge44gm5a2m44g2/"><u>無料でファイル・フォルダーのバックアップ手順について学ぶ</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-mobile-games-hacking-tools-on-android-rooted-and-non-rooted-options/"><u>Best 10 Mobile Games Hacking Tools on Android: Rooted & Non-Rooted Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027269240-clipchamp/"><u>Clipchampにおけるビデオ音削除テクニック</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-vsco-features-advantages-disadvantages-and-top-substitutes/"><u>Comprehensive Guide: Understanding VSCO – Features, Advantages, Disadvantages, and Top Substitutes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-chromes-full-screen-multitasking-capabilities-for-2024/"><u>Explore Chrome's Full-Screen Multitasking Capabilities for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/husqvarnas-skyward-leap-with-the-new-h501x4-drone-insights/"><u>Husqvarna's Skyward Leap with the New H501X4 Drone Insights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-for-secure-xbox-360-controller-driver-downloads/"><u>Step-by-Step Tutorial for Secure Xbox 360 Controller Driver Downloads</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-15-mobile-workout-apps-ideal-for-both-ios-and-android-devices/"><u>Top 15 Mobile Workout Apps: Ideal for Both iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-15-health-and-fitness-apps-compatible-with-apple-and-android-phones/"><u>Ultimate Selection of 15 Health and Fitness Apps Compatible with Apple & Android Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-the-mystery-of-the-bnsf-emulator-thorough-assessment-and-interpretation/"><u>Unraveling the Mystery of the BNSF Emulator: Thorough Assessment and Interpretation</u></a></li>
 </ul></div>
 

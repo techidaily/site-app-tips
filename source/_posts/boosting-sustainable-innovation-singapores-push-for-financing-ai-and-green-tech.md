@@ -1,7 +1,7 @@
 ---
 title: "Boosting Sustainable Innovation: Singapore's Push for Financing AI & Green Tech"
-date: 2024-09-18 13:27:53
-updated: 2024-09-20 12:53:30
+date: 2024-10-05T16:21:15.999Z
+updated: 2024-10-11T20:16:27.668Z
 tags:
   - digital-transformation
 categories:
@@ -96,11 +96,40 @@ Furthermore, Singapore could look to calibrate its property tax policies to offe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-key-players-in-asmr-youtube-world/"><u>[New] Key Players in ASMR YouTube World</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-visualizing-warriors-for-2024/"><u>[New] Visualizing Warriors for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-saturating-the-market-precision-in-sharing-through-shorts/"><u>[Updated] In 2024, Saturating the Market Precision in Sharing Through Shorts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-organizing-your-iphones-picture-collection-from-sorting-to-icloud-backing-up/"><u>2024 Approved Organizing Your iPhone's Picture Collection From Sorting to iCloud Backing Up</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1728481125429-ssd/"><u>徹底的なチュア：コピアSSDにおけるホステッドバック制御の実践手順</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bing-chat-explored-in-depth-insights-on-ai-and-gpt-4-integration/"><u>Bing Chat Explored: In-Depth Insights on AI and GPT-4 Integration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-chatgpt-2024-unveiling-key-functionalities-and-resolving-internal-errors/"><u>Complete Guide to ChatGPT 2024: Unveiling Key Functionalities and Resolving Internal Errors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-everything-you-need-to-know-about-the-renamed-eva-ai-bot-formerly-known-as-ex-journey/"><u>Discover Everything You Need to Know About the Renamed EVA AI Bot: Formerly Known as Ex Journey</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-asus-rog-phone-7-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Asus ROG Phone 7 Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-overview-of-the-newest-ai-powered-chatbots-integrating-gpt-and-astrology/"><u>Top Rated Overview of the Newest AI-Powered Chatbots: Integrating GPT and Astrology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-chatting-world-with-top-10-innovative-ai-chatbot-solutions/"><u>Transform Your Chatting World with Top 10 Innovative AI Chatbot Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-download-to-upload-the-art-of-online-video-editing/"><u>Updated 2024 Approved From Download to Upload The Art of Online Video Editing</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

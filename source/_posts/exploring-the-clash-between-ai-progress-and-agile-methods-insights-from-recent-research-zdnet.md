@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Clash Between AI Progress & Agile Methods: Insights From Recent Research - ZDNet"
-date: 2024-09-18 23:43:28
-updated: 2024-09-20 10:12:48
+date: 2024-10-10T17:27:36.806Z
+updated: 2024-10-11T23:30:37.535Z
 tags:
   - digital-transformation
 categories:
@@ -89,11 +89,34 @@ Finally, as noted above, the report suggested AI is not a magic wand and has lim
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/solved-hardware-and-drivers-sync/"><u>[Solved: Hardware & Drivers Sync</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tech-titans-select-top-10-video-capture-apps/"><u>[Updated] Tech Titans Select Top 10 Video Capture Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-guide-to-iphone-podcast-downloads/"><u>2024 Approved Comprehensive Guide to iPhone Podcast Downloads</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-gain-an-edge-in-views-with-these-5-youtube-thumbnail-creators/"><u>2024 Approved Gain an Edge in Views with These 5 YouTube Thumbnail Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unleash-creativity-fast-windows-10-photo-edits-made-simple/"><u>2024 Approved Unleash Creativity Fast Windows 10 Photo Edits Made Simple</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/analyzing-pewdiepies-financial-growth-and-revenue-for-2024/"><u>Analyzing PewDiePie’s Financial Growth and Revenue for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-6-cross-platform-explorers-navigating-iphones-on-windows-and-macos/"><u>Best 6 Cross-Platform Explorers: Navigating iPhones on Windows & macOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-guide-unveiling-the-power-of-videoleap-in-2/"><u>Essential Guide: Unveiling the Power of Videoleap in 2</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-unbiased-insight-a-complete-airwatch-reviews-for-informed-decision-making/"><u>Essential Unbiased Insight: A Complete AirWatch Reviews for Informed Decision Making</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-12-proplus-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme 12 Pro+ 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/optimize-your-business-with-cutting-edge-android-mdm-options-and-features/"><u>Optimize Your Business With Cutting-Edge Android MDM Options and Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-imovie-audio-playbook/"><u>The Ultimate iMovie Audio Playbook</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-itel-p40-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Itel P40 | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

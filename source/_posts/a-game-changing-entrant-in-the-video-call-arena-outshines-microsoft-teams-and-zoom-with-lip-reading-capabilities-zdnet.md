@@ -1,7 +1,7 @@
 ---
 title: A Game-Changing Entrant in the Video Call Arena Outshines Microsoft Teams and Zoom with Lip-Reading Capabilities | ZDNet
-date: 2024-10-04T17:08:28.837Z
-updated: 2024-10-06T17:55:08.124Z
+date: 2024-10-07T02:20:10.913Z
+updated: 2024-10-12T06:16:27.974Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +193,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-checklist-preparing-your-room-and-pc-for-oculus-rift/"><u>[Updated] Ultimate Checklist Preparing Your Room and PC for Oculus Rift</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-mastering-canvass-skin-removal-an-experts-handbook/"><u>2024 Approved Mastering Canvas's Skin Removal An Expert's Handbook</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exclusive-offer-on-jem-authenticator-and-password-manager-enhance-login-security-with-ease-dive-into-zdnet/"><u>Exclusive Offer on JEM Authenticator & Password Manager: Enhance Login Security with Ease - Dive Into ZDNet!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-cryptocom-ceo-tackles-login-challenges-post-31-million-hack-incident-covered-by-zdnet/"><u>How Crypto.com CEO Tackles Login Challenges Post $31 Million Hack Incident Covered by ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-40-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 40 Phone without PIN</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-economics-of-entertainment-pewdiepies-profit/"><u>In 2024, The Economics of Entertainment PewDiePie's Profit</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-examination-of-1password-maximizing-security-with-high-value-for-your-dollar-a-comprehensive-review-by-zdnets-experts/"><u>In-Depth Examination of 1Password: Maximizing Security with High Value for Your Dollar - A Comprehensive Review by ZDNet's Experts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mitarbeiterbindung-durch-ki-optimierte-zugriffsmethoden-auf-dokumentdaten/"><u>Mitarbeiterbindung Durch KI - Optimierte Zugriffsmethoden Auf Dokumentdaten</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-dashlanes-offerings-price-breakdown-features-unveiled-and-step-by-step-setup-tutorial-cyberwisezine/"><u>Navigating Dashlane's Offerings: Price Breakdown, Features Unveiled & Step-by-Step Setup Tutorial | CyberWiseZine</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-issue-what-to-do-when-you-encounter-a-missing-winhttpdll-file/"><u>Resolving the Issue: What To Do When You Encounter a Missing Winhttp.dll File</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-account-with-2fa-integrating-githubs-new-feature-using-iphone-and-android-devices/"><u>Secure Your Account with 2FA: Integrating GitHub's New Feature Using iPhone & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-digital-keykeeper-essential-steps-for-safer-password-management-zdnet/"><u>Securing Your Digital Keykeeper: Essential Steps for Safer Password Management | ZDNet</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ultimate-expertise-full-guide-to-record-your-macscreens-for-2024/"><u>The Ultimate Expertise Full Guide to Record Your MacScreens for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unveiling-the-performance-of-asus-zenwifi-xt8-ax6600-the-ultimate-mesh-wifi-solution/"><u>Unveiling the Performance of Asus ZenWiFi XT8 AX6600: The Ultimate Mesh WiFi Solution</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-key-role-of-youtube-trailers-in-enhancing-revenue/"><u>[Updated] 2024 Approved The Key Role of YouTube Trailers in Enhancing Revenue</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/44cm5oqw6zplusz44gr5lplusd5a2y44gv44km44gf5yuv55s744ks5a6j5ywo44gr44oa44km44oz44ot44o844oj44gz44kl57ch5y2y44ks44kk44oj44cn/"><u>「抖音に保存された動画を安全にダウンロードする簡単ガイド」</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-unlocking-viewership-steps-for-your-video-to-be-a-top-pick-on-vimeo/"><u>2024 Approved Unlocking Viewership Steps for Your Video to Be a Top Pick on Vimeo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/access-chatgpt-on-mac-without-paying-free-access-now-available/"><u>Access ChatGPT on Mac Without Paying: Free Access Now Available</u></a></li>
+<li><a href="https://app-tips.techidaily.com/as-the-skills-shortage-in-data-analytics-intensifies-discover-how-a-forward-thinking-enterprise-is-addressing-it-zdnet/"><u>As the Skills Shortage in Data Analytics Intensifies, Discover How a Forward-Thinking Enterprise Is Addressing It | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/busting-top-5-fallacies-surrounding-the-profitability-of-data-sharing-techwise-insights/"><u>Busting Top 5 Fallacies Surrounding the Profitability of Data Sharing | TechWise Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-you-master-artificial-intelligence-without-technical-expertise-understanding-the-need-for-varied-education-in-complex-systems-zdnet/"><u>Can You Master Artificial Intelligence Without Technical Expertise? Understanding the Need for Varied Education in Complex Systems | ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-14-ultra-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi 14 Ultra 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-employ-chatgpt-as-an-efficient-polyglot-assistant/"><u>How To Employ ChatGPT As An Efficient Polyglot Assistant</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-6-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 6</u></a></li>
+<li><a href="https://app-tips.techidaily.com/study-reveals-challenges-at-the-intersection-of-ai-innovation-and-agile-methodologies-insights-from-zdnet/"><u>Study Reveals Challenges at the Intersection of AI Innovation and Agile Methodologies: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/surpassing-artificial-intelligence-the-rapid-rise-of-the-next-tech-trend/"><u>Surpassing Artificial Intelligence: The Rapid Rise of the Next Tech Trend</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-power-of-language-models-at-your-fingertnails-explore-the-new-chatgpt-app-on-ios/"><u>The Power of Language Models at Your Fingertnails: Explore the New ChatGPT App on iOS!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-real-deal-on-pursuing-a-career-as-a-devops-professional-pros-cons-and-challenges-techinsights/"><u>The Real Deal on Pursuing a Career as a DevOps Professional – Pros, Cons & Challenges | TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-of-low-codeno-code-development-understanding-whos-ready-to-embrace-it-perspectives-by-zdnet/"><u>The Rising Popularity of Low-Code/No-Code Development: Understanding Who's Ready to Embrace It | Perspectives by ZDNET</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-35-smile-makers-for-photo-fun-on-android-and-ios-for-2024/"><u>Top 35 Smile Makers for Photo Fun on Android & iOS for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-ui-interactions-the-rise-of-generative-ai-and-the-end-of-traditional-cursor-controls-insights-from-zdnet/"><u>Transforming UI Interactions: The Rise of Generative AI and the End of Traditional Cursor Controls - Insights From ZDNet</u></a></li>
 </ul></div>
 

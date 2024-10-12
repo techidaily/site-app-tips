@@ -1,7 +1,7 @@
 ---
 title: "1. Transforming Business: The Effects of Decentralization & Web3 on Corporations - Insights From ZDNet"
-date: 2024-10-01T18:00:25.796Z
-updated: 2024-10-06T18:32:40.472Z
+date: 2024-10-09T19:07:41.979Z
+updated: 2024-10-11T16:48:21.238Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-flawless-top-timelapse-capturer/"><u>[New] In 2024, Flawless Top Timelapse Capturer</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pioneering-adventures-the-ultimate-gaming-list-top-10/"><u>[New] In 2024, Pioneering Adventures The Ultimate Gaming List (Top 10)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-the-in-stream-ad-landscape-on-facebook/"><u>2024 Approved Navigating the In-Stream Ad Landscape on Facebook</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/celona-secures-60m-in-series-c-funding-drives-enterprise-5g-revolution-what-you-need-to-know/"><u>Celona Secures $60M in Series C Funding, Drives Enterprise 5G Revolution: What You Need to Know</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cerebras-releases-revolutionary-wse-section-1-advanced-problem-on-antenna-ground-systems/"><u>Cerebras Releases Revolutionary WSE- # Section 1: Advanced Problem on Antenna Ground Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dont-panic-windows-11-users-discover-5-effective-strategies-before-official-end-of-service-zdnet/"><u>Don't Panic, Windows 11 Users! Discover 5 Effective Strategies Before Official End of Service | ZDNET</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-update-error-code-0x8024002e-easily/"><u>How to Fix Windows Update Error Code 0X8024002E Easily!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-hurdles-in-ai-implementation-key-takeawives-from-deloitte-survey-zdnet/"><u>Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/perfected-framing-for-fb-videos-implement-letterbox-and-dark-frame-for-2024/"><u>Perfected Framing for FB Videos Implement Letterbox & Dark Frame for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rising-power-of-citizen-developers-in-driving-enterprise-software-innovation/"><u>Rising Power of Citizen Developers in Driving Enterprise Software Innovation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/sonys-collaboration-with-ai-singapore-fuels-development-of-advanced-large-language-models/"><u>Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-great-microsoft-teams-debacle-how-boss-clash-over-communication-tools-shook-an-office/"><u>The Great Microsoft Teams Debacle: How Boss Clash Over Communication Tools Shook an Office</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-recording-your-lol-adventures-for-2024/"><u>The Ultimate Guide to Recording Your LOL Adventures for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-desktop-distributions-reviewed-why-linux-mint-22-stands-out-above-the-rest/"><u>Top Desktop Distributions Reviewed - Why Linux Mint 22 Stands Out Above the Rest</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-projector-screens-a-comprehensive-guide/"><u>Top Rated Projector Screens : A Comprehensive Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-evaluation-of-vsdc-features-and-best-competitor-software-for-2024/"><u>[New] Expert Evaluation of VSDC Features and Best Competitor Software for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-capturing-attention-the-power-of-these-top-10-tags/"><u>[Updated] In 2024, Capturing Attention The Power of These Top 10 Tags</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-solutions-combating-it-professional-burnout-and-alert-overload-with-technology-insights-from-zdnet/"><u>AI Solutions: Combating IT Professional Burnout & Alert Overload with Technology Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-spearheads-the-surge-in-non-cash-payments-anticipated-global-reach-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Cash Payments: Anticipated Global Reach of $1.6 Trillion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choosing-ultrawide-vs-uhd-4k-displays-a-comprehensive-guide/"><u>Choosing UltraWide vs UHD 4K Displays A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-leaders-top-6-strategies-for-enhancing-executive-technological-proficiency-zdnet/"><u>Empowering Leaders: Top 6 Strategies for Enhancing Executive Technological Proficiency | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-manager-education-prior-to-enterprise-ai-adoption-lessons-by-zdnet/"><u>Essential Manager Education Prior to Enterprise AI Adoption - Lessons by ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-itel-s23-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Itel S23 Phones with/without a PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-asus-rog-phone-7-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Asus ROG Phone 7 Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-5-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic 5 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-professional-success-in-an-ai-driven-world-insights-from-industry-leaders/"><u>Navigating Professional Success in an AI-Driven World: Insights From Industry Leaders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-rise-of-agent-ecosystems-in-artificial-intelligence-future-service-domination/"><u>Navigating the Rise of Agent Ecosystems in Artificial Intelligence: Future Service Domination</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prioritize-manager-training-before-ai-deployment-insights-from-zdnet/"><u>Prioritize Manager Training Before AI Deployment: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-work-how-ai-agents-forge-a-new-era-in-employment-insights-from-zdnet/"><u>Revolutionizing Work: How AI Agents Forge a New Era in Employment - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/southwest-passengers-excited-as-delta-reveals-bland-update-whats-at-stake-for-the-airlines-industry/"><u>Southwest Passengers Excited as Delta Reveals Bland Update: What's at Stake for the Airlines Industry?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-reno-11-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo Reno 11 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208459667-treatment-options-may-include-surgery-radiation-therapy-chemotherapy-targeted-therapy-or-a-combination-of-these-modalities/"><u>Treatment Options May Include Surgery, Radiation Therapy, Chemotherapy, Targeted Therapy, or a Combination of These Modalities</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-restoring-functionality-to-a-non-responsive-discord-webcam/"><u>Troubleshooting Guide: Restoring Functionality to a Non-Responsive Discord Webcam</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-oppo-a79-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Oppo A79 5G.</u></a></li>
 </ul></div>
 

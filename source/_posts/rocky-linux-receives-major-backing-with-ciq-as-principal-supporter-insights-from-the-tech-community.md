@@ -1,7 +1,7 @@
 ---
 title: Rocky Linux Receives Major Backing with CIQ as Principal Supporter - Insights From the Tech Community
-date: 2024-10-03T17:55:19.253Z
-updated: 2024-10-06T16:00:50.973Z
+date: 2024-10-11T07:29:04.345Z
+updated: 2024-10-12T05:28:25.884Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,16 +181,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-hd-screen-recorders-the-finest-titles-for-2024/"><u>[Updated] Cutting-Edge HD Screen Recorders - The Finest Titles for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-eluding-youtube-ban-protective-measures/"><u>[Updated] In 2024, Eluding YouTube Ban Protective Measures</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-friend-in-disguise-ending-fb-ties/"><u>A Friend in Disguise: Ending FB Ties</u></a></li>
-<li><a href="https://app-tips.techidaily.com/apache-introduces-security-fix-in-version-2170-for-log4js-dos-issue-tech-news-by-zdnet/"><u>Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2020-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2020) without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/ideal-proportions-a-guide-to-video-aspect-ratios-for-2024/"><u>Ideal Proportions A Guide to Video Aspect Ratios for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-1password-why-this-top-tier-password-safe-is-a-smart-investment-tech-insights-from-zdnet/"><u>In-Depth Analysis of 1Password: Why This Top-Tier Password Safe Is a Smart Investment - Tech Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ry-into-youtubes-monetary-frequency/"><u>Inquiry Into YouTube's Monetary Frequency</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-password-manager-solutions-for-2cy2024-thoroughly-reviewed-by-tech-gurus-at-zdnet/"><u>Leading Password Manager Solutions for 2CY2024: Thoroughly Reviewed by Tech Gurus at ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/security-breach-lastpass-compromised-once-more-critical-update-from-zdnet/"><u>Security Breach: LastPass Compromised Once More - Critical Update From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/switch-from-lastpass-to-icloud-passwords-on-windows-a-step-by-step-guide-zdnet/"><u>Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-hear-anywhere-with-fb-tunes/"><u>[New] 2024 Approved Hear Anywhere with FB Tunes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-adding-audio-descriptions-to-videos-on-youtube/"><u>[Updated] 2024 Approved Adding Audio Descriptions to Videos on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-keeping-the-memories-efficiently-taking-screenshots-on-xbox-one/"><u>[Updated] 2024 Approved Keeping the Memories Efficiently Taking Screenshots on Xbox One</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-new-username-assignments-in-windows-11-edition/"><u>Conquering New UserName Assignments in Windows 11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-regaining-original-windows-configs/"><u>Expert Advice: Regaining Original Windows Configs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-secure-your-complimentary-windows-10-upgrade-tips-and-truths-by-zdnet/"><u>How to Secure Your Complimentary Windows 10 Upgrade: Tips & Truths by ZDNet</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-enrich-your-music-the-ultimate-photo-audio-integration-guide-sonic-visualization/"><u>New Enrich Your Music The Ultimate Photo-Audio Integration Guide Sonic Visualization</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-low-codeno-code-how-artificial-intelligence-is-reshaping-priorities-for-developers-insights-from-zdnet/"><u>Revolutionizing Low-Code/No-Code: How Artificial Intelligence Is Reshaping Priorities for Developers - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-journey-of-transforming-into-an-ai-leader-roles-and-qualifications-expert-guidance/"><u>The Journey of Transforming Into an AI Leader: Roles and Qualifications | Expert Guidance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-open-avenues-for-aspiring-competitors-to-advance-ai-technology/"><u>ZDNet Reveals Open Avenues for Aspiring Competitors to Advance AI Technology</u></a></li>
 </ul></div>
 

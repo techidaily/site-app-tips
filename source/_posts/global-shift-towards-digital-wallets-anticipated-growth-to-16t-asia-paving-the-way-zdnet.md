@@ -1,7 +1,7 @@
 ---
 title: Global Shift Towards Digital Wallets - Anticipated Growth to $1.6T, Asia Paving the Way | ZDNET
-date: 2024-09-18 19:17:23
-updated: 2024-09-20 11:55:17
+date: 2024-10-06T08:14:32.853Z
+updated: 2024-10-12T07:34:37.575Z
 tags:
   - digital-transformation
 categories:
@@ -84,11 +84,36 @@ The report noted that just 17% of banks are at an advanced stage -- where they a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-mastering-photo-capture-techniques-of-smart-hdr-3-and-4-modules/"><u>[New] In 2024, Mastering Photo Capture Techniques of Smart HDR 3 & 4 Modules</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quickcastpro-a-step-by-step-guide-for-flawless-podcast-streaming/"><u>[New] QuickCastPro A Step-by-Step Guide for Flawless Podcast Streaming</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-vision-unclouded-mastery-of-gopro-haze-prevention/"><u>[New] Vision Unclouded Mastery of GoPro Haze Prevention</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-exploring-roku-watching-facebook-live-effortlessly/"><u>[Updated] 2024 Approved Exploring Roku Watching Facebook Live Effortlessly</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-effortless-income-estimations-for-youtubers/"><u>2024 Approved Effortless Income Estimations for YouTubers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advance-your-career-with-cutting-edge-tech-more-than-ai-at-the-forefront-lessons-from-zdnet/"><u>Advance Your Career with Cutting-Edge Tech: More Than AI at the Forefront | Lessons From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-screenwriting-circle/"><u>Elite Screenwriting Circle</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-disparities-shape-our-progress-in-real-time-technology-breakthroughs-zdnet/"><u>How Disparities Shape Our Progress in Real-Time Technology Breakthroughs | ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essence-of-dji-inspire-2-distilled/"><u>In 2024, The Essence of DJI Inspire 2 Distilled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-inconsistencies-in-artificial-intelligence-expert-analysis-on-reliability-issues-zdnet/"><u>Overcoming Inconsistencies in Artificial Intelligence: Expert Analysis on Reliability Issues | ZDNET</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/riding-through-the-year-motorcycles-no-1-helmet-cameras-guide/"><u>Riding Through the Year - Motorcycle's No. 1 Helmet Cameras Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/tailored-titles-for-crafted-merged-and-oriented-videos-android/"><u>Tailored Titles for Crafted, Merged & Oriented Videos (Android)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-ai-watermarking-solutions-revealed-on-zdnet/"><u>The Definitive Guide to AI Watermarking Solutions - Revealed on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-work-how-ai-agents-define-the-new-era-and-transform-employment-landscape-permanently-insights-from-zdnet/"><u>The Future of Work: How AI Agents Define the New Era and Transform Employment Landscape Permanently - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unpacking-the-irony-of-automation-when-artificnial-intelligence-spurs-more-work-not-less-zdnet-insights/"><u>Unpacking the Irony of Automation: When Artificnial Intelligence Spurs More Work, Not Less | ZDNET Insights</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

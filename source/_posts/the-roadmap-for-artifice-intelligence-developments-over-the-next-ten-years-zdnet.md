@@ -1,7 +1,7 @@
 ---
 title: The Roadmap for Artifice Intelligence Developments Over the Next Ten Years | ZDNet
-date: 2024-10-05T17:21:33.902Z
-updated: 2024-10-06T19:00:01.478Z
+date: 2024-10-08T07:14:41.272Z
+updated: 2024-10-11T16:35:10.666Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +181,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-high-engagement-stories-filters-list/"><u>[New] 2024 Approved High-Engagement Stories Filters List</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-polishing-your-presentations-expert-video-editing-for-instagram-for-2024/"><u>[New] Polishing Your Presentations Expert Video Editing for Instagram for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-enhancing-social-media-engagement-with-branded-icons-on-instagram/"><u>[Updated] Enhancing Social Media Engagement with Branded Icons on Instagram</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-animators-playground-building-your-own-visual-treats/"><u>[Updated] In 2024, Animator’s Playground Building Your Own Visual Treats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-transferring-your-icloud-password-vault-on-and-off-macos/"><u>Comprehensive Guide: Transferring Your iCloud Password Vault on and Off macOS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/explore-the-leading-scanners-for-documents-and-images-2024s-finest-picks/"><u>Explore the Leading Scanners for Documents & Images: 2024'S Finest Picks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/icloud-email-update-tutorial-how-to-easily-alter-your-current-icloud-id/"><u>ICloud Email Update Tutorial: How To Easily Alter Your Current iCloud ID</u></a></li>
-<li><a href="https://app-tips.techidaily.com/icloud-photo-sharing-a-beginners-complete-step-by-step-tutorial/"><u>ICloud Photo Sharing: A Beginner's Complete Step-by-Step Tutorial</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-making-it-big-on-youtube-your-strategy-playbook/"><u>In 2024, Making It Big on YouTube Your Strategy Playbook</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-mac-green-screen-editing-a-review-of-the-top-software-choices/"><u>New Mac Green Screen Editing A Review of the Top Software Choices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/syncing-soundtracks-with-pals-using-spotifys-shared-likes/"><u>Syncing Soundtracks with Pals Using Spotify's Shared Likes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-3-methods-to-remove-ebooks-from-your-icloud-library-freeing-up-space/"><u>Top 3 Methods to Remove eBooks From Your iCloud Library, Freeing Up Space</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-methods-for-transferring-icloud-tunes-to-ios-and-mac-a-comprehensive-guide/"><u>Top 5 Methods for Transferring iCloud Tunes to iOS and Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-icloud-message-accessibility-a-comprehensive-approach-for-enabling-your-emails/"><u>Troubleshooting iCloud Message Accessibility: A Comprehensive Approach for Enabling Your Emails</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-free-contact-acquisition-top-4-methods-for-seamless-retrieval-from-icloud/"><u>Unlocking the Power of Free Contact Acquisition: Top 4 Methods for Seamless Retrieval From iCloud</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-proficiently-post-360-degree-content-on-fb/"><u>[New] How to Proficiently Post 360-Degree Content on FB</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-maximizing-remote-team-dynamics-with-skypes-screen-sharing-technology/"><u>[New] In 2024, Maximizing Remote Team Dynamics with Skype’s Screen Sharing Technology</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-monetary-mastery-for-your-social-media-channel-fb-video-wisdom/"><u>[Updated] In 2024, Monetary Mastery for Your Social Media Channel FB Video Wisdom</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-webcam-buying-simplified-the-best-10-options-for-2024/"><u>[Updated] Webcam Buying Simplified The Best 10 Options for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-essence-of-authenticity-applying-personalized-watermarks-in-insta/"><u>2024 Approved The Essence of Authenticity Applying Personalized Watermarks in Insta</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-block-busters-uncover-4-critical-triggers-and-easy-fixes-for-account-restoration/"><u>ChatGPT Block Busters: Uncover 4 Critical Triggers and Easy Fixes for Account Restoration</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-15-pro-how-to-unlock-a-disabled-iphone-15-pro-by-drfone-ios/"><u>Disabled iPhone 15 Pro How to Unlock a Disabled iPhone 15 Pro?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-top-rated-no-cost-video-editors-cnet/"><u>Discover the Ultimate Selection of Top-Rated, No-Cost Video Editors | CNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-low-codeno-code-landscape-implications-for-tech-job-evolution-insights-by-zdnet/"><u>Expanding Low-Code/No-Code Landscape: Implications for Tech Job Evolution - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-future-without-microsofts-support-top-5-alternatives-for-your-windows-11-machine-insights-by-zdnet/"><u>Facing the Future without Microsoft's Support: Top 5 Alternatives for Your Windows 11 Machine - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-windows-11-upgrade-availability-is-it-over/"><u>Free Windows 11 Upgrade Availability: Is It Over?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-absence-of-spare-wheels-in-electric-vehicles-unraveling-the-mystery/"><u>The Absence of Spare Wheels in Electric Vehicles: Unraveling the Mystery</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-network-monitoring-solutions-of-2023-industry-experts-recommendations-gurupick/"><u>Top Network Monitoring Solutions of 2023: Industry Experts' Recommendations - GuruPick</u></a></li>
+<li><a href="https://app-tips.techidaily.com/united-forces-the-tech-world-rallies-around-ciq-for-rocky-linuxs-launch-paving-a-new-path-in-open-source-innovation-zdnet/"><u>United Forces: The Tech World Rallies Around CIQ for Rocky Linux's Launch, Paving a New Path in Open Source Innovation | ZDNET</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-art-of-slow-motion-utilizing-online-platforms-and-photos-for-2024/"><u>Unveiling the Art of Slow Motion Utilizing Online Platforms & Photos for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-microsoft-faces-critical-challenge-with-windows-11-just-one-year-left-zdnet-exclusive/"><u>Urgent: Microsoft Faces Critical Challenge with Windows 11 - Just One Year Left! [ZDNet Exclusive]</u></a></li>
 </ul></div>
 

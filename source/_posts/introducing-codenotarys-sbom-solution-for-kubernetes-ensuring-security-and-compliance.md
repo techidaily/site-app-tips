@@ -1,7 +1,7 @@
 ---
 title: Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance
-date: 2024-10-04T17:53:13.852Z
-updated: 2024-10-06T17:04:15.901Z
+date: 2024-10-05T19:06:37.493Z
+updated: 2024-10-12T03:53:54.467Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,15 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-master-the-art-of-iphone-image-rotation-effortless-methods/"><u>[New] Master the Art of iPhone Image Rotation - Effortless Methods</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-limiting-bitrate-overshoot-in-obs/"><u>[Updated] In 2024, Limiting Bitrate Overshoot in OBS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-citizen-developers-in-modern-business-workflows/"><u>Empowering Citizen Developers in Modern Business Workflows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-low-code-solutions-can-boost-your-companys-appeal-insights-from-zdnet/"><u>How Low-Code Solutions Can Boost Your Company's Appeal: Insights From ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-x-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone X Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-set-up-miracast-in-windows-1111-fix-it-if-it-stops-working-solved/"><u>How to Set up Miracast in Windows 11/11; Fix It if It Stops Working? [Solved]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-streamline-your-linuxopen-source-knowledge-base-for-clarity-and-efficiency-expert-insights-and-solutions/"><u>How to Streamline Your Linux/Open-Source Knowledge Base for Clarity & Efficiency: Expert Insights and Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-image-transfiguration-winmac-photo-animation-pro/"><u>In 2024, Quick Image Transfiguration Win/Mac Photo Animation Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-running-oddworld-soulstorm-on-your-desktop-computer-issues-resolved/"><u>Successfully Running Oddworld: Soulstorm on Your Desktop Computer [ISSUES RESOLVED]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-ai-how-langchain-revolutionizes-generative-assistance/"><u>Unleashing the Power of AI: How LangChain Revolutionizes Generative Assistance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-srt-education-and-resources/"><u>[New] Comprehensive SRT Education and Resources</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-enhancing-content-strategy-with-targeted-tagging/"><u>[New] In 2024, Enhancing Content Strategy with Targeted Tagging</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-prime-time-for-podcast-debuts/"><u>[New] In 2024, Prime Time for Podcast Debuts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-premier-recommendations-best-iphone-tones-designers/"><u>[New] Premier Recommendations Best iPhone Tones Designers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-growing-engagement-ethically-youtube-success-stories/"><u>[Updated] Growing Engagement Ethically YouTube Success Stories</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-to-the-rescue-shielding-it-specialists-from-overwork-and-alert-exhaustion-with-cutting-edge-solutions-zdnet/"><u>AI to the Rescue! Shielding IT Specialists From Overwork and Alert Exhaustion with Cutting-Edge Solutions | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-artificial-intelligence-slow-down-expansion-in-cybersecurity-careers-zdnet-insights/"><u>Can Artificial Intelligence Slow Down Expansion in Cybersecurity Careers? | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-zodiac-whos-right-about-tomorrow/"><u>ChatGPT Vs. Zodiac: Who's Right About Tomorrow?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/come-superare-lavviso-0x80070015-in-bitlocker-quando-il-tuo-hardware-non-e-ready/"><u>Come Superare L'Avviso 0X80070015 in BitLocker Quando Il Tuo Hardware Non È Ready</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-ai-in-developer-tools-why-rote-automation-is-a-thing-of-the-past-insights-from-zdnet/"><u>Embracing AI in Developer Tools: Why Rote Automation Is a Thing of the Past - Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-open-source-to-draw-global-tech-pioneers-insights-from-zdnet/"><u>Leveraging Open Source to Draw Global Tech Pioneers - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-how-ai-growth-clashes-with-agile-practices-according-to-recent-research-by-zdnet/"><u>Navigating the Complexities: How AI Growth Clashes with Agile Practices, According to Recent Research by ZDNET</u></a></li>
+<li><a href="https://fox-info.techidaily.com/navigating-the-rainbow-skills-for-cinematic-tinting/"><u>Navigating the Rainbow Skills for Cinematic Tinting</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-tech-talent-how-artificial-intelligence-combats-job-burnout-and-warning-tiredness-for-it-professionals-zdnet/"><u>Reviving Tech Talent: How Artificial Intelligence Combats Job Burnout & Warning Tiredness for IT Professionals | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-ai-synthesis-realized-engage-with-your-organizations-chief-tech-architect-zdnet/"><u>Seamless AI Synthesis Realized - Engage with Your Organization’s Chief Tech Architect | ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/steering-clear-of-the-virtual-vortex/"><u>Steering Clear of the Virtual Vortex</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-now-16-t-trillion-non-cash-deals-dominated-by-asia-insights-from-zdnet/"><u>The Future Is Now: 1.6 T Trillion Non-Cash Deals Dominated by Asia | Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-workplaces-how-ai-agents-shape-the-future-of-employment-zdnet/"><u>Transforming Workplaces: How AI Agents Shape the Future of Employment | ZDNet</u></a></li>
 </ul></div>
 

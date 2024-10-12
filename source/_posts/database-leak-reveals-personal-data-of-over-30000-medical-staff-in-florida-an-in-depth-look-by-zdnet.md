@@ -1,7 +1,7 @@
 ---
 title: "Database Leak Reveals Personal Data of Over 30,000 Medical Staff in Florida: An In-Depth Look by ZDNet"
-date: 2024-10-01T19:00:56.270Z
-updated: 2024-10-06T18:46:41.779Z
+date: 2024-10-08T09:07:44.504Z
+updated: 2024-10-11T17:15:35.503Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -99,17 +99,19 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-professionals-choice-of-best-windows-edits-tools/"><u>[New] 2024 Approved Professionals' Choice of Best Windows Edits Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-10-best-webcams-you-should-know-for-2024/"><u>[Updated] 10 Best Webcams You Should Know for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-enhancing-video-content-top-formats-on-youtube-for-2024/"><u>[Updated] Enhancing Video Content Top Formats on YouTube for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/debunking-common-errors-in-understanding-how-to-earn-from-big-data-a-deep-dive-nextgen-business-trends/"><u>Debunking Common Errors in Understanding How to Earn From Big Data: A Deep Dive | NextGen Business Trends</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-strategies-for-technology-team-management-dive-into-your-business-foundations-expert-advice-from-zdnet/"><u>Effective Strategies for Technology Team Management: Dive Into Your Business Foundations | Expert Advice From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-prove-the-value-of-generative-ai-overcoming-roi-hurdles-explained-expert-analysis-by-zdnet/"><u>How to Prove the Value of Generative AI - Overcoming ROI Hurdles Explained | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-google-pixel-fold-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Google Pixel Fold to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-dominance-in-video-landscape-mirrorless-vs-dslr-cameras/"><u>In 2024, Dominance in Video Landscape Mirrorless vs DSLR Cameras</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-g23-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto G23 Phone Hassle-Free</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-youtube-tvs-features-a-beginners-guide/"><u>Mastering YouTube TV's Features A Beginner's Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-ai-hurdles-unlocking-significant-commercial-gains-insights-from-zdnet/"><u>Overcoming AI Hurdles: Unlocking Significant Commercial Gains - Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-avoiding-unwanted-accounts-on-insta/"><u>[New] Avoiding Unwanted Accounts on Insta</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-building-a-brand-with-captivating-haul-videos-and-edits/"><u>[New] Building a Brand with Captivating Haul Videos and Edits</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-positive-side-of-engaging-with-asmr/"><u>[New] Exploring The Positive Side of Engaging with ASMR</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-complete-guide-to-ios-snapshots-and-more-for-2024/"><u>[Updated] Complete Guide to iOS Snapshots and More for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-from-footage-to-followers-uploading-on-twitter/"><u>[Updated] In 2024, From Footage to Followers Uploading on Twitter</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-whats-in-your-wallet-from-one-million-youtube-sights/"><u>[Updated] What's In Your Wallet From One Million YouTube Sights?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-passwords-under-control-at-half-price-save-big-now-only-50-off-keeper-manager-gizmonews/"><u>Get Your Passwords Under Control at Half Price! Save Big Now - Only 50% Off Keeper Manager | GizmoNews</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-honor-magic-5-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Honor Magic 5 Pro Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-1password-a-high-value-investment-comprehensive-expert-evaluation-of-this-top-tier-password-solution-insights-from-tech-sector-leaders/"><u>Is 1Password a High-Value Investment? Comprehensive Expert Evaluation of This Top-Tier Password Solution - Insights From Tech Sector Leaders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-grab-3-months-of-dashlane-pro-password-management-for-just-1-with-zdnets-exclusive-offer/"><u>Secure Your Digital Life: Grab 3 Months of Dashlane Pro Password Management for Just $1 with ZDNet's Exclusive Offer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-the-cloud-dont-fall-victim-to-hacking-spot-and-fix-these-flaws-now-zdnet/"><u>Securing the Cloud: Don’t Fall Victim to Hacking - Spot and Fix These Flaws Now! | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/team-wide-security-at-just-1995month-discover-how-1password-transforms-password-management-tech-insights/"><u>Team-Wide Security at Just $19.95/Month: Discover How 1Password Transforms Password Management | Tech Insights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aled-5-editors-perfect-for-non-youtube-vids/"><u>Unrivaled 5 Editors Perfect for Non-YouTube Vids</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-protection-solution-from-security-expert-targets-log4j-exploits-in-hardware-locked-out-of-updates-zdnet/"><u>Urgent Protection Solution From Security Expert Targets Log4j Exploits in Hardware Locked Out of Updates | ZDNet</u></a></li>
 </ul></div>
 

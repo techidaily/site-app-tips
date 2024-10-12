@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses Artificial Intelligence & Embracing Rust in Computing | Tech Insights on ZDNet
-date: 2024-10-01T17:52:30.537Z
-updated: 2024-10-06T18:37:59.746Z
+date: 2024-10-11T11:24:19.868Z
+updated: 2024-10-12T01:51:19.287Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,22 +187,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-elevating-your-google-meet-engagement-screen-sharing-tips-for-2024/"><u>[New] Elevating Your Google Meet Engagement Screen Sharing Tips for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-expert-techniques-to-efficiently-manipulate-whiteboards-in-web-conferencing-tools-for-2024/"><u>[New] Expert Techniques to Efficiently Manipulate Whiteboards in Web Conferencing Tools for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-master-the-switch-linking-instagram-with-facebook/"><u>[New] In 2024, Master the Switch Linking Instagram with Facebook</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-optimizing-viewing-distance-youtube-tips-for-2024/"><u>[Updated] Optimizing Viewing Distance YouTube Tips for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/act-now-uncover-the-five-essential-strategies-for-windows-11-users-before-microsoft-discontinues-support-zdnet-tech-analysis/"><u>Act Now: Uncover the Five Essential Strategies for Windows 11 Users Before Microsoft Discontinues Support | ZDNet Tech Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-hidden-taskbar-query-function-in-windows-11/"><u>Activating Hidden Taskbar Query Function in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/conquer-the-virtual-realm-with-these-games/"><u>Conquer the Virtual Realm with These Games</u></a></li>
-<li><a href="https://app-tips.techidaily.com/emerging-tech-trends-top-developer-roles-and-key-coding-languages-shaping-the-future-insights-from-zdnet/"><u>Emerging Tech Trends: Top Developer Roles & Key Coding Languages Shaping the Future - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enterprise-vulnerability-escalates-with-generative-ai-says-crowdstrike-chief-technology-officer-zdnet-insights/"><u>Enterprise Vulnerability Escalates with Generative AI, Says CrowdStrike Chief Technology Officer | ZDNET Insights</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-13-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 13 to Android | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-of-upgrading-from-ubuntu-linux-2310-to-2404-a-step-by-step-guide/"><u>Navigating the Challenges of Upgrading From Ubuntu Linux 23.10 to 24.04 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/red-hat-enterprise-linux-release-and-hybrid-cloud/"><u>Red Hat, Enterprise Linux Release, and Hybrid Cloud.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/side-lobe-control/"><u>Side Lobe Control</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-windows-11-touch-screen-problem-with-these-5-strategies/"><u>Solve Your Windows 11 Touch Screen Problem with These 5 Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolving-job-landscape-with-ai-how-technology-replaces-and-creates-opportunities-in-training-and-ethics-insights-for-tomorrows-workforce-zdnet/"><u>The Evolving Job Landscape with AI: How Technology Replaces and Creates Opportunities in Training & Ethics | Insights for Tomorrow's Workforce | ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-soviet-union-launches-salyut-1-its-first-multirole-scientific-research-orbital-station-on-april-19th-this-marks-a-milestone-in-space-station-development650/"><u>The Soviet Union Launches Salyut 1, Its First Multirole Scientific Research Orbital Station on April 19Th. This Marks a Milestone in Space Station Development and Research Capabilities.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranking-customer-relationship-management-tools-of-2022-ideal-options-for-small-and-medium-businesses-zdnet-insights/"><u>Top-Ranking Customer Relationship Management Tools of 2022: Ideal Options for Small & Medium Businesses - ZDNet Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-masterclass-guide-to-excellent-pcmac-recorders-for-2024/"><u>[New] Masterclass Guide to Excellent PC/Mac Recorders for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-activating-screen-recording-with-internal-devices-in-huawei-mate-and-p-series-mate-1020-p2010/"><u>[Updated] Activating Screen Recording with Internal Devices in Huawei Mate and P Series (Mate 10/20; P20/10)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-mobile-messaging-platforms-top-picks-for-ios-and-android-devices/"><u>Best 10 Mobile Messaging Platforms: Top Picks for iOS and Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-apple-music-evaluation-cost-analysis-and-features-breakdown-free-download/"><u>Comprehensive Apple Music Evaluation: Cost Analysis & Features Breakdown - Free Download</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-it-detailed-guide-on-restoring-function-key-operations/"><u>Fix It! Detailed Guide on Restoring Function Key Operations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y77t-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y77t</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/optimizing-video-creation-in-obs-studio-for-2024/"><u>Optimizing Video Creation in OBS Studio for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/restore-windows-photo-viewer-efficiency-on-windows-10-pcs-for-2024/"><u>Restore Windows Photo Viewer Efficiency on Windows 10 PCs for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stay-secure-and-connected-top-11-mobile-apps-for-hands-free-text-reading/"><u>Stay Secure and Connected: Top 11 Mobile Apps for Hands-Free Text Reading</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-accessing-whatsapp-anonymously-without-providing-your-phone-number/"><u>Step-by-Step Instructions: Accessing WhatsApp Anonymously Without Providing Your Phone Number</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/on-negotiables-of-beginning-a-youtube-channel-for-2024/"><u>The Non-Negotiables of Beginning a YouTube Channel for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-8-xbox-console-emulators-on-pcandroid-reviewed-objectively/"><u>The Ultimate Guide: Top 8 Xbox Console Emulators on PC/Android, Reviewed Objectively</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-20-budget-conscious-video-editing-applications-for-2024/"><u>Top 20 Budget-Conscious Video Editing Applications for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-swf-player-apps-compatible-with-pc-mac-android-and-iphone-devices/"><u>Top Rated SWF Player Apps Compatible with PC, Mac, Android & iPhone Devices</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/transform-your-chm-files-into-engaging-ebooks-with-flipbuilder-easy-conversion-guide/"><u>Transform Your CHM Files Into Engaging eBooks with FlipBuilder - Easy Conversion Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-instant-messaging-a-comprehensive-overview/"><u>Understanding Instant Messaging: A Comprehensive Overview</u></a></li>
 </ul></div>
 

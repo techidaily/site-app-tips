@@ -1,7 +1,7 @@
 ---
 title: "Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims"
-date: 2024-10-05T17:49:12.535Z
-updated: 2024-10-06T16:47:19.390Z
+date: 2024-10-08T17:10:54.982Z
+updated: 2024-10-12T08:02:25.381Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -61,10 +61,10 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -121,20 +121,16 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-metavision-journey-essential-gear-for-metaverse-visitors/"><u>[New] Metavision Journey Essential Gear for Metaverse Visitors</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-ace-your-videos-essential-editors-for-youtube/"><u>[Updated] Ace Your Videos Essential Editors for YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-post-production-hues-with-expertise/"><u>[Updated] Navigating Post-Production Hues with Expertise</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-21-zedge-mobile-applications-premium-sounds-and-images-for-android-and-ios-devices/"><u>Best 21 Zedge Mobile Applications: Premium Sounds and Images for Android and iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/colorcorrect-pro-unveiling-the-premier-ios-app-for-professional-quality-video-edits/"><u>ColorCorrect Pro: Unveiling the Premier iOS App for Professional-Quality Video Edits</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-instructions-on-how-to-exit-your-account-in-facebook-messenger/"><u>Easy Instructions on How to Exit Your Account in Facebook Messenger</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-infinix-note-30-vip-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Infinix Note 30 VIP Phone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-wise-to-choose-auto-gpt-when-gpt-4-is-on-horizon/"><u>Is It Wise to Choose Auto-GPT When GPT-4 Is on Horizon?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/rectify-kernel-usb-error/"><u>Rectify Kernel USB Error</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-solution-effective-ways-to-repair-your-facebook-messaging-app-when-it-stops-working/"><u>Step-by-Step Solution: Effective Ways to Repair Your Facebook Messaging App When It Stops Working</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-18-most-popular-emoji-apps-for-iphones-and-android-phones/"><u>The Ultimate List of the 18 Most Popular Emoji Apps for iPhones and Android Phones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192562-transform-your-ebook-with-confidence-the-ultimate-7-step-process-for-converting-epub-to-txt-now-working-flawlessly/"><u>Transform Your eBook with Confidence: The Ultimate 7-Step Process for Converting ePub to TXT - Now Working Flawlessly!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-top-5-must-have-gif-creators-for-android-devices/"><u>Ultimate Guide: Top 5 Must-Have GIF Creators for Android Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-cutting-edge-tips-for-elite-instagram-image-editing/"><u>[New] 2024 Approved Cutting-Edge Tips for Elite Instagram Image Editing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beamwidth/"><u>Beamwidth</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-mac-video-trims-top-6-picks-post-snow-leopard-for-2024/"><u>Best Mac Video Trims Top 6 Picks Post-Snow Leopard for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-efficiency-a-comprehensive-guide-to-essential-productivity-apps-and-techniques-for-streamlining-your-day-to-day-job/"><u>Boosting Efficiency: A Comprehensive Guide to Essential Productivity Apps & Techniques for Streamlining Your Day-to-Day Job</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-software-development-success-with-agile-awareness-explore-6-key-principles/"><u>Boosting Software Development Success with Agile Awareness: Explore 6 Key Principles</u></a></li>
+<li><a href="https://windows11.techidaily.com/corrective-measures-for-discord-search-dysfunction/"><u>Corrective Measures for Discord Search Dysfunction</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-diagnosing-and-repairing-recurrent-halo-3-pc-game-crashes/"><u>Expert Advice: Diagnosing and Repairing Recurrent Halo 3 PC Game Crashes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easily-edit-avi-files-on-your-windows-8-pc-a-beginners-guide/"><u>In 2024, Easily Edit AVI Files on Your Windows 8 PC A Beginners Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-phantom-v-fold-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Phantom V Fold Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-gain-renewed-interest-insights-from-zdnet/"><u>The Rising Popularity: How OpenStack & Kata Containers Gain Renewed Interest - Insights From ZDNet</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720669392269-unlock-the-power-of-your-software-skills-top-tips-from-stellers-expert-articles-and-diy-strategies/"><u>Unlock the Power of Your Software Skills: Top Tips From Steller’s Expert Articles and DIY Strategies.</u></a></li>
 </ul></div>
 

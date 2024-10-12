@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Russian Aggression on Ukraine's Tech Sector: Potential Risks and Concerns"
-date: 2024-09-30T17:56:48.255Z
-updated: 2024-10-06T18:53:22.517Z
+date: 2024-10-06T20:03:04.456Z
+updated: 2024-10-11T18:58:30.518Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-integrating-gifs-into-your-iphone-life-with-ease/"><u>[New] Integrating GIFs Into Your iPhone Life with Ease</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-strategizing-superior-screen-snatchers-for-2024/"><u>[New] Strategizing Superior Screen-Snatchers for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unveiling-instavid-secrets-plotting-a-successful-marketing-scheme/"><u>[New] Unveiling InstaVid Secrets Plotting a Successful Marketing Scheme</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-naming-excellence-tips-and-strategies/"><u>[Updated] 2024 Approved Channel Naming Excellence Tips & Strategies</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-efficient-screenshot-with-audio-layered/"><u>[Updated] 2024 Approved Efficient Screenshot With Audio Layered</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-comprehensive-guide-understanding-the-delete-for-everyone-option-in-whatsapp/"><u>A Comprehensive Guide: Understanding the 'Delete for Everyone' Option in WhatsApp</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/elevating-your-iphone-with-custom-ringtones-for-2024/"><u>Elevating Your iPhone with Custom Ringtones for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/fix-your-whatsapp-problems-with-our-expert-assistance-step-by-step-guide/"><u>Fix Your WhatsApp Problems with Our Expert Assistance - Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-enable-and-use-whatsapp-securely-with-alternative-identifiers-instead-of-your-phone-number/"><u>How to Enable and Use WhatsApp Securely with Alternative Identifiers Instead of Your Phone Number</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-90-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor 90 Pro to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/irrevocable-deletion-of-whatsapp-on-iphones-a-comprehensive-tutorial/"><u>Irrevocable Deletion of WhatsApp on iPhones: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-art-of-attracting-a-loyal-twitter-following-with-these-proven-strategies/"><u>Master the Art of Attracting a Loyal Twitter Following with These Proven Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preserve-your-whatsapp-images-flawlessly-top-3-methods-for-saving-photos-across-ios-and-android-without-quality-compromise/"><u>Preserve Your WhatsApp Images Flawlessly: Top 3 Methods for Saving Photos Across iOS & Android Without Quality Compromise</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-fixes-how-to-securely-restore-deleted-whatsapp-conversations-on-iphone-devices/"><u>Quick Fixes: How to Securely Restore Deleted WhatsApp Conversations on iPhone Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-high-quality-whatsapp-video-converter-tools-you-need/"><u>Top 5 High-Quality WhatsApp Video Converter Tools You Need</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-strategies-sending-oversized-videos-with-ease-from-an-iphone-using-whatsapp/"><u>Top Strategies: Sending Oversized Videos with Ease From an iPhone Using WhatsApp</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/understanding-optimal-frames-per-second-in-cinema-slow-mo-for-2024/"><u>Understanding Optimal Frames Per Second in Cinema Slow-Mo for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-optimized-strategies-for-youtube-and-facebook-cross-posting/"><u>[New] Optimized Strategies for YouTube & Facebook Cross-Posting</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-unleashing-potential-views-best-keyword-resources-ranked/"><u>[Updated] 2024 Approved Unleashing Potential Views Best Keyword Resources Ranked</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-elevate-your-gaming-experience-nintendo-switch-and-steam-synergy/"><u>[Updated] In 2024, Elevate Your Gaming Experience Nintendo Switch and Steam Synergy</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-artful-stop-motion-animation-the-best-15-films/"><u>2024 Approved Artful Stop-Motion Animation - The Best 15 Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-your-creative-potential-with-windows-11-movie-maker/"><u>2024 Approved Unlock Your Creative Potential with Windows 11 Movie Maker</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-financial-rewards-top-priorities-for-open-source-professionals-seeking-new-opportunities/"><u>Beyond Financial Rewards: Top Priorities for Open-Source Professionals Seeking New Opportunities</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/comparing-dvd-back-up-tools-vs-dvd-ripping-applications-key-differences-explained/"><u>Comparing DVD Back-Up Tools Vs. DVD Ripping Applications: Key Differences Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-user-experience-streamlined-approaches-for-decoding-qr-codes-on-windows/"><u>Enhancing User Experience: Streamlined Approaches for Decoding QR Codes on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/error-code-8070057-in-call-of-duty-black-ops-cold-war-heres-the-fix/"><u>Error Code 80#70057 in Call of Duty: Black Ops Cold War? Here's the Fix!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-alternative-paths-for-your-still-running-windows-10-system-as-microsofts-official-support-nears-its-end/"><u>Five Alternative Paths for Your Still-Running Windows 10 System as Microsoft's Official Support Nears Its End</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-spark-go-2024-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-90-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor 90 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/new-microsoft-software-refresh-risks-boosting-office-stress-levels-says-zdnet-analysis/"><u>New Microsoft Software Refresh Risks Boosting Office Stress Levels, Says ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-obstacles-in-ai-precision-and-reliability-for-todays-developers-expert-analysis-at-zdnet/"><u>Overcoming Obstacles in AI Precision & Reliability for Today's Developers | Expert Analysis at ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-critical-need-for-clarity-in-artificer-interests-exploring-the-transparency-gap-in-ai-evolution-zdnet/"><u>The Critical Need for Clarity in Artificer Interests: Exploring the Transparency Gap in AI Evolution | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-purpose-of-an-artificial-earth-plane-in-antenna-systems-can-be-similar-to-that-of-natural-ground-when-it-comes-to-reflecting-radio-waves-and-improving-s78/"><u>The Purpose of an Artificial Earth Plane in Antenna Systems Can Be Similar to that of Natural Ground when It Comes to Reflecting Radio Waves and Improving Signal Quality.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-ai-servicenows-essential-four-core-tenets-explained-boost-your-enterprise-success/"><u>Unlocking the Power of AI: ServiceNow's Essential Four Core Tenets Explained - Boost Your Enterprise Success!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsofts-window-of-opportunity-shrinks-as-they-race-against-time-on-windows-11-tech-analysis/"><u>Urgent Challenge: Microsoft's Window of Opportunity Shrinks as They Race Against Time on Windows 11 | Tech Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/what-drives-open-source-talent-unveiling-the-essential-non-monetary-wants-in-their-job-quest-zdnet/"><u>What Drives Open-Source Talent? Unveiling the Essential Non-Monetary Wants in Their Job Quest | ZDNET</u></a></li>
 </ul></div>
 

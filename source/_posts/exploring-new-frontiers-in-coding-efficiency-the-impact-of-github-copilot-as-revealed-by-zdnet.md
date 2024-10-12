@@ -1,7 +1,7 @@
 ---
 title: "Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet"
-date: 2024-10-05T16:24:22.426Z
-updated: 2024-10-06T18:38:32.806Z
+date: 2024-10-05T21:42:36.052Z
+updated: 2024-10-12T08:38:55.707Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,16 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-5-budget-friendly-camcorders-with-hd-quality/"><u>[New] 2024 Approved Top 5 Budget-Friendly Camcorders with HD Quality</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-meme-matrix-top-10-memes-on-social-media-platforms/"><u>[Updated] 2024 Approved Meme Matrix Top 10 Memes on Social Media Platforms</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-capturing-the-best-visuals-in-vlogs/"><u>[Updated] Capturing the Best Visuals in Vlogs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-f34-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Samsung Galaxy F34 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/buy-dashlane-premium-at-half-price-exclusive-sale-alert-from-zdnet/"><u>Buy Dashlane Premium at Half Price! Exclusive Sale Alert From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cybersecurity-firm-provides-rapid-defense-against-log4j-vulnerability-for-non-updatable-systems-zdnet/"><u>Cybersecurity Firm Provides Rapid Defense Against Log4j Vulnerability for Non-Updatable Systems - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/from-lastpass-to-icloud-transition-your-passwords-securely-on-pc-expert-tips-from-zdnet/"><u>From LastPass to iCloud: Transition Your Passwords Securely on PC - Expert Tips From ZDNet</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-essential-hashtag-analyzers-facebook-twitter-and-instagram-edition/"><u>In 2024, Essential Hashtag Analyzers Facebook, Twitter & Instagram Edition</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-innocence-betrayed-consequences-of-acquiring-sham-supporters-in-social-media/"><u>In 2024, Innocence Betrayed Consequences of Acquiring Sham Supporters in Social Media</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-nokia-c210-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Nokia C210</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-covid-19-vaccine-scheduling-solutions-reviewed-and-compared-itadvisor/"><u>Leading COVID-19 Vaccine Scheduling Solutions Reviewed & Compared - ITAdvisor</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-everyones-guide-to-youtube-success-10-straightforward-video-tips/"><u>[New] 2024 Approved Everyone's Guide to YouTube Success 10 Straightforward Video Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-steam-pro-controllers-on-switch/"><u>[New] 2024 Approved The Ultimate Guide to Steam Pro Controllers on Switch</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-ensure-flawless-playback-how-to-set-youtube-video-size-right/"><u>[New] In 2024, Ensure Flawless Playback How to Set YouTube Video Size Right</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elevate-your-message-with-these-30-video-suggestions/"><u>[Updated] Elevate Your Message with These 30 Video Suggestions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-blueprint-of-unique-recording-gadgets/"><u>2024 Approved Blueprint of Unique Recording Gadgets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-ai-horizons-decoding-the-titles-and-responsibilities-of-tomorrows-job-roles-defined-by-tech-progress/"><u>Beyond AI Horizons: Decoding the Titles and Responsibilities of Tomorrow's Job Roles Defined by Tech Progress</u></a></li>
+<li><a href="https://app-tips.techidaily.com/closing-the-gap-between-desire-and-effort-in-building-responsible-ai-unpacked-by-zdnets-latest-analysis/"><u>Closing the Gap Between Desire and Effort in Building Responsible AI - Unpacked by ZDNET's Latest Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experts-choose-the-superior-web-host-services-of-2024-in-depth-analysis-and-ratings-discover-with-zdnet/"><u>Experts Choose the Superior Web Host Services of 2024: In-Depth Analysis and Ratings | Discover with ZDNET</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-drivers-for-your-hp-z440-station-easy-installation-guide/"><u>Get the Latest Drivers for Your HP Z440 Station: Easy Installation Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-securely-pin-topics-for-easy-access-in-instagram-direct-messaging/"><u>How to Securely Pin Topics for Easy Access in Instagram Direct Messaging</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preparing-leaders-for-ai-integration-essential-steps-recommended-by-zdnet/"><u>Preparing Leaders for AI Integration: Essential Steps Recommended by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preparing-management-skills-is-key-prior-to-deploying-ai-technology-discover-strategies-with-zdnet/"><u>Preparing Management Skills Is Key Prior to Deploying AI Technology - Discover Strategies with ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/riding-the-wave-of-pervasive-device-expansion-in-edge-investments-boost-your-career-with-insights-from-zdnet/"><u>Riding the Wave of Pervasive Device Expansion in Edge Investments: Boost Your Career with Insights From ZDNet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-conversion-of-rmvb-files-into-flv-a-step-by-step-guide-for-windows-and-mac-users/"><u>Seamless Conversion of RMVB Files Into FLV: A Step-by-Step Guide for Windows and Mac Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-emergence-of-immediate-innovation-a-disparate-spread-across-industries/"><u>The Emergence of Immediate Innovation - A Disparate Spread Across Industries.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-quest-for-ethical-artificial-intelligence-why-more-action-needed-despite-universal-agreement-insights-from-zdnet/"><u>The Quest for Ethical Artificial Intelligence: Why More Action Needed Despite Universal Agreement? Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-secret-behind-open-source-magnetism-for-elite-innovators-a-deep-dive-with-zdnets-perspective/"><u>The Secret Behind Open Source Magnetism for Elite Innovators - A Deep Dive with ZDNet's Perspective</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/k-your-youtube-shorts-earnings-potential-for-2024/"><u>Unlock Your YouTube Shorts Earnings Potential for 2024</u></a></li>
 </ul></div>
 

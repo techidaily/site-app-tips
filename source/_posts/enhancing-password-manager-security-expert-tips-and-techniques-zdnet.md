@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]"
-date: 2024-09-30T17:50:36.800Z
-updated: 2024-10-06T18:41:40.045Z
+date: 2024-10-06T05:57:46.973Z
+updated: 2024-10-12T05:04:49.391Z
 tags:
   - password-manager
 categories:
@@ -42,10 +42,10 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -65,10 +65,10 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -92,10 +92,10 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -144,24 +144,18 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-80plus-catchy-cooking-channel-names-to-attract-more-audience/"><u>[New] In 2024, 80+ Catchy Cooking Channel Names to Attract More Audience</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-enhanced-viewing-experience-apply-filters-on-videos/"><u>[Updated] Enhanced Viewing Experience Apply Filters on Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-facebook-story-complete-guide-what-is-it-and-how-to-use-it/"><u>[Updated] Facebook Story Complete Guide What Is It and How to Use It?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-secure-your-content-copyright-checks-before-tiktok-sharing/"><u>[Updated] In 2024, Secure Your Content Copyright Checks Before TikTok Sharing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-lingo-explained-29-core-terminologies-unveiled/"><u>AI Lingo Explained: 29 Core Terminologies Unveiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/amplifying-the-role-of-it-professionals-in-shaping-customer-satisfaction-expert-analysis-by-zdnet/"><u>Amplifying the Role of IT Professionals in Shaping Customer Satisfaction | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/choosing-the-right-user-account-for-windows-11-installation-tips-and-considerations/"><u>Choosing the Right User Account for Windows 11 Installation: Tips and Considerations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-tech-departments-elevating-your-brand-through-enhanced-customer-experiences-insights-from-zdnet/"><u>Empowering Tech Departments: Elevating Your Brand Through Enhanced Customer Experiences - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expanding-security-juniper-networks-integrates-cloud-firewall-into-sase-solutions-zdnet-insight/"><u>Expanding Security: Juniper Networks Integrates Cloud Firewall Into SASE Solutions - ZDNet Insight</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/experience-enhanced-website-management-thanks-to-cookiebot/"><u>Experience Enhanced Website Management Thanks to Cookiebot</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-windows-11-end-of-life-in-one-year-explore-your-5-viable-alternatives-now-insights-from-zdnet/"><u>Facing Windows 11 End of Life in One Year? Explore Your 5 Viable Alternatives Now - Insights From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/full-restoration-made-simple-a-detailed-process-for-factory-resetting-an-hp-notebook/"><u>Full Restoration Made Simple: A Detailed Process for Factory Resetting an HP Notebook</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-sony-xperia-1-v-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Sony Xperia 1 V Face Lock?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/nvidia-leads-with-blackwell-jensen-huang-reveals-revolutionary-chip-series-during-gtc-keynote-insights-for-tech-enthusiasts-zdnet/"><u>Nvidia Leads with Blackwell: Jensen Huang Reveals Revolutionary Chip Series During GTC Keynote - Insights for Tech Enthusiasts | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/streamlining-linux-and-oss-guidebooks-the-ultimate-strategy-revealed-by-zdnet/"><u>Streamlining Linux & OSS Guidebooks: The Ultimate Strategy Revealed by ZDNET</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-blueprint-to-surge-in-youtubers-popularity/"><u>The Blueprint to Surge in Youtubers' Popularity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-the-cloud-industry-key-forecasts-by-renowned-tech-cto-on-evolving-business-strategies-wired/"><u>Transforming the Cloud Industry: Key Forecasts by Renowned Tech CTO on Evolving Business Strategies - Wired</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-linux-65-revolutionary-updates-and-improvements-detailed-digital-trends/"><u>Unveiling Linux 6.5: Revolutionary Updates and Improvements Detailed | Digital Trends</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/utility-meets-durability-in-urban-armor-gears-macbook-pro-defense-cover-reviewed/"><u>Utility Meets Durability in Urban Armor Gear's MacBook Pro Defense Cover Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-a-thumbnail-for-your-youtube-free-easily/"><u>[New] 2024 Approved How to Make a Thumbnail for Your YouTube Free Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717726008656-new-how-to-upload-videos-to-youtube-a-step-by-step-guide-for-2024/"><u>[New] How To Upload Videos to YouTube A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlock-instagrams-hidden-features-voice-modification-for-2024/"><u>[Updated] Unlock Instagram's Hidden Features Voice Modification for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/a-game-changer-how-bandicams-2023-update-transforms-capturing-games/"><u>A Game Changer How Bandicam's 2023 Update Transforms Capturing Games</u></a></li>
+<li><a href="https://app-tips.techidaily.com/avoid-music-chaos-a-detailed-walkthrough-on-updatingreinstalling-itunes-while-preserving-your-library/"><u>Avoid Music Chaos: A Detailed Walkthrough on Updating/Reinstalling iTunes While Preserving Your Library</u></a></li>
+<li><a href="https://fox-http.techidaily.com/calculating-expenses-for-youtubers-success-for-2024/"><u>Calculating Expenses for YouTubers' Success for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620278966-discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-realme-12-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Realme 12 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/resolving-authorization-and-connection-errors-on-itunes-platforms-a-comprehastern-guide/"><u>Resolving Authorization and Connection Errors on iTunes Platforms – A Comprehastern Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-solution-getting-your-itunes-home-sharing-back-on-track/"><u>Step-by-Step Solution: Getting Your iTunes Home Sharing Back on Track</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-strategies-to-resolve-persistent-icloud-sign-in-prompts-for-password/"><u>Top 7 Strategies to Resolve Persistent iCloud Sign-In Prompts for Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitter-axes-checkmarks-linus-tech-tips-hacked-trojans-explained-and-the-biggest-problems-with-chatgpt/"><u>Twitter Axes Checkmarks, Linus Tech Tips Hacked, Trojans Explained, and the Biggest Problems With ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-rebuilding-and-refreshing-your-itunes-library-with-3-successful-strategies/"><u>Ultimate Tutorial: Rebuilding and Refreshing Your iTunes Library with 3 Successful Strategies</u></a></li>
 </ul></div>
 

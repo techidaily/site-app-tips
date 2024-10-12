@@ -1,7 +1,7 @@
 ---
 title: Essential Manager Education Prior to Enterprise AI Adoption - Lessons by ZDNet
-date: 2024-09-19 12:18:10
-updated: 2024-09-20 11:32:24
+date: 2024-10-05T18:17:42.246Z
+updated: 2024-10-11T18:16:48.611Z
 tags:
   - digital-transformation
 categories:
@@ -77,11 +77,35 @@ Predicting or calculating return on investment is another mandate that needs to 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-capturing-content-in-the-digital-age-top-strategies-for-2024/"><u>[New] Capturing Content in the Digital Age Top Strategies for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-expand-your-library-prime-10-ps5-extra-drives/"><u>[New] Expand Your Library Prime 10 PS5 Extra-Drives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-heritage-on-display-post-copyright-masterpieces/"><u>[New] Heritage on Display Post-Copyright Masterpieces</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-zoom-audio-high-fidelity-and-unmuted-channels-for-2024/"><u>[Updated] Mastering Zoom Audio High Fidelity & Unmuted Channels for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-step-by-step-instructions-for-universal-recording-of-youtube-lives-for-2024/"><u>[Updated] Step-by-Step Instructions for Universal Recording of YouTube Lives for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-debunking-common-fallacies-in-data-commerce-insights-from-zdnet/"><u>1. Debunking Common Fallacies in Data Commerce: Insights From ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-sony-snapshot-standstill-no-video-viewing/"><u>2024 Approved Sony Snapshot Standstill No Video Viewing</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/40-of-technology-sector-employees-ponder-career-moves-according-to-recent-zdnet-poll/"><u>40% of Technology Sector Employees Ponder Career Moves, According to Recent ZDNet Poll</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-artificial-intelligence-discover-fresh-job-designations-shaping-tomorrows-workforce-revealed-by-zdnet/"><u>Beyond Artificial Intelligence - Discover Fresh Job Designations Shaping Tomorrow's Workforce, Revealed by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-numbers-and-analytics-how-tech-professionals-can-embrace-person-to-person-communication-for-better-outcomes/"><u>Beyond Numbers and Analytics: How Tech Professionals Can Embrace Person-to-Person Communication for Better Outcomes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-sustainable-innovation-singapores-push-for-financing-ai-and-green-tech/"><u>Boosting Sustainable Innovation: Singapore's Push for Financing AI & Green Tech</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-journey-of-transforming-into-an-ai-leader-roles-and-qualifications-expert-guidance/"><u>The Journey of Transforming Into an AI Leader: Roles and Qualifications | Expert Guidance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015293184-turning-up-the-volume-again-on-google-chrome-fix-tutorial-released/"><u>Turning Up the Volume Again on Google Chrome - Fix Tutorial Released!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Why People Favor Biometrics Over Passwords Due to Memory Challenges | ZDNet Analysis
-date: 2024-10-05T16:54:42.275Z
-updated: 2024-10-06T16:04:13.731Z
+date: 2024-10-07T05:14:45.633Z
+updated: 2024-10-12T05:05:23.518Z
 tags:
   - password-manager
 categories:
@@ -95,29 +95,22 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-a-deep-dive-into-screenflow-for-the-creative-minded-mac-user/"><u>[Updated] 2024 Approved A Deep Dive Into ScreenFlow for the Creative Minded Mac User</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-exclusive-list-top-business-vault-for-2024/"><u>[Updated] Exclusive List Top Business Vault for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-essential-strategies-for-capturing-your-best-moments-in-snapchat/"><u>2024 Approved Essential Strategies for Capturing Your Best Moments in Snapchat</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-gopro-start-up-must-haves-decoded/"><u>2024 Approved GoPro Start-Up Must-Haves Decoded</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advanced-array-designs-employ-strategies-like-amplitude-tapering-and-null-steering-algorithms-to-control-side-lobes-for-improved-directivity-and-reduced-int87/"><u>Advanced Array Designs Employ Strategies Like Amplitude Tapering and Null-Steering Algorithms to Control Side Lobes for Improved Directivity and Reduced Interference Potential.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-initiatives-surge-by-10x-in-recent-year-insights-from-latest-research-zdnet/"><u>AI Initiatives Surge by 10X in Recent Year - Insights From Latest Research | ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/conquer-gopro-time-lapse-video-creation-like-a-pro/"><u>Conquer GoPro Time Lapse Video Creation Like a Pro</u></a></li>
-<li><a href="https://app-tips.techidaily.com/conquering-chaos-in-linuxopen-source-guidebooks-explore-our-streamlined-remedy-zdnet/"><u>Conquering Chaos in Linux/Open-Source Guidebooks: Explore Our Streamlined Remedy | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-barriers-how-firms-find-it-challenging-to-leverage-generative-ai-according-to-deloittes-latest-insights/"><u>Exploring the Barriers: How Firms Find It Challenging to Leverage Generative AI According to Deloitte's Latest Insights</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-y27s-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo Y27s FRP In 3 Different Ways</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/movavi-video-composer-fast-and-effortless-editing-software/"><u>Movavi Video Composer: Fast & Effortless Editing Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/surprising-upsides-for-it-professionals-facing-burnout-insights-from-zdnets-latest-article/"><u>Surprising Upsides for IT Professionals Facing Burnout: Insights From ZDNet's Latest Article</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tidying-up-linux-and-open-source-manuals-discover-the-ultimate-fix/"><u>Tidying Up Linux & Open Source Manuals: Discover the Ultimate Fix!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-link-between-kernel-vulnerabilities-and-linux-system-security-proactive-measures-for-protection/"><u>Understanding the Link Between Kernel Vulnerabilities and Linux System Security: Proactive Measures for Protection</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unlocking-the-secrets-of-the-elder-scrolls-v-skyrim-a-detailed-review-for-the-switch/"><u>Unlocking the Secrets of The Elder Scrolls V: Skyrim - A Detailed Review for the Switch</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-alert-microsoft-faces-critical-challenge-with-windows-10-only-a-year-leftzdnet/"><u>Urgent Alert: Microsoft Faces Critical Challenge with Windows 10 - Only a Year Left![ZDNet]</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720670323491-videos-in-top-form-no-distortions-allowed/"><u>Videos in Top Form, No Distortions Allowed!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-rhythmreviewer-musical-and-conversational-analysis/"><u>[Updated] RhythmReviewer Musical and Conversational Analysis</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-samsung-galaxy-m14-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Samsung Galaxy M14 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-setting-up-and-accessing-kik-chat-app-for-windowsmac-users/"><u>Complete Tutorial: Setting Up & Accessing Kik Chat App for Windows/Mac Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-the-ultimate-top-10-no-cost-dvd-copy-software-for-windows-nx-simplify-your-media-backup-today/"><u>Discover the Ultimate Top 10 No-Cost DVD Copy Software for Windows nX – Simplify Your Media Backup Today!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f34-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Samsung Galaxy F34 5G Phone without PIN</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-4k-video-editing-software/"><u>New In 2024, Best 4K Video Editing Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-moving-your-iphone-applications-seamlessly-between-iphones/"><u>Step-by-Step Guide: Moving Your iPhone Applications Seamlessly Between iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192484-ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "How Development Work Is Changing: A Conversation with Atlassian's Agnes Ro, as Spotted on ZDNet"
-date: 2024-09-23T17:24:41.578Z
-updated: 2024-10-01T06:44:55.046Z
+date: 2024-10-10T23:16:04.864Z
+updated: 2024-10-12T04:29:13.639Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +181,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-essential-websites-for-youtube-preview-creation-tools/"><u>[New] 2024 Approved Essential Websites for YouTube Preview Creation Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-video-editing-in-apple-m1-macbook-air/"><u>[New] Video Editing in Apple M1 MacBook Air</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-making-money-on-youtube-a-guide/"><u>[Updated] 2024 Approved Making Money on YouTube A Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-finding-those-who-fled-my-insta-friends/"><u>[Updated] In 2024, Finding Those Who Fled My Insta Friends</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-analyze-your-and-competitors-youtube-video/"><u>[Updated] In 2024, How to Analyze Your and Competitor’s YouTube Video</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-stunning-photography-mastering-hdr-merging-in-lightroom/"><u>2024 Approved Crafting Stunning Photography Mastering HDR Merging in Lightroom</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-chatbots-struggle-beyond-english-boundaries-insights-from-a-new-stanford-research-zdnet/"><u>AI Chatbots Struggle Beyond English Boundaries - Insights From a New Stanford Research | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-pointing-exploring-the-impact-of-generative-ai-on-ux-zdnet-analysis/"><u>Beyond Clicks and Pointing: Exploring the Impact of Generative AI on UX | ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/from-citizens-to-coders-how-low-code-and-no-code-is-revolutionizing-development-in-it/"><u>From Citizens to Coders: How Low-Code and No-Code Is Revolutionizing Development in IT</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/how-to-add-music-to-ig-story-an-ultimate-guide/"><u>How to Add Music to IG Story – an Ultimate Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-samsung-galaxy-s23-ultra-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Samsung Galaxy S23 Ultra Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-challenges-unlocking-the-full-potential-of-ai-in-your-business-strategy-zdnet/"><u>Navigating Challenges: Unlocking the Full Potential of AI in Your Business Strategy | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/singapore-invests-24-billion-in-enhancing-ict-frameworks-and-digital-service-offerings-a-deep-dive-into-the-national-strategy/"><u>Singapore Invests $2.4 Billion in Enhancing ICT Frameworks & Digital Service Offerings: A Deep Dive Into the National Strategy</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/synth-symphony-selecting-superior-dj-templates-for-download-for-2024/"><u>Synth Symphony Selecting Superior DJ Templates for Download for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-essential-dictionary-of-casual-speech/"><u>The Essential Dictionary of Casual Speech</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolution-of-creativity-and-commerce-introducing-the-next-generation-ai-developers-unlocking-new-potential-in-tech/"><u>The Evolution of Creativity & Commerce: Introducing the Next Generation AI Developers - Unlocking New Potential in Tech</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-overlooked-foundation-of-ai-success-enhancing-machine-learning-with-essential-data-insights/"><u>The Overlooked Foundation of AI Success: Enhancing Machine Learning with Essential Data Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-complete-ai-workflow-engaging-with-organizations-leading-tech-expertise-zdnet/"><u>Unveiling the Complete AI Workflow: Engaging with Organization's Leading Tech Expertise | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/utilizing-artificial-intelligence-the-key-strategy-to-alleviate-job-burnout-and-combat-alert-overload-for-it-professionals-insights-from-zdnet/"><u>Utilizing Artificial Intelligence: The Key Strategy to Alleviate Job Burnout & Combat Alert Overload for IT Professionals | Insights From ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-iphone-image-editing-learn-to-change-resolution/"><u>[New] IPhone Image Editing Learn to Change Resolution</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-elevate-visibility-maximize-views-seo-for-videos/"><u>[Updated] In 2024, Elevate Visibility, Maximize Views - SEO for Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-metaviews-analyzing-6-in-depth-metaverse-scenarios/"><u>[Updated] Metaviews Analyzing 6 In-Depth Metaverse Scenarios</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-seamless-integration-of-luts-for-enhanced-cinematography-for-2024/"><u>[Updated] Seamless Integration of LUTs for Enhanced Cinematography for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-podcasters-handbook-writing-strategies-and-sample-scripts-available-free/"><u>2024 Approved The Podcaster's Handbook Writing Strategies & Sample Scripts Available Free</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordability-vs-functionality-in-the-winegard-fl5500a-flatwave-antenna-review/"><u>Affordability Vs. Functionality in the Winegard FL5500A FlatWave Antenna Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-6-cross-platform-explorers-navigating-iphones-on-windows-and-macos/"><u>Best 6 Cross-Platform Explorers: Navigating iPhones on Windows & macOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-3ds-emulator-apps-top-picks-for-windows-mac-ios-and-android/"><u>Best Free 3DS Emulator Apps: Top Picks for Windows, Mac, iOS & Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-virtual-reality-movie-experiences-top-15-vr-apps-for-iphone-and-android/"><u>Best Virtual Reality Movie Experiences: Top 15 VR Apps for iPhone and Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620195653-discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More</u></a></li>
+<li><a href="https://app-tips.techidaily.com/endless-interruptions-a-complete-guide-to-stopping-unsolicited-calls-on-your-smartphone/"><u>Endless Interruptions: A Complete Guide to Stopping Unsolicited Calls on Your Smartphone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-15-pro-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 15 Pro Without a Home Button</u></a></li>
+<li><a href="https://app-tips.techidaily.com/optimize-your-business-with-cutting-edge-android-mdm-options-and-features/"><u>Optimize Your Business With Cutting-Edge Android MDM Options and Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-answer-airpods-and-nintendo-switch-connectivity-explained/"><u>The Ultimate Answer: AirPods and Nintendo Switch Connectivity Explained</u></a></li>
 </ul></div>
 

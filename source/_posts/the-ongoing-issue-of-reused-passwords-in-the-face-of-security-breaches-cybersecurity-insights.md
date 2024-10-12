@@ -1,7 +1,7 @@
 ---
 title: The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights
-date: 2024-10-03T17:16:48.283Z
-updated: 2024-10-06T16:13:09.413Z
+date: 2024-10-08T20:06:44.027Z
+updated: 2024-10-12T04:57:29.148Z
 tags:
   - password-manager
 categories:
@@ -110,10 +110,10 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -140,10 +140,10 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -191,22 +191,22 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/umpstart-your-professional-filmmaking-exclusive-cost-free-green-screen-training-from-top-youtube-educators-for-2024/"><u>[New] Jumpstart Your Professional Filmmaking Exclusive, Cost-Free Green Screen Training From Top YouTube Educators for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-hone-your-livestream-skills-on-youtubes-premier-platform/"><u>[Updated] Hone Your Livestream Skills on YouTube's Premier Platform</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tgapng-movavi/"><u>線上自由改造TGA格式為PNG的移動應用程序 – 利用 Movavi 轉換工具</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-iphone-data-rescue-tools-how-to-get-back-deleted-files-securely/"><u>Best iPhone Data Rescue Tools: How to Get Back Deleted Files Securely</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722996647700-dayz-first-person-shooter-instant-and-simple-fixes-for-game-crashes/"><u>DayZ First-Person Shooter: Instant and Simple Fixes for Game Crashes!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-fun-and-trending-facebook-messenger-stickers-now/"><u>Download Fun & Trending Facebook Messenger Stickers Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-efficiently-eliminate-apps-from-your-smartphone-tips-for-ios-and-android-users/"><u>How To Efficiently Eliminate Apps From Your Smartphone: Tips for iOS & Android Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-12-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone 12 Pro Max | Stellar</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/league-of-legends-speech-problems-heres-how-you-can-solve-them/"><u>League of Legends Speech Problems? Here's How You Can Solve Them</u></a></li>
-<li><a href="https://review-topics.techidaily.com/online-signatures-for-wps-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Online signatures for .wps file</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-10-screenshot-enhancers-ios-and-android-sticker-edition/"><u>Top 10 Screenshot Enhancers IOS & Android Sticker Edition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-emulators-for-running-mobile-apps-on-your-pc-a-comprehensive-guide/"><u>Top 7 Emulators for Running Mobile Apps on Your PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-8-unbeatable-xbox-emulators-for-pc-and-android-an-honest-comparison/"><u>Top 8 Unbeatable Xbox Emulators for PC & Android - An Honest Comparison</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-iphone-spyware-apps-unbeatable-options-for-covert-tracking/"><u>Top Rated iPhone Spyware Apps: Unbeatable Options for Covert Tracking</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/uninterrupted-gaming-experience-discover-how-with-a-specialized-apc-backup-unit-overview/"><u>Uninterrupted Gaming Experience? Discover How With a Specialized APC Backup Unit Overview</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unraveling-vsco-a-detailed-review-with-benefits-drawbacks-comparisons-and-best-alternatives/"><u>Unraveling VSCO: A Detailed Review with Benefits, Drawbacks, Comparisons, and Best Alternatives</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nfographic-social-video-marketing-tips-for-small-business-for-2024/"><u>[New] [Infographic] Social Video Marketing Tips for Small Business for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-best-video-format-for-youtube-uploading/"><u>[Updated] Best Video Format for YouTube Uploading</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-framework-for-visual-storytelling/"><u>[Updated] Framework for Visual Storytelling</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-advice-remedying-mysteries-in-macos-folders/"><u>Expert Advice: Remedying '?' Mysteries in macOS Folders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/implications-of-embracing-decentralization-and-web3-technologies-for-businesses-an-in-depth-analysis-by-zdnet/"><u>Implications of Embracing Decentralization & Web3 Technologies for Businesses - An In-Depth Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/increased-patent-safeguards-for-linux-systems-oin-exclusivity-intensifies-skirts-ai-coverage-zdnet/"><u>INCREASED PATENT SAFEGUARDS FOR LINUX SYSTEMS: OIN EXCLUSIVITY INTENSIFIES, SKIRTS AI COVERAGE - ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-the-decade-journey-of-revolutionizing-cloud-computing-past-achievements-and-future-trends-zdnet/"><u>Kubernetes: The Decade Journey of Revolutionizing Cloud Computing - Past Achievements and Future Trends | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-design-thinking-for-deeper-connections-empowering-tech-experts-to-improve-customer-journeys-zdnet-perspectives/"><u>Leveraging Design Thinking for Deeper Connections: Empowering Tech Experts to Improve Customer Journeys | ZDNET Perspectives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-cold-reception-how-companies-are-taking-their-time-with-embracing-the-heat-of-5g-innovation/"><u>Navigating the Cold Reception: How Companies Are Taking Their Time with Embracing the Heat of 5G Innovation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-a-comprehensive-guide-to-taming-linux-and-open-source-docs/"><u>Organizing Chaos: A Comprehensive Guide to Taming Linux & Open Source Docs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-pdhdll-not-detected-comprehensive-solutions/"><u>Resolving pdh.dll Not Detected: Comprehensive Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-manual-zdnet/"><u>Revolutionizing UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Manual | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-uploading-images-from-iphone-to-windows-pc/"><u>Step-by-Step Guide: Uploading Images From iPhone to Windows PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-windows-10-with-hp-graphics-update/"><u>Streamline Windows 10 with HP Graphics Update</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tackling-troublesome-subwoofer-whirring-expert-fixes-revealed/"><u>Tackling Troublesome Subwoofer Whirring: Expert Fixes Revealed!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unbeatable-video-splitters-to-match-xplit-for-2024/"><u>Unbeatable Video Splitters to Match Xplit for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-ultimate-selection-of-apple-watches-for-2-a-comprehensive-expert-review-guide-by-gadgetguru/"><u>Unveiling the Ultimate Selection of Apple Watches for 2# - A Comprehensive Expert Review Guide by GadgetGuru</u></a></li>
 </ul></div>
 

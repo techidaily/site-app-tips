@@ -1,7 +1,7 @@
 ---
 title: "Section 4A: Advanced Antenna Array Theory"
-date: 2024-09-18T20:58:58.641Z
-updated: 2024-09-26T03:26:25.399Z
+date: 2024-10-10T06:18:46.497Z
+updated: 2024-10-12T09:42:46.731Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,16 +187,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-navigating-tiktoks-money-making-path-in-8-key-steps/"><u>[Updated] 2024 Approved Navigating TikTok's Money-Making Path in 8 Key Steps</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1-ultimate-guide-resolving-netflix-issues-and-overcoming-streaming-obstacles/"><u>1. Ultimate Guide: Resolving Netflix Issues and Overcoming Streaming Obstacles</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-best-8-linux-platforms-for-video-mastery/"><u>2024 Approved Best 8 Linux Platforms for Video Mastery</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-metaverse-joke-ology-building-your-own-hilarious-memes/"><u>2024 Approved Metaverse Joke-Ology Building Your Own Hilarious Memes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/o-get-free-views-on-youtube-2-easy-ways-for-2024/"><u>How to Get Free Views on YouTube [2 Easy Ways] for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-90-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-use-your-itunes-gift-card-on-ios-devices-and-mac-computers/"><u>How To Use Your iTunes Gift Card On iOS Devices And Mac Computers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-transform-your-speech-access-to-no-cost-voice-manipulation-tools/"><u>In 2024, Transform Your Speech Access to No-Cost Voice Manipulation Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revive-missing-iphone-apps-and-photos-data-recovery-solutions-for-your-itunes-backups/"><u>Revive Missing iPhone Apps and Photos: Data Recovery Solutions for Your iTunes Backups</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-methods-revive-your-lost-itunes-downloads-across-all-devices/"><u>Simple Methods: Revive Your Lost iTunes Downloads Across All Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-your-connectivity-issues-what-to-try-when-itunes-fails-to-detect-iphone-ipad-or-ipod/"><u>Solving Your Connectivity Issues: What To Try When iTunes Fails To Detect iPhone, iPad Or iPod</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-webm-audio-extraction-from-twitta-vids/"><u>[New] In 2024, WebM Audio Extraction From Twitta Vids</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unleash-potential-7-exceptional-services-for-digital-art-nfts/"><u>[New] Unleash Potential 7 Exceptional Services for Digital Art NFTs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-achieve-peak-performance-enhancing-gameplay-using-switch-pro-controller-in-steam-for-2024/"><u>[Updated] Achieve Peak Performance Enhancing Gameplay Using Switch Pro Controller in Steam for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-sony-xperia-1-v-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Sony Xperia 1 V Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-steps-to-transition-from-windows-to-linux-mint-for-optimized-performance-cnet/"><u>Complete Steps to Transition From Windows to Linux Mint for Optimized Performance | C|Net</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolution-of-dev-responsibilities-as-seen-by-agnes-ro-of-atlassian-expert-analysis-on-zdnet/"><u>Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-to-transform-your-footage-in-gopro-studio/"><u>In 2024, Innovative Techniques to Transform Your Footage in GoPro Studio</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-codenotarys-sbom-solution-a-revolution-in-managing-dependencies-on-kubernetes-insights-from-zdnet/"><u>Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/master-class-accessing-elite-visual-content-without-expense/"><u>Master Class Accessing Elite Visual Content Without Expense</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-shift-to-cloud-infrastructure-amidst-an-era-of-persistent-on-premises-systems-insights-from-zdnet/"><u>Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-wonders-of-windows-11-for-2024/"><u>New Wonders of Windows 11 for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pcs-picks-the-finest-ps1-game-emulators-for-2024/"><u>PC's Picks The Finest PS1 Game Emulators for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tackling-disorder-in-linux-and-open-source-manuals-unveiling-the-ultimate-fix-zdnet/"><u>Tackling Disorder in Linux & Open Source Manuals: Unveiling the Ultimate Fix | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-cloud-tech-vs-current-dominance-of-on-site-solutions-a-deep-dive-with-zdnet/"><u>The Rise of Cloud Tech Vs. Current Dominance of On-Site Solutions - A Deep Dive with ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-6-best-standalone-translation-tools-you-should-know-about/"><u>Top 6 Best Standalone Translation Tools You Should Know About</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-crm-platforms-of-2022-revealed-see-whos-leading-in-customer-engagement-zdnet/"><u>Top CRM Platforms of 2022 Revealed: See Who's Leading in Customer Engagement - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-leading-antivirus-programs-according-to-zdnet/"><u>Ultimate List: Leading Antivirus Programs , According to ZDNet</u></a></li>
 </ul></div>
 

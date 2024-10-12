@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: New Release of Robust, Enduring Linux Kernel for Extended Lifetime Support"
-date: 2024-09-25T21:18:06.836Z
-updated: 2024-09-30T23:44:18.883Z
+date: 2024-10-10T22:52:07.009Z
+updated: 2024-10-12T04:23:32.706Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,22 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-creating-striking-channel-imagery-best-practices-for-success/"><u>[New] 2024 Approved Creating Striking Channel Imagery Best Practices for Success</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-compose-your-cinematic-storytelling-add-melodies-to-iphone-videos-without-cost-for-2024/"><u>[New] Compose Your Cinematic Storytelling – Add Melodies to iPhone Videos Without Cost for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-sound-savvy-mastering-podcast-playback-on-iphones/"><u>[New] The Sound Savvy Mastering Podcast Playback on iPhones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-discovering-the-ultimate-ai-watermark-techniques-insights-from-zdnet/"><u>1. Discovering the Ultimate AI Watermark Techniques: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-dj-how-does-machine-curated-music-stack-up-against-human-selection/"><u>AI DJ: How Does Machine-Curated Music Stack Up Against Human Selection?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-ways-to-tackle-windows-rpc-errors-effectively/"><u>Easy Ways to Tackle Windows RPC Errors Effectively</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a24-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy A24 Phone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-x-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone X</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-todays-dilemma-strategies-to-tackle-imprecise-outcomes-in-artifical-intelligence-expert-analysis-by-zdnet/"><u>Mastering Today’s Dilemma: Strategies to Tackle Imprecise Outcomes in Artifical Intelligence | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-legacy-systems-lessons-from-a-failed-upgrade-insights-and-strategies/"><u>Navigating Legacy Systems: Lessons From a Failed Upgrade - Insights & Strategies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-your-zoom-video-calling-issues-stabilizing-an-erratic-internet-connection/"><u>Solving Your Zoom Video Calling Issues: Stabilizing an Erratic Internet Connection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolution-of-coding-from-rote-methods-to-ai-enhanced-software-engineering-insights-from-zdnet/"><u>The Evolution of Coding: From Rote Methods to AI-Enhanced Software Engineering - Insights From ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-guide-successfully-downloading-and-installing-mouse-drivers-on-windows/"><u>Ultimate Guide: Successfully Downloading and Installing Mouse Drivers on Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-singapores-2nbillion-commitment-to-supercharge-its-it-infrastructure-and-elevate-digital-solutions-tech-insight/"><u>Unveiling Singapore's $2.nBillion Commitment to Supercharge Its IT Infrastructure and Elevate Digital Solutions | Tech Insight</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-breakthrough-how-to-make-a-picture-speak/"><u>Updated 2024 Approved Breakthrough How to Make A Picture Speak</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-addressing-outdated-technology-is-crucial-a-case-study-on-migration-missteps/"><u>Why Addressing Outdated Technology Is Crucial: A Case Study on Migration Missteps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-pull-of-open-source-for-global-leaders-in-innovation/"><u>ZDNet Explores the Pull of Open Source for Global Leaders in Innovation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-boost-your-youtube-output-rapid-video-rendering-and-transfer/"><u>[Updated] 2024 Approved Boost Your YouTube Output - Rapid Video Rendering and Transfer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quicktime-screen-recording-with-audio-guide-for-2024/"><u>[Updated] QuickTime Screen Recording with Audio Guide for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-2024-fix-resolving-path-of-exile-connection-issues-with-the-instance/"><u>Complete 2024 Fix: Resolving Path of Exile Connection Issues with the Instance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-your-projects-top-10-after-effects-text-plans/"><u>Enhance Your Projects Top 10 After Effects Text Plans</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193252-experience-endless-possibilities-access-free-cracked-applications-for-ios-and-android-via-appcake-today/"><u>Experience Endless Possibilities: Access Free, Cracked Applications for iOS & Android via AppCake Today</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-c210-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C210</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-redmi-note-12-4g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi Redmi Note 12 4G FRP Bypass</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mobile-memories-creator-high-quality-iphone-photo-and-file-printer/"><u>Mobile Memories Creator: High-Quality iPhone Photo & File Printer</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/mod-wmv-mkv-movavi/"><u>MOD WMV 영상 포함된 비용 부과 없이 MKV로 전환하는 일광인터넷 해제서리 – Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-2-apps-for-effortless-iphone-reflection-on-televisions-and-desktops/"><u>The Ultimate Guide: Top 2 Apps for Effortless iPhone Reflection on Televisions and Desktops</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-stunning-gallery-apps-on-android-your-guide-to-capturing-and-sharing-perfect-images/"><u>Top 10 Stunning Gallery Apps on Android: Your Guide to Capturing and Sharing Perfect Images</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-messaging-apps-compatible-with-iphone-and-android-finding-the-perfect-one/"><u>Top Rated Messaging Apps Compatible with iPhone & Android: Finding the Perfect One</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-free-iphone-and-android-entertainment-with-appcake-get-all-your-favorite-cracked-apps-and-games-now/"><u>Unlock Free iPhone & Android Entertainment with AppCake - Get All Your Favorite Cracked Apps & Games Now!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-ultimate-convenience-and-safety-on-ios-discover-the-premier-password-protector-app/"><u>Unlock Ultimate Convenience & Safety on iOS - Discover the Premier Password Protector App</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unleash-your-artistry-top-10-music-video-creation-services/"><u>Updated 2024 Approved Unleash Your Artistry Top 10 Music Video Creation Services</u></a></li>
 </ul></div>
 

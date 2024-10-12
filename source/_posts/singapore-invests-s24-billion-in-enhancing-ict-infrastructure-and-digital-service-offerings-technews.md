@@ -1,7 +1,7 @@
 ---
 title: Singapore Invests S$2.4 Billion in Enhancing ICT Infrastructure & Digital Service Offerings | TechNews
-date: 2024-09-19 15:50:18
-updated: 2024-09-20 10:41:17
+date: 2024-10-09T12:08:27.839Z
+updated: 2024-10-11T18:07:06.934Z
 tags:
   - digital-transformation
 categories:
@@ -68,11 +68,35 @@ The government's ICT budget last year was [focused on moving its systems to the 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-browse-these-top-10-online-markets-for-one-of-a-kind-gift-boxes/"><u>[New] Browse These Top 10 Online Markets for One-of-a-Kind Gift Boxes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-3-part-blueprint-to-monitor-and-maximize-your-youtube-profits/"><u>[Updated] 3-Part Blueprint to Monitor and Maximize Your YouTube Profits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-as-a-savior-for-overworked-it-staff-mitigating-job-burnout-and-alert-fatigue-insights/"><u>AI as a Savior for Overworked IT Staff - Mitigating Job Burnout and Alert Fatigue Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-chatbot-bias-revealed-lingual-limitations-highlighted-by-new-stanford-research-insights-on-googles-language-barrier/"><u>AI Chatbot Bias Revealed: Lingual Limitations Highlighted by New Stanford Research - Insights on Google's Language Barrier</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-revolution-exploring-how-generative-technology-could-increase-the-volume-of-work-tech-insights-on-zdnet/"><u>AI Revolution: Exploring How Generative Technology Could Increase the Volume of Work | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asean-countries-set-to-boost-digital-market-with-stronger-regulations-reaching-2t-growth-by-2030-insights-from-zdnet/"><u>ASEAN Countries Set to Boost Digital Market with Stronger Regulations, Reaching $2T Growth by 2030 - Insights From ZDNET</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/effective-guide-to-cast-apple-iphone-x-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>Effective Guide to Cast Apple iPhone X to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-generative-ai-could-increase-labor-demand-despite-efficiency-promises-insights-from-zdnet/"><u>How Generative AI Could Increase Labor Demand Despite Efficiency Promises: Insights From ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-and-update-sas-driver-on-your-windows-pc-windows-11-8-7/"><u>How to Get and Update SAS Driver on Your Windows PC (Windows 11, 8, 7)</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-a05s-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy A05s Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/minecraft-realms-reviewed-are-these-virtual-worlds-worth-your-spare-change/"><u>Minecraft Realms Reviewed – Are These Virtual Worlds Worth Your Spare Change?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-path-to-becoming-a-chief-artificial-intelligence-officer-insights-and-strategies/"><u>Navigating the Path to Becoming a Chief Artificial Intelligence Officer | Insights & Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/stop-misplaced-story-tags-on-facebook-for-2024/"><u>Stop Misplaced Story Tags on Facebook for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oppo-a18-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Oppo A18? Here is How | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet"
-date: 2024-09-29T18:28:19.538Z
-updated: 2024-10-06T16:15:18.286Z
+date: 2024-10-05T22:22:57.482Z
+updated: 2024-10-12T08:51:51.517Z
 tags:
   - password-manager
 categories:
@@ -64,29 +64,31 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-exploring-roleplayings-boundaries-rogues-and-roguities/"><u>[New] 2024 Approved Exploring Roleplaying's Boundaries Rogues & Roguities</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-eliminate-excess-efficient-use-of-the-eraser-in-photoshop-for-2024/"><u>[New] Eliminate Excess Efficient Use of the Eraser in Photoshop for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-latest-lg-360-camera-features-and-review/"><u>[New] In 2024, Latest LG 360 Camera Features and Review</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instas-friendship-breakdown-detect-it-fast-for-2024/"><u>[New] Insta's Friendship Breakdown Detect It Fast for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sharp-as-day-the-top10-clearer-photo-editors-list/"><u>[New] Sharp as Day The #Top10 Clearer Photo Editors List</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-redefine-video-communication-with-your-webcam-for-2024/"><u>[Updated] Redefine Video Communication with Your Webcam for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-understanding-cultural-influences-on-consumer-behavior-in-global-markets/"><u>[Updated] Understanding Cultural Influences on Consumer Behavior in Global Markets</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-easy-steps-to-screen-recording-across-oses-and-devices/"><u>2024 Approved Easy Steps to Screen Recording Across OSes & Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/4-essential-strategies-to-retrieve-and-rebuild-ios-apps-using-apples-icloud-services/"><u>4 Essential Strategies to Retrieve and Rebuild iOS Apps Using Apple's iCloud Services</u></a></li>
-<li><a href="https://app-tips.techidaily.com/android-performance-booster-fast-track-your-phone-with-efficient-task-killing/"><u>Android Performance Booster: Fast Track Your Phone with Efficient Task Killing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-and-premium-high-speed-camera-applications-for-both-iphone-and-android-users/"><u>Best Free and Premium High-Speed Camera Applications for Both iPhone and Android Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-full-simplemdm-essential-insights-for-ios-and-macos-users/"><u>Comprehensive Evaluation: Full SimpleMDM - Essential Insights for iOS and macOS Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-cyberlinks-actiondirector-features-benefits-and-competitors/"><u>In-Depth Analysis of CyberLink's ActionDirector: Features, Benefits & Competitors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-magisto-video-software-advantages-limitations-and-comparative-assessment/"><u>In-Depth Analysis of Magisto Video Software: Advantages, Limitations & Comparative Assessment</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-messaging-schedulers-reviewed-discover-the-top-10-picks-for-smartphones/"><u>Leading Messaging Schedulers Reviewed: Discover the Top 10 Picks for Smartphones</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Motorola support - Forgotten screen lock.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/shadow-spectators-on-ig-uncover-the-ultimate-list-of-incognito-gazers-for-content-sneak-peeks/"><u>Shadow Spectators on IG: Uncover the Ultimate List of Incognito Gazers for Content Sneak Peeks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-maximize-your-experience-with-windows-11-tricks/"><u>[Updated] 2024 Approved Maximize Your Experience with Windows 11 Tricks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-comprehensive-list-of-excellent-fb-cover-photo-creators-for-2024/"><u>[Updated] A Comprehensive List of Excellent FB Cover Photo Creators for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-jumpstarting-creativity-turning-graphics-into-emoji-stickers-with-ease/"><u>2024 Approved Jumpstarting Creativity Turning Graphics Into Emoji Stickers with Ease</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-ranking-the-leading-free-srt-translation-tools/"><u>2024 Approved Ranking the Leading Free SRT Translation Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beware-latest-microsoft-patch-could-escalate-professional-burnout-insights-from-zdnet/"><u>Beware! Latest Microsoft Patch Could Escalate Professional Burnout - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-new-corsair-h80i-v2-liquid-cpu-cooler-drivers/"><u>Get Your New Corsair H80i V2 Liquid CPU Cooler Drivers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-development-work-is-changing-a-conversation-with-atlassians-agnes-ro-as-spotted-on-zdnet/"><u>How Development Work Is Changing: A Conversation with Atlassian's Agnes Ro, as Spotted on ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-itel-a60-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Itel A60</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-sale-on-the-m3-macbook-air-speedy-16gb-and-elegant-13-for-just-1149-dont-miss-out/"><u>Limited Time Sale on the M3 MacBook Air: Speedy 16GB & Elegant 13 for Just $1,149 - Don't Miss Out!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-modern-obstacles-dealing-with-ambiguous-results-and-faulty-accuracy-in-artificial-intelligence-analysis-by-zdnet/"><u>Mastering Modern Obstacles: Dealing with Ambiguous Results and Faulty Accuracy in Artificial Intelligence | Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-windows-11-your-complete-reference-tips-and-tricks-with-zdnets-expert-guide/"><u>Mastering Windows 11: Your Complete Reference, Tips & Tricks with ZDNet's Expert Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/pioneering-beyond-standard-llms-in-artificial-intelligence-development-insights-from-an-ai-scientist-at-zdnet/"><u>Pioneering Beyond Standard LLMs in Artificial Intelligence Development | Insights From an AI Scientist at ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-poco-f5-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Poco F5 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-business-connectivity-celonas-60m-series-c-fuels-next-gen-enterprise-5g-solutions-zdnet-insights/"><u>Revolutionizing Business Connectivity: Celona's $60M Series C Fuels Next-Gen Enterprise 5G Solutions | ZDNet Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sky-sprints-guide-to-excellence-plus-ultimate-fpv-drones-for-speed/"><u>Sky Sprints Guide to Excellence + Ultimate FPV Drones for Speed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-8-no-cost-video-chat-tools-pcmac-compatibility/"><u>Top 8 No-Cost Video Chat Tools PC/Mac Compatibility</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-covid-19-immunization-platforms-the-ultimate-guide-techreview/"><u>Top Rated COVID-19 Immunization Platforms: The Ultimate Guide - TechReview</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-complexity-streamlining-linux-and-community-guides-for-effortless-understanding/"><u>Unraveling Complexity: Streamlining Linux & Community Guides for Effortless Understanding</u></a></li>
+<li><a href="https://app-tips.techidaily.com/your-guide-to-extending-windows-11-life-top-5-alternatives-as-support-winds-down-zdnet/"><u>Your Guide to Extending Windows 11 Life: Top 5 Alternatives as Support Winds Down - ZDNet</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

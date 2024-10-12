@@ -1,7 +1,7 @@
 ---
 title: "The Rising Popularity: How OpenStack & Kata Containers Gain Renewed Interest - Insights From ZDNet"
-date: 2024-09-23T00:30:06.941Z
-updated: 2024-09-25T21:03:15.652Z
+date: 2024-10-08T18:02:15.528Z
+updated: 2024-10-11T22:58:07.193Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,21 +181,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-essential-enhancements-for-a-superstar-stardew-fan/"><u>[New] In 2024, The Essential Enhancements for a Superstar Stardew Fan</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-audience-hooks-writing-captivating-podcast-descriptions/"><u>2024 Approved Audience Hooks Writing Captivating Podcast Descriptions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-users-perspective-on-senuti-software-with-ideal-substitutes-compatible-with-pc-and-apple-devices/"><u>A User's Perspective on Senuti Software with Ideal Substitutes Compatible with PC and Apple Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/accessing-hidden-reaction-mechanisms-of-youtube-users-for-2024/"><u>Accessing Hidden Reaction Mechanisms of YouTube Users for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/audiophiles-guide-download-and-review-sound-files/"><u>Audiophile's Guide Download & Review Sound Files</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/crimson-update-kit/"><u>Crimson Update Kit</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-the-power-of-chatgpt-with-searchgpt-the-ultimate-ai-driven-web-search-platform/"><u>Discover the Power of ChatGPT with SearchGPT: The Ultimate AI-Driven Web Search Platform</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-overcome-recurring-shutdown-problems-with-the-finals-software-on-desktops/"><u>Expert Tips to Overcome Recurring Shutdown Problems with 'The Finals' Software on Desktops</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278690-get-your-favorite-songs-and-movies-for-free-directly-from-itunes-no-cost-at-all/"><u>Get Your Favorite Songs and Movies for Free Directly From iTunes – No Cost at All!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-completely-erase-irrelevant-applications-from-itunes-for-good/"><u>How To Completely Erase Irrelevant Applications From iTunes for Good</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-potential-androidandioss-top-free-overlay-tools-guide/"><u>In 2024, Unlock Potential Android&iOS's Top Free Overlay Tools Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278349-revamp-your-itunes-collection-with-these-proven-techniques-for-inserting-album-images/"><u>Revamp Your iTunes Collection with These Proven Techniques for Inserting Album Images!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/reviving-lost-conversations-a-step-by-step-guide-to-recovering-deleted-messages-in-itunes/"><u>Reviving Lost Conversations: A Step-by-Step Guide to Recovering Deleted Messages in iTunes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-zdsoft-video-recording-for-2024/"><u>The Ultimate Guide to ZDSoft Video Recording for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-common-itunes-problems-downloading-updating-logging-in-and-connectivity/"><u>Troubleshooting Common iTunes Problems: Downloading, Updating, Logging In & Connectivity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-step-by-step-tutorial-restoring-your-itunes-collection-like-a-pro/"><u>Ultimate Step-by-Step Tutorial: Restoring Your iTunes Collection Like a Pro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhance-post-impact-auto-adjusting-videos-for-instagram-on-mac/"><u>[New] Enhance Post Impact Auto-Adjusting Videos for Instagram on Mac</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-build-a-custom-facebook-coverage/"><u>[New] In 2024, Build a Custom Facebook Coverage</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-restore-windows-photo-viewer-quick-effective-ways-for-win10/"><u>[New] Restore Windows Photo Viewer Quick, Effective Ways for Win10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-techniques-for-effortless-facebook-video-posting-pcandroid/"><u>[New] Techniques for Effortless Facebook Video Posting, PC/Android</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-6-cheapest-action-cameras-to-buy-under-100-for-2024/"><u>[New] Top 6 Cheapest Action Cameras to Buy Under $100 for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-how-adobes-enterprise-level-ai-feature-transforms-team-collaboration-insights-from-zdnet/"><u>1. How Adobe's Enterprise-Level AI Feature Transforms Team Collaboration: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-transforming-business-the-effects-of-decentralization-and-web3-on-corporations-insights-from-zdnet/"><u>1. Transforming Business: The Effects of Decentralization & Web3 on Corporations - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-game-changing-entrant-in-the-video-call-arena-outshines-microsoft-teams-and-zoom-with-lip-reading-capabilities-zdnet/"><u>A Game-Changing Entrant in the Video Call Arena Outshines Microsoft Teams and Zoom with Lip-Reading Capabilities | ZDNet</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-no-cost-mp4-to-mp3-software-top-rated-tools-for-seamless-audio-conversion/"><u>Best No Cost MP4 to MP3 Software - Top Rated Tools for Seamless Audio Conversion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/celona-secures-60m-in-funding-drives-enterprise-level-5g-innovation-tech-news/"><u>Celona Secures $60M in Funding, Drives Enterprise-Level 5G Innovation - Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybersecurity-measures/"><u>Cybersecurity Measures</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-convert-your-dvd-collection-to-mkv-format-flawlessly/"><u>How to Convert Your DVD Collection to MKV Format Flawlessly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-how-non-apple-companies-offer-more-enjoyable-work-experiences-confirms-ex-employee-zdnet/"><u>Inside Look: How Non-Apple Companies Offer More Enjoyable Work Experiences, Confirms Ex-Employee | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-your-path-in-technology-with-insights-from-an-industry-titan-the-inside-scoop-on-building-a-career-at-boeing-zdnet/"><u>Navigating Your Path in Technology with Insights From an Industry Titan - The Inside Scoop on Building a Career at Boeing [ZDNet]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revitalize-your-reels-a-compreenas-guide-for-enhancer-22/"><u>Revitalize Your Reels A Compreenas Guide for Enhancer 2.2</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-gopro-video-editing-101-getting-started-with-quik-on-macbook-for-2024/"><u>Updated GoPro Video Editing 101 Getting Started with Quik on MacBook for 2024</u></a></li>
 </ul></div>
 

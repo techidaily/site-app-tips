@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Ultimate Ranking: The Leading Antivirus Solutions"
-date: 2024-09-30T16:13:14.062Z
-updated: 2024-10-06T17:28:51.420Z
+date: 2024-10-10T17:16:33.100Z
+updated: 2024-10-11T19:53:40.366Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,22 +187,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-crimson-classic-codec/"><u>[New] 2024 Approved Crimson Classic Codec</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximizing-your-time-best-ways-to-follow-facebook-live/"><u>[New] 2024 Approved Maximizing Your Time Best Ways to Follow Facebook Live</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-from-ordinary-to-stunning-photo-tile-magic/"><u>[New] From Ordinary to Stunning Photo Tile Magic</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-beat-the-hate-smoothly-add-tracks-into-your-video-on-windows-11/"><u>[Updated] Beat the Hate Smoothly Add Tracks Into Your Video on Windows 11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-exploring-free-screen-capture-tools/"><u>[Updated] In 2024, Exploring Free Screen Capture Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-strategies-to-resolve-android-whatsapp-backup-issues-top-5-tips/"><u>Best Strategies to Resolve Android WhatsApp Backup Issues: Top 5 Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-nubia-red-magic-8s-pro-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-steps-to-accessing-whatsapp-anonymously-no-phone-required/"><u>Comprehensive Steps to Accessing WhatsApp Anonymously: No Phone Required</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620197018-expert-tips-for-retrieving-lost-whatsapp-data-on-ios-recover-texts-images-movies-and-sounds-easily/"><u>Expert Tips for Retrieving Lost WhatsApp Data on iOS - Recover Texts, Images, Movies & Sounds Easily!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-retrieve-older-whatsapp-messages-a-guide-to-accessing-deleted-or-archived-conversations/"><u>How to Retrieve Older WhatsApp Messages: A Guide to Accessing Deleted or Archived Conversations</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nokia-105-classic-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Nokia 105 Classic Lock Screen Password?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-friends-into-your-chat-list-a-comprehensive-tutorial-for-ios-and-android-users-of-whatsapp/"><u>Integrating Friends Into Your Chat List: A Comprehensive Tutorial for iOS & Android Users of WhatsApp</u></a></li>
-<li><a href="https://windows11.techidaily.com/powertoys-lockmaster-a-compreayers-guide-to-files/"><u>PowerToys Lockmaster: A Compreayer's Guide to Files</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revise-your-mobile-details-easily-the-ultimate-walkthrough-for-switching-numbers-on-whatsapp/"><u>Revise Your Mobile Details Easily: The Ultimate Walkthrough for Switching Numbers on WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-adding-new-contacts-in-whatsapp-across-iphone-and-android-devices/"><u>Step-by-Step Guide: Adding New Contacts in WhatsApp Across iPhone & Android Devices</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723001475674-troubleshooting-performance-hitches-in-forza-horizon-5-solutions-included/"><u>Troubleshooting Performance Hitches in Forza Horizon 5 - Solutions Included!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-how-to-restore-deleted-whatsapp-conversations-on-android-phones/"><u>Ultimate Guide: How to Restore Deleted WhatsApp Conversations on Android Phones</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-a-treasury-of-thought-provoking-youtube-content/"><u>[New] A Treasury of Thought-Provoking YouTube Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-comprehensive-guide-to-9gag-for-meme-enthusiasts/"><u>2024 Approved The Comprehensive Guide to 9GAG for Meme Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-asus-rog-phone-8-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Asus ROG Phone 8 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-employer-appeal-with-low-code-solutions-insights-from-zdnet/"><u>Boosting Employer Appeal with Low-Code Solutions: Insights From ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/efficiently-archiving-mov-movies-on-windows-10-pcs-for-2024/"><u>Efficiently Archiving .mov Movies on Windows 10 PCs for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/effortless-techniques-transform-your-flv-videos-into-crystal-clear-mp3s-in-three-simple-steps/"><u>Effortless Techniques: Transform Your FLV Videos Into Crystal Clear MP3s in Three Simple Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-project-outcomes-using-agile-methodology-learn-the-6-essential-strategies-for-effective-software-design-zdnet/"><u>Elevate Your Project Outcomes Using Agile Methodology: Learn the 6 Essential Strategies for Effective Software Design | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-microsoft-edge-experience-discover-premier-add-ons-endorsed-by-zdnet/"><u>Enhance Microsoft Edge Experience: Discover Premier Add-Ons Endorsed by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-90-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 90 Devices | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-premier-ios-choice-best-emulators-of-psp-games/"><u>In 2024, Premier iOS Choice Best Emulators of PSP Games</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-excel-cell-consolidation-techniques-with-expert-advice-from-zdnet/"><u>Master Excel Cell Consolidation Techniques with Expert Advice From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/safety/"><u>Safety</u></a></li>
+<li><a href="https://app-tips.techidaily.com/surpassing-all-others-in-performance-and-user-friendliness-the-unrivaled-excellence-of-linux-mint-asterisk-22-zdnet-insight/"><u>Surpassing All Others in Performance and User-Friendliness: The Unrivaled Excellence of Linux Mint Asterisk 22 | ZDNET Insight</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-10-best-free-facetime-for-android-alternatives-for-2024/"><u>Top 10 Best Free FaceTime for Android Alternatives for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-honor-magic-6-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Honor Magic 6 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-mastering-linux-skills-through-elite-foundation-courses-and-intensive-bootcamps/"><u>Ultimate Guide to Mastering Linux Skills Through Elite Foundation Courses & Intensive Bootcamps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-codenotarys-sbom-software-bill-of-materials-platform-innovative-solutions-for-managing-dependencies-in-kubernetes-environments-zdnet/"><u>Unveiling Codenotary's SBOM (Software Bill of Materials) Platform: Innovative Solutions for Managing Dependencies in Kubernetes Environments - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-alert-microsoft-faces-critical-challenge-with-windows-10-only-a-year-left-zdnet/"><u>Urgent Alert: Microsoft Faces Critical Challenge with Windows 10 - Only a Year Left! [ZDNet]</u></a></li>
 </ul></div>
 

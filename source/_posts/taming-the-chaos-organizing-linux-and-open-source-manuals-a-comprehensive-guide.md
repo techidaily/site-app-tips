@@ -1,7 +1,7 @@
 ---
 title: "Taming the Chaos: Organizing Linux & Open Source Manuals - A Comprehensive Guide"
-date: 2024-09-29T16:14:58.980Z
-updated: 2024-10-06T16:57:13.055Z
+date: 2024-10-11T07:53:25.315Z
+updated: 2024-10-12T11:17:14.409Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +187,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-linux-screenshot-solutions-the-ultimate-guide/"><u>[New] 2024 Approved Linux Screenshot Solutions The Ultimate Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/1716069863793-new-2024-approved-screen-recording-through-built-in-features-of-huaweis-mate-and-p-devices-p20-p10/"><u>[New] 2024 Approved Screen Recording Through Built-In Features of Huawei's Mate and P Devices (P20, P10).</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-7-action-cams-to-capture-ski-trips/"><u>[Updated] In 2024, Top 7 Action Cams to Capture Ski Trips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apples-path-to-revitalizing-visiopro-top-3-tactics-for-a-comeback/"><u>Apple's Path to Revitalizing VisioPro: Top 3 Tactics for a Comeback</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehending-ai-an-insight-into-its-potential-risks/"><u>Comprehending AI: An Insight Into Its Potential Risks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-itunes-backup-strategies-learn-the-best-techniques-for-protection/"><u>Comprehensive iTunes Backup Strategies – Learn the Best Techniques for Protection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-strategies-to-overcome-non-functional-music-playback-on-itunes/"><u>Effective Strategies to Overcome Non-Functional Music Playback on iTunes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-non-loading-photos-in-safari-top-9-solutions-for-iphones/"><u>Fixing Non-Loading Photos in Safari: Top 9 Solutions for iPhones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-depth-analysis-of-microsoft-surface-pro-8-tailored-solutions-for-enterprise-users-insights-from-zdnet/"><u>In-Depth Analysis of Microsoft Surface Pro 8: Tailored Solutions for Enterprise Users - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/itunes-backup-file-restoration-how-to-retrieve-deleted-or-lost-ios-content-from-your-itunes-archive/"><u>ITunes Backup File Restoration: How to Retrieve Deleted or Lost iOS Content From Your iTunes Archive</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lost-your-itunes-account-passcode-discover-the-top-methods-to-retrieve-it/"><u>Lost Your iTunes Account Passcode? Discover the Top Methods to Retrieve It</u></a></li>
-<li><a href="https://app-tips.techidaily.com/move-it-like-that-a-guide-for-shifting-itunes-lists-onto-usb-drives-across-windows-and-mac-systems/"><u>Move It Like That: A Guide for Shifting iTunes Lists Onto USB Drives Across Windows and Mac Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/resolve-constant-itunes-password-prompts-on-your-iphone-with-this-simple-guide/"><u>Resolve Constant ITunes Password Prompts on Your iPhone with This Simple Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-steps-converting-your-avi-videos-into-apples-itunes-format-for-ios-devices/"><u>Simple Steps: Converting Your AVI Videos Into Apple's iTunes Format for iOS Devices</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/smooth-running-grand-theft-auto-v-solutions-to-eliminate-gameplay-hiccups/"><u>Smooth Running Grand Theft Auto V: Solutions to Eliminate Gameplay Hiccups</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-boosting-facebook-video-performance/"><u>[New] Boosting Facebook Video Performance</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discord-channel-management-made-simple-step-by-step-tutorial-for-2024/"><u>[New] Discord Channel Management Made Simple Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-quip-kernel-memomaker-suite/"><u>[New] Quip Kernel MemoMaker Suite</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-video-marketing-youtube-or-tiktok-for-2024/"><u>[Updated] Exploring Video Marketing YouTube or TikTok for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-freeze-the-fun-screenshots-and-recording-in-win10/"><u>[Updated] Freeze the Fun Screenshots & Recording in Win10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-green-screen-journey-begins-on-yt-ideas-take-flight/"><u>[Updated] In 2024, Green Screen Journey Begins on YT, Ideas Take Flight</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-to-increasing-fb-likes-with-top-apps/"><u>[Updated] The Ultimate Guide to Increasing FB Likes with Top Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/camera-surveillance/"><u>Camera Surveillance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cutting-edge-5g-expansion-verizon-partners-with-emerging-startup-celona-for-business-growth/"><u>Cutting-Edge 5G Expansion: Verizon Partners with Emerging Startup Celona for Business Growth</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-hybrid-cloud-intricacies-with-cutting-edge-features-of-red-hats-latest-enterprise-linux-distribution/"><u>Navigating Hybrid Cloud Intricacies with Cutting-Edge Features of Red Hat's Latest Enterprise Linux Distribution</u></a></li>
+<li><a href="https://facebook.techidaily.com/profiles-vs-screen-names-on-social-platforms-explained/"><u>Profiles vs Screen Names on Social Platforms Explained</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stability/"><u>Stability</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-chaos-in-linux-and-open-source-manuals-a-revolutionary-fix-zdnet-insight/"><u>Taming Chaos in Linux & Open Source Manuals: A Revolutionary Fix | ZDNet Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-workers-tired-yet-relieved-heres-the-silver-lining-insights-from-zdnet/"><u>Tech Workers Tired Yet Relieved? Here's the Silver Lining! - Insights From ZDNet</u></a></li>
 </ul></div>
 

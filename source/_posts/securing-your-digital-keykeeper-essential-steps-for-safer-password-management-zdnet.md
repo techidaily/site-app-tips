@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Digital Keykeeper: Essential Steps for Safer Password Management | ZDNet"
-date: 2024-10-03T19:08:49.792Z
-updated: 2024-10-06T18:15:07.509Z
+date: 2024-10-10T10:20:40.774Z
+updated: 2024-10-11T18:42:27.171Z
 tags:
   - password-manager
 categories:
@@ -42,10 +42,10 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -65,16 +65,10 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -98,10 +92,10 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -150,24 +144,22 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-custom-soundtracks-simplified-converting-from-spotify-playlists-to-youtube-music-for-2024/"><u>[New] Custom Soundtracks Simplified Converting From Spotify Playlists to YouTube Music for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-master-the-art-of-messaging-in-discord-apps-for-2024/"><u>[New] Master the Art of Messaging in Discord Apps for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-power-of-words-in-transforming-realities-to-documentaries/"><u>[Updated] In 2024, The Power of Words in Transforming Realities to Documentaries</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-turning-time-on-its-ear-unique-approaches-to-reversed-youtube-content/"><u>[Updated] Turning Time on Its Ear Unique Approaches to Reversed YouTube Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellence-in-image-making-via-premium-grid-makers/"><u>2024 Approved Excellence in Image Making via Premium Grid Makers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-vivid-visuals-brighten-on-android/"><u>2024 Approved Vivid Visuals Brighten on Android</u></a></li>
-<li><a href="https://app-tips.techidaily.com/antenna-arrays-can-synthesize-a-desired-radiation-pattern-by-controlling-the-relative-phases-and-amplitudes-of-signals-fed-to-each-element/"><u>Antenna Arrays Can Synthesize a Desired Radiation Pattern by Controlling the Relative Phases and Amplitudes of Signals Fed to Each Element.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cybersecurity-breakthroughs-with-ai-how-leading-experts-envision-defeating-digital-threats-zdnet/"><u>Cybersecurity Breakthroughs with AI: How Leading Experts Envision Defeating Digital Threats | ZDNet</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/dead-by-daylight-bugs-be-gone-a-step-by-step-solution-to-error-code-8014/"><u>Dead by Daylight Bugs Be Gone - A Step-by-Step Solution to Error Code 8014</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discord-not-working-heres-how-to-check-if-its-an-outage-or-your-network-problem/"><u>Discord Not Working? Here's How to Check if It’s an Outage or Your Network Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-macos-with-windows-based-tools-and-applications/"><u>Enhancing macOS with Windows-Based Tools and Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-citizen-devops-revolutionize-workload-management-in-corporate-it-systems/"><u>How Citizen DevOps Revolutionize Workload Management in Corporate IT Systems</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capturing-every-frame-the-apeaksoft-reviewed-screen-recorder/"><u>In 2024, Capturing Every Frame The Apeaksoft Reviewed Screen Recorder</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-new-release-a-game-changer-or-annoyance-find-out-how-it-stacks-up-zdnet/"><u>Microsoft's New Release: A Game Changer or Annoyance? Find Out How It Stacks Up [ZDNet]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-overlap-of-kernel-issues-and-cybersecurity-in-linux-environments-strategies-to-maintain-safety/"><u>Navigating the Overlap of Kernel Issues & Cybersecurity in Linux Environments - Strategies to Maintain Safety</u></a></li>
-<li><a href="https://app-tips.techidaily.com/new-advancements-for-ai-tasks-with-latest-kubernetes-version-released-insights-from-tech-experts-at-zdnet/"><u>New Advancements for AI Tasks with Latest Kubernetes Version Released, Insights From Tech Experts at ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ticking-clock-for-microsoft-overcoming-the-imminent-windows-11-dilemma-in-under-a-year-exclusive-insights-from-zdnet/"><u>Ticking Clock for Microsoft: Overcoming the Imminent Windows 11 Dilemma in Under a Year | Exclusive Insights From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-red-hats-lightspeed-an-advanced-ai-solution-tailored-for-kubernetes-admins-with-openshift-zdnet/"><u>Unveiling Red Hat’s Lightspeed: An Advanced AI Solution Tailored for Kubernetes Admins with OpenShift | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/where-is-microsofts-promised-free-windows-10-update-now/"><u>Where Is Microsoft's Promised Free Windows 10 Update Now?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-selfies-on-iphone-try-these-best-free-enhancers/"><u>[Updated] Mastering Selfies on iPhone? Try These Best Free Enhancers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-embark-on-an-odyssey-constructing-photo-collage-masterpieces/"><u>2024 Approved Embark on an Odyssey Constructing Photo Collage Masterpieces</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-the-eva-ai-chatbot-from-ex-journey-dont-miss-this/"><u>Comprehensive Guide to the EVA AI Chatbot From Ex Journey – Don't Miss This!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/delving-deep-into-chatsonic-a-thorough-assessment-of-the-cutting-edge-ai-chat-companion/"><u>Delving Deep Into Chatsonic: A Thorough Assessment of the Cutting-Edge AI Chat Companion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-how-these-10-cutting-edge-ai-chatbots-can-elevate-your-communication-game/"><u>Discover How These 10 Cutting-Edge AI Chatbots Can Elevate Your Communication Game</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-with-ais-best-kept-secret-an-in-depth-analysis-of-the-apo-assistant-chatbot-app/"><u>Experience Next-Level Interaction with AI's Best Kept Secret - An In-Depth Analysis of the Apo Assistant Chatbot App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-the-future-10-revolutionary-ai-chatbots-to-upgrade-your-conversations/"><u>Experience the Future: 10 Revolutionary AI Chatbots to Upgrade Your Conversations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-alternatives-to-elevenlabs-generative-voice-ai-technology/"><u>Exploring Alternatives to ElevenLabs' Generative Voice AI Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-enhanced-capabilities-of-chatgpt-2024-full-feature-breakdown-and-troubleshooting-server-errors/"><u>Exploring the Enhanced Capabilities of ChatGPT 2024 - Full Feature Breakdown & Troubleshooting Server Errors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-safeguard-your-live-streams-on-periscope-for-2024/"><u>How To Safeguard Your Live Streams on Periscope for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-iphone-13-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from iPhone 13 Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-navigating-the-world-of-virtual-engagements-effects-filters-and-more/"><u>In 2024, Navigating the World of Virtual Engagements Effects, Filters, & More</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-your-iphones-gif-experience-from-savings-to-showtime-for-2024/"><u>Streamlining Your iPhone's GIF Experience - From Savings to Showtime for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-best-substitutes-for-elevenlabs-groundbreaking-generative-voice-ai/"><u>The Best Substitutes for ElevenLabs' Groundbreaking Generative Voice AI</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mac-video-editing-studio-avs-editor-for-creative-projects/"><u>Updated Mac Video Editing Studio AVS Editor for Creative Projects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-monetary-potential-predictor/"><u>YouTube Monetary Potential Predictor</u></a></li>
 </ul></div>
 

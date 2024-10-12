@@ -1,7 +1,7 @@
 ---
 title: The Ascension of Cloud Computing Versus Current On-Premises Systems | Expert Analysis by ZDNet
-date: 2024-09-25T00:18:29.118Z
-updated: 2024-10-01T09:51:13.254Z
+date: 2024-10-09T11:28:21.912Z
+updated: 2024-10-12T02:29:41.426Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +187,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-traveling-lens-quieter-assistant-360/"><u>[New] In 2024, Traveling Lens Quieter Assistant 360°</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-guide-to-incredible-gopro-timelapse-cinematography-mastery/"><u>[Updated] Guide to Incredible GoPro Timelapse Cinematography Mastery</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-essential-guide-for-gopro-live-streams-to-social-media-hubs-for-2024/"><u>[Updated] The Essential Guide for GoPro Live Streams to Social Media Hubs for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/10-substitutes-for-bitlocker-in-winxp-systems/"><u>10 Substitutes for BitLocker in WinXP Systems</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-master-list-saving-your-favorite-ringtone-files/"><u>2024 Approved Master List Saving Your Favorite Ringtone Files</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-gt-5-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/apple-m1-demystified-the-tech-leap-forward/"><u>Apple M1 Demystified The Tech Leap Forward</u></a></li>
-<li><a href="https://app-tips.techidaily.com/as-the-need-for-data-talent-expands-one-organizations-proactive-approach-to-skill-development-zdnet/"><u>As the Need for Data Talent Expands, One Organization's Proactive Approach to Skill Development | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-for-singaporean-small-businesses-harnessing-genai-for-employee-development-zdnet/"><u>Comprehensive Guide for Singaporean Small Businesses: Harnessing GenAI for Employee Development | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/evolution-of-innovation-identifying-a-revolutionary-5g-application-surpassing-traditional-connectivity-boundaries-zdnet/"><u>Evolution of Innovation: Identifying a Revolutionary 5G Application Surpassing Traditional Connectivity Boundaries | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-ai-is-revolutionizing-teamwork-among-developers-and-business-professionals-insights-from-zdnet/"><u>How AI Is Revolutionizing Teamwork Among Developers and Business Professionals - Insights From ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location on TikTok to See More Content On your Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-surge-of-edge-computing-devices-implications-for-professional-growth-and-opportunities-zdnet/"><u>Navigating the Surge of Edge Computing Devices: Implications for Professional Growth and Opportunities | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/prepare-your-leaders-why-managerial-training-is-key-for-successful-ai-integration/"><u>Prepare Your Leaders: Why Managerial Training Is Key for Successful AI Integration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-ui-with-ai-the-end-of-traditional-interfaces-zdnet-insights/"><u>Revolutionizing UI with AI: The End of Traditional Interfaces | ZDNet Insights</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-mastering-autotune-a-step-by-step-guide-for-audacity-users-for-2024/"><u>Updated Mastering Autotune A Step-by-Step Guide for Audacity Users for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-small-and-medium-sized-businesses-overlook-necessary-cybersecurity-coverage-insights-from-zdnet/"><u>Why Small and Medium-Sized Businesses Overlook Necessary Cybersecurity Coverage: Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-a-compreshift-guide-to-creating-profitable-and-engaging-youtube-collaborations/"><u>[New] 2024 Approved A Compreshift Guide to Creating Profitable & Engaging YouTube Collaborations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-deep-dive-into-benq-sw320s-4k-visuals/"><u>[New] In 2024, Deep Dive Into BenQ SW320's 4K Visuals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-review-free-meme-makers-to-use/"><u>[Updated] A Review Free Meme Makers to Use</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-what-are-luts-and-how-they-change-your-photo/"><u>2024 Approved What Are LUTs and How They Change Your Photo</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-edge-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-most-effective-cross-platform-chat-applications-for-ios-and-android-devices/"><u>Discover the Most Effective Cross-Platform Chat Applications for iOS and Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-8-leading-projector-apps-for-effortless-wi-fi-hookup-on-your-android-device/"><u>Discover the Ultimate List of 8 Leading Projector Apps for Effortless Wi-Fi Hookup on Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-tricks-for-bypassing-android-restrictions-in-just-a-few-taps/"><u>Effortless Tricks for Bypassing Android Restrictions in Just a Few Taps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-insights-into-the-vita-video-editing-suite-why-its-a-game-changer/"><u>Essential Insights Into the VITA Video Editing Suite: Why It's a Game-Changer</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-12-pro-max-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 12 Pro Max Location by Number | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-8-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone 8</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Poco M6 Pro 5G</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-from-jump-cuts-to-smooth-moves-3-final-cut-pro-transition-methods/"><u>New 2024 Approved From Jump Cuts to Smooth Moves 3 Final Cut Pro Transition Methods</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-great-android-camera-apps-for-amazing-shots/"><u>The Ultimate List of Great Android Camera Apps for Amazing Shots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-9plus-secure-unlocking-apps-with-fingerprint-recognition-for-android-smartphones/"><u>The Ultimate List: 9+ Secure Unlocking Apps with Fingerprint Recognition for Android Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-review-of-the-shotcut-app-unveil-its-features-and-benefits-now/"><u>Ultimate Review of the Shotcut App: Unveil Its Features and Benefits Now</u></a></li>
 </ul></div>
 

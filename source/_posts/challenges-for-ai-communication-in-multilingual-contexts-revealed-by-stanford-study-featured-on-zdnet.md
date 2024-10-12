@@ -1,7 +1,7 @@
 ---
 title: Challenges for AI Communication in Multilingual Contexts Revealed by Stanford Study, Featured on ZDNet
-date: 2024-09-18 16:50:10
-updated: 2024-09-20 11:17:44
+date: 2024-10-05T07:24:12.101Z
+updated: 2024-10-11T17:54:40.586Z
 tags:
   - digital-transformation
 categories:
@@ -78,11 +78,36 @@ Dukic also urged "extensive testing with local users before full deployment to h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-effortless-screen-recording-for-hp-users-top-4-methods-compared/"><u>[New] Effortless Screen Recording for HP Users - Top 4 Methods Compared</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-upload-made-easy-your-device-based-guide-for-youtube-shorts/"><u>[New] In 2024, Upload Made Easy Your Device-Based Guide for YouTube Shorts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-reaction-reel-a-comprehensive-guide-for-23/"><u>[New] Twitter's Reaction Reel A Comprehensive Guide for '23</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/6ieq5yig5rwb44gu5yuv55s744ks5l2c44kl44gf44kb44gu44k344oz44ox44or44o744k544og44od44ox44oq44kk44k544og44od44ox6kej6kqs/"><u>自分流の動画を作るためのシンプル・ステップバイステップ解説</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adapting-office-gadgets-for-the-age-of-artificial-intelligence-zdnet/"><u>Adapting Office Gadgets for the Age of Artificial Intelligence | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-systems-compromised-by-software-glitches-pose-same-dangers-as-ransomware-attacks-insights-on-zdnet/"><u>Critical Systems Compromised by Software Glitches Pose Same Dangers as Ransomware Attacks - Insights on ZDNET</u></a></li>
+<li><a href="https://win-news.techidaily.com/essential-introduction-navigating-vmwares-vsphere-cli-as-a-novice-user/"><u>Essential Introduction: Navigating VMware's vSphere CLI as a Novice User</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-new-capabilities-unveiled-with-the-latest-version-of-windows-11-zdnet-insights/"><u>Exploring the New Capabilities Unveiled with the Latest Version of Windows 11 | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/github-versus-gitlab-showdown-determining-the-best-fit-for-your-dev-needs-insights-from-zdnet/"><u>GitHub versus GitLab Showdown: Determining the Best Fit for Your Dev Needs, Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-expert-insights-suggest-ai-is-key-to-securing-our-digital-future-zdnet/"><u>How Expert Insights Suggest AI Is Key to Securing Our Digital Future - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-mozilla-firefox-saved-login-credentials-setting-up-a-master-password/"><u>Securing Mozilla Firefox Saved Login Credentials: Setting up a Master Password</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-limitations-of-ai-in-programming-insights-from-zdnet/"><u>Understanding the Limitations of AI in Programming - Insights From ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-a54-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy A54 5G Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-nokia-c12-pro-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Nokia C12 Pro Phone Network-Ready</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-keys-not-functioning-properly/"><u>Windows 10: Keys Not Functioning Properly</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

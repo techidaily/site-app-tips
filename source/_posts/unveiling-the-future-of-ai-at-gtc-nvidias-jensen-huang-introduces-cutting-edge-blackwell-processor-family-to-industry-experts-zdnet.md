@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Future of AI at GTC: Nvidia's Jensen Huang Introduces Cutting-Edge Blackwell Processor Family to Industry Experts | ZDNet"
-date: 2024-09-30T09:26:10.125Z
-updated: 2024-10-01T04:59:21.892Z
+date: 2024-10-10T07:36:13.693Z
+updated: 2024-10-11T17:25:42.681Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +181,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-adding-value-instructional-design-of-youtube-alerts-and-annotations-for-2024/"><u>[New] Adding Value Instructional Design of YouTube Alerts & Annotations for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-earn-while-you-entertain-the-content-creators-guide-for-2024/"><u>[New] Earn While You Entertain The Content Creator's Guide for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-easily-share-your-camera-roll-in-a-snap-tips-and-tricks/"><u>[New] Easily Share Your Camera Roll in a Snap - Tips & Tricks</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-the-art-of-fb-chat-transcription/"><u>[New] In 2024, Mastering the Art of FB Chat Transcription</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-the-gap-youtube-editing-mastered-in-imovie-workflows-for-2024/"><u>Bridging the Gap YouTube Editing Mastered in iMovie Workflows for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/busting-top-5-fallacies-on-profiting-from-your-data-insights-zdnet/"><u>Busting Top 5 Fallacies on Profiting From Your Data Insights - ZDNet</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/essential-guide-to-selecting-a-suitable-vimeo-subscription/"><u>Essential Guide to Selecting a Suitable Vimeo Subscription</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-might-machine-learning-impact-future-opportunities-in-the-field-of-cybersecurity/"><u>How Might Machine Learning Impact Future Opportunities in the Field of Cybersecurity?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/microsoft-announces-newly-updated-windows-11-version-kb5/"><u>Microsoft Announces Newly Updated Windows 11 Version: KB5</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-a-world-full-of-edge-devices-future-job-prospects-explained-by-zdnet/"><u>Navigating a World Full of Edge Devices: Future Job Prospects Explained by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-challenges-in-leveraging-ai-for-significant-commercial-gains-insights-from-zdnet/"><u>Overcoming Challenges in Leveraging AI for Significant Commercial Gains - Insights From ZDNet</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-driver-load-error-during-initialization-of-battleye-service/"><u>Troubleshooting Guide: Resolving 'Driver Load Error' During Initialization of BattlEye Service</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unraveling-the-truth-top-5-errors-around-monetizing-information-according-to-zdnet/"><u>Unraveling the Truth: Top 5 Errors Around Monetizing Information, According to ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-how-top-innovators-are-drawn-to-open-source-a-deep-dive-by-zdnet/"><u>Unveiling How Top Innovators Are Drawn to Open Source: A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-appeal-of-no-codelow-code-platforms-pros-and-readiness-considerations-insights-from-zdnet/"><u>Unveiling the Appeal of No-Code/Low-Code Platforms: Pros and Readiness Considerations - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-top-obstacle-of-generative-ai-demonstrating-a-tangible-return-on-investment-roi-zdnet-insights/"><u>Unveiling the Top Obstacle of Generative AI: Demonstrating a Tangible Return on Investment (ROI) | ZDNet Insights</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-s24plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-exclusive-guide-choosing-among-top-9-free-logo-creators/"><u>[New] 2024 Approved Exclusive Guide Choosing Among Top 9 Free Logo Creators</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-mastering-the-balance-visuals-and-sound-in-media-creation/"><u>[New] In 2024, Mastering the Balance Visuals and Sound in Media Creation</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-keep-your-content-safe-guidelines-for-clearance-of-tiktok-videos/"><u>[Updated] Keep Your Content Safe Guidelines for Clearance of TikTok Videos</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-secure-your-data-ultimate-guide-on-safely-transferring-sd-card-contents-to-pc/"><u>1. Secure Your Data: Ultimate Guide on Safely Transferring SD Card Contents to PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-sony-xperia-1-v-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Sony Xperia 1 V?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-hot-40-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Hot 40.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-root-management-suite-powerful-app-control-and-uninstallation-tool/"><u>Complete Root Management Suite: Powerful App Control & Uninstallation Tool</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-top-20-best-free-android-games-play-the-complete-versions-with-no-cost/"><u>Download Top 20 Best Free Android Games: Play the Complete Versions with No Cost</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-adobe-premiere-rush-strengths-weaknesses-and-competitor-solutions/"><u>In-Depth Analysis of Adobe Premiere Rush - Strengths, Weaknesses, and Competitor Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-apple-clips-expert-reviews-and-detailed-instructional-insights/"><u>Mastering Apple Clips: Expert Reviews & Detailed Instructional Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-8-ios-data-backup-solutions-protecting-your-photos-messages-and-more/"><u>Top 8 iOS Data Backup Solutions: Protecting Your Photos, Messages & More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-best-ways-to-refine-your-chatgpt-interactions/"><u>Unveiling the Best Ways to Refine Your ChatGPT Interactions</u></a></li>
 </ul></div>
 

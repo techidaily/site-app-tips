@@ -1,7 +1,7 @@
 ---
 title: "The Paradox of Productivity: Is Generative AI Causing Extra Jobs, According to ZDNet?"
-date: 2024-09-17 17:59:47
-updated: 2024-09-20 12:43:16
+date: 2024-10-05T01:03:48.641Z
+updated: 2024-10-11T19:38:20.142Z
 tags:
   - digital-transformation
 categories:
@@ -78,11 +78,36 @@ Cappelli suggested the most useful generative AI application in the near term is
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-signs-youre-not-in-someones-contact-list/"><u>[New] In 2024, Signs You're Not in Someone's Contact List</u></a></li>
+<li><a href="https://app-tips.techidaily.com/24-billion-allocation-for-advanced-ict-systems-and-e-services-by-singapore-expert-analysis-on-zdnet/"><u>$2.4 Billion Allocation for Advanced ICT Systems and E-Services by Singapore | Expert Analysis on ZDNET</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-spotify-promos-your-comprehensive-guide/"><u>2024 Approved Mastering Spotify Promos Your Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-quick-fix-for-clearer-focus-in-google-meet/"><u>2024 Approved Quick Fix for Clearer Focus in Google Meet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-powered-eco-friendly-smart-home-innovations-by-company-name-insights-from-zdnet/"><u>AI-Powered Eco-Friendly Smart Home Innovations by [Company Name]: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/equip-your-leaders-with-ai-knowledge-the-essential-step-highlighted-by-zdnet/"><u>Equip Your Leaders with AI Knowledge - The Essential Step Highlighted by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-overcoming-service-interruption-in-hamachi-software/"><u>Expert Tips on Overcoming ‘Service Interruption’ in Hamachi Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-direct-mp3-to-youtube-3-steps-for-seamless-video-posting/"><u>In 2024, Direct MP3 to YouTube 3 Steps for Seamless Video Posting</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-personalized-video-setups-a-beginners-guide-to-selfies-on-youtube/"><u>In 2024, Personalized Video Setups A Beginner's Guide to Selfies on YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovative-solutions-how-this-firms-ai-powered-tech-enhances-eco-friendly-smart-home-devices-insights-from-zdnet/"><u>Innovative Solutions: How This Firm's AI-Powered Tech Enhances Eco-Friendly Smart Home Devices - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-era-of-smart-coding-moving-past-basic-automation-to-ai-enhanced-software-creation-according-to-zdnet-experts/"><u>The Era of Smart Coding: Moving Past Basic Automation to AI-Enhanced Software Creation According to ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-obsolescence-of-manual-coding-embracing-ais-advanced-role-in-modern-software-creation-zdnet/"><u>The Obsolescence of Manual Coding: Embracing AI's Advanced Role in Modern Software Creation | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-how-open-source-draws-in-global-tech-pioneers-insights-from-zdnet/"><u>Unveiling How Open Source Draws in Global Tech Pioneers: Insights From ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

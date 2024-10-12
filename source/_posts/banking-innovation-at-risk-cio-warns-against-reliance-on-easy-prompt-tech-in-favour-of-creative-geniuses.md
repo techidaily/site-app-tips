@@ -1,7 +1,7 @@
 ---
 title: "Banking Innovation at Risk: CIO Warns Against Reliance on Easy-Prompt Tech in Favour of Creative Geniuses"
-date: 2024-09-17 19:19:32
-updated: 2024-09-20 12:13:35
+date: 2024-10-10T09:02:54.151Z
+updated: 2024-10-11T18:52:26.446Z
 tags:
   - digital-transformation
 categories:
@@ -98,11 +98,40 @@ As a result, he's seeing "the line between a classic coder and a business analys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-initial-stages-of-joining-youtube-as-a-chanel-owner/"><u>[New] The Initial Stages of Joining YouTube as a Chanel Owner</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-playbook-for-superior-quality-video-production-in-obs/"><u>[Updated] In 2024, The Ultimate Playbook for Superior Quality Video Production in OBS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-commercial-free-chrome-firefox-android-and-iphone-tips/"><u>2024 Approved YouTube's Commercial Free Chrome, Firefox, Android & iPhone Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adaptive-antenna-arrays-dynamically-alter-their-radiation-patterns-in-response-to-environmental-changes-optimizing-communication-links-with-moving-targets-o76/"><u>Adaptive Antenna Arrays Dynamically Alter Their Radiation Patterns in Response to Environmental Changes, Optimizing Communication Links with Moving Targets or Fluctuating Interference Conditions.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/android-workflow-boosted-transforming-google-docs-into-compatible-ms-word-formats-effortlessly/"><u>Android Workflow Boosted: Transforming Google Docs Into Compatible MS Word Formats Effortlessly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elite-dangerous-pc-crashes-solved-avoid-the-disruption/"><u>Elite Dangerous PC Crashes Solved: Avoid the Disruption</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-security-at-risk-with-generative-ai-crowdstrike-cto-alerts-in-latest-analysis-for-zdnet/"><u>Enterprise Security at Risk with Generative AI, CrowdStrike CTO Alerts in Latest Analysis for ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-linux-69-kernel-improvements-a-ranking-digitalreviewer/"><u>Essential Linux 6.9 Kernel Improvements: A Ranking - DigitalReviewer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-recent-payment-service-interruptions-affect-your-store-an-in-depth-analysis-by-zdnet/"><u>How Recent Payment Service Interruptions Affect Your Store: An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-ubisoft-connect-failing-errors-for-gamers/"><u>How to Fix 'Ubisoft Connect Failing' Errors for Gamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>How to identify missing drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-essential-top-5-xbox-hdds-for-gamers/"><u>In 2024, Essential Top 5 Xbox HDDs for Gamers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-itel-p40plus-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Itel P40+ to Mac? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-programming-in-rust-and-balancing-work-life-on-his-macbook-air-exclusive-qanda-featured-by-zdnet/"><u>Linus Torvalds Discusses Programming in Rust & Balancing Work-Life on His MacBook Air - Exclusive Q&A Featured by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-future-the-pivotal-role-of-enterprise-architects-in-todays-tech-evolution-zdnet/"><u>Mastering the Future: The Pivotal Role of Enterprise Architects in Today's Tech Evolution | ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-nubia-z50-ultra-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nubia Z50 Ultra Black and White | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-nvidias-secret-sauce-a-deep-dive-into-gpu-driver-source-release/"><u>Unveiling Nvidia’s Secret Sauce: A Deep Dive Into GPU Driver Source Release</u></a></li>
+<li><a href="https://app-tips.techidaily.com/veteran-linus-developers-endorse-ciq-the-principal-patron-for-rocky-linuxs-launch-computing-world/"><u>Veteran Linus Developers Endorse CIQ: The Principal Patron for Rocky Linux's Launch | Computing World</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

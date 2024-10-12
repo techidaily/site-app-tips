@@ -1,7 +1,7 @@
 ---
 title: "The Future of Artificial Intelligence: Projected Breakthroughs in the Coming Years - ZDNet"
-date: 2024-10-05T17:31:26.045Z
-updated: 2024-10-06T18:43:01.035Z
+date: 2024-10-07T20:47:22.046Z
+updated: 2024-10-12T10:01:11.966Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +187,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-innovative-approaches-to-keeping-your-snaps-connected/"><u>[New] In 2024, Innovative Approaches to Keeping Your Snaps Connected</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/12-ultimate-insta-image-enhancers-for-2024/"><u>12 Ultimate Insta Image Enhancers for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/captivating-video-content-tips-for-pinterest-boards-for-2024/"><u>Captivating Video Content Tips for Pinterest Boards for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/converting-your-documents-seamless-creation-of-microsoft-word-files-via-google-docs-on-an-android-device/"><u>Converting Your Documents: Seamless Creation of Microsoft Word Files via Google Docs on an Android Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-vulnerability-found-in-popular-linux-tool-curl-fixes-released-promptly-insights-from-zdnet/"><u>Critical Vulnerability Found in Popular Linux Tool 'Curl'; Fixes Released Promptly - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/extract-and-save-detective-trailers-as-mp4movaviflvwmvmkv-for-high-quality-viewing/"><u>Extract & Save Detective Trailers as MP4/MOV/AVI/FLV/WMV/MKV for High-Quality Viewing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/human-expression-capabilities-in-latest-ai-avatar-innovations-insights-from-zdnet/"><u>Human Expression Capabilities in Latest AI Avatar Innovations - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-mastering-online-streams-your-easy-to-follow-internet-radio-recording-tutorial/"><u>In 2024, Mastering Online Streams Your Easy-to-Follow Internet Radio Recording Tutorial</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/optimal-accessories-for-your-high-quality-gopro/"><u>Optimal Accessories for Your High-Quality GoPro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-infinix-zero-30-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Infinix Zero 30 5G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-truth-about-being-a-devops-professional-benefits-and-pitfalls-revealed-by-zdnet/"><u>The Truth About Being a DevOps Professional: Benefits & Pitfalls Revealed by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-your-pc-experience-upgrade-from-windows-home-edition-to-pro-key-reasons-and-how-to-tips/"><u>Transforming Your PC Experience: Upgrade From Windows Home Edition to Pro - Key Reasons and How-To Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-5-alternatives-to-ensure-continued-security/"><u>Windows 10 End of Life Approaching: Discover Your 5 Alternatives to Ensure Continued Security</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-against-xbox-glitches-fixing-cod-boicw-error-code-8834x-q1-l9/"><u>Winning Against Xbox Glitches: Fixing COD: BOICW Error Code 88^3/4X-Q1-L9</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-demystify-video-editing-with-free-vimeo-resources/"><u>[New] 2024 Approved Demystify Video Editing with Free Vimeo Resources</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-urban-ecosystem-fostering-resilience-through-green-policies/"><u>[New] 2024 Approved The Urban Ecosystem Fostering Resilience Through Green Policies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-tutorial-on-how-to-remove-chatgpt-messages-history/"><u>Complete Tutorial on How to Remove ChatGPT Messages History</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-free-android-chat-applications-ranked-from-1-to-10/"><u>Discover the Ultimate Selection of Free Android Chat Applications: Ranked From #1 to #10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-ways-to-master-boomerang-feature-across-ios-android-and-web-platforms/"><u>Effortless Ways to Master Boomerang Feature Across iOS, Android & Web Platforms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-merge-duplicate-photo-albums-with-your-iphone-or-mac/"><u>How to Merge Duplicate Photo Albums with Your iPhone or Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-record-minecraft-on-mac/"><u>How to Record Minecraft on Mac</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-htc-u23-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from HTC U23 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-tecno-spark-10c-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Tecno Spark 10C To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-zoom-value-through-top-three-strategies/"><u>In 2024, Maximizing Zoom Value Through Top Three Strategies</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ipad-pro-versus-macbook-pro-understanding-their-unique-features/"><u>IPad Pro Versus MacBook Pro: Understanding Their Unique Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-automated-photography-setting-timers-on-iphones-and-android-devices/"><u>Mastering the Art of Automated Photography: Setting Timers on iPhones & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-11-superior-sound-integration-tools-for-adding-music-and-voice-to-videos-across-android-ios-mac-and-pc-platforms/"><u>The Ultimate List of 11 Superior Sound Integration Tools for Adding Music & Voice to Videos Across Android, iOS, Mac & PC Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-best-multiplayer-bluetooth-games-for-android-and-ios-devices/"><u>The Ultimate List of Best Multiplayer Bluetooth Games for Android & iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-11-audio-enhancement-applications-for-video-editing-on-mobile-devices-and-desktop-systems/"><u>Top 11 Audio Enhancement Applications for Video Editing on Mobile Devices and Desktop Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-6-must-have-android-contact-widget-apps-of-2024-a-comprehensive-guide/"><u>Top 6 Must-Have Android Contact Widget Apps of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-10-leading-music-organizers-for-all-your-platform-needs-windows-mac-iphone-and-android/"><u>Ultimate Selection of 10 Leading Music Organizers for All Your Platform Needs: Windows, Mac, iPhone & Android</u></a></li>
 </ul></div>
 

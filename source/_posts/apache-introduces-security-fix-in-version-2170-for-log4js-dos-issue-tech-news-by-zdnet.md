@@ -1,7 +1,7 @@
 ---
 title: Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet
-date: 2024-10-04T18:38:34.042Z
-updated: 2024-10-06T17:45:30.181Z
+date: 2024-10-06T05:36:56.427Z
+updated: 2024-10-12T02:29:25.720Z
 tags:
   - password-manager
 categories:
@@ -108,10 +108,10 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -189,19 +189,17 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-xchange-reviews-top-tools-and-substitutes/"><u>[New] In 2024, XChange Reviews Top Tools & Substitutes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-next-gen-heroism-gopro-hero5-black-vs-hero4-silver/"><u>[Updated] Next-Gen HEROism GoPro Hero5 Black vs Hero4 Silver</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-walkthrough-for-movie-making-on-windows-8/"><u>2024 Approved The Ultimate Walkthrough for Movie Making on Windows 8</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-y55s-5g-2023-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-knowledge-chasm-in-artifice-intelligence-through-robust-data-management-tips-and-techniques/"><u>Bridging the Knowledge Chasm in Artifice Intelligence Through Robust Data Management - Tips and Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-ai-innovation-challenge-expansion-in-the-cybersecurity-workforce-exploring-perspectives-with-zdnet/"><u>Can AI Innovation Challenge Expansion in the Cybersecurity Workforce? Exploring Perspectives with ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-team-synergy-how-ai-fuels-partnership-of-developers-and-business-stakeholders/"><u>Enhancing Team Synergy: How AI Fuels Partnership of Developers & Business Stakeholders</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-trip-diary-to-hype-inducing-haul-the-editors-playbook-for-2024/"><u>From Trip Diary to Hype-Inducing Haul The Editor's Playbook for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/harnessing-the-power-of-hundreds-of-ai-solutions-for-business-innovation-insights-by-zdnet/"><u>Harnessing the Power of Hundreds of AI Solutions for Business Innovation | Insights by ZDNET</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oneplus-ace-2-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on OnePlus Ace 2</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-latest-corsair-h80i-v2-aio-cooler-software-update/"><u>Install Latest Corsair H80i v2 AIO Cooler Software Update</u></a></li>
-<li><a href="https://app-tips.techidaily.com/outdated-automation-meets-modern-smart-tech-in-software-creation-unveiling-ais-role-zdnet/"><u>Outdated Automation Meets Modern Smart Tech in Software Creation: Unveiling AI's Role | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-cross-functional-cooperation-with-artificial-intelligence-in-development-and-commerce/"><u>Revolutionizing Cross-Functional Cooperation with Artificial Intelligence in Development and Commerce</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-v30-lite-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo V30 Lite 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-maximizing-xbox-broadcast-transitioning-to-fb-live-for-2024/"><u>[New] Maximizing Xbox Broadcast Transitioning to FB Live for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-luts-ranked-top-10-in-photoshop-and-lightroom/"><u>[Updated] Best LUTs Ranked Top 10 in Photoshop & Lightroom</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-laughter-lab-top-7-sketches-and-vignettes-for-youtubers/"><u>2024 Approved Laughter Lab Top 7 Sketches & Vignettes for YouTubers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2024s-ultimate-guide-to-free-password-management-tools-professional-insights-and-ratings/"><u>2024'S Ultimate Guide to Free Password Management Tools: Professional Insights & Ratings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-leading-live-broadcast-software-virtual-cameras-and-much-more-with-manycam-compatible-tools/"><u>Discover the Leading Live Broadcast Software: Virtual Cameras and Much More with ManyCam Compatible Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/efficient-audio-extraction-pick-the-leading-3-video-to-mp3-converters-on-mac-platforms/"><u>Efficient Audio Extraction: Pick the Leading 3 Video-to-MP3 Converters on Mac Platforms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-comprehensive-guide-to-adding-music-icons-in-instagram-posts/"><u>In 2024, Comprehensive Guide to Adding Music Icons in Instagram Posts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-protons-latest-innovation-a-fully-secured-password-safe-with-unbreakable-end-to-end-encryption/"><u>Introducing Proton's Latest Innovation: A Fully Secured Password Safe With Unbreakable End-to-End Encryption</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protonmail-unveils-new-secure-password-management-tool-featuring-military-grade-encryption/"><u>ProtonMail Unveils New Secure Password Management Tool Featuring Military-Grade Encryption</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protonmail-unveils-secure-password-manager-featuring-military-grade-encryption-latest-tech-news-on-zdnet/"><u>ProtonMail Unveils Secure Password Manager Featuring Military-Grade Encryption - Latest Tech News on ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/revolutionizing-screen-experience-lgs-2023-bp550/"><u>Revolutionizing Screen Experience - LG's 2023 BP550</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-macos-privacy-easy-steps-to-retrieve-stored-passwords-from-apples-keychain/"><u>Unlocking macOS Privacy: Easy Steps to Retrieve Stored Passwords From Apple’s Keychain</u></a></li>
 </ul></div>
 

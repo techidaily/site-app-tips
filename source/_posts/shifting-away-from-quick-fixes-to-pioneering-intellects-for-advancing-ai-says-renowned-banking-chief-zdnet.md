@@ -1,7 +1,7 @@
 ---
 title: Shifting Away From Quick Fixes to Pioneering Intellects for Advancing AI, Says Renowned Banking Chief | ZDNet
-date: 2024-09-19 18:54:33
-updated: 2024-09-20 10:40:24
+date: 2024-10-10T08:49:32.941Z
+updated: 2024-10-11T17:40:39.783Z
 tags:
   - digital-transformation
 categories:
@@ -98,11 +98,36 @@ As a result, he's seeing "the line between a classic coder and a business analys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-clandestine-watching-of-stories-by-the-best-5-apps/"><u>[Updated] 2024 Approved Clandestine Watching of Stories by the Best 5 Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-fast-format-transformation-youtube-for-mac-ratio/"><u>[Updated] In 2024, Fast Format Transformation YouTube for Mac Ratio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-periscope-broadcasting-101/"><u>[Updated] Step-by-Step Periscope Broadcasting 101</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp3-powerdirector/"><u>音声抽出・MP3出力の手引き - PowerDirectorによる簡単なプロセス</u></a></li>
+<li><a href="https://app-tips.techidaily.com/antenna-arrays-can-synthesize-a-desired-radiation-pattern-by-controlling-the-relative-phases-and-amplitudes-of-signals-fed-to-each-element/"><u>Antenna Arrays Can Synthesize a Desired Radiation Pattern by Controlling the Relative Phases and Amplitudes of Signals Fed to Each Element.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybersecurity-breakthroughs-with-ai-how-leading-experts-envision-defeating-digital-threats-zdnet/"><u>Cybersecurity Breakthroughs with AI: How Leading Experts Envision Defeating Digital Threats | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-citizen-devops-revolutionize-workload-management-in-corporate-it-systems/"><u>How Citizen DevOps Revolutionize Workload Management in Corporate IT Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-building-your-brands-buzz-on-youtube-with-fresh-insights/"><u>In 2024, Building Your Brand's Buzz on Youtube with Fresh Insights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/er-tips-for-getting-the-most-out-of-youtube-tv-for-2024/"><u>Insider Tips for Getting the Most Out of YouTube TV for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-5-ai-platforms-to-produce-stunning-visuals-without-spending-a-penny/"><u>Leading 5 AI Platforms to Produce Stunning Visuals Without Spending a Penny</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-overlap-of-kernel-issues-and-cybersecurity-in-linux-environments-strategies-to-maintain-safety/"><u>Navigating the Overlap of Kernel Issues & Cybersecurity in Linux Environments - Strategies to Maintain Safety</u></a></li>
+<li><a href="https://app-tips.techidaily.com/new-advancements-for-ai-tasks-with-latest-kubernetes-version-released-insights-from-tech-experts-at-zdnet/"><u>New Advancements for AI Tasks with Latest Kubernetes Version Released, Insights From Tech Experts at ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionize-user-interaction-using-xr-virtual-replicas-and-immersive-computing-a-strategic-enterprise-handbook-zdnet/"><u>Revolutionize User Interaction Using XR, Virtual Replicas, and Immersive Computing: A Strategic Enterprise Handbook [ZDNET]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ticking-clock-for-microsoft-overcoming-the-imminent-windows-11-dilemma-in-under-a-year-exclusive-insights-from-zdnet/"><u>Ticking Clock for Microsoft: Overcoming the Imminent Windows 11 Dilemma in Under a Year | Exclusive Insights From ZDNET</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

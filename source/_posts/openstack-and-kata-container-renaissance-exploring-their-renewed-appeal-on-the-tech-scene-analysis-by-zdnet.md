@@ -1,7 +1,7 @@
 ---
 title: "OpenStack and Kata Container Renaissance: Exploring Their Renewed Appeal on the Tech Scene - Analysis by ZDNET"
-date: 2024-10-02T16:08:12.308Z
-updated: 2024-10-06T19:00:32.429Z
+date: 2024-10-10T00:38:29.407Z
+updated: 2024-10-12T03:24:58.033Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-selecting-top-online-vhs-image-adjustments/"><u>[New] Mastering the Art of Selecting Top Online VHS Image Adjustments</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-state-of-the-art-methods-for-documenting-digital-education/"><u>[Updated] In 2024, State-of-the-Art Methods for Documenting Digital Education</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-streamlined-methods-for-iphone-screen-recordings-for-2024/"><u>[Updated] Streamlined Methods for iPhone Screen Recordings for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-creme-de-la-creme-live-streaming-services/"><u>[Updated] The Crème De La Créme Live Streaming Services</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-how-adobes-enterprise-level-ai-feature-transforms-team-collaboration-insights-from-zdnet/"><u>1. How Adobe's Enterprise-Level AI Feature Transforms Team Collaboration: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-transforming-business-the-effects-of-decentralization-and-web3-on-corporations-insights-from-zdnet/"><u>1. Transforming Business: The Effects of Decentralization & Web3 on Corporations - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/agnes-ro-reveals-the-transformation-in-modern-development-roles-at-atlassian-insights-from-tech-visionary/"><u>Agnes Ro Reveals the Transformation in Modern Development Roles at Atlassian - Insights From Tech Visionary</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-deadline-approaching-for-microsofts-windows-11-issues-only-a-year-remains-to-fix-them/"><u>Critical Deadline Approaching for Microsoft's Windows 11 Issues – Only a Year Remains to Fix Them!</u></a></li>
-<li><a href="https://facebook.techidaily.com/easy-ways-to-detect-unauthorized-pc-access/"><u>Easy Ways to Detect Unauthorized PC Access</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-review-of-gadgets-and-components-toms-hardware-unveiled/"><u>Expert Review of Gadgets and Components - Tom's Hardware Unveiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-new-frontiers-in-coding-efficiency-the-impact-of-github-copilot-as-revealed-by-zdnet/"><u>Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005625093-how-to-fix-valorant-not-launching-on-pc-2024-tips/"><u>How to Fix Valorant Not Launching on PC – 2024 Tips</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-2023s-social-media-video-extractor-for-all-platforms/"><u>In 2024, 2023'S Social Media Video Extractor for All Platforms</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c53-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C53 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/inside-look-how-non-apple-companies-offer-more-enjoyable-work-experiences-confirms-ex-employee-zdnet/"><u>Inside Look: How Non-Apple Companies Offer More Enjoyable Work Experiences, Confirms Ex-Employee | ZDNET</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-podcast-xml-creating-rss-feeds-from-scratch-for-2024/"><u>Mastering Podcast XML Creating RSS Feeds From Scratch for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-skills-with-courseras-new-levelset-exams-insights-from-zdnet/"><u>Mastering Skills with Coursera's New LevelSet Exams: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximize-output-with-expert-tips-and-tools-mastering-daily-workflow-management-zdnet/"><u>Maximize Output with Expert Tips and Tools: Mastering Daily Workflow Management | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-your-path-in-technology-with-insights-from-an-industry-titan-the-inside-scoop-on-building-a-career-at-boeing-zdnet/"><u>Navigating Your Path in Technology with Insights From an Industry Titan - The Inside Scoop on Building a Career at Boeing [ZDNet]</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-tips-for-mobile-content-capture/"><u>[New] 2024 Approved Ultimate Tips for Mobile Content Capture</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/upercharge-your-youtube-videos-best-mac-mp4-tools-for-2024/"><u>[New] Supercharge Your YouTube Videos Best Mac MP4 Tools for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-instant-record-and-commentary-assistive-software/"><u>[Updated] 2024 Approved Instant Record & Commentary Assistive Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-narrow-your-focus-on-elite-hdr-camera-systems/"><u>[Updated] 2024 Approved Narrow Your Focus on Elite HDR Camera Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-streamlined-techniques-for-efficient-apple-screenshots/"><u>[Updated] In 2024, Streamlined Techniques for Efficient Apple Screenshots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-sgs-green-transition-calls-increase-for-financing-ai-based-carbon-reduction-strategies-insights-from-zdnet/"><u>Boosting SG's Green Transition: Calls Increase for Financing AI-Based Carbon Reduction Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-skills-embrace-boundary-pushing-technology-beyond-just-ai-insights-from-zdnet/"><u>Elevate Your Skills: Embrace Boundary-Pushing Technology Beyond Just AI - Insights From ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nubia-red-magic-8s-proplus-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nubia Red Magic 8S Pro+ to Outlook | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linguistic-bias-in-ai-chatbots-evidence-from-a-latest-stanford-study-zdnet/"><u>Linguistic Bias in AI Chatbots: Evidence From a Latest Stanford Study | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainty-of-ai-efficiency-insights-from-zdnet/"><u>Navigating the Uncertainty of AI Efficiency: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-the-english-language-trap-in-ai-conversations-key-findings-from-stanford-analysis-zdnet/"><u>Overcoming the English-Language Trap in AI Conversations: Key Findings From Stanford Analysis | ZDNET</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-gain-techniques-to-expand-your-channels-audience/"><u>Quick-Gain Techniques to Expand Your Channel's Audience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapore-invests-s24-billion-in-enhancing-ict-infrastructure-and-digital-solutions-insights-for-tech-leaders/"><u>Singapore Invests S$2.4 Billion in Enhancing ICT Infrastructure & Digital Solutions - Insights for Tech Leaders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/survey-shows-quarter-of-it-specialists-considering-career-change-insights-from-zdnet/"><u>Survey Shows Quarter of IT Specialists Considering Career Change - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-era-of-edge-expansion-unveiling-its-impact-on-professional-growth-and-opportunities-innovatetech/"><u>The Era of Edge Expansion: Unveiling Its Impact on Professional Growth and Opportunities | InnovateTech</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-growing-dependence-of-your-enterprise-on-artificial-intelligence-understanding-the-role-of-multiple-ai-models/"><u>The Growing Dependence of Your Enterprise on Artificial Intelligence: Understanding the Role of Multiple AI Models</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-v-purse-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor V Purse Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

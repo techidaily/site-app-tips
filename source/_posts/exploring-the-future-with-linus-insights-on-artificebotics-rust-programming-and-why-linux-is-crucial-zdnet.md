@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Future with Linus: Insights on Artificebotics, Rust Programming, and Why Linux Is Crucial | ZDNET"
-date: 2024-09-19T04:59:15.241Z
-updated: 2024-09-26T03:32:23.130Z
+date: 2024-10-05T21:46:10.568Z
+updated: 2024-10-12T00:55:18.374Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +187,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-swift-modification-youtube-aspect-ratio-on-mac/"><u>[New] Swift Modification YouTube Aspect Ratio on MAC</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-efficient-file-transformation-in-vlc-from-mp4-to-various-formats/"><u>[Updated] 2024 Approved Efficient File Transformation in VLC From MP4 to Various Formats</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leading-microphones-selection-for-uncompromised-4k-clarity/"><u>[Updated] Leading Microphones Selection for Uncompromised 4K Clarity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-top-5-tools-for-simple-message-access-and-viewing-on-your-pc/"><u>Best Top 5 Tools for Simple Message Access & Viewing on Your PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-find-x7-ultra-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Find X7 Ultra Fingerprint Lock</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-7-mdm-applications-leading-software-reviews-for-efficient-device-management/"><u>Discover the Ultimate 7 MDM Applications: Leading Software Reviews for Efficient Device Management</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-note-taking-solutions-for-android-phones-our-favorite-5-apps/"><u>Discover the Ultimate List of Note-Taking Solutions for Android Phones: Our Favorite 5 Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-android-lock-screen-widgets-expertly-curated-free-plus-paid-varieties-for-optimal-usage/"><u>Discover the Ultimate Selection of Android Lock Screen Widgets: Expertly Curated Free + Paid Varieties for Optimal Usage</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-insights-into-the-vita-video-editing-suite-why-its-a-game-changer/"><u>Essential Insights Into the VITA Video Editing Suite: Why It's a Game-Changer</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/flacmp4/"><u>FLACとMP4間の自由なウェブ翻訳 - ムーバヴィ</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-hp-deskjet-ink-advantage-3630-driver-for-windows-11-free-download-link/"><u>Get the Newest HP Deskjet Ink Advantage 3630 Driver for Windows 11 - Free Download Link</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-great-android-camera-apps-for-amazing-shots/"><u>The Ultimate List of Great Android Camera Apps for Amazing Shots</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-9plus-secure-unlocking-apps-with-fingerprint-recognition-for-android-smartphones/"><u>The Ultimate List: 9+ Secure Unlocking Apps with Fingerprint Recognition for Android Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-6-best-free-slots-games-must-have-mobile-apps-for-android-and-ios/"><u>Top 6 Best Free Slots Games: Must-Have Mobile Apps for Android & iOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-and-correcting-the-mfc42dll-error-in-windows-systems/"><u>Understanding & Correcting The mfc42.dll Error in Windows Systems</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-leveraging-influencer-networks-for-video-game-success/"><u>[New] 2024 Approved Leveraging Influencer Networks for Video Game Success</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-steps-for-a-never-to-return-from-tiktok-space/"><u>[New] Steps for a Never-to-Return From TikTok Space</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-convert-youtube-to-mp3-without-compromising-security-3-tips/"><u>[Updated] In 2024, How to Convert YouTube to MP3 Without Compromising Security - 3 Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-high-dynamic-range-photography-with-ps/"><u>[Updated] Navigating High Dynamic Range Photography with PS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-complete-package-of-top-zoom-capturing-gear/"><u>[Updated] The Complete Package of Top Zoom Capturing Gear</u></a></li>
+<li><a href="https://app-tips.techidaily.com/30-bargain-alert-access-the-groundbreaking-worlds-first-3-dimensional-password-vault-for-three-years-get-yours-today-from-zdnet/"><u>$30 Bargain Alert! Access the Groundbreaking World's First 3-Dimensional Password Vault for Three Years - Get Yours Today From ZDNet!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1-mac-osdvddvdmp4iphoneipaditunes/"><u>1. Mac OS上最高效的DVD转码器：简单精确地从加密DVD中提取MP4/iPhone/iPad/iTunes格式视频</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sierras-cloud-essentials-drives-full-access-guide/"><u>2024 Approved Sierra's Cloud Essentials Drives Full Access Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-we-depend-on-instagram-an-in-depth-analysis-by-zdnet/"><u>Can We Depend on Instagram? An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discovering-your-macs-secrets-a-guide-to-finding-passwords-in-the-keychain/"><u>Discovering Your Mac's Secrets: A Guide to Finding Passwords in the Keychain</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-driver-installation-and-updates-for-the-amd-radeon-rx-480-series/"><u>Effortless Driver Installation & Updates for the AMD Radeon RX 480 Series</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-craft-the-perfect-gif-message-in-snapchat-easy-steps/"><u>In 2024, Craft the Perfect Gif Message in Snapchat [Easy Steps]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-perfect-focus-in-teams-meetings-mastering-background-blur/"><u>In 2024, Perfect Focus in Teams Meetings Mastering Background Blur</u></a></li>
+<li><a href="https://app-tips.techidaily.com/instagrams-reliability-questioned-insights-from-a-zdnet-investigation/"><u>Instagram's Reliability Questioned: Insights From a ZDNet Investigation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-brex-how-1password-enhances-user-security-with-new-online-payment-features-insights-from-zdnet/"><u>Integrating Brex: How 1Password Enhances User Security with New Online Payment Features - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/logmein-decides-to-create-independent-entity-with-lastpass-zdnet-news/"><u>LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-phishing-scams-impersonating-leaders-dhl-microsoft-and-whatsapp-in-the-spotlight/"><u>Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unmasking-crypto-illusions-a-revealing-paper-challenges-bitcoins-anonymity-claims/"><u>Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-using-a-password-manager-is-essential-top-5-benefits-explained-by-zdnet/"><u>Why Using a Password Manager Is Essential: Top 5 Benefits Explained by ZDNet</u></a></li>
 </ul></div>
 

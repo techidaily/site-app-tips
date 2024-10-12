@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity Measures
-date: 2024-10-05T17:01:18.028Z
-updated: 2024-10-06T17:40:24.657Z
+date: 2024-10-09T16:17:07.335Z
+updated: 2024-10-12T00:36:16.236Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +187,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-expanding-storytelling-with-alternative-cinematography/"><u>[New] 2024 Approved Expanding Storytelling with Alternative Cinematography</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-5-best-photo-editor-for-android-phone-for-2024/"><u>[New] 5 Best Photo Editor for Android Phone for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-ultra-details-in-minecraft-games/"><u>[New] Unveiling Ultra Details in Minecraft Games</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-stepping-stones-from-youtube-ads-to-monetary-success/"><u>[Updated] 2024 Approved Stepping Stones From YouTube Ads to Monetary Success</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearing-up-black-cursor-issue/"><u>Clearing Up Black Cursor Issue</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhanced-online-security-made-easy-discover-how-proton-enables-full-data-protection-through-its-new-password-manager-as-explored-by-zdnet-experts/"><u>Enhanced Online Security Made Easy: Discover How Proton Enables Full Data Protection Through Its New Password Manager, as Explored by ZDNet Experts</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-k11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-infinix-smart-7-by-drfone-android/"><u>How to Show Wi-Fi Password on Infinix Smart 7</u></a></li>
-<li><a href="https://app-tips.techidaily.com/malicious-exploitation-of-omicron-concerns-intensifies-as-cybercriminals-deploy-redline-trojan-expert-analysis-by-fortinet-on-emerging-threats/"><u>Malicious Exploitation of Omicron Concerns Intensifies as Cybercriminals Deploy RedLine Trojan – Expert Analysis by Fortinet on Emerging Threats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/massive-data-compromise-at-oregon-medical-practice-750k-patients-impacted-details-revealed-by-digi-journal/"><u>Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-security-how-dashlane-enables-logins-without-a-main-password-according-to-zdnet/"><u>Revolutionizing Digital Security: How Dashlane Enables Logins Without a Main Password, According to ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/security-alert-kaspersky-password-manager-revealed-by-zdnet-for-creating-weak-brute-force-susceptible-passwords/"><u>Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords</u></a></li>
-<li><a href="https://app-tips.techidaily.com/superior-plus-top-billion-dollar-natural-gas-provider-targeted-by-cyber-attack-insights-from-zdnet/"><u>Superior Plus, Top Billion-Dollar Natural Gas Provider, Targeted by Cyber Attack: Insights From ZDNet</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/turn-your-passion-into-profits-youtube-on-facebook-monetization-steps/"><u>Turn Your Passion Into Profits YouTube on Facebook Monetization Steps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premier-psone-emulators-enjoy-classic-gaming-again/"><u>[New] In 2024, Premier PsOne Emulators Enjoy Classic Gaming Again</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-list-selecting-excellent-webcams-for-podcasts/"><u>[New] Ultimate List Selecting Excellent Webcams for Podcasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-a-journalistic-closing-statement-for-2024/"><u>[Updated] Crafting a Journalistic Closing Statement for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/5-awesome-voice-changer-for-google-meet-for-2024/"><u>5 Awesome Voice Changer for Google Meet for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-takes-center-stage-the-transformation-of-low-codeno-code-tools-in-modern-tech-strategies-insights-from-zdnet/"><u>AI Takes Center Stage: The Transformation of Low-Code/No-Code Tools in Modern Tech Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/become-a-pro-at-adding-features-to-chatgpt/"><u>Become a Pro at Adding Features to ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-rote-learning-how-ai-is-revolutionizing-software-development-with-advanced-intelligence-insights-from-zdnet/"><u>Beyond Rote Learning: How AI Is Revolutionizing Software Development with Advanced Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/emerging-leadership-in-the-age-of-generative-ai-how-new-software-roles-are-shaping-the-future-tech-insight/"><u>Emerging Leadership in the Age of Generative AI: How New Software Roles Are Shaping the Future | Tech Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-partnerships-the-role-of-artificial-intelligence-in-merging-developer-expertise-with-business-strategy-zdnet-analysis/"><u>Empowering Partnerships: The Role of Artificial Intelligence in Merging Developer Expertise with Business Strategy - ZDNet Analysis</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-oppo-reno-8t-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Oppo Reno 8T 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-innovations-best-vr-tech-for-drones/"><u>In 2024, Top Innovations Best VR Tech for Drones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prioritize-manager-training-before-deploying-artificial-intelligence-insights-from-zdnet/"><u>Prioritize Manager Training Before Deploying Artificial Intelligence: Insights From ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/reviving-the-reluctant-connection-of-your-obs-capture-device/"><u>Reviving the Reluctant Connection of Your OBS Capture Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-text-with-chatgpt-teach-it-your-writing-style/"><u>Tailoring Text with ChatGPT: Teach It Your Writing Style</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-cashless-how-non-monetary-transactions-are-set-to-soar-past-16t-driven-by-asian-markets-zdnet-insights/"><u>The Future Is Cashless: How Non-Monetary Transactions Are Set to Soar Past $1.6T, Driven by Asian Markets | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-truth-about-becoming-a-devops-expert-opportunities-and-pitfalls-awaiting-you-siliconvalleynews/"><u>Unveiling the Truth About Becoming a DevOps Expert: Opportunities and Pitfalls Awaiting You | SiliconValleyNews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/your-journey-to-devops-mastery-exploring-benefits-challenges-and-truths-zdnets-comprehensive-guide/"><u>Your Journey to DevOps Mastery: Exploring Benefits, Challenges, and Truths | ZDNET's Comprehensive Guide</u></a></li>
 </ul></div>
 
