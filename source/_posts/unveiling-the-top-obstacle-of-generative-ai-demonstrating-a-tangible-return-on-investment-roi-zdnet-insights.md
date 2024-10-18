@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Top Obstacle of Generative AI: Demonstrating a Tangible Return on Investment (ROI) | ZDNet Insights"
-date: 2024-09-18 11:43:28
-updated: 2024-09-20 12:27:46
+date: 2024-10-15T05:19:17.686Z
+updated: 2024-10-17T20:25:35.443Z
 tags:
   - digital-transformation
 categories:
@@ -77,11 +77,35 @@ Generative AI "doesn't go wrong in normal ways," he added. "GenAI is where you p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-jestjungle-your-gateway-to-universal-comedy/"><u>[New] JestJungle Your Gateway to Universal Comedy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-maximizing-your-videos-reach-a-guide-to-legal-yield-boosting/"><u>[New] Maximizing Your Video's Reach A Guide to Legal Yield Boosting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-premier-selection-of-vr-cycling-options/"><u>[New] The Premier Selection of VR Cycling Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-insiders-guide-to-finesse-and-control-on-insta-stories/"><u>2024 Approved The Insider's Guide to Finesse and Control on Insta Stories</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/engaging-with-fortnites-latest-season-an-exciting-new-chapter-in-the-battle-royale-universe/"><u>Engaging with Fortnite's Latest Season: An Exciting New Chapter in the Battle Royale Universe</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-vivo-y56-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y56 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revitalize-your-iphone-four-effective-methods-to-recover-data-from-icloud/"><u>Revitalize Your iPhone: Four Effective Methods to Recover Data From iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-creating-and-sharing-video-calls-via-skype-whatsapp/"><u>Step-by-Step Tutorial: Creating & Sharing Video Calls via Skype, WhatsApp</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamlined-techniques-to-record-screen-dialogue-for-2024/"><u>Streamlined Techniques to Record Screen Dialogue for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-art-of-disguising-reality-learn-free-green-screen-techniques-via-vfx-leaders-on-4-video-platforms-for-2024/"><u>The Art of Disguising Reality Learn Free Green Screen Techniques via VFX Leaders on 4 Video Platforms for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-25-best-iphone-video-editors-a-comprehensive-guide-from-iphone-x-to-iphone-5/"><u>Top 25 Best iPhone Video Editors: A Comprehensive Guide From iPhone X to iPhone 5</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-4-innovative-loop-video-creators-best-apps-for-android-and-ios/"><u>Top 4 Innovative Loop Video Creators: Best Apps for Android and iOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-proven-methods-to-seamlessly-transform-epub-into-text-files-a-comprehensive-guide/"><u>Top 7 Proven Methods to Seamlessly Transform ePub Into Text Files: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-of-versatile-swf-players-for-all-your-windows-macos-android-and-ios-systems/"><u>Ultimate List of Versatile SWF Players for All Your Windows, MacOS, Android and iOS Systems</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

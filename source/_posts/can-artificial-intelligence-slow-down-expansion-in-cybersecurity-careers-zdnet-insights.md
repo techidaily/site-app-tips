@@ -1,7 +1,7 @@
 ---
 title: Can Artificial Intelligence Slow Down Expansion in Cybersecurity Careers? | ZDNet Insights
-date: 2024-09-17 22:34:28
-updated: 2024-09-20 11:21:59
+date: 2024-10-15T17:02:05.950Z
+updated: 2024-10-18T09:38:00.546Z
 tags:
   - digital-transformation
 categories:
@@ -90,11 +90,32 @@ More than half of security professionals in one RSA survey "could not accurately
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-lgs-visionary-360-camera-review-and-technological-advances-for-2024/"><u>[New] LG's Visionary 360 Camera Review and Technological Advances for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-stop-the-mist-secrets-to-a-clean-gopro-shot-for-2024/"><u>[New] Stop the Mist Secrets to a Clean GoPro Shot for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-techniques-for-efficient-media-navigation/"><u>Advanced Techniques for Efficient Media Navigation</u></a></li>
+<li><a href="https://facebook.techidaily.com/balancing-authenticity-and-promotion-on-your-social-media-profile/"><u>Balancing Authenticity and Promotion on Your Social Media Profile</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-samsung-galaxy-s24-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Samsung Galaxy S24?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-secure-your-complimentary-windows-10-upgrade-tips-and-truths-by-zdnet/"><u>How to Secure Your Complimentary Windows 10 Upgrade: Tips & Truths by ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-ballad-bliss-songs-that-score-big-on-will-you-questions/"><u>In 2024, Ballad Bliss Songs that Score Big on 'Will You?' Questions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-low-codeno-code-how-artificial-intelligence-is-reshaping-priorities-for-developers-insights-from-zdnet/"><u>Revolutionizing Low-Code/No-Code: How Artificial Intelligence Is Reshaping Priorities for Developers - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-journey-of-transforming-into-an-ai-leader-roles-and-qualifications-expert-guidance/"><u>The Journey of Transforming Into an AI Leader: Roles and Qualifications | Expert Guidance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-open-avenues-for-aspiring-competitors-to-advance-ai-technology/"><u>ZDNet Reveals Open Avenues for Aspiring Competitors to Advance AI Technology</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

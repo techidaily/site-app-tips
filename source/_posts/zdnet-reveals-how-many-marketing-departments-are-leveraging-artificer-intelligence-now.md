@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reveals How Many Marketing Departments Are Leveraging Artificer Intelligence Now
-date: 2024-09-19 19:31:44
-updated: 2024-09-20 10:58:30
+date: 2024-10-12T21:05:12.592Z
+updated: 2024-10-18T04:07:29.223Z
 tags:
   - digital-transformation
 categories:
@@ -63,6 +63,19 @@ Taking advantage of AI is the marketer's biggest priority -- and biggest challen
 
 The report found that marketers use an average of eight different marketing tools and technologies. All AI projects start as data projects. Capturing customer data from a large set of marketing tools that are not integrated creates a challenge for marketers to unify, harmonize, and create a 360-degree view of their customer engagement touchpoints. Only 32% of marketers are satisfied with how they use customer data to create relevant experiences. 
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Marketers shore up their data foundation
 
 Marketers use an average of 9 different tactics across the entire customer journey. The most common data sources for marketers are:
@@ -85,6 +98,13 @@ The modern marketer's challenge isn't a lack of first-party data -- it's fully i
 **Also: [5 reasons why I prefer Perplexity over every other AI chatbot](https://www.zdnet.com/article/5-reasons-why-i-prefer-perplexity-over-every-other-ai-chatbot/)**
 
 Only 31% of marketers are satisfied with their ability to unify customer data sources. Data integration across the enterprise app landscape is key to high-performance marketing. About two in five marketers still don't have real-time data at their disposal for crucial tasks, relying instead on potentially outdated insights -- or even intuition. Even teams with live data are slowed down by their ability to activate it. While over half of marketers say data is available in real time to execute a campaign, 59% need the IT department's help to do so. Most customer data is trapped in business, with limited or no access to marketing. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Marketers embrace AI with an eye on trust
 
@@ -142,11 +162,26 @@ To learn more about the 2024 State of Marketing report, you can visit [here](htt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-chuckle-and-cry-the-top-instagram-memes-that-make-you-giggle-for-2024/"><u>[New] Chuckle & Cry The Top Instagram Memes that Make You Giggle for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quick-methods-for-saving-videos-on-youtube/"><u>[Updated] 2024 Approved Quick Methods for Saving Videos on YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unlock-gaming-potential-your-complete-xbox-screenshot-guide/"><u>[Updated] 2024 Approved Unlock Gaming Potential Your Complete Xbox Screenshot Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-epic-review-and-substitute-guidance/"><u>[Updated] Epic Review & Substitute Guidance</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-create-a-square-video-for-instagram-in-imovie-in-2024/"><u>[Updated] How to Create a Square Video for Instagram in iMovie, In 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-ai-in-developer-tools-why-rote-automation-is-a-thing-of-the-past-insights-from-zdnet/"><u>Embracing AI in Developer Tools: Why Rote Automation Is a Thing of the Past - Insights From ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-master-the-art-of-easy-webinar-recordings-windows-and-macos-advice/"><u>In 2024, Master the Art of Easy Webinar Recordings Windows & macOS Advice</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-open-source-to-draw-global-tech-pioneers-insights-from-zdnet/"><u>Leveraging Open Source to Draw Global Tech Pioneers - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-how-ai-growth-clashes-with-agile-practices-according-to-recent-research-by-zdnet/"><u>Navigating the Complexities: How AI Growth Clashes with Agile Practices, According to Recent Research by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-tech-talent-how-artificial-intelligence-combats-job-burnout-and-warning-tiredness-for-it-professionals-zdnet/"><u>Reviving Tech Talent: How Artificial Intelligence Combats Job Burnout & Warning Tiredness for IT Professionals | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-workplaces-how-ai-agents-shape-the-future-of-employment-zdnet/"><u>Transforming Workplaces: How AI Agents Shape the Future of Employment | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-full-spectrum-of-ps5-gaming-by-mastering-ea-play-features/"><u>Unlock the Full Spectrum of PS5 Gaming by Mastering EA Play Features</u></a></li>
+</ul></div>
+

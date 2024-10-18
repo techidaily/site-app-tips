@@ -1,7 +1,7 @@
 ---
 title: "Marketing Strategies Evolve with AI: How Many Are on Board? An Analysis by ZDNet"
-date: 2024-09-17 17:21:25
-updated: 2024-09-20 12:23:31
+date: 2024-10-15T19:17:42.196Z
+updated: 2024-10-18T03:56:34.373Z
 tags:
   - digital-transformation
 categories:
@@ -63,6 +63,13 @@ Taking advantage of AI is the marketer's biggest priority -- and biggest challen
 
 The report found that marketers use an average of eight different marketing tools and technologies. All AI projects start as data projects. Capturing customer data from a large set of marketing tools that are not integrated creates a challenge for marketers to unify, harmonize, and create a 360-degree view of their customer engagement touchpoints. Only 32% of marketers are satisfied with how they use customer data to create relevant experiences. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Marketers shore up their data foundation
 
 Marketers use an average of 9 different tactics across the entire customer journey. The most common data sources for marketers are:
@@ -85,6 +92,19 @@ The modern marketer's challenge isn't a lack of first-party data -- it's fully i
 **Also: [5 reasons why I prefer Perplexity over every other AI chatbot](https://www.zdnet.com/article/5-reasons-why-i-prefer-perplexity-over-every-other-ai-chatbot/)**
 
 Only 31% of marketers are satisfied with their ability to unify customer data sources. Data integration across the enterprise app landscape is key to high-performance marketing. About two in five marketers still don't have real-time data at their disposal for crucial tasks, relying instead on potentially outdated insights -- or even intuition. Even teams with live data are slowed down by their ability to activate it. While over half of marketers say data is available in real time to execute a campaign, 59% need the IT department's help to do so. Most customer data is trapped in business, with limited or no access to marketing. 
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Marketers embrace AI with an eye on trust
 
@@ -142,11 +162,28 @@ To learn more about the 2024 State of Marketing report, you can visit [here](htt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-content-management-for-instagram-profiles/"><u>[New] 2024 Approved YouTube Content Management for Instagram Profiles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-advice-on-editing-away-backgrounds/"><u>[New] Expert Advice on Editing Away Backgrounds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-playtime-to-profits-ryan-kajis-youtube-cash-crusade-for-2024/"><u>[New] From Playtime to Profits Ryan Kaji's YouTube Cash Crusade for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unravel-the-mystery-of-accessing-your-watchlist-on-facebook/"><u>[New] Unravel the Mystery of Accessing Your Watchlist on Facebook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-for-singaporean-smes-equip-your-team-with-genai-skills-insights-from-zdnet/"><u>Comprehensive Guide for Singaporean SMEs: Equip Your Team with GenAI Skills - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/devops-engineering-career-the-complete-picture-pros-cons-and-challenges/"><u>DevOps Engineering Career: The Complete Picture - Pros, Cons & Challenges</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-realme-gt-neo-5-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Realme GT Neo 5 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-optimal-pc-mac-screen-recording-software/"><u>In 2024, Optimal PC-Mac Screen Recording Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-ai-expertise-for-non-programmers-the-need-for-multifaceted-learning-in-complex-environments-zdnet/"><u>Navigating AI Expertise for Non-Programmers - The Need for Multifaceted Learning in Complex Environments | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/patriots-viper-vp4300-lite-a-cost-effective-dive-into-its-4tb-performance/"><u>Patriot's Viper VP4300 Lite: A Cost-Effective Dive Into Its 4TB Performance</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-by-step-save-instagram-videos-on-desktop-devices/"><u>Step-by-Step Save Instagram Videos on Desktop Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolution-of-code-how-artificnial-intelligence-surpasses-traditional-methods-exploring-modern-trends-with-zdnet/"><u>The Evolution of Code: How Artificnial Intelligence Surpasses Traditional Methods - Exploring Modern Trends with ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-journey-to-becoming-a-chief-artificial-intelligence-officer-insights-and-strategies-for-success/"><u>The Journey to Becoming a Chief Artificial Intelligence Officer - Insights and Strategies for Success</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-guide-navigating-and-correcting-call-of-dutys-wwz-dev-error-6634-updated/"><u>The Ultimate Fix Guide: Navigating and Correcting Call of Duty's WWZ Dev Error 6634 - Updated</u></a></li>
+</ul></div>
+

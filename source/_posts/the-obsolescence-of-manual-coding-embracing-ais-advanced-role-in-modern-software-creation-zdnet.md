@@ -1,7 +1,7 @@
 ---
 title: "The Obsolescence of Manual Coding: Embracing AI's Advanced Role in Modern Software Creation | ZDNET"
-date: 2024-09-19 13:34:41
-updated: 2024-09-20 10:58:42
+date: 2024-10-13T05:58:45.538Z
+updated: 2024-10-18T00:29:30.308Z
 tags:
   - digital-transformation
 categories:
@@ -94,11 +94,42 @@ Ferguson said that with human oversight, "AI can strengthen approaches like DevO
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-mastering-photos-ios-alignment-and-cloud-syncing-for-2024/"><u>[New] Mastering Photos IOS Alignment and Cloud Syncing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-complete-guide-to-applying-vhs-filters-on-pconline-sites/"><u>[New] The Complete Guide to Applying VHS Filters on PC/Online Sites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-a-playlist-on-youtube-a-complete-guide/"><u>[Updated] 2024 Approved How to Create a Playlist on Youtube - a Complete Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-next-gen-streaming-prosperity-for-gamers/"><u>[Updated] 2024 Approved Next-Gen Streaming Prosperity for Gamers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-seamless-integration-setting-up-email-in-your-onlyoffice-environment-tips-and-tricks/"><u>1. Seamless Integration: Setting Up Email in Your ONLYOFFICE Environment - Tips & Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-e-learning-presentation-palette/"><u>2024 Approved Top-Ranked E-Learning Presentation Palette</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/crossing-social-bridges-linking-instagram-and-tiktok/"><u>Crossing Social Bridges Linking Instagram & TikTok</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-hottest-tech-skills-best-platforms-for-mastering-key-programming-languages-now/"><u>Discover the Hottest Tech Skills: Best Platforms for Mastering Key Programming Languages Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-business-horizons-with-anthropics-claude-the-enterprise-level-ai-transformation/"><u>Expanding Business Horizons with Anthropic's Claude - The Enterprise-Level AI Transformation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-challenges-of-leveraging-generative-ai-insights-from-a-recent-deloitte-survey-zdnet/"><u>Exploring the Challenges of Leveraging Generative AI: Insights From a Recent Deloitte Survey - ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-meme-maniacs-twitters-funniest-video-threads-roundup/"><u>In 2024, Meme Maniacs Twitter's Funniest Video Threads Roundup</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamlessly-share-your-iphone-pictures-with-your-windows-computer-a-comprehensive-tutorial/"><u>Seamlessly Share Your iPhone Pictures with Your Windows Computer: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-servicenows-four-fundamental-ai-concepts-impactful-insights-for-modern-enterprises/"><u>Understanding ServiceNow's Four Fundamental AI Concepts: Impactful Insights for Modern Enterprises</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-bypass-tools-to-bypass-lock-screen-xiaomi-by-drfone-android-unlock-android-unlock/"><u>Xiaomi Bypass Tools to Bypass Lock Screen(Xiaomi )</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

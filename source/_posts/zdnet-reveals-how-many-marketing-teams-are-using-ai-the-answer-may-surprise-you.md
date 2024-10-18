@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reveals: How Many Marketing Teams Are Using AI? The Answer May Surprise You!"
-date: 2024-09-19 19:34:44
-updated: 2024-09-20 10:58:50
+date: 2024-10-16T23:47:37.305Z
+updated: 2024-10-18T05:15:27.624Z
 tags:
   - digital-transformation
 categories:
@@ -63,6 +63,13 @@ Taking advantage of AI is the marketer's biggest priority -- and biggest challen
 
 The report found that marketers use an average of eight different marketing tools and technologies. All AI projects start as data projects. Capturing customer data from a large set of marketing tools that are not integrated creates a challenge for marketers to unify, harmonize, and create a 360-degree view of their customer engagement touchpoints. Only 32% of marketers are satisfied with how they use customer data to create relevant experiences. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Marketers shore up their data foundation
 
 Marketers use an average of 9 different tactics across the entire customer journey. The most common data sources for marketers are:
@@ -85,6 +92,13 @@ The modern marketer's challenge isn't a lack of first-party data -- it's fully i
 **Also: [5 reasons why I prefer Perplexity over every other AI chatbot](https://www.zdnet.com/article/5-reasons-why-i-prefer-perplexity-over-every-other-ai-chatbot/)**
 
 Only 31% of marketers are satisfied with their ability to unify customer data sources. Data integration across the enterprise app landscape is key to high-performance marketing. About two in five marketers still don't have real-time data at their disposal for crucial tasks, relying instead on potentially outdated insights -- or even intuition. Even teams with live data are slowed down by their ability to activate it. While over half of marketers say data is available in real time to execute a campaign, 59% need the IT department's help to do so. Most customer data is trapped in business, with limited or no access to marketing. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Marketers embrace AI with an eye on trust
 
@@ -142,11 +156,33 @@ To learn more about the 2024 State of Marketing report, you can visit [here](htt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-starter-guide-to-motion-graphics-mastery/"><u>[New] Starter Guide to Motion Graphics Mastery</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-snappy-zoom-calls-for-improved-engagement-for-2024/"><u>[Updated] Snappy Zoom Calls for Improved Engagement for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-streamline-your-music-habits-with-these-15-high-quality-free-youtube-extractors-for-2024/"><u>[Updated] Streamline Your Music Habits with These 15 High-Quality, Free YouTube Extractors for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-social-media-metrics-the-igtv-hashtag-connection/"><u>2024 Approved Mastering Social Media Metrics The IGTV Hashtag Connection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-cleansing-apps-for-iphone-top-free-options-for-enhanced-performance/"><u>Best Cleansing Apps for iPhone: Top Free Options for Enhanced Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-nvidia-geforce-gtx-groovy-460-drivers-for-pcs-with-windows-os/"><u>Easy Installation of Nvidia GeForce GTX Groovy 460 Drivers for PCs with Windows OS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ensure-every-important-call-is-heard-uninterrupted-connectivity-even-in-silence-and-chaos-with-our-innovative-10-call-flash-applications/"><u>Ensure Every Important Call Is Heard: Uninterrupted Connectivity Even in Silence and Chaos with Our Innovative 10-Call Flash Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expertly-curated-list-the-ultimate-9plus1-video-streaming-solutions-for-android-devices/"><u>Expertly Curated List: The Ultimate 9+1 Video Streaming Solutions for Android Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-vn-video-editor-benefits-drawbacks-and-top-substitutes/"><u>In-Depth Analysis: VN Video Editor - Benefits, Drawbacks & Top Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ios-10-updates-unveiled-explore-the-enhanced-lockscreen-features/"><u>IOS 10 Updates Unveiled: Explore the Enhanced Lockscreen Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-laptop-trackpad-step-by-step-solutions-for-windows-1187-users/"><u>Reviving Your Laptop Trackpad: Step-by-Step Solutions for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-moving-your-iphone-applications-seamlessly-between-iphones/"><u>Step-by-Step Guide: Moving Your iPhone Applications Seamlessly Between iPhones</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-c55-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-free-gba-emulators-your-ultimate-guide-to-playing-game-boy-advance-titles-on-pc/"><u>Top 5 Free GBA Emulators: Your Ultimate Guide to Playing Game Boy Advance Titles on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-beginner-friendly-ai-tool-communities-to-join/"><u>Top Beginner-Friendly AI Tool Communities to Join</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-file-management-apps-for-android-user-reviews-and-comparisons/"><u>Top-Rated File Management Apps for Android: User Reviews and Comparisons</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-best-solarmovie-alternatives-watch-movies-online/"><u>Updated Best SolarMovie Alternatives-Watch Movies Online</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-everyone-needs-to-try-the-newly-updated-factual-inshot-editor-unleash-your-creativity/"><u>Why Everyone Needs to Try the Newly Updated Factual InShot Editor - Unleash Your Creativity!</u></a></li>
+</ul></div>
+

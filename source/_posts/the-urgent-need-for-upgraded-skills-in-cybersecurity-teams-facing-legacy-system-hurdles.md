@@ -1,7 +1,7 @@
 ---
 title: The Urgent Need for Upgraded Skills in Cybersecurity Teams Facing Legacy System Hurdles
-date: 2024-09-17 14:54:20
-updated: 2024-09-20 10:48:34
+date: 2024-10-10T23:44:00.044Z
+updated: 2024-10-17T17:35:14.670Z
 tags:
   - digital-transformation
 categories:
@@ -95,6 +95,13 @@ To address these requirements, she said organizations are tapping the knowledge 
 
 "Having an underskilled team can be as risky as having an understaffed one," she said. Citing Forrester's 2022 Business Technographics survey on data security, she said companies that had six or more data breaches in the past year were more likely to report the unavailability of security employees with the right skills as one of their biggest IT security challenges in the past 12 months. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tech stacks need simplifying to ease security management
 
 Should organizations engage managed security services providers to plug the gaps, Pizzala recommends they do so while remaining involved. Similar to a cloud management strategy, there should be shared responsibility, with the companies doing their own checks and scanning, he said. 
@@ -171,11 +178,30 @@ Few organizations, unless they have the necessary capabilities, have a collectiv
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://app-tips.techidaily.com/1-embracing-the-edge-how-surge-in-edge-computing-devices-shapes-future-careers-techworld/"><u>1. Embracing the Edge: How Surge in Edge Computing Devices Shapes Future Careers | TechWorld</u></a></li>
+<li><a href="https://win-superb.techidaily.com/discover-the-ultimate-seating-solutions-zdnets-roundup-of-2024s-office-chairs-leading-the-pack/"><u>Discover the Ultimate Seating Solutions: ZDNet's Roundup of 2024'S Office Chairs Leading the Pack</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/epic-footage-and-photos-mastering-the-hero5-black-experience/"><u>Epic Footage and Photos Mastering the Hero5 Black Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-samsung-galaxy-m54-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Samsung Galaxy M54 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-royalty-free-graphics-a-compreeved-guide/"><u>Harnessing Royalty-Free Graphics A Compreeved Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-cutting-edge-the-6-leading-video-apps-for-macos-big-sur/"><u>In 2024, Cutting Edge The 6 Leading Video Apps for macOS Big Sur</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Pro Max Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tackling-the-accountability-gap-in-artificial-intelligence-development/"><u>Tackling the Accountability Gap in Artificial Intelligence Development</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-ai-watermarking-solutions-revealed-on-zdnet/"><u>The Definitive Guide to AI Watermarking Solutions - Revealed on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-work-how-ai-agents-define-the-new-era-and-transform-employment-landscape-permanently-insights-from-zdnet/"><u>The Future of Work: How AI Agents Define the New Era and Transform Employment Landscape Permanently - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-high-quality-long-lasting-mouse-mats/"><u>The Ultimate Guide to High-Quality, Long-Lasting Mouse Mats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-unseen-challenge-in-conversational-ai-stanford-highlights-english-centric-flaws-in-modern-chatbots-zdnet/"><u>The Unseen Challenge in Conversational AI: Stanford Highlights English-Centric Flaws in Modern Chatbots | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-work-how-ai-agents-mark-a-new-era-of-innovation-and-permanent-shifts-in-employment-landscape/"><u>Transforming Work: How AI Agents Mark a New Era of Innovation and Permanent Shifts in Employment Landscape</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unpacking-the-irony-of-automation-when-artificnial-intelligence-spurs-more-work-not-less-zdnet-insights/"><u>Unpacking the Irony of Automation: When Artificnial Intelligence Spurs More Work, Not Less | ZDNET Insights</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-free-and-flexible-the-top-10-online-video-editors-without-watermark/"><u>Updated In 2024, Free and Flexible The Top 10 Online Video Editors without Watermark</u></a></li>
+</ul></div>
+

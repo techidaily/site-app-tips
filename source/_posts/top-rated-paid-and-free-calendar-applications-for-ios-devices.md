@@ -1,7 +1,7 @@
 ---
 title: Top Rated Paid & Free Calendar Applications for iOS Devices
-date: 2024-09-13T19:03:21.669Z
-updated: 2024-09-20T06:54:44.818Z
+date: 2024-10-14T20:25:49.104Z
+updated: 2024-10-18T09:41:48.415Z
 tags:
   - ios
   - android
@@ -35,8 +35,31 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
 | 6   | **AllPlayer**  Developer: All Player Group Ltd                                                       | ![AllPlayer](https://www.aiseesoft.com/images/resource/xvid-player/allplayer.jpg)                        | Automatic codecs update ability, no pressure to play Xvid movie. Free to download and install on any Windows version. Comfortable interface and all video/audio/subtitle settings.                                                                                       |
 | 7   | [**KMPlayer**](http://www.kmplayer.com/)  Developer: PANDORA.TV                                    | ![KMPlayer](https://www.aiseesoft.com/images/resource/xvid-player/kmplayer.jpg)                          | Free and enable users to watch video in any format with high resolution, including VCD, MPEG-1/2/4, AVI, MKV, OGM, WMV, DVD, etc. Setting various audio as well as audio effects.  Provide powerful functions changing skins, increasing the speed of playback and more. |
 | 8   | **MVS Player**  Developer: ABSoft                                                                    | ![MVS Player](https://www.aiseesoft.com/images/resource/xvid-player/mvs-player.jpg)                      | Multimedia player specialized in visualization of video chains coded in Xvid and DivX.  Capacity to playback up to twelve video tracks simultaneously. Very quick application launching.                                                                                 |
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 | 9   | **Free Xvid Player**  Developer: MediaPlayerLite                                                     | ![Free Xvid Player](https://www.aiseesoft.com/images/resource/xvid-player/mediaplaysite-xvid-player.jpg) | Designed as a Xvid Player on Windows XP/Vista/7 without any codex packs.  Simple interface to make palying Xvid video easy and lightweight. Always free and open source.                                                                                                 |
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 | 10  | **XUL Player**  Developer: Mozilla                                                                   | ![XUL Player](https://www.aiseesoft.com/images/resource/xvid-player/xul-player.jpg)                      | Free Xvid Player, enables you to play all popular video and audio formats. Fresh interface with list of features and editing tool.                                                                                                                                       |
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Xvid player for Mac
 
@@ -48,17 +71,26 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
 | 4   | **VLC Media Player**  Developer: Video LAN                                                          | ![VLC for Mac](https://www.aiseesoft.com/images/resource/flac-player/vlc-for-mac.jpg)                                  | One of the most commonly used Xvid player for Mac.  Supported audio formats: MPEG to FLV and RMBC files including MPEG-1, MPEG-2, MPEG-4, Xvid, DivX, MP3, OGG and more. Simple and easy-to-use.             |
 | 5   | **QuickTime Player**  Developer: Apple Inc                                                          | ![QuickTime Player](https://www.aiseesoft.com/images/resource/xvid-player/quicktime-player.jpg)                        | Official player of Apple that comes with multiple features.  Support video conversion and video editing and other additional features with Pro version.                                                      |
 | 6   | **DivX Player**  Developer: DivX                                                                    | ![Divx Player](https://www.aiseesoft.com/images/resource/xvid-player/divx-player.jpg)                                  | Include all the important Xvid codec pack, an ideal Xvid player for Mac. Advanced DVD feature. Easy to use and comes with all the needed functions.                                                          |
-| 7   | **Elmedia Player for Mac**  Developer: Eltima Software                                              | ![Eltima Media Player for Mac](https://www.aiseesoft.com/images/resource/xvid-player/eltima-media-player-for-mac.jpg)  | Free Xvid player for Mac that supports wide variety of audio as well as video formats.. Built-in browser allows you to watch online videos directly. Intuitive interface with powerful media library.        |
-| 8   | **Macgo Mac Media Player**  Developer: Macgo                                                        | ![Macgo Mac Media Player](https://www.aiseesoft.com/images/resource/xvid-player/macgo-mac-media-player.jpg)            | One of the best multimedia player for Mac that supports all popular video formats, including Xvid movie.  AirX function enables you to play stream movies on iPhone/iPod/iPad. User-friendly interface.      |
-| 9   | **Movavi Media Player**  Developer: Movavi                                                          | ![Movavi Media Player](https://www.aiseesoft.com/images/resource/xvid-player/movavi-media-player.jpg)                  | Play most popular video formats on Mac, including Xvid, Dvix, AVI, MOV, MTS, etc. Smooth HD videos playback. Create user defined playlist.                                                                   |
-| 10  | **Windows Media Player for Mac**  Developer: Windows Microsoft                                      | ![Windows Meda Player for Mac](https://www.aiseesoft.com/images/resource/flac-player/windows-media-player-for-mac.jpg) | Play audio formats smoothly like Xvid, Divx, etc. Clean and simple interface. Provide best user experience.                                                                                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+| 7   | **Elmedia Player for Mac**  Developer: Eltima Software                                              | ![Eltima Media Player for Mac](https://www.aiseesoft.com/images/resource/xvid-player/eltima-media-player-for-mac.jpg)  | Free Xvid player for Mac that supports wide variety of audio as well as video formats.. Built-in browser allows you to watch online videos directly. Intuitive interface with powerful media library.        |
+| 8   | **Macgo Mac Media Player**  Developer: Macgo                                                        | ![Macgo Mac Media Player](https://www.aiseesoft.com/images/resource/xvid-player/macgo-mac-media-player.jpg)            | One of the best multimedia player for Mac that supports all popular video formats, including Xvid movie.  AirX function enables you to play stream movies on iPhone/iPod/iPad. User-friendly interface.      |
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+| 9   | **Movavi Media Player**  Developer: Movavi                                                          | ![Movavi Media Player](https://www.aiseesoft.com/images/resource/xvid-player/movavi-media-player.jpg)                  | Play most popular video formats on Mac, including Xvid, Dvix, AVI, MOV, MTS, etc. Smooth HD videos playback. Create user defined playlist.                                                                   |
+| 10  | **Windows Media Player for Mac**  Developer: Windows Microsoft                                      | ![Windows Meda Player for Mac](https://www.aiseesoft.com/images/resource/flac-player/windows-media-player-for-mac.jpg) | Play audio formats smoothly like Xvid, Divx, etc. Clean and simple interface. Provide best user experience.                                                                                                  |
 
 ## Part 3\. Xvid player app for Android
 
@@ -72,10 +104,29 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
 | 5   | **RockPlayer 2**  Download site: <https://play.google.com/store/apps/details?id=com.jbl.rock.musicplayer>                 | ![RockerPlayer 2](https://www.aiseesoft.com/images/resource/xvid-player/rockerplayer-2.jpg)  | All in one audio and video player, great Xvid player for Android.  Support popular video formats/support 720p, full HD, 4K video playback.                                                                                          |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4\. Xvid player app for iPhone/iPad
@@ -85,36 +136,22 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
 | 1   | **Playable**  Download site: <https://itunes.apple.com/in/app/playable-play-almost-anything/id502405034?mt=8>    | ![Playable](https://www.aiseesoft.com/images/resource/xvid-player/playable.jpg)         | Perfect Xvid player for iPhone and iPad. Optimized for iPhone 6 and iPhone 7/8/X retina display. Support video transfer between devices.        |
 | 2   | **Flex Player**  Download site: <https://itunes.apple.com/in/app/flex-player-video-player-for/id451024857?mt=8>  | ![Flex Player](https://www.aiseesoft.com/images/resource/xvid-player/flex-player.jpg)   | Play your Xvid movie on iPhone, iPod touch, iPad.  Support mutliple video formats including MP4, MOV, MKV, AVI, WAV, etc.                       |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 | 3   | **OPLAYER LITE**  Download site: <https://itunes.apple.com/in/app/flex-player-video-player-for/id451024857?mt=8> | ![OPLYAER LITE](https://www.aiseesoft.com/images/resource/xvid-player/oplayer-lite.jpg) | A great Xvid player app for iOS devices.  Supported video formats: XVID/DIVX, AVI, WMV, RMVB, ASF, MKV, etc. USB sync and Wi-Fi upload.         |
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 | 4   | **AVPlayerHD**  Download site: <https://itunes.apple.com/in/app/avplayerhd/id407976815?mt=8>                     | ![AVPlayerHD](https://www.aiseesoft.com/images/resource/xvid-player/avplayhd.jpg)       | Highly support XVID,AVI,WMV,RMVB,ASF,H264,MKV, MO4, M4V, MOV and others. Support external subtitle files.                                       |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | 5   | **viPlay**  Download site: <https://itunes.apple.com/bm/app/viplay/id622191019?mt=8&ign-mpt=uo%3D8>              | ![viPlayer](https://www.aiseesoft.com/images/resource/xvid-player/viplayer.jpg)         | One great Xvid player for you to enjoy xvid movie on iPhone. Full HD support and network servers support. Stylish interface and visual effects. |
 
  In this article, we mainly talk about Xvid player. We list 30**best Xvid player for Windows/Mac/iOS/Android** . Hope you can find a preferred Xvide video player and enjoy your Xvid movie!
 
 ![Video Free Play MP4 FLV MOV AVI](https://www.aiseesoft.com/images/youtube-video/video-free-play-mp4-flv-mov-avi.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 What do you think of this post?
 
@@ -145,5 +182,16 @@ Rating: 4.6 / 5 (based on 105 ratings)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/5o6m44gn6lu944cf44go44oh44kj44k544ox44os44kk5zob6loq44ks5zcr5lik44gv44gb44kl44ot44oh44kq5oml6acg/"><u>掌で軽々とディスプレイ品質を向上させるビデオ手順</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazonbasics-12-sheet-high-security-micro-cut-shredder-review/"><u>AmazonBasics 12-Sheet High-Security Micro-Cut Shredder Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creating-anime-sounds-with-uwu-modifiers-top-three-speech-alteration-tools-for-fans/"><u>Creating Anime Sounds with UwU Modifiers: Top Three Speech Alteration Tools for Fans</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-and-installation-guide-how-to-set-up-tango-video-calls-and-chats/"><u>Download & Installation Guide: How To Set Up Tango Video Calls And Chats</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-7-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ideal-calendar-solutions-best-complimentary-and-premium-options-for-iphones/"><u>Ideal Calendar Solutions: Best Complimentary and Premium Options for iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-step-by-step-guide-how-to-quickly-unlock-your-android-device-with-easy-hacks/"><u>Simple Step-by-Step Guide: How to Quickly Unlock Your Android Device with Easy Hacks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-simple-strategies-for-establishing-successful-biz-youtubes-for-2024/"><u>Top 10 Simple Strategies for Establishing Successful Biz YouTubes for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/windows-11bootmgr-is-missing/"><u>クローン後にWindows 11で起きた「BOOTMGR Is Missing」エラー修正ガイド</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Importance of Addressing Legacy Technology: Lessons From a Failed System Upgrade"
-date: 2024-09-19 19:42:52
-updated: 2024-09-20 11:38:54
+date: 2024-10-14T17:04:37.124Z
+updated: 2024-10-18T00:51:30.114Z
 tags:
   - digital-transformation
 categories:
@@ -110,11 +110,33 @@ As Singapore has seen, it only takes one underestimated user feature to halt an 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-earnings-expertise-in-streams-a-comparative-study-for-2024/"><u>[New] Earnings Expertise in Streams A Comparative Study for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-superior-satire-and-smile-mixer/"><u>[New] Superior Satire & Smile Mixer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-11-windows-11-secrets-unveiled/"><u>[New] Top 11 Windows 11 Secrets Unveiled</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-12-tycoons-a-gamers-dream-achieving-business-brilliance-on-screen/"><u>[New] Top 12 Tycoons A Gamer's Dream, Achieving Business Brilliance on Screen</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-cooking-chronicles-video-production-insights/"><u>[Updated] In 2024, Cooking Chronicles Video Production Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-robust-ai-watermark-techniques-with-insights-from-zdnet/"><u>Discover Robust AI Watermark Techniques with Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-guide-pathways-to-becoming-an-ai-leadership-executive-in-tech-companies/"><u>Essential Guide: Pathways to Becoming an AI Leadership Executive in Tech Companies</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/oodle-free-local-classifieds/"><u>Oodle: Free Local Classifieds</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/rescuing-your-valuable-data-a-methodical-approach-for-post-iphone-restoration/"><u>Rescuing Your Valuable Data: A Methodical Approach for Post-iPhone Restoration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-growth-of-edge-devices-and-its-impact-on-job-prospects-an-exploration-by-zdnet/"><u>The Growth of Edge Devices and Its Impact on Job Prospects - An Exploration by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-expert-insights-on-cutting-edge-hardware/"><u>Tom's Tech Reviews: Expert Insights on Cutting-Edge Hardware</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uplifting-information-and-communication-technology-singapores-24b-allocation-detailed-zdnet-analysis/"><u>Uplifting Information and Communication Technology: Singapore's $2.4B Allocation Detailed | ZDNet Analysis</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

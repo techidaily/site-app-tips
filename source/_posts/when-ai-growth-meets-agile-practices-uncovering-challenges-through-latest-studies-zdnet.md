@@ -1,7 +1,7 @@
 ---
 title: "When AI Growth Meets Agile Practices: Uncovering Challenges Through Latest Studies | ZDNET"
-date: 2024-09-18 18:42:55
-updated: 2024-09-20 10:41:58
+date: 2024-10-16T22:00:26.168Z
+updated: 2024-10-17T19:00:10.241Z
 tags:
   - digital-transformation
 categories:
@@ -89,11 +89,31 @@ Finally, as noted above, the report suggested AI is not a magic wand and has lim
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-start-live-webcam-recording-with-vlc-media-for-2024/"><u>[Updated] Start Live Webcam Recording with VLC Media for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advance-your-career-with-cutting-edge-tech-more-than-ai-at-the-forefront-lessons-from-zdnet/"><u>Advance Your Career with Cutting-Edge Tech: More Than AI at the Forefront | Lessons From ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/bestow-photographic-frames-with-outer-radial-smearing-for-2024/"><u>Bestow Photographic Frames with Outer Radial Smearing for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-artificebotics-how-modern-ai-experts-merge-innovation-with-business-acumen-to-shape-future-technologies/"><u>Beyond Artificebotics: How Modern AI Experts Merge Innovation with Business Acumen to Shape Future Technologies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-disparities-shape-our-progress-in-real-time-technology-breakthroughs-zdnet/"><u>How Disparities Shape Our Progress in Real-Time Technology Breakthroughs | ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-sony-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Sony</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unveiling-the-ideal-aspect-ratio-for-video-content/"><u>In 2024, Unveiling the Ideal Aspect Ratio for Video Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/is-it-possible-to-transcode-prores-videos-using-handbrake-software/"><u>Is It Possible to Transcode ProRes Videos Using HandBrake Software?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-inconsistencies-in-artificial-intelligence-expert-analysis-on-reliability-issues-zdnet/"><u>Overcoming Inconsistencies in Artificial Intelligence: Expert Analysis on Reliability Issues | ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resident-evil-5-pc-starting-issues-effective-solutions-implemented/"><u>Resident Evil 5 PC Starting Issues - Effective Solutions Implemented</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

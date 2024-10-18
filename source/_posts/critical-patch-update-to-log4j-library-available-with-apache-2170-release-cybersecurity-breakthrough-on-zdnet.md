@@ -1,7 +1,7 @@
 ---
 title: Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET
-date: 2024-10-05T03:19:08.458Z
-updated: 2024-10-12T01:08:16.060Z
+date: 2024-10-15T03:41:44.715Z
+updated: 2024-10-18T05:27:43.487Z
 tags:
   - password-manager
 categories:
@@ -108,10 +108,16 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -189,20 +195,24 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-rhythm-revelations-mastering-music-for-visual-storytelling/"><u>[New] 2024 Approved Rhythm Revelations Mastering Music for Visual Storytelling</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-visual-giggle-factory-memebake-zone/"><u>[New] 2024 Approved Visual Giggle Factory Memebake Zone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-laughburst-app-for-all-humor-needs/"><u>[New] LaughBurst App for All Humor Needs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-the-art-of-laptop-video-capturing/"><u>[Updated] 2024 Approved Mastering the Art of Laptop Video Capturing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-shoot-straight-best-tripods-for-smartphones-today/"><u>[Updated] Shoot Straight Best Tripods for Smartphones Today</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/dominating-viewership-tips-for-your-video-to-be-a-staff-choice/"><u>Dominating Viewership Tips for Your Video to Be a Staff Choice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-fixes-for-the-recurring-issue-icloud-login-continually-asks-for-password/"><u>Essential Fixes for the Recurring Issue: ICloud Login Continually Asks for Password</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/free-srt-translation-leaders-a-select-8-guide/"><u>Free SRT Translation Leaders A Select 8 Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-successfully-download-images-from-icloud-on-ios-1211-ultimate-guide-with-7-pro-tips/"><u>How to Successfully Download Images From iCloud on iOS 12/11 – Ultimate Guide with 7 Pro Tips</u></a></li>
-<li><a href="https://win-forum.techidaily.com/les-7-meilleurs-outils-gratuits-pour-la-fusion-daudio-en-ligne-votre-guide-ultime/"><u>Les 7 Meilleurs Outils Gratuits Pour La Fusion D'audio en Ligne : Votre Guide Ultime</u></a></li>
-<li><a href="https://app-tips.techidaily.com/recover-deleted-whatsapp-messages-using-icloud-a-comprehensive-tutorial/"><u>Recover Deleted WhatsApp Messages Using iCloud: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/resolving-the-icloud-messages-disabled-issue-step-by-step-guide-to-restore-your-apple-id/"><u>Resolving the 'iCloud Messages Disabled' Issue: Step-by-Step Guide to Restore Your Apple ID</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-changing-your-icloud-email-address/"><u>Step-by-Step Guide: Changing Your iCloud Email Address</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-strategies-for-disassociating-your-iphone-from-apples-icloud-service/"><u>Top Strategies for Disassociating Your iPhone From Apple's iCloud Service</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-video-length-limit-every-details-you-need-to-know/"><u>[New] 2024 Approved Instagram Video Length Limit - Every Details You Need to Know</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-5-reviews-of-zooms-powerful-affordable-transcription-software/"><u>[New] 2024 Approved Top 5 Reviews of Zoom's Powerful, Affordable Transcription Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-iptv-screen-capture-techniques/"><u>[New] Mastering IPTV Screen Capture Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-the-art-of-personalizing-video-covers-for-facebook-for-2024/"><u>[New] Mastering the Art of Personalizing Video Covers for Facebook for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/inning-hearts-an-approach-to-encourage-sign-ups-for-2024/"><u>[New] Winning Hearts An Approach to Encourage Sign-Ups for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-no-cost-webcams-for-seamless-chats-for-2024/"><u>[Updated] Essential No-Cost Webcams for Seamless Chats for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-social-media-mastery-incorporating-polls-in-stories/"><u>[Updated] Social Media Mastery Incorporating Polls in Stories</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adaptive-arrays/"><u>Adaptive Arrays</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-microsoft-recall-as-a-privacy-catastrophe-here-are-7-compelling-reasons-you-shouldnt-worry-zdnet/"><u>Debunking Microsoft Recall as a Privacy Catastrophe? Here Are 7 Compelling Reasons You Shouldn't Worry | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-rapid-impact-of-ai-on-software-engineering-challenges-in-quantifying-progress-insights-from-zdnet/"><u>Exploring the Rapid Impact of AI on Software Engineering: Challenges in Quantifying Progress - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-essential-is-devops-for-staying-ahead-in-business-ensuring-safety-through-top-strategies-insights-from-zdnet/"><u>How Essential Is DevOps for Staying Ahead in Business: Ensuring Safety Through Top Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-4650-comprehensive-driver-downloads-for-windows-users-update-now/"><u>HP OfficeJet 4650: Comprehensive Driver Downloads for Windows Users - Update Now!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-major-cloud-services-aws-azure-and-google-cloud-for-a-hybrid-and-saas-strategy-insights-by-zdnet/"><u>In-Depth Analysis of Major Cloud Services: AWS, Azure, and Google Cloud for a Hybrid and SaaS Strategy | Insights by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-process-of-upgrading-your-system-to-ubuntu-2404-tips-and-tricks-from-zdnet/"><u>Mastering the Process of Upgrading Your System to Ubuntu 24.04: Tips and Tricks From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/sonys-research-division-joins-forces-with-ai-singapore-for-next-gen-language-models-innovation-breakthrough/"><u>Sony's Research Division Joins Forces with AI Singapore for Next-Gen Language Models | Innovation Breakthrough</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-key-to-gain-likes-in-tiktok-unpack-sessions-for-2024/"><u>The Key to Gain Likes in TikTok Unpack Sessions for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-crisis-microsofts-critical-challenge-with-windows-10-looms-as-deadline-approaches-tech-news-by-zdnet/"><u>Urgent Crisis: Microsoft's Critical Challenge with Windows 10 Looms as Deadline Approaches | Tech News by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-woes-intensify-for-microsoft-as-launch-deadline-looms-expert-analysis-by-zdnet/"><u>Windows 11 Woes Intensify for Microsoft as Launch Deadline Looms – Expert Analysis by ZDNET</u></a></li>
 </ul></div>
 

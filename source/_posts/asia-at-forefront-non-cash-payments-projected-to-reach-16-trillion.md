@@ -1,7 +1,7 @@
 ---
 title: "Asia at Forefront: Non-Cash Payments Projected to Reach $1.6 Trillion"
-date: 2024-09-19 13:45:52
-updated: 2024-09-20 12:32:43
+date: 2024-10-10T18:54:06.794Z
+updated: 2024-10-18T03:07:19.597Z
 tags:
   - digital-transformation
 categories:
@@ -84,11 +84,33 @@ The report noted that just 17% of banks are at an advanced stage -- where they a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-experttech-reviews-data-drive-de-stressing/"><u>[Updated] 2024 Approved ExpertTech Reviews Data Drive De-Stressing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-techniques-in-capturing-live-sports-on-camera/"><u>2024 Approved Essential Techniques in Capturing Live Sports on Camera</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-creative-commons-license-explained-simply/"><u>2024 Approved YouTube's Creative Commons License Explained Simply</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972311973-boost-your-system-speed-with-a-simple-click-get-the-new-lexar-usb-driver-now/"><u>Boost Your System Speed with a Simple Click - Get the New Lexar USB Driver Now!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-free-android-chat-applications-ranked-from-1-to-10/"><u>Discover the Ultimate Selection of Free Android Chat Applications: Ranked From #1 to #10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-ways-to-master-boomerang-feature-across-ios-android-and-web-platforms/"><u>Effortless Ways to Master Boomerang Feature Across iOS, Android & Web Platforms</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-latest-intel-rst-drivers-for-improved-hard-drive-efficiency-and-speed/"><u>Get Your Latest Intel RST Drivers for Improved Hard Drive Efficiency and Speed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-s23plus-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy S23+?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/lenovo-t430-drivers-download-for-windows-10-8-7-easily/"><u>Lenovo T430 Drivers Download for Windows 10 / 8 /7 [Easily]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-11-superior-sound-integration-tools-for-adding-music-and-voice-to-videos-across-android-ios-mac-and-pc-platforms/"><u>The Ultimate List of 11 Superior Sound Integration Tools for Adding Music & Voice to Videos Across Android, iOS, Mac & PC Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-6-must-have-android-contact-widget-apps-of-2024-a-comprehensive-guide/"><u>Top 6 Must-Have Android Contact Widget Apps of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-10-leading-music-organizers-for-all-your-platform-needs-windows-mac-iphone-and-android/"><u>Ultimate Selection of 10 Leading Music Organizers for All Your Platform Needs: Windows, Mac, iPhone & Android</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

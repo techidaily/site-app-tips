@@ -1,7 +1,7 @@
 ---
 title: "The Unseen Challenge in Conversational AI: Stanford Highlights English-Centric Flaws in Modern Chatbots | ZDNET"
-date: 2024-09-19 19:44:29
-updated: 2024-09-20 12:57:45
+date: 2024-10-10T23:38:29.212Z
+updated: 2024-10-18T03:34:17.450Z
 tags:
   - digital-transformation
 categories:
@@ -78,11 +78,33 @@ Dukic also urged "extensive testing with local users before full deployment to h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-narrative-flow-expert-tips-on-using-jump-cuts/"><u>[New] In 2024, Elevate Narrative Flow Expert Tips on Using Jump Cuts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-canon-tips-for-effective-time-lapse-photography/"><u>[Updated] 2024 Approved Canon Tips for Effective Time-Lapse Photography</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-conquered-by-creatives-from-wmm-to-a-stellar-vimeo-presence/"><u>[Updated] In 2024, Conquered By Creatives From WMM to a Stellar Vimeo Presence</u></a></li>
+<li><a href="https://app-tips.techidaily.com/assess-your-expertise-on-coursera-discover-the-latest-from-zdnets-coverage-of-levelset-proficiency-exams/"><u>Assess Your Expertise on Coursera – Discover the Latest From ZDNet's Coverage of LevelSet Proficiency Exams</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722975246101-download-and-setup-hp-envy-press-5660-drivers-hassle-free-today/"><u>Download and Setup HP Envy Press 5660 Drivers Hassle-Free Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/head-to-head-snapchat-myai-and-bing-chats-ai-clash-in-a-skype-showdown-unveiling-eight-key-variances/"><u>Head to Head: Snapchat MyAI and Bing Chat's AI Clash in a Skype Showdown – Unveiling Eight Key Variances</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-anthrop-through-the-new-claude-plan-equips-companies-for-success-by-harnessing-large-scale-ai-superpowers-techzine/"><u>How Anthrop, Through the New Claude Plan, Equips Companies for Success by Harnessing Large-Scale AI Superpowers | TechZine</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/illuminating-the-art-of-iphone-long-exposure-for-2024/"><u>Illuminating the Art of iPhone Long Exposure for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-stealthy-update-ignites-consumer-backlash-an-in-depth-analysis/"><u>Microsoft's Stealthy Update Ignites Consumer Backlash - An In-Depth Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-upcoming-release-a-blessing-or-a-curse-unveiled-insights-from-zdnet/"><u>Microsoft's Upcoming Release: A Blessing or a Curse? Unveiled Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/open-sources-role-in-advancing-responsible-ai-development-expert-analysis-by-zdnet/"><u>Open Source's Role in Advancing Responsible AI Development | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-the-challenge-of-black-and-white-screens-in-windows-10-easy-solutions-inside/"><u>Overcoming The Challenge of Black And White Screens In Windows 10 - Easy Solutions Inside</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Survey Finds Quarter of IT Workers Considering Job Switches - Insights From ZDNet
-date: 2024-09-17 18:31:45
-updated: 2024-09-20 12:40:38
+date: 2024-10-17T05:22:39.296Z
+updated: 2024-10-17T16:29:54.076Z
 tags:
   - digital-transformation
 categories:
@@ -47,15 +47,42 @@ Industry leaders across the spectrum share their concerns and advice about worki
 
 "Keep learning is my best advice," says [Andrew Duncan](https://www.linkedin.com/in/andrewdun/?originalSubdomain=uk), CEO and managing partner at Infosys Consulting. "New experiences, new skills development, and new project opportunities are always the best path to keep advancing. Find a mentor that can help you through coaching and advisory -- these types of more seasoned business veterans are often a great ticket to opening new doors within a company, especially for younger professionals. Keep yourself visible and market yourself -- show people your successes and achievements and the value you have created in a project." 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Be a team player** 
 
 "Become critically important for the success of your team," says [Zaven Nahapetyan](https://www.linkedin.com/in/zavn/), co-founder of Niche.club, and a former engineering manager at Facebook. "As you get more senior, think about your team in broader terms: First, your immediate coworkers, then your organization. Understand what results you, your team, and your organization are supposed to be driving. Don't think of your job as a list of responsibilities, but rather as an investment by the company in order to achieve some goal. Try to understand what that goal is, and do everything in your power to help achieve it." 
 
 **Also:** [**5 ways to boost your skills and increase your career opportunities**](https://www.zdnet.com/education/professional-development/5-ways-to-boost-your-skills-and-increase-your-career-opportunities/)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Focus on the big picture**
 
 "Today's technology professionals should look beyond their current role in their organization, to think more broadly about the current challenges of the industry as a whole," says [Ben Smith](https://www.linkedin.com/in/bnsmth/), CTO of NetWitness. "Internally, they should seek out educational opportunities and tools available to expand their skills and succeed in their roles. Managers should know the top two or three goals of each of their employees, particularly those goals which may cross over from the professional world into the personal. The sooner a manager realizes that they cannot succeed by managing every employee identically, the stronger that manager's retention metric will be, whether in cybersecurity or any other industry." 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Shift thinking from heads-down tech to heads-up business concerns** 
 
@@ -82,11 +109,27 @@ Industry leaders across the spectrum share their concerns and advice about worki
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-premium-data-recorder-compatible-with-sony-a7s-for-2024/"><u>[New] Premium Data Recorder Compatible with Sony A7S for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-cutting-edge-techniques-for-excellent-sound-no-mic-included/"><u>[Updated] In 2024, Cutting-Edge Techniques for Excellent Sound, No Mic Included</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-sound-loads-in-inshot-editing-software/"><u>[Updated] Mastering Sound Loads in InShot Editing Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193851-discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unifying-visual-experience-in-iphone-recording/"><u>In 2024, Unifying Visual Experience in iPhone Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/melodic-monitor-gathering-tracks-for-evaluation-for-2024/"><u>Melodic Monitor Gathering Tracks for Evaluation for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-best-public-domain-images-online/"><u>New The Ultimate List Best Public Domain Images Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gamers-rejoice-hitman-3-finally-booting-up-without-a-glitch-in-sight/"><u>PC Gamers Rejoice! Hitman 3 Finally Booting Up Without a Glitch in Sight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-clips-with-this-exceptional-android-video-editing-software/"><u>Transform Your Clips with This Exceptional Android Video Editing Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-admin-utility-remove-disable-and-manage-rooted-device-applications-easily/"><u>Ultimate Admin Utility: Remove, Disable, and Manage Rooted Device Applications Easily</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194494-ultimate-selection-of-secure-android-app-protectors-find-out-which-ones-rank-the-highest/"><u>Ultimate Selection of Secure Android App Protectors – Find Out Which Ones Rank the Highest!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unified-chat-and-call-features-on-magicapp-compatible-with-iphone-android-and-pc/"><u>Unified Chat & Call Features on MagicApp - Compatible with iPhone, Android & PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/what-exactly-is-instant-messaging-an-in-depth-guide/"><u>What Exactly Is Instant Messaging? An In-Depth Guide</u></a></li>
+</ul></div>
+

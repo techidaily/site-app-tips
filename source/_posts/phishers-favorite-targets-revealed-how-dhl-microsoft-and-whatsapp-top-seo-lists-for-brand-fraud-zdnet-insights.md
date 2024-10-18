@@ -1,7 +1,7 @@
 ---
 title: "Phishers' Favorite Targets Revealed: How DHL, Microsoft & WhatsApp Top SEO Lists for Brand Fraud | ZDNet Insights"
-date: 2024-10-04T18:15:45.205Z
-updated: 2024-10-11T19:27:25.294Z
+date: 2024-10-13T17:23:46.053Z
+updated: 2024-10-17T19:19:41.559Z
 tags:
   - password-manager
 categories:
@@ -73,24 +73,26 @@ Check Point Research
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-trending-threads-triumph-top-twitters/"><u>[Updated] 2024 Approved Trending Threads Triumph Top Twitters</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-simple-paths-to-start-recording-on-hp-computers-for-2024/"><u>[Updated] Simple Paths to Start Recording on HP Computers for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-android-projector-applications-top-8-picks-for-seamless-wireless-connection/"><u>Best Android Projector Applications: Top 8 Picks for Seamless Wireless Connection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193990-experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-lava-yuva-2-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Lava Yuva 2</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oppo-a59-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Oppo A59 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-tailored-approach-boosting-fans-via-page-ranking/"><u>In 2024, Tailored Approach Boosting Fans via Page Ranking</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mp4-editor-for-windows-8-easily-edit-mp4-files-on-pc-for-2024/"><u>MP4 Editor for Windows 8 Easily Edit MP4 Files on PC for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-the-nuances-of-windows-maintenance-and-update-scheduling/"><u>Navigate the Nuances of Windows Maintenance & Update Scheduling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-overlapping-app-symbols-on-pc-screen/"><u>Rectifying Overlapping App Symbols on PC Screen</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-8-must-have-multi-window-programs-for-android-phones-and-tablets/"><u>The Ultimate List of 8 Must-Have Multi-Window Programs for Android Phones & Tablets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-vita-your-ultimate-guide-to-mastering-the-cutting-edge-video-editor/"><u>Unveiling the Power of VITA: Your Ultimate Guide to Mastering the Cutting-Edge Video Editor</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-designing-effective-thumbnails-with-imagery/"><u>[New] Designing Effective Thumbnails with Imagery</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-exploring-the-capabilities-of-screenflow-on-mac-devices/"><u>[Updated] Exploring the Capabilities of ScreenFlow on Mac Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerate-launch-times-for-windows-11-apps/"><u>Accelerate Launch Times for Windows 11 Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/basics-of-kinetic-illustration-mastery-for-2024/"><u>Basics of Kinetic Illustration Mastery for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-perfect-accounting-system-in-2-a-comprehensive-guide-techradar/"><u>Discover the Perfect Accounting System in 2# #: A Comprehensive Guide | TechRadar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-guide-dealing-with-data-center-connection-errors-in-halo-infinite/"><u>Fix Guide: Dealing with 'Data Center Connection Errors' In Halo Infinite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-bluetooth-troubleshooting-solutions-when-your-device-connects-but-remains-mute/"><u>Fixing the Silent Bluetooth: Troubleshooting Solutions When Your Device Connects but Remains Mute</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-anthropic-claude-mobile-application-now-available-company-unveils-new-business-strategy-tech-news-on-zdnet/"><u>Free Anthropic 'Claude' Mobile Application Now Available; Company Unveils New Business Strategy - Tech News on ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ating-through-youtubes-metrics-a-ranking-analysis-for-2024/"><u>Navigating Through YouTube's Metrics A Ranking Analysis for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-visionary-linus-torvalds-explores-ai-progress-rust-integration-and-linux-significance-with-zdnet/"><u>Tech Visionary Linus Torvalds Explores AI Progress, Rust Integration, and Linux Significance with ZDNET</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-guide-for-lenovo-screen-recording-enthusiasts-for-2024/"><u>The Ultimate Guide for Lenovo Screen Recording Enthusiasts for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrade-journey-for-ubuntu-linux-2404-demystified-by-zdnet-experts/"><u>Upgrade Journey for Ubuntu Linux 24.04 Demystified by ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11s-recent-update-unleashes-exciting-novel-capabilities-insights-from-zdnet/"><u>Windows 11'S Recent Update Unleashes Exciting Novel Capabilities - Insights From ZDNet</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

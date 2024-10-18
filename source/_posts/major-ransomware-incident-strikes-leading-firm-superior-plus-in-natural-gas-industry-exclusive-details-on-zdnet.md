@@ -1,7 +1,7 @@
 ---
 title: Major Ransomware Incident Strikes Leading Firm Superior Plus in Natural Gas Industry - Exclusive Details on ZDNET
-date: 2024-10-07T03:30:13.599Z
-updated: 2024-10-11T21:03:36.220Z
+date: 2024-10-16T08:25:00.529Z
+updated: 2024-10-18T07:41:22.950Z
 tags:
   - password-manager
 categories:
@@ -72,23 +72,28 @@ Deputy Attorney General Lisa Monaco [said during a press conference](https://twi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-safeguard-your-feed-remove-followers/"><u>[New] In 2024, How to Safeguard Your Feed Remove Followers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-craft-a-powerhouse-channel-with-studio-expertise/"><u>[Updated] 2024 Approved Craft a Powerhouse Channel with Studio Expertise</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-animatedapps-review-full-guide-24-year/"><u>[Updated] AnimatedApps Review - Full Guide '24 Year</u></a></li>
-<li><a href="https://app-tips.techidaily.com/celona-secures-60m-in-series-c-funding-drives-enterprise-5g-revolution-what-you-need-to-know/"><u>Celona Secures $60M in Series C Funding, Drives Enterprise 5G Revolution: What You Need to Know</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/elevate-zooms-audio-tailored-settings-for-immersive-listening/"><u>Elevate Zoom's Audio Tailored Settings for Immersive Listening</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revealed-employee-testimonial-why-you-might-prefer-not-to-work-at-apple-according-to-insiders/"><u>Revealed: Employee Testimonial – Why You Might Prefer Not to Work at Apple According to Insiders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rising-power-of-citizen-developers-in-driving-enterprise-software-innovation/"><u>Rising Power of Citizen Developers in Driving Enterprise Software Innovation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/sonys-collaboration-with-ai-singapore-fuels-development-of-advanced-large-language-models/"><u>Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-desktop-distributions-reviewed-why-linux-mint-22-stands-out-above-the-rest/"><u>Top Desktop Distributions Reviewed - Why Linux Mint 22 Stands Out Above the Rest</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/wav-or-mp3-which-is-superior-for-quality-sound-recording-and-playback/"><u>WAV or MP3: Which Is Superior for Quality Sound Recording and Playback?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010504135-solved-epic-games-launcher-wont-open-quickly-and-easily/"><u>[SOLVED] Epic Games Launcher Won't Open | Quickly & Easily</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-captures-top-10-online-video-recorders/"><u>[Updated] 2024 Approved Cutting-Edge Captures Top 10 Online Video Recorders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-steps-for-organizing-youtube-content-for-2024/"><u>[Updated] Essential Steps for Organizing YouTube Content for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-beyond-ai-boundaries-the-call-of-an-ai-scientist-on-thinking-differently/"><u>Exploring Beyond AI Boundaries - The Call of an AI Scientist on Thinking Differently</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008584254-forza-horizon-npc-engine-optimization-how-i-overcame-the-frame-rate-drop-issue/"><u>Forza Horizon nPC Engine Optimization: How I Overcame the Frame Rate Drop Issue</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/free-your-cameras-potential-best-screens-recording-apps-reviewed/"><u>Free Your Camera's Potential Best Screens Recording Apps Reviewed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-does-open-source-shape-ethical-ai-development-exploring-perspectives-on-zdnet/"><u>How Does Open Source Shape Ethical AI Development? Exploring Perspectives on ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-8-visuals-to-elevate-your-mbp-aesthetics-for-2024/"><u>Ideal 8 Visuals to Elevate Your MBP Aesthetics for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-pioneering-success-strategies-for-profitable-animation-in-fb-ads/"><u>In 2024, Pioneering Success Strategies for Profitable Animation in FB Ads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-enhanced-with-codenotarys-new-software-bill-of-materials-service-the-latest-update-featured-by-zdnet/"><u>Kubernetes Enhanced with Codenotary’s New Software Bill of Materials Service - The Latest Update Featured by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-tough-economic-terrain-the-persistent-demand-for-professionals-skilled-in-open-source-and-linux-platforms-zdnet-exclusive/"><u>Navigating the Tough Economic Terrain: The Persistent Demand for Professionals Skilled in Open Source and Linux Platforms | ZDNET Exclusive</u></a></li>
+<li><a href="https://app-tips.techidaily.com/regulatory-compliance/"><u>Regulatory Compliance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/status-of-microsofts-previous-promotion-for-a-complimentary-windows-10-installation/"><u>Status of Microsoft's Previous Promotion for a Complimentary Windows 10 Installation!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-changing-landscape-for-software-engineers-perspectives-by-atlassians-agnes-ro-on-zdnet/"><u>The Changing Landscape for Software Engineers: Perspectives by Atlassian's Agnes Ro on ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winxdvd-end-user-licensing-terms-by-digiarty-software-comprehensive-overview-of-user-responsibilities/"><u>WinXDVD End-User Licensing Terms by Digiarty Software – Comprehensive Overview of User Responsibilities</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

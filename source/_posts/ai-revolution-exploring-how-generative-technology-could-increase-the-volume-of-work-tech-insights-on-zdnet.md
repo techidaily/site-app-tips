@@ -1,7 +1,7 @@
 ---
 title: "AI Revolution: Exploring How Generative Technology Could Increase the Volume of Work | Tech Insights on ZDNet"
-date: 2024-09-18 16:24:12
-updated: 2024-09-20 10:46:16
+date: 2024-10-15T09:39:01.984Z
+updated: 2024-10-18T03:29:13.266Z
 tags:
   - digital-transformation
 categories:
@@ -78,11 +78,33 @@ Cappelli suggested the most useful generative AI application in the near term is
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-rediscover-classics-at-your-fingertits-pick-from-the-ultimate-5-gb-emulator-list-on-pc/"><u>[New] Rediscover Classics at Your Fingertits Pick From The Ultimate 5 GB Emulator List on PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flawless-playlist-integration-techniques-in-web-development/"><u>[Updated] 2024 Approved Flawless Playlist Integration Techniques in Web Development</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-professional-gamers-guide-optimal-video-capture-tips/"><u>[Updated] 2024 Approved Professional Gamers' Guide Optimal Video Capture Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-how-to-shun-crossplay-in-apex-legends-your-guide-to-platform-choices/"><u>[Updated] In 2024, How to Shun Crossplay in Apex Legends - Your Guide to Platform Choices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieving-excellence-in-agile-software-engineering-unveiling-the-6-key-principles-for-a-thriving-design-process/"><u>Achieving Excellence in Agile Software Engineering: Unveiling the 6 Key Principles for a Thriving Design Process</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-wirecast-top-video-broadcasting-software-for-2024/"><u>Beyond WireCast Top Video Broadcasting Software for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/key-challenges-in-leveraging-generative-ai-insights-from-the-latest-deloitte-research-highlighted-by-zdnet/"><u>Key Challenges in Leveraging Generative AI: Insights From the Latest Deloitte Research Highlighted by ZDNet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-networks-a-deep-dive-into-facebook-twitter-instagram-and-youtube-usage/"><u>Mastering Social Networks: A Deep Dive Into Facebook, Twitter, Instagram and Youtube Usage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-a-guide-to-streamlining-linux-and-open-source-docs/"><u>Organizing Chaos: A Guide to Streamlining Linux & Open Source Docs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-sharing-images-from-iphone-to-windows-desktop/"><u>Step-by-Step Guide: Sharing Images From iPhone to Windows Desktop</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleashing-power-and-potential-a-comprehensive-review-of-the-corsair-one-pro-gaming-pc/"><u>Unleashing Power and Potential: A Comprehensive Review of the Corsair One Pro Gaming PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/work-seamlessly-offline-on-onedrive-manage-your-documents-even-in-rural-locations-as-featured-by-zdnet/"><u>Work Seamlessly Offline on OneDrive - Manage Your Documents Even in Rural Locations, as Featured by ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

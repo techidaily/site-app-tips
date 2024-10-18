@@ -1,7 +1,7 @@
 ---
 title: CIO Warns Against Complacency in AI Development; Advocates for Innovative Thinkers over Simplistic AI Prompts - Insights From ZDNet
-date: 2024-09-18 16:29:23
-updated: 2024-09-20 12:36:21
+date: 2024-10-15T03:36:35.158Z
+updated: 2024-10-18T04:52:18.201Z
 tags:
   - digital-transformation
 categories:
@@ -98,11 +98,38 @@ As a result, he's seeing "the line between a classic coder and a business analys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-become-an-elite-joiner-tips-for-tiktok-lives/"><u>[New] 2024 Approved Become an Elite Joiner Tips for TikTok Lives</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-channel-your-content-earning-through-evaluative-endeavors-online/"><u>[New] Channel Your Content Earning Through Evaluative Endeavors Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-demystifying-the-journey-to-knowing-who-watches-you/"><u>[New] In 2024, Demystifying the Journey to Knowing Who Watches You</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-techniques-for-maximizing-gopro-battery-life/"><u>[New] Techniques for Maximizing GoPro Battery Life</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-best-8-3d-gold-text-effect-websites-for-2024/"><u>[Updated] Best 8 3D Gold Text Effect Websites for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-amplifying-visuals-android-video-guide/"><u>2024 Approved Amplifying Visuals Android Video Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-and-critique-of-the-vizmato-application/"><u>Comprehensive Analysis & Critique of the Vizmato Application</u></a></li>
+<li><a href="https://facebook.techidaily.com/connecting-beyond-boundaries-uncovering-six-key-metaverse-aspects-in-fb/"><u>Connecting Beyond Boundaries: Uncovering Six Key Metaverse Aspects in FB</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-road-safety-with-the-11-most-effective-apps-for-handsfree-sms-access/"><u>Enhance Road Safety with the 11 Most Effective Apps for Handsfree SMS Access</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965242947-fast-and-simple-download-acer-wireless-bluetooth-drivers/"><u>Fast & Simple Download: Acer Wireless Bluetooth Drivers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/innovative-partnership-mondly-joins-pearson-buttonfilters/"><u>Innovative Partnership: Mondly Joins Pearson ButtonFilters</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-guide-5-methods-to-securely-backup-your-iphone-applications/"><u>Simple Guide: 5 Methods to Securely Backup Your iPhone Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-top-5-utilities-for-efficiently-organizing-and-handling-android-phone-storage-via-sd-cards/"><u>The Top 5 Utilities for Efficiently Organizing and Handling Android Phone Storage via SD Cards</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-biometric-lock-screen-applications-for-your-android-device/"><u>Top 10 Biometric Lock Screen Applications for Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-highly-rated-and-free-notetaking-tools-for-android-devices-simplified-usage-guide/"><u>Top 10 Highly Rated & Free Notetaking Tools for Android Devices - Simplified Usage Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-3-free-android-block-game-apps-reviews-and-download-links/"><u>Top 3 Free Android Block Game Apps: Reviews & Download Links</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-of-free-tools-create-and-share-laugh-out-loud-memes-anywhere-anytime/"><u>Ultimate List of Free Tools: Create and Share Laugh-Out-Loud Memes Anywhere, Anytime</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

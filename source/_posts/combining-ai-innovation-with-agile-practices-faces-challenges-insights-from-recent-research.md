@@ -1,7 +1,7 @@
 ---
 title: "Combining AI Innovation with Agile Practices Faces Challenges: Insights From Recent Research"
-date: 2024-09-18 18:37:56
-updated: 2024-09-20 11:48:26
+date: 2024-10-12T16:38:34.461Z
+updated: 2024-10-18T02:22:43.681Z
 tags:
   - digital-transformation
 categories:
@@ -89,11 +89,40 @@ Finally, as noted above, the report suggested AI is not a magic wand and has lim
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mobile-magic-instagram-covers-iphone-plus-android/"><u>[New] 2024 Approved Mobile Magic Instagram Covers IPhone + Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unleash-gaming-potential-using-obs-recording-features/"><u>[Updated] In 2024, Unleash Gaming Potential - Using OBS Recording Features</u></a></li>
+<li><a href="https://fox-info.techidaily.com/8-superb-tablet-titans-to-take-your-photo-editing-skills-further-for-2024/"><u>8 Superb Tablet Titans to Take Your Photo Editing Skills Further for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anthropic-introduces-complimentary-ios-claude-app-expands-to-enterprise-market-latest-from-zdnet/"><u>Anthropic Introduces Complimentary iOS Claude App, Expands to Enterprise Market | Latest From ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/conquer-your-favorite-games-on-an-asus-vg245h-the-console-gamers-dream-screen/"><u>Conquer Your Favorite Games on an Asus VG245H - The Console Gamer's Dream Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-secrets-of-successful-gaming-with-steam/"><u>Decoding the Secrets of Successful Gaming with Steam</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-11x-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Realme 11X 5G Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-rca-video-doorbells-performance-and-features/"><u>In-Depth Analysis: RCA Video Doorbell's Performance and Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/juniper-networks-enhances-security-with-new-cloud-based-firewall-in-unified-secure-access-service-edge-portfolio/"><u>Juniper Networks Enhances Security with New Cloud-Based Firewall in Unified Secure Access Service Edge Portfolio</u></a></li>
+<li><a href="https://app-tips.techidaily.com/latest-features-in-libreoffice-and-easy-macos-installation-guide-insights-from-zdnet/"><u>Latest Features in LibreOffice & Easy macOS Installation Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-faces-time-sensitive-dilemma-over-windows-10-in-just-one-year-insights-from-zdnet-coverage/"><u>Microsoft Faces Time-Sensitive Dilemma Over Windows 10 in Just One Year - Insights From ZDNET Coverage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/national-dialogue/"><u>National Dialogue</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/screen-safari-adventure-through-one-million-games-for-2024/"><u>Screen Safari Adventure Through One Million Games for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-impact-of-the-russian-ukrainian-conflict-on-global-tech-sector-insights-from-zdnet/"><u>The Impact of the Russian-Ukrainian Conflict on Global Tech Sector | Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-providers-of-hyperconverged-infrastructure-solutions-expert-rankings-by-zdnet/"><u>Top Rated Providers of Hyperconverged Infrastructure Solutions - Expert Rankings by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/trasforma-i-tuoi-file-audio-con-facilita-online-conversione-rapida-da-audio-a-formati-come-mp3-e-wma/"><u>Trasforma I Tuoi File Audio Con Facilità Online - Conversione Rapida Da AUDIO a Formati Come MP3 E WMA</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultra-stable-linux-kernel-the-long-haul-solution-released-insights-from-zdnet/"><u>Ultra-Stable Linux Kernel: The Long-Haul Solution Released - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-potential-with-artificial-intelligence-learn-how-81-increase-in-workforce-productivity-can-be-achieved-expert-tips-by-zdnet/"><u>Unleashing Potential with Artificial Intelligence: Learn How 81% Increase in Workforce Productivity Can Be Achieved | Expert Tips by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-the-mystery-is-the-no-cost-windows-11-upgrade-still-available-analysis-by-zdnet/"><u>Unraveling the Mystery: Is the No-Cost Windows 11 Upgrade Still Available? - Analysis by ZDNET</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

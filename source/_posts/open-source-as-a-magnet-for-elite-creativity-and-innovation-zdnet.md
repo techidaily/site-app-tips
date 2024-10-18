@@ -1,7 +1,7 @@
 ---
 title: Open Source as a Magnet for Elite Creativity and Innovation | ZDNet
-date: 2024-09-18 20:44:13
-updated: 2024-09-20 10:54:16
+date: 2024-10-13T21:12:37.094Z
+updated: 2024-10-18T06:43:49.401Z
 tags:
   - digital-transformation
 categories:
@@ -94,11 +94,36 @@ Bridging the gap between problems and solutions is a mission the UN is trying to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-drone-lineages-and-lines/"><u>[Updated] Drone Lineages and Lines</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-overcoming-inaudibility-in-obs-captured-audio/"><u>[Updated] In 2024, Overcoming Inaudibility in OBS Captured Audio</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-gameplay-preservation-in-windows-10/"><u>[Updated] Navigating Gameplay Preservation in Windows 10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-6-mobile-explorer-tools-compatible-with-ios-devices-on-pcmac-systems/"><u>Discover the Top 6 Mobile Explorer Tools Compatible with iOS Devices on PC/Mac Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-10-alternatives-to-app-lock-on-android-devices/"><u>Discover the Ultimate 10 Alternatives to App Lock on Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-insights-the-definitive-guide-to-gopro-quik-a-comprehensive-analysis/"><u>Essential Insights: The Definitive Guide to GoPro Quik - A Comprehensive Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-transform-avi-files-to-wav-format-with-ease-use-movavi-today/"><u>Free Online Converter: Transform AVI Files to WAV Format with Ease - Use Movavi Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-mastering-your-android-device-top-free-and-premium-rooting-apps/"><u>Guide: Mastering Your Android Device - Top Free & Premium Rooting Apps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-infinix-hot-30i-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Infinix Hot 30i Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/professional-setup-for-screen-capture-during-games-for-2024/"><u>Professional Setup for Screen Capture During Games for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secure-your-favorite-shows-with-losmovies-downloader-the-ultimate-free-tool-for-saving-streams/"><u>Secure Your Favorite Shows with LosMovies Downloader: The Ultimate Free Tool for Saving Streams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194385-top-ranked-shotcut-video-editor-a-comprehensive-guide-dont-miss-it/"><u>Top-Ranked Shotcut Video Editor: A Comprehensive Guide - Don't Miss It</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194671-transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transformative-updates-for-a-modern-windows-11-experience/"><u>Transformative Updates for a Modern Windows 11 Experience</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

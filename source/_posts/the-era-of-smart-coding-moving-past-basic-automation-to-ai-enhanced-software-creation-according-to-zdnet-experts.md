@@ -1,7 +1,7 @@
 ---
 title: "The Era of Smart Coding: Moving Past Basic Automation to AI-Enhanced Software Creation According to ZDNet Experts"
-date: 2024-09-17 12:18:58
-updated: 2024-09-20 10:35:36
+date: 2024-10-14T22:10:33.165Z
+updated: 2024-10-18T11:14:53.452Z
 tags:
   - digital-transformation
 categories:
@@ -94,11 +94,36 @@ Ferguson said that with human oversight, "AI can strengthen approaches like DevO
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-color-grading-with-luts-in-premiere-pro/"><u>[Updated] Advanced Color Grading with LUTs in Premiere Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>[Updated] FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-9-ultimate-free-online-editors-for-content-creators/"><u>[Updated] In 2024, 9 Ultimate Free Online Editors for Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-creator-to-business-transforming-your-youtube-experience/"><u>[Updated] In 2024, From Creator to Business Transforming Your YouTube Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-from-memories-to-reels-building-stellar-slideshows-for-facebook/"><u>[Updated] In 2024, From Memories to Reels Building Stellar SlideShows for Facebook</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-counteract-vibration-for-clear-captures/"><u>2024 Approved Counteract Vibration for Clear Captures</u></a></li>
+<li><a href="https://app-tips.techidaily.com/approach/"><u>Approach</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-vivo-x90s-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo X90S Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://app-tips.techidaily.com/future-of-ai-innovations-in-the-coming-years-insights-and-predictions-zdnet/"><u>Future of AI Innovations in the Coming Years - Insights & Predictions | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovating-nlp-how-sony-research-is-joining-forces-with-ai-singapore-spotlighted-by-zdnet/"><u>Innovating NLP: How Sony Research Is Joining Forces with AI Singapore, Spotlighted by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/joint-venture-between-sony-research-and-ai-singapore-accelerates-creation-of-next-gen-language-ai-systems/"><u>Joint Venture Between Sony Research and AI Singapore Accelerates Creation of Next-Gen Language AI Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-chronological-productivity-effective-techniques-for-managing-your-hours/"><u>Mastering Chronological Productivity: Effective Techniques for Managing Your Hours</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-electronic-signature-solutions-insights-from-zdnet/"><u>Top Rated Electronic Signature Solutions - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-a-world-of-visual-conversations-with-lipsync-a-game-changing-rival-to-microsoft-teams-and-zoom-on-zdnet/"><u>Unlock a World of Visual Conversations with LipSync: A Game-Changing Rival to Microsoft Teams and Zoom on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-embracing-low-code-tech-boosts-employer-branding-zdnet-analysis/"><u>Why Embracing Low-Code Tech Boosts Employer Branding - ZDNet Analysis</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

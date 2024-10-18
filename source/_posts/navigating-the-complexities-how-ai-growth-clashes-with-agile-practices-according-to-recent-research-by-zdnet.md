@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Complexities: How AI Growth Clashes with Agile Practices, According to Recent Research by ZDNET"
-date: 2024-09-19 14:34:55
-updated: 2024-09-20 10:38:43
+date: 2024-10-12T07:34:48.513Z
+updated: 2024-10-17T17:34:18.942Z
 tags:
   - digital-transformation
 categories:
@@ -89,11 +89,34 @@ Finally, as noted above, the report suggested AI is not a magic wand and has lim
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-demystifying-data-a-beginners-guide-to-facebook-insights-for-2024/"><u>[Updated] Demystifying Data A Beginner's Guide to Facebook Insights for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unrivaled-adventures-a-chronicle-of-the-greatest-action-adventure-games-top-10/"><u>[Updated] Unrivaled Adventures A Chronicle of the Greatest Action-Adventure Games (Top 10)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/all-in-one-microsoft-experience-bridging-work-life-and-study-with-the-latest-teams-update-on-zdnet/"><u>All-in-One Microsoft Experience: Bridging Work, Life, and Study with the Latest Teams Update on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-installing-new-programs-onto-samsung-smart-tv-devices/"><u>Comprehensive Tutorial: Installing New Programs Onto Samsung Smart TV Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corrective-actions-for-the-infamous-error-0x80071ac3-volume-issue/"><u>Corrective Actions for the Infamous Error 0X80071AC3: Volume Issue</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/from-ingest-to-delivery-mastering-video-import-and-export-in-adobe-premiere-for-2024/"><u>From Ingest to Delivery Mastering Video Import and Export in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-value-360-cameras-simplifying-visual-storytelling/"><u>In 2024, Top Value 360° Cameras Simplifying Visual Storytelling</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-recent-patch-might-escalate-evening-tech-woes-experts-at-zdnet-caution/"><u>Microsoft's Recent Patch Might Escalate Evening Tech Woes, Experts at ZDNet Caution</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prepare-for-windows-11-end-of-life-your-top-5-solutions-to-keep-your-pc-running-smoothly/"><u>Prepare for Windows 11 End of Life: Your Top 5 Solutions to Keep Your PC Running Smoothly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/raising-the-profile-of-it-in-cx-initiatives-strategies-for-success-a-deep-dive-by-zdnet/"><u>Raising the Profile of IT in CX Initiatives: Strategies for Success - A Deep Dive by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simplifying-systems-management-red-hats-strategic-use-of-ai-to-support-administrators-zdnet/"><u>Simplifying Systems Management: Red Hat's Strategic Use of AI to Support Administrators | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-leading-iam-tools-as-ranked-by-industry-experts/"><u>The Ultimate Guide to Leading IAM Tools , as Ranked by Industry Experts</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/tutorial-facile-telecharger-le-contenu-dun-dvd-a-laide-dune-cle-usb-sous-systemes-windows-et-macos/"><u>Tutorial Facile: Télécharger Le Contenu D'un DVD À L'aide D'une Clé USB Sous Systèmes Windows Et MacOS</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

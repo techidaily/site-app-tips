@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Digital Defense: The Urgent Call for Enhanced Cybersecurity Expertise Amidst Legacy System Challenges"
-date: 2024-09-18 17:27:21
-updated: 2024-09-20 12:57:11
+date: 2024-10-15T08:13:00.878Z
+updated: 2024-10-18T00:19:06.746Z
 tags:
   - digital-transformation
 categories:
@@ -95,6 +95,13 @@ To address these requirements, she said organizations are tapping the knowledge 
 
 "Having an underskilled team can be as risky as having an understaffed one," she said. Citing Forrester's 2022 Business Technographics survey on data security, she said companies that had six or more data breaches in the past year were more likely to report the unavailability of security employees with the right skills as one of their biggest IT security challenges in the past 12 months. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tech stacks need simplifying to ease security management
 
 Should organizations engage managed security services providers to plug the gaps, Pizzala recommends they do so while remaining involved. Similar to a cloud management strategy, there should be shared responsibility, with the companies doing their own checks and scanning, he said. 
@@ -171,11 +178,25 @@ Few organizations, unless they have the necessary capabilities, have a collectiv
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/jeys-youtube-profit-milestones-for-2024/"><u>[New] Ajey's YouTube Profit Milestones for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-skyrocket-traffic-secrets-to-attract-more-viewers-online/"><u>[Updated] Skyrocket Traffic Secrets to Attract More Viewers Online</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-googles-technique-for-crystal-clear-speech-translation/"><u>2024 Approved Google's Technique for Crystal Clear Speech Translation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/collaborative-effort-between-sonys-ai-division-and-ai-singapore-on-advanced-language-models-insights-from-zdnet/"><u>Collaborative Effort Between Sony's AI Division and AI Singapore on Advanced Language Models - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exceptional-lg-24lh4830-screen-experience-without-breaking-your-wallet/"><u>Exceptional LG 24LH4830 Screen Experience Without Breaking Your Wallet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-agile-journey-six-pivotal-principles-for-triumphant-software-design-from-zdnet/"><u>Navigating the Agile Journey: Six Pivotal Principles for Triumphant Software Design From ZDnet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-todays-challenges-overcoming-uncertainty-in-ai-output-and-doubts-on-precision-insights-from-zdnet/"><u>Navigating Today's Challenges: Overcoming Uncertainty in AI Output & Doubts on Precision - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-power-of-concealment-leveraging-anonymity-to-strengthen-your-virtual-workforce-zdnet/"><u>The Power of Concealment: Leveraging Anonymity to Strengthen Your Virtual Workforce | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-lms-solutions-reviewed-comprehensive-guide-zdnet/"><u>Top Rated LMS Solutions Reviewed: Comprehensive Guide | ZDNet</u></a></li>
+</ul></div>
+

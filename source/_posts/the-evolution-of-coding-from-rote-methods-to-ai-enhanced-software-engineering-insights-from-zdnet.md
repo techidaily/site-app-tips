@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Coding: From Rote Methods to AI-Enhanced Software Engineering - Insights From ZDNet"
-date: 2024-09-17 18:30:18
-updated: 2024-09-20 10:56:12
+date: 2024-10-15T20:13:44.007Z
+updated: 2024-10-18T01:33:59.951Z
 tags:
   - digital-transformation
 categories:
@@ -94,11 +94,38 @@ Ferguson said that with human oversight, "AI can strengthen approaches like DevO
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-vlogging-effective-use-of-jump-cuts/"><u>[New] In 2024, Elevate Vlogging Effective Use of Jump Cuts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-targeted-thought-leadership-with-profound-fb-video-strategies-for-2024/"><u>[New] Targeted Thought Leadership with Profound FB Video Strategies for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-for-entrepreneurs-how-to-register-as-a-biz-page/"><u>[Updated] 2024 Approved Instagram for Entrepreneurs How to Register as a Biz Page</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-maximize-your-snapchat-impact-with-mac-footage/"><u>[Updated] In 2024, Maximize Your Snapchat Impact with Mac Footage</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-snap-to-it-ios-and-android-writers-choice/"><u>[Updated] In 2024, Snap to It – iOS & Android' Writers’ Choice</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-streamline-your-online-experience-insights-into-ffxp-for-2024/"><u>[Updated] Streamline Your Online Experience Insights Into FFXP for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-innovations-reshaping-the-future-of-software-development-the-productivity-shift-unveiled-codedigest/"><u>AI Innovations Reshaping the Future of Software Development - The Productivity Shift Unveiled | CodeDigest</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-bandwidth-exploring-revolutionary-5g-applications-that-surpass-connectivity-deep-dive-with-zdnet/"><u>Beyond Bandwidth: Exploring Revolutionary 5G Applications That Surpass Connectivity | Deep Dive with ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-widening-chasm-of-data-expertise-innovative-strategies-from-a-leading-tech-firm-zdnet/"><u>Bridging the Widening Chasm of Data Expertise: Innovative Strategies From a Leading Tech Firm | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/devops-engineer-career-path-unveiling-the-pros-cons-and-realities-insights-from-zdnet/"><u>DevOps Engineer Career Path: Unveiling The Pros, Cons & Realities - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/effective-control-of-fb-connected-services/"><u>Effective Control of FB Connected Services</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-artificial-intelligence-impacts-future-trends-in-cybersecurity-employment-opportunities-insights-from-zdnet/"><u>How Artificial Intelligence Impacts Future Trends in Cybersecurity Employment Opportunities: Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-simplified-approach-to-removing-youtube-comments-with-ease/"><u>In 2024, Simplified Approach to Removing YouTube Comments with Ease</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-tech-leadership-start-with-business-insight-zdnets-guide/"><u>Mastering Tech Leadership: Start with Business Insight | ZDNet's Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-generative-ai-hurdles-demonstrating-tangible-returns-on-investment-insights-from-zdnet/"><u>Overcoming Generative AI Hurdles: Demonstrating Tangible Returns on Investment - Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/upside-down-up-in-popularity-the-instagram-way-for-2024/"><u>Upside Down, Up in Popularity The Instagram Way for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-top-innovators-are-embracing-open-source-strategies-according-to-zdnet/"><u>Why Top Innovators Are Embracing Open Source Strategies, According to ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

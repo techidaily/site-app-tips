@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Recent Study: A Staggering 25%% of Tech Workers May Soon Seek New Employment Opportunities"
-date: 2024-09-19 14:21:50
-updated: 2024-09-20 11:11:41
+date: 2024-10-15T10:41:44.456Z
+updated: 2024-10-18T09:21:04.464Z
 tags:
   - digital-transformation
 categories:
@@ -47,15 +47,42 @@ Industry leaders across the spectrum share their concerns and advice about worki
 
 "Keep learning is my best advice," says [Andrew Duncan](https://www.linkedin.com/in/andrewdun/?originalSubdomain=uk), CEO and managing partner at Infosys Consulting. "New experiences, new skills development, and new project opportunities are always the best path to keep advancing. Find a mentor that can help you through coaching and advisory -- these types of more seasoned business veterans are often a great ticket to opening new doors within a company, especially for younger professionals. Keep yourself visible and market yourself -- show people your successes and achievements and the value you have created in a project." 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Be a team player** 
 
 "Become critically important for the success of your team," says [Zaven Nahapetyan](https://www.linkedin.com/in/zavn/), co-founder of Niche.club, and a former engineering manager at Facebook. "As you get more senior, think about your team in broader terms: First, your immediate coworkers, then your organization. Understand what results you, your team, and your organization are supposed to be driving. Don't think of your job as a list of responsibilities, but rather as an investment by the company in order to achieve some goal. Try to understand what that goal is, and do everything in your power to help achieve it." 
 
 **Also:** [**5 ways to boost your skills and increase your career opportunities**](https://www.zdnet.com/education/professional-development/5-ways-to-boost-your-skills-and-increase-your-career-opportunities/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Focus on the big picture**
 
 "Today's technology professionals should look beyond their current role in their organization, to think more broadly about the current challenges of the industry as a whole," says [Ben Smith](https://www.linkedin.com/in/bnsmth/), CTO of NetWitness. "Internally, they should seek out educational opportunities and tools available to expand their skills and succeed in their roles. Managers should know the top two or three goals of each of their employees, particularly those goals which may cross over from the professional world into the personal. The sooner a manager realizes that they cannot succeed by managing every employee identically, the stronger that manager's retention metric will be, whether in cybersecurity or any other industry." 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Shift thinking from heads-down tech to heads-up business concerns** 
 
@@ -82,11 +109,31 @@ Industry leaders across the spectrum share their concerns and advice about worki
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-navigating-the-peak-content-igtvs-leaders/"><u>[New] Navigating the Peak Content IGTV's Leaders</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-effortlessly-post-tiktok-videos-on-twitter/"><u>[Updated] Effortlessly Post TikTok Videos on Twitter</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-year-end-visualizations-mind-bending-youtube-figures-and-trends/"><u>2024 Approved Year-End Visualizations Mind Bending Youtube Figures and Trends</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-chatbots-struggle-beyond-english-boundaries-insights-from-a-new-stanford-research-zdnet/"><u>AI Chatbots Struggle Beyond English Boundaries - Insights From a New Stanford Research | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-pointing-exploring-the-impact-of-generative-ai-on-ux-zdnet-analysis/"><u>Beyond Clicks and Pointing: Exploring the Impact of Generative AI on UX | ZDNet Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/eye-on-graphics-will-gpu-fees-increase-soon/"><u>Eye on Graphics: Will GPU Fees Increase Soon?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/finding-the-one-how-ai-assistant-chatgpt-transforms-modern-dating/"><u>Finding 'The One': How AI Assistant ChatGPT Transforms Modern Dating</u></a></li>
+<li><a href="https://app-tips.techidaily.com/from-citizens-to-coders-how-low-code-and-no-code-is-revolutionizing-development-in-it/"><u>From Citizens to Coders: How Low-Code and No-Code Is Revolutionizing Development in IT</u></a></li>
+<li><a href="https://win11.techidaily.com/1719286727564-gpt4all-for-pcs-local-free-chatgpt-version/"><u>GPT4All for PCs: Local, Free ChatGPT Version</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/ifind-data-revival-pro-mastering-the-art-of-reformatting-drives-and-recovering-lost-files-safely-and-securely/"><u>IFind Data Revival Pro: Mastering the Art of Reformatting Drives and Recovering Lost Files Safely & Securely</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-infinix-zero-5g-2023-turbo-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Infinix Zero 5G 2023 Turbo Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-challenges-unlocking-the-full-potential-of-ai-in-your-business-strategy-zdnet/"><u>Navigating Challenges: Unlocking the Full Potential of AI in Your Business Strategy | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-here-exploring-the-revolutionary-impact-of-ai-agents-on-our-careers-and-industries-zdnet-insights/"><u>The Future Is Here: Exploring the Revolutionary Impact of AI Agents on Our Careers and Industries | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-generative-ai-wave-transforming-workflow-how-automation-impacts-coding-jobs-techzine/"><u>The Generative AI Wave Transforming Workflow: How Automation Impacts Coding Jobs | TechZine</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-next-big-thing-the-quest-for-an-unprecedented-5g-game-changer-beyond-simple-connections-insights-from-zdnet/"><u>Unveiling the Next Big Thing: The Quest for an Unprecedented 5G Game-Changer Beyond Simple Connections - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-truth-five-common-errors-in-understanding-data-revenue-strategies-on-zdnet/"><u>Unveiling the Truth: Five Common Errors in Understanding Data Revenue Strategies on ZDNet</u></a></li>
+</ul></div>
+

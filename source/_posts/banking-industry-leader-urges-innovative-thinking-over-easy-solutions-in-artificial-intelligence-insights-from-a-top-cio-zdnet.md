@@ -1,7 +1,7 @@
 ---
 title: Banking Industry Leader Urges Innovative Thinking Over Easy Solutions in Artificial Intelligence - Insights From a Top CIO | ZDNet
-date: 2024-09-17 11:53:24
-updated: 2024-09-20 11:19:45
+date: 2024-10-17T06:19:18.891Z
+updated: 2024-10-17T21:53:51.469Z
 tags:
   - digital-transformation
 categories:
@@ -98,11 +98,36 @@ As a result, he's seeing "the line between a classic coder and a business analys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-humor-haven-the-ultimate-list-of-event-specific-jokes/"><u>[New] Humor Haven The Ultimate List of Event-Specific Jokes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-a-step-by-step-review-of-using-showmore-for-video-capture/"><u>[Updated] 2024 Approved A Step-by-Step Review of Using ShowMore for Video Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-screen-recorder-unmatched-pcmacos-quality-for-2024/"><u>[Updated] Ultimate Screen Recorder - Unmatched PC/macOS Quality for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-c55-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco C55</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-with-microsoft-a-step-by-step-guide-on-upgrading-to-windows-pro-edition-and-its-advantages/"><u>Advancing with Microsoft: A Step-by-Step Guide on Upgrading to Windows Pro Edition & Its Advantages</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/beginners-guide-to-setting-up-a-canon-printer-with-images/"><u>Beginner's Guide to Setting up a Canon Printer (with Images)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bypass-wireless-adaptor-glitches-with-these-10-effective-strategies/"><u>Bypass Wireless Adaptor Glitches with These 10 Effective Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-servicenows-core-ai-concepts-can-transform-your-enterprise-strategy-key-takeaways-from-experts-at-zdnet/"><u>How ServiceNow's Core AI Concepts Can Transform Your Enterprise Strategy: Key Takeaways From Experts at ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-sata-drivers-for-windows-pcs-in-just-a-few-steps/"><u>How to Get the Latest SATA Drivers for Windows PCs in Just a Few Steps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-find-n3-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Find N3</u></a></li>
+<li><a href="https://app-tips.techidaily.com/key-challenges-in-harnessing-generative-ai-insights-from-the-latest-deloitte-research-highlighted-by-zdnet/"><u>Key Challenges in Harnessing Generative AI: Insights From the Latest Deloitte Research Highlighted by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revival-in-cloud-tech-understanding-why-openstack-and-kata-containers-are-now-top-choices-for-enterprises-zdnet-analysis/"><u>Revival in Cloud Tech: Understanding Why OpenStack and Kata Containers Are Now Top Choices for Enterprises | ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/superduperdb-your-gateway-to-accessing-top-artificial-intelligence-applications-insights-from-zdnet/"><u>SuperDuperDB: Your Gateway to Accessing Top Artificial Intelligence Applications - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/switzerland-adopts-policy-for-open-source-public-sector-software/"><u>Switzerland Adopts Policy for Open-Source Public Sector Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshooting-ps4-how-to-fix-a-stuck-disc-tray-that-wont-open/"><u>Troubleshooting PS4: How to Fix a Stuck Disc Tray That Won't Open</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

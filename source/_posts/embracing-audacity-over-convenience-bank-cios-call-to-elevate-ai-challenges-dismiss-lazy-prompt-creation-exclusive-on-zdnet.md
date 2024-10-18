@@ -1,7 +1,7 @@
 ---
 title: "Embracing Audacity Over Convenience: Bank CIO's Call to Elevate AI Challenges, Dismiss Lazy Prompt Creation - Exclusive on ZDNet"
-date: 2024-09-19 23:48:21
-updated: 2024-09-20 12:22:14
+date: 2024-10-12T23:25:20.048Z
+updated: 2024-10-18T08:53:59.760Z
 tags:
   - digital-transformation
 categories:
@@ -98,11 +98,38 @@ As a result, he's seeing "the line between a classic coder and a business analys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-precision-screening-advanced-tips-for-hp-laptop-recording/"><u>[New] 2024 Approved Precision Screening Advanced Tips for HP Laptop Recording</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mcb-video-graphics-pack-for-youtube-channels/"><u>[New] In 2024, MCB Video Graphics Pack for YouTube Channels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-vector-editing-without-acid-pro/"><u>[Updated] Mastering Vector Editing without ACID Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/10-owners-to-consider-before-end-of-life-date-hits/"><u>10 Owners to Consider Before End-of-Life Date Hits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-raises-the-bar-with-new-800-series-motherboard-chipsets-engineered-for-next-gen-ryzen-9000-cpus-the-ultimate-competition-with-intel/"><u>AMD Raises the Bar with New 800 Series Motherboard Chipsets, Engineered for Next-Gen Ryzen 9000 CPUs – The Ultimate Competition With Intel</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-premier-cloud-platforms-exploring-the-strengths-of-aws-microsoft-azure-and-google-cloud-in-hybrid-saas-markets-insights-by-zdnet/"><u>Comprehensive Review of Premier Cloud Platforms: Exploring the Strengths of AWS, Microsoft Azure & Google Cloud in Hybrid, SaaS Markets | Insights by ZDNET</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/download-and-install-your-ultimate-guide-to-using-obs-on-a-macpc/"><u>Download & Install Your Ultimate Guide to Using OBS on a MacPC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-elite-selection-of-macos-programs-featured-on-zdnet/"><u>Explore the Elite Selection of macOS Programs - Featured on ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-premiere-pro-starter-kit-with-top-templates-for-2024/"><u>Free Premiere Pro Starter Kit with Top Templates for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-precision-adjustments-correcting-iphone-video-washout-in-premiere-pro/"><u>In 2024, Precision Adjustments Correcting iPhone Video Washout in Premiere Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovating-ai-research-breaking-free-from-conventional-llm-approaches/"><u>Innovating AI Research - Breaking Free From Conventional LLM Approaches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-chatgpt-potential-in-windows/"><u>Maximize ChatGPT Potential in Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-2b-five-facts-to-remember-about-antenna-grounding/"><u>Section 2B: Five Facts to Remember About Antenna Grounding</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-here-exploring-the-cutting-edge-of-5g-and-edge-computing-innovations-highlights-by-zdnet/"><u>The Future Is Here: Exploring the Cutting-Edge of 5G and Edge Computing Innovations | Highlights by ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-story-of-yahoo-messenger-why-did-this-communication-tool-end/"><u>The Story of Yahoo Messenger: Why Did This Communication Tool End?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-pc-experience-detailed-instructions-for-replacing-windows-with-linux-mint/"><u>Transform Your PC Experience: Detailed Instructions for Replacing Windows With Linux Mint</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-microsofts-critical-challenge-with-windows-11-just-one-year-away-an-in-depth-analysis-by-zdnet/"><u>Urgent: Microsoft's Critical Challenge with Windows 11 Just One Year Away - An In-Depth Analysis by ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

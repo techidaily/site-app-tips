@@ -1,7 +1,7 @@
 ---
 title: "Pushing Boundaries: The Rise of Low/No-Code Platforms & Their Impact on Traditional IT Support"
-date: 2024-09-18 17:59:40
-updated: 2024-09-20 10:18:21
+date: 2024-10-11T20:34:33.162Z
+updated: 2024-10-17T21:52:55.080Z
 tags:
   - digital-transformation
 categories:
@@ -60,11 +60,36 @@ The nature of direct IT involvement in building low and no-code apps depends on 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-streamline-operations-ranking-the-top-8-facebook-task-managers/"><u>[New] 2024 Approved Streamline Operations Ranking the Top 8 Facebook Task Managers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-ace-your-youtube-livestreams-mastering-broadcast-techniques-using-wirecast/"><u>[New] Ace Your Youtube Livestreams Mastering Broadcast Techniques Using WireCast</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-otter-team-edition-unveiled-revolutionize-remote-collaboration-with-adaptive-live-meeting-transcriptions-zdnet-insights/"><u>1. Otter Team Edition Unveiled: Revolutionize Remote Collaboration with Adaptive Live Meeting Transcriptions - ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fixes-for-common-dll-error-messages-in-directx-applications/"><u>Comprehensive Fixes for Common .dll Error Messages in DirectX Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/crowdstrikes-cto-warns-generative-ai-emerges-as-a-major-threat-to-business-security/"><u>CrowdStrike's CTO Warns: Generative AI Emerges as a Major Threat to Business Security</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/elevate-creations-get-free-high-quality-templates-today-in-2024/"><u>Elevate Creations - Get FREE High-Quality Templates Today, In 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/excel-expert-advice-crafting-a-user-friendly-drop-down-list-in-minutes-with-zdnets-strategies/"><u>Excel Expert Advice: Crafting a User-Friendly Drop-Down List in Minutes with ZDNet's Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-ai-rust-language-with-linus-torvalds-why-the-linux-core-reigns-supreme-tech-insights/"><u>Exploring AI, Rust Language with Linus Torvalds: Why the Linux Core Reigns Supreme | Tech Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-boost-your-videos-impact-with-top-ranking-software-solutions/"><u>In 2024, Boost Your Videos' Impact with Top-Ranking Software Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-windows-11-pcs-after-end-of-support-discover-5-key-strategies-revealed-by-zdnet/"><u>Navigating the Future of Windows 11 PCs After End-of-Support: Discover 5 Key Strategies Revealed by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-audio-file-converter-rapidamente-transforme-auvs-em-mp3-wma-e-outros-formatos/"><u>Online Audio File Converter - Rapidamente Transforme AUVs Em MP3, WMA E Outros Formatos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-insiders-guide-to-flawless-game-recordings-on-playstation-4-for-2024/"><u>The Insider’s Guide to Flawless Game Recordings on PlayStation 4 for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-the-best-virtual-meeting-software-forbes-tech-council/"><u>The Ultimate Guide to the Best Virtual Meeting Software - Forbes Tech Council</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-how-top-innovators-flock-to-open-source-projects-insights-from-zdnet/"><u>Unveiling How Top Innovators Flock to Open-Source Projects - Insights From ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

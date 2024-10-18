@@ -1,7 +1,7 @@
 ---
 title: "How Generative AI Could Increase Labor Demand Despite Efficiency Promises: Insights From ZDNet"
-date: 2024-09-18 22:38:10
-updated: 2024-09-20 10:12:33
+date: 2024-10-11T21:25:22.828Z
+updated: 2024-10-18T07:36:52.178Z
 tags:
   - digital-transformation
 categories:
@@ -78,11 +78,40 @@ Cappelli suggested the most useful generative AI application in the near term is
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-advanced-vision-systems-with-green-promise/"><u>[New] In 2024, Advanced Vision Systems with Green Promise</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-easy-lenovo-techniques-for-capturing-your-display/"><u>[New] In 2024, Easy Lenovo Techniques for Capturing Your Display</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweettub-ios-app-for-fetching-twitter-vids-for-2024/"><u>[Updated] TweetTub IOS App for Fetching Twitter Vids for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-strategic-approach-to-increase-likes-on-your-tiktok-video-content/"><u>2024 Approved A Strategic Approach to Increase 'Likes' On Your TikTok Video Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-mastery-made-simple-the-top-20-must-know-strategies/"><u>2024 Approved YouTube Mastery Made Simple The Top 20 Must-Know Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anticipating-windows-12-release-latest-updates-and-unexpected-forecasts-techinsights/"><u>Anticipating Windows 12 Release: Latest Updates & Unexpected Forecasts | TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-development-process-with-generative-ai-tips-for-success-and-potential-hazards/"><u>Boost Your Development Process with Generative AI - Tips for Success & Potential Hazards</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-vivaldis-new-inbuilt-email-application-a-marvel-of-efficiency-and-style-tech-insights/"><u>Discover Vivaldi’s New Inbuilt Email Application: A Marvel of Efficiency and Style | Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-why-aiops-matters-7-key-points-backed-by-zdnets-research/"><u>Discover Why AIOps Matters: 7 Key Points Backed by ZDNet's Research</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhanced-personalization-with-advanced-cookiebot-technology/"><u>Enhanced Personalization with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-faces-an-unexpected-setback-from-ios-145/"><u>Facebook Faces an Unexpected Setback From iOS 14.5</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-efficient-spotify-listening-safe-speed-adjustment/"><u>In 2024, Efficient Spotify Listening Safe Speed Adjustment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-the-latest-enhancement-juniper-networks-integrated-cloud-firewall-into-its-sase-solution-for-optimized-cybersecurity/"><u>Introducing the Latest Enhancement: Juniper Network's Integrated Cloud Firewall Into Its SASE Solution for Optimized Cybersecurity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-the-underdog-how-a-simple-app-challenges-mcdonalds-dominance-insights-from-zdnet/"><u>The Rise of the Underdog: How a Simple App Challenges McDonald's Dominance - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/times-running-out-for-microsoft-the-impending-crisis-over-windows-10-requires-immediate-action-zdnet/"><u>Time's Running Out for Microsoft: The Impending Crisis Over Windows 10 Requires Immediate Action [ZDNet]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-of-2024-ultimate-guide-to-the-best-4k-hdr-gaming-displays-with-144hz-curve/"><u>Top Picks of 2024: Ultimate Guide to the Best 4K HDR Gaming Displays with 144Hz Curve</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-corporate-potential-through-ai-discover-anthropics-claude-for-scalable-innovation/"><u>Unleashing Corporate Potential Through AI: Discover Anthropic's Claude for Scalable Innovation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-ending-maintenance-in-a-year-explore-these-5-alternatives-now/"><u>Windows 11 Ending Maintenance in a Year - Explore These 5 Alternatives Now!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
