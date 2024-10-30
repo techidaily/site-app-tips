@@ -1,7 +1,7 @@
 ---
 title: Agnes Ro Reveals the Transformation in Modern Development Roles at Atlassian - Insights From Tech Visionary
-date: 2024-10-20T00:11:45.851Z
-updated: 2024-10-23T19:48:53.740Z
+date: 2024-10-23T23:13:06.594Z
+updated: 2024-10-29T22:20:38.507Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +187,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-inside-outlook-what-youre-missing-as-a-story-viewer/"><u>[Updated] 2024 Approved Inside Outlook What You're Missing as a Story Viewer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-capturecraft-hd-top-10-freepaid-filters-list/"><u>[Updated] CaptureCraft HD Top 10 Free/Paid Filters List</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-compare-metaverse-vs-omniverse-a-complete-guide/"><u>[Updated] Compare Metaverse Vs. Omniverse A Complete Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-hurry-up-get-professional-valorant-thumbnail-skills-now/"><u>2024 Approved Hurry Up, Get Professional Valorant Thumbnail Skills Now</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-iphone-photos-upside-down-and-sideways-tricks/"><u>2024 Approved Transforming iPhone Photos Upside-Down & Sideways Tricks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Xiaomi 13T? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enterprise-tech-adopts-ops-approach-amidst-growing-pains-and-opportunities-for-innovation/"><u>Enterprise Tech Adopts 'Ops' Approach Amidst Growing Pains and Opportunities for Innovation</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experiencing-ultimate-accessibility-on-two-wheels-dive-into-mods-newest-sidecar-e-bike-model/"><u>Experiencing Ultimate Accessibility on Two Wheels: Dive Into Mod’s Newest Sidecar E-Bike Model</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-a-tech-career-journey-with-wisdom-from-the-top-of-the-aeronautics-world-analyzed-on-zdnet/"><u>Navigating a Tech Career Journey with Wisdom From the Top of the Aeronautics World | Analyzed on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-ai-with-open-source-the-smart-path-forward-insights-from-zdnet/"><u>Navigating the Future of AI with Open Source: The Smart Path Forward - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-on-implementing-send-later-option-in-thunderbird-mail-clients-zdnet/"><u>Step-by-Step Tutorial on Implementing 'Send Later' Option in Thunderbird Mail Clients (ZDNet)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-humble-code-that-put-big-mac-in-a-bind-how-an-ingenious-application-challenged-mcdonalds-systems/"><u>The Humble Code That Put Big Mac in a Bind: How an Ingenious Application Challenged McDonald's Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-coursera-unveils-new-skill-level-evaluation-with-proficiency-testing/"><u>ZDNet: Coursera Unveils New Skill-Level Evaluation with Proficiency Testing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-guide-to-the-most-effective-crm-systems-in-2vee-a-2022-selection-tailored-for-smb-success/"><u>ZDNET's Guide to the Most Effective CRM Systems in 2Vee: A 2022 Selection Tailored for SMB Success</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-an-easy-way-to-amplify-your-instagram-presence-by-sharing-youtube-links-in-stories-for-2024/"><u>[Updated] An Easy Way to Amplify Your Instagram Presence by Sharing YouTube Links in Stories for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-snapchat-tips-uploading-twitter-videos-for-max-impact/"><u>[Updated] In 2024, SnapChat Tips Uploading Twitter Videos for Max Impact</u></a></li>
+<li><a href="https://driver-error.techidaily.com/acpi-device-id-resolution-venint33a0/"><u>ACPI Device ID Resolution: VEN_INT33A0</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipating-the-newest-google-event-unveiling-expectations-and-speculation/"><u>Anticipating the Newest Google Event: Unveiling Expectations & Speculation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-apps-to-enhance-your-android-devices-speed-and-efficiency/"><u>Best 10 Apps to Enhance Your Android Device's Speed and Efficiency</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-eq-tools-for-android-devices-top-5-selections/"><u>Discover the Ultimate List of Free EQ Tools for Android Devices - Top 5 Selections</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dive-into-retro-and-modern-gaming-effortlessly-play-ps-classics-using-ps3-ps4-and-ps5-emulators-on-pc/"><u>Dive Into Retro and Modern Gaming: Effortlessly Play PS Classics Using PS3, PS4, and PS5 Emulators on PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-object-extraction-in-iphone-photography-with-top-6-apps/"><u>In 2024, Mastering Object Extraction in iPhone Photography with Top 6 Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-y55s-5g-2023-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo Y55s 5G (2023) Phone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-insight-into-vllo-video-editing-suite-features-performance-and-user-experience-reviewed/"><u>In-Depth Insight Into VLLO Video Editing Suite: Features, Performance, and User Experience Reviewed</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-review-of-moto-g-power-exceptional-battery-durability-in-a-beautifully-crafted-device/"><u>The Ultimate Review of Moto G Power: Exceptional Battery Durability in a Beautifully Crafted Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-free-messaging-apps-as-great-substitutes-for-whatsapp/"><u>Top 10 Free Messaging Apps as Great Substitutes for WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-iphones-file-recovery-apps-restore-your-lost-data-easily/"><u>Top 5 iPhones File Recovery Apps: Restore Your Lost Data Easily</u></a></li>
 </ul></div>
 

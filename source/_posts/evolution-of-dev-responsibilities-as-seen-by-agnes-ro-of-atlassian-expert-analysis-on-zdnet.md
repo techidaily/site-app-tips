@@ -1,7 +1,7 @@
 ---
 title: Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet
-date: 2024-10-19T04:04:50.511Z
-updated: 2024-10-23T18:12:59.487Z
+date: 2024-10-27T23:51:14.647Z
+updated: 2024-10-29T22:24:48.330Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,18 +187,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-transforming-live-interactions-into-captivating-content/"><u>[New] Transforming Live Interactions Into Captivating Content</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-which-is-the-top-screener-bandicam-or-camtasia-for-2024/"><u>[New] Which Is the Top Screener? - Bandicam Or Camtasia for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-craft-compelling-youtube-titles-faster-than-ever/"><u>[Updated] Craft Compelling YouTube Titles Faster Than Ever</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ultimate-memory-upgrade-for-sony-a7c/"><u>[Updated] In 2024, Ultimate Memory Upgrade for Sony A7C</u></a></li>
-<li><a href="https://app-tips.techidaily.com/debunking-microsoft-recall-as-a-privacy-catastrophe-here-are-7-compelling-reasons-you-shouldnt-worry-zdnet/"><u>Debunking Microsoft Recall as a Privacy Catastrophe? Here Are 7 Compelling Reasons You Shouldn't Worry | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-essential-is-devops-for-staying-ahead-in-business-ensuring-safety-through-top-strategies-insights-from-zdnet/"><u>How Essential Is DevOps for Staying Ahead in Business: Ensuring Safety Through Top Strategies - Insights From ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-x5-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Poco X5 Pro to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-or-download-the-epson-v39-driver-for-your-windows-7-8-or-10-device/"><u>How to Update or Download the Epson V39 Driver for Your Windows 7, 8, or 10 Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issue-continuous-freezing-and-shutdowns-of-nox-player-on-pc-explained/"><u>Resolved Issue: Continuous Freezing and Shutdowns of Nox Player on PC Explained</u></a></li>
-<li><a href="https://app-tips.techidaily.com/sonys-research-division-joins-forces-with-ai-singapore-for-next-gen-language-models-innovation-breakthrough/"><u>Sony's Research Division Joins Forces with AI Singapore for Next-Gen Language Models | Innovation Breakthrough</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unleash-creativity-on-screen-discover-the-best-reactions/"><u>Unleash Creativity on Screen Discover the Best Reactions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-crisis-microsofts-critical-challenge-with-windows-10-looms-as-deadline-approaches-tech-news-by-zdnet/"><u>Urgent Crisis: Microsoft's Critical Challenge with Windows 10 Looms as Deadline Approaches | Tech News by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-woes-intensify-for-microsoft-as-launch-deadline-looms-expert-analysis-by-zdnet/"><u>Windows 11 Woes Intensify for Microsoft as Launch Deadline Looms – Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-picture-power-infusing-textual-elements-on-windows-and-mac-photo-canvas/"><u>[New] 2024 Approved Picture Power Infusing Textual Elements on Windows & Mac Photo Canvas</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-guide-to-start-recording-with-vlc-software/"><u>[Updated] In 2024, Guide to Start Recording with VLC Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-elite-sound-recording-tools-11-selection/"><u>2024 Approved Elite Sound Recording Tools - #11 Selection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192575-best-6-exceptional-contact-widget-apps-for-android-ranked/"><u>Best 6 Exceptional Contact Widget Apps for Android - Ranked</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194339-discover-the-top-15-no-cost-texting-solutions-for-your-android-device/"><u>Discover the Top 15 No-Cost Texting Solutions for Your Android Device!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-realme-12plus-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Realme 12+ 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ideal-calendar-solutions-best-complimentary-and-premium-options-for-iphones/"><u>Ideal Calendar Solutions: Best Complimentary and Premium Options for iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-game-console-emulators-for-superior-imagery-and-performance-top-picks-for-gamers/"><u>Leading Game Console Emulators for Superior Imagery & Performance: Top Picks for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-multi-user-interactions-jdis-two-view-displays-with-dual-touch-capability/"><u>Revolutionizing Multi-User Interactions: JDI's Two View Displays with Dual Touch Capability</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-step-by-step-guide-how-to-quickly-unlock-your-android-device-with-easy-hacks/"><u>Simple Step-by-Step Guide: How to Quickly Unlock Your Android Device with Easy Hacks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-complete-package-of-top-zoom-capturing-gear/"><u>The Complete Package of Top Zoom Capturing Gear</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-11-pro-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 11 Pro Activation Lock</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-25-leading-video-editing-apps-for-every-ios-device-including-models-15-x8-6-5/"><u>The Ultimate List of the 25 Leading Video Editing Apps for Every iOS Device, Including Models 15-X/8-6-5</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unveiling-the-secret-how-to-disable-youtube-snippet-playback/"><u>Unveiling the Secret How to Disable YouTube Snippet Playback</u></a></li>
 </ul></div>
 

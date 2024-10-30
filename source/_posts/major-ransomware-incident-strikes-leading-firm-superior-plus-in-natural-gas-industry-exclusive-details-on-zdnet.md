@@ -1,7 +1,7 @@
 ---
 title: Major Ransomware Incident Strikes Leading Firm Superior Plus in Natural Gas Industry - Exclusive Details on ZDNET
-date: 2024-10-17T03:51:45.016Z
-updated: 2024-10-24T04:26:20.468Z
+date: 2024-10-24T21:52:41.564Z
+updated: 2024-10-29T23:31:49.009Z
 tags:
   - password-manager
 categories:
@@ -72,24 +72,31 @@ Deputy Attorney General Lisa Monaco [said during a press conference](https://twi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-from-fumbling-clips-to-viral-videos-youtube-edits-made-easy-with-sony-vegas/"><u>[New] From Fumbling Clips to Viral Videos YouTube Edits Made Easy with Sony Vegas</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-enhancing-tweets-adding-media-files-for-2024/"><u>[Updated] Enhancing Tweets Adding Media Files for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-nailing-the-perfect-aspect-ratio-on-tweets/"><u>[Updated] In 2024, Nailing the Perfect Aspect Ratio on Tweets</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/best-8-linux-programs-for-media-makers-for-2024/"><u>Best 8 Linux Programs for Media Makers for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-budget-friendly-android-block-puzzles-expert-reviews-and-how-to-get-them/"><u>Best Budget-Friendly Android Block Puzzles - Expert Reviews & How to Get Them</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comment-convertir-un-fichier-caf-au-format-flac-sans-cout-avec-movavi/"><u>Comment Convertir Un Fichier CAF Au Format FLAC Sans Coût Avec Movavi</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-youcut-tool-insights-and-essential-information/"><u>Comprehensive Guide to YouCut Tool : Insights & Essential Information</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-nokia-c22-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nokia C22 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620189235-get-your-favorite-android-games-on-lockdown-the-ultimate-list-of-20-free-full-version-apks-to-download-today/"><u>Get Your Favorite Android Games on Lockdown: The Ultimate List of 20 Free, Full-Version APKs to Download Today</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-reimagining-user-engagement-top-10-video-editors-outside-vimeo/"><u>In 2024, Reimagining User Engagement Top 10 Video Editors Outside Vimeo</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revisit-and-refine-6-unnecessary-gpt-3-applications/"><u>Revisit and Refine: 6 Unnecessary GPT-3 Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-choosing-the-best-app-to-check-if-your-android-is-rooted/"><u>Ultimate Guide: Choosing the Best App to Check if Your Android Is Rooted</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-the-compreeved-guide-to-youtube-video-edits/"><u>[New] In 2024, From Script to Screen The Compreeved Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-complete-process-of-scheduling-google-meets/"><u>[New] In 2024, The Complete Process of Scheduling Google Meets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-beginners-walkthrough-setting-up-vrecord-software/"><u>2024 Approved Beginner’s Walkthrough Setting Up VRecord Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-xbox-live-top-four-recording-techniques/"><u>2024 Approved Mastering Xbox Live Top Four Recording Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/act-now-uncover-the-five-essential-strategies-for-windows-11-users-before-microsoft-discontinues-support-zdnet-tech-analysis/"><u>Act Now: Uncover the Five Essential Strategies for Windows 11 Users Before Microsoft Discontinues Support | ZDNet Tech Analysis</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-stuck-loading-screen-expert-solutions-for-fortnite/"><u>Beat the Stuck Loading Screen: Expert Solutions for Fortnite</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-vulnerability-escalates-with-generative-ai-says-crowdstrike-chief-technology-officer-zdnet-insights/"><u>Enterprise Vulnerability Escalates with Generative AI, Says CrowdStrike Chief Technology Officer | ZDNET Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-flat-to-form-the-journey-of-a-text-into-3d/"><u>From Flat to Form The Journey of a Text Into 3D</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-edge-in-hyperconvergence-the-elite-vendors-featured-on-zdnet/"><u>Leading Edge in Hyperconvergence: The Elite Vendors , Featured on ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/logitech-g602-driver-setup-and-download-for-optimal-performance-on-windows-machines/"><u>Logitech G602 Driver Setup & Download for Optimal Performance on Windows Machines</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-of-upgrading-from-ubuntu-linux-2310-to-2404-a-step-by-step-guide/"><u>Navigating the Challenges of Upgrading From Ubuntu Linux 23.10 to 24.04 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-error-0x80070490-for-smooth-windows-system-update-process/"><u>Overcoming Error 0X80070490 for Smooth Windows System Update Process</u></a></li>
+<li><a href="https://app-tips.techidaily.com/red-hat-enterprise-linux-release-and-hybrid-cloud/"><u>Red Hat, Enterprise Linux Release, and Hybrid Cloud.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/side-lobe-control/"><u>Side Lobe Control</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolving-job-landscape-with-ai-how-technology-replaces-and-creates-opportunities-in-training-and-ethics-insights-for-tomorrows-workforce-zdnet/"><u>The Evolving Job Landscape with AI: How Technology Replaces and Creates Opportunities in Training & Ethics | Insights for Tomorrow's Workforce | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-accessory-picks-for-your-airpods-pro-recommendations-by-tech-experts-at-zdnet/"><u>Top Accessory Picks for Your AirPods Pro - Recommendations by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranking-customer-relationship-management-tools-of-2022-ideal-options-for-small-and-medium-businesses-zdnet-insights/"><u>Top-Ranking Customer Relationship Management Tools of 2022: Ideal Options for Small & Medium Businesses - ZDNet Insights</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-no-copyright-worries-top-10-public-domain-image-sites/"><u>Updated In 2024, No Copyright Worries Top 10 Public Domain Image Sites</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-new-release-of-robust-enduring-linux-kernel-for-extended-lifetime-support/"><u>ZDNet Exclusive: New Release of Robust, Enduring Linux Kernel for Extended Lifetime Support</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

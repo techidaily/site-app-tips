@@ -1,7 +1,7 @@
 ---
 title: "Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords"
-date: 2024-10-16T22:40:11.746Z
-updated: 2024-10-24T00:51:22.406Z
+date: 2024-10-26T22:43:57.931Z
+updated: 2024-10-29T23:54:36.692Z
 tags:
   - password-manager
 categories:
@@ -62,10 +62,10 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -91,14 +91,17 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-auditing-for-accuracy-youtube-monetization-compliance-for-2024/"><u>[Updated] Auditing for Accuracy YouTube Monetization Compliance for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-where-the-magic-of-video-editing-begins-on-youtube/"><u>[Updated] In 2024, Where the Magic of Video Editing Begins on YouTube</u></a></li>
-<li><a href="https://app-tips.techidaily.com/closing-the-gap-between-desire-and-effort-in-building-responsible-ai-unpacked-by-zdnets-latest-analysis/"><u>Closing the Gap Between Desire and Effort in Building Responsible AI - Unpacked by ZDNET's Latest Analysis</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/easy-methods-for-transforming-mirrens-avimov-videos-into-compatible-mp4-and-mp3-formats-across-windows-and-macos-systems/"><u>Easy Methods for Transforming Mirren's AVI/MOV Videos Into Compatible MP4 and MP3 Formats Across Windows & macOS Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experts-choose-the-superior-web-host-services-of-2024-in-depth-analysis-and-ratings-discover-with-zdnet/"><u>Experts Choose the Superior Web Host Services of 2024: In-Depth Analysis and Ratings | Discover with ZDNET</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-hd-sound-card-not-detected-by-system/"><u>How to Fix Realtek HD Sound Card Not Detected by System</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preparing-management-skills-is-key-prior-to-deploying-ai-technology-discover-strategies-with-zdnet/"><u>Preparing Management Skills Is Key Prior to Deploying AI Technology - Discover Strategies with ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/riding-the-wave-of-pervasive-device-expansion-in-edge-investments-boost-your-career-with-insights-from-zdnet/"><u>Riding the Wave of Pervasive Device Expansion in Edge Investments: Boost Your Career with Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-comedy-crusade-youtubes-hottest-laughter-leaders/"><u>[New] 2024 Approved Comedy Crusade YouTube's Hottest Laughter Leaders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ableton-tricks-to-subtly-lower-track-amplitude-for-2024/"><u>[New] Ableton Tricks to Subtly Lower Track Amplitude for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-iphone-photography-wonders-capturing-surface-mirrors/"><u>[Updated] 2024 Approved IPhone Photography Wonders Capturing Surface Mirrors</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-a-comprehensive-guide-to-capturing-facebook-chats/"><u>[Updated] A Comprehensive Guide to Capturing Facebook Chats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-comprehensive-guide-understanding-the-delete-for-everyone-option-in-whatsapp/"><u>A Comprehensive Guide: Understanding the 'Delete for Everyone' Option in WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/fix-your-whatsapp-problems-with-our-expert-assistance-step-by-step-guide/"><u>Fix Your WhatsApp Problems with Our Expert Assistance - Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/personalize-with-free-youtube-profile-designs/"><u>Personalize With FREE YouTube Profile Designs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-fixes-how-to-securely-restore-deleted-whatsapp-conversations-on-iphone-devices/"><u>Quick Fixes: How to Securely Restore Deleted WhatsApp Conversations on iPhone Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-high-quality-whatsapp-video-converter-tools-you-need/"><u>Top 5 High-Quality WhatsApp Video Converter Tools You Need</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-strategies-sending-oversized-videos-with-ease-from-an-iphone-using-whatsapp/"><u>Top Strategies: Sending Oversized Videos with Ease From an iPhone Using WhatsApp</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-tier-mobile-and-desktop-player-for-avis-for-2024/"><u>Top-Tier Mobile and Desktop Player for AVIs for 2024</u></a></li>
 </ul></div>
 

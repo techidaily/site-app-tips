@@ -1,7 +1,7 @@
 ---
 title: Exploring the Truth Behind Crypto Anonymity – A Deep Dive Into a Groundbreaking Study
-date: 2024-10-21T20:19:01.869Z
-updated: 2024-10-23T17:17:41.699Z
+date: 2024-10-25T16:45:40.633Z
+updated: 2024-10-29T18:53:21.514Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,16 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -61,10 +67,16 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -121,19 +133,20 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-play-to-pause-save-games-via-obs/"><u>[Updated] From Play to Pause Save Games via OBS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-hidden-insta-story-accessibility-step-by-step-for-tech-savvy/"><u>[Updated] In 2024, Hidden Insta Story Accessibility - Step-by-Step for Tech Savvy</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-elite-writers-of-aural-narratives/"><u>2024 Approved Elite Writers of Aural Narratives</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mx-series-driver-update-how-to-download-and-set-up-your-mx492-for-windows/"><u>Canon MX Series Driver Update: How to Download and Set Up Your MX492 for Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-s18e-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo S18e FRP Without Computer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-new-normal-essential-strategies-for-tech-experts-amidst-the-rise-of-artificial-intelligence-insights-from-zdnet/"><u>Navigating the New Normal: Essential Strategies for Tech Experts Amidst the Rise of Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ready-for-upskilling-explore-non-ai-edge-tech-trends-and-tips-learn-more-on-zdnet/"><u>Ready for Upskilling? Explore Non-AI Edge Tech Trends and Tips - Learn More on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/reviving-human-connections-why-tech-experts-should-engage-in-meaningful-dialogue-beyond-datasets/"><u>Reviving Human Connections: Why Tech Experts Should Engage in Meaningful Dialogue Beyond Datasets</u></a></li>
-<li><a href="https://win-able.techidaily.com/simple-solutions-resolving-directx-issues-in-fifa-19-without-a-hitch/"><u>Simple Solutions: Resolving DirectX Issues in FIFA 19 Without a Hitch</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-adding-soundtracks-to-videos-without-costs-both-online-and-offline/"><u>Step-by-Step Guide: Adding Soundtracks to Videos without Costs, Both Online and Offline</u></a></li>
-<li><a href="https://app-tips.techidaily.com/training-leaders-before-deploying-artificial-intelligence-insights-from-zdnet/"><u>Training Leaders Before Deploying Artificial Intelligence: Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/transforming-workspaces-with-the-new-samsung-galaxy-chromebook-a-thorough-review/"><u>Transforming Workspaces with the New Samsung Galaxy Chromebook - A Thorough Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/uncovering-the-next-breakthrough-the-quest-for-an-ultimate-5g-app-beyond-just-speed-and-connection-zdnet/"><u>Uncovering the Next Breakthrough: The Quest for an Ultimate 5G App Beyond Just Speed and Connection | ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-comprehensive-examination-razer-kiyo-cam-for-2024/"><u>[New] Comprehensive Examination Razer Kiyo Cam for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screencapture-pro-latest-2023-edition-review/"><u>[New] In 2024, ScreenCapture Pro Latest 2023 Edition Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-instant-thumbnails-for-fortnite-gameplay/"><u>[New] Instant Thumbnails for Fortnite Gameplay</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-giggle-gazette-twitters-top-threads/"><u>[Updated] 2024 Approved Giggle Gazette Twitter’s Top Threads</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-steps-to-accessing-whatsapp-anonymously-no-phone-required/"><u>Comprehensive Steps to Accessing WhatsApp Anonymously: No Phone Required</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-retrieve-older-whatsapp-messages-a-guide-to-accessing-deleted-or-archived-conversations/"><u>How to Retrieve Older WhatsApp Messages: A Guide to Accessing Deleted or Archived Conversations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-upload-horizontal-videos-to-igtv-3-ways-for-2024/"><u>How to Upload Horizontal Videos to IGTV [3 Ways] for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-undead-delight-the-best-zombie-games-reviewed/"><u>In 2024, Undead Delight The Best Zombie Games Reviewed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-friends-into-your-chat-list-a-comprehensive-tutorial-for-ios-and-android-users-of-whatsapp/"><u>Integrating Friends Into Your Chat List: A Comprehensive Tutorial for iOS & Android Users of WhatsApp</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-issue-no-more-overwatch-game-crashes-after-correcting-graphics-driver-problem/"><u>Resolved Issue: No More Overwatch Game Crashes After Correcting Graphics Driver Problem</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revise-your-mobile-details-easily-the-ultimate-walkthrough-for-switching-numbers-on-whatsapp/"><u>Revise Your Mobile Details Easily: The Ultimate Walkthrough for Switching Numbers on WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-preservation-of-your-messages-syncing-whatsapp-chats-with-google-drive-tips-for-smartphones-and-tablets/"><u>Seamless Preservation of Your Messages: Syncing WhatsApp Chats with Google Drive - Tips for Smartphones and Tablets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-portable-charging-woes-with-a-budget-friendly-20-anker-power-bank-what-you-need-to-know-the-tech-review/"><u>Solving Portable Charging Woes with a Budget-Friendly $20 Anker Power Bank: What You Need to Know | The Tech Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-adding-new-contacts-in-whatsapp-across-iphone-and-android-devices/"><u>Step-by-Step Guide: Adding New Contacts in WhatsApp Across iPhone & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-how-to-restore-deleted-whatsapp-conversations-on-android-phones/"><u>Ultimate Guide: How to Restore Deleted WhatsApp Conversations on Android Phones</u></a></li>
 </ul></div>
 

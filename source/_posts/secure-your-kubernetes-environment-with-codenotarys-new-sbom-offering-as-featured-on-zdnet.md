@@ -1,7 +1,7 @@
 ---
 title: Secure Your Kubernetes Environment with Codenotary’s New SBOM Offering, as Featured on ZDNet
-date: 2024-10-21T01:43:17.861Z
-updated: 2024-10-23T20:08:51.782Z
+date: 2024-10-26T18:54:57.923Z
+updated: 2024-10-29T19:23:07.307Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +187,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/igital-makeup-mastering-youtubes-chromatic-alignment/"><u>[New] Digital Makeup Mastering Youtube's Chromatic Alignment</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-top-8-trending-facebook-video-hits/"><u>[New] In 2024, Top 8 Trending Facebook Video Hits</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-audiovisual-conjuring-apples-artistic-blend/"><u>[Updated] Audiovisual Conjuring Apple's Artistic Blend</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-enhance-engagement-personalize-twitter-videos-with-new-thumbnails/"><u>[Updated] Enhance Engagement Personalize Twitter Videos with New Thumbnails</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-total-control-over-youtube-playback-silence-previews/"><u>[Updated] In 2024, Total Control Over YouTube Playback Silence Previews</u></a></li>
-<li><a href="https://app-tips.techidaily.com/before-microsoft-drops-support-for-windows-explore-five-essential-alternatives-to-keep-your-pc-running-smoothly/"><u>Before Microsoft Drops Support for Windows # : Explore Five Essential Alternatives to Keep Your PC Running Smoothly.</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-youtube-to-life-on-google-slides/"><u>Bringing YouTube to Life on Google Slides</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dont-panic-windows-11-users-explore-these-5-strategies-before-microsoft-ends-its-lifeline-zdnet-insights/"><u>Don't Panic, Windows 11 Users! Explore These 5 Strategies Before Microsoft Ends Its Lifeline | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-the-innovative-features-of-anthropics-latest-offerings-complimentary-ios-app-and-premier-corporate-plan-launched-get-insights-from-zdnet/"><u>Explore the Innovative Features of Anthropic's Latest Offerings: Complimentary iOS App and Premier Corporate Plan Launched – Get Insights From ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-google-pixel-7a-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Google Pixel 7a by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-scrutinizing-selfies-on-instagram-validation-necessary/"><u>In 2024, Scrutinizing Selfies on Instagram Validation Necessary?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-the-best-virtual-meetings-software-in-2eplus22-expert-reviews-and-ratings-by-zdnet/"><u>The Ultimate Guide to the Best Virtual Meetings Software in 2E+22: Expert Reviews & Ratings by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-learning-management-systems-reviewed-by-zdnet-find-the-ideal-lms/"><u>Top-Ranked Learning Management Systems Reviewed by ZDNet: Find the Ideal LMS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/upcoming-innovations-from-ai-over-the-next-ten-years-as-explored-by-zdnet/"><u>Upcoming Innovations From AI over the Next Ten Years as Explored by ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/windows-11-update-deep-dive/"><u>Windows 11 Update Deep Dive</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-seamless-speaking-in-google-meet-sessions/"><u>[New] 2024 Approved Seamless Speaking in Google Meet Sessions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-deep-dive-into-videomovavi-11s-features-and-performance/"><u>[New] Deep Dive Into VideoMovavi 11'S Features & Performance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/accelerate-androids-speed-optimize-with-advanced-task-management-tools/"><u>Accelerate Android's Speed: Optimize with Advanced Task Management Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-5-sd-card-apps-for-optimal-file-management-on-your-android-device/"><u>Best 5 SD Card Apps for Optimal File Management on Your Android Device</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/bose-qc35-ii-rating-pinnacle-of-noise-cancellation-tech/"><u>Bose QC35 II Rating: Pinnacle of Noise-Cancellation Tech</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-walkthrough-for-recovering-purchased-applications-and-unlocking-in-game-purchases-in-android-systems/"><u>Complete Walkthrough for Recovering Purchased Applications & Unlocking In-Game Purchases in Android Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-excellent-gps-software-for-android-devices-a-comprehensive-guide/"><u>Free Excellent GPS Software for Android Devices - A Comprehensive Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-k70e-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-12-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 12 Phone with Broken Screen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/starting-off-with-zoom-meetings-your-first-steps-guide-for-2024/"><u>Starting Off with Zoom Meetings Your First Steps Guide for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211241247-9781644116760-the-beginners-guide-to-crystal-healing-2nd-ed/"><u>The Beginner's Guide to Crystal Healing (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-insights-on-videoleap-dont-miss-whats-next/"><u>Top Insights on Videoleap - Don't Miss What's Next</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-video-editing-tool-master-color-grading-with-ioss-top-application/"><u>Top Rated Video Editing Tool: Master Color Grading with iOS's Top Application</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-and-fixing-csr8510-a10-drivers-on-windows-expert-advice-to-solve-common-problems/"><u>Troubleshooting and Fixing CSR8510 A10 Drivers on Windows: Expert Advice to Solve Common Problems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-downloading-and-evaluating-apks-for-gaming-audio-content-and-device-rooting/"><u>Ultimate Guide to Downloading & Evaluating APKs for Gaming, Audio Content, and Device Rooting</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal"
-date: 2024-10-21T03:48:47.722Z
-updated: 2024-10-23T16:51:34.855Z
+date: 2024-10-28T18:16:08.406Z
+updated: 2024-10-29T19:43:13.133Z
 tags:
   - password-manager
 categories:
@@ -82,37 +82,23 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capture-discord-talks-best-ways-to-record-live-streaming-sessions/"><u>[New] 2024 Approved Capture Discord Talks Best Ways to Record Live Streaming Sessions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-accessing-and-saving-fb-stories-made-simple-5-top-tactics-mobiledesktop/"><u>[New] In 2024, Accessing & Saving FB Stories Made Simple 5 Top Tactics (Mobile/Desktop)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-tech-talent-is-highly-sought-after-your-innovative-concepts-can-reshape-industries-insights-from-the-zdnet-perspective/"><u>1. 'Tech Talent Is Highly Sought After: Your Innovative Concepts Can Reshape Industries' - Insights From the ZDNet Perspective</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-upgrade-your-channel-description-with-ease-and-flair/"><u>2024 Approved Upgrade Your Channel Description with Ease and Flair</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-chatbots-struggle-with-non-english-languages-reveals-new-stanford-research-zdnet/"><u>AI Chatbots Struggle with Non-English Languages, Reveals New Stanford Research | ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androidios-video-cutting-edge-8-top-montage-tools-revealed/"><u>Android/iOS Video Cutting-Edge 8 Top Montage Tools Revealed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/delta-airlines-latest-news-lacks-flavor-southwest-enthusiasts-show-interest-tech-insight/"><u>Delta Airline's Latest News Lacks Flavor, Southwest Enthusiasts Show Interest | Tech Insight</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fine-tuning-soundtracks-with-garageband-expertise-for-2024/"><u>Fine-Tuning Soundtracks with GarageBand Expertise for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/blurry-to-bold-crafting-powerful-youtube-previews-for-2024/"><u>From Blurry to Bold Crafting Powerful YouTube Previews for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/harnessing-the-power-of-hundreds-of-ai-solutions-for-business-innovation-insights-by-zdnet/"><u>Harnessing the Power of Hundreds of AI Solutions for Business Innovation | Insights by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-ai-projects-struggle-with-agile-methodology-insights-from-recent-research-techwire/"><u>How AI Projects Struggle with Agile Methodology – Insights From Recent Research | TechWire</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-nokia-105-classic-frp-by-drfone-android/"><u>How Can We Bypass Nokia 105 Classic FRP?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-htc-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass HTC FRP</u></a></li>
-<li><a href="https://app-tips.techidaily.com/outdated-automation-meets-modern-smart-tech-in-software-creation-unveiling-ais-role-zdnet/"><u>Outdated Automation Meets Modern Smart Tech in Software Creation: Unveiling AI's Role | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-cross-functional-cooperation-with-artificial-intelligence-in-development-and-commerce/"><u>Revolutionizing Cross-Functional Cooperation with Artificial Intelligence in Development and Commerce</u></a></li>
-<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolving-landscape-generative-ais-impact-on-workforce-dynamics-and-software-development-roles-tech-analysis-by-zdnet/"><u>The Evolving Landscape: Generative AI's Impact on Workforce Dynamics & Software Development Roles | Tech Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-full-spectrum-of-ai-integration-direct-insights-from-your-enterprises-leading-developer-zdnet/"><u>Unveiling the Full Spectrum of AI Integration: Direct Insights From Your Enterprise's Leading Developer | ZDNET</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-free-video-recorders-for-every-android-user/"><u>[New] In 2024, Free Video Recorders for Every Android User</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-begin-the-stream-an-introduction-to-instagram-lives/"><u>2024 Approved Begin the Stream An Introduction to Instagram Lives</u></a></li>
+<li><a href="https://blog-min.techidaily.com/connecting-with-digiarty-unleash-the-power-of-digital-solutions-today/"><u>Connecting with Digiarty - Unleash the Power of Digital Solutions Today!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/detecting-changes-in-your-instagram-network-for-2024/"><u>Detecting Changes in Your Instagram Network for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016249230-effortless-mic-inspection-tips-for-flawless-sound-quality/"><u>Effortless Mic Inspection Tips for Flawless Sound Quality</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-a-new-take-on-favorite-movies-7-alternatives/"><u>In 2024, A New Take on Favorite Movies - #7 Alternatives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/major-revamp-enhanced-security-and-features-in-the-latest-1password-app-for-smartphones/"><u>Major Revamp: Enhanced Security & Features in the Latest 1Password App for Smartphones!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/projectweb-shutdown-announced-fujitsu-reacts-to-japans-government-data-leaks-insights-from-zdnet/"><u>ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-exclusive-offer-on-pioneering-3-year-3d-password-manager-at-just-30-zdnet/"><u>Secure Your Digital Life: Exclusive Offer on Pioneering 3-Year 3D Password Manager at Just $30 | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-streams-why-stronger-passwords-mean-safer-viewing-techdigest/"><u>Secure Your Streams: Why Stronger Passwords Mean Safer Viewing | TechDigest</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Google Pixel 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

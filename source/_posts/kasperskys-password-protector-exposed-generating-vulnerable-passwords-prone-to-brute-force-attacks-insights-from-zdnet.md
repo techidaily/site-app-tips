@@ -1,7 +1,7 @@
 ---
 title: "Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet"
-date: 2024-10-17T03:18:54.804Z
-updated: 2024-10-23T21:28:58.545Z
+date: 2024-10-23T20:28:20.814Z
+updated: 2024-10-29T19:51:21.436Z
 tags:
   - password-manager
 categories:
@@ -62,10 +62,10 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -91,19 +91,20 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-chuckle-creator-app/"><u>[New] Chuckle Creator App</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-essential-gopro-editing-the-top-15-color-luts-selection-guide-for-2024/"><u>[New] Essential GoPro Editing The Top 15 Color LUTs Selection Guide for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-facesave-quickly-grab-facebook-media/"><u>[Updated] FaceSave Quickly Grab Facebook Media</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-rage-raid-and-rebel-without-a-gta-tale-for-2024/"><u>[Updated] Rage, Raid and Rebel Without a GTA Tale for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-comedic-calls-ringtones-best-picks-online/"><u>2024 Approved Comedic Calls Ringtones' Best Picks Online</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-edit-like-a-pro-with-any-of-these-top-7-free-options/"><u>2024 Approved Edit Like a Pro with Any of These Top 7 Free Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-windows-terminals-quake-setting/"><u>Enabling Windows Terminal's Quake Setting</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-guide-to-phantoms-slow-mo-magic/"><u>In 2024, Step by Step Guide to Phantom's Slow Mo Magic</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-videos-discover-leading-mobile-apps-including-kinemaster-for-superior-editing-tools/"><u>Master Your Videos: Discover Leading Mobile Apps Including KineMaster for Superior Editing Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-emoji-use-in-android-a-step-by-step-tutorial/"><u>Mastering Emoji Use in Android - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/most-effective-iphone-surveillance-software-your-ultimate-guide-to-discreet-monitoring-tools/"><u>Most Effective iPhone Surveillance Software: Your Ultimate Guide to Discreet Monitoring Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-choice-affordable-samsung-mp3-players-compatible-with-galaxy-s8-s9-and-pcs-both-free-and-premium-options-available/"><u>Top Choice Affordable Samsung MP3 Players: Compatible with Galaxy S8, S9 & PCs [Both Free & Premium Options Available]</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unlocking-the-secret-strategies-of-instagram-influencers/"><u>Unlocking the Secret Strategies of Instagram Influencers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-instantly-accessible-music-mixes-assembling-youtube-playlists-webmobile-style/"><u>[New] Instantly Accessible Music Mixes Assembling YouTube Playlists Web/Mobile Style</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-audio-clip-converter-direct-to-mp3-mode-for-2024/"><u>[Updated] FB Audio Clip Converter Direct to MP3 Mode for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-open-library-legal-gaming-tracks-downloadable/"><u>[Updated] Open Library Legal Gaming Tracks Downloadable</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-poor-or-nonexistent-ground-system-can-lead-to-reduced-radiation-efficiency-increased-noise-levels-and-potentially-dangerous-rf-exposure/"><u>A Poor or Nonexistent Ground System Can Lead to Reduced Radiation Efficiency, Increased Noise Levels, and Potentially Dangerous RF Exposure.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cognitive-network-technology-debuts-in-midrange-market-via-arista-innovations-tech-news/"><u>Cognitive Network Technology Debuts in Midrange Market via Arista Innovations | Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/emerging-tech-trends-top-developer-roles-and-key-coding-languages-shaping-the-future-insights-from-zdnet/"><u>Emerging Tech Trends: Top Developer Roles & Key Coding Languages Shaping the Future - Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/golden-screenplay-gems-that-define-genres-for-2024/"><u>Golden Screenplay Gems That Define Genres for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-tecno-phantom-v-flip-by-fonelab-android-recover-music/"><u>How to recover old music from your Tecno Phantom V Flip</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721454983333-iphone-wont-backup-to-icloud-attempt-these-easy-to-follow-9-fixes/"><u>IPhone Won't Backup to iCloud? Attempt These Easy-to-Follow 9 Fixes!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-v29-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo V29 Screen | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ascension-of-cloud-computing-versus-current-on-premises-systems-expert-analysis-by-zdnet/"><u>The Ascension of Cloud Computing Versus Current On-Premises Systems | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-strength-verdict-on-jabra-hearing-gadgets/"><u>The Strength Verdict on Jabra Hearing Gadgets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-crafting-an-ideal-windows-11-vm-setup-on-any-platform-insights-from-zdnet/"><u>Ultimate Guide: Crafting an Ideal Windows 11 VM Setup on Any Platform - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-future-of-ai-at-gtc-nvidias-jensen-huang-introduces-cutting-edge-blackwell-processor-family-to-industry-experts-zdnet/"><u>Unveiling the Future of AI at GTC: Nvidia's Jensen Huang Introduces Cutting-Edge Blackwell Processor Family to Industry Experts | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-obstacles-to-leveraging-generative-ai-in-business-practices-key-findings-from-recent-deloitte-research-explored-by-zdnet/"><u>Unveiling the Obstacles to Leveraging Generative AI in Business Practices: Key Findings From Recent Deloitte Research, Explored by ZDNET</u></a></li>
 </ul></div>
 

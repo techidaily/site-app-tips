@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]"
-date: 2024-10-20T02:09:29.016Z
-updated: 2024-10-24T04:34:16.003Z
+date: 2024-10-24T18:44:55.597Z
+updated: 2024-10-30T00:07:39.456Z
 tags:
   - password-manager
 categories:
@@ -42,10 +42,10 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -65,10 +65,10 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -92,16 +92,10 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -150,21 +144,17 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/est-youtube-video-reverser-online-for-2024/"><u>[New] Best YouTube Video Reverser Online for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-posting-vids-on-facebook/"><u>[Updated] 2024 Approved The Ultimate Guide to Posting Vids on Facebook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-beginner-to-expert-with-a-complete-fcp-guidebook/"><u>[Updated] From Beginner to Expert with a Complete FCP Guidebook</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-revolution-in-business-understanding-the-shift-to-hundreds-of-models-for-operational-excellence-perspectives-by-zdnet/"><u>AI Revolution in Business: Understanding the Shift to Hundreds of Models for Operational Excellence - Perspectives by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asia-at-forefront-non-cash-payments-projected-to-reach-16-trillion/"><u>Asia at Forefront: Non-Cash Payments Projected to Reach $1.6 Trillion</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cio-warns-against-complacency-in-ai-development-advocates-for-innovative-thinkers-over-simplistic-ai-prompts-insights-from-zdnet/"><u>CIO Warns Against Complacency in AI Development; Advocates for Innovative Thinkers over Simplistic AI Prompts - Insights From ZDNet</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/effortless-data-retrieval-from-onedrive-step-by-step-guide/"><u>Effortless Data Retrieval From OneDrive: Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-expertise-in-a-non-ai-dominated-tech-edge-explore-opportunnities-with-zdnet/"><u>Elevate Your Expertise in a Non-AI Dominated Tech Edge – Explore Opportunnities with ZDNet</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/facebooks-unique-media-the-top-ios-downloader-tools-revealed-today/"><u>Facebook's Unique Media The Top iOS Downloader Tools Revealed Today</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-to-effective-tech-management-begin-by-understanding-the-business-landscape/"><u>Guide to Effective Tech Management: Begin by Understanding the Business Landscape</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-discover-the-power-of-final-cut-pro-90-day-free-trial-available/"><u>New 2024 Approved Discover the Power of Final Cut Pro 90-Day Free Trial Available</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-realme-v30-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Realme V30 Black and White | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-art-of-surrendering-to-the-spectacle-posting-immersive-videos-on-facebook/"><u>The Art of Surrendering to the Spectacle Posting Immersive Videos on Facebook</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-misconception-among-smbs-about-not-needing-cyber-insurance-despite-potential-risks-perspectives-by-zdnet/"><u>The Misconception Among SMBs About Not Needing Cyber Insurance Despite Potential Risks - Perspectives by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-importance-of-addressing-legacy-technology-lessons-from-a-failed-system-upgrade/"><u>Understanding the Importance of Addressing Legacy Technology: Lessons From a Failed System Upgrade</u></a></li>
-<li><a href="https://techidaily.com/vivo-data-recovery-recover-lost-data-from-vivo-by-fonelab-android-recover-data/"><u>Vivo Data Recovery – recover lost data from Vivo</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-decoding-instagram-the-technique-for-video-downloads-on-pcmac-devices-for-2024/"><u>[New] Decoding Instagram The Technique for Video Downloads on PC/Mac Devices for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-solutions-to-uninterrupted-facebook-live-problems-for-2024/"><u>[New] Solutions to Uninterrupted Facebook Live Problems for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-quieting-beats-step-by-step/"><u>[Updated] In 2024, Quieting Beats Step-by-Step</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blur-apps-that-work-wonders-on-iphonesandroids/"><u>Blur Apps That Work Wonders on iPhones/Androids</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-an-esteemed-facebook-presence-a-guide/"><u>Crafting an Esteemed Facebook Presence: A Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-compromise-on-security-upgrade-your-password-for-safe-streaming-experience-cybersafetynews/"><u>Don't Compromise on Security: Upgrade Your Password for Safe Streaming Experience | CyberSafetyNews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevating-enterprise-defense-starts-at-the-employee-level-expert-advice-on-corporate-and-personal-cybersecurity-by-zdnet/"><u>Elevating Enterprise Defense Starts at the Employee Level – Expert Advice on Corporate and Personal Cybersecurity by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhanced-online-security-made-easy-discover-how-proton-enables-full-data-protection-through-its-new-password-manager-as-explored-by-zdnet-experts/"><u>Enhanced Online Security Made Easy: Discover How Proton Enables Full Data Protection Through Its New Password Manager, as Explored by ZDNet Experts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-flight-to-fun-mavic-airs-showdown-with-spark/"><u>In 2024, From Flight to Fun Mavic Air's Showdown with Spark</u></a></li>
+<li><a href="https://app-tips.techidaily.com/malicious-exploitation-of-omicron-concerns-intensifies-as-cybercriminals-deploy-redline-trojan-expert-analysis-by-fortinet-on-emerging-threats/"><u>Malicious Exploitation of Omicron Concerns Intensifies as Cybercriminals Deploy RedLine Trojan – Expert Analysis by Fortinet on Emerging Threats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/massive-data-compromise-at-oregon-medical-practice-750k-patients-impacted-details-revealed-by-digi-journal/"><u>Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal</u></a></li>
+<li><a href="https://win11.techidaily.com/win-gaming-mastering-intel-graphics-for-live-streams/"><u>Win Gaming: Mastering Intel Graphics for Live Streams</u></a></li>
 </ul></div>
 

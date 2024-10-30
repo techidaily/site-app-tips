@@ -1,7 +1,7 @@
 ---
 title: Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET
-date: 2024-10-17T19:59:18.773Z
-updated: 2024-10-24T03:46:43.003Z
+date: 2024-10-24T00:38:49.491Z
+updated: 2024-10-29T17:33:31.926Z
 tags:
   - password-manager
 categories:
@@ -64,24 +64,24 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unlocking-vimeo-mastery-of-tools-software-and-skillful-techniques/"><u>[Updated] In 2024, Unlocking Vimeo Mastery of Tools, Software & Skillful Techniques</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-the-chronicle-of-creation-weaving-time-lapse-animations-via-movie-maker/"><u>2024 Approved The Chronicle of Creation Weaving Time-Lapse Animations via Movie Maker</u></a></li>
-<li><a href="https://common-error.techidaily.com/decoding-and-fixing-error-code-0x80240017-for-smooth-windows-updates-expert-tips-inside/"><u>Decoding and Fixing Error Code 0X80240017 for Smooth Windows Updates – Expert Tips Inside</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/efficiently-upgrade-sata-drivers-on-windows-the-ultimate-how-to-guide/"><u>Efficiently Upgrade SATA Drivers on Windows: The Ultimate How-To Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-7-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 7 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-13-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 13 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-future-the-pivotal-role-of-enterprise-architects-in-todays-tech-evolution-zdnet/"><u>Mastering the Future: The Pivotal Role of Enterprise Architects in Today's Tech Evolution | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-new-era-of-work-a-deep-dive-into-enterprise-transformation-through-decentralized-technologies-and-web3/"><u>Navigating the New Era of Work: A Deep Dive Into Enterprise Transformation Through Decentralized Technologies and Web3</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-through-chatgpts-instruction-tailoring-option-functionality-and-use-cases/"><u>Navigating Through ChatGPT's Instruction Tailoring Option: Functionality & Use Cases</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsung-galaxy-z-flip-4-stay-updated-on-latest-info-costs-launch-details-and-features/"><u>Samsung Galaxy Z Flip 4 - Stay Updated on Latest Info, Costs, Launch Details & Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-most-efficient-to-do-list-applications-techradar/"><u>Top 10 Most Efficient To-Do List Applications - TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-screen-capture-tools-comprehensive-guide-pcmag/"><u>Top-Rated Screen Capture Tools: Comprehensive Guide - PCMag</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comment-deplacer-votre-logiciel-de-windows-10-a-windows-11-un-manuel-dexperts/"><u>Comment Déplacer Votre Logiciel De Windows 10 À Windows 11 : Un Manuel D'Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/edit-functionality-newly-added-to-dall-e-3-however-user-experience-still-needs-enhancement/"><u>Edit Functionality Newly Added to DALL-E 3; However, User Experience Still Needs Enhancement</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/entfernen-von-duplizierungen-wie-man-verdoppelte-fotos-auf-dem-ipad-behebt-nachdem-man-synchronisiert-hat/"><u>Entfernen Von Duplizierungen - Wie Man Verdoppelte Fotos Auf Dem iPad Behebt, Nachdem Man Synchronisiert Hat.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-backup-management-how-to-access-restore-and-clear-your-iphone-data/"><u>ICloud Backup Management: How to Access, Restore & Clear Your iPhone Data</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lg-k92-assessment-is-the-5g-upgrade-truly-a-game-changer/"><u>LG K92 Assessment: Is the 5G Upgrade Truly a Game-Changer?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solutions-to-common-problems-in-damaged-nikon-videos/"><u>Solutions to Common Problems in Damaged Nikon Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-restoring-and-repairing-failed-icloud-backups/"><u>Troubleshooting Guide: Restoring and Repairing Failed iCloud Backups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-steps-to-update-your-icloud-settings-on-an-iphone/"><u>Ultimate Guide: Steps to Update Your iCloud Settings on an iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-of-reliable-ios-passcode-crackers-unlocking-your-iphone-with-a-guaranteed-successful-method/"><u>Ultimate List of Reliable iOS Passcode Crackers: Unlocking Your iPhone with a Guaranteed Successful Method</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-your-iphones-photo-management-a-guide-to-camera-roll-and-photo-library/"><u>Understanding Your iPhone's Photo Management: A Guide to Camera Roll & Photo Library</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

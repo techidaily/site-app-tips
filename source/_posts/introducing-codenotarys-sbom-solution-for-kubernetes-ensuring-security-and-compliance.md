@@ -1,7 +1,7 @@
 ---
 title: Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance
-date: 2024-10-16T22:00:55.643Z
-updated: 2024-10-23T17:23:01.653Z
+date: 2024-10-28T20:16:46.129Z
+updated: 2024-10-29T20:08:49.549Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-birth-of-an-internet-persona-the-vtuber-blueprint-for-2024/"><u>[New] Birth of an Internet Persona – The VTuber Blueprint for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-turn-your-instagram-footage-backwards-easily/"><u>[New] In 2024, Turn Your Instagram Footage Backwards Easily</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigate-the-metaverse-with-these-7-key-technologies/"><u>[New] Navigate the Metaverse with These 7 Key Technologies</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unveiling-your-image-picsart-bg-erasure-technique/"><u>[New] Unveiling Your Image Picsart Bg Erasure Technique</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-secrets-of-swelling-youtube-supporters/"><u>[Updated] Unlocking the Secrets of Swelling YouTube Supporters</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-systems-compromised-by-software-glitches-pose-same-dangers-as-ransomware-attacks-insights-on-zdnet/"><u>Critical Systems Compromised by Software Glitches Pose Same Dangers as Ransomware Attacks - Insights on ZDNET</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/github-versus-gitlab-showdown-determining-the-best-fit-for-your-dev-needs-insights-from-zdnet/"><u>GitHub versus GitLab Showdown: Determining the Best Fit for Your Dev Needs, Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-a-managers-frustration-with-team-slack-usage-led-to-unforeseen-consequences-a-zdnet-analysis/"><u>How a Manager's Frustration with Team Slack Usage Led to Unforeseen Consequences - A ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-expert-insights-suggest-ai-is-key-to-securing-our-digital-future-zdnet/"><u>How Expert Insights Suggest AI Is Key to Securing Our Digital Future - ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-xiaomi-redmi-note-13-proplus-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi Redmi Note 13 Pro+ 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rising-curiosity-in-ai-reveals-a-need-for-greater-transparency-insights-from-zdnet/"><u>Rising Curiosity in AI Reveals a Need for Greater Transparency - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-mozilla-firefox-saved-login-credentials-setting-up-a-master-password/"><u>Securing Mozilla Firefox Saved Login Credentials: Setting up a Master Password</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-gaming-on-record-the-pros-perspective/"><u>[New] 2024 Approved Gaming on Record The Pro's Perspective</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-a-seamless-transition-sharing-tiktok-videos-with-twitter-for-2024/"><u>[New] A Seamless Transition Sharing TikTok Videos with Twitter for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ideal-techniques-stream-and-store-major-sports-events-online-for-2024/"><u>[New] Ideal Techniques Stream & Store Major Sports Events Online for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-eden-echoes-best-rural-role-playing-realms/"><u>[Updated] In 2024, Eden Echoes Best Rural Role-Playing Realms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/budget-friendly-samsung-music-players-ideal-for-samsung-s8s9-users-and-pc-enthusiasts-free-and-paid-models-included/"><u>Budget-Friendly Samsung Music Players: Ideal for Samsung S8/S9 Users and PC Enthusiasts - Free and Paid Models Included</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-user-dialogues-enhance-chatgpts-learning-process/"><u>Can User Dialogues Enhance ChatGPT's Learning Process?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-twistedwave-advantages-disadvantages-top-attributes-and-applications/"><u>Comprehensive Guide to TwistedWave: Advantages, Disadvantages, Top Attributes, and Applications</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/embedding-weblinks-on-instas-story-feature/"><u>Embedding Weblinks on Insta's Story Feature</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ensure-every-important-call-is-heard-uninterrupted-connectivity-even-in-silence-and-chaos-with-our-innovative-10-call-flash-applications/"><u>Ensure Every Important Call Is Heard: Uninterrupted Connectivity Even in Silence and Chaos with Our Innovative 10-Call Flash Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-guide-unveiling-the-power-of-videoleap-in-2/"><u>Essential Guide: Unveiling the Power of Videoleap in 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-fatal-errors-for-ghostrunner-app-on-windows-10-operating-system/"><u>Fixing Fatal Errors for Ghostrunner App on Windows 10 Operating System</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-picks-non-intrusive-android-recorders/"><u>In 2024, Top Picks Non-Intrusive Android Recorders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ios-10-updates-unveiled-explore-the-enhanced-lockscreen-features/"><u>IOS 10 Updates Unveiled: Explore the Enhanced Lockscreen Features</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-syncing-soundtracks-with-visuals/"><u>New 2024 Approved Syncing Soundtracks with Visuals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-free-gba-emulators-your-ultimate-guide-to-playing-game-boy-advance-titles-on-pc/"><u>Top 5 Free GBA Emulators: Your Ultimate Guide to Playing Game Boy Advance Titles on PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks"
-date: 2024-10-21T02:07:39.943Z
-updated: 2024-10-23T17:32:20.168Z
+date: 2024-10-23T22:16:52.923Z
+updated: 2024-10-29T20:28:07.978Z
 tags:
   - password-manager
 categories:
@@ -110,10 +110,10 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -140,10 +140,10 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -191,18 +191,17 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-fabricate-viral-gifs-via-giphy-portal/"><u>[New] 2024 Approved Fabricate Viral Gifs via Giphy Portal</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-from-vlogs-to-virality-jake-paul-the-online-phenomenon-for-2024/"><u>[Updated] From Vlogs to Virality Jake Paul, the Online Phenomenon for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/android-workflow-boosted-transforming-google-docs-into-compatible-ms-word-formats-effortlessly/"><u>Android Workflow Boosted: Transforming Google Docs Into Compatible MS Word Formats Effortlessly</u></a></li>
-<li><a href="https://blog-min.techidaily.com/dysfonctionnement-de-handbrake-sur-windows-11-explorez-les-solutions-optimales-et-les-autres-options/"><u>Dysfonctionnement De HandBrake Sur Windows 11? Explorez Les Solutions Optimales Et Les Autres Options !</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enterprise-security-at-risk-with-generative-ai-crowdstrike-cto-alerts-in-latest-analysis-for-zdnet/"><u>Enterprise Security at Risk with Generative AI, CrowdStrike CTO Alerts in Latest Analysis for ZDNet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722975030453-get-your-hands-on-the-latest-free-drivers-realtek-pcie-controller-family-windows-11-ready/"><u>Get Your Hands on the Latest Free Drivers: Realtek PCIe Controller Family - Windows 11 Ready</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-recent-payment-service-interruptions-affect-your-store-an-in-depth-analysis-by-zdnet/"><u>How Recent Payment Service Interruptions Affect Your Store: An In-Depth Analysis by ZDNet</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/how-to-record-podcast-remotely-for-2024/"><u>How to Record Podcast Remotely for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/huawei-data-retrieval-tool-restore-lost-data-from-huawei-nova-y91-by-fonelab-android-recover-data/"><u>Huawei Data Retrieval tool – restore lost data from Huawei Nova Y91</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-programming-in-rust-and-balancing-work-life-on-his-macbook-air-exclusive-qanda-featured-by-zdnet/"><u>Linus Torvalds Discusses Programming in Rust & Balancing Work-Life on His MacBook Air - Exclusive Q&A Featured by ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-overcome-the-extended-semaphore-connection-timeout-error-code-0x80070079/"><u>Troubleshooting: Overcome the Extended Semaphore Connection Timeout (Error Code 0X80070079)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/veteran-linus-developers-endorse-ciq-the-principal-patron-for-rocky-linuxs-launch-computing-world/"><u>Veteran Linus Developers Endorse CIQ: The Principal Patron for Rocky Linux's Launch | Computing World</u></a></li>
-<li><a href="https://blog-min.techidaily.com/windows-m2ts-2024/"><u>Windows 지원하는 M2TS 프리앱 : 2024 년에 가장 최신 재구성 및 해결 전략</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screensnap-it-all-high-quality-netflix-on-mac/"><u>[New] ScreenSnap It All High-Quality Netflix on Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expertise-for-changing-meet-usernames-laptopmobile-for-2024/"><u>[Updated] Expertise for Changing Meet Usernames (Laptop/Mobile) for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategic-broadcast-planning-youtube-and-the-top-30-networks/"><u>2024 Approved Strategic Broadcast Planning YouTube & The Top 30 Networks</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/customizing-page-numbers-in-your-e-books-with-flipbuilder-a-step-by-step-guide/"><u>Customizing Page Numbers in Your E-Books with FlipBuilder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-restore-your-ipad-using-icloud-backup-a-step-by-step-guide-with-and-without-factory-reset/"><u>How to Restore Your iPad Using iCloud Backup: A Step-by-Step Guide with and Without Factory Reset</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-your-apple-id-top-6-steps-to-retrieve-lost-icloud-passwords/"><u>Reviving Your Apple ID: Top 6 Steps to Retrieve Lost iCloud Passwords</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshoot-your-icloud-picture-sharing-problems-for-ios-devices-and-macbook-computers-essential-steps/"><u>Troubleshoot Your iCloud Picture Sharing Problems for iOS Devices and MacBook Computers - Essential Steps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211107482-9781667463520-ufos-in-de-bijbel/"><u>UFO's in de Bijbel | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-icloud-family-sharing-a-comprehensive-guide-on-implementation-and-usage/"><u>Unveiling iCloud Family Sharing: A Comprehensive Guide on Implementation and Usage</u></a></li>
 </ul></div>
 

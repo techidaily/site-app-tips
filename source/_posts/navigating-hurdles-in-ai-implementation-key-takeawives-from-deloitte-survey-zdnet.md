@@ -1,7 +1,7 @@
 ---
 title: "Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET"
-date: 2024-10-17T20:47:13.637Z
-updated: 2024-10-23T16:05:16.059Z
+date: 2024-10-28T17:19:32.429Z
+updated: 2024-10-29T23:17:36.092Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,16 +187,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/-vloggers-guide-to-camera-lenses-for-2024/"><u>[New] A Vlogger's Guide To Camera Lenses for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-excellent-facial-editors-for-smartphones/"><u>10 Excellent Facial Editors for Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2022s-leading-collaborative-platforms-for-enhanced-teamwork-pcmag/"><u>2022'S Leading Collaborative Platforms for Enhanced Teamwork | PCMag</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-pro-mac-and-pc-screen-capture-experts/"><u>2024 Approved Pro Mac & PC Screen Capture Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-bargain-stopwatches-online/"><u>Best Bargain Stopwatches Online</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-infinix-gt-10-pro-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Infinix GT 10 Pro.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-optimize-zoom-effectiveness-during-your-google-meet-for-2024/"><u>How to Optimize Zoom Effectiveness During Your Google Meet for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-here-exploring-the-cutting-edge-of-5g-and-edge-computing-innovations-highlights-by-zdnet/"><u>The Future Is Here: Exploring the Cutting-Edge of 5G and Edge Computing Innovations | Highlights by ZDNET</u></a></li>
-<li><a href="https://win-webster.techidaily.com/transcend-sd-speicherkarte-problemlosung-fur-die-datenwiederherstellung/"><u>Transcend SD-Speicherkarte: Problemlösung Für Die Datenwiederherstellung</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-pc-experience-detailed-instructions-for-replacing-windows-with-linux-mint/"><u>Transform Your PC Experience: Detailed Instructions for Replacing Windows With Linux Mint</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-microsofts-critical-challenge-with-windows-11-just-one-year-away-an-in-depth-analysis-by-zdnet/"><u>Urgent: Microsoft's Critical Challenge with Windows 11 Just One Year Away - An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-2019-evolution-of-vegaspro/"><u>[New] 2024 Approved The 2019 Evolution of VegasPro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-assessing-instagrams-limits-on-posted-videos/"><u>[Updated] 2024 Approved Assessing Instagram's Limits on Posted Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-save-money-and-time-creating-engaging-youtube-intros-without-paying/"><u>[Updated] In 2024, Save Money & Time Creating Engaging YouTube Intros Without Paying</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620191401-comprehensive-evaluation-of-picplaypost-revolutionizing-digital-content-with-advanced-editing-features-for-videos-collages-and-more/"><u>Comprehensive Evaluation of PicPlayPost: Revolutionizing Digital Content with Advanced Editing Features for Videos, Collages, and More!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-your-cinematic-journey-with-the-ultimate-list-of-15-vr-film-apps-for-mobile-devices/"><u>Enhance Your Cinematic Journey with the Ultimate List of 15 VR Film Apps for Mobile Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-the-windows-11-wont-run-problem-proven-strategies-and-tools-for-your-device/"><u>Fixing the Windows 11 Won't Run Problem: Proven Strategies and Tools for Your Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-restore-lost-text-messages-on-your-samsung-device-using-the-latest-sms-recovery-tool/"><u>How to Restore Lost Text Messages on Your Samsung Device Using the Latest SMS Recovery Tool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-the-science-and-art-of-attention-grabbing-titles/"><u>Master the Science and Art of Attention-Grabbing Titles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-20-high-earning-android-games-a-must-play-list-that-delivers-value/"><u>Top 20 High-Earning Android Games: A Must-Play List That Delivers Value</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-anonymized-messaging-services-the-leading-choices-for-private-communication/"><u>Top Anonymized Messaging Services: The Leading Choices for Private Communication</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-no-cost-ios-radio-application-best-choice-for-iphone-ipad-and-ipod-touch/"><u>Top No-Cost iOS Radio Application: Best Choice for iPhone, iPad & iPod Touch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-configuring-and-sharing-drives-on-your-mac/"><u>Ultimate Guide: Configuring and Sharing Drives on Your Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-summary-and-expert-take-on-gopro-quik-your-essential-reading-for-this-year/"><u>Ultimate Summary and Expert Take on GoPro Quik – Your Essential Reading for This Year</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-success-selecting-co-stars-for-youtube-projects-for-2024/"><u>Unlocking Success Selecting Co-Stars for YouTube Projects for 2024</u></a></li>
 </ul></div>
 

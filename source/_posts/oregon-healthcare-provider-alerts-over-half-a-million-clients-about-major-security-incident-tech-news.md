@@ -1,7 +1,7 @@
 ---
 title: Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News
-date: 2024-10-16T22:59:01.413Z
-updated: 2024-10-24T03:43:08.535Z
+date: 2024-10-22T22:35:36.660Z
+updated: 2024-10-29T20:00:53.462Z
 tags:
   - password-manager
 categories:
@@ -82,27 +82,22 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-deciding-on-fps-to-opt-for-30-or-go-for-a-sharp-60hz/"><u>[New] 2024 Approved Deciding on FPS To Opt for 30 or Go For a Sharp 60Hz</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-diving-deep-into-the-income-of-ajey-carryminati/"><u>[Updated] 2024 Approved Diving Deep Into the Income of Ajey (CarryMinati)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-dive-into-webinar-world-a-noobs-guide-to-zoom-for-2024/"><u>[Updated] Dive Into Webinar World A Noob’s Guide to Zoom for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-professional-filmmaking-secrets-the-ultimate-guide-to-11-color-edits/"><u>[Updated] In 2024, Professional Filmmaking Secrets The Ultimate Guide to 11 Color Edits</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-c33-2023-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme C33 2023</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-6-secure-chat-guard-apps-for-safeguarding-text-communications-on-android-devices/"><u>Best 6 Secure Chat Guard Apps for Safeguarding Text Communications on Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194357-discover-the-top-factual-inshot-video-editing-tool-of-2024-a-must-see/"><u>Discover the Top Factual InShot Video Editing Tool of 2024 - A MUST-SEE</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-6-free-online-casino-slots-for-android-phones-and-iphones/"><u>Discover the Ultimate Selection of 6 Free Online Casino Slots for Android Phones and iPhones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/efficient-ipad-locator-tool-keep-an-eye-on-your-apple-tablet-anywhere/"><u>Efficient iPad Locator Tool: Keep an Eye on Your Apple Tablet Anywhere</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-methods-for-transferring-all-your-apps-from-one-iphone-to-another/"><u>Effortless Methods for Transferring All Your Apps From One iPhone to Another</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-blaze-2-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Blaze 2 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ring-youtube-standard-studio-or-beta-progress-for-2024/"><u>Mastering YouTube Standard Studio or Beta Progress for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620191785-top-insights-on-videoleap-dont-miss-whats-next/"><u>Top Insights on Videoleap - Don't Miss What's Next!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-ebook-with-confidence-the-ultimate-7-step-process-for-converting-epub-to-txt-now-working-flawlessly/"><u>Transform Your eBook with Confidence: The Ultimate 7-Step Process for Converting ePub to TXT - Now Working Flawlessly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-breaking-down-sync-a-thorough-review-of-lgs-uhd68-display-for-2024/"><u>[New] Breaking Down Sync A Thorough Review of LG's UHD68 Display for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-select-4-websites-easy-skype-tone-downloads-for-2024/"><u>[New] Select 4 Websites Easy Skype Tone Downloads for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-10-tools-to-record-zoom-meeting/"><u>[Updated] 10 Tools to Record Zoom Meeting</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-itel-p55t-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Itel P55T Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-a-tech-career-journey-with-wisdom-from-the-top-of-the-aeronautics-world-analyzed-on-zdnet/"><u>Navigating a Tech Career Journey with Wisdom From the Top of the Aeronautics World | Analyzed on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-ai-with-open-source-the-smart-path-forward-insights-from-zdnet/"><u>Navigating the Future of AI with Open Source: The Smart Path Forward - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-pilots-guide-to-best-5-drones-for-2024/"><u>Professional Pilot’s Guide to Best 5 Drones for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-humble-code-that-put-big-mac-in-a-bind-how-an-ingenious-application-challenged-mcdonalds-systems/"><u>The Humble Code That Put Big Mac in a Bind: How an Ingenious Application Challenged McDonald's Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-guide-to-the-most-effective-crm-systems-in-2vee-a-2022-selection-tailored-for-smb-success/"><u>ZDNET's Guide to the Most Effective CRM Systems in 2Vee: A 2022 Selection Tailored for SMB Success</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

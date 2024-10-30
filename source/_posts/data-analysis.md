@@ -1,7 +1,7 @@
 ---
 title: Data Analysis
-date: 2024-10-22T19:23:49.490Z
-updated: 2024-10-24T01:11:12.338Z
+date: 2024-10-24T00:27:33.494Z
+updated: 2024-10-29T21:18:53.058Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,21 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-to-add-link-to-facebook-story-for-free/"><u>[New] In 2024, How to Add Link to Facebook Story for Free?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/sovled-warno-pc-game-how-to-stop-unexpected-shutdowns-and-crashes/"><u>[SOVLED] Warno PC Game - How to Stop Unexpected Shutdowns and Crashes</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-assessing-video-streaming-giants-vs-manycam/"><u>[Updated] 2024 Approved Assessing Video Streaming Giants Vs. ManyCam</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-how-to-make-moments-last-longer-using-phantoms-slow-mo-magic/"><u>[Updated] 2024 Approved How to Make Moments Last Longer Using Phantom's Slow Mo Magic</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-pinnacle-portals-select-laptops-for-uhd-content-creation/"><u>[Updated] 2024 Approved Pinnacle Portals Select Laptops for UHD Content Creation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-pictureweaversierra-blending-apple-media-artfully-for-2024/"><u>[Updated] PictureWeaverSierra Blending Apple Media Artfully for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/best-10-ways-to-convert-youtube-to-mpeg/"><u>Best 10 Ways to Convert YouTube to MPEG</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-to-elite-a-comprehensive-tutorial-on-switching-from-windows-home-to-the-power-of-pro-version/"><u>Elevate to Elite: A Comprehensive Tutorial on Switching From Windows Home to the Power of Pro Version</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevating-software-creation-with-github-copilots-productive-precision-insights-from-zdnet/"><u>Elevating Software Creation with GitHub Copilot's Productive Precision - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enterprise-tech-adopts-the-ops-approach-amidst-emerging-challenges-zdnet-insights/"><u>Enterprise Tech Adopts the 'Ops' Approach Amidst Emerging Challenges | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-seamless-cross-platform-integration-chrome-os-welcomes-windows-apps-via-exciting-new-collaboration/"><u>Experience Seamless Cross-Platform Integration: Chrome OS Welcomes Windows Apps via Exciting New Collaboration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/grounding-systems-must-comply-with-national-and-international-standards-to-ensure-they-are-safe-and-do-not-cause-harmful-interference/"><u>Grounding Systems Must Comply with National and International Standards to Ensure They Are Safe and Do Not Cause Harmful Interference.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-tech-professionals-can-overcome-burnout-with-positive-developments-discoveries-by-zdnet/"><u>How Tech Professionals Can Overcome Burnout with Positive Developments - Discoveries by ZDNET</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-mobile-time-lapse-magic-top-apps-for-creatives-2023-edition/"><u>New Mobile Time-Lapse Magic Top Apps for Creatives (2023 Edition)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/starters-guide-to-optimal-gopro-accessories-list/"><u>Starter’s Guide to Optimal GoPro Accessories List</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-ai-driven-success-for-any-size-business-using-anthropics-latest-enterprise-offering-the-claude-upgrade-zdnet-insights/"><u>Unlock AI-Driven Success for Any Size Business Using Anthropic's Latest Enterprise Offering, The Claude Upgrade | ZDNET Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-10-best-youtube-keyword-tools-to-get-more-views-filmora/"><u>[New] 10 Best YouTube Keyword Tools to Get More Views - Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-clearing-up-black-screens-in-youtube-playback/"><u>[New] 2024 Approved Clearing Up Black Screens in YouTube Playback</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-introduction-to-av1-encoding-techniques/"><u>[New] Introduction to AV1 Encoding Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-high-definition-capture-top-applications/"><u>[Updated] In 2024, High-Definition Capture Top Applications</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/chatgpt-plus-is-investing-in-this-ai-tool-a-smart-move-top-5-benefits-explained/"><u>ChatGPT Plus: Is Investing in This AI Tool a Smart Move? Top 5 Benefits Explained</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhanced-mobile-device-management-on-android-leveraging-advanced-tools/"><u>Enhanced Mobile Device Management on Android: Leveraging Advanced Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193252-experience-endless-possibilities-access-free-cracked-applications-for-ios-and-android-via-appcake-today/"><u>Experience Endless Possibilities: Access Free, Cracked Applications for iOS & Android via AppCake Today</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-awesome-valorant-thumbnails-for-youtube-content/"><u>Mastering Awesome Valorant Thumbnails for YouTube Content</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mobile-memories-creator-high-quality-iphone-photo-and-file-printer/"><u>Mobile Memories Creator: High-Quality iPhone Photo & File Printer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionizing-podcast-branding-with-ai-naming-generators-for-2024/"><u>Revolutionizing Podcast Branding with AI Naming Generators for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/self-repair-techniques-for-your-ios-device/"><u>Self-Repair Techniques for Your iOS Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-stops-reimbursement-exploits-for-gamers/"><u>Steam Stops Reimbursement Exploits for Gamers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-2-apps-for-effortless-iphone-reflection-on-televisions-and-desktops/"><u>The Ultimate Guide: Top 2 Apps for Effortless iPhone Reflection on Televisions and Desktops</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620187722-the-ultimate-selection-of-android-screen-casting-apps-discover-the-top-9-options-to-enhance-your-experience/"><u>The Ultimate Selection of Android Screen Casting Apps: Discover the Top 9 Options to Enhance Your Experience!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-stunning-gallery-apps-on-android-your-guide-to-capturing-and-sharing-perfect-images/"><u>Top 10 Stunning Gallery Apps on Android: Your Guide to Capturing and Sharing Perfect Images</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-messaging-apps-compatible-with-iphone-and-android-finding-the-perfect-one/"><u>Top Rated Messaging Apps Compatible with iPhone & Android: Finding the Perfect One</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-free-iphone-and-android-entertainment-with-appcake-get-all-your-favorite-cracked-apps-and-games-now/"><u>Unlock Free iPhone & Android Entertainment with AppCake - Get All Your Favorite Cracked Apps & Games Now!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-ultimate-convenience-and-safety-on-ios-discover-the-premier-password-protector-app/"><u>Unlock Ultimate Convenience & Safety on iOS - Discover the Premier Password Protector App</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728507128088-6/"><u>どうすればデスクトップから失われたショートカットを取り戻せるか？6つの対処法を教えます。</u></a></li>
 </ul></div>
 

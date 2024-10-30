@@ -1,7 +1,7 @@
 ---
 title: Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models
-date: 2024-10-18T20:14:47.875Z
-updated: 2024-10-24T04:47:00.489Z
+date: 2024-10-28T17:33:40.014Z
+updated: 2024-10-29T18:19:47.297Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,17 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-essential-steps-for-mp3-streams-on-youtube/"><u>[New] 2024 Approved Essential Steps for MP3 Streams on Youtube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-polishing-job-experience-descriptions/"><u>[New] Polishing Job Experience Descriptions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-elite-collection-best-kung-fu-arcade-games-for-2024/"><u>[New] The Elite Collection Best Kung Fu Arcade Games for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-dynamics-of-collaborative-marketing-on-youtube/"><u>[Updated] The Dynamics of Collaborative Marketing on YouTube</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-email-services-with-onlyoffice-a-step-by-step-guide/"><u>Integrating Email Services with ONLYOFFICE – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-your-computers-identity-a-quick-guide-with-6-methods/"><u>Learn Your Computer’s Identity: A Quick Guide with 6 Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/sonys-ai-research-unit-collaborates-with-ai-singapore-on-advanced-language-models-technews/"><u>Sony's AI Research Unit Collaborates with AI Singapore on Advanced Language Models - TechNews</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-the-lip-reader-how-this-innovative-app-poses-a-threat-to-giants-like-microsoft-teams-and-zoom-zdnet-insight/"><u>The Rise of the Lip-Reader: How This Innovative App Poses a Threat to Giants Like Microsoft Teams and Zoom | ZDNet Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-linux-distributions-ideal-for-developers-a-comprehensive-guide-by-techradar/"><u>Top 5 Linux Distributions Ideal for Developers: A Comprehensive Guide by TechRadar</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/bes-entry-level-manual-for-effective-channel-creation/"><u>Youtube's Entry-Level Manual for Effective Channel Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audit-your-channels-financial-success-for-2024/"><u>[New] Audit Your Channel's Financial Success for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-directors-speak-the-soul-of-film-writing/"><u>[New] Directors Speak The Soul of Film Writing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-high-end-audio-for-youtubes-best-gamers-for-2024/"><u>[Updated] High-End Audio for YouTube's Best Gamers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/animatedapp-full-guide-24-edition-for-2024/"><u>AnimatedApp Full Guide '24 Edition for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-mobile-chat-applications-the-ultimate-list-for-ios-and-android-devices/"><u>Best 10 Mobile Chat Applications: The Ultimate List for iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-12-mobile-typing-applications-for-ios-and-android-devices-a-comprehensive-guide/"><u>Best 12 Mobile Typing Applications for iOS and Android Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-brother-mfc-7360n-printing-software-on-windows-systems/"><u>Download & Update Brother MFC-7360N Printing Software on Windows Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-ways-to-keep-your-apps-private-on-smartphones-and-tablets-android-and-apple/"><u>Effective Ways to Keep Your Apps Private on Smartphones & Tablets (Android & Apple)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/feature-packed-lamicall-s-tablet-support-an-expert-evaluation-for-comfortable-use/"><u>Feature-Packed Lamicall S Tablet Support: An Expert Evaluation for Comfortable Use</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-error-there-is-a-problem-with-your-games-setup-origin-games/"><u>Fix Error There Is a Problem with Your Game's Setup | Origin Games</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193676-get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-repair-severely-corrupted-video-files-using-a-sample-file/"><u>How to Repair Severely Corrupted Video Files Using a Sample File?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oneplus-ace-2v-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On OnePlus Ace 2V Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ios-tracker-application-monitor-your-iphone-with-ease/"><u>IOS Tracker Application: Monitor Your iPhone with Ease</u></a></li>
+<li><a href="https://win-blog.techidaily.com/minecraft-error-resolved-understanding-and-fixing-exit-code-0-issue/"><u>Minecraft Error Resolved: Understanding and Fixing 'Exit Code 0' Issue</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-most-effective-android-management-software-from-pc-updated-top-picks/"><u>The Most Effective Android Management Software From PC - Updated Top Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-free-online-and-mobile-apps-for-crafting-hilarious-memes-effortlessly/"><u>Top Free Online & Mobile Apps for Crafting Hilarious Memes Effortlessly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-applications-for-seamlessly-casting-your-iphone-display-onto-tv-or-computer/"><u>Top-Rated Applications for Seamlessly Casting Your iPhone Display Onto TV or Computer</u></a></li>
 </ul></div>
 

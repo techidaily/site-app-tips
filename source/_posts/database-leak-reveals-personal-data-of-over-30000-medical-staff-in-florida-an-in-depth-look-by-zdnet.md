@@ -1,7 +1,7 @@
 ---
 title: "Database Leak Reveals Personal Data of Over 30,000 Medical Staff in Florida: An In-Depth Look by ZDNet"
-date: 2024-10-22T17:29:17.985Z
-updated: 2024-10-23T17:22:59.008Z
+date: 2024-10-26T21:19:17.566Z
+updated: 2024-10-29T22:03:32.916Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -99,19 +99,24 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-macpixelpro-optimized-for-high-res-mac-images-for-2024/"><u>[Updated] MacPixelPro Optimized for High-Res Mac Images for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-the-world-of-kinemaster-a-deeper-look-at-gaming/"><u>2024 Approved Inside the World of KineMaster A Deeper Look at Gaming</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-and-fair-evaluation-of-airwatch-your-ultimate-guide/"><u>Comprehensive and Fair Evaluation of AirWatch - Your Ultimate Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-factual-inshot-video-editing-tool-of-2024-a-must-see/"><u>Discover the Top Factual InShot Video Editing Tool of 2024 - A MUST-SEE!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-and-use-the-free-ogg-media-player-compatible-with-pc-and-mac/"><u>Download & Use the Free OGG Media Player Compatible with PC & Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-photography-skills-discover-5-remarkable-tools-for-upgrading-and-perfecting-images-beyond-remini/"><u>Elevate Your Photography Skills: Discover 5 Remarkable Tools for Upgrading and Perfecting Images Beyond Remini</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-zte-nubia-z60-ultra-by-fonelab-android-recover-messages/"><u>How to recover old messages from your ZTE Nubia Z60 Ultra</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-content-warning-app-malfunction-troubleshooting-steps-for-pc-users/"><u>Solving 'Content Warning' App Malfunction: Troubleshooting Steps for PC Users</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/oadmap-to-engaging-youtube-trailers-through-filmora/"><u>The Roadmap to Engaging YouTube Trailers Through Filmora</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620190391-the-ultimate-guide-12-hilarious-mobile-faces-you-can-try-on-any-phone/"><u>The Ultimate Guide: 12 Hilarious Mobile Faces You Can Try on Any Phone!</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/troubleshooting-ea-app-issues-quick-solutions-to-restore-functionality/"><u>Troubleshooting EA App Issues - Quick Solutions to Restore Functionality</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193087-ultimate-review-of-the-shotcut-app-unveil-its-features-and-benefits-now/"><u>Ultimate Review of the Shotcut App: Unveil Its Features and Benefits Now!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-new-realm-of-jaunt-vr/"><u>[Updated] Navigating the New Realm of Jaunt VR</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-sounding-off-on-channel-titling-tips-from-experienced-filmmakers-for-2024/"><u>[Updated] Sounding Off on Channel Titling Tips From Experienced Filmmakers for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-scrutinizing-the-benefits-of-itops-screencasting/"><u>2024 Approved Scrutinizing the Benefits of ITop's Screencasting</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2024s-top-contenders-for-the-best-mac-mouse-tech-experts-weigh-in/"><u>2024'S Top Contenders for the Best Mac Mouse - Tech Experts Weigh In</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/5pww5o2u5pwr5oplus05oqa5ben77ya6yen5bu65peg5ash5lu95lplush5ogv55qe5lij56en6kej5yaz5yqe5rov/"><u>数据救援技巧：重建无备份信息的三种解决办法</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-productivity-with-ubuntu-2204-a-top-choice-for-professional-linux-desktops-techadvice/"><u>Boost Your Productivity with Ubuntu 22.04 - A Top Choice for Professional Linux Desktops | TechAdvice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cr2-to-jpg-kostenlos-konvertert-online-mit-movavi-schnelle-und-zuverlassige-losung/"><u>CR2-to-JPG Kostenlos Konvertert Online Mit Movavi - Schnelle Und Zuverlässige Lösung</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-cto-forecasts-major-shifts-in-cloud-computing-strategies-insights-from-tech-leaders/"><u>Expert CTO Forecasts Major Shifts in Cloud Computing Strategies - Insights From Tech Leaders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-future-with-linus-insights-on-artificebotics-rust-programming-and-why-linux-is-crucial-zdnet/"><u>Exploring the Future with Linus: Insights on Artificebotics, Rust Programming, and Why Linux Is Crucial | ZDNET</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-updating-and-installing-latest-epson-driver-software-on-windows-11/"><u>Guide: Updating and Installing Latest Epson Driver Software on Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-design-thinking-bridges-the-gap-between-tech-professionals-and-enhanced-customer-experiences-insights-from-zdnet/"><u>How Design Thinking Bridges the Gap Between Tech Professionals and Enhanced Customer Experiences - Insights From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-honor-x50iplus-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Honor X50i+</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-ensuring-easy-download-of-youtubes-srt-subs/"><u>In 2024, Ensuring Easy Download of YouTube's SRT Subs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-demystified-understanding-its-essentiality-in-cloud-computing/"><u>Kubernetes Demystified: Understanding Its Essentiality in Cloud Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-team-meetings-with-otter-adaptable-audio-transcription-tools-explored-insights-and-tips-zdnet/"><u>Mastering Team Meetings with Otter: Adaptable Audio Transcription Tools Explored - Insights & Tips | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/polarization/"><u>Polarization</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transitioning-from-windows-home-to-pro-tips-advantages-and-how-to-digital-insight-hub/"><u>Transitioning From Windows Home to Pro - Tips, Advantages & How-To | Digital Insight Hub</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-building-your-ideal-windows-11-vm-tutorial/"><u>Ultimate Guide: Building Your Ideal Windows 11 VM [Tutorial]</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unveiling-the-potential-of-thumbnails-in-video-marketing/"><u>Unveiling the Potential of Thumbnails in Video Marketing</u></a></li>
 </ul></div>
 

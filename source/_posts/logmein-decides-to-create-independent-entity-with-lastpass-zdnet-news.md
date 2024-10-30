@@ -1,7 +1,7 @@
 ---
 title: LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News
-date: 2024-10-19T23:18:16.840Z
-updated: 2024-10-24T02:12:32.084Z
+date: 2024-10-25T19:01:23.312Z
+updated: 2024-10-29T17:09:14.969Z
 tags:
   - password-manager
 categories:
@@ -82,31 +82,25 @@ In a message to users, LastPass reiterated that it could "strategically increase
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-building-a-custom-link-for-youtubes-auto-subscribe-for-2024/"><u>[Updated] Building a Custom Link for YouTube's Auto-Subscribe for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-creating-captivating-slideshows-on-the-social-media-giant/"><u>[Updated] In 2024, Creating Captivating Slideshows on the Social Media Giant</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-balance-of-serene-visuals/"><u>[Updated] In 2024, The Balance of Serene Visuals</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-superior-quality-drones-on-sale-for-2024/"><u>[Updated] Superior Quality Drones on Sale for 2024</u></a></li>
-<li><a href="https://ai-video.techidaily.com/2024-approved-top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>2024 Approved Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-deep-dive-into-microsofts-bing-chat-and-its-use-of-advanced-ai-like-gpt-4/"><u>A Deep Dive Into Microsoft's Bing Chat and Its Use of Advanced AI Like GPT-4</u></a></li>
-<li><a href="https://app-tips.techidaily.com/delving-deep-into-chatsonic-a-thorough-assessment-of-the-cutting-edge-ai-chat-companion/"><u>Delving Deep Into Chatsonic: A Thorough Assessment of the Cutting-Edge AI Chat Companion</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effiziente-methoden-zum-hinzufugen-von-untertiteln-zu-ihren-mp4-filmen/"><u>Effiziente Methoden Zum Hinzufügen Von Untertiteln Zu Ihren MP4-Filmen</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722148098381-embrace-the-future-of-text-generation-access-and-master-openais-bespoke-gpt-services-today/"><u>Embrace the Future of Text Generation: Access and Master OpenAI's Bespoke GPT Services Today</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-guide-to-evaluating-gpt-powered-conversational-agents-insights-and-recommendations/"><u>Essential Guide to Evaluating GPT-Powered Conversational Agents - Insights & Recommendations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-bing-chat-how-to-utilize-ai-and-gpt-n-technology-for-enhanced-conversations/"><u>Exploring Bing Chat: How to Utilize AI and GPT-N Technology for Enhanced Conversations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-eva-ai-by-ex-journey-the-ultimate-chatbot-review/"><u>In-Depth Analysis: EVA AI by Ex Journey - The Ultimate Chatbot Review</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-the-acurite-pro-01036m-simplistic-installation-rugged-frameworks-assessed/"><u>In-Depth Review of the AcuRite Pro 01036M: Simplistic Installation, Rugged Frameworks Assessed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/inside-look-at-chatsonic-thorough-review-uncovers-vital-information-on-this-state-of-the-art-artificial-intelligence-chat-interface/"><u>Inside Look at Chatsonic: Thorough Review Uncovers Vital Information on This State-of-the-Art Artificial Intelligence Chat Interface</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-therapeutic-practices-ais-role-revealed/"><u>Redefining Therapeutic Practices: AI’s Role Revealed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-chatgpt-a-thorough-breakdown-of-its-capabilities-flaws-and-error-management-techniques/"><u>The Ultimate Guide to ChatGPT - A Thorough Breakdown of Its Capabilities, Flaws & Error Management Techniques</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/the-ultimate-list-of-safe-and-speedy-video-convertors-for-windows-10-and-11-enthusiasts/"><u>The Ultimate List of Safe & Speedy Video Convertors for Windows 10 & 11 Enthusiasts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-chatsonic-an-exhaustive-evaluation-for-insights-into-cutting-edge-ai-conversational-technology/"><u>Unveiling Chatsonic: An Exhaustive Evaluation for Insights Into Cutting-Edge AI Conversational Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-bing-chat-interacting-with-artificial-intelligence-via-gpt-technology/"><u>Unveiling the Power of Bing Chat: Interacting with Artificial Intelligence via GPT Technology</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-inside-the-world-of-xmedia-workshop-a-thorough-examination/"><u>[New] In 2024, Inside the World of XMedia Workshop A Thorough Examination</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-srt-breakdown-core-concepts-and-applications-for-2024/"><u>[Updated] SRT Breakdown Core Concepts and Applications for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-stop-automated-post-proposals-on-instagram/"><u>2024 Approved Stop Automated Post Proposals on Instagram</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-guide-for-repairing-corrupt-disks-on-steam-platform/"><u>Effortless Guide for Repairing Corrupt Disks on Steam Platform</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-increased-demand-for-openstack-and-kata-containers-in-modern-tech-ecosystems/"><u>Exploring the Increased Demand for OpenStack and Kata Containers in Modern Tech Ecosystems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-huawei-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Huawei?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-unlock-50-exclusive-youtube-banner-free-gifts/"><u>In 2024, Unlock 50 Exclusive YouTube Banner Free Gifts!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-at-nvidias-open-sourced-gpu-drivers-demystifying-what-powers-your-graphics-performance/"><u>Inside Look at Nvidia's Open Sourced GPU Drivers – Demystifying What Powers Your Graphics Performance</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-simplify-avi-editing-a-step-by-step-guide-to-trimming-and-splitting-for-2024/"><u>New Simplify AVI Editing A Step-by-Step Guide to Trimming and Splitting for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamlining-it-management-with-artificial-intelligence-red-hats-approach-to-simplifying-admin-duties/"><u>Streamlining IT Management with Artificial Intelligence: Red Hat's Approach to Simplifying Admin Duties</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-guide-to-choosing-your-next-ebook-reader-kobo-clara-colour-reviewed/"><u>The Definitive Guide to Choosing Your Next Ebook Reader: Kobo Clara Colour Reviewed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-are-gaining-traction-in-tech-circles-zdnet/"><u>The Rising Popularity: How OpenStack & Kata Containers Are Gaining Traction in Tech Circles | ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-hardware-by-toms-technology-review/"><u>The Ultimate Guide to High-Performance Hardware by Tom's Technology Review</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

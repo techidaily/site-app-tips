@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Digital Keykeeper: Essential Steps for Safer Password Management | ZDNet"
-date: 2024-10-22T01:09:08.951Z
-updated: 2024-10-24T03:58:29.388Z
+date: 2024-10-27T18:40:38.329Z
+updated: 2024-10-29T22:21:39.884Z
 tags:
   - password-manager
 categories:
@@ -42,10 +42,10 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -65,10 +65,10 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -92,10 +92,16 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -144,24 +150,21 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-illusory-journeys-through-time-and-dimensions/"><u>[New] In 2024, Illusory Journeys Through Time and Dimensions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-investigating-the-underreported-drawbacks-of-vr-for-2024/"><u>[New] Investigating the Underreported Drawbacks of VR for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-insta-perfect-pivoting-mastering-video-angles-for-social-success/"><u>[Updated] 2024 Approved Insta Perfect Pivoting Mastering Video Angles for Social Success</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-maximize-your-youtube-channels-financial-potential/"><u>[Updated] Maximize Your YouTube Channel's Financial Potential</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-3-best-nintendo-switch-emulators-you-can-find/"><u>2024 Approved Top 3 Best Nintendo Switch Emulators You Can Find</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-singapores-small-businesses-with-genai-workforce-training-guide-insights-from-zdnet/"><u>Empowering Singapore's Small Businesses with GenAI Workforce Training Guide - Insights From ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-prove-generative-ai-worth-in-your-business-understanding-roi-challenges-as-explained-by-zdnet/"><u>How to Prove Generative AI Worth in Your Business: Understanding ROI Challenges as Explained by ZDNet</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-rapid-video-grabber-your-gateway-to-all-online-videos/"><u>In 2024, Rapid Video Grabber - Your Gateway to All Online Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ng-resource-hubs-for-youtube-intro-files-for-2024/"><u>Leading Resource Hubs for YouTube Intro Files for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-hurdles-of-uncertainty-in-ai-efficiency-and-precision-insights-from-zdnet/"><u>Navigating the Hurdles of Uncertainty in AI Efficiency & Precision - Insights From ZDNet</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/pinpointing-factors-that-influence-igtv-video-performance-for-2024/"><u>Pinpointing Factors that Influence IGTV Video Performance for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/redesigning-interaction-how-generative-ai-is-shaping-the-future-of-user-interface-innovations-zdnet/"><u>Redesigning Interaction: How Generative AI Is Shaping the Future of User Interface Innovations | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-it-work-life-how-ai-solutions-prevent-burnout-and-reduce-fatigue-among-tech-experts-expert-analysis-on-zdnet/"><u>Revolutionizing IT Work Life: How AI Solutions Prevent Burnout and Reduce Fatigue Among Tech Experts | Expert Analysis on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/shifting-away-from-quick-fixes-to-pioneering-intellects-for-advancing-ai-says-renowned-banking-chief-zdnet/"><u>Shifting Away From Quick Fixes to Pioneering Intellects for Advancing AI, Says Renowned Banking Chief | ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steps-to-troubleshoot-and-solve-rainbow-six-siege-connection-problems-effectively/"><u>Steps to Troubleshoot and Solve Rainbow Six Siege Connection Problems Effectively</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-role-of-a-chief-artificial-intelligence-officer-steps-to-achieve-the-position/"><u>The Role of a Chief Artificial Intelligence Officer – Steps to Achieve the Position</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-surge-of-edge-computing-devices-how-it-impacts-professional-growth-insights-from-zdnet/"><u>The Surge of Edge Computing Devices: How It Impacts Professional Growth - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-unveils-comprehensive-ai-skills-handbook-for-singapore-smb-employees/"><u>ZDNet Unveils Comprehensive AI Skills Handbook for Singapore SMB Employees</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-natures-set-pieces-a-collection-of-easy-to-download-templates-for-pros-and-beginners/"><u>[New] 2024 Approved Nature's Set Pieces A Collection of Easy-to-Download Templates for Pros & Beginners</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-learn-to-cut-out-the-unwanted-a-guide-to-erasing-background/"><u>[New] In 2024, Learn to Cut Out the Unwanted A Guide to Erasing Background</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-inspire-business-identity-utilize-free-logo-templates-and-modify-endlessly-for-2024/"><u>[New] Inspire Business Identity Utilize Free Logo Templates & Modify Endlessly for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlocking-nearby-nuggets-your-essential-locale-lens-for-a-smoother-journey/"><u>[Updated] In 2024, Unlocking Nearby Nuggets Your Essential Locale Lens for a Smoother Journey</u></a></li>
+<li><a href="https://app-tips.techidaily.com/another-cyber-attack-on-lastpass-revealed-by-zdnets-latest-report/"><u>Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-password-management-tools-of-2022-slash-your-costs-insights-from-zdnet/"><u>Best Password Management Tools of 2022: Slash Your Costs - Insights From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-bitcoin-privacy-myths-the-expose-that-shook-its-secrecy/"><u>Debunking Bitcoin Privacy Myths: The Exposé That Shook Its Secrecy</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210857719-9789354407673-divine-teachings-of-ram/"><u>Divine Teachings of Ram | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-and-secure-password-management-solutions-for-202e-thorough-evaluation-by-industry-experts-techradar/"><u>Free & Secure Password Management Solutions for 202E: Thorough Evaluation by Industry Experts - TechRadar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ey-to-wellness-discovering-the-best-yoga-vloggers/"><u>Journey to Wellness - Discovering the Best Yoga Vloggers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-your-security-how-dashlanes-passwordless-logins-eliminate-the-hassle-of-remembering-one-overarching-password-insights-from-zdnet/"><u>Master Your Security: How Dashlane's Passwordless Logins Eliminate the Hassle of Remembering One Overarching Password - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-entire-team-with-1password-unbeatable-group-plan-at-just-1995month-explore-the-benefits-on-zdnet/"><u>Secure Your Entire Team with 1Password: Unbeatable Group Plan at Just $19.95/Month - Explore the Benefits on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-and-activating-the-bitwarden-master-password-reminder-a-step-by-step-guide/"><u>Understanding & Activating the Bitwarden Master Password Reminder: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlock-robust-protection-the-top-6-cybersecurity-choices-for-iphone-users/"><u>Unlock Robust Protection: The Top 6 Cybersecurity Choices for iPhone Users</u></a></li>
 </ul></div>
 

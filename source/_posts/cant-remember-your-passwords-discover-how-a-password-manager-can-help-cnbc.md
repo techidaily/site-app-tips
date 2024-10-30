@@ -1,7 +1,7 @@
 ---
 title: Can't Remember Your Passwords? Discover How a Password Manager Can Help | CNBC
-date: 2024-10-20T17:20:39.909Z
-updated: 2024-10-24T00:52:11.452Z
+date: 2024-10-22T20:43:15.405Z
+updated: 2024-10-29T22:45:46.787Z
 tags:
   - password-manager
 categories:
@@ -176,10 +176,10 @@ The companies that manage and sync those saved files don't have access to the de
 That architecture offers five distinct advantages over a DIY solution. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -190,16 +190,10 @@ That architecture offers five distinct advantages over a DIY solution.
 * [The fastest VPNs](https://www.zdnet.com/article/fastest-vpn/)
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1) Browser Integration 
@@ -216,19 +210,6 @@ Most password managers also allow you to customize the length and complexity of 
 
 With the possible exceptions of [John Forbes Nash, Jr.](https://en.wikipedia.org/wiki/A%5FBeautiful%5FMind%5F%28film%29), and [Raymond Babbitt](https://en.wikipedia.org/wiki/Rain%5FMan), mere mortals are not capable of such feats of randomization. 
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  3) Phishing Protection 
 
 Integrating a password manager with a browser is superb protection against phishing sites. If you visit a site that has managed to perfectly duplicate your bank's login page and even mess with the URL display to make it look legit, you might be fooled. Your password manager, on the other hand, won't enter your saved credentials, because the URL of the fake site doesn't match the legitimate domain associated with them. 
@@ -237,18 +218,18 @@ Integrating a password manager with a browser is superb protection against phish
 
 That phishing protection is probably the most underrated feature of all. If you manage passwords manually, by copying and pasting from an encrypted personal file, you will paste your username and password into the respective fields on that well-designed fake page, because you don't realize it's fake. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  4) Cross Platform Access 
 
 Password managers work across devices, including PCs, Macs, and mobile devices, with the option to sync your encrypted password database to the cloud. Access to that file and its contents can be secured with biometric authentication and 2FA. 
 
 By contrast, if you manage passwords in an encrypted file that's saved locally, you have to manually copy that file to other devices (or keep it in the cloud in a location under your personal control), and then make sure the contents of each copy stay in sync. More friction. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  5) Surveillance Safeguard 
 
@@ -306,18 +287,18 @@ If you're a journalist working on security issues, or an activist in a country w
 
 But even if you're not an obvious candidate for targeted attacks, you can be swept up in a website breach. That's why [Have I Been Pwned?](https://haveibeenpwned.com/) exists. It's easy enough for a compromised website to force you to reset your password, minimizing the risk of that breach, but if you've used that same combination of credentials elsewhere, you're at serious risk. And no matter how careful you are, you're always at risk of being fooled into handing over your credentials in a well-designed phishing attack.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Which password manager is right for you?
 
 Any password manager solution is better than none.
 
 The simplest solution is to use the password management tools built into your default browser or operating system. That option works especially well for anyone who is technically unsophisticated, has a limited number of credentials to store, and uses hardware and services from a single ecosystem. If you're setting things up for a friend or relative who has a Mac and an iPhone, for example, Apple's Keychain will suffice. Those who live in Google's ecosystem can probably get by with Chrome's password manager.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### read this
 
@@ -334,6 +315,13 @@ Finally, most commercial password managers include business plans that allow cen
 We've put together a list of the best free and paid options here: [Best Password Manager in 2021](https://www.zdnet.com/article/best-password-manager/). Each entry in this list includes pricing details as well as a link to security information. Every paid program offers a free trial, and we strongly recommend taking advantage of those trials to see if a program is right for you.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Related stories:
 
@@ -357,15 +345,16 @@ We've put together a list of the best free and paid options here: [Best Password
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-maximize-your-listening-experience-ios-podcast-mastery/"><u>[New] 2024 Approved Maximize Your Listening Experience IOS Podcast Mastery</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-minute-video-crafters/"><u>[New] 2024 Approved Minute Video Crafters</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-apex-titles-for-hd-video-recording-technologies/"><u>[New] Apex Titles for HD Video Recording Technologies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-complimentary-3ds-emulators-compatible-with-various-devices-including-windowsmaciosandroid-and-web-based-options/"><u>Discover the Ultimate List of Complimentary 3DS Emulators Compatible with Various Devices Including Windows/Mac/iOS/Android and Web-Based Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-android-spying-tools-top-5-selections-for-covert-mobile-monitoring/"><u>Discover the Ultimate List of Free Android Spying Tools - Top 5 Selections for Covert Mobile Monitoring</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-amd-graphics-and-motherboard-drivers-compatible-with-windows-11-7-8-and-81/"><u>Download AMD Graphics and Motherboard Drivers Compatible with Windows 11, 7, 8, & 8.1</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-mobile-photography-top-iphone-editing-effects-for-stunning-images/"><u>Mastering Mobile Photography: Top iPhone Editing Effects for Stunning Images</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/top-10plus-instagram-content-downloaders-reviewed-for-2024/"><u>Top 10+ Instagram Content Downloaders Reviewed for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-typical-gpt-car-related-setup-glitches-and-fixes/"><u>Top 6 Typical GPT Car-Related Setup Glitches & Fixes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-paid-and-free-calendar-applications-for-ios-devices/"><u>Top Rated Paid & Free Calendar Applications for iOS Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-budget-friendly-tactics-to-increase-your-youtube-video-impact/"><u>[New] In 2024, Budget-Friendly Tactics to Increase Your YouTube Video Impact</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-precision-problem-solving-for-social-media-stories-issues-for-2024/"><u>[Updated] Precision Problem-Solving for Social Media Stories Issues for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-the-future-the-latest-white-house-findings-support-open-source-artificial-intelligence-insights-from-zdnet/"><u>Embracing the Future: The Latest White House Findings Support Open-Source Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-constant-crashes-in-call-of-duty-modern-warfare-gameplay/"><u>Fixing Constant Crashes in Call of Duty: Modern Warfare Gameplay</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-low-code-development-for-enhanced-employer-branding-a-look-at-zdnet-perspectives/"><u>Leveraging Low-Code Development for Enhanced Employer Branding: A Look at ZDnet Perspectives</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-shrink-mpeg2-files-get-virtualdub-for-video-compression/"><u>New In 2024, Shrink MPEG2 Files Get VirtualDub for Video Compression</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/olympic-sprint-spotlight-year-2022-for-2024/"><u>Olympic Sprint Spotlight Year 2022 for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/overcoming-itunes-error-code-3194-on-your-iphone-or-ipad-device/"><u>Overcoming iTunes Error Code #3194 on Your iPhone or iPad Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/scaling-your-business-with-anthropics-revolutionary-claude-platform-unleash-the-power-of-ai/"><u>Scaling Your Business with Anthropic's Revolutionary Claude Platform: Unleash the Power of AI</u></a></li>
+<li><a href="https://app-tips.techidaily.com/verizon-enhances-enterprise-solutions-with-celonas-innovative-5g-technology/"><u>Verizon Enhances Enterprise Solutions with Celona's Innovative 5G Technology</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zoom-essentials-a-comprehensible-guide/"><u>Zoom Essentials A Comprehensible Guide</u></a></li>
 </ul></div>
 

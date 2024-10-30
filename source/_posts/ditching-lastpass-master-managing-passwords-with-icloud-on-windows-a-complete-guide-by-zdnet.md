@@ -1,7 +1,7 @@
 ---
 title: Ditching LastPass? Master Managing Passwords with iCloud on Windows - A Complete Guide by ZDNet
-date: 2024-10-20T04:17:15.849Z
-updated: 2024-10-23T16:57:37.340Z
+date: 2024-10-24T21:56:03.615Z
+updated: 2024-10-29T21:49:19.055Z
 tags:
   - password-manager
 categories:
@@ -31,7 +31,27 @@ If you've been around for the past 10 or so years, you know that most services r
 
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to use iCloud as a password manager on Windows
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Open iCloud for Windows
 
@@ -42,13 +62,6 @@ Make sure you have [downloaded iCloud for your Windows PC](https://apps.microsof
 Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Sign in to your iCloud Passwords
 
@@ -70,13 +83,6 @@ Make sure Passwords is on and click **Apply**.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Add browser extension
 
 At this point, you can also add a browser extension to [Google Chrome](https://www.zdnet.com/article/malicious-google-chrome-extensions-affect-1-4-million-users/) or [Microsoft Edge](https://www.zdnet.com/article/beef-up-microsoft-edge-with-my-favorite-add-ons/) by following the instructions in the iCloud for Windows app. 
@@ -88,10 +94,10 @@ Maria Diaz/ZDNET
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
@@ -135,10 +141,10 @@ iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/arti
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
@@ -175,24 +181,21 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/our-guide-to-the-essentials-of-youtube-tv-usage/"><u>[New] Your Guide to the Essentials of YouTube TV Usage</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-htc-vives-diving-into-depth-a-vr-experience-review/"><u>[Updated] 2024 Approved HTC Vive's Diving Into Depth A VR Experience Review</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-syncopating-soundtracks-with-flawless-audio-transitions/"><u>[Updated] Syncopating Soundtracks with Flawless Audio Transitions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pro-collage-techniques-handbook/"><u>2024 Approved Pro Collage Techniques Handbook</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-registration-and-login-virbo-ai-live-stream/"><u>2024 Approved Registration and Login | Virbo AI Live Stream</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-path-to-youtube-stardom-six-simple-steps-for-greater-visibility/"><u>2024 Approved Your Path to YouTube Stardom Six Simple Steps for Greater Visibility</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-essentials-of-apple-mdm-and-deploying-on-the-ios-ecosystem/"><u>Discover the Essentials of Apple MDM & Deploying on the iOS Ecosystem</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-user-friendly-android-notes-applications-the-best-picks-you-need/"><u>Discover the Ultimate List of FREE, User-Friendly Android Notes Applications: The Best Picks You Need</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhanced-mobile-device-management-on-android-leveraging-advanced-tools/"><u>Enhanced Mobile Device Management on Android: Leveraging Advanced Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193252-experience-endless-possibilities-access-free-cracked-applications-for-ios-and-android-via-appcake-today/"><u>Experience Endless Possibilities: Access Free, Cracked Applications for iOS & Android via AppCake Today</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-the-mumu-player-a-high-performance-android-simulator-for-desktop-environments/"><u>Experience the MuMu Player: A High-Performance Android Simulator for Desktop Environments</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-examination-of-nox-player-insights-on-functionality-advantages-and-limitations/"><u>In-Depth Examination of Nox Player: Insights on Functionality, Advantages, and Limitations</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/jokesters-journal-the-top-10-hilarious-tweet-threads-for-2024/"><u>Jokester's Journal The Top 10 Hilarious Tweet Threads for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/play-ogg-format-files-at-no-cost-best-cross-platform-ogg-players-for-windows-and-macos/"><u>Play OGG Format Files at No Cost: Best Cross-Platform OGG Players for Windows & macOS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-nokia-130-music-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Nokia 130 Music</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620187722-the-ultimate-selection-of-android-screen-casting-apps-discover-the-top-9-options-to-enhance-your-experience/"><u>The Ultimate Selection of Android Screen Casting Apps: Discover the Top 9 Options to Enhance Your Experience!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-messaging-apps-compatible-with-iphone-and-android-finding-the-perfect-one/"><u>Top Rated Messaging Apps Compatible with iPhone & Android: Finding the Perfect One</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-gptzeros-strategy-for-identifying-machine-learning-outputs/"><u>Understanding GPTZero's Strategy for Identifying Machine Learning Outputs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-easy-steps-to-activate-a-full-screen-grid-on-google-meet/"><u>[New] 2024 Approved Easy Steps to Activate a Full-Screen Grid on Google Meet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-last-to-first-deconstructing-your-video-watch-list/"><u>[New] 2024 Approved From Last to First Deconstructing Your Video Watch List</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-uncovering-budget-friendly-video-communication-apps-pcmac/"><u>[Updated] 2024 Approved Uncovering Budget-Friendly Video Communication Apps PC/MAC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-filmmakers-choice-for-steady-videos-for-2024/"><u>[Updated] Filmmaker's Choice for Steady Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-seamless-change-of-screen-capture-types-on-macos/"><u>[Updated] Seamless Change of Screen Capture Types on MacOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creating-timely-alerts-a-step-by-step-guide-to-setting-up-slackbot-reminders/"><u>Creating Timely Alerts: A Step-by-Step Guide to Setting Up Slackbot Reminders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortless-audio-capture-techniques-for-new-windows-11-users/"><u>Effortless Audio Capture Techniques for New Windows 11 Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-citizen-devs-the-rising-influence-in-crafting-business-software-solutions-zdnet/"><u>Empowering Citizen Devs: The Rising Influence in Crafting Business Software Solutions | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-successfully-upgrade-to-ubuntu-linux-2404-a-step-by-step-guide/"><u>How to Successfully Upgrade to Ubuntu Linux 24.04: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR, Apples New iPhone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/must-play-openworld-experiences-for-2024/"><u>Must-Play Openworld Experiences for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-transition-ahead-how-office-users-can-stay-connected-with-new-microsoft-365-services-in-the-coming-year-zdnet/"><u>Seamless Transition Ahead: How Office Users Can Stay Connected With New Microsoft 365 Services in the Coming Year | ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2209197-9780007357086-the-element-encyclopedia-of-20000-dreams/"><u>The Element Encyclopedia of 20,000 Dreams | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-unveiling-of-microsofts-latest-innovation-a-game-changer-or-annoyance/"><u>The Unveiling of Microsoft's Latest Innovation - A Game Changer or Annoyance?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-security-alert-critical-vulnerability-found-and-patched-in-popular-curl-tool-for-linux-systems-read-the-full-story-on-zdnet/"><u>Urgent Security Alert: Critical Vulnerability Found & Patched in Popular Curl Tool for Linux Systems - Read the Full Story on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-why-it-departments-must-step-up-for-superior-customer-interactions/"><u>ZDNet Exclusive: Why IT Departments Must Step Up for Superior Customer Interactions</u></a></li>
 </ul></div>
 

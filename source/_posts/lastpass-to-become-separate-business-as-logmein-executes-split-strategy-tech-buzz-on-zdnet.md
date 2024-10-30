@@ -1,7 +1,7 @@
 ---
 title: LastPass to Become Separate Business as LogMeIn Executes Split Strategy | Tech Buzz on ZDNet
-date: 2024-10-21T20:12:44.052Z
-updated: 2024-10-23T22:13:16.515Z
+date: 2024-10-25T19:29:53.445Z
+updated: 2024-10-29T21:01:28.509Z
 tags:
   - password-manager
 categories:
@@ -82,28 +82,29 @@ In a message to users, LastPass reiterated that it could "strategically increase
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-subtitles-on-the-social-media-stage-igtv/"><u>[New] 2024 Approved Mastering Subtitles on the Social Media Stage IGTV</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capturing-coziness-ideal-winter-scenes-for-yt-video/"><u>[New] In 2024, Capturing Coziness Ideal Winter Scenes for YT Video</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-hand-tracked-futures-visionary-technologies/"><u>[Updated] 2024 Approved Hand-Tracked Futures Visionary Technologies</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-30-pro-freefire-hashtags-for-boosting-video-popularity/"><u>[Updated] Top 30 Pro-FreeFire Hashtags for Boosting Video Popularity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-empowering-skill-advancement-beyond-artificial-intelligence-on-the-digital-frontier-insights-from-zdnet/"><u>1. Empowering Skill Advancement: Beyond Artificial Intelligence on the Digital Frontier - Insights From ZDNet</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-expert-methods-for-weaving-in-live-streaming-content-online/"><u>2024 Approved Expert Methods for Weaving in Live Streaming Content Online</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-the-future-how-your-enterprise-will-depend-on-numerous-ai-solutions-insights-from-zdnet/"><u>Embracing the Future: How Your Enterprise Will Depend on Numerous AI Solutions - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-citizen-developers-and-it-teams-alike-with-low-codeno-code-solutions/"><u>Empowering Citizen Developers & IT Teams Alike with Low-Code/No-Code Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/evolving-with-intelligence-how-low-code-and-no-code-platforms-are-adapting-to-ai-demands-an-expert-analysis-by-zdnet/"><u>Evolving with Intelligence: How Low-Code and No-Code Platforms Are Adapting to AI Demands – An Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-uncharted-territory-the-emergence-of-innovative-yet-to-be-named-careers-in-the-age-of-artifice-intelligence/"><u>Exploring Uncharted Territory: The Emergence of Innovative, Yet-to-Be-Named Careers in the Age of Artifice Intelligence</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-make-purchases-on-iphone-se-2020-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID make purchases on iPhone SE (2020) ?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-asymmetry-of-todays-live-tech-evolution-a-deep-dive-zdnet/"><u>Navigating the Asymmetry of Today's Live Tech Evolution: A Deep Dive | ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/removes-primary-handheld-gaming-constraint/"><u>Removes Primary Handheld Gaming Constraint</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-innovation-with-open-source-a-pathway-chosen-by-leading-global-minds-insights-from-zdnet/"><u>Unlocking Innovation with Open Source: A Pathway Chosen by Leading Global Minds - Insights From ZDNet</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-free-video-blur-tool-a-step-by-step-guide-for-2024/"><u>Updated Free Video Blur Tool A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-exclusive-free-player-list-for-windowsmac-users/"><u>[New] Exclusive Free Player List for Windows/Mac Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-itunes-guide-mastering-recordings/"><u>[New] The Ultimate iTunes Guide Mastering Recordings</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-digital-scrutiny-vll-app-evaluation/"><u>[Updated] Digital Scrutiny VLL App Evaluation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-beginners-guide-to-camera-lenses-in-filmmaking-and-vlogging/"><u>[Updated] In 2024, The Beginner's Guide to Camera Lenses in Filmmaking & Vlogging</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-swift-and-efficient-turning-youtube-vids-into-mp4-high-definition-via-online-service/"><u>[Updated] Swift & Efficient Turning YouTube Vids Into MP4, High-Definition via Online Service</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-deciding-on-a-stage-obs-versus-twitch/"><u>2024 Approved Deciding on a Stage OBS Versus Twitch</u></a></li>
+<li><a href="https://app-tips.techidaily.com/black-friday-exclusive-offer-save-big-with-a-50-discount-on-nordpass-premium-password-manager-zdnet-news/"><u>Black Friday Exclusive Offer: Save Big with a 50% Discount on NordPass Premium Password Manager | ZDNet News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-improved-performance-and-new-capabilities-with-the-updated-1password-mobile-version-now-live/"><u>Discover Improved Performance & New Capabilities with the Updated 1Password Mobile Version, Now Live!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-dialogue-for-support-linking-chatgpt-and-whatsapp/"><u>Enhanced Dialogue for Support: Linking ChatGPT & WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/huge-savings-alert-dashlane-premium-passwords-get-cut-in-half-score-a-50-discount/"><u>Huge Savings Alert: Dashlane Premium Passwords Get Cut in Half - Score a 50% Discount!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/make-your-comments-pop-with-emojis-in-youtube-for-2024/"><u>Make Your Comments Pop with Emojis in YouTube for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/malware-distribution-tactics-uncovered-by-proofpoint-leveraging-popular-concerts-like-justin-bieber-and-the-weeknd-as-a-scam-vector/"><u>Malware Distribution Tactics Uncovered by Proofpoint: Leveraging Popular Concerts Like Justin Bieber and The Weeknd as a Scam Vector</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-security-for-up-to-10-users-using-1passwords-economical-monthly-plan-of-1995-discover-more-inside-zdnet/"><u>Maximize Security for Up to 10 Users Using 1Password's Economical Monthly Plan of $19.95 | Discover More Inside ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-online-passwords-easily-get-a-whopping-3-month-trial-of-dashlane-premium-at-only-1-from-zdnet/"><u>Protect Online Passwords Easily: Get a Whopping 3-Month Trial of Dashlane Premium at Only $1 From ZDNet</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/seamlessly-duplicate-your-pc-files-with-onedrive-a-3-step-method/"><u>Seamlessly Duplicate Your PC Files with OneDrive: A 3-Step Method</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-over-150m-accounts-how-google-activated-two-factor-authentication-by-default/"><u>Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-free-password-managers-comprehensive-reviews-and-comparisons/"><u>Top Rated Free Password Managers - Comprehensive Reviews and Comparisons</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Rust's Role in Linux Projects with Linus Torvalds: A Glimpse Into His Routine and MacBook Experience - ZDNet"
-date: 2024-10-18T20:24:12.152Z
-updated: 2024-10-23T23:33:37.306Z
+date: 2024-10-23T00:01:24.967Z
+updated: 2024-10-29T17:36:48.046Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,16 +187,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-perfection-an-essential-guide-to-hdr-imaging/"><u>[New] Crafting Perfection An Essential Guide to HDR Imaging</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-riding-ahead-with-clarity-hats-cam-excellence-in-the-year-of-23/"><u>[New] Riding Ahead with Clarity Hats Cam Excellence in the Year of '23</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-top-10-destinations-for-high-end-vectors/"><u>[New] Unveiling Top 10 Destinations for High-End Vectors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/365-as-revealed-by-zdnet/"><u>365, as Revealed by ZDNET</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/analyzing-the-smartwatch-elegance-of-skagen-falster-3-where-tech-meets-tradition/"><u>Analyzing the Smartwatch Elegance of Skagen Falster 3 - Where Tech Meets Tradition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-end-of-mainstream-windows-11-support-soon-explore-your-5-last-resort-options-now/"><u>Facing the End of Mainstream Windows 11 Support Soon? Explore Your 5 Last Resort Options Now!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-selective-cinematic-forecast-collection/"><u>In 2024, Selective Cinematic Forecast Collection</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/optimized-with-cookiebot-tailored-experiences-for-every-visitor/"><u>Optimized with Cookiebot: Tailored Experiences for Every Visitor</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prepare-yourself-7-must-have-tech-in-the-digital-frontier-for-2024/"><u>Prepare Yourself 7 Must-Have Tech in the Digital Frontier for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-main-lobe-or-beam-represents-the-direction-in-which-an-antenna-radiates-most-of-its-energy-a-highly-directive-antenna-has-a-narrow-main-lobe/"><u>The Main Lobe, or Beam, Represents the Direction in Which an Antenna Radiates Most of Its Energy; a Highly Directive Antenna Has a Narrow Main Lobe.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-update-microsoft-faces-major-challenges-with-windows-11-just-one-year-left/"><u>Urgent Update: Microsoft Faces Major Challenges with Windows 11 - Just One Year Left!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-tips-for-gameplay-screen-shotting-on-playstation-4/"><u>[New] In 2024, Essential Tips for Gameplay Screen Shotting on PlayStation 4</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/conversion-sin-costo-de-archivos-dng-a-formato-jpeg-mediante-movavi-online/"><u>Conversión Sin Costo De Archivos DNG a Formato JPEG Mediante Movavi Online</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-xcover-7-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Samsung Galaxy XCover 7 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expertly-curated-list-the-ultimate-9plus1-video-streaming-solutions-for-android-devices/"><u>Expertly Curated List: The Ultimate 9+1 Video Streaming Solutions for Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pre-order-apple-vision-pro-coming-soon-in-store-arrival-predicted-for-feb-2-tech-news/"><u>Pre-Order Apple Vision Pro Coming Soon: In-Store Arrival Predicted for Feb 2 - Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-moving-your-iphone-applications-seamlessly-between-iphones/"><u>Step-by-Step Guide: Moving Your iPhone Applications Seamlessly Between iPhones</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-to-whatsapp-video-broadcasting-guide/"><u>Twitter-to-WhatsApp Video Broadcasting Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192484-ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/windows-11dropbox/"><u>Windows 11中如何修复与Dropbox同步问题的技巧和指南</u></a></li>
 </ul></div>
 

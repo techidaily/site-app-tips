@@ -1,7 +1,7 @@
 ---
 title: "OpenStack and Kata Container Renaissance: Exploring Their Renewed Appeal on the Tech Scene - Analysis by ZDNET"
-date: 2024-10-23T01:29:39.898Z
-updated: 2024-10-23T19:48:21.953Z
+date: 2024-10-29T00:30:18.389Z
+updated: 2024-10-30T00:06:13.544Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,18 +181,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-closer-look-approach-to-team-collaboration/"><u>[New] The Closer Look Approach to Team Collaboration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/access-onedrive-offline-anywhere-edit-and-save-files-without-internet-perfect-for-remote-areas/"><u>Access OneDrive Offline Anywhere: Edit and Save Files Without Internet, Perfect for Remote Areas</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-revolutionizing-the-workforce-transforming-traditional-roles-from-training-to-ethics-the-future-of-employment-explained-zdnet/"><u>AI Revolutionizing the Workforce: Transforming Traditional Roles From Training to Ethics - The Future of Employment Explained | ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/bandicam-screen-recording-software-genuine-user-reviews-and-guides/"><u>Bandicam Screen Recording Software - Genuine User Reviews & Guides</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-speed-top-5-chrome-os-hacks-for-smoother-sailing-and-enhanced-productivity-zdnet/"><u>Boost Your Speed: Top 5 Chrome OS Hacks for Smoother Sailing & Enhanced Productivity | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cutting-edge-ai-how-openais-gpt-4-goes-mini-reduces-application-development-expenses-insights-from-zdnet/"><u>Cutting Edge AI: How OpenAI's GPT-4 Goes Mini Reduces Application Development Expenses - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/economical-sky-craftsmen-top-5-budget-friendly-drones/"><u>Economical Sky Craftsmen Top 5 Budget-Friendly Drones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-app-install-issues-on-microsoft-store/"><u>Fixing App Install Issues on Microsoft Store</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012847712-lost-arc-adventure-stuck-at-the-doorstep-heres-how-to-fix-it/"><u>Lost Arc Adventure Stuck at the Doorstep? Here's How to Fix It</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tcl-tablet-masterpiece-unveiled-the-tab-10-featuring-cutting-edge-nxtpaper-display-and-robust-all-day-battery-life-an-exclusive-review/"><u>TCL Tablet Masterpiece Unveiled - The TAB 10 Featuring Cutting-Edge NXTPAPER Display and Robust All-Day Battery Life: An Exclusive Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-covid-19-immunization-control-systems-a-comprehensive-guide-by-zdnet/"><u>Top Rated COVID-19 Immunization Control Systems: A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-ai-potential-with-superduperdb-simplifying-application-access-as-featured-on-zdnet/"><u>Unlocking AI Potential with SuperDuperDB: Simplifying Application Access, As Featured on ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-guide-to-sns-hdr-pro-and-similar-software/"><u>[New] Comprehensive Guide to SNS HDR Pro and Similar Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-mac-masterpiece-studio-audio-guide-for-2024/"><u>[New] The Mac Masterpiece Studio Audio Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-creation-to-public-domain-google-podcast-upload/"><u>[Updated] From Creation to Public Domain Google Podcast Upload</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-your-secret-weapon-in-cover-letter-writing/"><u>ChatGPT: Your Secret Weapon in Cover Letter Writing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-pinnacle-studio-benefits-drawbacks-and-best-alternatives-explored/"><u>Comprehensive Review of Pinnacle Studio: Benefits, Drawbacks & Best Alternatives Explored</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-12-effortless-typing-solutions-on-ios-and-android-the-ultimate-keyboard-app-selection/"><u>Discover the Top 12 Effortless Typing Solutions on iOS & Android: The Ultimate Keyboard App Selection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-convert-wav-files-to-mp3-format-free-tools-and-apps-for-mac-and-windows-11/"><u>How to Convert WAV Files to MP3 Format: Free Tools and Apps for Mac & Windows 11</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-repair-file-bcd-error-code-98-in-windows-11-step-by-step-guide/"><u>How to Repair 'File BCD Error Code 98' In Windows 11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-a79-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo A79 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-guide-top-free-tools-for-speedy-file-removal-on-your-ipad-device/"><u>Quick Guide: Top Free Tools for Speedy File Removal on Your iPad Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-8-must-have-multi-window-programs-for-android-phones-and-tablets/"><u>The Ultimate List of 8 Must-Have Multi-Window Programs for Android Phones & Tablets</u></a></li>
 </ul></div>
 

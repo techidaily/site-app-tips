@@ -1,7 +1,7 @@
 ---
 title: The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights
-date: 2024-10-20T17:50:09.704Z
-updated: 2024-10-23T20:12:25.932Z
+date: 2024-10-26T16:17:05.141Z
+updated: 2024-10-29T23:36:40.570Z
 tags:
   - password-manager
 categories:
@@ -110,10 +110,10 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -140,10 +140,10 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -191,17 +191,18 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-mastering-the-art-of-valorant-thumbnail-design-for-youtube-content/"><u>[New] 2024 Approved Mastering the Art of Valorant Thumbnail Design for YouTube Content</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-how-to-avoid-the-biggest-slip-ups-for-new-youtube-enthusiasts/"><u>[New] In 2024, How to Avoid the Biggest Slip-Ups for New YouTube Enthusiasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-ace-titles-our-picks-for-the-very-best-adventurous-players-for-2024/"><u>[Updated] Ace Titles Our Picks for the Very Best Adventurous Players for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-bring-order-to-your-digital-memories-ios-album-structure-and-icloud-backup-synergy/"><u>2024 Approved Bring Order to Your Digital Memories IOS Album Structure & iCloud Backup Synergy</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-viral-video-round-up-a-list-of-todays-favorites-on-fb/"><u>2024 Approved Viral Video Round-Up A List of Today's Favorites on FB</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-methods-to-transform-avi-files-for-streamlined-playback-on-iphone-ipad-and-ipod-via-itunes/"><u>Effortless Methods to Transform AVI Files for Streamlined Playback on iPhone, iPad & iPod via iTunes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-tips-for-resolving-unrecognized-devices-making-itunes-recognize-your-iphone-ipad-or-ipod-again/"><u>Expert Tips For Resolving Unrecognized Devices: Making iTunes Recognize Your iPhone, iPad, or iPod Again</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/impact-of-new-instagrams-algorithms-on-users-for-2024/"><u>Impact of New Instagram's Algorithms on Users for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-s23-fe-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy S23 FE by Name | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-12-replacements-for-itunes-on-pc-and-mac-in-2n34-best-options-explored/"><u>Top 12 Replacements for iTunes on PC and Mac in 2N34 - Best Options Explored</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-premier-mobile-platforms-for-enhanced-dji-cinematography/"><u>[New] In 2024, Premier Mobile Platforms for Enhanced DJi Cinematography</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-strategy-map-for-skyrocketing-your-fb-page-status/"><u>[New] In 2024, The Ultimate Strategy Map for Skyrocketing Your FB Page Status</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-through-the-eye-a-top-ten-glimpse-at-2024s-superior-camera-lenses/"><u>[Updated] Through The Eye A Top Ten Glimpse at 2024'S Superior Camera Lenses</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-effortlessly-record-audio-on-your-mac-using-audacity/"><u>2024 Approved Effortlessly Record Audio on Your Mac Using Audacity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-to-capturing-your-3ds-gaming-experience-techniques-with-and-without-a-capture-card/"><u>Guide to Capturing Your 3DS Gaming Experience: Techniques with and without a Capture Card</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-mastering-text-warping-techniques-in-photos-and-videos/"><u>In 2024, Mastering Text Warping Techniques in Photos & Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/your-own-youtube-opening-and-closing-graphics-for-2024/"><u>Make Your Own YouTube Opening & Closing Graphics for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-todays-challenges-overcoming-uncertainty-in-ai-output-and-doubts-on-precision-insights-from-zdnet/"><u>Navigating Today's Challenges: Overcoming Uncertainty in AI Output & Doubts on Precision - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-polarization-shown-by-the-radiation-pattern-should-match-that-of-the-receiving-antenna-to-maximize-signal-reception-and-minimize-losses/"><u>The Polarization Shown by the Radiation Pattern Should Match that of the Receiving Antenna to Maximize Signal Reception and Minimize Losses.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-mastery-in-quick-writer-with-these-latest-copilot-updates-for-microsoft-365-expert-insights-from-zdnet/"><u>Unlocking Mastery in Quick Writer with These Latest Copilot Updates for Microsoft 365 - Expert Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-potential-of-ai-in-business-with-servicenow-understanding-the-four-critical-guiding-principles-insights-from-zdnet/"><u>Unlocking the Potential of AI in Business with ServiceNow: Understanding the Four Critical Guiding Principles - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsoft-must-fix-windows-10-issues-within-just-one-year-insights-from-zdnet/"><u>Urgent Challenge: Microsoft Must Fix Windows 10 Issues Within Just One Year - Insights From ZDNet</u></a></li>
 </ul></div>
 

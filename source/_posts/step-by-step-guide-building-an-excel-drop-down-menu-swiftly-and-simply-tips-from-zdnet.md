@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Building an Excel Drop-Down Menu Swiftly & Simply - Tips From ZDNet"
-date: 2024-10-17T20:50:43.566Z
-updated: 2024-10-24T01:48:27.303Z
+date: 2024-10-24T21:03:14.574Z
+updated: 2024-10-29T22:45:03.258Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,24 +181,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-crafting-charm-in-the-click-a-thumbnail-hack-for-youtube-shorts/"><u>[New] 2024 Approved Crafting Charm in the Click A Thumbnail Hack for YouTube Shorts</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-xsplit-archive-detailed-video-game-analyses/"><u>[Updated] In 2024, XSplit Archive Detailed Video Game Analyses</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726225411581-aacaiff-movavi/"><u>在线免费AAC到AIFF转换器 – 使用Movavi功能进行音频编码更改</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-ubuntu-2404-the-ultimate-combination-of-speed-and-security-in-the-latest-linux-distribution-zdnet/"><u>Discover Ubuntu 24.04: The Ultimate Combination of Speed and Security in the Latest Linux Distribution | ZDNet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/download-xvid-hd-full-resolution-movies-step-by-step-guide-2017-edition/"><u>Download Xvid HD Full-Resolution Movies - Step by Step Guide, 2017 Edition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/edit-pdf-documents-at-no-cost-with-google-docs-a-step-by-step-tutorial/"><u>Edit PDF Documents at No Cost with Google Docs: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/evolving-with-ubuntu-mastering-your-24-system-upgrade-journey-zdnet-insights/"><u>Evolving with Ubuntu: Mastering Your 24.# System Upgrade Journey | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-leading-screen-recording-solutions-review-by-techradar/"><u>Exploring the Leading Screen Recording Solutions : Review by TechRadar</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-new-google-nest-hubs-capabilities-an-overview-in-light-of-no-integrated-camera-technology/"><u>Exploring the New Google Nest Hub's Capabilities - An Overview in Light of No Integrated Camera Technology</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-ultra-phone-without-pin-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Ultra Phone without PIN</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-11-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 11 to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/g-youtube-audio-mp3s-easily-for-your-mac-for-2024/"><u>Making YouTube Audio MP3s Easily for Your Mac for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-gray-areas-of-ai-development-why-transparency-matters-more-than-ever/"><u>Navigating the Gray Areas of AI Development: Why Transparency Matters More Than Ever</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/quick-fix-mac-compatible-youtube-video-resize-for-2024/"><u>Quick Fix Mac-Compatible YouTube Video Resize for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rising-trend-of-low-code-and-no-code-development-its-impact-on-changing-tech-roles-discovered-with-zdnet/"><u>Rising Trend of Low-Code & No-Code Development: Its Impact on Changing Tech Roles - Discovered with ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-transformation-of-business-tech-tools-amidst-rising-ai-dominance-zdnet/"><u>The Future Transformation of Business Tech Tools Amidst Rising AI Dominance | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-next-evolution-in-coding-how-generative-ai-is-paving-the-way-from-low-code-to-no-code-systems/"><u>The Next Evolution in Coding: How Generative AI Is Paving the Way From Low-Code to No-Code Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-silent-launch-of-microsofts-new-tool-triggers-global-uproar-tech-news-insight/"><u>The Silent Launch of Microsoft's New Tool Triggers Global Uproar | Tech News Insight</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-30-cameras-frontal-screen-for-convenience/"><u>[New] In 2024, Top 30 Cameras Frontal Screen for Convenience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boost-your-visibility-with-a-cutting-edge-set-of-banners/"><u>[Updated] 2024 Approved Boost Your Visibility with a Cutting-Edge Set of Banners</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevate-streams-to-next-level-with-av1-on-youtube/"><u>[Updated] In 2024, Elevate Streams to Next Level with AV1 on YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unlock-clarity-in-photos-leading-10-online-edits-at-a-glance-for-2024/"><u>[Updated] Unlock Clarity in Photos Leading 10 Online Edits at a Glance for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-vlc-tutorial-the-art-of-video-angling/"><u>[Updated] VLC Tutorial The Art of Video Angling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-multimedia-with-pip-in-apple-browsers/"><u>2024 Approved Streamline Multimedia with PIP in Apple Browsers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/become-audio-prodigy-installing-vrecorder-made-ahead/"><u>Become Audio-Prodigy - Installing VRecorder Made Ahead</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-and-fair-evaluation-of-airwatch-your-ultimate-guide/"><u>Comprehensive and Fair Evaluation of AirWatch - Your Ultimate Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-factual-inshot-video-editing-tool-of-2024-a-must-see/"><u>Discover the Top Factual InShot Video Editing Tool of 2024 - A MUST-SEE!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-and-use-the-free-ogg-media-player-compatible-with-pc-and-mac/"><u>Download & Use the Free OGG Media Player Compatible with PC & Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-photography-skills-discover-5-remarkable-tools-for-upgrading-and-perfecting-images-beyond-remini/"><u>Elevate Your Photography Skills: Discover 5 Remarkable Tools for Upgrading and Perfecting Images Beyond Remini</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-vivo-s17-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo S17 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-13-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 13 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193087-ultimate-review-of-the-shotcut-app-unveil-its-features-and-benefits-now/"><u>Ultimate Review of the Shotcut App: Unveil Its Features and Benefits Now!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193647-unlock-ultimate-convenience-and-safety-on-ios-discover-the-premier-password-protector-app/"><u>Unlock Ultimate Convenience & Safety on iOS - Discover the Premier Password Protector App!</u></a></li>
 </ul></div>
 

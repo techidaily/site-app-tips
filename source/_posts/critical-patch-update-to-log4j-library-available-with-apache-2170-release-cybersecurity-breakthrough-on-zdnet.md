@@ -1,7 +1,7 @@
 ---
 title: Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET
-date: 2024-10-16T17:56:43.684Z
-updated: 2024-10-24T03:09:11.561Z
+date: 2024-10-26T00:10:15.913Z
+updated: 2024-10-29T22:07:28.208Z
 tags:
   - password-manager
 categories:
@@ -108,10 +108,10 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -189,22 +189,20 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-bare-essentials-for-relaxation/"><u>[New] Bare Essentials for Relaxation</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-premier-mp4-uploader-and-downloader-for-fb/"><u>[New] Premier MP4 Uploader & Downloader for FB</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-integration-by-one-third-of-marketing-teams-explored-insights-from-zdnet/"><u>AI Integration by One-Third of Marketing Teams Explored: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/aseans-transformative-digital-policies-propel-towards-a-2-trillion-tech-market-by-2030-insights-from-zdnet/"><u>ASEAN's Transformative Digital Policies Propel Towards a $2 Trillion Tech Market by 2030 - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-clicking-around-unveiling-the-future-of-uis-with-generative-ai-zdnet/"><u>Beyond Clicking Around: Unveiling the Future of UIs with Generative AI | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-for-singaporean-smes-equip-your-team-with-genai-skills-insights-from-zdnet/"><u>Comprehensive Guide for Singaporean SMEs: Equip Your Team with GenAI Skills - Insights From ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/deny-new-friend-recommendations-in-fb/"><u>Deny New Friend Recommendations in FB</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-sony-xperia-5-v-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Sony Xperia 5 V Android SIM Unlock APK</u></a></li>
-<li><a href="https://app-tips.techidaily.com/marketing-strategies-evolve-with-ai-how-many-are-on-board-an-analysis-by-zdnet/"><u>Marketing Strategies Evolve with AI: How Many Are on Board? An Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-start-with-understanding-your-companys-core-goals-insights-from-zdnet/"><u>Mastering Tech Team Leadership: Start with Understanding Your Company's Core Goals | Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/have-programs-for-youtube-video-downloads/"><u>Must-Have Programs for YouTube Video Downloads</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-methods-disconnected-graphics-card-wnvidia/"><u>Quick Fix Methods: Disconnected Graphics Card W/NVIDIA</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-essential-guide-to-speedy-windows-inspecting/"><u>The Essential Guide to Speedy Windows Inspecting</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-realme-gt-neo-5-se-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Realme GT Neo 5 SE</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-business-executives-doubt-it-reliability-insights-from-a-new-ibm-research-revealed-on-zdnet/"><u>Why Business Executives Doubt IT Reliability: Insights From a New IBM Research Revealed on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-recent-study-a-staggering-25-of-tech-workers-may-soon-seek-new-employment-opportunities/"><u>ZDNet's Recent Study: A Staggering 25% of Tech Workers May Soon Seek New Employment Opportunities</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-copyright-laws-and-screencasting-of-online-video-platforms-youtube/"><u>[New] In 2024, Copyright Laws and Screencasting of Online Video Platforms (YouTube)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-top-8-trending-youtube-videos-for-2024/"><u>[New] Top 8 Trending YouTube Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-discovering-the-enhanced-vision-in-samsung-galaxy-s8/"><u>[Updated] 2024 Approved Discovering the Enhanced Vision in Samsung Galaxy S8</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-gamer-income-tactics/"><u>[Updated] 2024 Approved Gamer Income Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-browser-safety-on-windows-11-with-the-implementation-of-defender-aguard/"><u>Boost Browser Safety on Windows 11 with the Implementation of Defender Aguard</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-passwords-under-control-at-half-price-save-big-now-only-50-off-keeper-manager-gizmonews/"><u>Get Your Passwords Under Control at Half Price! Save Big Now - Only 50% Off Keeper Manager | GizmoNews</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changefake-your-vivo-y100t-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo Y100t Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-windows-0x0000007b-critical-error-permanently/"><u>How to Fix Windows' 0X0000007B Critical Error Permanently</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-1password-a-high-value-investment-comprehensive-expert-evaluation-of-this-top-tier-password-solution-insights-from-tech-sector-leaders/"><u>Is 1Password a High-Value Investment? Comprehensive Expert Evaluation of This Top-Tier Password Solution - Insights From Tech Sector Leaders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-adventure-say-goodbye-to-apex-crashes/"><u>Seamless Adventure: Say Goodbye to Apex Crashes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-grab-3-months-of-dashlane-pro-password-management-for-just-1-with-zdnets-exclusive-offer/"><u>Secure Your Digital Life: Grab 3 Months of Dashlane Pro Password Management for Just $1 with ZDNet's Exclusive Offer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-the-cloud-dont-fall-victim-to-hacking-spot-and-fix-these-flaws-now-zdnet/"><u>Securing the Cloud: Don’t Fall Victim to Hacking - Spot and Fix These Flaws Now! | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/team-wide-security-at-just-1995month-discover-how-1password-transforms-password-management-tech-insights/"><u>Team-Wide Security at Just $19.95/Month: Discover How 1Password Transforms Password Management | Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-security-why-embracing-a-password-manager-is-essential-now-more-than-ever/"><u>Unlocking Security: Why Embracing a Password Manager Is Essential Now More Than Ever</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-people-favor-biometrics-over-passwords-due-to-memory-challenges-zdnet-analysis/"><u>Why People Favor Biometrics Over Passwords Due to Memory Challenges | ZDNet Analysis</u></a></li>
 </ul></div>
 

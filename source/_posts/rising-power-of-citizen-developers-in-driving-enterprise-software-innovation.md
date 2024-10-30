@@ -1,7 +1,7 @@
 ---
 title: Rising Power of Citizen Developers in Driving Enterprise Software Innovation
-date: 2024-10-21T01:02:13.916Z
-updated: 2024-10-23T23:16:11.317Z
+date: 2024-10-26T00:39:08.078Z
+updated: 2024-10-29T22:02:00.165Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +181,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-picks-video-grabbers-on-microsofts-os/"><u>[New] 2024 Approved Top Picks Video Grabbers on Microsoft's OS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-picks-streaming-tunes-directly-from-youtuberingtones/"><u>[New] Top Picks Streaming Tunes Directly From YoutubeRingtones</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-next-level-game-monitoring-software-beyond-the-fbx-standard/"><u>[Updated] 2024 Approved Next Level Game Monitoring Software Beyond the FBX Standard</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photo-booth-woes-why-videos-halt/"><u>2024 Approved Photo Booth Woes Why Videos Halt?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unlock-the-secrets-to-amazing-instagram-films/"><u>2024 Approved Unlock the Secrets to Amazing Instagram Films</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/a-closer-look-at-the-amazon-kindle-paperwhite-201n-improving-how-you-read-books-today/"><u>A Closer Look at the Amazon Kindle Paperwhite (201N) - Improving How You Read Books Today</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-rust-with-linux-creator-linus-torvalds-insights-on-his-work-habits-and-life-with-macbook-air-exclusive-coverage-from-zdnet/"><u>Exploring Rust with Linux Creator Linus Torvalds: Insights on His Work Habits and Life with MacBook Air | Exclusive Coverage From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/grounding-is-especially-critical-for-transmitting-antennas-due-to-the-high-power-involved-which-increases-the-risk-of-lightning-strikes-and-electrical-hazar80/"><u>Grounding Is Especially Critical for Transmitting Antennas Due to the High Power Involved, Which Increases the Risk of Lightning Strikes and Electrical Hazards.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-basic-editing-innovative-use-of-luts-for-photography/"><u>In 2024, Beyond Basic Editing Innovative Use of LUTs for Photography</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/in-depth-solutions-for-non-functional-speakers-in-windows-10-environments/"><u>In-Depth Solutions for Non-Functional Speakers in Windows 10 Environments</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-the-digital-shift-how-enterprise-architects-are-steering-change-zdnet/"><u>Leading the Digital Shift: How Enterprise Architects Are Steering Change | ZDNet</u></a></li>
-<li><a href="https://article-helps.techidaily.com/optimal-websites-to-increase-youtube-views-for-2024/"><u>Optimal Websites to Increase YouTube Views for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-hottest-developer-positions-and-rising-programming-languages-predictions-for-the-tech-industry-insights-from-zdnet/"><u>The Hottest Developer Positions & Rising Programming Languages: Predictions for the Tech Industry | Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-potential-of-ai-in-business-with-servicenow-understanding-the-four-critical-guiding-principles-insights-from-zdnet/"><u>Unlocking the Potential of AI in Business with ServiceNow: Understanding the Four Critical Guiding Principles - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsoft-must-fix-windows-10-issues-within-just-one-year-insights-from-zdnet/"><u>Urgent Challenge: Microsoft Must Fix Windows 10 Issues Within Just One Year - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ynamic-shots-infusing-energy-into-your-youtube-videos-for-2024/"><u>[New] Dynamic Shots Infusing Energy Into Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-20mb-video-seconds-breakdown/"><u>[New] In 2024, 20MB Video - Seconds Breakdown</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-captivating-your-network-streamlining-content-via-wirecast-to-facebook/"><u>[Updated] In 2024, Captivating Your Network Streamlining Content via Wirecast to Facebook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-navigating-audio-capture-in-minecraft-a-mac-experts-handbook/"><u>2024 Approved Navigating Audio Capture in Minecraft A Mac Expert's Handbook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-3ds-emulator-apps-top-picks-for-windows-mac-ios-and-android/"><u>Best Free 3DS Emulator Apps: Top Picks for Windows, Mac, iOS & Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-vsco-features-advantages-disadvantages-and-top-substitutes/"><u>Comprehensive Guide: Understanding VSCO – Features, Advantages, Disadvantages, and Top Substitutes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/streamlined-scheduling-combine-iphoneandroid-calendars-with-zoom/"><u>Streamlined Scheduling Combine iPhone/Android Calendars With Zoom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/swift-transfer-obtain-rs232-usb-drivers-at-lightning-speed/"><u>Swift Transfer: Obtain RS232-USB Drivers at Lightning Speed</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95683820-9781440529146-the-everything-love-signs-book/"><u>The Everything Love Signs Book | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-15-mobile-workout-apps-ideal-for-both-ios-and-android-devices/"><u>Top 15 Mobile Workout Apps: Ideal for Both iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-15-health-and-fitness-apps-compatible-with-apple-and-android-phones/"><u>Ultimate Selection of 15 Health and Fitness Apps Compatible with Apple & Android Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-the-mystery-of-the-bnsf-emulator-thorough-assessment-and-interpretation/"><u>Unraveling the Mystery of the BNSF Emulator: Thorough Assessment and Interpretation</u></a></li>
 </ul></div>
 

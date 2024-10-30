@@ -1,7 +1,7 @@
 ---
 title: "ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet"
-date: 2024-10-18T21:24:35.438Z
-updated: 2024-10-23T23:34:21.464Z
+date: 2024-10-28T16:32:45.304Z
+updated: 2024-10-30T00:20:46.096Z
 tags:
   - password-manager
 categories:
@@ -64,29 +64,28 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-save-money-with-the-right-youtube-tv-plan/"><u>[Updated] 2024 Approved How to Save Money with the Right YouTube TV Plan</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-obs-installation-and-usage-on-mac-systems/"><u>2024 Approved Mastering OBS Installation and Usage on Mac Systems</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-straightening-drone-shake-a-video-guide/"><u>2024 Approved Straightening Drone Shake A Video Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oneplus-12-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart OnePlus 12 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-users-perspective-on-senuti-software-with-ideal-substitutes-compatible-with-pc-and-apple-devices/"><u>A User's Perspective on Senuti Software with Ideal Substitutes Compatible with PC and Apple Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-huion-pen-tablet-programs-and-drivers-for-windows-operating-system/"><u>Compatible Huion Pen Tablet Programs & Drivers for Windows Operating System</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278148-discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-now-official-macxdvd-ultimate-toolkit-for-dvd-ripping-hd-video-conversion-and-seamless-data-transfer/"><u>Download Now: [OFFICIAL] MacXDVD Ultimate Toolkit for DVD Ripping, HD Video Conversion & Seamless Data Transfer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-back-online-three-quick-fixes-for-an-unresponsive-ipad-in-itunes-mode/"><u>Get Back Online: Three Quick Fixes for an Unresponsive iPad in iTunes Mode</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-completely-erase-irrelevant-applications-from-itunes-for-good/"><u>How To Completely Erase Irrelevant Applications From iTunes for Good</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x9b-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X9b to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-itunes-backups-essential-guide-and-step-by-step-tutorials/"><u>Mastering iTunes Backups: Essential Guide & Step-by-Step Tutorials</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-fixes-for-recovering-deleted-itunes-content-on-ios-and-macos/"><u>Quick Fixes for Recovering Deleted iTunes Content on iOS & macOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/reviving-lost-conversations-a-step-by-step-guide-to-recovering-deleted-messages-in-itunes/"><u>Reviving Lost Conversations: A Step-by-Step Guide to Recovering Deleted Messages in iTunes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/share-your-creations-from-imovie-directly-to-your-itunes-library/"><u>Share Your Creations From iMovie Directly to Your iTunes Library</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oppo-a38-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Oppo A38 Phone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-toms-hardware-mastery-in-depth-gadget-analyses/"><u>Unveiling Tom's Hardware Mastery: In-Depth Gadget Analyses</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-easy-access-to-10-free-official-passport-photos-webdesktop-available/"><u>[Updated] 2024 Approved Easy Access to 10 Free, Official Passport Photos - Web/Desktop Available</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-aptly-convert-speech-to-text-with-googles-innovative-tech/"><u>[Updated] In 2024, Aptly Convert Speech to Text with Google's Innovative Tech</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-twilight-to-night-iphone-photography-tips/"><u>[Updated] In 2024, Twilight to Night IPhone Photography Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-freememogen-your-guide-to-free-memes/"><u>2024 Approved FreeMemoGen Your Guide to FREE Memes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/database-comeback-a-sql-cosmos-manual/"><u>Database Comeback: A SQL Cosmos Manual</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/examining-the-sony-xperia-5-miniaturized-design-with-a-premium-cost/"><u>Examining the Sony Xperia 5: Miniaturized Design with a Premium Cost</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-quality-cameras-ideal-for-podcasts/"><u>High-Quality Cameras Ideal for Podcasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-essential-is-devops-for-staying-ahead-in-business-ensuring-safety-through-top-strategies-insights-from-zdnet/"><u>How Essential Is DevOps for Staying Ahead in Business: Ensuring Safety Through Top Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-major-cloud-services-aws-azure-and-google-cloud-for-a-hybrid-and-saas-strategy-insights-by-zdnet/"><u>In-Depth Analysis of Major Cloud Services: AWS, Azure, and Google Cloud for a Hybrid and SaaS Strategy | Insights by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-process-of-upgrading-your-system-to-ubuntu-2404-tips-and-tricks-from-zdnet/"><u>Mastering the Process of Upgrading Your System to Ubuntu 24.04: Tips and Tricks From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-corporate-drama-unveiled-by-zdnet/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown – Corporate Drama Unveiled by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/setting-up-libreoffice-preferences-seamlessly-convert-to-microsoft-office-formats/"><u>Setting Up LibreOffice Preferences: Seamlessly Convert to Microsoft Office Formats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-linus-torvalds-use-of-rust-for-linux-development-and-life-routines-with-m2-macbook-air-insights-from-zdnet-interview/"><u>Unveiling Linus Torvalds' Use of Rust for Linux Development and Life Routines with M2 MacBook Air | Insights From ZDNet Interview</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrade-mastery-overcoming-challenges-in-migrating-to-ubuntu-linux-2404-tips-featured-on-zdnet/"><u>Upgrade Mastery: Overcoming Challenges in Migrating to Ubuntu Linux 24.04 – Tips Featured on ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

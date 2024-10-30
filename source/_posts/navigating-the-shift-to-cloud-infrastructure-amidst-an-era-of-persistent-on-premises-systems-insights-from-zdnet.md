@@ -1,7 +1,7 @@
 ---
 title: Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET
-date: 2024-10-16T19:18:47.955Z
-updated: 2024-10-23T21:28:46.081Z
+date: 2024-10-27T18:31:27.611Z
+updated: 2024-10-29T22:57:50.944Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +181,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-the-11-key-insights-into-superior-color-adjustment-techniques/"><u>[New] Explore the 11 Key Insights Into Superior Color Adjustment Techniques</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/xpressive-youtube-aesthetics-at-no-cost/"><u>[New] Expressive YouTube Aesthetics at No Cost</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-advanced-transitions-techniques-for-audios/"><u>[New] In 2024, Advanced Transitions Techniques for Audios</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-night-photos-checklist-dos-and-donts-for-2024/"><u>[New] The Ultimate Night Photos Checklist Do's and Don'ts for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-navigating-board-usage-a-universal-guide-for-ios-android-and-windows-platforms/"><u>[Updated] 2024 Approved Navigating Board Usage A Universal Guide for iOS, Android & Windows Platforms</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unbeatable-ways-to-archive-lol-battles/"><u>[Updated] In 2024, Unbeatable Ways to Archive LOL Battles</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-agile-mastery-top-six-strategies-guaranteeing-success-in-software-development-with-agile-methods/"><u>1. Agile Mastery: Top Six Strategies Guaranteeing Success in Software Development with Agile Methods</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-your-audio-cues-with-ease-windows-and-os-x-guide-to-srt/"><u>2024 Approved Unlock Your Audio Cues with Ease Windows & OS X Guide to SRT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bloomberg-reveals-major-growth-in-enterprise-ai-initiatives-according-to-zdnet-research/"><u>Bloomberg Reveals Major Growth in Enterprise AI Initiatives, According to ZDnet Research</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-future-5-alternatives-for-your-windows-10-device-as-microsoft-phases-out-support/"><u>Facing the Future: 5 Alternatives for Your Windows 10 Device as Microsoft Phases Out Support</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-organize-and-categorize-messages-in-gmail-with-labels/"><u>How to Organize & Categorize Messages in Gmail with Labels</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-m34-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy M34 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://app-tips.techidaily.com/redefining-development-the-role-of-generative-ai-in-transforming-low-code-into-a-seamless-no-code-experience-zdnet-insights/"><u>Redefining Development: The Role of Generative AI in Transforming Low Code Into a Seamless No Code Experience | ZDNET Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-key-software-tools-for-your-pc-or-mac-according-to-zdnet-experts/"><u>The Ultimate List of Key Software Tools for Your PC or Mac, According to ZDNet Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-recommended-web-hosts-of-2024-comprehensive-expert-analysis-and-rankings-techradar/"><u>Top Recommended Web Hosts of 2024: Comprehensive Expert Analysis & Rankings - TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/upgrade-mastery-overcoming-challenges-in-migrating-to-ubuntu-linux-2404-tips-featured-on-zdnet/"><u>Upgrade Mastery: Overcoming Challenges in Migrating to Ubuntu Linux 24.04 – Tips Featured on ZDNET</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-crisis-looms-for-microsoft-only-a-year-remaining-to-address-major-issues-insights-from-zdnet/"><u>Windows 11 Crisis Looms for Microsoft - Only a Year Remaining to Address Major Issues | Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-crisis-looms-large-for-microsoft-with-just-one-year-to-fix-major-issues-expert-insight/"><u>Windows 11 Crisis Looms Large for Microsoft with Just One Year to Fix Major Issues | Expert Insight</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-osblend-the-vmix-alternative/"><u>[New] In 2024, OSBlend The VMix Alternative</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-boosting-narrative-pace-in-vlogging-through-jump-cuts/"><u>[Updated] Boosting Narrative Pace in Vlogging Through Jump Cuts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-the-art-of-steadiness-in-imaging/"><u>[Updated] Master the Art of Steadiness in Imaging</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-cineblend-app-seamless-video-mashups-for-instagram/"><u>2024 Approved CineBlend App Seamless Video Mashups for Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-greatest-12-locations-to-enjoy-free-cinema-online/"><u>Discover the Greatest 12 Locations to Enjoy Free Cinema Online</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-free-mobile-radio-player-on-apple-devices-iphoneipadipod-touch/"><u>Discover the Ultimate Free Mobile Radio Player on Apple Devices (iPhone/iPad/iPod Touch)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discovering-concealed-ios-applications-a-comprehensive-guide/"><u>Discovering Concealed iOS Applications: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-evaluation-the-picku-application-and-comparable-no-cost-image-editing-solutions/"><u>Expert Evaluation: The PickU Application & Comparable No-Cost Image Editing Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-editors-guide-to-powerful-notebooks-and-more/"><u>In 2024, The Editor's Guide to Powerful Notebooks and More</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-tips-effective-techniques-to-preserve-all-your-iphone-app-data/"><u>Quick Tips: Effective Techniques to Preserve All Your iPhone App Data</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-sites-navigating-facebook-twitter-insta-and-youtube/"><u>The Quintessential Social Media Sites: Navigating Facebook, Twitter, Insta, and Youtube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/ultimate-guide-11-seo-strategies-for-youtube-video-ranking-for-2024/"><u>Ultimate Guide 11 SEO Strategies for YouTube Video Ranking for 2024</u></a></li>
 </ul></div>
 

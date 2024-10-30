@@ -1,7 +1,7 @@
 ---
 title: Easily Transition Your Saved Passwords From LastPass to iCloud for Windows Systems | ZDNet
-date: 2024-10-16T21:14:37.425Z
-updated: 2024-10-23T16:13:55.409Z
+date: 2024-10-25T19:41:35.786Z
+updated: 2024-10-29T18:33:18.357Z
 tags:
   - password-manager
 categories:
@@ -32,10 +32,10 @@ If you've been around for the past 10 or so years, you know that most services r
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use iCloud as a password manager on Windows
@@ -61,10 +61,10 @@ Sign in with your Apple ID and password.
 Image: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Make sure Passwords is on and click Apply
@@ -88,10 +88,10 @@ Maria Diaz/ZDNET
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
@@ -124,22 +124,16 @@ Like LastPass, the browser extension will let you fill in your login information
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do you get iCloud for Windows?  
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How do I set up iCloud Keychain? 
 
@@ -181,18 +175,19 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-uncharted-film-hits-of-2023/"><u>[New] In 2024, Uncharted Film Hits of 2023</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-mastering-personal-branding-essential-strategies-for-facebook-bio-crafting/"><u>[New] Mastering Personal Branding Essential Strategies for Facebook Bio Crafting</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-unlocking-the-secrets-of-youtubes-shorts-revenue-sharing/"><u>2024 Approved Unlocking the Secrets of YouTube’s Shorts Revenue Sharing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/all-in-one-microsoft-experience-bridging-work-life-and-study-with-the-latest-teams-update-on-zdnet/"><u>All-in-One Microsoft Experience: Bridging Work, Life, and Study with the Latest Teams Update on ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722858612662-can-you-send-and-receive-imessages-from-android-find-out-here/"><u>Can You Send and Receive iMessages From Android? Find Out Here!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/developing-your-ideal-diet-crafting-nutritious-menus-with-chatgpt/"><u>Developing Your Ideal Diet: Crafting Nutritious Menus with ChatGPT</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-overcome-iphone-synchronization-issues-with-itunes-error-code-54-after-upgrading-to-windows-10/"><u>How to Overcome iPhone Synchronization Issues with iTunes Error Code '-54' After Upgrading to Windows 10</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-recent-patch-might-escalate-evening-tech-woes-experts-at-zdnet-caution/"><u>Microsoft's Recent Patch Might Escalate Evening Tech Woes, Experts at ZDNet Caution</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/quintessential-radio-narrative-craftsmanship/"><u>Quintessential Radio Narrative Craftsmanship</u></a></li>
-<li><a href="https://app-tips.techidaily.com/raising-the-profile-of-it-in-cx-initiatives-strategies-for-success-a-deep-dive-by-zdnet/"><u>Raising the Profile of IT in CX Initiatives: Strategies for Success - A Deep Dive by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simplifying-systems-management-red-hats-strategic-use-of-ai-to-support-administrators-zdnet/"><u>Simplifying Systems Management: Red Hat's Strategic Use of AI to Support Administrators | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-leading-iam-tools-as-ranked-by-industry-experts/"><u>The Ultimate Guide to Leading IAM Tools , as Ranked by Industry Experts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726223533872-movavi/"><u>최첨단 Movavi 비디오 툴: 다양한 파일 형식으로의 깨끗한 캐시화 기술</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweeting-and-tumbling-sharing-videos-seamlessly/"><u>[New] Tweeting & Tumbling Sharing Videos Seamlessly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-best-8-linux-platforms-for-video-mastery/"><u>2024 Approved Best 8 Linux Platforms for Video Mastery</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-steps-removing-redundant-songs-from-your-itunes-library/"><u>Easy Steps: Removing Redundant Songs From Your iTunes Library</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-favorite-songs-and-movies-for-free-directly-from-itunes-no-cost-at-all/"><u>Get Your Favorite Songs and Movies for Free Directly From iTunes – No Cost at All</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-reno-11-pro-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo Reno 11 Pro 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-infinix-smart-8-hd-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Infinix Smart 8 HD Phone Hassle-Free</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-gt-neo-5-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme GT Neo 5 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-social-media-friend-trap-on-facebook/"><u>Navigating the Social Media Friend Trap on Facebook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revive-your-ipad-top-3-strategies-to-restore-connectivity-with-itunes/"><u>Revive Your iPad: Top 3 Strategies to Restore Connectivity with iTunes</u></a></li>
+<li><a href="https://windows11.techidaily.com/testing-your-mic-a-windows-procedure/"><u>Testing Your Mic: A Windows Procedure</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-effective-tips-for-when-itunes-refuses-to-start-up/"><u>Troubleshooting Guide: Effective Tips for When iTunes Refuses to Start Up</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-how-to-fix-apple-music-not-syncing-to-your-iphone-ipad-or-ipod/"><u>Troubleshooting: How to Fix Apple Music Not Syncing to Your iPhone, iPad or iPod</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tenfold Surge in Artifice Intelligence Initiatives This Year, Confirms ZDNet Insight Survey
-date: 2024-10-23T02:59:00.997Z
-updated: 2024-10-24T00:02:47.146Z
+date: 2024-10-27T19:58:43.445Z
+updated: 2024-10-29T18:28:26.203Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,17 +181,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-transitioning-from-imovie-editing-suite-to-youtube-showcase/"><u>[Updated] 2024 Approved Transitioning From iMovie Editing Suite to YouTube Showcase</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-x-recorder-software-efficient-pc-sound-recording-for-2024/"><u>[Updated] X-Recorder Software Efficient PC Sound Recording for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-version-canon-pixma-ts3322-printer-drivers/"><u>Download the Latest Version: Canon PIXMA TS3322 Printer Drivers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-inside-the-latest-youtube-income-regulations/"><u>In 2024, Inside the Latest YouTube Income Regulations</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-honor-magic-6-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Honor Magic 6 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/in-depth-guide-to-overcoming-resident-evil-village-lag-issues-for-pc-players/"><u>In-Depth Guide to Overcoming Resident Evil Village Lag Issues for PC Players</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-the-latest-enhancement-juniper-networks-integrated-cloud-firewall-into-its-sase-solution-for-optimized-cybersecurity/"><u>Introducing the Latest Enhancement: Juniper Network's Integrated Cloud Firewall Into Its SASE Solution for Optimized Cybersecurity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigate-files-easily-on-windows-11-a-comprehensive-help-for-file-explorer-users/"><u>Navigate Files Easily on Windows 11 - A Comprehensive Help for File Explorer Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-the-underdog-how-a-simple-app-challenges-mcdonalds-dominance-insights-from-zdnet/"><u>The Rise of the Underdog: How a Simple App Challenges McDonald's Dominance - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/times-running-out-for-microsoft-the-impending-crisis-over-windows-10-requires-immediate-action-zdnet/"><u>Time's Running Out for Microsoft: The Impending Crisis Over Windows 10 Requires Immediate Action [ZDNet]</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-lava-blaze-2-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Lava Blaze 2 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-ending-maintenance-in-a-year-explore-these-5-alternatives-now/"><u>Windows 11 Ending Maintenance in a Year - Explore These 5 Alternatives Now!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-comprehensive-reference-for-efficient-screenshotting-with-zd-softwares-tools/"><u>[New] Comprehensive Reference for Efficient Screenshotting with ZD Software's Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-leading-10-image-cataloging-applications-for-both-windows-and-mac-systems-a-comprehensive-ranking-guide/"><u>Discover the Leading 10 Image Cataloging Applications for Both Windows & Mac Systems: A Comprehensive Ranking Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-8-ultimate-free-fax-applications-for-your-android-device/"><u>Discover the Top 8 Ultimate Free Fax Applications for Your Android Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-key-understanding-of-online-narration-art/"><u>In 2024, Key Understanding of Online Narration Art</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ipad-timelapse-essentials-for-beginners-for-2024/"><u>IPad Timelapse Essentials for Beginners for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-idevice-software-challenges-tips-for-successful-ios-upgrades/"><u>Solving iDevice Software Challenges: Tips for Successful iOS Upgrades</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210380502-9781737410614-the-fun-of-dying/"><u>The Fun of Dying | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-the-top-6-iphone-apps-to-restore-your-lost-memories/"><u>Ultimate Guide: The Top 6 iPhone Apps to Restore Your Lost Memories</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-vivo-v30-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo V30 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-premiere-pro-transition-essentials-top-10-plugins-you-need/"><u>Updated 2024 Approved Premiere Pro Transition Essentials Top 10 Plugins You Need</u></a></li>
 </ul></div>
 

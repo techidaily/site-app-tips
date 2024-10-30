@@ -1,7 +1,7 @@
 ---
 title: "The Future of Artificial Intelligence: Projected Breakthroughs in the Coming Years - ZDNet"
-date: 2024-10-21T23:12:58.409Z
-updated: 2024-10-23T19:54:09.506Z
+date: 2024-10-25T16:03:16.470Z
+updated: 2024-10-30T00:35:01.708Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +187,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-image-borders-in-instagram-photography-for-2024/"><u>[Updated] Mastering Image Borders in Instagram Photography for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-navigating-social-media-streams-iphone-and-android-best-practices-for-2024/"><u>[Updated] Navigating Social Media Streams IPhone & Android Best Practices for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-stealthy-stroll-through-facebook-episodes/"><u>[Updated] Stealthy Stroll Through Facebook Episodes</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-unleashing-androids-audio-potential-mastering-the-art-of-ringtones-and-sounds-for-2024/"><u>[Updated] Unleashing Android's Audio Potential Mastering the Art of Ringtones & Sounds for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bluetooth-connected-but-silent-discover-solutions-for-bringing-back-sound/"><u>Bluetooth Connected but Silent - Discover Solutions for Bringing Back Sound</u></a></li>
-<li><a href="https://app-tips.techidaily.com/devops-engineer-career-navigating-the-pros-cons-and-challenges-insights-from-zdnet/"><u>DevOps Engineer Career: Navigating the Pros, Cons, and Challenges – Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/five-alternatives-to-explore-as-microsofts-support-for-windows-10-concludes-insights-from-zdnet/"><u>Five Alternatives to Explore as Microsoft's Support for Windows 10 Concludes - Insights From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-key-plus-shift-plus-s-shortcut-problems-in-windows-operating-systems/"><u>How to Resolve Windows Key + Shift + S Shortcut Problems in Windows Operating Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Sony Xperia 5 V? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/interference-reduction/"><u>Interference Reduction</u></a></li>
-<li><a href="https://app-tips.techidaily.com/motion-detection/"><u>Motion Detection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-industry-with-xr-the-role-of-digital-twins-in-advanced-user-experience-expert-analysis-by-zdnet/"><u>Revolutionizing Industry with XR: The Role of Digital Twins in Advanced User Experience | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-ultimate-guide-to-time-lapse-video-editing-software-for-2024/"><u>The Ultimate Guide to Time-Lapse Video Editing Software for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-compelling-benefits-of-adopting-aiops-insights-from-zdnet/"><u>Top 7 Compelling Benefits of Adopting AIOps: Insights From ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instagrams-puzzling-video-turning-behavior/"><u>[New] Instagram's Puzzling Video Turning Behavior</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ultimate-metrics-guide-to-monetize-and-mobilize-youtube-audiences/"><u>[Updated] In 2024, The Ultimate Metrics Guide to Monetize and Mobilize YouTube Audiences</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-youtube-srt-extracts-a-triad-approach-for-2024/"><u>[Updated] Mastering YouTube SRT Extracts A Triad Approach for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-standout-vr-film-highlights-to-discover-for-2024/"><u>[Updated] Standout VR Film Highlights to Discover for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-roadmap-to-youtube-stardom-with-1000plus-followers/"><u>2024 Approved The Roadmap to YouTube Stardom with 1000+ Followers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-incorporate-your-podcast-into-app-store/"><u>In 2024, How To Incorporate Your Podcast Into App Store</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-5-ai-technologies-for-transforming-grayscale-videos-into-full-color-masterpieces/"><u>Leading 5 AI Technologies for Transforming Grayscale Videos Into Full Color Masterpieces</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-3-video-to-text-conversion-software-a-comprehensive-guide/"><u>Top 3 Video-to-Text Conversion Software: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-substitutes-for-elevenlabs-explored-detailed-comparison-and-key-characteristics/"><u>Top 5 Substitutes for ElevenLabs Explored: Detailed Comparison and Key Characteristics</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-superior-substitutes-to-zapier-enhance-your-workflow-automation/"><u>Top 5 Superior Substitutes to Zapier: Enhance Your Workflow Automation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-exceptional-no-limit-character-ai-solutions-for-dynamic-experiences/"><u>Unveiling Exceptional No-Limit Character AI Solutions for Dynamic Experiences</u></a></li>
 </ul></div>
 

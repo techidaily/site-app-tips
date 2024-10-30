@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses Artificial Intelligence & Embracing Rust in Computing | Tech Insights on ZDNet
-date: 2024-10-16T20:21:13.173Z
-updated: 2024-10-24T00:38:52.009Z
+date: 2024-10-27T22:03:07.963Z
+updated: 2024-10-29T16:49:14.804Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +187,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-audio-recording-made-easy-free-x-recorder-for-pc-for-2024/"><u>[New] Audio Recording Made Easy Free X-Recorder for PC for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-dusk-to-dawn-iphone-night-photography-essentials/"><u>[Updated] In 2024, Dusk to Dawn IPhone Night Photography Essentials</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-essential-guide-to-action-screening-saving/"><u>[Updated] In 2024, Essential Guide to Action Screening Saving</u></a></li>
-<li><a href="https://app-tips.techidaily.com/achieving-excellence-in-agile-software-engineering-unveiling-the-6-key-principles-for-a-thriving-design-process/"><u>Achieving Excellence in Agile Software Engineering: Unveiling the 6 Key Principles for a Thriving Design Process</u></a></li>
-<li><a href="https://app-tips.techidaily.com/anticipating-windows-12-release-latest-updates-and-unexpected-forecasts-techinsights/"><u>Anticipating Windows 12 Release: Latest Updates & Unexpected Forecasts | TechInsights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-development-process-with-generative-ai-tips-for-success-and-potential-hazards/"><u>Boost Your Development Process with Generative AI - Tips for Success & Potential Hazards</u></a></li>
-<li><a href="https://win-top.techidaily.com/die-einfachsten-schritte-um-bilder-von-android-direkt-auf-ihr-ios-gerat-zu-ubertragen/"><u>Die Einfachsten Schritte, Um Bilder Von Android Direkt Auf Ihr iOS-Gerät Zu Übertragen</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-vivaldis-new-inbuilt-email-application-a-marvel-of-efficiency-and-style-tech-insights/"><u>Discover Vivaldi’s New Inbuilt Email Application: A Marvel of Efficiency and Style | Tech Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-why-aiops-matters-7-key-points-backed-by-zdnets-research/"><u>Discover Why AIOps Matters: 7 Key Points Backed by ZDNet's Research</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/smart-video-alteration-for-mac-users-seeking-insta-perfect-posts/"><u>Smart Video Alteration for Mac Users Seeking Insta-Perfect Posts</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ultimate-guide-to-free-image-redundancy-applications-compatible-with-all-windows-os-windows-7-to-11/"><u>Ultimate Guide to Free Image Redundancy Applications Compatible with All Windows OS (Windows 7 to 11)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleashing-corporate-potential-through-ai-discover-anthropics-claude-for-scalable-innovation/"><u>Unleashing Corporate Potential Through AI: Discover Anthropic's Claude for Scalable Innovation</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-listening-windows-episode-releases/"><u>[New] Prime Listening Windows Episode Releases</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-breaking-down-the-font-inclusion-process-in-ae/"><u>[Updated] Breaking Down the Font Inclusion Process in AE</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-stealthy-facebook-video-navigator/"><u>[Updated] Stealthy Facebook Video Navigator</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-future-of-3d-color-grading-tools/"><u>2024 Approved The Future of 3D Color Grading Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unraveling-the-purpose-of-facebooks-blue-messenger-emblem/"><u>2024 Approved Unraveling the Purpose of Facebook's Blue Messenger Emblem</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-20-most-popular-bluetooth-enabled-multiplayer-games-on-phones-and-tablets/"><u>Discover the Top 20 Most Popular Bluetooth-Enabled Multiplayer Games on Phones & Tablets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-6-imovie-substitutes-for-your-android-smartphones-video-edits/"><u>Discover the Ultimate 6 iMovie Substitutes for Your Android Smartphone's Video Edits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-the-ultimate-free-audiobook-library-now-compatible-with-ios-and-android-devices/"><u>Download the Ultimate Free Audiobook Library Now - Compatible with iOS & Android Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-depths-of-the-wasteland-2-enhanced-edition-your-guide-to-this-riveting-crpg-revival/"><u>Exploring the Depths of 'The Wasteland 2: Enhanced Edition' - Your Guide to This Riveting CRPG Revival</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-started-with-tango-step-by-step-instructions-for-downloading-video-chatting-app/"><u>Get Started With Tango - Step-by-Step Instructions For Downloading Video Chatting App</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/retro-reviver-software-for-2024/"><u>Retro Reviver Software for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-best-free-morning-motivators-unique-alarm-apps-for-an-easy-start/"><u>Top 10 Best FREE Morning Motivators: Unique Alarm Apps for an Easy Start</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-6-essential-iphone-apps-for-restoring-lost-contact-information/"><u>Top 6 Essential iPhone Apps for Restoring Lost Contact Information</u></a></li>
 </ul></div>
 

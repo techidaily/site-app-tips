@@ -1,7 +1,7 @@
 ---
 title: "How Hackers Are Capitalizing on the Pandemic: A Deep Dive Into Attacks Against US Universities Amidst Omicron Concerns | Reported by ZDNET"
-date: 2024-10-18T21:16:55.935Z
-updated: 2024-10-23T20:44:39.527Z
+date: 2024-10-24T18:02:38.117Z
+updated: 2024-10-29T17:49:02.435Z
 tags:
   - password-manager
 categories:
@@ -88,25 +88,26 @@ By entering under the guise of a legitimate user, the attacker has a greater cha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-final-act-steps-for-permanent-instagram-account-removal/"><u>[Updated] In 2024, The Final Act Steps for Permanent Instagram Account Removal</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-techniques-to-prevent-dropouts-in-obs-studio/"><u>2024 Approved Techniques to Prevent Dropouts in OBS Studio</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-to-the-rescue-shielding-it-specialists-from-overwork-and-alert-exhaustion-with-cutting-edge-solutions-zdnet/"><u>AI to the Rescue! Shielding IT Specialists From Overwork and Alert Exhaustion with Cutting-Edge Solutions | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-artificial-intelligence-slow-down-expansion-in-cybersecurity-careers-zdnet-insights/"><u>Can Artificial Intelligence Slow Down Expansion in Cybersecurity Careers? | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-driver-installation-grab-your-usb-camera-software-today/"><u>Effortless Driver Installation: Grab Your USB Camera Software Today</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-poco-m6-pro-4g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Poco M6 Pro 4G to iPod | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-talent-release-form-for-filming-and-video-to-free-download/"><u>In 2024, Talent Release Form for Filming and Video to Free Download</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/language-architecture-showdown-deciphering-gpt-and-bert-mechanics/"><u>Language Architecture Showdown: Deciphering GPT and BERT Mechanics</u></a></li>
-<li><a href="https://app-tips.techidaily.com/reviving-tech-talent-how-artificial-intelligence-combats-job-burnout-and-warning-tiredness-for-it-professionals-zdnet/"><u>Reviving Tech Talent: How Artificial Intelligence Combats Job Burnout & Warning Tiredness for IT Professionals | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamless-ai-synthesis-realized-engage-with-your-organizations-chief-tech-architect-zdnet/"><u>Seamless AI Synthesis Realized - Engage with Your Organization’s Chief Tech Architect | ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-wired-connection-problems-in-windows-11-and-7-a-comprehensive-guide/"><u>Solving Wired Connection Problems in Windows 11 and 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-now-16-t-trillion-non-cash-deals-dominated-by-asia-insights-from-zdnet/"><u>The Future Is Now: 1.6 T Trillion Non-Cash Deals Dominated by Asia | Insights From ZDNET</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-top-8-ios-and-pc-tools-for-effortlessly-altering-your-videos/"><u>[New] 2024 Approved Top 8 iOS & PC Tools for Effortlessly Altering Your Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-seeing-my-friends-video-and-pics-on-chat-apps/"><u>[New] Seeing My Friends' Video and Pics on Chat Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-effortless-media-transition-from-mp3-to-youtube-video-posting/"><u>[Updated] Effortless Media Transition From MP3 to YouTube Video Posting</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-expert-pick-websites-showcasing-hd-sky-shots/"><u>2024 Approved Expert Pick Websites Showcasing HD Sky Shots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-efficiency-with-these-proven-strategies-in-daily-project-management-tips-shared-on-zdnet/"><u>Boost Efficiency with These Proven Strategies in Daily Project Management – Tips Shared on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/career-advancement-in-tech-with-top-strategies-used-by-the-worlds-biggest-aerospace-enterprises-zdnet/"><u>Career Advancement in Tech with Top Strategies Used by the World's Biggest Aerospace Enterprises | ZDNET</u></a></li>
+<li><a href="https://win-great.techidaily.com/come-ripristinare-il-tuo-sistema-operativo-una-guida-completa/"><u>Come Ripristinare Il Tuo Sistema Operativo: Una Guida Completa</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-7-hdmi-audio-issues-a-comprehensive-guide/"><u>Fixing Windows 7 HDMI Audio Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xlb-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xlb file document online</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-artificial-intelligence-and-embracing-rust-in-computing-tech-insights-on-zdnet/"><u>Linus Torvalds Discusses Artificial Intelligence & Embracing Rust in Computing | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1723262402976-secure-a-high-performance-gaming-pc-with-an-rtx-3080-for-only-2091-avail-lenovos-deal-now/"><u>Secure a High-Performance Gaming PC with an RTX 3,080 for Only $2,091 - Avail Lenovo's Deal Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tenfold-surge-in-artifice-intelligence-initiatives-this-year-confirms-zdnet-insight-survey/"><u>Tenfold Surge in Artifice Intelligence Initiatives This Year, Confirms ZDNet Insight Survey</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-ultimate-guide-to-mastering-the-top-30-essential-rules-of-email-etiquette-with-massmail/"><u>The Ultimate Guide to Mastering the Top 30 Essential Rules of Email Etiquette with MassMail</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-encryption-tools-of-2022-secure-your-digital-information-with-expert-reviews-from-zdnet/"><u>Top-Rated Encryption Tools of 2022: Secure Your Digital Information with Expert Reviews From ZDNet</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

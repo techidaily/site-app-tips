@@ -1,7 +1,7 @@
 ---
 title: "Securing the Cloud: Don’t Fall Victim to Hacking - Spot and Fix These Flaws Now! | ZDNet"
-date: 2024-10-21T20:37:43.660Z
-updated: 2024-10-24T01:39:40.957Z
+date: 2024-10-25T18:08:57.315Z
+updated: 2024-10-29T17:00:21.986Z
 tags:
   - password-manager
 categories:
@@ -112,10 +112,10 @@ Analysis of identity and access management (IAM) polices taking into account hun
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -136,10 +136,10 @@ Another practice that isn't helping IT departments is [poor password security](h
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### special feature
@@ -159,10 +159,10 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -188,22 +188,17 @@ IT departments should also consider whether regular accounts need administrator 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-navigating-towards-excellent-free-photography-choices/"><u>[New] In 2024, Navigating Towards Excellent Free Photography Choices</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-cross-platform-players-top-10-open-source-selections/"><u>[Updated] Cross-Platform Players Top 10 Open Source Selections</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-eye-on-the-social-scene-top-tweets-of-2023-for-2024/"><u>[Updated] Eye on the Social Scene Top Tweets of 2023 for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-utilmate-guide-15-tips-to-become-instagram-famous-fast-and-easy/"><u>[Updated] Utilmate Guide 15 Tips to Become Instagram Famous Fast and Easy</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-debunking-common-fallacies-in-data-commerce-insights-from-zdnet/"><u>1. Debunking Common Fallacies in Data Commerce: Insights From ZDNet</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-disappear-red-eye-effect-on-iphone-images-at-no-charge/"><u>2024 Approved Disappear Red Eye Effect on iPhone Images at No Charge</u></a></li>
-<li><a href="https://app-tips.techidaily.com/40-of-technology-sector-employees-ponder-career-moves-according-to-recent-zdnet-poll/"><u>40% of Technology Sector Employees Ponder Career Moves, According to Recent ZDNet Poll</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-itel-a60-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Itel A60 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-artificial-intelligence-discover-fresh-job-designations-shaping-tomorrows-workforce-revealed-by-zdnet/"><u>Beyond Artificial Intelligence - Discover Fresh Job Designations Shaping Tomorrow's Workforce, Revealed by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-numbers-and-analytics-how-tech-professionals-can-embrace-person-to-person-communication-for-better-outcomes/"><u>Beyond Numbers and Analytics: How Tech Professionals Can Embrace Person-to-Person Communication for Better Outcomes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-sustainable-innovation-singapores-push-for-financing-ai-and-green-tech/"><u>Boosting Sustainable Innovation: Singapore's Push for Financing AI & Green Tech</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/tribe-50-branding-banners-ready-to-unleash-for-2024/"><u>Free Tribe 50 Branding Banners Ready to Unleash for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/moving-beyond-rote-programming-how-artificial-intelligence-is-revolutionizing-software-development-insights-from-zdnet/"><u>Moving Beyond Rote Programming: How Artificial Intelligence Is Revolutionizing Software Development - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-roadblocks-in-artificial-intelligence-for-substantial-business-gains-insights-from-zdnet/"><u>Navigating Roadblocks in Artificial Intelligence for Substantial Business Gains – Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/professional-privacy-protection-tips-for-utilizing-chatgpt-tools-at-work/"><u>Professional Privacy Protection Tips for Utilizing ChatGPT Tools at Work</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-invisible-recorder-how-to-save-online-music-streams-for-2024/"><u>The Invisible Recorder How to Save Online Music Streams for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Ranked Web Hosting Providers : Comprehensive Testing & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-step-into-the-world-of-slowed-motion-a-comprehensive-ig-reel-guide/"><u>[New] 2024 Approved Step Into the World of Slowed-Motion A Comprehensive IG Reel Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unlocking-the-secrets-of-high-quality-twitch-broadcasts/"><u>[New] 2024 Approved Unlocking the Secrets of High-Quality Twitch Broadcasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comparing-the-best-in-class-for-4k-screen-reality/"><u>[Updated] Comparing the Best in Class for 4K Screen Reality</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-seamless-techniques-for-swift-removal-of-your-youtube-comments/"><u>[Updated] In 2024, Seamless Techniques for Swift Removal of Your Youtube Comments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-offline-speech-to-text-transcription-apps/"><u>2024 Approved Top Offline Speech-to-Text Transcription Apps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/comprehensive-support-pack-officejet-pro-8600-windows-edition/"><u>Comprehensive Support Pack: Officejet Pro 8600, Windows Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/immortals-of-ancient-greece-fenyxs-journey-finally-launches-after-initial-hurdles/"><u>Immortals of Ancient Greece: Fenyx's Journey Finally Launches After Initial Hurdles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-of-icloud-keychain-functionality-and-retrieving-your-data-on-iphone/"><u>The Ultimate Walkthrough of iCloud Keychain Functionality & Retrieving Your Data on iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-4-methods-for-effortlessly-transferring-your-iphone-photos-to-icloud-a-complete-guide/"><u>Top 4 Methods for Effortlessly Transferring Your iPhone Photos to iCloud: A Complete Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-router-solutions-with-built-in-parental-controls/"><u>Top-Rated Router Solutions with Built-In Parental Controls</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-step-by-step-guide-how-to-effortlessly-backup-and-sync-your-iphone-with-icloud/"><u>Ultimate Step-by-Step Guide: How to Effortlessly Backup and Sync Your iPhone with iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-icloud-keychain-a-complete-guide-to-unlocking-your-iphones-secure-storage/"><u>Understanding iCloud Keychain: A Complete Guide to Unlocking Your iPhone's Secure Storage</u></a></li>
 </ul></div>
 

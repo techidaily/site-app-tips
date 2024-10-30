@@ -1,7 +1,7 @@
 ---
 title: "Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims"
-date: 2024-10-18T17:31:23.056Z
-updated: 2024-10-23T22:30:39.330Z
+date: 2024-10-26T19:52:27.952Z
+updated: 2024-10-29T20:19:02.130Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,16 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -61,10 +67,10 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -121,16 +127,20 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-how-to-elevate-your-live-experience-top-10-choices/"><u>[New] 2024 Approved How to Elevate Your Live Experience Top 10 Choices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-sound-surprises-10-androidios-audio-twisters/"><u>[Updated] Sound Surprises 10 Android/iOS Audio Twisters</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-ae-lifesavers-budget-friendly-template-assortment/"><u>2024 Approved AE Lifesavers Budget-Friendly Template Assortment</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-tools-to-bypass-lock-screeny02t-by-drfone-android-unlock-android-unlock/"><u>Bypass Tools to Bypass Lock Screen(Y02T)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-deeplucas-ai-powered-video-creation-tool-unveiling-key-attributes-and-benefits-vs-drawbacks/"><u>Comprehensive Analysis of DeepLucas' AI-Powered Video Creation Tool - Unveiling Key Attributes & Benefits vs Drawbacks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-top-5-ai-powered-video-creation-tools-based-on-images/"><u>Comprehensive Evaluation: Top 5 AI-Powered Video Creation Tools Based on Images</u></a></li>
-<li><a href="https://app-tips.techidaily.com/decoding-sora-by-openai-key-features-practical-applications-and-potential-restrictions/"><u>Decoding Sora by OpenAI: Key Features, Practical Applications, and Potential Restrictions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-leading-4-web-apps-to-eliminate-artificial-intelligence-branding-in-videos/"><u>Discover the Leading 4 Web Apps to Eliminate Artificial Intelligence Branding in Videos</u></a></li>
-<li><a href="https://facebook.techidaily.com/framework-for-founding-fledgling-forum-groups-on-fb/"><u>Framework for Founding Fledgling Forum Groups on FB</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-motorola-edge-40-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Motorola Edge 40 Pro</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-rookies-guide-to-youtube-entrepreneurship-and-earnings/"><u>In 2024, The Rookie's Guide to YouTube Entrepreneurship and Earnings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-youtube-mp4-encoding-steps/"><u>[New] Prime YouTube MP4 Encoding Steps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unveiling-the-revised-sony-s3700-experience-for-2024/"><u>[New] Unveiling the Revised Sony S3700 Experience for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-expert-techniques-for-manipulating-iphone-photos/"><u>[Updated] 2024 Approved Expert Techniques for Manipulating iPhone Photos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/access-onedrive-offline-anywhere-edit-and-save-files-without-internet-perfect-for-remote-areas/"><u>Access OneDrive Offline Anywhere: Edit and Save Files Without Internet, Perfect for Remote Areas</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-revolutionizing-the-workforce-transforming-traditional-roles-from-training-to-ethics-the-future-of-employment-explained-zdnet/"><u>AI Revolutionizing the Workforce: Transforming Traditional Roles From Training to Ethics - The Future of Employment Explained | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-speed-top-5-chrome-os-hacks-for-smoother-sailing-and-enhanced-productivity-zdnet/"><u>Boost Your Speed: Top 5 Chrome OS Hacks for Smoother Sailing & Enhanced Productivity | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cutting-edge-ai-how-openais-gpt-4-goes-mini-reduces-application-development-expenses-insights-from-zdnet/"><u>Cutting Edge AI: How OpenAI's GPT-4 Goes Mini Reduces Application Development Expenses - Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfectly-preserve-and-profitably-play-your-phones-gifs/"><u>In 2024, Perfectly Preserve and Profitably Play Your Phone's GIFs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-starting-out-top-pick-gopro-supplements/"><u>In 2024, Starting Out Top Pick GoPro Supplements</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-order-in-the-world-of-linuxopen-source-resources-strategies-for-clarity-and-efficiency/"><u>Mastering Order in the World of Linux/Open Source Resources: Strategies for Clarity and Efficiency</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-covid-19-immunization-control-systems-a-comprehensive-guide-by-zdnet/"><u>Top Rated COVID-19 Immunization Control Systems: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-financial-gains-with-w11-pro-key-deals/"><u>Unlock Financial Gains with W11 Pro Key Deals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-ai-potential-with-superduperdb-simplifying-application-access-as-featured-on-zdnet/"><u>Unlocking AI Potential with SuperDuperDB: Simplifying Application Access, As Featured on ZDNet</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-asus-rog-phone-8-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Asus ROG Phone 8</u></a></li>
 </ul></div>
 

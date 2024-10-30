@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet"
-date: 2024-10-19T00:46:24.120Z
-updated: 2024-10-23T23:17:07.351Z
+date: 2024-10-26T23:15:40.619Z
+updated: 2024-10-29T20:28:00.417Z
 tags:
   - password-manager
 categories:
@@ -112,10 +112,10 @@ Analysis of identity and access management (IAM) polices taking into account hun
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -136,10 +136,10 @@ Another practice that isn't helping IT departments is [poor password security](h
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### special feature
@@ -159,10 +159,10 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -188,16 +188,24 @@ IT departments should also consider whether regular accounts need administrator 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-discover-the-top-6-phone-utilities-for-clean-image-cropping/"><u>[New] In 2024, Discover the Top 6 Phone Utilities for Clean Image Cropping</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unraveling-your-yt-playlist-quick-methods-for-reversal/"><u>[Updated] Unraveling Your YT Playlist Quick Methods for Reversal</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-free-ssd-and-hdd-evaluation-software-july-update-2024-edition/"><u>Discover the Ultimate List of FREE SSD & HDD Evaluation Software - July Update, 2024 Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-intels-wireless-ac-7260-card-how-to-secure-the-drivers-today/"><u>Effortless Installation of Intel's Wireless AC 7260 Card - How to Secure the Drivers Today!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-ai-is-revolutionizing-teamwork-among-developers-and-business-professionals-insights-from-zdnet/"><u>How AI Is Revolutionizing Teamwork Among Developers and Business Professionals - Insights From ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-samsung-galaxy-a14-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Samsung Galaxy A14 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-surge-of-edge-computing-devices-implications-for-professional-growth-and-opportunities-zdnet/"><u>Navigating the Surge of Edge Computing Devices: Implications for Professional Growth and Opportunities | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/prepare-your-leaders-why-managerial-training-is-key-for-successful-ai-integration/"><u>Prepare Your Leaders: Why Managerial Training Is Key for Successful AI Integration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-ui-with-ai-the-end-of-traditional-interfaces-zdnet-insights/"><u>Revolutionizing UI with AI: The End of Traditional Interfaces | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/survey-finds-quarter-of-it-workers-considering-job-switches-insights-from-zdnet/"><u>Survey Finds Quarter of IT Workers Considering Job Switches - Insights From ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726225736011-flacaiff-movavi/"><u>오픈소스으로 FLAC/AIFF 파일을 무료로 전환 - Movavi</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-instructors-resource-for-enhancing-learning-via-video/"><u>[New] 2024 Approved Instructor's Resource for Enhancing Learning via Video</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-best-10-tikfilters-for-viral-video-success-for-2024/"><u>[New] Best 10 TikFilters for Viral Video Success for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-next-level-in-monitor-technology-a-deep-dive-into-p2715qs-wonders-for-2024/"><u>[New] The Next Level in Monitor Technology - A Deep Dive Into P2715Q's Wonders for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-elite-applications-facilitating-video-discussions-for-2024/"><u>[Updated] Elite Applications Facilitating Video Discussions for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-marketers-methods-detecting-illusory-engagement-signals/"><u>[Updated] In 2024, Marketers’ Methods Detecting Illusory Engagement Signals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/another-cybersecurity-breach-lastpass-compromised-once-more/"><u>Another Cybersecurity Breach: LastPass Compromised Once More</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-patch-update-to-log4j-library-available-with-apache-2170-release-cybersecurity-breakthrough-on-zdnet/"><u>Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/defend-your-online-privacy-with-our-exclusive-offer-exceptional-vpn-and-password-management-services-for-a-limited-time-just-30-learn-how-on-zdnet/"><u>Defend Your Online Privacy with Our Exclusive Offer: Exceptional VPN and Password Management Services for a Limited Time, Just $30! Learn How on ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discovering-the-magic-in-pixelated-photographic-tapestries/"><u>Discovering the Magic in Pixelated Photographic Tapestries</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-security-transform-your-digital-life-using-the-awarded-30-password-manager-by-zdnet-for-ultimate-protection/"><u>Effortless Security: Transform Your Digital Life Using the Awarded $30 Password Manager by ZDNET for Ultimate Protection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-examination-of-1password-maximizing-security-with-high-value-for-your-dollar-a-comprehensive-review-by-zdnets-experts/"><u>In-Depth Examination of 1Password: Maximizing Security with High Value for Your Dollar - A Comprehensive Review by ZDNet's Experts</u></a></li>
+<li><a href="https://win-special.techidaily.com/kostenloze-videovervanger-tool-naar-mp4-vrij-voor-belangelingen/"><u>Kostenloze Videovervanger Tool Naar MP4 - Vrij Voor Belangelingen</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastered-the-challenge-of-error-45/"><u>Mastered the Challenge of Error #45</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-dashlanes-offerings-price-breakdown-features-unveiled-and-step-by-step-setup-tutorial-cyberwisezine/"><u>Navigating Dashlane's Offerings: Price Breakdown, Features Unveiled & Step-by-Step Setup Tutorial | CyberWiseZine</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-account-with-2fa-integrating-githubs-new-feature-using-iphone-and-android-devices/"><u>Secure Your Account with 2FA: Integrating GitHub's New Feature Using iPhone & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-digital-keykeeper-essential-steps-for-safer-password-management-zdnet/"><u>Securing Your Digital Keykeeper: Essential Steps for Safer Password Management | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-turning-on-the-bitwarden-security-prompt-for-your-master-key/"><u>Step-by-Step: Turning On the Bitwarden Security Prompt for Your Master Key</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-note-12r-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi Note 12R Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-potential-of-iphones-8-key-features-to-aid-people-suffering-from-vision-challenges/"><u>Unlocking the Potential of iPhones: 8 Key Features to Aid People Suffering From Vision Challenges</u></a></li>
 </ul></div>
 

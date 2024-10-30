@@ -1,7 +1,7 @@
 ---
 title: Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet
-date: 2024-10-22T23:14:32.583Z
-updated: 2024-10-24T02:54:23.020Z
+date: 2024-10-26T17:34:36.395Z
+updated: 2024-10-29T17:05:37.271Z
 tags:
   - password-manager
 categories:
@@ -108,16 +108,10 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -195,18 +189,22 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-discovering-your-own-original-tagline-in-the-realm-of-tiktok/"><u>[New] In 2024, Discovering Your Own Original Tagline in the Realm of TikTok</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-10-affordable-video-chat-for-android-users/"><u>[Updated] Top 10 Affordable Video Chat for Android Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-your-ultimate-guide-best-mac-screen-recorders/"><u>[Updated] Your Ultimate Guide Best Mac Screen Recorders</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/extend-your-macs-battery-life-with-montereys-low-power-feature-tips-and-tricks-from-zdnet/"><u>Extend Your Mac's Battery Life with Monterey's Low Power Feature - Tips & Tricks From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-your-favorite-android-games-on-lockdown-the-ultimate-list-of-20-free-full-version-apks-to-download-today/"><u>Get Your Favorite Android Games on Lockdown: The Ultimate List of 20 Free, Full-Version APKs to Download Today!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-iphone-14-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on iPhone 14 Pro iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-creative-screen-usage-pip-techniques-for-mac-users/"><u>In 2024, Unveiling Creative Screen Usage PIP Techniques for Mac Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/navigating-the-clouds-and-crowds-stream-from-dji-to-facebook-for-2024/"><u>Navigating the Clouds and Crowds Stream From DJI to Facebook for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-vn-video-editor-advantages-disadvantages-and-best-replacement-options/"><u>The Ultimate Guide to VN Video Editor: Advantages, Disadvantages, and Best Replacement Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-clips-with-this-exceptional-android-video-editing-software/"><u>Transform Your Clips with This Exceptional Android Video Editing Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-admin-utility-remove-disable-and-manage-rooted-device-applications-easily/"><u>Ultimate Admin Utility: Remove, Disable, and Manage Rooted Device Applications Easily</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unified-chat-and-call-features-on-magicapp-compatible-with-iphone-android-and-pc/"><u>Unified Chat & Call Features on MagicApp - Compatible with iPhone, Android & PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/what-exactly-is-instant-messaging-an-in-depth-guide/"><u>What Exactly Is Instant Messaging? An In-Depth Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-from-console-to-screen-efficient-recording-strategies-for-2024/"><u>[New] From Console to Screen Efficient Recording Strategies for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-infusing-life-into-text-instagram-story-animations-tips/"><u>[New] Infusing Life Into Text Instagram Story Animations Tips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-navigating-through-fbs-in-stream-ad-landscape-configuration-and-evaluation-techniques/"><u>[Updated] In 2024, Navigating Through FB's In-Stream Ad Landscape Configuration and Evaluation Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-guide-for-du-recorder-features-and-review/"><u>[Updated] Ultimate Guide for Du Recorder Features and Review</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unlock-professional-filmmaking-skills-within-xp-for-2024/"><u>[Updated] Unlock Professional Filmmaking Skills Within XP for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/5-essential-productivity-hacks-for-streamlining-your-day-to-day-tasks-insights-from-zdnet/"><u>5 Essential Productivity Hacks for Streamlining Your Day-to-Day Tasks: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-revolutionary-challenger-emerges-a-unique-app-that-outshines-microsoft-teams-and-zoom-with-lip-reading-technology/"><u>A Revolutionary Challenger Emerges: A Unique App That Outshines Microsoft Teams & Zoom With Lip-Reading Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amazon-introduces-revolutionary-ai-performance-metric-the-next-gen-rag-system-unveiled-by-zdnet/"><u>Amazon Introduces Revolutionary AI Performance Metric: The Next-Gen RAG System Unveiled by ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-xiaomi-civi-3-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Xiaomi Civi 3.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-switching-from-windows-to-linux-mint-easy-installation-steps/"><u>Complete Guide to Switching From Windows to Linux Mint - Easy Installation Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/decoding-servicenows-core-ai-tenets-essential-strategies-that-propel-corporate-innovation-zdnet/"><u>Decoding ServiceNow’s Core AI Tenets: Essential Strategies That Propel Corporate Innovation | ZDNET</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dota-2-performance-boosted-how-to-eliminate-persistent-crash-errors/"><u>Dota 2 Performance Boosted - How To Eliminate Persistent Crash Errors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-tech-experts-shape-the-future-of-non-tech-companies-insights-from-zdnet/"><u>How Tech Experts Shape the Future of Non-Tech Companies: Insights From ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-11-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 11 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-honor-90-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor 90 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-path-to-elevate-your-ubuntu-2404-system-insights-from-zdnet/"><u>Navigating the Path to Elevate Your Ubuntu 24.04 System – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/redefining-the-future-of-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-handbook-insights-from-zdnet/"><u>Redefining the Future of UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Handbook - Insights From ZDNet</u></a></li>
 </ul></div>
 

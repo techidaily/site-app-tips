@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding New Contacts in WhatsApp Across iPhone & Android Devices"
-date: 2024-08-18T08:44:06.517Z
-updated: 2024-08-19T08:44:06.517Z
+date: 2024-10-25T16:38:05.438Z
+updated: 2024-10-29T20:01:02.454Z
 tags:
   - ios
   - android
@@ -23,9 +23,6 @@ Once you tap wrong, all the WhatsApp chat history will be deleted.
  But there's no need to cry for spoiled milk. Here, we are sharing the best way to get**WhatsApp recovery** on**iPhone** , including messages, voice messages, video call and attachments.
 
 ![WhatsApp Data Recovery](https://www.aiseesoft.com/images/iphone-data-recovery/whatsapp-data-recovery.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
 WhatsApp Data Recovery
 
@@ -60,9 +57,12 @@ Step 1 Connect your iPhone with computer via USB cable.
 **Connect** your**iPhone** to the computer via USB cable and in the main interface of the program, you can choose**Recover from iOS Device** .
 
 ![Choose Recover from iOS Device](https://www.aiseesoft.com/images/iphone-data-recovery/choose-recover-from-ios.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2 Scan the iOS device
@@ -74,8 +74,12 @@ Step 3 Select the WhatsApp messages
  Seconds later, all the data in your device will be scanned and listed in categories. Click**WhatsApp** on the left sidebar and preview the WhatsApp messages on the right panel, including the contacts, chatting history, photos, etc. For the WhatsApp attached media files, like audio and pictures, you can check**WhatsApp Attchments** to view the details.
 
 ![Select WhatsApp Messages](https://www.aiseesoft.com/images/iphone-data-recovery/select-whatsapp-messages.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4 Get WhatsApp recovery
@@ -87,9 +91,12 @@ You can learn the steps from the video below:
 ![Video Recover Deleted iPhone Data](https://www.aiseesoft.com/images/youtube-video/video-recover-deleted-iphone-data.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2\. Perform WhatsApp recovery from iTunes backup
 
  If you have made backup files with iTunes before deleting the messages, you can choose recovering WhatsApp message from iTunes backup files without connecting your iPhone to computer.
@@ -101,16 +108,10 @@ Step 1 Download and install WhatsApp Recovery Software.
 Step 2 Choose "**Recover from iTunes Backup File** ". All iTunes backup files will be detected and listed. Select the file and click "**Start Scan** " button to scan.
 
 ![Select and click Scan](https://www.aiseesoft.com/images/iphone-data-recovery/select-and-click-scan.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
 Step 3 After scanning, all the data will be listed under different categories. Click "**WhatsApp** " and select messages you want to recover. Then click the "**Recover** " button to access the WhatsApp recovery on your computer.
 
 ![Recover WhatsApp messages](https://www.aiseesoft.com/images/iphone-data-recovery/recover-whatsapp-messages.jpg)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Start WhatsApp recovery from iCloud backup
 
@@ -130,6 +131,13 @@ Step 3 After the downloading and scanning process is done. You can repeat the ab
 
 ![Recover WhatsApp messages from iCloud](https://www.aiseesoft.com/images/iphone-data-recovery/recover-whatsapp-messages-from-icloud-backup.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See what to do if your[WhatsApp backup stuck on iPhone](https://tools.techidaily.com/) or[Android](https://tools.techidaily.com/)
 
 Conclusion
@@ -139,8 +147,12 @@ Conclusion
  To avoid the hassle of doing this again, you'd better develop a good habit of backing up iPhone data regularly. Moreover, if your WhatsApp data are deleted or lost on Android phone, do not miss the tool below to[recover WhatsApp on Android phone](https://tools.techidaily.com/) .
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Best WhatsApp Recovery Tool for Android you may need
 
 [FoneLab - Android Data Recovery](https://tools.techidaily.com/aiseesoft-android-data-recovery/)
@@ -196,8 +208,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +215,20 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-electorate-enthrallment-best-politic-based-game-reviews/"><u>[Updated] 2024 Approved Electorate Enthrallment Best Politic-Based Game Reviews</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streaming-mastery-record-hulu-playback-on-multiple-systems-for-2024/"><u>[Updated] Streaming Mastery Record Hulu Playback on Multiple Systems for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-project-outcomes-using-agile-methodology-learn-the-6-essential-strategies-for-effective-software-design-zdnet/"><u>Elevate Your Project Outcomes Using Agile Methodology: Learn the 6 Essential Strategies for Effective Software Design | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-microsoft-edge-experience-discover-premier-add-ons-endorsed-by-zdnet/"><u>Enhance Microsoft Edge Experience: Discover Premier Add-Ons Endorsed by ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-y200e-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Y200e 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-download-lumafusion-for-mac-top-alternatives-included/"><u>In 2024, Download Lumafusion for Mac Top Alternatives Included</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-excel-cell-consolidation-techniques-with-expert-advice-from-zdnet/"><u>Master Excel Cell Consolidation Techniques with Expert Advice From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-technology-insights-with-toms-comprehensive-hardware-analysis/"><u>Mastering Technology Insights with Tom’s Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-error-code-0x887a0006-with-these-easy-fixes/"><u>Resolve Error Code 0X887A0006 with These Easy Fixes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/safety/"><u>Safety</u></a></li>
+<li><a href="https://app-tips.techidaily.com/silent-release-sparks-fury-unveiling-the-controversial-feature-from-microsoft-on-zdnet/"><u>Silent Release Sparks Fury: Unveiling the Controversial Feature From Microsoft on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-mastering-linux-skills-through-elite-foundation-courses-and-intensive-bootcamps/"><u>Ultimate Guide to Mastering Linux Skills Through Elite Foundation Courses & Intensive Bootcamps</u></a></li>
+</ul></div>
 

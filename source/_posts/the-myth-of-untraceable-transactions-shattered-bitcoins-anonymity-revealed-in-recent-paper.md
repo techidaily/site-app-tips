@@ -1,7 +1,7 @@
 ---
 title: "The Myth of Untraceable Transactions Shattered: Bitcoin's Anonymity Revealed in Recent Paper"
-date: 2024-10-21T21:05:00.021Z
-updated: 2024-10-23T19:58:49.337Z
+date: 2024-10-27T16:48:26.789Z
+updated: 2024-10-29T20:28:32.904Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -61,10 +61,10 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -121,20 +121,16 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-complete-breakdown-enhancing-your-experience-with-advanced-mobizen-techniques/"><u>[New] 2024 Approved Complete Breakdown Enhancing Your Experience with Advanced Mobizen Techniques</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagrams-video-selfie-truthfulness-a-critical-look/"><u>[New] 2024 Approved Instagram's Video Selfie Truthfulness – A Critical Look</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-becoming-an-expert-in-video-capturing-streamlabs-obs-guide/"><u>[New] In 2024, Becoming an Expert in Video Capturing Streamlabs OBS Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-perfecting-online-photos-the-cropping-guide/"><u>[New] Perfecting Online Photos The Cropping Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-optimize-your-audio-content-expert-tips-for-editing-in-garageband/"><u>[Updated] In 2024, Optimize Your Audio Content Expert Tips for Editing in GarageBand</u></a></li>
-<li><a href="https://app-tips.techidaily.com/busting-top-5-fallacies-on-profiting-from-your-data-insights-zdnet/"><u>Busting Top 5 Fallacies on Profiting From Your Data Insights - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-might-machine-learning-impact-future-opportunities-in-the-field-of-cybersecurity/"><u>How Might Machine Learning Impact Future Opportunities in the Field of Cybersecurity?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>How to identify malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-note-12t-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi Note 12T Pro Phone? Unlock It Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-challenges-in-leveraging-ai-for-significant-commercial-gains-insights-from-zdnet/"><u>Overcoming Challenges in Leveraging AI for Significant Commercial Gains - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-challenges-to-unlock-the-economic-potential-of-ai-in-business-insights-from-zdnet/"><u>Overcoming Challenges to Unlock the Economic Potential of AI in Business - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/performance-and-prowess-explored-a-thorough-review-of-hp-zbook-firefly-15-g8/"><u>Performance and Prowess Explored: A Thorough Review of HP ZBook Firefly 15 G8</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-how-top-innovators-are-drawn-to-open-source-a-deep-dive-by-zdnet/"><u>Unveiling How Top Innovators Are Drawn to Open Source: A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-appeal-of-no-codelow-code-platforms-pros-and-readiness-considerations-insights-from-zdnet/"><u>Unveiling the Appeal of No-Code/Low-Code Platforms: Pros and Readiness Considerations - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-top-obstacle-of-generative-ai-demonstrating-a-tangible-return-on-investment-roi-zdnet-insights/"><u>Unveiling the Top Obstacle of Generative AI: Demonstrating a Tangible Return on Investment (ROI) | ZDNet Insights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-audio-blending-in-audacity/"><u>2024 Approved Mastering the Art of Audio Blending in Audacity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-beginners-guide-to-using-dashlane-unraveling-its-pricing-structure-and-features-as-explained-by-zdnet/"><u>A Beginner's Guide to Using Dashlane: Unraveling Its Pricing Structure and Features as Explained by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybercriminals-exploit-fears-over-new-omicron-variant-to-target-american-academic-institutions-insights-from-zdnet/"><u>Cybercriminals Exploit Fears Over New Omicron Variant to Target American Academic Institutions - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-free-trial-of-dashlanes-premium-password-safe-save-now-at-a-bargain-price-on-zdnet/"><u>Download Free Trial of Dashlane's Premium Password Safe - Save Now at a Bargain Price on ZDNet!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expertly-vetted-leading-password-management-apps-for-2nny4-a-comprehensive-list-zdnet/"><u>Expertly Vetted Leading Password Management Apps for 2Nny4: A Comprehensive List | ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-moto-g13-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Motorola Moto G13 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-nvidia-gtx-1650-drivers-on-pc/"><u>Install Nvidia GTX 1650 Drivers on PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sdr-vs-hdr-embracing-hdr-for-enhanced-video-production/"><u>SDR vs HDR Embracing HDR for Enhanced Video Production</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-sensitive-information-under-20month-using-robust-encryption-techniques-insights-from-zdnet/"><u>Secure Your Sensitive Information Under $20/Month Using Robust Encryption Techniques – Insights From ZDNet</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/udemy-learn-anywhere-ultimate-app-from-allavsoft-supporting-mac-windows-10-vista-users/"><u>Udemy Learn Anywhere: Ultimate App From Allavsoft Supporting Mac, Windows 10-Vista Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-mysteries-of-video-monetization-for-2024/"><u>Unveiling the Mysteries of Video Monetization for 2024</u></a></li>
 </ul></div>
 

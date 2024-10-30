@@ -1,7 +1,7 @@
 ---
 title: Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet
-date: 2024-10-17T01:48:28.806Z
-updated: 2024-10-24T03:56:06.594Z
+date: 2024-10-22T17:03:49.957Z
+updated: 2024-10-29T22:56:31.947Z
 tags:
   - password-manager
 categories:
@@ -31,7 +31,21 @@ If you've been around for the past 10 or so years, you know that most services r
 
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to use iCloud as a password manager on Windows
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Open iCloud for Windows
 
@@ -42,13 +56,6 @@ Make sure you have [downloaded iCloud for your Windows PC](https://apps.microsof
 Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Sign in to your iCloud Passwords
 
@@ -81,10 +88,10 @@ Maria Diaz/ZDNET
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
@@ -103,6 +110,13 @@ Enter the verification code.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Try out the password manager
 
 After you set up iCloud for [Windows](https://www.zdnet.com/article/windows-11-22h2-how-to-get-microsofts-latest-os-update-and-whats-coming-next/) as a password manager and your browser extension, you can try it out by going to a website and trying to log in.
@@ -115,13 +129,6 @@ Like LastPass, the browser extension will let you fill in your login information
 
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## How do you get iCloud for Windows?  
@@ -133,13 +140,6 @@ To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ
 iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/article/how-to-update-all-of-your-apple-devices/): [iPhone](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fipad%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [Mac](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). To set it up, go to your iPhone's Settings and tap on your name at the top of the screen to access your iCloud settings. Then, choose iCloud. Find Passwords and Keychain and select that, then tap on Sync this iPhone to turn it on. 
 
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
 
@@ -175,19 +175,21 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-color-palettes-applying-theories-effectively/"><u>2024 Approved Mastering Color Palettes Applying Theories Effectively</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-unveiling-methods-to-record-and-preserve-internet-broadcasts/"><u>2024 Approved Unveiling Methods to Record and Preserve Internet Broadcasts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-free-android-chat-applications-ranked-from-1-to-10/"><u>Discover the Ultimate Selection of Free Android Chat Applications: Ranked From #1 to #10</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-road-safety-with-the-11-most-effective-apps-for-handsfree-sms-access/"><u>Enhance Road Safety with the 11 Most Effective Apps for Handsfree SMS Access</u></a></li>
-<li><a href="https://facebook.techidaily.com/fortifying-personal-info-best-practices-for-fb-users/"><u>Fortifying Personal Info: Best Practices for FB Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-15-pro-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 15 Pro screen lock without Passcode?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-attention-hack-building-an-alluring-puzzle-feed-for-2024/"><u>Instagram Attention Hack Building an Alluring Puzzle Feed for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/oculus-quest-2-evaluation-seamless-superior-vr-fun-without-breaking-your-budget/"><u>Oculus Quest 2 Evaluation: Seamless, Superior VR Fun without Breaking Your Budget</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prowl-these-top-ranked-sites-for-generous-vector-imagery-access-for-2024/"><u>Prowl These Top-Ranked Sites for Generous Vector Imagery Access for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-11-superior-sound-integration-tools-for-adding-music-and-voice-to-videos-across-android-ios-mac-and-pc-platforms/"><u>The Ultimate List of 11 Superior Sound Integration Tools for Adding Music & Voice to Videos Across Android, iOS, Mac & PC Platforms</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-biometric-lock-screen-applications-for-your-android-device/"><u>Top 10 Biometric Lock Screen Applications for Your Android Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-list-of-free-tools-create-and-share-laugh-out-loud-memes-anywhere-anytime/"><u>Ultimate List of Free Tools: Create and Share Laugh-Out-Loud Memes Anywhere, Anytime</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-exclusive-savings-on-games-during-the-early-prime-day-event-of-oct-24-tips-and-deals-from-zdnet/"><u>Unlock Exclusive Savings on Games During the Early Prime Day Event of Oct '24 – Tips and Deals From ZDNET</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1728493675944-windows-11/"><u>Windows 11のセットアップ：クラウドダウンロードと地上でのリファレンシャルインストールの比較</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-brief-cinematic-chronicle/"><u>[New] Brief Cinematic Chronicle</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-15-gopro-mounts-and-tripods-for-2024/"><u>[New] Top 15 GoPro Mounts and Tripods for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-aerial-robotics-simplified-how-drones-fly-talk-and-work/"><u>2024 Approved Aerial Robotics Simplified How Drones Fly, Talk & Work</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-coding-skills-with-patience-and-productivity-unveiling-github-copilots-impact-on-software-development-zdnet/"><u>Advancing Coding Skills with Patience & Productivity: Unveiling GitHub Copilot's Impact on Software Development - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/before-its-too-late-discover-the-top-5-strategies-to-secure-your-windows-11-system-this-year-according-to-experts-at-zdnet/"><u>Before It's Too Late: Discover the Top 5 Strategies to Secure Your Windows 11 System This Year, According to Experts at ZDNet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/boost-your-income-with-effective-vimeo-monetization-techniques/"><u>Boost Your Income with Effective Vimeo Monetization Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/celebrating-a-milestone-kubernetes-at-10-years-old-a-retrospective-of-its-impact-on-cloud-native-tech-and-future-prospects-zdnet/"><u>Celebrating a Milestone: Kubernetes at 10 Years Old – A Retrospective of Its Impact on Cloud-Native Tech & Future Prospects | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-images-in-sight-overcoming-iphone-camera-focusing-challenges/"><u>Clear Images in Sight: Overcoming iPhone Camera Focusing Challenges</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/cost-cutting-options-for-purchasing-gopros/"><u>Cost-Cutting Options for Purchasing GoPros</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-and-solutions-for-rectifying-oleaut32dll-absence-on-your-pc/"><u>Expert Tips and Solutions for Rectifying OleAut32.dll Absence on Your PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-sunset-of-windows-11-5-essential-steps-to-take-as-microsoft-ends-support/"><u>Facing the Sunset of Windows 11: 5 Essential Steps to Take as Microsoft Ends Support</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-must-try-titles-for-tranquil-touchscreen-time/"><u>In 2024, Must-Try Titles for Tranquil Touchscreen Time</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-design-of-an-artificial-earth-plane-can-vary-depending-on-the-frequency-of-operation-at-lower-frequencies-a-larger-physical-area-may-be-needed-to-effect85/"><u>The Design of an Artificial Earth Plane Can Vary Depending on the Frequency of Operation; at Lower Frequencies, a Larger Physical Area May Be Needed to Effectively Reflect Radio Waves.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-role-of-citizen-developers-in-streamlining-corporate-tech-initiatives/"><u>The Rising Role of Citizen Developers in Streamlining Corporate Tech Initiatives</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-video-game-systems-of-2024-your-ultimate-guide/"><u>Top-Rated Video Game Systems of 2024 - Your Ultimate Guide!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-creativity-how-open-source-projects-draw-in-elite-innovators-insights-from-zdnet/"><u>Unlocking Creativity: How Open-Source Projects Draw in Elite Innovators - Insights From ZDNet</u></a></li>
 </ul></div>
 
