@@ -1,7 +1,7 @@
 ---
 title: How Crypto.com CEO Tackles Login Challenges Post $31 Million Hack Incident Covered by ZDNet
-date: 2024-11-11T19:25:35.552Z
-updated: 2024-11-13T19:47:16.711Z
+date: 2024-11-09T17:52:38.700Z
+updated: 2024-11-13T17:07:51.835Z
 tags:
   - password-manager
 categories:
@@ -72,23 +72,26 @@ Crypto.com created a program designed to refund users who were affected by the h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/advanced-array-designs-employ-strategies-like-amplitude-tapering-and-null-steering-algorithms-to-control-side-lobes-for-improved-directivity-and-reduced-int87/"><u>Advanced Array Designs Employ Strategies Like Amplitude Tapering and Null-Steering Algorithms to Control Side Lobes for Improved Directivity and Reduced Interference Potential.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/brand-awareness-through-opening/"><u>Brand Awareness Through Opening</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-diy-animatable-wireless-charging-pad-shaped-like-a-3d-printer-under-50-by-bambu-labs/"><u>Budget-Friendly DIY Animatable Wireless Charging Pad Shaped Like a 3D Printer - Under $50 by Bambu Labs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-epson-wf-2940-printer-driver-software-compatible-with-windows-7-81-and-10/"><u>Download Epson WF-2940 Printer Driver Software Compatible with Windows 7, 8.1 & 10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsoft-has-released-new-bluetooth-drivers-compatible-with-all-windows-versions-win-10-11-8-and-7-secure-your-free-copy-now/"><u>Microsoft Has Released New Bluetooth Drivers! Compatible with All Windows Versions (Win 10, 11, 8 and 7) – Secure Your Free Copy Now</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tidying-up-linux-and-open-source-manuals-discover-the-ultimate-fix/"><u>Tidying Up Linux & Open Source Manuals: Discover the Ultimate Fix!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-link-between-kernel-vulnerabilities-and-linux-system-security-proactive-measures-for-protection/"><u>Understanding the Link Between Kernel Vulnerabilities and Linux System Security: Proactive Measures for Protection</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-the-mystery-strategies-for-effective-artificer-intelligence-management/"><u>Unraveling the Mystery: Strategies for Effective Artificer Intelligence Management</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-alert-microsoft-faces-critical-challenge-with-windows-10-only-a-year-leftzdnet/"><u>Urgent Alert: Microsoft Faces Critical Challenge with Windows 10 - Only a Year Left![ZDNet]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-flavorful-frames-stepwise-food-film-making/"><u>[New] In 2024, Flavorful Frames Stepwise Food Film-Making</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/cb-channel-background-and-template-set-for-2024/"><u>[New] MCB Channel Background & Template Set for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cutting-edge-tools-for-seamless-vimeo-video-download-for-2024/"><u>[Updated] Cutting-Edge Tools for Seamless Vimeo Video Download for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-favorites-top-10-tiktok-vids-for-2024/"><u>[Updated] Twitter's Favorites Top 10 TikTok Vids for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-jpg-to-gif-converter-easy-and-fast-with-movavi/"><u>Free Online JPG to GIF Converter - Easy and Fast with Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-servicenow-embraces-ai-fundamentals-for-competitive-advantage-insights-and-implications-for-business-growth-zdnet/"><u>How ServiceNow Embraces AI Fundamentals for Competitive Advantage – Insights & Implications for Business Growth | ZDNET</u></a></li>
+<li><a href="https://article-files.techidaily.com/instagrams-roadmap-to-fame-unlocking-the-power-of-9-tactics-for-2024/"><u>Instagram's Roadmap to Fame Unlocking the Power of #9 Tactics for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/juniper-networks-enhances-security-with-new-cloud-based-firewall-in-unified-secure-access-service-edge-portfolio/"><u>Juniper Networks Enhances Security with New Cloud-Based Firewall in Unified Secure Access Service Edge Portfolio</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-faces-time-sensitive-dilemma-over-windows-10-in-just-one-year-insights-from-zdnet-coverage/"><u>Microsoft Faces Time-Sensitive Dilemma Over Windows 10 in Just One Year - Insights From ZDNET Coverage</u></a></li>
+<li><a href="https://win-webster.techidaily.com/rescue-and-revitalize-deleted-pictures-proven-techniques-for-cost-free-recovery-of-missing-photos/"><u>Rescue & Revitalize Deleted Pictures: Proven Techniques for Cost-Free Recovery of Missing Photos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-impact-of-the-russian-ukrainian-conflict-on-global-tech-sector-insights-from-zdnet/"><u>The Impact of the Russian-Ukrainian Conflict on Global Tech Sector | Insights From ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-photographers-handbook-for-android-users/"><u>The Photographer's Handbook for Android Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultra-stable-linux-kernel-the-long-haul-solution-released-insights-from-zdnet/"><u>Ultra-Stable Linux Kernel: The Long-Haul Solution Released - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-potential-with-artificial-intelligence-learn-how-81-increase-in-workforce-productivity-can-be-achieved-expert-tips-by-zdnet/"><u>Unleashing Potential with Artificial Intelligence: Learn How 81% Increase in Workforce Productivity Can Be Achieved | Expert Tips by ZDNet</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

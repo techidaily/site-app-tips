@@ -1,7 +1,7 @@
 ---
 title: Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News
-date: 2024-11-06T16:26:41.245Z
-updated: 2024-11-13T17:53:44.745Z
+date: 2024-11-11T03:54:24.183Z
+updated: 2024-11-13T17:34:59.835Z
 tags:
   - password-manager
 categories:
@@ -82,29 +82,29 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-innovative-recording-tech-the-leaders-choice-for-2024/"><u>[New] Innovative Recording Tech The Leaders' Choice for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-the-hidden-meanings-behind-facebooks-messenger-icon-for-2024/"><u>[New] Unveiling the Hidden Meanings Behind Facebook's Messenger Icon for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-gopro-timelapse-a-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering GoPro Timelapse A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-bikers-ultimate-camera-companion-list-update/"><u>2024 Approved Biker's Ultimate Camera Companion List Update</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-sony-65-oled-xb930f-4k-television-evaluation-and-insights/"><u>Affordable Sony 65 OLED - XB930F 4K Television Evaluation and Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/agile-methods-clash-with-ai-projects-insights-from-a-new-study-zdnet/"><u>Agile Methods Clash with AI Projects: Insights From a New Study | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/banking-innovation-at-risk-cio-warns-against-reliance-on-easy-prompt-tech-in-favour-of-creative-geniuses/"><u>Banking Innovation at Risk: CIO Warns Against Reliance on Easy-Prompt Tech in Favour of Creative Geniuses</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-steps-to-activate-find-my-feature-on-your-iphone/"><u>Comprehensive Steps to Activate 'Find My' Feature on Your iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/debunking-common-false-beliefs-in-monetizing-data-assets-the-zdnet-perspective/"><u>Debunking Common False Beliefs in Monetizing Data Assets - The ZDNet Perspective</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dive-into-business-before-technology-to-excel-as-a-tech-team-leader-strategies-by-zdnet/"><u>Dive Into Business Before Technology to Excel as a Tech Team Leader | Strategies by ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easy-guide-creating-youtube-playlists-from-any-device-mobile-and-desktop-tips/"><u>Easy Guide: Creating YouTube Playlists From Any Device – Mobile & Desktop Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-professional-edge-without-solely-focusing-on-ai-insights-for-todays-workforce/"><u>Elevate Your Professional Edge Without Solely Focusing on AI | Insights for Today's Workforce</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-synergy-how-ai-empowers-developers-and-business-teams-insights-from-zdnet/"><u>Enhancing Synergy: How AI Empowers Developers & Business Teams - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808153275-fast-track-downloading-for-direct3d-hassle-free-technique-inside/"><u>Fast-Track Downloading for Direct3D - Hassle-Free Technique Inside</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-artificebots-transfer-learning-function-in-machine-intelligence/"><u>How Does Artificebot's Transfer Learning Function in Machine Intelligence?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-emerging-companies-can-leverage-ai-models-to-capture-market-share-insights-from-zdnet/"><u>How Emerging Companies Can Leverage AI Models to Capture Market Share: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-your-career-trajectory-with-ai-strategies-for-tech-professionals-on-zdnet/"><u>Mastering Your Career Trajectory with AI: Strategies for Tech Professionals on ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-keywords-the-best-7-no-cost-youtube-taggers/"><u>[New] In 2024, Mastering Keywords The Best 7 No-Cost Youtube Taggers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-maximizing-views-optimal-youtube-thumbnails/"><u>[Updated] In 2024, Maximizing Views Optimal YouTube Thumbnails</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-android-projector-applications-top-8-picks-for-seamless-wireless-connection/"><u>Best Android Projector Applications: Top 8 Picks for Seamless Wireless Connection</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-free-online-solutions-for-instantaneous-gif-conversion/"><u>Best Free Online Solutions For Instantaneous GIF Conversion</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-amazon-basics-6-sheet-crosscut-paper-shredder-evaluation/"><u>Budget-Friendly Amazon Basics 6-Sheet Crosscut Paper Shredder Evaluation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-of-picplaypost-revolutionizing-digital-content-with-advanced-editing-features-for-videos-collages-and-more/"><u>Comprehensive Evaluation of PicPlayPost: Revolutionizing Digital Content with Advanced Editing Features for Videos, Collages, and More</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-pinnacle-studio-benefits-drawbacks-and-best-alternatives-explored/"><u>Comprehensive Review of Pinnacle Studio: Benefits, Drawbacks & Best Alternatives Explored</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-12-effortless-typing-solutions-on-ios-and-android-the-ultimate-keyboard-app-selection/"><u>Discover the Top 12 Effortless Typing Solutions on iOS & Android: The Ultimate Keyboard App Selection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193990-experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-networked-printer-woes-in-windows/"><u>Fixing Networked Printer Woes in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-xs-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone XS Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-hot-dishes-from-hot-tiktokers/"><u>In 2024, Hot Dishes From Hot TikTokers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/professional-looking-shots-at-home-top-5-must-try-tips/"><u>Professional-Looking Shots at Home – Top 5 Must-Try Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-guide-top-free-tools-for-speedy-file-removal-on-your-ipad-device/"><u>Quick Guide: Top Free Tools for Speedy File Removal on Your iPad Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/score-big-savings-this-labor-day-get-your-apple-airtag-set-of-four-with-24-off-only-at-walmart-insights-from-zdnet/"><u>Score Big Savings This Labor Day! Get Your Apple AirTag Set of Four with $24 Off Only at Walmart | Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-8-must-have-multi-window-programs-for-android-phones-and-tablets/"><u>The Ultimate List of 8 Must-Have Multi-Window Programs for Android Phones & Tablets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-alternative-podcast-apps-to-replace-player-fm-on-your-android-device/"><u>Top Alternative Podcast Apps to Replace Player FM on Your Android Device</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
