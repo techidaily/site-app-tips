@@ -1,7 +1,7 @@
 ---
 title: "Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet"
-date: 2024-11-03T17:16:03.717Z
-updated: 2024-11-04T17:29:09.925Z
+date: 2024-11-11T16:37:14.686Z
+updated: 2024-11-13T19:50:41.157Z
 tags:
   - password-manager
 categories:
@@ -62,16 +62,10 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -97,17 +91,18 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-hourly-heavy-hitters-top-ten-youtube-video-rankings-in-a-day/"><u>[Updated] 2024 Approved Hourly Heavy Hitters Top Ten YouTube Video Rankings in a Day</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-zero-dollar-mac-capture-mastery/"><u>2024 Approved Zero-Dollar Mac Capture Mastery</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/dji-drone-artistry-unlocked-first-20-free-lutts-available/"><u>DJI Drone Artistry Unlocked – First 20 Free LUTTs Available</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dual-storage-mastery-how-to-delete-icloud-images-and-keep-them-intact-on-iphone/"><u>Dual-Storage Mastery: How to Delete iCloud Images and Keep Them Intact on iPhone</u></a></li>
-<li><a href="https://common-error.techidaily.com/enable-digital-writing-tools-fix-pen-not-detected-or-touch-unresponsive-screen-problems/"><u>Enable Digital Writing Tools: Fix 'Pen Not Detected' Or 'Touch Unresponsive' Screen Problems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-beyond-ai-boundaries-the-call-of-an-ai-scientist-on-thinking-differently/"><u>Exploring Beyond AI Boundaries - The Call of an AI Scientist on Thinking Differently</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-does-open-source-shape-ethical-ai-development-exploring-perspectives-on-zdnet/"><u>How Does Open Source Shape Ethical AI Development? Exploring Perspectives on ZDNet</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revamp-your-photos-is-pickup-a-game-changer-for-android-users/"><u>In 2024, Revamp Your Photos Is PickUp a Game-Changer for Android Users?</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-solutions-for-non-operational-wwinplusp-in-pc/"><u>Mastery of Solutions for Non-Operational WWin+P in PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/regulatory-compliance/"><u>Regulatory Compliance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-changing-landscape-for-software-engineers-perspectives-by-atlassians-agnes-ro-on-zdnet/"><u>The Changing Landscape for Software Engineers: Perspectives by Atlassian's Agnes Ro on ZDNet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlocking-korean-mastery-the-top-6-online-linguistic-hubs/"><u>Unlocking Korean Mastery: The Top 6 Online Linguistic Hubs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-first-time-user-steps-for-effortless-vrecorder-setup-for-2024/"><u>[New] First-Time User Steps for Effortless VRecorder Setup for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-instantly-start-youtube-videos-on-your-facebook-timeline-for-2024/"><u>[New] Instantly Start YouTube Videos on Your Facebook Timeline for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nveiling-20-must-try-youtube-tricks-to-boost-views/"><u>[New] Unveiling 20 Must-Try YouTube Tricks to Boost Views</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unleash-windows-11-potential-latest-apps-and-games/"><u>[Updated] 2024 Approved Unleash Windows 11 Potential Latest Apps & Games</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-innovative-mac-live-streaming-options-ranked-1-5/"><u>2024 Approved Innovative Mac Live Streaming Options Ranked #1-5</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-mastery-without-coding-knowledge-tackling-intricate-systems-through-varied-education-strategies-zdnet/"><u>AI Mastery Without Coding Knowledge - Tackling Intricate Systems Through Varied Education Strategies | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-impact-of-cutting-edge-ai-on-present-technology-systems-discoveries-by-zdnet/"><u>Exploring the Impact of Cutting-Edge AI on Present Technology Systems - Discoveries by ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-a25-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy A25 5G Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-artificial-intelligence-a-threat-to-cybersecurity-employment-prospects/"><u>Is Artificial Intelligence a Threat to Cybersecurity Employment Prospects?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-start-with-core-business-insights/"><u>Mastering Tech Team Leadership: Start with Core Business Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-modern-hurdles-tackling-ambiguous-results-and-uncertain-precision-in-ai-expert-analysis-by-zdnet/"><u>Overcoming Modern Hurdles: Tackling Ambiguous Results and Uncertain Precision in AI | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://video-capture.techidaily.com/real-time-chromebook-display-logger/"><u>Real-Time Chromebook Display Logger</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-artificial-intelligence-data-as-the-key-element-strategies-to-complete-the-ai-jigsaw/"><u>Unlocking Artificial Intelligence: Data as the Key Element - Strategies to Complete the AI Jigsaw</u></a></li>
 </ul></div>
 

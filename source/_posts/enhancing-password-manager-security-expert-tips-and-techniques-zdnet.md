@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]"
-date: 2024-10-31T16:26:00.621Z
-updated: 2024-11-04T17:26:35.206Z
+date: 2024-11-08T19:06:31.910Z
+updated: 2024-11-13T17:51:27.537Z
 tags:
   - password-manager
 categories:
@@ -42,16 +42,10 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -71,10 +65,10 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -98,10 +92,10 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -150,24 +144,22 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-professional-thumbnails-from-your-phone-for-youtube/"><u>[New] In 2024, Professional Thumbnails From Your Phone for YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-ultimate-handbook-ios-photo-alignment-and-cloud-synchronization/"><u>[New] The Ultimate Handbook IOS Photo Alignment & Cloud Synchronization</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-all-about-dji-inspire-1-in-depth-analysis/"><u>[Updated] In 2024, All About DJI Inspire 1 in Depth Analysis</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-step-into-the-future-with-these-7-premier-live-streaming-apps-iphoneandroid/"><u>2024 Approved Step Into the Future with These 7 Premier LIVE Streaming Apps (iPhone/Android)</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725284345208-winxvideo-ai/"><u>如何利用 Winxvideo AI 提高影片品質及壓縮效果 - 詳細教程指南</u></a></li>
-<li><a href="https://blog-min.techidaily.com/anymp4-dvd/"><u>AnyMP4 DVDコピーについて学ぶ：ユーザー全員の意見と解説入門</u></a></li>
-<li><a href="https://app-tips.techidaily.com/debunking-microsoft-recall-as-a-privacy-catastrophe-here-are-7-compelling-reasons-you-shouldnt-worry-zdnet/"><u>Debunking Microsoft Recall as a Privacy Catastrophe? Here Are 7 Compelling Reasons You Shouldn't Worry | ZDNet</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/exploring-many-youtube-courses-together/"><u>Exploring Many YouTube Courses Together</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-essential-is-devops-for-staying-ahead-in-business-ensuring-safety-through-top-strategies-insights-from-zdnet/"><u>How Essential Is DevOps for Staying Ahead in Business: Ensuring Safety Through Top Strategies - Insights From ZDNet</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-amplify-and-modify-your-instagram-voice/"><u>In 2024, How to Amplify and Modify Your Instagram Voice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-major-cloud-services-aws-azure-and-google-cloud-for-a-hybrid-and-saas-strategy-insights-by-zdnet/"><u>In-Depth Analysis of Major Cloud Services: AWS, Azure, and Google Cloud for a Hybrid and SaaS Strategy | Insights by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-process-of-upgrading-your-system-to-ubuntu-2404-tips-and-tricks-from-zdnet/"><u>Mastering the Process of Upgrading Your System to Ubuntu 24.04: Tips and Tricks From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-corporate-drama-unveiled-by-zdnet/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown – Corporate Drama Unveiled by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/setting-up-libreoffice-preferences-seamlessly-convert-to-microsoft-office-formats/"><u>Setting Up LibreOffice Preferences: Seamlessly Convert to Microsoft Office Formats</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-xiaomi-13t-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Xiaomi 13T Pro</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-linus-torvalds-use-of-rust-for-linux-development-and-life-routines-with-m2-macbook-air-insights-from-zdnet-interview/"><u>Unveiling Linus Torvalds' Use of Rust for Linux Development and Life Routines with M2 MacBook Air | Insights From ZDNet Interview</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-crisis-microsofts-critical-challenge-with-windows-10-looms-as-deadline-approaches-tech-news-by-zdnet/"><u>Urgent Crisis: Microsoft's Critical Challenge with Windows 10 Looms as Deadline Approaches | Tech News by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-woes-intensify-for-microsoft-as-launch-deadline-looms-expert-analysis-by-zdnet/"><u>Windows 11 Woes Intensify for Microsoft as Launch Deadline Looms – Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-shrouded-screen-images-techniques-for-redacting-info/"><u>[New] In 2024, Shrouded Screen Images Techniques for Redacting Info</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-timelessly-taken-selfies-from-the-bygone-era/"><u>[New] In 2024, Timelessly Taken Selfies From the Bygone Era</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-screen-recording-mobile-tips-and-tricks-for-2024/"><u>[New] Snapchat Screen Recording Mobile Tips and Tricks for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-list-action-cameras-ideal-mics-for-2024/"><u>[Updated] Ultimate List Action Camera's Ideal Mics for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amazons-innovative-approach-introducing-an-advanced-ai-benchmark-for-ranking-annotation-gaps-spotlight-on-the-latest-zdnet-report/"><u>Amazon's Innovative Approach: Introducing an Advanced AI Benchmark for Ranking Annotation Gaps - Spotlight on the Latest ZDNet Report</u></a></li>
+<li><a href="https://app-tips.techidaily.com/collaborative-effort-between-sonys-ai-division-and-ai-singapore-on-advanced-language-models-insights-from-zdnet/"><u>Collaborative Effort Between Sony's AI Division and AI Singapore on Advanced Language Models - Insights From ZDNet</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/discover-the-most-effective-and-straightforward-backup-software-for-windows-top-picks-for-2ebyu85/"><u>Discover the Most Effective and Straightforward Backup Software for Windows - Top Picks for 2Ebyu85</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/effortless-group-chats-joining-zoom-on-your-android/"><u>Effortless Group Chats Joining Zoom on Your Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-chilly-response-of-enterprises-to-the-heated-hype-around-5g-insights-and-analysis-zdnet/"><u>Exploring the Chilly Response of Enterprises to the Heated Hype Around 5G: Insights and Analysis | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-concept-of-immutable-systems-in-linux-key-advantages-for-stable-and-secure-operations-it-security-hub/"><u>Exploring the Concept of Immutable Systems in Linux: Key Advantages for Stable and Secure Operations | IT Security Hub</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/interaktionstexte-10-deutsche-grussformeln-ausserhalb-des-hallo/"><u>Interaktionstexte: 10 Deutsche Grußformeln Außerhalb Des 'Hallo'</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-media-subtitles-transformation/"><u>Mastering Media Subtitles Transformation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-agile-journey-six-pivotal-principles-for-triumphant-software-design-from-zdnet/"><u>Navigating the Agile Journey: Six Pivotal Principles for Triumphant Software Design From ZDnet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-jabra-earphone-problems-effective-solutions-and-troubleshooting-techniques/"><u>Overcome Jabra Earphone Problems : Effective Solutions and Troubleshooting Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prepare-now-top-five-actions-to-take-with-your-windows-10-pc-before-end-of-service-in-a-years-time-insights-from-zdnet/"><u>Prepare Now: Top Five Actions to Take with Your Windows 10 PC Before End of Service in a Year's Time - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-power-of-concealment-leveraging-anonymity-to-strengthen-your-virtual-workforce-zdnet/"><u>The Power of Concealment: Leveraging Anonymity to Strengthen Your Virtual Workforce | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-lms-solutions-reviewed-comprehensive-guide-zdnet/"><u>Top Rated LMS Solutions Reviewed: Comprehensive Guide | ZDNet</u></a></li>
 </ul></div>
 

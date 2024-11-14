@@ -1,7 +1,7 @@
 ---
 title: The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights
-date: 2024-11-01T17:28:10.749Z
-updated: 2024-11-04T17:27:09.682Z
+date: 2024-11-09T17:33:01.095Z
+updated: 2024-11-13T19:42:35.452Z
 tags:
   - password-manager
 categories:
@@ -110,10 +110,10 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -140,10 +140,10 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -191,22 +191,17 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-melodious-modulation-techniques-in-free-fire/"><u>[New] Melodious Modulation Techniques in Free Fire</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pro-rated-top-8-convertors-for-subtitles-and-srts/"><u>[Updated] Pro-Rated Top 8 Convertors for Subtitles & SRTs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-affordable-wonders-in-virtual-reality-headsets-from-china/"><u>2024 Approved Affordable Wonders in Virtual Reality Headsets From China</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-integration-by-one-third-of-marketing-teams-explored-insights-from-zdnet/"><u>AI Integration by One-Third of Marketing Teams Explored: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/aseans-transformative-digital-policies-propel-towards-a-2-trillion-tech-market-by-2030-insights-from-zdnet/"><u>ASEAN's Transformative Digital Policies Propel Towards a $2 Trillion Tech Market by 2030 - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/becoming-an-effective-tech-team-leader-by-understanding-the-core-business-strategies-for-success-on-zdnet/"><u>Becoming an Effective Tech Team Leader by Understanding the Core Business | Strategies for Success on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-drags-the-revolution-of-uis-with-generative-ai-insights-for-tomorrows-tech/"><u>Beyond Clicks and Drags: The Revolution of UIs with Generative AI – Insights for Tomorrow's Tech</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-for-singaporean-smes-equip-your-team-with-genai-skills-insights-from-zdnet/"><u>Comprehensive Guide for Singaporean SMEs: Equip Your Team with GenAI Skills - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-leveraging-cg-central-luts-for-cinematic-color-enhancement/"><u>In 2024, Leveraging CG Central LUTs for Cinematic Color Enhancement</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/live-streaming-mastery-discover-the-power-of-manycam-your-ultimate-virtual-camera-solution/"><u>Live Streaming Mastery: Discover the Power of ManyCam - Your Ultimate Virtual Camera Solution!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/marketing-strategies-evolve-with-ai-how-many-are-on-board-an-analysis-by-zdnet/"><u>Marketing Strategies Evolve with AI: How Many Are on Board? An Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-start-with-understanding-your-companys-core-goals-insights-from-zdnet/"><u>Mastering Tech Team Leadership: Start with Understanding Your Company's Core Goals | Insights From ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/no-button-fixes-how-to-boot-up-a-malfunctioning-iphone-easily/"><u>No-Button Fixes: How to Boot Up a Malfunctioning iPhone Easily</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/techniques-for-duplicating-multimedia-elements-across-pages-a-guide-using-flipbuilder/"><u>Techniques for Duplicating Multimedia Elements Across Pages: A Guide Using FlipBuilder</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-mighty-beatit-bt-d11-portable-charger-review/"><u>The Ultimate Guide to the Mighty Beatit BT-D11: Portable Charger Review</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-honor-70-lite-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Honor 70 Lite 5G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-business-executives-doubt-it-reliability-insights-from-a-new-ibm-research-revealed-on-zdnet/"><u>Why Business Executives Doubt IT Reliability: Insights From a New IBM Research Revealed on ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-ab-testing-caption-variants/"><u>[Updated] A/B Testing Caption Variants</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-embracing-the-edge-how-surge-in-edge-computing-devices-shapes-future-careers-techworld/"><u>1. Embracing the Edge: How Surge in Edge Computing Devices Shapes Future Careers | TechWorld</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-ingenuity-optimal-apps-and-platforms-for-frames-to-photos/"><u>2024 Approved Image Ingenuity Optimal Apps and Platforms for Frames to Photos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nubia-red-magic-8s-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nubia Red Magic 8S Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-zte-nubia-flip-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror ZTE Nubia Flip 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pixel-perfect-windows-recorder-free/"><u>In 2024, Pixel Perfect Windows Recorder, Free</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/obs-rescue-cameras-are-back-up/"><u>OBS Rescue Cameras Are Back Up</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tackling-the-accountability-gap-in-artificial-intelligence-development/"><u>Tackling the Accountability Gap in Artificial Intelligence Development</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-role-of-multiple-ai-systems-in-business-success-understanding-the-trends-with-zdnets-analysis/"><u>The Role of Multiple AI Systems in Business Success: Understanding the Trends with ZDNET's Analysis</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-battle-evaluating-outlookcom-against-gmail-to-find-your-ideal-email-service/"><u>The Ultimate Battle: Evaluating Outlook.com Against Gmail to Find Your Ideal Email Service</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-unseen-challenge-in-conversational-ai-stanford-highlights-english-centric-flaws-in-modern-chatbots-zdnet/"><u>The Unseen Challenge in Conversational AI: Stanford Highlights English-Centric Flaws in Modern Chatbots | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-work-how-ai-agents-mark-a-new-era-of-innovation-and-permanent-shifts-in-employment-landscape/"><u>Transforming Work: How AI Agents Mark a New Era of Innovation and Permanent Shifts in Employment Landscape</u></a></li>
 </ul></div>
 

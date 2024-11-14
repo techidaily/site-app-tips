@@ -1,7 +1,7 @@
 ---
 title: Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET
-date: 2024-11-01T16:34:37.408Z
-updated: 2024-11-04T17:07:14.553Z
+date: 2024-11-11T16:08:20.898Z
+updated: 2024-11-13T17:20:12.400Z
 tags:
   - password-manager
 categories:
@@ -64,23 +64,26 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-secret-behind-successful-igtv-uploads-from-h-videos-for-2024/"><u>[New] The Secret Behind Successful IGTV Uploads From H-Videos for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-asus-rog-phone-7-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Asus ROG Phone 7</u></a></li>
-<li><a href="https://app-tips.techidaily.com/accelerate-your-coding-speed-using-generative-ai-benefits-and-pitfalls-to-consider/"><u>Accelerate Your Coding Speed Using Generative AI: Benefits and Pitfalls to Consider</u></a></li>
-<li><a href="https://app-tips.techidaily.com/creating-an-impressive-table-with-excel-a-step-by-step-guide/"><u>Creating an Impressive Table with Excel: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-poco-c51-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Poco C51 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/regular-audits-and-tests/"><u>Regular Audits and Tests</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/secure-your-profile-how-to-modify-your-facebook-password-safely/"><u>Secure Your Profile: How To Modify Your Facebook Password Safely</u></a></li>
-<li><a href="https://app-tips.techidaily.com/skyrocket-productivity-by-thinking-as-a-dev-tips-and-strategies-from-tech-experts-zdnet/"><u>Skyrocket Productivity by Thinking as a Dev: Tips and Strategies From Tech Experts | ZDNet</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/smooth-streams-quickly-unfreeze-vlc-videos/"><u>Smooth Streams: Quickly Unfreeze VLC Videos</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-a58-4g-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo A58 4G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-ad-strategies-with-adobes-innovative-generative-ai-campaign-solutions-tech-news/"><u>Transform Your Ad Strategies with Adobe's Innovative Generative AI Campaign Solutions - Tech News</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-vivid-visuals-selecting-the-best-11-tutorials/"><u>[New] Crafting Vivid Visuals Selecting the Best 11 Tutorials</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-aviations-new-titans-dji-phantom-pro-and-gopro-k20-ii/"><u>[New] In 2024, Aviation's New Titans DJI Phantom Pro & GoPro K20 II</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebooks-2023-video-innovations-embracing-the-short-form-approach/"><u>[Updated] 2024 Approved Facebook’s 2023 Video Innovations Embracing the Short-Form Approach</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-discovering-your-curated-collection-of-tunes-in-youtubes-depths/"><u>[Updated] Discovering Your Curated Collection of Tunes in YouTube's Depths</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-wacom-bamboo-software-update/"><u>Effortless Wacom Bamboo Software Update</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-business-with-low-code-solutions-how-they-boost-employer-appeal/"><u>Elevate Your Business with Low-Code Solutions: How They Boost Employer Appeal</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/excellence-range-highest-quality-webcam-grips/"><u>Excellence Range Highest Quality Webcam Grips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explosive-expansion-of-lowno-code-tech-sector-signals-evolving-job-landscape-insights-from-zdnet/"><u>Explosive Expansion of Low/No-Code Tech Sector Signals Evolving Job Landscape: Insights From ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-adventure-essentials-top-10-gopro-protectors-reviewed/"><u>In 2024, Adventure Essentials - Top 10 GoPro Protectors Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-the-art-of-snapping-on-windows-11-discover-9-simple-techniques/"><u>Mastering the Art of Snapping on Windows 11: Discover 9 Simple Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-job-market-the-persistent-value-of-open-source-expertise-and-linux-knowledge-in-challenging-economic-times-insights-from-zdnet/"><u>Navigating the Job Market: The Persistent Value of Open Source Expertise & Linux Knowledge in Challenging Economic Times - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-unseen-social-spot-how-to-silence-your-fb-visibility/"><u>The Unseen Social Spot: How to Silence Your FB Visibility</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-tech-executive-forecasts-major-evolution-in-cloud-computing-strategies-insights-from-zdnet/"><u>Top Tech Executive Forecasts Major Evolution in Cloud Computing Strategies – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/work-anywhere-discover-how-onedrives-new-offline-feature-keeps-you-productive-no-matter-where-you-are/"><u>Work Anywhere: Discover How OneDrive's New Offline Feature Keeps You Productive, No Matter Where You Are</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

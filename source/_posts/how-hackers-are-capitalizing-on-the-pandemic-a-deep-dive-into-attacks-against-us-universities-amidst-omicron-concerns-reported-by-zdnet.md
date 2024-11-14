@@ -1,7 +1,7 @@
 ---
 title: "How Hackers Are Capitalizing on the Pandemic: A Deep Dive Into Attacks Against US Universities Amidst Omicron Concerns | Reported by ZDNET"
-date: 2024-10-31T17:11:58.716Z
-updated: 2024-11-04T17:12:00.639Z
+date: 2024-11-06T19:00:12.324Z
+updated: 2024-11-13T16:58:44.110Z
 tags:
   - password-manager
 categories:
@@ -88,24 +88,29 @@ By entering under the guise of a legitimate user, the attacker has a greater cha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-innovative-solutions-exceeding-standard-fbx-recorders/"><u>[New] 2024 Approved Innovative Solutions Exceeding Standard FBX Recorders</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-free-secure-video-calls-top-10-safe-apps-for-android-and-ios-users/"><u>[New] In 2024, Free, Secure Video Calls Top 10 Safe Apps for Android and iOS Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-strategies-for-effective-ppt-sharing-in-google-meet-sessions/"><u>[New] Strategies for Effective PPT Sharing in Google Meet Sessions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-pixelperfect-editor/"><u>[Updated] PixelPerfect Editor</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2022s-leading-collaborative-platforms-for-enhanced-teamwork-pcmag/"><u>2022'S Leading Collaborative Platforms for Enhanced Teamwork | PCMag</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-7-plus-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 7 Plus?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-email-services-with-onlyoffice-a-step-by-step-guide/"><u>Integrating Email Services with ONLYOFFICE – A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/sonys-ai-research-unit-collaborates-with-ai-singapore-on-advanced-language-models-technews/"><u>Sony's AI Research Unit Collaborates with AI Singapore on Advanced Language Models - TechNews</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-the-lip-reader-how-this-innovative-app-poses-a-threat-to-giants-like-microsoft-teams-and-zoom-zdnet-insight/"><u>The Rise of the Lip-Reader: How This Innovative App Poses a Threat to Giants Like Microsoft Teams and Zoom | ZDNet Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-microsofts-critical-challenge-with-windows-11-just-one-year-away-an-in-depth-analysis-by-zdnet/"><u>Urgent: Microsoft's Critical Challenge with Windows 11 Just One Year Away - An In-Depth Analysis by ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/youtube-to-mpeg-masterclass-key-strategies-revealed/"><u>YouTube-to-MPEG Masterclass Key Strategies Revealed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-capturing-moments-like-never-before-toolwiz-apps-2023-review-for-2024/"><u>[New] Capturing Moments Like Never Before Toolwiz App's 2023 Review for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-virtual-horizons-redefining-the-movie-experience/"><u>[New] Virtual Horizons Redefining the Movie Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hash-tags-that-catapult-you-to-6k-views-on-youtube/"><u>[Updated] 2024 Approved Hash Tags That Catapult You to 6K Views on YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-top-cameras-for-drifting-gopro-vs-ghost-s-showdown/"><u>[Updated] In 2024, Top Cameras for Drifting GoPro Vs. Ghost-S Showdown</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-master-class-the-7-cutting-edge-apps-for-youtube-live-on-iphonesandroid-os/"><u>[Updated] Master Class The 7 Cutting-Edge Apps for YouTube LIVE on iPhones/Android OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-connection-instructions-for-printers-using-windows-10-operating-system/"><u>Easy Connection Instructions for Printers Using Windows 10 Operating System</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/erfolgreiche-methoden-grossere-avi-filme-zu-0-euro-in-mp4-umwandeln/"><u>Erfolgreiche Methoden: Größere AVI-Filme Zu 0 Euro in MP4 Umwandeln</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-change-your-libreoffice-settings-for-native-ms-word-excel-file-compatibility/"><u>Guide: Change Your LibreOffice Settings for Native MS Word, Excel File Compatibility</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-suse-dominates-with-an-unprecedented-19-years-of-support-for-its-linux-distros-no-rivals-nearby-computerworld/"><u>How SUSE Dominates with an Unprecedented 19 Years of Support for Its Linux Distros – No Rivals Nearby | ComputerWorld</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-expertise-for-growth-the-impact-of-it-professionals-in-emerging-technology-free-enterprises-as-explained-by-zdnet/"><u>Leveraging Expertise for Growth: The Impact of IT Professionals in Emerging Technology-Free Enterprises, as Explained by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-document-creation-in-microsoft-364-with-these-4-latest-co-pilot-enhancements-ace-your-docs-faster-than-ever-insights-from-zdnet/"><u>Master Document Creation in Microsoft 364 with These 4 Latest Co-Pilot Enhancements: Ace Your Docs Faster Than Ever! - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-sql-with-expertly-curated-online-lessons-discover-why-our-picks-are-top-tech-education-sites-zdnet/"><u>Master SQL with Expertly Curated Online Lessons: Discover Why Our Picks Are Top Tech Education Sites - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamlessly-combining-google-drive-with-slack-a-step-by-step-guide/"><u>Seamlessly Combining Google Drive with Slack: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-overcome-bluetooth-pairing-hurdles-on-windows-11-updated/"><u>Step-by-Step Solutions: Overcome Bluetooth Pairing Hurdles on Windows 11 - Updated</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-the-chaos-streamlining-linux-and-open-source-documentation/"><u>Taming the Chaos: Streamlining Linux & Open Source Documentation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-secret-behind-leading-minds-choosing-open-source-revealing-tips-by-zdnet-experts/"><u>The Secret Behind Leading Minds Choosing Open Source? Revealing Tips by ZDNet Experts</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

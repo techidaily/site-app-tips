@@ -1,7 +1,7 @@
 ---
 title: White House Endorses Open Source AI Innovation in Recent Report – Exclusive Analysis by ZDNet
-date: 2024-10-31T17:17:59.490Z
-updated: 2024-11-04T16:00:57.153Z
+date: 2024-11-08T17:45:54.846Z
+updated: 2024-11-13T18:34:02.804Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +181,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-capitalize-on-youtube-shorts-must-knows-earning-prospects/"><u>[New] 2024 Approved How to Capitalize on Youtube Shorts Must-Knows, Earning Prospects</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-create-enhance-and-share-with-top-10-free-drawing-programs-on-mac/"><u>[New] Create, Enhance & Share With Top 10 Free Drawing Programs on Mac</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-essential-iospc-video-changers-the-ultimate-list/"><u>[New] Essential iOS/PC Video Changers The Ultimate List</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-game-on-camera-strategies-for-videographers-in-sports-for-2024/"><u>[Updated] Game On, Camera! Strategies for Videographers in Sports for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-creating-captivating-360-footage-for-social-media-sharing/"><u>2024 Approved Creating Captivating 360 Footage for Social Media Sharing</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/comment-recuperer-des-donnees-sans-perdre-aucune-donnee-sur-un-disque-dur-non-initialise/"><u>Comment Récupérer Des Données Sans Perdre Aucune Donnée Sur Un Disque Dur Non Initialisé ?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-artificial-intelligence-highlight-videos-essentials-and-software/"><u>Comprehensive Guide to Artificial Intelligence Highlight Videos: Essentials & Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-monicas-artificial-intelligence-powers-and-effective-strategies-for-utilizing-chatgpt/"><u>Discover Monica's Artificial Intelligence Powers and Effective Strategies for Utilizing ChatGPT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-best-alternative-messaging-apps-to-whatsapp-10-amazing-choices/"><u>Discover the Best Alternative Messaging Apps to WhatsApp – 10 Amazing Choices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192671-discover-the-ideal-free-pdf-modification-apps-and-online-utilities-ranked-for-you/"><u>Discover the Ideal Free PDF Modification Apps & Online Utilities – Ranked for You</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-top-5-alternatives-to-voicemyai-for-crafting-artificial-intelligence-powered-voice-assistants/"><u>Discover Top 5 Alternatives to voicemy.ai for Crafting Artificial Intelligence-Powered Voice Assistants</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-analysis-avclabs-video-boosting-technology-advantages-and-limitations/"><u>Expert Analysis: AVClabs' Video Boosting Technology - Advantages & Limitations</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/optimize-task-management-with-these-5-outstanding-zapier-replacements/"><u>Optimize Task Management with These 5 Outstanding Zapier Replacements</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimized-playthroughs-no-more-stutter-in-cyberpunk-2077/"><u>Optimized Playthroughs: No More Stutter in Cyberpunk 2077</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192928-top-5-trusted-ipad-video-player-apps-of-2024-install-now/"><u>Top 5 Trusted iPad Video Player Apps of 2024 - Install Now!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-recommended-apps-for-seamless-mobile-hotspot-access/"><u>Top Recommended Apps for Seamless Mobile Hotspot Access</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unlock-creativity-adding-borders-in-video-stories/"><u>Unlock Creativity Adding Borders in Video Stories</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/unveiling-gadget-secrets-with-toms-hardware-analysis/"><u>Unveiling Gadget Secrets with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/dentifying-causes-for-disappearing-youtube-shorts-thumbnails/"><u>[New] Identifying Causes for Disappearing YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-content-creation-battleground-choosing-between-vimeo-youtube-dailymotion/"><u>[New] In 2024, Content Creation Battleground Choosing Between Vimeo, YouTube, DailyMotion</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-step-up-your-game-on-tiktok-top-50-trending-tags/"><u>[New] Step Up Your Game on TikTok Top 50 Trending Tags</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-z-flip-5-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy Z Flip 5 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-remedy-missing-router-control-center/"><u>How to Remedy Missing Router Control Center</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-15-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 15</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-5-ai-technologies-for-transforming-grayscale-videos-into-full-color-masterpieces/"><u>Leading 5 AI Technologies for Transforming Grayscale Videos Into Full Color Masterpieces</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-3-video-to-text-conversion-software-a-comprehensive-guide/"><u>Top 3 Video-to-Text Conversion Software: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-substitutes-for-elevenlabs-explored-detailed-comparison-and-key-characteristics/"><u>Top 5 Substitutes for ElevenLabs Explored: Detailed Comparison and Key Characteristics</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-superior-substitutes-to-zapier-enhance-your-workflow-automation/"><u>Top 5 Superior Substitutes to Zapier: Enhance Your Workflow Automation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-exceptional-no-limit-character-ai-solutions-for-dynamic-experiences/"><u>Unveiling Exceptional No-Limit Character AI Solutions for Dynamic Experiences</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-you-need-to-understand-about-samsungs-newest-mobile-device-introduction/"><u>What You Need to Understand About Samsung's Newest Mobile Device Introduction</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News
-date: 2024-11-03T16:12:42.496Z
-updated: 2024-11-04T16:52:28.361Z
+date: 2024-11-12T18:26:59.379Z
+updated: 2024-11-13T16:00:03.700Z
 tags:
   - password-manager
 categories:
@@ -82,30 +82,28 @@ In a message to users, LastPass reiterated that it could "strategically increase
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-navigating-the-musical-maze-copyright-rules-for-insta-users/"><u>[New] In 2024, Navigating the Musical Maze Copyright Rules for Insta Users</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-in-game-recording-unveiled/"><u>[Updated] 2024 Approved In-Game Recording Unveiled</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-achieve-pro-level-results-with-these-top-obs-edits/"><u>[Updated] In 2024, Achieve Pro-Level Results with These Top OBS Edits</u></a></li>
-<li><a href="https://app-tips.techidaily.com/challenges-for-ai-communication-in-multilingual-contexts-revealed-by-stanford-study-featured-on-zdnet/"><u>Challenges for AI Communication in Multilingual Contexts Revealed by Stanford Study, Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/edge-computing-boom-unpacking-how-this-trend-shapes-future-careers-insights-from-zdnet/"><u>Edge Computing Boom: Unpacking How This Trend Shapes Future Careers - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-generative-ai-enhances-productivity-and-reshapes-the-role-of-software-developers-zdnet-insights/"><u>How Generative AI Enhances Productivity and Reshapes the Role of Software Developers | ZDNet Insights</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-a23-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy A23 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-the-gentle-art-of-stepping-back-from-discords/"><u>In 2024, The Gentle Art of Stepping Back From Discords</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/life-q30-anc-hearing-solutions-budget-friendly-review/"><u>Life Q30 ANC Hearing Solutions - Budget-Friendly Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-bulletproof-ai-watermarks-insights-from-zdnet/"><u>The Ultimate Guide to Bulletproof AI Watermarks: Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unleashing-desktop-capabilities-on-the-go-with-apples-m1-chip-in-the-latest-ipad-pro/"><u>Unleashing Desktop Capabilities On-the-Go with Apple's M1 Chip in the Latest iPad Pro</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-digital-divas-top-ten-gamers-on-youtube/"><u>[New] 2024 Approved Digital Divas Top Ten Gamers on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unlocking-64128gbs-full-potential-for-video-storing/"><u>[Updated] 2024 Approved Unlocking 64/128GB's Full Potential for Video Storing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-understanding-consumer-behavior-a-guide-for-market-researchers/"><u>[Updated] In 2024, Understanding Consumer Behavior A Guide for Market Researchers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-cropping-in-the-digital-age/"><u>2024 Approved Mastering the Art of Cropping in the Digital Age</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adapting-to-an-automated-future-essential-tips-for-technology-professionals-thriving-amidst-ai-advancements-zdnet/"><u>Adapting to an Automated Future: Essential Tips for Technology Professionals Thriving Amidst AI Advancements | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-chatbot-language-bias-revealed-by-stanford-research-the-struggle-with-non-english-languages-zdnet/"><u>AI Chatbot Language Bias Revealed by Stanford Research - The Struggle with Non-English Languages | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-spearheads-surge-in-non-monetary-exchanges-projected-reach-of-16-trillion/"><u>Asia Spearheads Surge in Non-Monetary Exchanges: Projected Reach of 1.6 Trillion</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-downloading-and-updating-windows-compatible-hp-laptop-drivers/"><u>Comprehensive Guide: Downloading & Updating Windows-Compatible HP Laptop Drivers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-motorola-edge-2023-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Motorola Edge 2023 Black and White | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revitalizing-the-tech-workforce-how-ai-tools-mitigate-job-stress-and-enhance-focus-for-it-experts-learn-from-zdnets-expert-analysis/"><u>Revitalizing the Tech Workforce: How AI Tools Mitigate Job Stress and Enhance Focus for IT Experts | Learn From ZDNet's Expert Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speeding-matters-an-inquiry-into-the-decreased-velocity-of-chatgpt-nternals-4-compared-to-version-35/"><u>Speeding Matters: An Inquiry Into the Decreased Velocity of ChatGPT-Nternals 4 Compared to Version 3.5</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-infinix-smart-7-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Infinix Smart 7 Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-urgent-need-for-upgraded-skills-in-cybersecurity-teams-facing-legacy-system-hurdles/"><u>The Urgent Need for Upgraded Skills in Cybersecurity Teams Facing Legacy System Hurdles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/when-ai-growth-meets-agile-practices-uncovering-challenges-through-latest-studies-zdnet/"><u>When AI Growth Meets Agile Practices: Uncovering Challenges Through Latest Studies | ZDNET</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-back-lost-apps-expert-methods-for-off-screen-window-restoration/"><u>Win Back Lost Apps: Expert Methods for Off-Screen Window Restoration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-how-many-marketing-departments-are-leveraging-artificer-intelligence-now/"><u>ZDNet Reveals How Many Marketing Departments Are Leveraging Artificer Intelligence Now</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: The Rise of Cloud Tech Vs. Current Dominance of On-Site Solutions - A Deep Dive with ZDNet
-date: 2024-10-28T17:27:34.825Z
-updated: 2024-11-04T16:54:34.338Z
+date: 2024-11-07T17:52:58.346Z
+updated: 2024-11-13T18:36:36.120Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,24 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-conquering-interviews-a-compreayers-journey-to-success/"><u>[New] In 2024, Conquering Interviews A Compreayer's Journey to Success</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-exclusive-free-mcb-banner-designs/"><u>[Updated] 2024 Approved Exclusive Free MCB Banner Designs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-vanguard-firefox-recording-software/"><u>[Updated] 2024 Approved Vanguard FireFox Recording Software</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-voice-transformation-devices-for-creators/"><u>[Updated] Ultimate Voice Transformation Devices for Creators</u></a></li>
-<li><a href="https://app-tips.techidaily.com/another-cyber-attack-on-lastpass-revealed-by-zdnets-latest-report/"><u>Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-password-management-tools-of-2022-slash-your-costs-insights-from-zdnet/"><u>Best Password Management Tools of 2022: Slash Your Costs - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cinematic-basics-unveiled-fundamental-shots-explained-clearly-for-2024/"><u>Cinematic Basics Unveiled Fundamental Shots Explained Clearly for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/debunking-bitcoin-privacy-myths-the-expose-that-shook-its-secrecy/"><u>Debunking Bitcoin Privacy Myths: The Exposé That Shook Its Secrecy</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-performance-gadgets-on-toms-tech-analysis/"><u>Discovering Performance Gadgets on Tom's Tech Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-and-secure-password-management-solutions-for-202e-thorough-evaluation-by-industry-experts-techradar/"><u>Free & Secure Password Management Solutions for 202E: Thorough Evaluation by Industry Experts - TechRadar</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-craft-your-visual-narrative-top-10-iphoneandroid-screenshot-sticker-apps/"><u>In 2024, Craft Your Visual Narrative – Top 10 iPhone/Android Screenshot Sticker Apps</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Realme 11 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oneplus-nord-3-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from OnePlus Nord 3 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-security-how-dashlanes-passwordless-logins-eliminate-the-hassle-of-remembering-one-overarching-password-insights-from-zdnet/"><u>Master Your Security: How Dashlane's Passwordless Logins Eliminate the Hassle of Remembering One Overarching Password - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-entire-team-with-1password-unbeatable-group-plan-at-just-1995month-explore-the-benefits-on-zdnet/"><u>Secure Your Entire Team with 1Password: Unbeatable Group Plan at Just $19.95/Month - Explore the Benefits on ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-glossary-for-googles-voice-to-text-feature/"><u>Ultimate Glossary for Google's Voice-to-Text Feature</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-and-activating-the-bitwarden-master-password-reminder-a-step-by-step-guide/"><u>Understanding & Activating the Bitwarden Master Password Reminder: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-invest-in-1password-exceptional-security-and-features-justify-premium-price-tag-for-users-cyberguardian-review/"><u>Why Invest in 1Password? Exceptional Security and Features Justify Premium Price Tag for Users | CyberGuardian Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-investigates-the-recent-cybersecurity-breach-exposing-30kplus-healthcare-workers-confidential-details-in-florida-database/"><u>ZDNet Investigates the Recent Cybersecurity Breach Exposing 30K+ Healthcare Workers' Confidential Details in Florida Database</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-capturing-the-whole-picture-not-just-slices-of-it/"><u>[New] 2024 Approved Capturing the Whole Picture, Not Just Slices of It</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/alette-perfection-the-science-of-video-chromaticity-for-2024/"><u>[New] Palette Perfection The Science of Video Chromaticity for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-can-i-view-friends-shared-vids-and-photos-for-2024/"><u>[Updated] How Can I View Friend’s Shared Vids and Photos for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1password-goes-mobile-with-significant-enhancement-see-whats-changed-zdnet/"><u>1Password Goes Mobile with Significant Enhancement, See What's Changed - ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-tips-to-elevate-your-headline-game/"><u>2024 Approved Pro Tips to Elevate Your Headline Game</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/banishing-bulky-buffered-broadcasts-windows-android-tips/"><u>Banishing Bulky Buffered Broadcasts Windows, Android Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/become-an-expert-at-capturing-every-detail-on-xiaomi-mi-11/"><u>Become an Expert at Capturing Every Detail on Xiaomi Mi 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262304751-chinese-innovation-shines-with-the-release-of-cixin-p1-chip-arm-powered-6nm-design-and-impressive-ebytessec-performance/"><u>Chinese Innovation Shines with the Release of Cixin P1 Chip - Arm-Powered, 6Nm Design and Impressive Ebytes/Sec Performance!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cut-costs-and-boost-security-grab-keeper-password-manager-for-half-price-shop-at-zdnet-today/"><u>Cut Costs and Boost Security! Grab Keeper Password Manager for Half Price - Shop at ZDNET Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/implementing-dual-authentication-on-github-via-mobile-apps-a-comprehensive-guide/"><u>Implementing Dual-Authentication on GitHub via Mobile Apps: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/instant-conferencing-zoom-in-the-eyes-of-gmail-for-2024/"><u>Instant Conferencing Zoom in the Eyes of Gmail for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-password-manager-solutions-for-2cy2024-thoroughly-reviewed-by-tech-gurus-at-zdnet/"><u>Leading Password Manager Solutions for 2CY2024: Thoroughly Reviewed by Tech Gurus at ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/security-breach-lastpass-compromised-once-more-critical-update-from-zdnet/"><u>Security Breach: LastPass Compromised Once More - Critical Update From ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-enable-your-mic-for-google-meets-on-pc-windows-1110/"><u>Solving Audio Problems: Enable Your Mic for Google Meets on PC (Windows 11/10)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/switch-from-lastpass-to-icloud-passwords-on-windows-a-step-by-step-guide-zdnet/"><u>Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-zdnets-2024-ranking-of-leading-lastpass-replacements/"><u>Ultimate Guide: ZDNet's 2024 Ranking of Leading LastPass Replacements</u></a></li>
+<li><a href="https://facebook.techidaily.com/unleash-creativity-with-ai-assisted-photo-posting-to-facebook/"><u>Unleash Creativity with AI-Assisted Photo Posting to Facebook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-huge-savings-with-dashlanes-password-manager-snipe-premium-at-just-50-off-today/"><u>Unlock Huge Savings with Dashlane's Password Manager - Snipe Premium at Just 50% Off Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-security-a-detailed-analysis-and-user-assessment-of-premium-password-manager-1password-authoritative-review-by-cryptosafe-zdnet/"><u>Unlocking Security: A Detailed Analysis & User Assessment of Premium Password Manager, 1Password | Authoritative Review by CryptoSafe ZDNET</u></a></li>
 </ul></div>
 

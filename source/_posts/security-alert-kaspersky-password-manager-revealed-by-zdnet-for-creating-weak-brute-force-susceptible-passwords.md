@@ -1,7 +1,7 @@
 ---
 title: "Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords"
-date: 2024-11-01T16:40:39.699Z
-updated: 2024-11-04T16:14:51.783Z
+date: 2024-11-09T17:12:30.972Z
+updated: 2024-11-13T18:10:37.517Z
 tags:
   - password-manager
 categories:
@@ -62,10 +62,10 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -91,24 +91,16 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-maximizing-content-impact-bypassing-virtual-onlookers/"><u>[New] Maximizing Content Impact Bypassing Virtual Onlookers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/kyrocket-visibility-mastering-google-analytics-for-youtubers/"><u>[New] Skyrocket Visibility Mastering Google Analytics for YouTubers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funnyfilmmaker-quick-comic-creation/"><u>[Updated] FunnyFilmMaker Quick Comic Creation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-refining-video-aesthetics-for-impeccable-instagram-presence-for-2024/"><u>[Updated] Refining Video Aesthetics for Impeccable Instagram Presence for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-flawless-loops-on-youtube-with-these-tips/"><u>[Updated] Unlock Flawless Loops on YouTube with These Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-tecno-spark-20c-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Tecno Spark 20C Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/before-microsoft-drops-support-for-windows-explore-five-essential-alternatives-to-keep-your-pc-running-smoothly/"><u>Before Microsoft Drops Support for Windows # : Explore Five Essential Alternatives to Keep Your PC Running Smoothly.</u></a></li>
-<li><a href="https://win-trending.techidaily.com/discover-microsofts-innovative-tech-pants-the-next-gen-wearable-technology-at-just-150-find-out-more/"><u>Discover Microsoft's Innovative 'Tech Pants': The Next-Gen Wearable Technology at Just $150 - Find Out More!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dont-panic-windows-11-users-explore-these-5-strategies-before-microsoft-ends-its-lifeline-zdnet-insights/"><u>Don't Panic, Windows 11 Users! Explore These 5 Strategies Before Microsoft Ends Its Lifeline | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-the-innovative-features-of-anthropics-latest-offerings-complimentary-ios-app-and-premier-corporate-plan-launched-get-insights-from-zdnet/"><u>Explore the Innovative Features of Anthropic's Latest Offerings: Complimentary iOS App and Premier Corporate Plan Launched – Get Insights From ZDNet</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-eyeview-scrutiny-exploration/"><u>In 2024, Eyeview Scrutiny Exploration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-why-many-tech-professionals-feel-drained-yet-hopeful/"><u>Navigating the Challenges: Why Many Tech Professionals Feel Drained Yet Hopeful</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-business-exploring-how-blockchain-decentralization-and-web3-revolutionize-enterprises/"><u>The Future of Business: Exploring How Blockchain, Decentralization & Web3 Revolutionize Enterprises</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-the-best-virtual-meetings-software-in-2eplus22-expert-reviews-and-ratings-by-zdnet/"><u>The Ultimate Guide to the Best Virtual Meetings Software in 2E+22: Expert Reviews & Ratings by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-learning-management-systems-reviewed-by-zdnet-find-the-ideal-lms/"><u>Top-Ranked Learning Management Systems Reviewed by ZDNet: Find the Ideal LMS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-linux-foundation-workshops-and-training-programs-find-the-perfect-bootcamp/"><u>Top-Rated Linux Foundation Workshops & Training Programs: Find the Perfect Bootcamp</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-wwe-2k-battlegrounds-with-directx-11-feature-level-100-compatibility-problems/"><u>Troubleshooting WWE 2K Battlegrounds with DirectX 11 Feature Level 10.0 Compatibility Problems</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlocking-advanced-visuals-how-to-use-picture-in-picture-in-final-cut-pro/"><u>Unlocking Advanced Visuals How to Use Picture-in-Picture in Final Cut Pro</u></a></li>
-<li><a href="https://app-tips.techidaily.com/upcoming-innovations-from-ai-over-the-next-ten-years-as-explored-by-zdnet/"><u>Upcoming Innovations From AI over the Next Ten Years as Explored by ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>[Updated] How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/601386-9780307777331-ask-your-angels/"><u>Ask Your Angels | Free Book</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cognitive-rejuvenation-through-linguistics/"><u>Cognitive Rejuvenation Through Linguistics</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-business-strategy-handbook-for-amazon-web-services-aws-insights-into-dominating-the-cloud-computing-sphere/"><u>Comprehensive Business Strategy Handbook for Amazon Web Services (AWS): Insights Into Dominating the Cloud Computing Sphere</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/harness-the-power-of-audio-proven-sound-techniques-for-effective-email-marketing-via-massmail/"><u>Harness the Power of Audio: Proven Sound Techniques for Effective Email Marketing via MassMail</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/infinix-hot-40-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Infinix Hot 40 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-365-hit-by-ddos-assault-an-in-depth-analysis-the-digital-chronicles/"><u>Microsoft 365 Hit by DDoS Assault: An In-Depth Analysis - The Digital Chronicles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-future-without-official-support-top-5-strategies-for-windows/"><u>Navigating the Future Without Official Support: Top 5 Strategies for Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-rise-of-cloud-technologies-amidst-dominant-on-premise-infrastructures-insights-from-zdnet/"><u>Navigating the Rise of Cloud Technologies Amidst Dominant On-Premise Infrastructures - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-immutable-linux-benefits-of-using-a-non-modifiable-os-distribution-tech-insights/"><u>Understanding Immutable Linux: Benefits of Using a Non-Modifiable OS Distribution | Tech Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Database Leak Reveals Personal Data of Over 30,000 Medical Staff in Florida: An In-Depth Look by ZDNet"
-date: 2024-11-02T16:57:49.656Z
-updated: 2024-11-04T16:06:50.541Z
+date: 2024-11-09T17:06:32.443Z
+updated: 2024-11-13T18:21:57.557Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -99,22 +99,17 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-untapped-realities-of-instagram-story-watchers/"><u>[New] In 2024, Untapped Realities of Instagram Story Watchers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-lag-in-black-ops-cold-war-solve-your-shader-compiling-glitches-now/"><u>Beat the Lag in Black Ops Cold War - Solve Your Shader Compiling Glitches Now</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/fast-track-turning-zip-into-professional-quality-srt-files/"><u>Fast Track Turning ZIP Into Professional-Quality Srt Files</u></a></li>
-<li><a href="https://app-tips.techidaily.com/five-alternative-paths-for-your-still-running-windows-10-system-as-microsofts-official-support-nears-its-end/"><u>Five Alternative Paths for Your Still-Running Windows 10 System as Microsoft's Official Support Nears Its End</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-deactivate-windows-defense-features-in-windows-11-using-these-three-simple-strategies/"><u>How to Deactivate Windows Defense Features in Windows 11 Using These Three Simple Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-assessment-of-matterports-virtual-tour-tool-insights-from-pcmag-review/"><u>In-Depth Assessment of Matterport's Virtual Tour Tool - Insights From PCMag Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-windows-11-vms-expert-tips-for-optimal-configuration-wisdom-directly-from-zdnets-pros/"><u>Mastering Windows 11 VMs: Expert Tips for Optimal Configuration - Wisdom Directly From ZDNet's Pros</u></a></li>
-<li><a href="https://app-tips.techidaily.com/new-microsoft-software-refresh-risks-boosting-office-stress-levels-says-zdnet-analysis/"><u>New Microsoft Software Refresh Risks Boosting Office Stress Levels, Says ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-obstacles-in-ai-precision-and-reliability-for-todays-developers-expert-analysis-at-zdnet/"><u>Overcoming Obstacles in AI Precision & Reliability for Today's Developers | Expert Analysis at ZDNet</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-nokia-c12-plus-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Nokia C12 Plus? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/sdk-upgrade-alert-enhancing-facebook-video-downloader-apps-for-android/"><u>SDK Upgrade Alert Enhancing Facebook Video Downloader Apps for Android</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/your-roll-thriving-in-the-world-of-sluggish-youtube-content-52-chars-for-2024/"><u>Slow Your Roll Thriving in the World of Sluggish YouTube Content (52 Chars) for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-critical-need-for-clarity-in-artificer-interests-exploring-the-transparency-gap-in-ai-evolution-zdnet/"><u>The Critical Need for Clarity in Artificer Interests: Exploring the Transparency Gap in AI Evolution | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-purpose-of-an-artificial-earth-plane-in-antenna-systems-can-be-similar-to-that-of-natural-ground-when-it-comes-to-reflecting-radio-waves-and-improving-s78/"><u>The Purpose of an Artificial Earth Plane in Antenna Systems Can Be Similar to that of Natural Ground when It Comes to Reflecting Radio Waves and Improving Signal Quality.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-ai-servicenows-essential-four-core-tenets-explained-boost-your-enterprise-success/"><u>Unlocking the Power of AI: ServiceNow's Essential Four Core Tenets Explained - Boost Your Enterprise Success!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsofts-window-of-opportunity-shrinks-as-they-race-against-time-on-windows-11-tech-analysis/"><u>Urgent Challenge: Microsoft's Window of Opportunity Shrinks as They Race Against Time on Windows 11 | Tech Analysis</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/web-based-viewer-ratio-optimization/"><u>Web-Based Viewer Ratio Optimization</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-adding-visual-time-indicators-to-your-youtube-links/"><u>[New] Adding Visual Time Indicators to Your YouTube Links</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-7-crucial-gadgets-for-successful-metaverse-journey-for-2024/"><u>[Updated] 7 Crucial Gadgets for Successful Metaverse Journey for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adaptive-antenna-arrays-dynamically-alter-their-radiation-patterns-in-response-to-environmental-changes-optimizing-communication-links-with-moving-targets-o76/"><u>Adaptive Antenna Arrays Dynamically Alter Their Radiation Patterns in Response to Environmental Changes, Optimizing Communication Links with Moving Targets or Fluctuating Interference Conditions.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-security-at-risk-with-generative-ai-crowdstrike-cto-alerts-in-latest-analysis-for-zdnet/"><u>Enterprise Security at Risk with Generative AI, CrowdStrike CTO Alerts in Latest Analysis for ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-linux-69-kernel-improvements-a-ranking-digitalreviewer/"><u>Essential Linux 6.9 Kernel Improvements: A Ranking - DigitalReviewer</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/harnessing-hdr-in-post-top-4-youtube-guides-with-complimentary-green-screen-effects-for-2024/"><u>Harnessing HDR in Post Top 4 YouTube Guides with Complimentary Green Screen Effects for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-validity-biometric-sensor-drivers-swiftly-a-user-friendly-guide-to-get-started/"><u>Install Validity Biometric Sensor Drivers Swiftly: A User-Friendly Guide to Get Started!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-capable-of-adapting-from-real-time-conversations/"><u>Is ChatGPT Capable of Adapting From Real-Time Conversations?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimizacion-del-rendimiento-visual-a-traves-de-intelligent-frame-interpolation-aumento-fps-y-transiciones-sin-esfuerzo/"><u>Optimización Del Rendimiento Visual a Través De Intelligent Frame Interpolation - Aumento FPS Y Transiciones Sin Esfuerzo</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-effortless-av1-transcoding-of-dvds-on-windows-pc/"><u>Step-by-Step Tutorial: Effortless AV1 Transcoding of DVDs on Windows PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ups-and-downs-of-life-with-facebook/"><u>The Ups and Downs of Life with Facebook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-nvidias-secret-sauce-a-deep-dive-into-gpu-driver-source-release/"><u>Unveiling Nvidia’s Secret Sauce: A Deep Dive Into GPU Driver Source Release</u></a></li>
 </ul></div>
 

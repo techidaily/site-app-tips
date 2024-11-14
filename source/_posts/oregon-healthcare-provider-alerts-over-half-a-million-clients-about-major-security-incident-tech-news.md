@@ -1,7 +1,7 @@
 ---
 title: Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News
-date: 2024-10-29T16:55:23.449Z
-updated: 2024-11-04T17:23:40.947Z
+date: 2024-11-06T16:26:41.245Z
+updated: 2024-11-13T17:53:44.745Z
 tags:
   - password-manager
 categories:
@@ -82,29 +82,29 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-how-to-stream-a-pre-recorded-video-live-on-facebook-for-2024/"><u>[New] How to Stream A Pre-Recorded Video Live on Facebook for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-lightweight-travel-bags-with-camera-integration/"><u>[Updated] Lightweight Travel Bags with Camera Integration</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-update-names-in-google-meet-cross-platform/"><u>2024 Approved How to Update Names in Google Meet - Cross Platform</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-executive-technology-literacy-top-six-strategies-for-upskilling-leaders/"><u>Boosting Executive Technology Literacy: Top Six Strategies for Upskilling Leaders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-checks-when-windows-obs-studio-wont-launch/"><u>Essential Checks When Windows' OBS Studio Won't Launch</u></a></li>
-<li><a href="https://app-tips.techidaily.com/global-shift-towards-digital-wallets-anticipated-growth-to-16t-asia-paving-the-way-zdnet/"><u>Global Shift Towards Digital Wallets - Anticipated Growth to $1.6T, Asia Paving the Way | ZDNET</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-magic-vs-2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor Magic Vs 2 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-new-normal-essential-strategies-for-tech-experts-amidst-the-rise-of-artificial-intelligence-insights-from-zdnet/"><u>Navigating the New Normal: Essential Strategies for Tech Experts Amidst the Rise of Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-program-management-thwarting-windows-autoshrink/"><u>Optimal Program Management: Thwarting Windows' Autoshrink</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pre-owned-pc-selection-strategies-important-considerations-for-buyers/"><u>Pre-Owned Pc Selection Strategies: Important Considerations for Buyers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ready-for-upskilling-explore-non-ai-edge-tech-trends-and-tips-learn-more-on-zdnet/"><u>Ready for Upskilling? Explore Non-AI Edge Tech Trends and Tips - Learn More on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/reviving-human-connections-why-tech-experts-should-engage-in-meaningful-dialogue-beyond-datasets/"><u>Reviving Human Connections: Why Tech Experts Should Engage in Meaningful Dialogue Beyond Datasets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-finance-projected-growth-of-cashless-transactions-at-16t-with-asia-paving-the-way-zdnet-analysis/"><u>The Future of Finance: Projected Growth of Cashless Transactions at $1.6T with Asia Paving the Way | ZDNet Analysis</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-quality-free-dvd-to-mp3-converter-apps-of-2023-compatible-with-windows-and-mac/"><u>Top-Quality Free DVD to MP3 Converter Apps of 2023: Compatible with Windows & Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/training-leaders-before-deploying-artificial-intelligence-insights-from-zdnet/"><u>Training Leaders Before Deploying Artificial Intelligence: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-potential-of-artificial-intelligence-strategies-for-new-entrants-in-todays-markets-zdnet-analysis/"><u>Unlocking the Potential of Artificial Intelligence: Strategies for New Entrants in Today's Markets | ZDNet Analysis</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-best-online-print-providers/"><u>Unveiling the Best Online Print Providers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-innovative-recording-tech-the-leaders-choice-for-2024/"><u>[New] Innovative Recording Tech The Leaders' Choice for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-the-hidden-meanings-behind-facebooks-messenger-icon-for-2024/"><u>[New] Unveiling the Hidden Meanings Behind Facebook's Messenger Icon for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-gopro-timelapse-a-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering GoPro Timelapse A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bikers-ultimate-camera-companion-list-update/"><u>2024 Approved Biker's Ultimate Camera Companion List Update</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-sony-65-oled-xb930f-4k-television-evaluation-and-insights/"><u>Affordable Sony 65 OLED - XB930F 4K Television Evaluation and Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/agile-methods-clash-with-ai-projects-insights-from-a-new-study-zdnet/"><u>Agile Methods Clash with AI Projects: Insights From a New Study | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/banking-innovation-at-risk-cio-warns-against-reliance-on-easy-prompt-tech-in-favour-of-creative-geniuses/"><u>Banking Innovation at Risk: CIO Warns Against Reliance on Easy-Prompt Tech in Favour of Creative Geniuses</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-steps-to-activate-find-my-feature-on-your-iphone/"><u>Comprehensive Steps to Activate 'Find My' Feature on Your iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-common-false-beliefs-in-monetizing-data-assets-the-zdnet-perspective/"><u>Debunking Common False Beliefs in Monetizing Data Assets - The ZDNet Perspective</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dive-into-business-before-technology-to-excel-as-a-tech-team-leader-strategies-by-zdnet/"><u>Dive Into Business Before Technology to Excel as a Tech Team Leader | Strategies by ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-guide-creating-youtube-playlists-from-any-device-mobile-and-desktop-tips/"><u>Easy Guide: Creating YouTube Playlists From Any Device – Mobile & Desktop Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-professional-edge-without-solely-focusing-on-ai-insights-for-todays-workforce/"><u>Elevate Your Professional Edge Without Solely Focusing on AI | Insights for Today's Workforce</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-synergy-how-ai-empowers-developers-and-business-teams-insights-from-zdnet/"><u>Enhancing Synergy: How AI Empowers Developers & Business Teams - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808153275-fast-track-downloading-for-direct3d-hassle-free-technique-inside/"><u>Fast-Track Downloading for Direct3D - Hassle-Free Technique Inside</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-artificebots-transfer-learning-function-in-machine-intelligence/"><u>How Does Artificebot's Transfer Learning Function in Machine Intelligence?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-emerging-companies-can-leverage-ai-models-to-capture-market-share-insights-from-zdnet/"><u>How Emerging Companies Can Leverage AI Models to Capture Market Share: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-your-career-trajectory-with-ai-strategies-for-tech-professionals-on-zdnet/"><u>Mastering Your Career Trajectory with AI: Strategies for Tech Professionals on ZDNet</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

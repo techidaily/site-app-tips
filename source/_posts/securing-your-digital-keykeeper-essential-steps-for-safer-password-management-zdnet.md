@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Digital Keykeeper: Essential Steps for Safer Password Management | ZDNet"
-date: 2024-11-01T16:16:23.054Z
-updated: 2024-11-04T16:24:34.673Z
+date: 2024-11-11T16:28:05.164Z
+updated: 2024-11-13T19:30:26.351Z
 tags:
   - password-manager
 categories:
@@ -42,16 +42,10 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -71,10 +65,16 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -98,10 +98,10 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -150,19 +150,18 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-compelling-mp4-player-selections-reviewed/"><u>[New] Compelling MP4 Player Selections Reviewed</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitta-to-trackable-audio-transitions/"><u>[Updated] 2024 Approved Twitta to Trackable Audio Transitions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-experts-guide-to-recording-mp4-videos/"><u>[Updated] Expert's Guide to Recording MP4 Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-transforming-social-media-traffic-into-revenue-for-2024/"><u>[Updated] Transforming Social Media Traffic Into Revenue for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/accidentally-trashed-your-email-learn-how-to-restore-and-forward-with-ease-using-microsoft-outlook-pcmag/"><u>Accidentally Trashed Your Email? Learn How to Restore & Forward with Ease Using Microsoft Outlook - PCMag</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-teams-efficiency-discover-the-surprising-impact-of-ai-on-productivity-insights-and-strategies-from-zdnet/"><u>Boost Your Team's Efficiency: Discover the Surprising Impact of AI on Productivity – Insights and Strategies From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enterprise-perspectives-on-the-overhyped-yet-underwhelming-reception-of-5g-technology-a-zdnet-discussion/"><u>Enterprise Perspectives on the Overhyped yet Underwhelming Reception of #5G Technology: A ZDNet Discussion</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-chilly-response-of-corporations-to-the-sizzling-potential-of-5g-technology/"><u>Exploring the Chilly Response of Corporations to the Sizzling Potential of 5G Technology</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-infinix-note-30-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Infinix Note 30 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-2c-five-increasingly-complex-questions-on-antenna-ground-systems/"><u>Section 2C: Five Increasingly Complex Questions on Antenna Ground Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-rearranged-characters-in-windows-os/"><u>Solutions for Rearranged Characters in Windows OS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-hci-providers-of-2022-expert-analysis-by-zdnet/"><u>Top-Ranked HCI Providers of 2022 - Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-smartcapture-hd-v2/"><u>[New] 2024 Approved SmartCapture HD V2</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-direct-link-between-twitter-and-tumblr-videos/"><u>[Updated] Direct Link Between Twitter and Tumblr Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-drafting-dynamic-denouements/"><u>[Updated] Drafting Dynamic Denouements</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cognitive-network-advancements-from-arista-enter-mainstream-sectors-a-deep-dive-tech-insights/"><u>Cognitive Network Advancements From Arista Enter Mainstream Sectors: A Deep Dive - Tech Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-xiaomi-redmi-a2plus-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-increased-demand-for-openstack-and-kata-containers-in-modern-tech-ecosystems/"><u>Exploring the Increased Demand for OpenStack and Kata Containers in Modern Tech Ecosystems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/four-key-feature-improvements-to-boost-the-chatgpt-plugins-shop-experience/"><u>Four Key Feature Improvements to Boost the ChatGPT Plugins Shop Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-at-nvidias-open-sourced-gpu-drivers-demystifying-what-powers-your-graphics-performance/"><u>Inside Look at Nvidia's Open Sourced GPU Drivers – Demystifying What Powers Your Graphics Performance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamlining-it-management-with-artificial-intelligence-red-hats-approach-to-simplifying-admin-duties/"><u>Streamlining IT Management with Artificial Intelligence: Red Hat's Approach to Simplifying Admin Duties</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-are-gaining-traction-in-tech-circles-zdnet/"><u>The Rising Popularity: How OpenStack & Kata Containers Are Gaining Traction in Tech Circles | ZDNet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-todays-most-popular-platforms-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Understanding Today's Most Popular Platforms: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-latest-features-of-macos-sonoma-your-ultimate-guide-all-tips-and-insights-from-zdnet/"><u>Unveiling the Latest Features of macOS Sonoma: Your Ultimate Guide - All Tips and Insights From ZDNet</u></a></li>
 </ul></div>
 

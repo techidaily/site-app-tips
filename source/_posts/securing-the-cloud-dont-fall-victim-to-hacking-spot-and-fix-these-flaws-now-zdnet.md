@@ -1,7 +1,7 @@
 ---
 title: "Securing the Cloud: Don’t Fall Victim to Hacking - Spot and Fix These Flaws Now! | ZDNet"
-date: 2024-10-29T16:15:18.621Z
-updated: 2024-11-04T17:02:47.968Z
+date: 2024-11-10T18:24:07.514Z
+updated: 2024-11-13T17:04:57.803Z
 tags:
   - password-manager
 categories:
@@ -112,10 +112,10 @@ Analysis of identity and access management (IAM) polices taking into account hun
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -136,10 +136,10 @@ Another practice that isn't helping IT departments is [poor password security](h
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### special feature
@@ -159,10 +159,10 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -188,19 +188,15 @@ IT departments should also consider whether regular accounts need administrator 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-accurate-recordings-of-console-games-on-home-computers/"><u>[Updated] In 2024, Accurate Recordings of Console Games on Home Computers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-bridge-issue-video-not-playing-tweet-in-chrome/"><u>2024 Approved Bridge Issue Video Not Playing Tweet in Chrome</u></a></li>
-<li><a href="https://app-tips.techidaily.com/converting-your-documents-seamless-creation-of-microsoft-word-files-via-google-docs-on-an-android-device/"><u>Converting Your Documents: Seamless Creation of Microsoft Word Files via Google Docs on an Android Device</u></a></li>
-<li><a href="https://win-news.techidaily.com/creating-a-custom-theme-from-active-setups-in-flipbuilder-easy-tutorial/"><u>Creating a Custom Theme From Active Setups in FlipBuilder - Easy Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-vulnerability-found-in-popular-linux-tool-curl-fixes-released-promptly-insights-from-zdnet/"><u>Critical Vulnerability Found in Popular Linux Tool 'Curl'; Fixes Released Promptly - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/human-expression-capabilities-in-latest-ai-avatar-innovations-insights-from-zdnet/"><u>Human Expression Capabilities in Latest AI Avatar Innovations - Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-for-unsetting-personalized-search-on-windows-11-os/"><u>Methods for Unsetting Personalized Search on Windows 11 OS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/overcoming-lg-monitor-connectivity-challenges-across-multiple-windows-platforms/"><u>Overcoming LG Monitor Connectivity Challenges Across Multiple Windows Platforms</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-truth-about-being-a-devops-professional-benefits-and-pitfalls-revealed-by-zdnet/"><u>The Truth About Being a DevOps Professional: Benefits & Pitfalls Revealed by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-your-pc-experience-upgrade-from-windows-home-edition-to-pro-key-reasons-and-how-to-tips/"><u>Transforming Your PC Experience: Upgrade From Windows Home Edition to Pro - Key Reasons and How-To Tips</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unlocking-your-potential-with-ez-grabber-software/"><u>Unlocking Your Potential with EZ Grabber Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unraveling-iphones-audio-mystery-ringtone-adjustments-for-2024/"><u>Unraveling iPhone's Audio Mystery Ringtone Adjustments for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-x50-gt-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor X50 GT Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-5-alternatives-to-ensure-continued-security/"><u>Windows 10 End of Life Approaching: Discover Your 5 Alternatives to Ensure Continued Security</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-introducing-effortless-age-correction-in-profiles/"><u>2024 Approved Introducing Effortless Age Correction in Profiles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-compreayer-guide-to-iphone-hdr-mastery/"><u>2024 Approved The Compreayer Guide to iPhone HDR Mastery</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/breaking-news-major-flaw-detected-and-fixed-in-essential-linux-utility-curl-in-depth-analysis-available-at-zdnet/"><u>Breaking News: Major Flaw Detected and Fixed in Essential Linux Utility 'Curl' – In-Depth Analysis Available at ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-influence-of-decentralized-systems-and-web3-on-corporate-structures-a-comprehensive-guide/"><u>Exploring the Influence of Decentralized Systems & Web3 on Corporate Structures: A Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-poco-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Poco Phone When You Forget the Password</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-audio-enhancement-in-your-windows-environment-maximizing-sound-on-budget-for-2024/"><u>New Audio Enhancement in Your Windows Environment - Maximizing Sound on Budget for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/performance/"><u>Performance</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/screencast-essentials-the-ultimate-beginners-tutorial-for-2024/"><u>Screencast Essentials The Ultimate Beginner's Tutorial for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-crucial-role-of-it-departments-in-shaping-modern-customer-journeys-a-perspective-by-zdnet/"><u>The Crucial Role of IT Departments in Shaping Modern Customer Journeys: A Perspective by ZDNet</u></a></li>
 </ul></div>
 

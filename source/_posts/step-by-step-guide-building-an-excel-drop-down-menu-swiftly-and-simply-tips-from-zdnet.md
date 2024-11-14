@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Building an Excel Drop-Down Menu Swiftly & Simply - Tips From ZDNet"
-date: 2024-10-29T16:00:21.216Z
-updated: 2024-11-04T16:20:55.610Z
+date: 2024-11-10T16:43:40.253Z
+updated: 2024-11-13T18:11:26.711Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,17 +181,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-journey-of-joyrides-top-6-easy-mc-habitats-revealed/"><u>[New] Journey of Joyrides Top 6 Easy MC Habitats Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-future-in-focus-premium-360-degree-professionals-cameras-2023/"><u>[New] The Future in Focus Premium 360-Degree Professionals' Cameras, 2023</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mobilepc-download-facebooks-new-video-tool/"><u>[Updated] 2024 Approved Mobile/PC Download Facebook's New Video Tool</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-innovators-choice-top-5-state-of-the-art-slow-cams/"><u>[Updated] Innovators' Choice Top 5 State-of-the-Art Slow Cams</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/excellent-series-of-animated-type-options-for-2024/"><u>Excellent Series of Animated Type Options for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-12-pro-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/innovative-approaches-to-elevate-your-obs-studio-workflow/"><u>Innovative Approaches to Elevate Your OBS Studio Workflow</u></a></li>
-<li><a href="https://app-tips.techidaily.com/newly-launched-full-featured-1password-app-for-linux-enthusiasts-a-closer-look-tech-news/"><u>Newly Launched Full-Featured 1Password App for Linux Enthusiasts: A Closer Look - Tech News</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-security-how-1passwords-new-feature-replaces-master-passwords-with-passkeys-insights-from-zdnet/"><u>Revolutionizing Security: How 1Password's New Feature Replaces Master Passwords with Passkeys - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-top-rated-vpn-and-password-manager-bundle-at-an-unbeatable-price-of-only-30-find-out-more-zdnet/"><u>Secure Your Digital Life: Top-Rated VPN & Password Manager Bundle at an Unbeatable Price of Only $30 - Find Out More [ZDNET]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-entire-staff-with-1password-unlock-ultimate-protection-for-only-1995-monthly-it-business-solutions/"><u>Securing Your Entire Staff with 1Password - Unlock Ultimate Protection for Only $19.95 Monthly | IT Business Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722886088333-top-5-complimentary-malware-scrubbers-find-the-best-one/"><u>Top 5 Complimentary Malware Scrubbers - Find the Best One</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nhanced-audio-experience-top-5-game-headsets-for-streaming/"><u>[New] Enhanced Audio Experience Top 5 Game Headsets for Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-turn-popular-tiktok-tracks-into-practical-personalized-ringtones/"><u>[New] Turn Popular TikTok Tracks Into Practical, Personalized Ringtones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-jake-paul-from-dabbing-to-dominance-youtube-triumph/"><u>[Updated] Jake Paul From Dabbing to Dominance - YouTube Triumph</u></a></li>
+<li><a href="https://app-tips.techidaily.com/auto-enabled-security-for-half-a-billion-googles-bold-move-to-protect-users-with-mandatory-2fa/"><u>Auto-Enabled Security for Half a Billion: Google's Bold Move to Protect Users with Mandatory 2FA</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breakthrough-on-sims-4-invisible-launching/"><u>Breakthrough on Sims 4 Invisible Launching</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cyber-attack-alert-hackers-leverage-covid-19-omicron-strain-fears-with-redline-malware-campaign-fortinet-insights/"><u>Cyber Attack Alert: Hackers Leverage COVID-19 Omicron Strain Fears with RedLine Malware Campaign – Fortinet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/data-leak-strikes-wv-medical-facilities-due-to-cyberattack-in-depth-analysis-on-zdnet/"><u>Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-download-and-convert-videos-for-free-with-advanced-asf-and-wmv-file-support/"><u>How to Download and Convert Videos for Free with Advanced ASF & WMV File Support</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-1password-top-tier-value-packed-secure-password-solution-techadvisor/"><u>In-Depth Analysis of 1Password - Top Tier, Value-Packed Secure Password Solution | TechAdvisor</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-the-complete-1password-suite-on-linux-platforms-key-features-and-reviews-zdnet-exclusive/"><u>Introducing the Complete 1Password Suite on Linux Platforms: Key Features and Reviews | ZDNet Exclusive</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lastpass-executives-assure-users-of-no-breached-accounts-following-recent-security-warnings-insights-from-zdnet/"><u>LastPass Executives Assure Users of No Breached Accounts Following Recent Security Warnings: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lastpass-to-become-separate-business-as-logmein-executes-split-strategy-tech-buzz-on-zdnet/"><u>LastPass to Become Separate Business as LogMeIn Executes Split Strategy | Tech Buzz on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-password-replaced-by-passkeys-with-1password-the-latest-update-from-zdnet/"><u>Master Password Replaced by Passkeys with 1Password - The Latest Update From ZDNet</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-restoring-your-kindle-or-kindle-fire-device/"><u>Step-by-Step Guide: Restoring Your Kindle or Kindle Fire Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tailored-engagement-design-your-youtube-sign-up-bar-with-an-animated-approach-using-filmora-for-2024/"><u>Tailored Engagement Design Your YouTube Sign-Up Bar with an Animated Approach Using Filmora for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-art-of-integrating-b-footage-into-main-shots-for-2024/"><u>The Art of Integrating B-Footage Into Main Shots for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-stopping-self-opening-search-bar-in-win11/"><u>Tips for Stopping Self-Opening Search Bar in Win11</u></a></li>
 </ul></div>
 

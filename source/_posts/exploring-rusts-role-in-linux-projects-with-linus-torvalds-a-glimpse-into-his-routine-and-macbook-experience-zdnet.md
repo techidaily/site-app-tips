@@ -1,7 +1,7 @@
 ---
 title: "Exploring Rust's Role in Linux Projects with Linus Torvalds: A Glimpse Into His Routine and MacBook Experience - ZDNet"
-date: 2024-11-02T17:23:47.571Z
-updated: 2024-11-04T17:02:28.030Z
+date: 2024-11-10T16:22:31.783Z
+updated: 2024-11-13T17:01:51.862Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +181,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-dynamic-slideshows-embedding-youtube-content/"><u>[New] In 2024, Dynamic Slideshows Embedding YouTube Content</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-innovative-5-websites-eclipsing-twitter/"><u>[New] In 2024, Innovative 5 Websites Eclipsing Twitter</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevated-engagement-awards-on-video-realms-for-2024/"><u>[Updated] Elevated Engagement Awards on Video Realms for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-in-the-era-of-streaming-find-facebooks-video-treasure/"><u>2024 Approved In the Era of Streaming, Find Facebook's Video Treasure</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-your-companys-safety-start-with-individual-protection-strategies-insights-from-zdnet/"><u>Enhance Your Company's Safety: Start with Individual Protection Strategies - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-truth-behind-crypto-anonymity-a-deep-dive-into-a-groundbreaking-study/"><u>Exploring the Truth Behind Crypto Anonymity – A Deep Dive Into a Groundbreaking Study</u></a></li>
-<li><a href="https://app-tips.techidaily.com/forgetting-passwords-fuels-growing-demand-for-biometric-security-solutions/"><u>Forgetting Passwords Fuels Growing Demand for Biometric Security Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guarding-againnst-stealthy-cryptocurrency-miners-safe-torrenting-tips-for-spider-man-no-way-home-with-advice-by-zdnet-experts/"><u>Guarding Againnst Stealthy Cryptocurrency Miners: Safe Torrenting Tips for 'Spider-Man: No Way Home' With Advice by ZDNet Experts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-narzo-60-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme Narzo 60 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcp-vs-lumafusion-a-comprehensive-comparison-for-video-creators/"><u>In 2024, FCP vs LumaFusion A Comprehensive Comparison for Video Creators</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210649663-master-the-fix-for-class-not-registered-problem-in-windows-11-effective-solutions-await/"><u>Master the Fix for 'Class Not Registered' Problem in Windows 11 - Effective Solutions Await!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-the-cloud-dont-fall-victim-to-hacking-spot-and-fix-these-flaws-now-zdnet/"><u>Securing the Cloud: Don’t Fall Victim to Hacking - Spot and Fix These Flaws Now! | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/team-wide-security-at-just-1995month-discover-how-1password-transforms-password-management-tech-insights/"><u>Team-Wide Security at Just $19.95/Month: Discover How 1Password Transforms Password Management | Tech Insights</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ling-the-role-of-emotions-in-executive-choices-a-neuroscientific-perspective/"><u>Unveiling the Role of Emotions in Executive Choices A Neuroscientific Perspective</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-protection-solution-from-security-expert-targets-log4j-exploits-in-hardware-locked-out-of-updates-zdnet/"><u>Urgent Protection Solution From Security Expert Targets Log4j Exploits in Hardware Locked Out of Updates | ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-depth-look-top-10-social-media-video-tools/"><u>[New] In-Depth Look Top 10 Social Media Video Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-cash-flow-management-for-youtubers/"><u>[Updated] In 2024, Channel Cash Flow Management for YouTubers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2022s-leading-collaborative-software-comprehensive-rankings-for-peak-productivity/"><u>2022'S Leading Collaborative Software: Comprehensive Rankings for Peak Productivity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-twitch-time-reversal-17-methods-to-master-your-live-stream/"><u>2024 Approved Twitch Time Reversal 17 Methods to Master Your Live Stream</u></a></li>
+<li><a href="https://app-tips.techidaily.com/buy-dashlane-premium-at-half-price-exclusive-sale-alert-from-zdnet/"><u>Buy Dashlane Premium at Half Price! Exclusive Sale Alert From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/declutter-your-codebase-fixing-disarray-in-linuxopen-source-guides-on-zdnet/"><u>Declutter Your Codebase: Fixing Disarray in Linux/Open Source Guides on ZDNet.</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-microsoft-store-issue-code-0x80073cf3-on-win1111/"><u>Fixing Microsoft Store Issue Code 0X80073CF3 on Win11/11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-nokia-c110-frp-by-drfone-android/"><u>How Can We Bypass Nokia C110 FRP?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v29-lock-screen-password-by-drfone-android/"><u>How To Change Vivo V29 Lock Screen Password?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-2023s-premier-entryway-toolkit-across-devices/"><u>In 2024, 2023'S Premier Entryway Toolkit Across Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-clandestine-call-collectors-discreet-voice-capture-tools-list/"><u>In 2024, Clandestine Call Collectors Discreet Voice Capture Tools List</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-covid-19-vaccine-scheduling-solutions-reviewed-and-compared-itadvisor/"><u>Leading COVID-19 Vaccine Scheduling Solutions Reviewed & Compared - ITAdvisor</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-artificial-intelligence-projected-breakthroughs-in-the-coming-years-zdnet/"><u>The Future of Artificial Intelligence: Projected Breakthroughs in the Coming Years - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-team-collaboration-software-of-2022-ultimate-list-and-reviews-techradar/"><u>Top Team Collaboration Software of 2022: Ultimate List and Reviews | TechRadar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-encryption-tools-of-2022-secure-your-digital-information-with-expert-reviews-from-zdnet/"><u>Top-Rated Encryption Tools of 2022: Secure Your Digital Information with Expert Reviews From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-of-the-most-popular-linux-os-choices-for-coders-according-to-pcmagazine/"><u>Ultimate List of the Most Popular Linux OS Choices for Coders, According to PCMagazine</u></a></li>
 </ul></div>
 

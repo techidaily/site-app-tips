@@ -1,7 +1,7 @@
 ---
 title: Critical Security Flaw Found in Popular Linux Tool Curl - Fixes Deployed by Developers
-date: 2024-11-02T16:12:53.828Z
-updated: 2024-11-04T16:32:56.390Z
+date: 2024-11-10T18:05:21.606Z
+updated: 2024-11-13T16:08:48.301Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,20 +187,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-introductory-insights-crafting-listener-love/"><u>[New] 2024 Approved Introductory Insights Crafting Listener-Love</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-strategies-to-solve-obs-fullscreen-breakdowns-for-2024/"><u>[New] Strategies to Solve OBS Fullscreen Breakdowns for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-transforming-smartphones-into-portable-cameras-for-2024/"><u>[New] Transforming Smartphones Into Portable Cameras for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/30-bargain-alert-access-the-groundbreaking-worlds-first-3-dimensional-password-vault-for-three-years-get-yours-today-from-zdnet/"><u>$30 Bargain Alert! Access the Groundbreaking World's First 3-Dimensional Password Vault for Three Years - Get Yours Today From ZDNet!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-we-depend-on-instagram-an-in-depth-analysis-by-zdnet/"><u>Can We Depend on Instagram? An In-Depth Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/huge-black-friday-blowout-get-nordpass-premium-at-half-price-secure-your-passwords-now/"><u>Huge Black Friday Blowout! Get NordPass Premium at Half Price - Secure Your Passwords Now!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-camon-30-pro-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Camon 30 Pro 5G Device</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-your-first-encounter-with-snapseed-image-editing/"><u>In 2024, Your First Encounter with Snapseed Image Editing</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/maximize-your-amazon-kindle-joy-with-ingenious-techniques-complimentary-offers-and-expert-assistance/"><u>Maximize Your Amazon Kindle Joy with Ingenious Techniques, Complimentary Offers & Expert Assistance!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-wallets-1password-joins-forces-with-brex-to-simplify-secure-transactions-according-to-zdnet-coverage/"><u>Revolutionizing Digital Wallets: 1Password Joins Forces with Brex to Simplify Secure Transactions, According to ZDNet Coverage</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/social-snapshot-post-photosvideos-without-a-twit-for-2024/"><u>Social Snapshot Post Photos/Videos without a Twit for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-setting-up-windows-10-on-fresh-storage/"><u>Step-by-Step Guide: Setting Up Windows 10 on Fresh Storage</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-phishing-scams-impersonating-leaders-dhl-microsoft-and-whatsapp-in-the-spotlight/"><u>Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unmasking-crypto-illusions-a-revealing-paper-challenges-bitcoins-anonymity-claims/"><u>Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-using-a-password-manager-is-essential-top-5-benefits-explained-by-zdnet/"><u>Why Using a Password Manager Is Essential: Top 5 Benefits Explained by ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-achieving-profitability-at-half-a-million-viewers-for-2024/"><u>[Updated] Achieving Profitability at Half a Million Viewers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capture-stunning-imagesfilms-using-easy-shifts/"><u>[Updated] Capture Stunning Images/Films Using Easy Shifts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-a-viral-path-best-hashtags-for-youtube-riches/"><u>Crafting a Viral Path Best Hashtags for YouTube Riches</u></a></li>
+<li><a href="https://discover-data.techidaily.com/exportieren-sie-ihre-daten-aus-dem-local-storage-und-speichern-sie-sie-sicher-auf-ihrem-windows-10-pc-laufwerk/"><u>Exportieren Sie Ihre Daten Aus Dem Local Storage Und Speichern Sie Sie Sicher Auf Ihrem Windows 10 PC-Laufwerk</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-poco-x6-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Poco X6</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-promotion-in-the-metaverse/"><u>In 2024, Pioneering Promotion in the Metaverse</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-how-lastpass-leadership-addresses-safety-concerns-amidst-alarming-security-notifications-explored-by-zdnet/"><u>Inside Look: How LastPass Leadership Addresses Safety Concerns Amidst Alarming Security Notifications | Explored by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kasperskys-password-protector-exposed-generating-vulnerable-passwords-prone-to-brute-force-attacks-insights-from-zdnet/"><u>Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/major-ransomware-incident-strikes-leading-firm-superior-plus-in-natural-gas-industry-exclusive-details-on-zdnet/"><u>Major Ransomware Incident Strikes Leading Firm Superior Plus in Natural Gas Industry - Exclusive Details on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/newly-launched-full-featured-1password-app-for-linux-enthusiasts-a-closer-look-tech-news/"><u>Newly Launched Full-Featured 1Password App for Linux Enthusiasts: A Closer Look - Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-security-how-1passwords-new-feature-replaces-master-passwords-with-passkeys-insights-from-zdnet/"><u>Revolutionizing Security: How 1Password's New Feature Replaces Master Passwords with Passkeys - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-top-rated-vpn-and-password-manager-bundle-at-an-unbeatable-price-of-only-30-find-out-more-zdnet/"><u>Secure Your Digital Life: Top-Rated VPN & Password Manager Bundle at an Unbeatable Price of Only $30 - Find Out More [ZDNET]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-blueprint-to-windows-11-mastery/"><u>Your Blueprint to Windows 11 Mastery</u></a></li>
 </ul></div>
 

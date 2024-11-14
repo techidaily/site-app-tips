@@ -1,7 +1,7 @@
 ---
 title: Access Control Systems
-date: 2024-10-29T17:15:44.559Z
-updated: 2024-11-04T17:16:16.149Z
+date: 2024-11-07T19:52:59.918Z
+updated: 2024-11-13T20:03:18.440Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,16 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-how-to-speed-up-vimeo-videos/"><u>[New] How to Speed Up Vimeo Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-godly-onslaught-ragnaroks-day/"><u>[Updated] In 2024, Godly Onslaught Ragnarok’s Day</u></a></li>
-<li><a href="https://win-best.techidaily.com/excel6/"><u>失くされたExcelファイルの発見：6つの復元方法を紹介</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-on-solving-xbox-wireless-pen-problems-for-optimal-gaming-performance/"><u>Comprehensive Tutorial on Solving Xbox Wireless Pen Problems for Optimal Gaming Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278148-discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-back-online-three-quick-fixes-for-an-unresponsive-ipad-in-itunes-mode/"><u>Get Back Online: Three Quick Fixes for an Unresponsive iPad in iTunes Mode</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-15-pro-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 15 Pro Location by Number | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-creative-expression-master-device-based-filters-and-effects/"><u>In 2024, Unlock Creative Expression Master Device-Based Filters and Effects</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-itunes-backups-essential-guide-and-step-by-step-tutorials/"><u>Mastering iTunes Backups: Essential Guide & Step-by-Step Tutorials</u></a></li>
-<li><a href="https://app-tips.techidaily.com/share-your-creations-from-imovie-directly-to-your-itunes-library/"><u>Share Your Creations From iMovie Directly to Your iTunes Library</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-virtual-webcams-and-live-cam-software-discover-manycam/"><u>Top Virtual Webcams and Live Cam Software: Discover ManyCam</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-image-jokes-how-to-create-memetic-gold/"><u>[Updated] 2024 Approved Image Jokes How to Create Memetic Gold</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-brief-video-joust-the-showdown-between-youtubes-shorts-and-tiktoks-flavor/"><u>[Updated] Brief Video Joust The Showdown Between YouTubes Shorts and TikTok's Flavor</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-ultimate-3-fb-movie-extractors/"><u>2024 Approved Ultimate 3 Fb Movie Extractors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-itunes-backup-strategies-learn-the-best-techniques-for-protection/"><u>Comprehensive iTunes Backup Strategies – Learn the Best Techniques for Protection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-strategies-to-overcome-non-functional-music-playback-on-itunes/"><u>Effective Strategies to Overcome Non-Functional Music Playback on iTunes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/enhance-learning-with-easy-recording-techniques-for-your-imac/"><u>Enhance Learning with Easy Recording Techniques for Your iMac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/first-rate-6-software-for-visual-text-conversion-for-2024/"><u>First-Rate 6 Software for Visual Text Conversion for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-quick-windows-surfing-guide-unveiled/"><u>In 2024, Quick Windows Surfing Guide Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/itunes-backup-file-restoration-how-to-retrieve-deleted-or-lost-ios-content-from-your-itunes-archive/"><u>ITunes Backup File Restoration: How to Retrieve Deleted or Lost iOS Content From Your iTunes Archive</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/perfecting-video-quality-on-zoom-through-filters-use-for-2024/"><u>Perfecting Video Quality on Zoom Through Filters Use for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-the-issue-of-non-syncing-tunes-from-itunes-to-ios-devices/"><u>Solving the Issue of Non-Syncing Tunes From iTunes to iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transferring-your-itunes-collection-from-computer-to-external-hard-drive/"><u>Step-by-Step Guide: Transferring Your iTunes Collection From Computer to External Hard Drive</u></a></li>
+<li><a href="https://app-tips.techidaily.com/temporary-itunes-store-outage-discover-7-effective-solutions/"><u>Temporary iTunes Store Outage: Discover 7 Effective Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-no-cost-mac-os-big-sur-mp4-transcoder-compare-and-choose-the-best/"><u>Top No-Cost Mac OS Big Sur MP4 Transcoder - Compare and Choose the Best</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-solutions-for-resolving-the-issue-of-music-not-playing-in-itunes/"><u>Top Solutions for Resolving the Issue of Music Not Playing in iTunes</u></a></li>
 </ul></div>
 

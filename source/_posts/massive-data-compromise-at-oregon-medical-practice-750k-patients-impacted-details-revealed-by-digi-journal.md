@@ -1,7 +1,7 @@
 ---
 title: "Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal"
-date: 2024-10-31T16:53:16.979Z
-updated: 2024-11-04T16:18:14.627Z
+date: 2024-11-08T19:05:36.956Z
+updated: 2024-11-13T16:18:03.836Z
 tags:
   - password-manager
 categories:
@@ -82,29 +82,23 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-effortless-entertainment-top-free-free-meme-ideas/"><u>[New] In 2024, Effortless Entertainment Top Free, FREE Meme Ideas</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extended-review-uncomplicated-hdr-approach/"><u>[Updated] Extended Review Uncomplicated HDR Approach</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-speed-top-5-chrome-os-hacks-for-smoother-sailing-and-enhanced-productivity-zdnet/"><u>Boost Your Speed: Top 5 Chrome OS Hacks for Smoother Sailing & Enhanced Productivity | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cutting-edge-ai-how-openais-gpt-4-goes-mini-reduces-application-development-expenses-insights-from-zdnet/"><u>Cutting Edge AI: How OpenAI's GPT-4 Goes Mini Reduces Application Development Expenses - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/directivity/"><u>Directivity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elevating-your-websites-visibility-through-advanced-cookiebot-tools/"><u>Elevating Your Website's Visibility Through Advanced Cookiebot Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/elite-conference-name-builder-for-2024/"><u>Elite Conference Name Builder for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-a54-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy A54 5G</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-lava-yuva-2-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Lava Yuva 2 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-agile-mindsets-key-strategies-for-successful-software-development-with-zdnet/"><u>Mastering Agile Mindsets: Key Strategies for Successful Software Development with ZDNet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-5-fluid-simulation-games/"><u>Top 5 Fluid Simulation Games</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-sql-training-programs-explore-the-best-online-courses-on-zdnet/"><u>Top-Ranked SQL Training Programs: Explore the Best Online Courses on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-ux-with-xr-digital-twins-and-spatial-tech-your-essential-business-roadmap-insights-from-zdnet/"><u>Transforming UX with XR, Digital Twins & Spatial Tech: Your Essential Business Roadmap - Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-spark-go-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Spark Go (2023) Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-expert-advice-on-linking-your-google-drive-to-slack-for-enhanced-collaboration/"><u>ZDNet's Expert Advice on Linking Your Google Drive to Slack for Enhanced Collaboration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zoom-vs-microsoft-teams-meet-your-astonishing-lip-reading-challenger-breaking-news-from-zdnet/"><u>Zoom Vs. Microsoft Teams? Meet Your Astonishing Lip-Reading Challenger - Breaking News From ZDNet!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-strategizing-against-the-phantom-follower-phenomenon/"><u>[New] 2024 Approved Strategizing Against the Phantom Follower Phenomenon</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-beyond-the-headsets-the-essence-of-virtual-reality/"><u>[Updated] Beyond the Headsets The Essence of Virtual Reality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/array-synthesis/"><u>Array Synthesis</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/compreranly-assessing-ustream-with-equivalent-sites-for-2024/"><u>Compreranly Assessing Ustream with Equivalent Sites for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-magic5-ultimate-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Magic5 Ultimate Safely | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-narzo-60-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme Narzo 60 5G Phone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-2c-five-increasingly-complex-questions-on-antenna-ground-systems/"><u>Section 2C: Five Increasingly Complex Questions on Antenna Ground Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-of-openstack-and-kata-containers-understanding-their-growing-market-presence/"><u>The Rising Popularity of OpenStack & Kata Containers: Understanding Their Growing Market Presence</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-video-conference-tools-of-2022-features-and-reviews-pcmag/"><u>Top Rated Video Conference Tools of 2022: Features & Reviews - PCMag</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-antivirus-solutions-expert-review-by-zdnet/"><u>Top-Rated Antivirus Solutions - Expert Review by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-6-misconceptions-about-gaming-displays/"><u>Unveiling 6 Misconceptions About Gaming Displays</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

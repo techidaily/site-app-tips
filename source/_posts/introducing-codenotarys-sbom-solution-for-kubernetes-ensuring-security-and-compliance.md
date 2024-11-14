@@ -1,7 +1,7 @@
 ---
 title: Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance
-date: 2024-11-01T16:36:49.519Z
-updated: 2024-11-04T16:59:11.429Z
+date: 2024-11-07T16:26:43.250Z
+updated: 2024-11-13T20:04:20.073Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,20 +181,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unparalleled-clarity-in-speech-interpretation-via-google-platform/"><u>[New] 2024 Approved Unparalleled Clarity in Speech Interpretation via Google Platform</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-unlocking-growth-potential-with-top-7-tiktok-tools/"><u>[Updated] 2024 Approved Unlocking Growth Potential with Top 7 TikTok Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastery-in-motion-transform-youtube-videos-into-expressive-gifs/"><u>[Updated] Mastery in Motion Transform YouTube Videos Into Expressive GIFs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-donna-peng-innovative-leader-at-digiarty-software/"><u>1. Donna Peng - Innovative Leader at DigiArtY Software</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/digital-domination-how-videos-rule-twitter/"><u>Digital Domination How Videos Rule Twitter</u></a></li>
-<li><a href="https://blog-min.techidaily.com/enhance-your-broadcasts-using-manycams-advanced-video-and-webcam-features/"><u>Enhance Your Broadcasts Using ManyCam's Advanced Video and Webcam Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/half-price-savings-on-keeper-password-saver-secure-your-accounts-with-a-50-discount-techtoday/"><u>Half-Price Savings on Keeper Password Saver: Secure Your Accounts with a 50% Discount | TechToday</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-grappling-glory-selecting-the-ultimate-fight-simulator/"><u>In 2024, Grappling Glory Selecting the Ultimate Fight Simulator</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-the-formula-to-fame-elevating-subscriber-numbers-on-youtube/"><u>In 2024, The Formula to Fame Elevating Subscriber Numbers on Youtube</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-1password-assessment-superior-secure-password-handling-at-an-unbeatable-price-point-tech-insights/"><u>In-Depth 1Password Assessment: Superior, Secure Password Handling at an Unbeatable Price Point | Tech Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-passwords-with-dashlane-pro-exclusive-3-month-free-offer-available-here-via-zdnet/"><u>Secure Your Passwords with Dashlane Pro: Exclusive 3-Month Free Offer Available Here via ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/security-champions-earn-big-bugcrowd-raises-bounty-ceiling-to-1m-what-zdnet-reports-on-cybersecurity-incentives/"><u>Security Champions Earn Big: Bugcrowd Raises Bounty Ceiling to $1M – What ZDNET Reports on Cybersecurity Incentives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-giant-1password-achieves-unprecedented-growth-with-62n-million-funding-round-boost-zdnet-exclusives/"><u>Tech Giant 1Password Achieves Unprecedented Growth with $62N Million Funding Round Boost | ZDNET Exclusives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-password-security-applications-and-how-to-save-on-them-according-to-zdnet/"><u>Top 5 Password Security Applications & How to Save on Them, According to ZDNet</u></a></li>
-<li><a href="https://win-premium.techidaily.com/top-alternatives-to-windows-carbon-copy-cloner-for-efficient-backups/"><u>Top Alternatives to Windows Carbon Copy Cloner for Efficient Backups</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-edit-like-a-pro-how-to-clear-out-photo-borders-quickly/"><u>[Updated] 2024 Approved Edit Like a Pro How to Clear Out Photo Borders Quickly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/celona-secures-60m-in-series-c-funding-drives-enterprise-5g-revolution-what-you-need-to-know/"><u>Celona Secures $60M in Series C Funding, Drives Enterprise 5G Revolution: What You Need to Know</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-asus-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Asus ?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-reset-waze-location-memory-on-ios-devices-a-step-by-step-guide/"><u>How to Reset Waze Location Memory on iOS Devices: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gaming-gain-graph-finns-financial-flux/"><u>In 2024, Gaming Gain Graph Finn's Financial Flux</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oneplus-nord-n30-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from OnePlus Nord N30 5G FRP Bypass</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/preserve-your-playlists-a-guide-to-flawlessly-importing-music-from-ipod-to-itunes/"><u>Preserve Your Playlists: A Guide to Flawlessly Importing Music From iPod to iTunes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-cod-world-at-war-error-4220-a-comprehensive-fix-guide/"><u>Resolving the COD: World at War Error 4220 - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-power-of-citizen-developers-in-driving-enterprise-software-innovation/"><u>Rising Power of Citizen Developers in Driving Enterprise Software Innovation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/sonys-collaboration-with-ai-singapore-fuels-development-of-advanced-large-language-models/"><u>Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-great-microsoft-teams-debacle-how-boss-clash-over-communication-tools-shook-an-office/"><u>The Great Microsoft Teams Debacle: How Boss Clash Over Communication Tools Shook an Office</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-gopro-cinematography-luts-15-best-for-2024/"><u>The Ultimate Guide to GoPro Cinematography LUTs (15 Best) for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-desktop-distributions-reviewed-why-linux-mint-22-stands-out-above-the-rest/"><u>Top Desktop Distributions Reviewed - Why Linux Mint 22 Stands Out Above the Rest</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Edge 40 Neo | Dr.fone</u></a></li>
 </ul></div>
 

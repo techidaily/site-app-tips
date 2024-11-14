@@ -1,7 +1,7 @@
 ---
 title: Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet
-date: 2024-10-28T16:11:04.940Z
-updated: 2024-11-04T17:25:00.387Z
+date: 2024-11-08T18:35:35.780Z
+updated: 2024-11-13T19:30:55.258Z
 tags:
   - password-manager
 categories:
@@ -31,14 +31,14 @@ If you've been around for the past 10 or so years, you know that most services r
 
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
-## How to use iCloud as a password manager on Windows
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## How to use iCloud as a password manager on Windows
 
 ## 1\. Open iCloud for Windows
 
@@ -60,6 +60,13 @@ Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Make sure Passwords is on and click Apply
 
 Make sure Passwords is selected on the iCloud window, then click on **Apply** to make the changes. 
@@ -69,13 +76,6 @@ You can also install browser extensions at this point.
 Make sure Passwords is on and click **Apply**.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Add browser extension
 
@@ -103,13 +103,6 @@ Enter the verification code.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Try out the password manager
 
 After you set up iCloud for [Windows](https://www.zdnet.com/article/windows-11-22h2-how-to-get-microsofts-latest-os-update-and-whats-coming-next/) as a password manager and your browser extension, you can try it out by going to a website and trying to log in.
@@ -122,24 +115,31 @@ Like LastPass, the browser extension will let you fill in your login information
 
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## How do you get iCloud for Windows?  
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How do I set up iCloud Keychain? 
 
 iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/article/how-to-update-all-of-your-apple-devices/): [iPhone](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fipad%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [Mac](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). To set it up, go to your iPhone's Settings and tap on your name at the top of the screen to access your iCloud settings. Then, choose iCloud. Find Passwords and Keychain and select that, then tap on Sync this iPhone to turn it on. 
 
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
 
@@ -175,20 +175,17 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-inventive-story-naming-mastering-over-120-ways-for-snapchat-exclusivity/"><u>[New] 2024 Approved Inventive Story Naming Mastering Over 120 Ways for Snapchat Exclusivity</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-peaceful-playtimes-premium-pc-titles/"><u>[Updated] 2024 Approved Peaceful Playtimes Premium PC Titles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-quickly-transform-sluggish-videos-on-android/"><u>[Updated] 2024 Approved Quickly Transform Sluggish Videos on Android</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unleash-creativity-with-ezvides-tool-for-capturing-your-desktop/"><u>[Updated] 2024 Approved Unleash Creativity with EZvide's Tool for Capturing Your Desktop</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-understanding-facebooks-new-policies-and-updates/"><u>[Updated] Understanding Facebook's New Policies and Updates</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-top-12-flip-screen-cams-for-dynamic-videography/"><u>2024 Approved Top 12 Flip-Screen Cams for Dynamic Videography</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/canons-speedy-solution-to-flash-challenges-the-430ex-iii-rt-review/"><u>Canon's Speedy Solution to Flash Challenges - The 430EX III-RT Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/engineers-innovative-tool-challenges-the-giant-unveiling-how-it-continuously-shames-mcdonalds-strategies/"><u>Engineer's Innovative Tool Challenges the Giant - Unveiling How It Continuously Shames McDonald's Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/innovating-nlp-how-sony-research-is-joining-forces-with-ai-singapore-spotlighted-by-zdnet/"><u>Innovating NLP: How Sony Research Is Joining Forces with AI Singapore, Spotlighted by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/joint-venture-between-sony-research-and-ai-singapore-accelerates-creation-of-next-gen-language-ai-systems/"><u>Joint Venture Between Sony Research and AI Singapore Accelerates Creation of Next-Gen Language AI Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-electronic-signature-solutions-insights-from-zdnet/"><u>Top Rated Electronic Signature Solutions - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trustworthiness-of-chatgpt-fact-or-fiction/"><u>Trustworthiness of ChatGPT: Fact or Fiction?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-redmi-12-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Redmi 12 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-microsoft-faces-critical-challenge-with-windows-11-just-one-year-left-zdnet-exclusive/"><u>Urgent: Microsoft Faces Critical Challenge with Windows 11 - Just One Year Left! [ZDNet Exclusive]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-embracing-low-code-tech-boosts-employer-branding-zdnet-analysis/"><u>Why Embracing Low-Code Tech Boosts Employer Branding - ZDNet Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-make-every-podcast-session-count-with-these-15-powerful-activities/"><u>[New] Make Every Podcast Session Count with These 15 Powerful Activities</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-understanding-igs-evolution-reels-and-stories/"><u>[Updated] 2024 Approved Understanding IG's Evolution Reels and Stories</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-newbie-vlogger-tips-simple-video-concepts/"><u>[Updated] In 2024, Newbie Vlogger Tips Simple Video Concepts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-customize-your-youtube-watch-experience-speed-settings/"><u>2024 Approved Customize Your YouTube Watch Experience (Speed Settings)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-techniques-for-reducing-video-file-size-to-just-16mb/"><u>Effortless Techniques for Reducing Video File Size to Just 16MB</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-ai-rust-language-with-linus-torvalds-why-the-linux-core-reigns-supreme-tech-insights/"><u>Exploring AI, Rust Language with Linus Torvalds: Why the Linux Core Reigns Supreme | Tech Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-y56-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo Y56 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/340963-9780307423092-its-a-miracle/"><u>It's a Miracle | Free Book</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/leading-drone-endurance-top-10-long-flight-contenders-for-2024/"><u>Leading Drone Endurance Top 10 Long-Flight Contenders for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-windows-11-pcs-after-end-of-support-discover-5-key-strategies-revealed-by-zdnet/"><u>Navigating the Future of Windows 11 PCs After End-of-Support: Discover 5 Key Strategies Revealed by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-the-best-virtual-meeting-software-forbes-tech-council/"><u>The Ultimate Guide to the Best Virtual Meeting Software - Forbes Tech Council</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-how-top-innovators-flock-to-open-source-projects-insights-from-zdnet/"><u>Unveiling How Top Innovators Flock to Open-Source Projects - Insights From ZDNet</u></a></li>
 </ul></div>
 

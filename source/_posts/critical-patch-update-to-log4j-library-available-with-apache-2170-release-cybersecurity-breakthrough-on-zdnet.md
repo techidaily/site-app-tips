@@ -1,7 +1,7 @@
 ---
 title: Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET
-date: 2024-11-02T16:52:01.163Z
-updated: 2024-11-04T17:22:51.206Z
+date: 2024-11-10T16:32:48.013Z
+updated: 2024-11-13T16:06:37.432Z
 tags:
   - password-manager
 categories:
@@ -108,10 +108,10 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -189,19 +189,15 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-conquer-the-controller-xbox-one-screenshot-basics/"><u>[New] In 2024, Conquer the Controller Xbox One Screenshot Basics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-meme-creation-at-its-peak-10-templates-unveiled/"><u>2024 Approved Meme Creation at Its Peak #10 Templates Unveiled</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-6s-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 6s Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-a-managers-frustration-with-team-slack-usage-led-to-unforeseen-consequences-a-zdnet-analysis/"><u>How a Manager's Frustration with Team Slack Usage Led to Unforeseen Consequences - A ZDNet Analysis</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi Redmi A2? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oneplus-12-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your OnePlus 12 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oneplus-ace-2-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on OnePlus Ace 2 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rising-curiosity-in-ai-reveals-a-need-for-greater-transparency-insights-from-zdnet/"><u>Rising Curiosity in AI Reveals a Need for Greater Transparency - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-mozilla-firefox-saved-login-credentials-setting-up-a-master-password/"><u>Securing Mozilla Firefox Saved Login Credentials: Setting up a Master Password</u></a></li>
-<li><a href="https://app-tips.techidaily.com/speeding-up-generative-ai-how-nvidias-latest-nims-revolutionize-computing-efficiency-insights-from-zdnet/"><u>Speeding Up Generative AI: How Nvidia's Latest 'NIMs' Revolutionize Computing Efficiency | Insights From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-call-for-clarity-how-ais-popular-surge-highlights-the-demand-for-openness-by-zdnet/"><u>The Call for Clarity: How AI's Popular Surge Highlights the Demand for Openness by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-ultimate-faceoff-microsoft-teams-zoom-and-the-game-changer-in-lip-reading-tech/"><u>Unveiling the Ultimate Faceoff: Microsoft Teams, Zoom & The Game-Changer in Lip Reading Tech</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-achieve-flawless-imagery-how-to-remove-backgrounds-on-canva/"><u>[New] In 2024, Achieve Flawless Imagery How to Remove Backgrounds on Canva</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ideal-tools-for-creating-animation-with-models/"><u>[Updated] 2024 Approved Ideal Tools for Creating Animation with Models</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boss-loses-cool-over-team-communication-mishaps-on-microsoft-teams/"><u>Boss Loses Cool Over Team Communication Mishaps on Microsoft Teams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/collaborative-development-of-advanced-llms-by-sony-and-ai-singapore-announced-tech-news/"><u>Collaborative Development of Advanced LLMs by Sony & AI Singapore Announced | Tech News</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-lava-blaze-2-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Lava Blaze 2 Pro Lock Screen Password</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/master-the-art-of-forced-synchronization-command-onedrive-to-perform-a-seamless-file-ballet/"><u>Master the Art of Forced Synchronization: Command OneDrive to Perform a Seamless File Ballet</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-persona-cuarto-ultimate-guide-to-fix-pc-instability-and-crash-issues/"><u>Mastering Persona Cuarto: Ultimate Guide to Fix PC Instability and Crash Issues</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-the-lip-reader-how-this-innovative-app-poses-a-threat-to-giants-like-microsoft-teams-and-zoom-zdnet-insight/"><u>The Rise of the Lip-Reader: How This Innovative App Poses a Threat to Giants Like Microsoft Teams and Zoom | ZDNet Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-linux-distributions-ideal-for-developers-a-comprehensive-guide-by-techradar/"><u>Top 5 Linux Distributions Ideal for Developers: A Comprehensive Guide by TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/untangling-your-social-media-mistakes-how-to-remove-a-reposted-video-on-tiktok/"><u>Untangling Your Social Media Mistakes: How to Remove a Reposted Video on TikTok</u></a></li>
 </ul></div>
 

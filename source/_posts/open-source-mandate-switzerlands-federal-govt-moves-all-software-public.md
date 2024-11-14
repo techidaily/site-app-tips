@@ -1,7 +1,7 @@
 ---
 title: "Open-Source Mandate: Switzerland's Federal Govt. Moves All Software Public"
-date: 2024-11-02T17:26:50.891Z
-updated: 2024-11-04T17:09:53.943Z
+date: 2024-11-11T19:39:19.149Z
+updated: 2024-11-13T18:36:49.588Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,22 +181,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/como-resolver-el-problema-de-reproduccion-de-archivos-mp4-en-computadoras-con-sistema-operativo-windows-11-8-o-7-soluciones-practicas-e-inmediatas/"><u>Cómo Resolver El Problema De Reproducción De Archivos MP4 en Computadoras Con Sistema Operativo Windows 11, 8 O 7: Soluciones Prácticas E Inmediatas</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/compendium-classification-of-camera-types-for-videos-for-2024/"><u>Compendium Classification of Camera Types for Videos for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-strategies-for-reconstructing-your-itunes-music-library-in-depth-guide/"><u>Expert Strategies for Reconstructing Your iTunes Music Library (In-Depth Guide)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-activating-an-itunes-gift-card-for-apples-ios-and-macos-platforms/"><u>Guide: Activating An iTunes Gift Card For Apple's iOS & macOS Platforms</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/hd-streaming-reader-app-avec-codec-h265-hevc-visionnage-video-gratuit-en-uhd-sur-pc-et-mac-2020/"><u>HD Streaming Reader App Avec Codec H.265 HEVC - Visionnage Vidéo Gratuit en UHD Sur PC Et Mac (2020)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-speed-up-your-itunes-experience-a-complete-guide-with-10-effective-steps/"><u>How to Speed Up Your iTunes Experience: A Complete Guide with 10 Effective Steps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-use-your-itunes-gift-card-on-ios-devices-and-mac-computers/"><u>How To Use Your iTunes Gift Card On iOS Devices And Mac Computers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-105-classic-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia 105 Classic to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/navigating-instagrams-repost-policy-for-2024/"><u>Navigating Instagram's Repost Policy for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/need-help-resetting-your-itunes-login-details-explore-proven-strategies-for-recovery/"><u>Need Help Resetting Your iTunes Login Details? Explore Proven Strategies for Recovery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/propel-your-company-forward-with-top-chatgpt-applications/"><u>Propel Your Company Forward with Top ChatGPT Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/recover-your-missed-texts-and-voicemails-tips-for-retrieving-accidentally-erased-data-on-itunes/"><u>Recover Your Missed Texts and Voicemails: Tips for Retrieving Accidentally Erased Data on iTunes</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-solution-matching-internet-on-mobile-and-desktop/"><u>Speedy Solution: Matching Internet on Mobile & Desktop</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/surpasser-la-analyse-economique-des-donnees-et-le-mining-processeux-avec-abbyy-lire-notre-ebook/"><u>Surpasser La Analyse Économique Des Données Et Le Mining Processeux Avec ABBYY - Lire Notre eBook</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-verdict-on-toolwiz-top-notch-mobile-photo-editor-for-2024/"><u>The Verdict on Toolwiz Top-Notch Mobile Photo Editor for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-steps-to-take-if-itunes-fails-to-identify-your-iphone/"><u>Troubleshooting: Steps to Take if iTunes Fails to Identify Your iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-move-and-enjoy-your-itunes-collection-on-android-phones-and-tablets/"><u>Ultimate Guide to Move and Enjoy Your iTunes Collection on Android Phones & Tablets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-a-comprehensive-list-of-top-10-video-communication-apps/"><u>[New] In 2024, A Comprehensive List of Top 10 Video Communication Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-editing-magic-transformative-strategies-for-youtube-creators/"><u>[Updated] 2024 Approved Editing Magic Transformative Strategies for YouTube Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chrome-plug-ins-for-productivity-the-best-8-ai-tools/"><u>Chrome Plug-Ins for Productivity: The Best 8 AI Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/getting-started-with-itunes-on-windows-operating-systems-a-step-by-step-guide/"><u>Getting Started with iTunes on Windows Operating Systems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guidelines-to-end-lenovo-visual-pulse/"><u>Guidelines to End Lenovo Visual Pulse</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-iphones-potential-for-detailed-photography-for-2024/"><u>Harnessing iPhone's Potential for Detailed Photography for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-fix-it-when-your-iphone-is-not-detected-by-itunes/"><u>How to Fix It when Your iPhone Is Not Detected by iTunes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-htc-u23-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on HTC U23</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ipod-add-on-tutorial-placing-tracks-without-using-itunes-aiseesofts-approach/"><u>IPod Add-On Tutorial: Placing Tracks Without Using iTunes (Aiseesoft's Approach)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/no-more-itunes-required-master-the-art-of-seamless-ipod-management-using-modern-alternatives/"><u>No More iTunes Required: Master the Art of Seamless iPod Management Using Modern Alternatives</u></a></li>
 </ul></div>
 

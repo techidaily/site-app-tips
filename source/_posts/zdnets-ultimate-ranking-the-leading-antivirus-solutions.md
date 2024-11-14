@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Ultimate Ranking: The Leading Antivirus Solutions"
-date: 2024-10-30T17:01:09.783Z
-updated: 2024-11-04T16:31:07.952Z
+date: 2024-11-11T17:11:03.149Z
+updated: 2024-11-13T17:09:36.622Z
 tags:
   - enterprise-software
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,19 +187,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-prove-your-worth-in-the-world-of-photography-essential-pixlr-skills/"><u>[New] In 2024, Prove Your Worth in the World of Photography Essential Pixlr Skills</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harvesting-hits-and-heads-how-to-profit-from-your-youtube-presence-without-ads/"><u>[Updated] 2024 Approved Harvesting Hits and Heads How to Profit From Your YouTube Presence Without Ads</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-maximizing-social-interaction-with-innovative-fb-slideshow-techniques/"><u>[Updated] 2024 Approved Maximizing Social Interaction with Innovative FB Slideshow Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-why-chatgpt-stands-out-amongst-advanced-ai-chat-bots/"><u>Comprehensive Analysis: Why ChatGPT Stands Out Amongst Advanced AI Chat Bots</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-of-chatsonic-an-in-depth-guide-to-understanding-this-advanced-ai-chatbot/"><u>Comprehensive Evaluation of Chatsonic: An In-Depth Guide to Understanding This Advanced AI Chatbot</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-how-these-10-cutting-edge-ai-chatbots-can-elevate-your-communication-game/"><u>Discover How These 10 Cutting-Edge AI Chatbots Can Elevate Your Communication Game</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-with-ais-best-kept-secret-an-in-depth-analysis-of-the-apo-assistant-chatbot-app/"><u>Experience Next-Level Interaction with AI's Best Kept Secret - An In-Depth Analysis of the Apo Assistant Chatbot App</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-the-future-10-revolutionary-ai-chatbots-to-upgrade-your-conversations/"><u>Experience the Future: 10 Revolutionary AI Chatbots to Upgrade Your Conversations</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-critique-on-cyberpunk-2077-an-incomplete-triumph-in-gaming/"><u>Expert Critique on Cyberpunk 2077: An Incomplete Triumph in Gaming</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-alternatives-to-elevenlabs-generative-voice-ai-technology/"><u>Exploring Alternatives to ElevenLabs' Generative Voice AI Technology</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/fiscally-flourishing-through-film-reviewing-retail-relics/"><u>Fiscally Flourishing Through Film Reviewing Retail Relics</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-11-pro-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 11 Pro</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-samsung-galaxy-s21-fe-5g-2023-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Samsung Galaxy S21 FE 5G (2023) FRP</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-design-humorous-graphics-with-adobe/"><u>In 2024, Design Humorous Graphics with Adobe</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-steps-to-safely-update-or-fresh-install-itunes-without-data-loss/"><u>Complete Guide: Steps to Safely Update or Fresh Install iTunes without Data Loss</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-senuti-app-evaluation-and-top-alternatives-for-both-windows-and-macos-users/"><u>Comprehensive Guide: Senuti App Evaluation & Top Alternatives for Both Windows & macOS Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-activating-an-itunes-gift-card-for-apples-ios-and-macos-platforms/"><u>Guide: Activating An iTunes Gift Card For Apple's iOS & macOS Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-streaming-disneyplus-on-your-tv-using-chromecast/"><u>Guide: Streaming Disney+ on Your TV Using Chromecast</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-streamline-audio-from-apple-homepod-to-your-flat-screen-tv/"><u>How to Streamline Audio From Apple HomePod to Your Flat Screen TV</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138589362-9781452547275-open-the-mind-exercise-the-soul/"><u>Open the Mind Exercise the Soul | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-odbc-interface/"><u>Step-by-Step Guide to Windows ODBC Interface</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-solutions-seamlessly-transfer-your-itunes-library-to-android-devices/"><u>Top Solutions: Seamlessly Transfer Your iTunes Library to Android Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-recover-corrupt-system-files-in-windows-10-11-edition/"><u>Troubleshooting Tips: How to Recover Corrupt System Files in Windows 10, 11 Edition</u></a></li>
 </ul></div>
 

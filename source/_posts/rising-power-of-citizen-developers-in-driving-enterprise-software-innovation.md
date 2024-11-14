@@ -1,7 +1,7 @@
 ---
 title: Rising Power of Citizen Developers in Driving Enterprise Software Innovation
-date: 2024-11-01T16:16:16.843Z
-updated: 2024-11-04T16:58:07.000Z
+date: 2024-11-09T16:37:04.966Z
+updated: 2024-11-13T16:16:05.339Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +187,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-step-by-step-full-screen-preview-in-premiere/"><u>[New] In 2024, Step-by-Step Full Screen Preview in Premiere</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-immediate-account-suspension-due-to-copyright-violations-for-2024/"><u>[New] Navigating Immediate Account Suspension Due to Copyright Violations for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-insiders-guide-to-overwatch-game-recording-for-2024/"><u>[New] The Insider's Guide to Overwatch Game Recording for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-essential-knowledge-for-recording-movies-anywhere/"><u>[Updated] 2024 Approved Essential Knowledge for Recording Movies Anywhere</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-calls-recorded-and-saved-iphone-24-sound-guide/"><u>[Updated] Calls Recorded & Saved IPhone '24 Sound Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-tecno-spark-20-proplus-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-strategies-for-safeguarding-your-password-vault-insights-from-zdnet/"><u>Effective Strategies for Safeguarding Your Password Vault - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/getting-started-with-dashlane-understanding-costs-key-functionalities-and-initial-setup-steps-insights-from-zdnet/"><u>Getting Started with Dashlane: Understanding Costs, Key Functionalities & Initial Setup Steps - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/huge-sale-alert-score-50-off-on-nordpass-pro-top-tier-password-security-for-black-friday-2022-techsavvy-news/"><u>Huge Sale Alert: Score 50% Off on NordPass Pro - Top-Tier Password Security for Black Friday 2022 | TechSavvy News</u></a></li>
-<li><a href="https://app-tips.techidaily.com/huge-savings-alert-dashlane-premium-passwords-get-cut-in-half-score-a-50-discount/"><u>Huge Savings Alert: Dashlane Premium Passwords Get Cut in Half - Score a 50% Discount!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/iso-datei-in-windows-8-7-oder-11-konvertieren-und-aufzeichnen-auf-eine-dvd-professionelle-tipps-and-tricks/"><u>ISO Datei in Windows 8, 7 Oder 11 Konvertieren Und Aufzeichnen Auf Eine DVD – Professionelle Tipps & Tricks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/malware-distribution-tactics-uncovered-by-proofpoint-leveraging-popular-concerts-like-justin-bieber-and-the-weeknd-as-a-scam-vector/"><u>Malware Distribution Tactics Uncovered by Proofpoint: Leveraging Popular Concerts Like Justin Bieber and The Weeknd as a Scam Vector</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximize-security-for-up-to-10-users-using-1passwords-economical-monthly-plan-of-1995-discover-more-inside-zdnet/"><u>Maximize Security for Up to 10 Users Using 1Password's Economical Monthly Plan of $19.95 | Discover More Inside ZDNet</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-become-an-mp3-aficionado-expert-techniques-for-audio-editing-perfection/"><u>New In 2024, Become an MP3 Aficionado Expert Techniques for Audio Editing Perfection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protect-online-passwords-easily-get-a-whopping-3-month-trial-of-dashlane-premium-at-only-1-from-zdnet/"><u>Protect Online Passwords Easily: Get a Whopping 3-Month Trial of Dashlane Premium at Only $1 From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-over-150m-accounts-how-google-activated-two-factor-authentication-by-default/"><u>Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-have-you-ever-used-an-adjustment-layer-in-photoshop-read-this-article-to-find-out-how-to-add-resize-change-and-use-an-adjustment-layer/"><u>Updated 2024 Approved Have You Ever Used an Adjustment Layer in Photoshop? Read This Article to Find Out How to Add, Resize, Change, and Use an Adjustment Layer in Photoshop Efficiently</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-beam-breakthroughs-lighting-know-how-for-video-success/"><u>[New] Beam Breakthroughs Lighting Know-How for Video Success</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-tech-tools-for-distance-podcasting-for-2024/"><u>[New] Tech Tools for Distance Podcasting for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-network-gaps-win-10-and-11-written-for-telnet-users/"><u>Bridging Network Gaps: Win 10 & 11' Written for Telnet Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolution-of-dev-responsibilities-as-seen-by-agnes-ro-of-atlassian-expert-analysis-on-zdnet/"><u>Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immersive-escapes-androidioss-favorite-ar-games/"><u>In 2024, Immersive Escapes Android/iOS's Favorite AR Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/indispensable-sandbox-journeys-await-in-2024/"><u>Indispensable Sandbox Journeys Await, In 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-codenotarys-sbom-solution-a-revolution-in-managing-dependencies-on-kubernetes-insights-from-zdnet/"><u>Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-shift-to-cloud-infrastructure-amidst-an-era-of-persistent-on-premises-systems-insights-from-zdnet/"><u>Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-leading-antivirus-programs-according-to-zdnet/"><u>Ultimate List: Leading Antivirus Programs , According to ZDNet</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers on Windows 11/10</u></a></li>
 </ul></div>
 

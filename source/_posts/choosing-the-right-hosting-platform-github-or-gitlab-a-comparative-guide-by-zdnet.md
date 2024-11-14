@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Right Hosting Platform: GitHub or GitLab? - A Comparative Guide by ZDNet"
-date: 2024-11-02T16:31:35.115Z
-updated: 2024-11-04T16:12:09.796Z
+date: 2024-11-10T18:32:27.043Z
+updated: 2024-11-13T18:43:27.262Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +187,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-security-accessories-for-webcams/"><u>[New] In 2024, Top Security Accessories for Webcams</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-insights-into-youtubes-creative-commons-licensing-system/"><u>[Updated] Insights Into YouTube’s Creative Commons Licensing System</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-discover-the-finest-top-10-affordable-drawers-on-mac/"><u>2024 Approved Discover the Finest Top 10 Affordable Drawers on Mac</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-top-10-drones-filmmakings-visual-frontiers/"><u>2024 Approved Prime Top 10 Drones Filmmaking's Visual Frontiers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-youtube-shorts-earnings-guide-must-knows-and-future-potential/"><u>2024 Approved Youtube Shorts Earnings Guide Must-Knows & Future Potential</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/affordable-password-safety-and-data-protection-with-advanced-encryption-for-less-than-monthly-cost-of-a-coffee-tips-by-zdnet/"><u>Affordable Password Safety & Data Protection with Advanced Encryption for Less than Monthly Cost of a Coffee | Tips by ZDNET</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/anchoring-in-antiquity-how-to-reverse-snapchat-movements/"><u>Anchoring in Antiquity How to Reverse Snapchat Movements</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cant-remember-your-passwords-discover-how-a-password-manager-can-help-cnbc/"><u>Can't Remember Your Passwords? Discover How a Password Manager Can Help | CNBC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/database-leak-reveals-personal-data-of-over-30000-medical-staff-in-florida-an-in-depth-look-by-zdnet/"><u>Database Leak Reveals Personal Data of Over 30,000 Medical Staff in Florida: An In-Depth Look by ZDNet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-logitech-racing-simulator-driver-downloads-for-windows-7-8-and-10-users/"><u>Latest Logitech Racing Simulator Driver Downloads for Windows 7, 8 and 10 Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/no-excuses-for-bad-passwords-anymore-master-managed-logins-with-the-ultimate-guide-to-password-managers/"><u>No Excuses for Bad Passwords Anymore - Master Managed Logins with the Ultimate Guide to Password Managers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-lastpass-substitutes-expert-picks-by-zdnet/"><u>Top LastPass Substitutes : Expert Picks by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-password-management-tools-of-2024-industry-experts-picks-featured-on-zdnet/"><u>Top-Ranked Password Management Tools of 2024: Industry Experts' Picks Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-exclusive-savings-on-keeper-password-manager-secure-your-accounts-now-with-a-50-discount/"><u>Unlock Exclusive Savings on Keeper Password Manager - Secure Your Accounts Now with a 50% Discount!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/upgrade-your-security-how-1passwords-new-passkey-feature-outshines-the-master-password-insights-from-zdnet/"><u>Upgrade Your Security: How 1Password's New Passkey Feature Outshines the Master Password - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-ae-text-and-title-styles-guide/"><u>2024 Approved AE Text & Title Styles Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-enhance-your-medias-impact-with-precise-aspect-ratios/"><u>2024 Approved Enhance Your Media's Impact with Precise Aspect Ratios</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-password-manager-security-expert-tips-and-techniques-zdnet/"><u>Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-a1x-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo A1x 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-dialogue-via-android-widget/"><u>Leveraging ChatGPT Dialogue via Android Widget</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/my-documentswindows-cuide/"><u>My Documentsが消えたWindows Cuideィーでのファイル・フォルダ復元法</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-user-memory-lapses-with-biometric-authentication-insights-from-zdnet/"><u>Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-your-data-avoid-these-common-mistakes-in-cloud-security-that-attract-cyber-thieves-zdnet/"><u>Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-sensitive-information-under-20month-using-robust-encryption-techniques-insights-from-zdnet/"><u>Secure Your Sensitive Information Under $20/Month Using Robust Encryption Techniques – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-myth-of-untraceable-transactions-shattered-bitcoins-anonymity-revealed-in-recent-paper/"><u>The Myth of Untraceable Transactions Shattered: Bitcoin's Anonymity Revealed in Recent Paper</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-password-security-tools-comprehensive-reviews-and-comparisons-cnet/"><u>Top Rated Password Security Tools : Comprehensive Reviews and Comparisons - CNET</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-the-impact-of-ntfs-compression-on-data-saving/"><u>Understanding the Impact of NTFS Compression on Data Saving</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-smoother-operations-on-your-android-with-proper-cache-management/"><u>Unlock Smoother Operations on Your Android with Proper Cache Management</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-compiling-a-comprehensive-guide-to-cost-free-vst-tools-available/"><u>Updated 2024 Approved Compiling a Comprehensive Guide to Cost-Free VST Tools Available</u></a></li>
 </ul></div>
 

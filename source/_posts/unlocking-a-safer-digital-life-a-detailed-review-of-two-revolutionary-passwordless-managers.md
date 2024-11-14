@@ -1,7 +1,7 @@
 ---
 title: "Unlocking a Safer Digital Life: A Detailed Review of Two Revolutionary Passwordless Managers"
-date: 2024-10-29T16:20:53.446Z
-updated: 2024-11-04T17:18:46.618Z
+date: 2024-11-12T19:59:05.630Z
+updated: 2024-11-13T17:24:03.712Z
 tags:
   - password-manager
 categories:
@@ -50,10 +50,10 @@ Screenshot by Ed Bott/ZDNET
 With those tasks out of the way, you can import your existing passwords and add new ones. More importantly, you now have a device that you can use to set up access to the password vault on other devices, with no master password required.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Setting up additional devices
@@ -97,10 +97,10 @@ The dealbreaker for me, though, came when I tried to export my passwords from th
 Given those beta headaches, I decided to delete my passwordless 1Password account and try again in a few months. But Dashlane was impressive enough to make me seriously consider switching.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's the risk?
@@ -114,10 +114,10 @@ So, what happens if you can't access any of those trusted devices? You're locked
 Both Dashlane and 1Password offer an alternative in the form of a recovery key. That's a randomly generated alphanumeric code (Dashlane's key is 28 characters long; 1Password uses a 56- character recovery key) that you print out and store in a safe place. If you're ever in a situation where you don't have a PC or mobile device that's signed in to your account, you can break the glass and use that recovery key as a last resort. But you'll never need to type it under normal circumstances, meaning it's resistant to phishing, keyloggers, and other hacking tools.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should you switch to a passwordless account?
@@ -156,22 +156,24 @@ I was impressed enough by [Dashlane](https://www.tkqlhce.com/click-9041660-15578
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-capture-life-in-motion-on-your-ipad/"><u>[New] Capture Life in Motion on Your iPad</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-from-novice-to-pro-how-to-optimize-your-onestream-livestream/"><u>[New] In 2024, From Novice to Pro How to Optimize Your OneStream Livestream</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-peak-playtime-youtubes-most-gigantic-video-hours-count/"><u>[Updated] In 2024, The Peak Playtime YouTube's Most Gigantic Video Hours Count</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-unveiling-the-best-video-grabber-listings/"><u>2024 Approved Unveiling the Best Video Grabber Listings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-revolutionizing-careers-the-inevitable-shift-to-a-world-governed-by-intelligent-agents-expert-analysis-on-zdnet/"><u>AI Revolutionizing Careers: The Inevitable Shift to a World Governed by Intelligent Agents | Expert Analysis on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-transforms-business-strategies-how-many-marketing-departments-adapt-learn-with-zdnet/"><u>AI Transforms Business Strategies: How Many Marketing Departments Adapt? - Learn with ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-skills-embrace-boundary-pushing-technology-beyond-just-ai-insights-from-zdnet/"><u>Elevate Your Skills: Embrace Boundary-Pushing Technology Beyond Just AI - Insights From ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 Pro without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-fast-track-your-visuals-the-best-pinterest-downloaders-listed/"><u>In 2024, Fast-Track Your Visuals The Best Pinterest Downloaders Listed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-ios-auditory-pleasures/"><u>In 2024, The Ultimate Guide to iOS Auditory Pleasures</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linguistic-bias-in-ai-chatbots-evidence-from-a-latest-stanford-study-zdnet/"><u>Linguistic Bias in AI Chatbots: Evidence From a Latest Stanford Study | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-the-english-language-trap-in-ai-conversations-key-findings-from-stanford-analysis-zdnet/"><u>Overcoming the English-Language Trap in AI Conversations: Key Findings From Stanford Analysis | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/survey-shows-quarter-of-it-specialists-considering-career-change-insights-from-zdnet/"><u>Survey Shows Quarter of IT Specialists Considering Career Change - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-era-of-edge-expansion-unveiling-its-impact-on-professional-growth-and-opportunities-innovatetech/"><u>The Era of Edge Expansion: Unveiling Its Impact on Professional Growth and Opportunities | InnovateTech</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-work-exploring-unprecedented-career-paths-and-title-evolution-in-the-age-of-artificial-intelligence/"><u>The Future of Work: Exploring Unprecedented Career Paths and Title Evolution in the Age of Artificial Intelligence</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-collection-of-elite-cost-free-vfx-and-editing-websites/"><u>The Ultimate Collection of Elite, Cost-Free VFX & Editing Websites</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-v27-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo V27 Pro Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-diy-approaches-to-design-your-own-youtube-cards-for-2024/"><u>[New] Free DIY Approaches to Design Your Own YouTube Cards for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-peering-through-the-colors-with-advanced-blade-cameras/"><u>[New] Peering Through the Colors with Advanced Blade Cameras</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-startup-zoom-navigating-participant-groups-for-2024/"><u>[New] Startup Zoom Navigating Participant Groups for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-framefinder-focus-top-recording-software-of-2023/"><u>[Updated] 2024 Approved FrameFinder Focus Top Recording Software of 2023</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/diy-making-music-videos-with-your-iphone/"><u>DIY Making Music Videos with Your iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-artificer-networks-for-business-success-the-rise-of-ai-powered-agents/"><u>Harnessing Artificer Networks for Business Success - The Rise of AI-Powered Agents</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-businesses-can-profit-from-ai-innovations-despite-initial-hurdles-according-to-zdnet-expert-analysis/"><u>How Businesses Can Profit From AI Innovations Despite Initial Hurdles, According to ZDNet Expert Analysis</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-do-i-overcome-game-lag-in-grand-theft-auto-5-fix-provided/"><u>How Do I Overcome Game Lag in Grand Theft Auto 5? (Fix Provided)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 14</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-a-world-full-of-edge-devices-future-job-prospects-explained-by-zdnet/"><u>Navigating a World Full of Edge Devices: Future Job Prospects Explained by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-surge-of-edge-computing-devices-implications-for-professional-growth-and-opportunities-zdnet/"><u>Navigating the Surge of Edge Computing Devices: Implications for Professional Growth and Opportunities | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prepare-your-leaders-why-managerial-training-is-key-for-successful-ai-integration/"><u>Prepare Your Leaders: Why Managerial Training Is Key for Successful AI Integration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-ui-with-ai-the-end-of-traditional-interfaces-zdnet-insights/"><u>Revolutionizing UI with AI: The End of Traditional Interfaces | ZDNet Insights</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/step-by-step-guide-transferring-your-music-collection-from-cds-to-icloud-using-your-iphone-or-pc/"><u>Step-by-Step Guide: Transferring Your Music Collection From CDs to iCloud Using Your iPhone or PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/survey-finds-quarter-of-it-workers-considering-job-switches-insights-from-zdnet/"><u>Survey Finds Quarter of IT Workers Considering Job Switches - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-end-of-clicking-exploring-how-generative-ai-is-revolutionizing-user-interfaces/"><u>The End of Clicking: Exploring How Generative AI Is Revolutionizing User Interfaces</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-urgent-need-for-ethical-ai-why-more-action-is-required/"><u>The Urgent Need for Ethical AI: Why More Action Is Required</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/turn-the-clock-back-reverse-video-mastery-in-instagram/"><u>Turn the Clock Back Reverse Video Mastery in Instagram</u></a></li>
 </ul></div>
 

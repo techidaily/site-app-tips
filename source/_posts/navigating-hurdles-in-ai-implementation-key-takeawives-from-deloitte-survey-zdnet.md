@@ -1,7 +1,7 @@
 ---
 title: "Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET"
-date: 2024-11-01T16:01:29.836Z
-updated: 2024-11-04T16:39:45.688Z
+date: 2024-11-11T19:50:11.484Z
+updated: 2024-11-13T19:06:45.488Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +187,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-brightening-filmmaking-ranking-the-17-best-lights-for-2024/"><u>[New] Brightening Filmmaking Ranking the 17 Best Lights for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/redicting-the-new-wave-of-social-media-infographic-style-for-2024/"><u>[New] Predicting the New Wave of Social Media - Infographic Style for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-quick-cut-technique-making-your-vlog-more-engaging/"><u>2024 Approved Quick-Cut Technique Making Your Vlog More Engaging</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-rusts-role-in-linux-projects-with-linus-torvalds-a-glimpse-into-his-routine-and-macbook-experience-zdnet/"><u>Exploring Rust's Role in Linux Projects with Linus Torvalds: A Glimpse Into His Routine and MacBook Experience - ZDNet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-features-of-apcs-be6backup-unit-advanced-power-protection-and-integrated-usb-port-for-on-the-go-charging/"><u>Exploring the Features of APC's BE6#Backup Unit: Advanced Power Protection & Integrated USB Port for On-the-Go Charging</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-to-watch-facebook-videos-on-my-apple-tv-for-2024/"><u>How to Watch Facebook Videos on My Apple TV for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-codenotarys-sbom-solution-for-kubernetes-ensuring-security-and-compliance/"><u>Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-linux-kernel-v65-a-comprehensive-look-at-its-latest-groundbreaking-capabilities-techworld/"><u>Introducing Linux Kernel v6.5: A Comprehensive Look at Its Latest Groundbreaking Capabilities | TechWorld</u></a></li>
-<li><a href="https://app-tips.techidaily.com/latest-tech-tip-seamless-transition-how-to-move-from-linux-mint-to-mint-21-efficiently/"><u>Latest Tech Tip: Seamless Transition - How To Move From Linux Mint to Mint 21 Efficiently!</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/pinpointing-your-unique-tiktok-tagline-for-2024/"><u>Pinpointing Your Unique TikTok Tagline for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/sources-daudio-libres-de-droits-et-gratuites-pour-illustrer-votre-contenu-visuel-en-ligne/"><u>Sources D’Audio Libres De Droits Et Gratuites Pour Illustrer Votre Contenu Visuel en Ligne</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-accounting-programs-finding-the-perfect-match/"><u>Top Rated Accounting Programs : Finding the Perfect Match!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-short-window-of-success-in-ai-implementations-lessons-from-a-zdnet-perspective/"><u>Understanding the Short Window of Success in AI Implementations - Lessons From a ZDNet Perspective</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-mastering-desktop-maximizing-tiktok-fame-for-2024/"><u>[Updated] Mastering Desktop Maximizing TikTok Fame for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anthropic-unveils-newly-released-free-claude-mobile-application-on-ios-announces-premium-enterprise-solution-a-breakthrough-for-business-efficiency/"><u>Anthropic Unveils Newly Released Free Claude Mobile Application on iOS; Announces Premium Enterprise Solution: A Breakthrough for Business Efficiency!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/arista-expands-into-mid-range-sector-with-advanced-cognitive-network-solutions/"><u>Arista Expands Into Mid-Range Sector with Advanced Cognitive Network Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-online-collage-makers-for-photos-videos-and-more/"><u>Best Free Online Collage Makers for Photos, Videos, and More</u></a></li>
+<li><a href="https://app-tips.techidaily.com/defending-your-microsoft-profile-from-hacking-risks-expert-tips-for-enhanced-security-digitalguardianblog/"><u>Defending Your Microsoft Profile From Hacking Risks: Expert Tips for Enhanced Security - DigitalGuardianBlog</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-epson-ds-530-printer-driver-compatible-with-windows-11-64-bit-systems/"><u>Download Epson DS-530 Printer Driver: Compatible with Windows 11 64-Bit Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/high-fidelity-mp4-streamer-to-facebook/"><u>High-Fidelity MP4 Streamer to Facebook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-fixing-problematic-youtube-shorts-thumbnails-display/"><u>In 2024, Fixing Problematic YouTube Shorts Thumbnails Display</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/insight-into-excellence-a-detailed-guide-to-mastering-vivacut-editing/"><u>Insight Into Excellence A Detailed Guide to Mastering VivaCut Editing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-rising-complexity-of-ops-how-it-professionals-address-emerging-challenges/"><u>Navigating the Rising Complexity of 'Ops': How IT Professionals Address Emerging Challenges</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-through-disorder-revolutionary-fixes-for-cluttered-linux-and-open-source-guides-on-zdnet/"><u>Navigating Through Disorder: Revolutionary Fixes for Cluttered Linux & Open-Source Guides on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rocky-linux-receives-major-backing-with-ciq-as-principal-supporter-insights-from-the-tech-community/"><u>Rocky Linux Receives Major Backing with CIQ as Principal Supporter - Insights From the Tech Community</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-learning-languages-for-free-top-5-picks-of-2024/"><u>The Ultimate Guide to Learning Languages for Free - Top 5 Picks of 2024</u></a></li>
 </ul></div>
 

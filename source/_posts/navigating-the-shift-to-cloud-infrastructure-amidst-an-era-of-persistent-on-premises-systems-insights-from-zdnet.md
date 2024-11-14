@@ -1,7 +1,7 @@
 ---
 title: Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET
-date: 2024-10-31T16:55:57.905Z
-updated: 2024-11-04T16:17:26.388Z
+date: 2024-11-10T16:12:39.549Z
+updated: 2024-11-13T18:31:37.932Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +187,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-your-personalized-list-of-top-non-networked-android-game-apps/"><u>[New] 2024 Approved Your Personalized List of Top Non-Networked Android Game Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-gradual-audio-reduction-in-digital-studios/"><u>[New] Navigating Gradual Audio Reduction in Digital Studios</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlock-video-potential-premium-lens-selection-tips/"><u>[New] Unlock Video Potential Premium Lens Selection Tips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-quickscreen-recorder-for-professionals/"><u>[Updated] QuickScreen Recorder for Professionals</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capture-share-enjoy/"><u>2024 Approved Capture, Share, Enjoy</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-harness-mematic-for-efficient-note-taking/"><u>2024 Approved Harness Mematic for Efficient Note-Taking</u></a></li>
-<li><a href="https://app-tips.techidaily.com/another-cybersecurity-breach-lastpass-compromised-once-more/"><u>Another Cybersecurity Breach: LastPass Compromised Once More</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-patch-update-to-log4j-library-available-with-apache-2170-release-cybersecurity-breakthrough-on-zdnet/"><u>Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-examination-of-1password-maximizing-security-with-high-value-for-your-dollar-a-comprehensive-review-by-zdnets-experts/"><u>In-Depth Examination of 1Password: Maximizing Security with High Value for Your Dollar - A Comprehensive Review by ZDNet's Experts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-class-on-vsco-camera-and-lens-for-creative-use-for-2024/"><u>Master Class on VSCO Camera & Lens for Creative Use for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-dashlanes-offerings-price-breakdown-features-unveiled-and-step-by-step-setup-tutorial-cyberwisezine/"><u>Navigating Dashlane's Offerings: Price Breakdown, Features Unveiled & Step-by-Step Setup Tutorial | CyberWiseZine</u></a></li>
-<li><a href="https://win-forum.techidaily.com/overcoming-the-this-program-doesnt-run-in-pcs-expert-solutions/"><u>Overcoming the 'This Program Doesn't Run in PCs': Expert Solutions</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/scandinavian-cinema-unveiled-perfect-your-danish-skills/"><u>Scandinavian Cinema Unveiled: Perfect Your Danish Skills</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-account-with-2fa-integrating-githubs-new-feature-using-iphone-and-android-devices/"><u>Secure Your Account with 2FA: Integrating GitHub's New Feature Using iPhone & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-digital-keykeeper-essential-steps-for-safer-password-management-zdnet/"><u>Securing Your Digital Keykeeper: Essential Steps for Safer Password Management | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-turning-on-the-bitwarden-security-prompt-for-your-master-key/"><u>Step-by-Step: Turning On the Bitwarden Security Prompt for Your Master Key</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ultimate-tutorial-for-iphone-x-animoji-fun/"><u>[New] In 2024, The Ultimate Tutorial for iPhone X Animoji Fun</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-freedom-of-filmmaking-top-android-video-editing-apps/"><u>[New] The Freedom of Filmmaking Top Android Video Editing Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prospects-picks-the-highest-livestream-sites/"><u>[Updated] Prospects' Picks The Highest Livestream Sites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streaming-wars-recap-fb-live-yt-live-and-twitter-spaces/"><u>[Updated] Streaming Wars Recap FB LIVE, YT Live & Twitter Spaces</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-vivid-visuals-brighten-on-android/"><u>2024 Approved Vivid Visuals Brighten on Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-passwords-under-control-at-half-price-save-big-now-only-50-off-keeper-manager-gizmonews/"><u>Get Your Passwords Under Control at Half Price! Save Big Now - Only 50% Off Keeper Manager | GizmoNews</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-vivo-g2-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo G2 Phone Screen?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-how-to-wipe-out-your-youtube-buffered-videos/"><u>In 2024, How-To Wipe Out Your YouTube Buffered Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quintessential-underwater-accessories-for-gopro/"><u>Quintessential Underwater Accessories for Gopro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-expert-analysis-on-1password-high-quality-password-management-solutions-that-deliver-value/"><u>Top-Ranked Expert Analysis on 1Password - High-Quality Password Management Solutions That Deliver Value</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-security-why-embracing-a-password-manager-is-essential-now-more-than-ever/"><u>Unlocking Security: Why Embracing a Password Manager Is Essential Now More Than Ever</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-people-favor-biometrics-over-passwords-due-to-memory-challenges-zdnet-analysis/"><u>Why People Favor Biometrics Over Passwords Due to Memory Challenges | ZDNet Analysis</u></a></li>
 </ul></div>
 

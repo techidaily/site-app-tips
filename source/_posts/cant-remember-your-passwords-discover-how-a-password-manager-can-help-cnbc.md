@@ -1,7 +1,7 @@
 ---
 title: Can't Remember Your Passwords? Discover How a Password Manager Can Help | CNBC
-date: 2024-11-01T16:03:18.695Z
-updated: 2024-11-04T16:16:06.400Z
+date: 2024-11-08T18:42:10.978Z
+updated: 2024-11-13T18:08:21.283Z
 tags:
   - password-manager
 categories:
@@ -105,13 +105,6 @@ Direct LinkEmbed Code
 
 Close Modal Dialog
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** recommends
 
 [The best password managers for business Everyone needs a password manager. It's the only way to maintain unique, hard-to-guess credentials for every secure site you and your team access daily.  Read now](https://www.zdnet.com/article/best-password-manager/)
@@ -182,19 +175,19 @@ The companies that manage and sync those saved files don't have access to the de
 
 That architecture offers five distinct advantages over a DIY solution. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 * [Best VPN services](https://www.zdnet.com/article/best-vpn/)
 * [Best security keys](https://www.zdnet.com/article/best-security-key/)
 * [Best antivirus software](https://www.zdnet.com/article/best-antivirus/)
 * [The fastest VPNs](https://www.zdnet.com/article/fastest-vpn/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1) Browser Integration 
 
@@ -210,13 +203,6 @@ Most password managers also allow you to customize the length and complexity of 
 
 With the possible exceptions of [John Forbes Nash, Jr.](https://en.wikipedia.org/wiki/A%5FBeautiful%5FMind%5F%28film%29), and [Raymond Babbitt](https://en.wikipedia.org/wiki/Rain%5FMan), mere mortals are not capable of such feats of randomization. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  3) Phishing Protection 
 
 Integrating a password manager with a browser is superb protection against phishing sites. If you visit a site that has managed to perfectly duplicate your bank's login page and even mess with the URL display to make it look legit, you might be fooled. Your password manager, on the other hand, won't enter your saved credentials, because the URL of the fake site doesn't match the legitimate domain associated with them. 
@@ -230,6 +216,13 @@ That phishing protection is probably the most underrated feature of all. If you 
 Password managers work across devices, including PCs, Macs, and mobile devices, with the option to sync your encrypted password database to the cloud. Access to that file and its contents can be secured with biometric authentication and 2FA. 
 
 By contrast, if you manage passwords in an encrypted file that's saved locally, you have to manually copy that file to other devices (or keep it in the cloud in a location under your personal control), and then make sure the contents of each copy stay in sync. More friction. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  5) Surveillance Safeguard 
 
@@ -254,10 +247,10 @@ And so you wind up keeping an encrypted list of passwords that are not exactly u
 No, they don't. They have an AES-256 encrypted blob that is, for all intents and purposes, useless gibberish. The only way to extract its secrets is with the decryption key, which you and you alone know. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Security
@@ -294,18 +287,18 @@ If you're a journalist working on security issues, or an activist in a country w
 
 But even if you're not an obvious candidate for targeted attacks, you can be swept up in a website breach. That's why [Have I Been Pwned?](https://haveibeenpwned.com/) exists. It's easy enough for a compromised website to force you to reset your password, minimizing the risk of that breach, but if you've used that same combination of credentials elsewhere, you're at serious risk. And no matter how careful you are, you're always at risk of being fooled into handing over your credentials in a well-designed phishing attack.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Which password manager is right for you?
 
 Any password manager solution is better than none.
 
 The simplest solution is to use the password management tools built into your default browser or operating system. That option works especially well for anyone who is technically unsophisticated, has a limited number of credentials to store, and uses hardware and services from a single ecosystem. If you're setting things up for a friend or relative who has a Mac and an iPhone, for example, Apple's Keychain will suffice. Those who live in Google's ecosystem can probably get by with Chrome's password manager.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### read this
 
@@ -322,6 +315,13 @@ Finally, most commercial password managers include business plans that allow cen
 We've put together a list of the best free and paid options here: [Best Password Manager in 2021](https://www.zdnet.com/article/best-password-manager/). Each entry in this list includes pricing details as well as a link to security information. Every paid program offers a free trial, and we strongly recommend taking advantage of those trials to see if a program is right for you.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Related stories:
 
@@ -345,24 +345,22 @@ We've put together a list of the best free and paid options here: [Best Password
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-ultimate-screen-recorder-a-2023-evaluation-of-camstudio/"><u>[New] 2024 Approved The Ultimate Screen Recorder A 2023 Evaluation of CamStudio</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-a-guide-to-high-quality-slow-motion-images-for-instagram-sharing/"><u>[New] A Guide to High-Quality Slow Motion Images for Instagram Sharing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-no-cost-endless-chuckles-the-meme-makers-manual/"><u>[Updated] No Cost, Endless Chuckles The Meme Makers' Manual</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-top-360-live-streaming-cameras-for-youtube-and-facebook/"><u>2024 Approved Top 360 Live Streaming Cameras for YouTube and Facebook</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movavi-mpeg-wmv/"><u>這是如何在不花費一分錢的情況下，利用 Movavi 轉換器將 MPEG 改變為 WMV - 線上方式</u></a></li>
-<li><a href="https://app-tips.techidaily.com/amplifying-the-role-of-it-professionals-in-shaping-customer-satisfaction-expert-analysis-by-zdnet/"><u>Amplifying the Role of IT Professionals in Shaping Customer Satisfaction | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/descargar-e-importar-archivo-de-audio-wav-desde-una-cinta-webm-sin-costo-con-herramientas-online-facil-de-usar/"><u>Descargar E Importar Archivo De Audio WAV Desde Una Cinta WebM Sin Costo Con Herramientas Online Fácil De Usar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-cutting-edge-enhancements-in-microsofts-latest-windows-11-upgrade-on-zdnet/"><u>Discover the Cutting-Edge Enhancements in Microsoft's Latest Windows 11 Upgrade on ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-regain-the-bluetooth-icons-on-your-windows-10-system/"><u>Effective Solutions to Regain the Bluetooth Icons on Your Windows 10 System</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-tech-departments-elevating-your-brand-through-enhanced-customer-experiences-insights-from-zdnet/"><u>Empowering Tech Departments: Elevating Your Brand Through Enhanced Customer Experiences - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expanding-security-juniper-networks-integrates-cloud-firewall-into-sase-solutions-zdnet-insight/"><u>Expanding Security: Juniper Networks Integrates Cloud Firewall Into SASE Solutions - ZDNet Insight</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-manually-restart-your-iphone-and-navigate-into-system-recovery-protocols/"><u>How to Manually Restart Your iPhone & Navigate Into System Recovery Protocols</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-beacon-of-beauty-broadcasting-launching-an-aesthetic-vlog/"><u>In 2024, The Beacon of Beauty Broadcasting Launching an Aesthetic Vlog</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-cloud-service-giants-an-in-depth-look-at-aws-microsoft-azure-and-google-clouds-hybrid-saas-offerings-zdnet-analysis/"><u>Leading Cloud Service Giants: An In-Depth Look at AWS, Microsoft Azure, and Google Cloud's Hybrid, SaaS Offerings - ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/nvidia-leads-with-blackwell-jensen-huang-reveals-revolutionary-chip-series-during-gtc-keynote-insights-for-tech-enthusiasts-zdnet/"><u>Nvidia Leads with Blackwell: Jensen Huang Reveals Revolutionary Chip Series During GTC Keynote - Insights for Tech Enthusiasts | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-industry-handbook-zdnet-insights/"><u>Revolutionizing UX with XR, Digital Twins & Spatial Tech: A Comprehensive Industry Handbook | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-the-cloud-industry-key-forecasts-by-renowned-tech-cto-on-evolving-business-strategies-wired/"><u>Transforming the Cloud Industry: Key Forecasts by Renowned Tech CTO on Evolving Business Strategies - Wired</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-linux-65-revolutionary-updates-and-improvements-detailed-digital-trends/"><u>Unveiling Linux 6.5: Revolutionary Updates and Improvements Detailed | Digital Trends</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-capture-lifes-movement-integrating-motion-blur-into-face-photography-with-picsart-for-2024/"><u>[New] Capture Life's Movement Integrating Motion Blur Into Face Photography with Picsart for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instasnap-optimize-images-and-videos-on-ig/"><u>[Updated] 2024 Approved InstaSnap Optimize Images & Videos on IG</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-use-of-zoom-on-chrome-os-devices/"><u>[Updated] Optimal Use of Zoom on Chrome OS Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ultimate-music-streams-network-for-2024/"><u>[Updated] Ultimate Music Streams Network for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/android-workflow-boosted-transforming-google-docs-into-compatible-ms-word-formats-effortlessly/"><u>Android Workflow Boosted: Transforming Google Docs Into Compatible MS Word Formats Effortlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-guide-to-codegpt-integration-in-vs-code/"><u>Expert Guide to CodeGPT Integration in VS Code</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-recent-payment-service-interruptions-affect-your-store-an-in-depth-analysis-by-zdnet/"><u>How Recent Payment Service Interruptions Affect Your Store: An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-kicking-off-with-keyframe-quality-controls/"><u>In 2024, Kicking Off with Keyframe Quality Controls</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-programming-in-rust-and-balancing-work-life-on-his-macbook-air-exclusive-qanda-featured-by-zdnet/"><u>Linus Torvalds Discusses Programming in Rust & Balancing Work-Life on His MacBook Air - Exclusive Q&A Featured by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-future-the-pivotal-role-of-enterprise-architects-in-todays-tech-evolution-zdnet/"><u>Mastering the Future: The Pivotal Role of Enterprise Architects in Today's Tech Evolution | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-new-era-of-work-a-deep-dive-into-enterprise-transformation-through-decentralized-technologies-and-web3/"><u>Navigating the New Era of Work: A Deep Dive Into Enterprise Transformation Through Decentralized Technologies and Web3</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-online-collage-creators-photo-and-video-editing-made-easy/"><u>New In 2024, Online Collage Creators Photo and Video Editing Made Easy</u></a></li>
+<li><a href="https://common-error.techidaily.com/resurrect-xbox-one-controls-for-pc-gaming/"><u>Resurrect Xbox One Controls for PC Gaming</u></a></li>
+<li><a href="https://win-studio.techidaily.com/schnelle-losungen-fur-den-windows-11-startmanger-reparaturprozess-ein-leitfaden-von-myrecover/"><u>Schnelle Lösungen Für Den Windows 11 Startmanger-Reparaturprozess – Ein Leitfaden Von MyRecover</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-most-efficient-to-do-list-applications-techradar/"><u>Top 10 Most Efficient To-Do List Applications - TechRadar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-screen-capture-tools-comprehensive-guide-pcmag/"><u>Top-Rated Screen Capture Tools: Comprehensive Guide - PCMag</u></a></li>
+<li><a href="https://app-tips.techidaily.com/veteran-linus-developers-endorse-ciq-the-principal-patron-for-rocky-linuxs-launch-computing-world/"><u>Veteran Linus Developers Endorse CIQ: The Principal Patron for Rocky Linux's Launch | Computing World</u></a></li>
 </ul></div>
 

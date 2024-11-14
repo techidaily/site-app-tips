@@ -1,7 +1,7 @@
 ---
 title: "Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks"
-date: 2024-10-28T16:00:03.833Z
-updated: 2024-11-04T17:00:40.421Z
+date: 2024-11-12T17:15:11.971Z
+updated: 2024-11-13T20:03:22.363Z
 tags:
   - password-manager
 categories:
@@ -110,10 +110,10 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -140,16 +140,10 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -197,20 +191,17 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-start-your-vlog-and-make-money-from-it-for-2024/"><u>[New] How to Start Your Vlog and Make Money From It for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-shade-portraits-with-orbital-illumination-technique-cs/"><u>2024 Approved Shade Portraits with Orbital Illumination Technique CS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissolving-barriers-with-artificial-insight/"><u>Dissolving Barriers with Artificial Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dynamic-otter-transcription-in-teams-mode-a-comprehensive-guide-for-enhanced-virtual-collaboration/"><u>Dynamic Otter Transcription in Teams Mode: A Comprehensive Guide for Enhanced Virtual Collaboration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-vivaldis-new-inbuilt-email-feature-a-stunningly-excellent-addition/"><u>Experience Vivaldi's New Inbuilt Email Feature: A Stunningly Excellent Addition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-enhancements-in-red-hats-newest-enterprise-linux-release-solutions-for-managing-hybrid-cloud-challenges/"><u>Exploring the Enhancements in Red Hat's Newest Enterprise Linux Release: Solutions for Managing Hybrid Cloud Challenges</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/get-ready-to-play-updated-windows-11-driver-for-amd-radeon-hd-6950/"><u>Get Ready to Play: Updated Windows 11 Driver for AMD Radeon HD 6950</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/oneplus-buds-z-review-bangin-budget-buds/"><u>OnePlus Buds Z Review: Bangin’ Budget Buds</u></a></li>
-<li><a href="https://app-tips.techidaily.com/sonys-research-division-partners-with-ai-singapore-to-enhance-large-language-model-development/"><u>Sony's Research Division Partners with AI Singapore to Enhance Large Language Model Development</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-elevating-your-pc-from-windows-home-to-professional-version/"><u>Step-by-Step Guide: Elevating Your PC From Windows Home to Professional Version</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210882845-9781088167137-the-glorious-arrest-of-a-family/"><u>THE GLORIOUS ARREST OF A FAMILY | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-free-vmware-productivity-your-step-by-step-tutorial-on-obtaining-personal-copies-of-fusion-pro-and-workstation-pro-zdnet-insights/"><u>Unlock Free VMware Productivity: Your Step-by-Step Tutorial on Obtaining Personal Copies of Fusion Pro and Workstation Pro | ZDNet Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlocking-creative-potential-with-pexels-visuals/"><u>Unlocking Creative Potential with Pexels Visuals</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-global-tech-leaders-choose-open-source-for-breakthrough-innovations-zdnet/"><u>Why Global Tech Leaders Choose Open Source for Breakthrough Innovations | ZDNet</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/zooms-best-practices-for-organizing-online-meetings/"><u>Zoom's Best Practices for Organizing Online Meetings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-boosting-popularity-on-instagram-mastery-of-the-top-25-tags-for-2024/"><u>[New] Boosting Popularity on Instagram Mastery of the Top 25 Tags for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unraveling-monetization-strategies-in-the-realm-of-video-shorts/"><u>[New] Unraveling Monetization Strategies in the Realm of Video Shorts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-exquisite-couple-clips-the-best-weddings-online-8-picks/"><u>[Updated] 2024 Approved Exquisite Couple Clips The Best Weddings Online (8 Picks)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-rotation-riddle-decoding-the-secrets-of-video-swapping-on-social-media/"><u>[Updated] The Rotation Riddle Decoding the Secrets of Video Swapping on Social Media</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-insightful-analysis-unveiling-the-challenges-of-leveraging-generative-ai-in-business-key-findings-from-deloittes-latest-study/"><u>1. Insightful Analysis: Unveiling the Challenges of Leveraging Generative AI in Business - Key Findings From Deloitte's Latest Study</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comparing-apples-m1-pro-and-m1-max-key-distinctions/"><u>2024 Approved Comparing Apple's M1 Pro and M1 Max Key Distinctions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amazon-introduces-innovative-ai-metric-for-response-accuracy-and-grounding/"><u>Amazon Introduces Innovative AI Metric for Response Accuracy and Grounding</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oppo-find-x7-ultra-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo Find X7 Ultra Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-honor-x50-gt-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Honor X50 GT Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-efficiency-on-chromebooks-discover-essential-navigation-tricks-and-performance-boosters-zdnet/"><u>Maximize Efficiency on Chromebooks: Discover Essential Navigation Tricks & Performance Boosters | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-innovators-flocking-to-open-source-projects-a-deep-dive-zdnet/"><u>Top Innovators Flocking to Open Source Projects - A Deep Dive | ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-resolving-game-breaking-glitches-in-fifa-ebitcoin-22-for-desktop-users/"><u>Ultimate Guide to Resolving Game-Breaking Glitches in FIFA Ebitcoin 22 for Desktop Users</u></a></li>
 </ul></div>
 

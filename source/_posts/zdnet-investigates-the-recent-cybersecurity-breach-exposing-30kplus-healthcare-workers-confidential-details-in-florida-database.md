@@ -1,7 +1,7 @@
 ---
 title: ZDNet Investigates the Recent Cybersecurity Breach Exposing 30K+ Healthcare Workers' Confidential Details in Florida Database
-date: 2024-11-03T16:07:20.171Z
-updated: 2024-11-04T16:26:56.271Z
+date: 2024-11-09T19:40:58.010Z
+updated: 2024-11-13T18:54:58.980Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -99,20 +99,19 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-pinnacle-8-android-video-chat-solutions-for-big-teams/"><u>[New] Pinnacle 8 Android Video Chat Solutions for Big Teams</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-choosing-between-projectors-and-tvs-for-superior-4k-viewing/"><u>2024 Approved Choosing Between Projectors & TVs for Superior 4K Viewing</u></a></li>
-<li><a href="https://win-superb.techidaily.com/continuer-a-utiliser-windows-7-en-2024-malgre-larret-du-support-conseils-et-risques/"><u>Continuer À Utiliser Windows #7 en 2024 Malgré L'arrêt Du Support - Conseils Et Risques</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/diving-into-the-world-of-elder-scrolls-an-intense-skyrim-gaming-experience-on-the-switch-unveiled/"><u>Diving Into the World of Elder Scrolls: An Intense Skyrim Gaming Experience on the Switch Unveiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-how-technological-advancements-contribute-to-staff-burnout-and-strategies-for-improvement-zdnet/"><u>Exploring How Technological Advancements Contribute to Staff Burnout and Strategies for Improvement | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-unexpected-how-ai-is-shaping-unprecedented-job-roles-and-their-mysterious-titles-zdnet-analysis/"><u>Exploring the Unexpected: How AI Is Shaping Unprecedented Job Roles and Their Mysterious Titles | ZDNET Analysis</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-xcover-7-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy XCover 7 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/master-wmp-techniques-for-efficient-cd-handling-and-recordings/"><u>Master WMP Techniques for Efficient CD Handling and Recordings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-future-of-ai-in-business-essential-read-for-singapores-smb-workforce-training-expert-advice-by-zdnet/"><u>Mastering the Future of AI in Business: Essential Read for Singapore's SMB Workforce Training – Expert Advice by ZDNET</u></a></li>
-<li><a href="https://video-capture.techidaily.com/scholarly-screening-top-10-educational-equipment-to-preserve-lectures/"><u>Scholarly Screening Top 10 Educational Equipment to Preserve Lectures</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-jobs-with-ai-unveiling-the-endless-possibilities-and-changes-by-zdnet-experts/"><u>The Future of Jobs with AI: Unveiling the Endless Possibilities & Changes by ZDNet Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-work-the-revolutionary-impact-of-ai-agents-on-future-jobs/"><u>Transforming Work: The Revolutionary Impact of AI Agents on Future Jobs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unleashing-gaming-potential-with-the-powerful-samsung-q60r-led-smart-tv-detailed-review/"><u>Unleashing Gaming Potential with the Powerful Samsung Q60R LED Smart TV - Detailed Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-addressing-obsolete-technologies-is-crucial-insights-from-a-recent-mismanaged-upgrade-zdnet/"><u>Why Addressing Obsolete Technologies Is Crucial - Insights From a Recent Mismanaged Upgrade | ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-save-fb-pages-with-a-click-top-8-tools-available-online-and-free/"><u>[New] 2024 Approved Save FB Pages with a Click Top 8 Tools Available Online & FREE</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-which-is-superior-for-screen-recording-obs-studio-or-fraps-for-2024/"><u>[New] Which Is Superior for Screen Recording – OBS Studio or Fraps for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-lava-blaze-curve-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Lava Blaze Curve 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/global-shift-towards-digital-wallets-anticipated-growth-to-16t-asia-paving-the-way-zdnet/"><u>Global Shift Towards Digital Wallets - Anticipated Growth to $1.6T, Asia Paving the Way | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-new-normal-essential-strategies-for-tech-experts-amidst-the-rise-of-artificial-intelligence-insights-from-zdnet/"><u>Navigating the New Normal: Essential Strategies for Tech Experts Amidst the Rise of Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pondering-the-plodding-progress-chatgpt-4-versus-35/"><u>Pondering the Plodding Progress: ChatGPT-4 Versus 3.5</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ready-for-upskilling-explore-non-ai-edge-tech-trends-and-tips-learn-more-on-zdnet/"><u>Ready for Upskilling? Explore Non-AI Edge Tech Trends and Tips - Learn More on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-human-connections-why-tech-experts-should-engage-in-meaningful-dialogue-beyond-datasets/"><u>Reviving Human Connections: Why Tech Experts Should Engage in Meaningful Dialogue Beyond Datasets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/training-leaders-before-deploying-artificial-intelligence-insights-from-zdnet/"><u>Training Leaders Before Deploying Artificial Intelligence: Insights From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolve-device-unprepared-alert/"><u>Troubleshooting Steps: Resolve 'Device Unprepared' Alert</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uncovering-the-next-breakthrough-the-quest-for-an-ultimate-5g-app-beyond-just-speed-and-connection-zdnet/"><u>Uncovering the Next Breakthrough: The Quest for an Ultimate 5G App Beyond Just Speed and Connection | ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleashing-performance-the-ultimate-guide-to-the/"><u>Unleashing Performance: The Ultimate Guide to The</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-mac-video-maker-professional-video-editing-software/"><u>Updated Mac Video Maker Professional Video Editing Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
 </ul></div>
 

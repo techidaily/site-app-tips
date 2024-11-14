@@ -1,7 +1,7 @@
 ---
 title: Easily Transition Your Saved Passwords From LastPass to iCloud for Windows Systems | ZDNet
-date: 2024-11-02T16:02:23.727Z
-updated: 2024-11-04T17:19:20.538Z
+date: 2024-11-08T19:02:33.730Z
+updated: 2024-11-13T18:38:34.998Z
 tags:
   - password-manager
 categories:
@@ -31,14 +31,14 @@ If you've been around for the past 10 or so years, you know that most services r
 
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
-## How to use iCloud as a password manager on Windows
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## How to use iCloud as a password manager on Windows
 
 ## 1\. Open iCloud for Windows
 
@@ -50,13 +50,6 @@ Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Sign in to your iCloud Passwords
 
 Once you sign in to your account -- if you haven't already -- you can access your account, add another account, and make any necessary changes.
@@ -67,6 +60,13 @@ Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Make sure Passwords is on and click Apply
 
 Make sure Passwords is selected on the iCloud window, then click on **Apply** to make the changes. 
@@ -76,6 +76,13 @@ You can also install browser extensions at this point.
 Make sure Passwords is on and click **Apply**.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Add browser extension
 
@@ -88,10 +95,10 @@ Maria Diaz/ZDNET
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
@@ -109,13 +116,6 @@ Maria Diaz/ZDNET
 Enter the verification code. 
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Try out the password manager
 
@@ -175,24 +175,22 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-create-harmonious-hits-a-step-by-step-guide-to-making-youtube-playlists-online-and-app/"><u>[New] 2024 Approved Create Harmonious Hits A Step-by-Step Guide to Making YouTube Playlists Online & App</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-optimizing-your-android-experience-with-effective-recordings-for-2024/"><u>[New] Optimizing Your Android Experience with Effective Recordings for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-expert-curated-selection-of-best-ps3-simulators-pc-edition/"><u>[Updated] 2024 Approved Expert-Curated Selection of Best PS3 Simulators (PC Edition)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-flawless-syncing-adding-soundtracks-to-inshot/"><u>[Updated] In 2024, Flawless Syncing Adding Soundtracks to Inshot</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-making-text-pop-in-instagram-stories-with-simple-animations/"><u>2024 Approved Making Text Pop in Instagram Stories with Simple Animations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/achieving-synergy-how-tech-and-business-are-finally-joining-forces-today-zdnet/"><u>Achieving Synergy: How Tech & Business Are Finally Joining Forces Today | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-progressive-upgrades-during-artificial-intelligence-revolution-its-pledge-as-featured-on-zdnet/"><u>Embracing Progressive Upgrades During Artificial Intelligence Revolution: IT's Pledge as Featured on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-guide-converting-and-editing-pdf-files-using-google-docs/"><u>Free Guide: Converting and Editing PDF Files Using Google Docs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-magic-v2-lock-screen-password-by-drfone-android/"><u>How To Change Honor Magic V2 Lock Screen Password?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/last-call-for-epic-october-2024-gaming-bargains-secure-your-discounts-of-up-to-1000/"><u>Last Call for Epic October 2024 Gaming Bargains: Secure Your Discounts of Up to $1,000</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-edge-in-hyperconvergence-the-elite-vendors-featured-on-zdnet/"><u>Leading Edge in Hyperconvergence: The Elite Vendors , Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-hybrid-cloud-challenges-with-the-latest-enhancements-of-red-hats-enterprise-linux-distribution/"><u>Mastering Hybrid Cloud Challenges with the Latest Enhancements of Red Hat's Enterprise Linux Distribution</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-multicultural-communication-using-chatgpt-fluently-across-diverse-languages/"><u>Mastering Multicultural Communication: Using ChatGPT Fluently Across Diverse Languages</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-of-upgrading-from-ubuntu-linux-2310-to-2404-a-step-by-step-guide/"><u>Navigating the Challenges of Upgrading From Ubuntu Linux 23.10 to 24.04 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-magic5-ultimate-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor Magic5 Ultimate Black and White | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/red-hat-enterprise-linux-release-and-hybrid-cloud/"><u>Red Hat, Enterprise Linux Release, and Hybrid Cloud.</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-launch-issues-with-red-dead-redemption-2-on-pcconsole/"><u>Resolving Launch Issues with Red Dead Redemption 2 on PC/Console</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolving-job-landscape-with-ai-how-technology-replaces-and-creates-opportunities-in-training-and-ethics-insights-for-tomorrows-workforce-zdnet/"><u>The Evolving Job Landscape with AI: How Technology Replaces and Creates Opportunities in Training & Ethics | Insights for Tomorrow's Workforce | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-new-release-of-robust-enduring-linux-kernel-for-extended-lifetime-support/"><u>ZDNet Exclusive: New Release of Robust, Enduring Linux Kernel for Extended Lifetime Support</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-expert-advice-on-archiving-lol-fights/"><u>[New] In 2024, Expert Advice on Archiving LOL Fights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-optimal-obs-configurations-for-thrifty-computers/"><u>[New] Optimal OBS Configurations for Thrifty Computers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-gopro-filming-tips-for-flawless-results/"><u>[Updated] Pro Gopro Filming Tips for Flawless Results</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-why-you-must-enable-av1-for-ultimate-video-experience-on-youtube-for-2024/"><u>[Updated] Why You Must Enable AV1 for Ultimate Video Experience on YouTube for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-from-first-steps-to-expertise-lenovos-guide-to-recording-success/"><u>2024 Approved From First Steps to Expertise Lenovo’s Guide to Recording Success</u></a></li>
+<li><a href="https://app-tips.techidaily.com/accelerate-your-coding-speed-using-generative-ai-benefits-and-pitfalls-to-consider/"><u>Accelerate Your Coding Speed Using Generative AI: Benefits and Pitfalls to Consider</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creating-an-impressive-table-with-excel-a-step-by-step-guide/"><u>Creating an Impressive Table with Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-camera-problems-in-lenovo-notebook-pcs/"><u>Expert Tips for Repairing Camera Problems in Lenovo Notebook PCs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-bring-back-windows-10-file-explorer-functionality-on-windows-11-systems/"><u>How to Bring Back Windows 10 File Explorer Functionality on Windows 11 Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-uncertainty-mastering-the-limitations-of-modern-ai-tools-tech-insights-on-zdnet/"><u>Navigating Uncertainty: Mastering the Limitations of Modern AI Tools | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/reel-in-viewers-with-these-best-twitch-cameras-and-webcams/"><u>Reel in Viewers with These Best Twitch Cameras and Webcams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/regular-audits-and-tests/"><u>Regular Audits and Tests</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revival-in-the-clouds-the-converging-success-stories-of-openstack-and-kata-containers-analyzing-market-trends-on-zdnet/"><u>Revival in the Clouds: The Converging Success Stories of OpenStack and Kata Containers | Analyzing Market Trends on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/skyrocket-productivity-by-thinking-as-a-dev-tips-and-strategies-from-tech-experts-zdnet/"><u>Skyrocket Productivity by Thinking as a Dev: Tips and Strategies From Tech Experts | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-the-disarray-in-linuxopen-source-manuals-expert-fixes-on-zdnet/"><u>Taming the Disarray in Linux/Open Source Manuals: Expert Fixes on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-ad-strategies-with-adobes-innovative-generative-ai-campaign-solutions-tech-news/"><u>Transform Your Ad Strategies with Adobe's Innovative Generative AI Campaign Solutions - Tech News</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/x-recorder-for-pc-user-friendly-audio-logger/"><u>X-Recorder for PC User-Friendly Audio Logger</u></a></li>
 </ul></div>
 

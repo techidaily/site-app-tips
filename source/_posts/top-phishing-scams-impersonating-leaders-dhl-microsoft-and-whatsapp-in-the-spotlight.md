@@ -1,7 +1,7 @@
 ---
 title: "Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight"
-date: 2024-11-02T17:02:11.999Z
-updated: 2024-11-04T16:00:31.475Z
+date: 2024-11-09T16:11:27.316Z
+updated: 2024-11-13T18:52:30.750Z
 tags:
   - password-manager
 categories:
@@ -73,28 +73,32 @@ Check Point Research
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-step-into-the-world-of-slowed-motion-a-comprehensive-ig-reel-guide/"><u>[New] 2024 Approved Step Into the World of Slowed-Motion A Comprehensive IG Reel Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-a-guide-to-the-finest-apps-for-instagram-reel-creation/"><u>[New] A Guide to the Finest Apps for Instagram Reel Creation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-cutting-down-high-bitrate-obs-streams/"><u>[New] In 2024, Cutting Down High-Bitrate OBS Streams</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-luminance-in-hd-boost-or-bust-in-hdr-world/"><u>2024 Approved Luminance in HD Boost or Bust in HDR World?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-solutions-combating-it-professional-burnout-and-alert-overload-with-technology-insights-from-zdnet/"><u>AI Solutions: Combating IT Professional Burnout & Alert Overload with Technology Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asia-spearheads-the-surge-in-non-cash-payments-anticipated-global-reach-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Cash Payments: Anticipated Global Reach of $1.6 Trillion</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/best-online-fun-girl-games-for-kids/"><u>Best Online Fun Girl Games for Kids</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-of-nvidia-1080-drivers-for-windows-11-users-step-by-step/"><u>Easy Installation of NVIDIA 1080 Drivers for Windows 11 Users: Step-by-Step</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-leaders-top-6-strategies-for-enhancing-executive-technological-proficiency-zdnet/"><u>Empowering Leaders: Top 6 Strategies for Enhancing Executive Technological Proficiency | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-manager-education-prior-to-enterprise-ai-adoption-lessons-by-zdnet/"><u>Essential Manager Education Prior to Enterprise AI Adoption - Lessons by ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725288124508-hevc-h2/"><u>HEVCへの変換: H.2</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-rise-of-agent-ecosystems-in-artificial-intelligence-future-service-domination/"><u>Navigating the Rise of Agent Ecosystems in Artificial Intelligence: Future Service Domination</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-engineers-dream-set-up-unveiling-the-five-cutting-edge-audio-ducking-programs/"><u>New 2024 Approved The Engineers Dream Set-Up Unveiling the Five Cutting-Edge Audio Ducking Programs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/prioritize-manager-training-before-ai-deployment-insights-from-zdnet/"><u>Prioritize Manager Training Before AI Deployment: Insights From ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/reimagining-editing-processes-the-revolutionary-world-of-magix-video-pro-x/"><u>Reimagining Editing Processes The Revolutionary World of Magix Video Pro X</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-work-how-ai-agents-forge-a-new-era-in-employment-insights-from-zdnet/"><u>Revolutionizing Work: How AI Agents Forge a New Era in Employment - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/company-names-revolutionary-ai-for-sustainable-smart-appliances-spotlight-on-zdnet-review/"><u>[Company Name]'s Revolutionary AI for Sustainable Smart Appliances: Spotlight on ZDNET Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-stability-how-total-war-warhammer-iii-crash-issues-are-fixed-for-a-smoother-pc-gameplay/"><u>[ENHANCED STABILITY] How Total War: Warhammer III Crash Issues Are Fixed for a Smoother PC Gameplay</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-streamlined-approach-record-movies-everywhere-you-go/"><u>[New] In 2024, Streamlined Approach Record Movies Everywhere You Go</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mac-visionaries-reveal-screenflow-secrets-and-benefits-for-2024/"><u>[Updated] Mac Visionaries Reveal ScreenFlow Secrets and Benefits for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-sonicarchive-pro-downloads-and-analysis-for-2024/"><u>[Updated] SonicArchive Pro Downloads & Analysis for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-manager-training-essential-before-introducing-artificial-intelligence-in-business-insights-from-zdnet/"><u>1. Manager Training Essential Before Introducing Artificial Intelligence in Business: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-marketing-crews-embrace-advanced-tech-zdnet-insights/"><u>AI Integration: One-Third of Marketing Crews Embrace Advanced Tech | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-ais-horizon-discover-the-accelerating-wave-of-emerging-technologies/"><u>Beyond AI's Horizon: Discover the Accelerating Wave of Emerging Technologies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-common-errors-in-understanding-how-to-earn-from-big-data-a-deep-dive-nextgen-business-trends/"><u>Debunking Common Errors in Understanding How to Earn From Big Data: A Deep Dive | NextGen Business Trends</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c33-2023-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme C33 2023 Phone without PIN</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-tecno-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Tecno</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/the-end-of-windows-control-panel-microsoft-announces-major-shift-are-we-witnessing-the-future-yet-gadgetguru/"><u>The End of Windows Control Panel?: Microsoft Announces Major Shift - Are We Witnessing the Future Yet? | GadgetGuru</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-singapore-advocates-for-financial-backing-of-ai-integration-and-carbon-neutral-goals/"><u>ZDNet Exclusive: Singapore Advocates for Financial Backing of AI Integration and Carbon-Neutral Goals</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

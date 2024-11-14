@@ -1,7 +1,7 @@
 ---
 title: "From LastPass to iCloud: Transition Your Passwords Securely on PC - Expert Tips From ZDNet"
-date: 2024-10-31T16:04:31.640Z
-updated: 2024-11-04T16:27:12.552Z
+date: 2024-11-09T17:47:11.545Z
+updated: 2024-11-13T17:40:02.960Z
 tags:
   - password-manager
 categories:
@@ -31,13 +31,6 @@ If you've been around for the past 10 or so years, you know that most services r
 
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to use iCloud as a password manager on Windows
 
 ## 1\. Open iCloud for Windows
@@ -50,13 +43,6 @@ Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Sign in to your iCloud Passwords
 
 Once you sign in to your account -- if you haven't already -- you can access your account, add another account, and make any necessary changes.
@@ -66,13 +52,6 @@ Go to Passwords, and click Apply.
 Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Make sure Passwords is on and click Apply
 
@@ -85,16 +64,10 @@ Make sure Passwords is on and click **Apply**.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Add browser extension
@@ -123,6 +96,13 @@ Enter the verification code.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Try out the password manager
 
 After you set up iCloud for [Windows](https://www.zdnet.com/article/windows-11-22h2-how-to-get-microsofts-latest-os-update-and-whats-coming-next/) as a password manager and your browser extension, you can try it out by going to a website and trying to log in.
@@ -137,9 +117,23 @@ Like LastPass, the browser extension will let you fill in your login information
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do you get iCloud for Windows?  
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How do I set up iCloud Keychain? 
 
@@ -181,20 +175,21 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-the-creators-guide-to-youtube-monetization-via-mobile/"><u>[New] In 2024, The Creator's Guide to YouTube Monetization via Mobile</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-guide-to-heavy-duty-drone-powerhouses-for-2024/"><u>[Updated] The Ultimate Guide to Heavy-Duty Drone Powerhouses for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-edits-top-17-software-for-photo-framing-cutout/"><u>2024 Approved Leading Edits Top 17 Software for Photo Framing Cutout</u></a></li>
-<li><a href="https://app-tips.techidaily.com/buy-ashamapoos-pro-3d-cad-software-version-11-at-a-steal-just-40-on-zdnet-today/"><u>Buy Ashamapoo's Pro 3D CAD Software Version 11 at a Steal: Just $40 on ZDNet Today!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discovering-the-top-internet-browsers-of-today-a-comprehensive-ranking/"><u>Discovering the Top Internet Browsers of Today: A Comprehensive Ranking</u></a></li>
-<li><a href="https://app-tips.techidaily.com/excel-mastery-how-to-craft-stunning-tables-for-data-presentation/"><u>Excel Mastery: How to Craft Stunning Tables for Data Presentation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exclusive-picks-for-optimal-web-hosting-solutions-authoritatively-reviewed-by-specialists-cnet/"><u>Exclusive Picks for Optimal Web Hosting Solutions , Authoritatively Reviewed by Specialists | CNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-it-specialists-shape-success-for-companangs-going-beyond-technology-relying-perspectives-by-zdnet/"><u>How IT Specialists Shape Success for Companangs Going Beyond Technology Relying - Perspectives by ZDNet</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-choosing-your-recording-champion-pick-obs-or-bandicam/"><u>In 2024, Choosing Your Recording Champion Pick OBS or Bandicam?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-monetizing-makeup-tutorial-content/"><u>In 2024, Monetizing Makeup Tutorial Content</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-stand-out-with-these-pfp-gems-for-tiktok-profiles/"><u>In 2024, Stand Out with These PFP Gems for TikTok Profiles</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/lenovo-legion-5-pro-i7-10870h-latest-graphics-drivers-download/"><u>Lenovo Legion 5 Pro (I7-10870H) - Latest Graphics Drivers Download</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-the-importance-of-ai-integration-and-rust-language-in-evolving-the-linux-kernel-the-core-aspect-driving-tech-forward/"><u>Linus Torvalds Discusses the Importance of AI Integration and Rust Language in Evolving the Linux Kernel - The Core Aspect Driving Tech Forward</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/top-4-video-amplifier-web-apps-elevate-your-audio-experience-for-2024/"><u>Top 4 Video Amplifier Web Apps Elevate Your Audio Experience for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unlocking-the-potential-of-ez-grabber/"><u>[New] In 2024, Unlocking the Potential of EZ Grabber</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-dive-into-periscope-no-cost-entry-and-user-account-setup-steps/"><u>[Updated] 2024 Approved Dive Into Periscope No Cost Entry & User Account Setup Steps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-beginners-guide-to-video-equipment-selection/"><u>2024 Approved The Beginner's Guide to Video Equipment Selection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieve-sql-mastery-with-premier-course-selections-comprehensive-guide-by-zdnet/"><u>Achieve SQL Mastery with Premier Course Selections - Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-pruveeo-f5-high-definition-dash-cam-analysis-unbeatable-quality-at-low-cost/"><u>Budget-Friendly Pruveeo F5 High Definition Dash Cam Analysis: Unbeatable Quality at Low Cost</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ciq-gains-support-from-linux-experts-as-main-backer-of-rocks-cluster-os-initiative-techinsight/"><u>CIQ Gains Support From Linux Experts as Main Backer of Rocks Cluster OS Initiative - TechInsight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exhaustion-amongst-it-specialists-positive-developments-in-sight/"><u>Exhaustion Amongst IT Specialists - Positive Developments in Sight</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-successfully-fix-windows-update-error-xc004f050/"><u>How to Successfully Fix Windows Update Error XC004F050</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-data-recovery-recover-lost-data-from-nokia-c300-by-fonelab-android-recover-data/"><u>Nokia Data Recovery – recover lost data from Nokia C300</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/powerpoint7/"><u>PowerPointプレゼンテーション時にマイクを使えない場合の7つの解決策</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-remote-communication-the-emergence-of-an-innovative-lip-reading-challenger-for-microsoft-teams-and-zoom-zdnet/"><u>Revolutionizing Remote Communication: The Emergence of an Innovative Lip-Reading Challenger for Microsoft Teams & Zoom | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-seamlessly-connecting-google-drive-with-slack-tips-from-zdnet/"><u>Step-by-Step Guide: Seamlessly Connecting Google Drive with Slack – Tips From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-premier-linux-learning-experiences-exploring-elite-bootcamps-and-training-opportun-2-engaging-with-the-pioneers-of-tech-a-deep-dive-in82/"><u>The Ultimate Guide to Premier Linux Learning Experiences: Exploring Elite Bootcamps & Training Opportun 2. Engaging with the Pioneers of Tech: A Deep Dive Into Linux Mastery Courses</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-enterprise-ai-potential-discover-anthropics-revolutionary-claude-plan-as-featured-on-zdnet/"><u>Unleashing Enterprise AI Potential: Discover Anthropic's Revolutionary Claude Plan as Featured on ZDNet</u></a></li>
 </ul></div>
 

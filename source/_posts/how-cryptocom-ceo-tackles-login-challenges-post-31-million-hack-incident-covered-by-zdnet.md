@@ -1,7 +1,7 @@
 ---
 title: How Crypto.com CEO Tackles Login Challenges Post $31 Million Hack Incident Covered by ZDNet
-date: 2024-11-02T17:09:30.046Z
-updated: 2024-11-04T16:47:10.294Z
+date: 2024-11-11T19:25:35.552Z
+updated: 2024-11-13T19:47:16.711Z
 tags:
   - password-manager
 categories:
@@ -72,29 +72,23 @@ Crypto.com created a program designed to refund users who were affected by the h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-masterclasses-on-obtaining-visual-elements/"><u>[New] In 2024, Masterclasses on Obtaining Visual Elements</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-quick-and-budget-mp3-conversion-from-skype-talks/"><u>[Updated] Quick & Budget MP3 Conversion From Skype Talks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-rapidly-rise-with-smart-instagram-reel-techniques/"><u>[Updated] Rapidly Rise with Smart Instagram Reel Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-isolated-earbuds-fix-manual/"><u>[Updated] The Isolated Earbuds Fix Manual</u></a></li>
-<li><a href="https://app-tips.techidaily.com/affordable-innovation-with-openais-gpt-4-minus-for-app-creation-exclusive-analysis-by-zdnet/"><u>Affordable Innovation with OpenAI's GPT-4 Minus for App Creation - Exclusive Analysis by ZDNET</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/bovendrkende-woorden-gratis-de-definitieve-handleiding-om-al-je-mapafbeeldingen-in-windows-negen-te-herstellen-en-je-visueel-voorrangig-te-maken-met-negen-b147/"><u>Bovendrĳkende Woorden: [Gratis ]! De Definitieve Handleiding Om Al Je Mapafbeeldingen in Windows Negen Te Herstellen en Je Visueel Voorrangig Te Maken Met Negen Betere Technische Stappen!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-ubuntu-2404-the-ultimate-combination-of-speed-and-security-in-the-latest-linux-distribution-zdnet/"><u>Discover Ubuntu 24.04: The Ultimate Combination of Speed and Security in the Latest Linux Distribution | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/evolving-with-ubuntu-mastering-your-24-system-upgrade-journey-zdnet-insights/"><u>Evolving with Ubuntu: Mastering Your 24.# System Upgrade Journey | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-leading-screen-recording-solutions-review-by-techradar/"><u>Exploring the Leading Screen Recording Solutions : Review by TechRadar</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-video-magic-techniques-to-elevate-your-social-media-impact-for-2024/"><u>Instagram Video Magic Techniques to Elevate Your Social Media Impact for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-the-art-of-selecting-televisions/"><u>Mastering the Art of Selecting Televisions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-through-clouds-and-controllers-a-critical-look-at-microsofts-best-flight-simulator-fsx-gold-edition/"><u>Navigating Through Clouds and Controllers: A Critical Look at Microsoft's Best Flight Simulator, FSX Gold Edition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overwhelmed-tech-experts-the-bright-side-revealed-zdnet-insights/"><u>Overwhelmed Tech Experts: The Bright Side Revealed | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-connectivity-how-arista-targets-midsize-businesses-with-new-cognitive-network-solutions-featured-on-zdnet/"><u>Revolutionizing Connectivity: How Arista Targets Midsize Businesses with New Cognitive Network Solutions, Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rising-trend-of-low-code-and-no-code-development-its-impact-on-changing-tech-roles-discovered-with-zdnet/"><u>Rising Trend of Low-Code & No-Code Development: Its Impact on Changing Tech Roles - Discovered with ZDNet</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-first-lessons-in-frame-rate-and-fidelity-for-newbies-for-2024/"><u>The First Lessons in Frame Rate and Fidelity for Newbies for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-excel-efficiency-a-comprehensive-tutorial-on-how-to-lockfreeze-worksheet-rows-for-enhanced-productivity/"><u>Unlock Excel Efficiency: A Comprehensive Tutorial on How to Lock/Freeze Worksheet Rows for Enhanced Productivity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advanced-array-designs-employ-strategies-like-amplitude-tapering-and-null-steering-algorithms-to-control-side-lobes-for-improved-directivity-and-reduced-int87/"><u>Advanced Array Designs Employ Strategies Like Amplitude Tapering and Null-Steering Algorithms to Control Side Lobes for Improved Directivity and Reduced Interference Potential.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/brand-awareness-through-opening/"><u>Brand Awareness Through Opening</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-diy-animatable-wireless-charging-pad-shaped-like-a-3d-printer-under-50-by-bambu-labs/"><u>Budget-Friendly DIY Animatable Wireless Charging Pad Shaped Like a 3D Printer - Under $50 by Bambu Labs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-epson-wf-2940-printer-driver-software-compatible-with-windows-7-81-and-10/"><u>Download Epson WF-2940 Printer Driver Software Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-has-released-new-bluetooth-drivers-compatible-with-all-windows-versions-win-10-11-8-and-7-secure-your-free-copy-now/"><u>Microsoft Has Released New Bluetooth Drivers! Compatible with All Windows Versions (Win 10, 11, 8 and 7) – Secure Your Free Copy Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tidying-up-linux-and-open-source-manuals-discover-the-ultimate-fix/"><u>Tidying Up Linux & Open Source Manuals: Discover the Ultimate Fix!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-link-between-kernel-vulnerabilities-and-linux-system-security-proactive-measures-for-protection/"><u>Understanding the Link Between Kernel Vulnerabilities and Linux System Security: Proactive Measures for Protection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-the-mystery-strategies-for-effective-artificer-intelligence-management/"><u>Unraveling the Mystery: Strategies for Effective Artificer Intelligence Management</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-alert-microsoft-faces-critical-challenge-with-windows-10-only-a-year-leftzdnet/"><u>Urgent Alert: Microsoft Faces Critical Challenge with Windows 10 - Only a Year Left![ZDNet]</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

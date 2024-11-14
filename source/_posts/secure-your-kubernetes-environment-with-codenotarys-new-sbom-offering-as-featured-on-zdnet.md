@@ -1,7 +1,7 @@
 ---
 title: Secure Your Kubernetes Environment with Codenotary’s New SBOM Offering, as Featured on ZDNet
-date: 2024-10-28T16:51:55.538Z
-updated: 2024-11-04T17:03:20.316Z
+date: 2024-11-12T18:49:44.103Z
+updated: 2024-11-13T16:25:11.634Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,15 +181,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-gimbal-insights-7-best-in-market-for-2024/"><u>[New] Gimbal Insights 7 Best in Market for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-your-path-to-youtube-prominence-effective-tactics-unveiled/"><u>[Updated] 2024 Approved Your Path to YouTube Prominence Effective Tactics Unveiled</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/easy-to-follow-guide-adding-snapchat-to-your-mac-os/"><u>Easy-to-Follow Guide Adding Snapchat to Your Mac OS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-methods-for-sharing-big-videos-via-whatsapp-on-your-iphone/"><u>Effective Methods for Sharing Big Videos via WhatsApp on Your iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-strategies-managing-your-visibility-and-last-seen-timestamp-on-whatsapp/"><u>Expert Strategies: Managing Your Visibility and Last Seen Timestamp on WhatsApp</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-narzo-n55-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme Narzo N55 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/securing-your-digital-life-weekly-windows-backups/"><u>Securing Your Digital Life: Weekly Windows Backups</u></a></li>
-<li><a href="https://app-tips.techidaily.com/swift-solutions-retrieving-your-lost-whatsapp-messages-on-iphone-with-simple-techniques/"><u>Swift Solutions: Retrieving Your Lost WhatsApp Messages on iPhone with Simple Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-on-restoring-past-whatsapp-dialogues-and-mastering-the-art-of-unarchiving-texts/"><u>The Ultimate Tutorial on Restoring Past WhatsApp Dialogues & Mastering the Art of Unarchiving Texts</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-professional-vfx-software-the-leading-10-options-reviewed/"><u>Ultimate Guide to Professional VFX Software: The Leading 10 Options Reviewed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-stabilizers-choosing-the-best-for-high-res-cameras-for-2024/"><u>[New] Top Stabilizers Choosing the Best for High-Res Cameras for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-mastering-action-an-insight-into-sj-cam-s6/"><u>[Updated] In 2024, Mastering Action An Insight Into SJ-CAM S6</u></a></li>
+<li><a href="https://app-tips.techidaily.com/30-bargain-alert-access-the-groundbreaking-worlds-first-3-dimensional-password-vault-for-three-years-get-yours-today-from-zdnet/"><u>$30 Bargain Alert! Access the Groundbreaking World's First 3-Dimensional Password Vault for Three Years - Get Yours Today From ZDNet!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-assessing-video-streaming-giants-vs-manycam/"><u>2024 Approved Assessing Video Streaming Giants Vs. ManyCam</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-we-depend-on-instagram-an-in-depth-analysis-by-zdnet/"><u>Can We Depend on Instagram? An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discovering-your-macs-secrets-a-guide-to-finding-passwords-in-the-keychain/"><u>Discovering Your Mac's Secrets: A Guide to Finding Passwords in the Keychain</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-camon-20-pro-5g-lock-screen-password-by-drfone-android/"><u>How To Change Tecno Camon 20 Pro 5G Lock Screen Password?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c22-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C22 Phone FRP Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-tecno-camon-20-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Tecno Camon 20 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://app-tips.techidaily.com/instagrams-reliability-questioned-insights-from-a-zdnet-investigation/"><u>Instagram's Reliability Questioned: Insights From a ZDNet Investigation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-brex-how-1password-enhances-user-security-with-new-online-payment-features-insights-from-zdnet/"><u>Integrating Brex: How 1Password Enhances User Security with New Online Payment Features - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimized-glare-the-top-software-picks-for-windows-multitouch-monitors/"><u>Optimized Glare: The Top Software Picks for Windows Multitouch Monitors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/safeguard-or-simplify-how-to-remove-pin-protection-on-windows-11-easily/"><u>Safeguard or Simplify? How to Remove PIN Protection on Windows 11 Easily</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-phishing-scams-impersonating-leaders-dhl-microsoft-and-whatsapp-in-the-spotlight/"><u>Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unmasking-crypto-illusions-a-revealing-paper-challenges-bitcoins-anonymity-claims/"><u>Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-using-a-password-manager-is-essential-top-5-benefits-explained-by-zdnet/"><u>Why Using a Password Manager Is Essential: Top 5 Benefits Explained by ZDNet</u></a></li>
 </ul></div>
 

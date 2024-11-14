@@ -1,7 +1,7 @@
 ---
 title: "Inside Linus Torvalds' Tech World: Discussing Rust in Linux, Daily Routines & Tips for the Ultrabook - A Deep Dive by ZDNet"
-date: 2024-11-03T17:15:19.418Z
-updated: 2024-11-04T17:22:58.611Z
+date: 2024-11-06T17:32:36.522Z
+updated: 2024-11-13T16:36:21.900Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +187,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/a-beginners-journey-into-gameplay-capturing-with-obs-for-2024/"><u>A Beginner's Journey Into Gameplay Capturing with OBS for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-hurdle-detailed-instructions-to-fix-error-0x800f081f-on-net-framework-v35-installation/"><u>Bypassing the Hurdle: Detailed Instructions to Fix Error 0X800F081F on .NET Framework v3.5 Installation</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/how-to-share-videos-on-facebook-in-2024/"><u>How to Share Videos on Facebook, In 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pathways-to-discovering-elite-filmmakers/"><u>In 2024, Pathways to Discovering Elite Filmmakers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/inside-look-how-lastpass-leadership-addresses-safety-concerns-amidst-alarming-security-notifications-explored-by-zdnet/"><u>Inside Look: How LastPass Leadership Addresses Safety Concerns Amidst Alarming Security Notifications | Explored by ZDNET</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/inside-the-world-of-adobe-cloud-storing-strategies-and-alternative-spaces-reviewed-for-2024/"><u>Inside The World of Adobe Cloud Storing Strategies and Alternative Spaces Reviewed for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/kasperskys-password-protector-exposed-generating-vulnerable-passwords-prone-to-brute-force-attacks-insights-from-zdnet/"><u>Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/major-ransomware-incident-strikes-leading-firm-superior-plus-in-natural-gas-industry-exclusive-details-on-zdnet/"><u>Major Ransomware Incident Strikes Leading Firm Superior Plus in Natural Gas Industry - Exclusive Details on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/say-goodbye-to-master-passwords-discover-1passwords-innovative-passkey-alternative-explained-by-zdnet/"><u>Say Goodbye to Master Passwords: Discover 1Password's Innovative Passkey Alternative, Explained by ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-adding-tvnsports-extension-to-your-kodi-19-setup/"><u>Step-by-Step Guide: Adding TVNSports Extension to Your Kodi 19 Setup</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/tweeting-visual-content-from-video-to-gif-transformation-for-2024/"><u>Tweeting Visual Content From Video to GIF Transformation for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-fortifying-your-password-vault-against-threats-zdnet/"><u>Ultimate Guide: Fortifying Your Password Vault Against Threats | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-future-how-i-discovered-a-game-changing-password-manager-among-two-contenders-cyber-savvy-reviews/"><u>Unlocking the Future: How I Discovered a Game-Changing Password Manager Among Two Contenders | Cyber Savvy Reviews</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-dissecting-the-new-features-of-camstudio/"><u>[New] 2024 Approved Dissecting the New Features of CamStudio</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-20-best-non-copyrighted-pubg-montage-thumbnail/"><u>[Updated] In 2024, 20 Best Non Copyrighted PUBG Montage Thumbnail</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1password-secures-massive-620m-investment-recent-financing-news-covered-by-tech-industry-leaders/"><u>1Password Secures Massive $620M Investment - Recent Financing News Covered by Tech Industry Leaders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-time-saving-photo-enhancement-adding-dates-to-pictures/"><u>2024 Approved Time-Saving Photo Enhancement Adding Dates to Pictures</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-beginners-guide-to-using-dashlane-unraveling-its-pricing-structure-and-features-as-explained-by-zdnet/"><u>A Beginner's Guide to Using Dashlane: Unraveling Its Pricing Structure and Features as Explained by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybercriminals-exploit-fears-over-new-omicron-variant-to-target-american-academic-institutions-insights-from-zdnet/"><u>Cybercriminals Exploit Fears Over New Omicron Variant to Target American Academic Institutions - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-dell-wifi-driver/"><u>Download Dell WiFi Driver</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-free-trial-of-dashlanes-premium-password-safe-save-now-at-a-bargain-price-on-zdnet/"><u>Download Free Trial of Dashlane's Premium Password Safe - Save Now at a Bargain Price on ZDNet!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expertly-vetted-leading-password-management-apps-for-2nny4-a-comprehensive-list-zdnet/"><u>Expertly Vetted Leading Password Management Apps for 2Nny4: A Comprehensive List | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-hackers-are-capitalizing-on-the-pandemic-a-deep-dive-into-attacks-against-us-universities-amidst-omicron-concerns-reported-by-zdnet/"><u>How Hackers Are Capitalizing on the Pandemic: A Deep Dive Into Attacks Against US Universities Amidst Omicron Concerns | Reported by ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-c50-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco C50 To Phone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-xs-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone XS Max to Android | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209719104-9781547590322-megan-y-la-alcaldesa/"><u>Megan y la Alcaldesa | Free Book</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-spooler-failures-on-windows-7-10-and-11/"><u>Overcoming Spooler Failures on Windows 7, 10 & 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet
-date: 2024-11-01T17:17:51.733Z
-updated: 2024-11-04T17:11:46.210Z
+date: 2024-11-12T18:27:24.224Z
+updated: 2024-11-13T17:13:40.510Z
 tags:
   - password-manager
 categories:
@@ -108,10 +108,10 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -189,21 +189,24 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-mastering-video-sharing-via-discord-channels/"><u>[New] In 2024, Mastering Video Sharing via Discord Channels</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-which-screen-recorder-reigns-supreme-obs-or-fraps/"><u>[New] Which Screen Recorder Reigns Supreme OBS or Fraps?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlock-your-potential-best-instagram-video-editors-android-pc/"><u>[Updated] 2024 Approved Unlock Your Potential Best Instagram Video Editors (Android, PC)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-pearlescent-pictures-brighten-with-android/"><u>2024 Approved Pearlescent Pictures Brighten with Android</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-cpm-rates-how-much-do-youtubers-make/"><u>2024 Approved YouTube CPM Rates How Much Do YouTubers Make</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-free-english-dubbed-taiwanese-drama-sites-top-picks-for-binge-worthy-entertainment/"><u>Best Free English Dubbed Taiwanese Drama Sites: Top Picks for Binge-Worthy Entertainment</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-exceptional-places-for-buying-your-next-smartphone/"><u>Discover Exceptional Places for Buying Your Next Smartphone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-lightspeed-on-openshift-the-intelligent-ai-companion-for-your-kubernetes-clusters-zdnet/"><u>Discover Lightspeed on OpenShift – The Intelligent AI Companion for Your Kubernetes Clusters | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experts-choose-the-leading-network-surveillance-software-comprehensive-review-and-selection-guide-techinsight/"><u>Experts Choose the Leading Network Surveillance Software : Comprehensive Review and Selection Guide | TechInsight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-new-release-a-game-changer-or-annoyance-find-out-how-it-stacks-up-zdnet/"><u>Microsoft's New Release: A Game Changer or Annoyance? Find Out How It Stacks Up [ZDNet]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-overlap-of-kernel-issues-and-cybersecurity-in-linux-environments-strategies-to-maintain-safety/"><u>Navigating the Overlap of Kernel Issues & Cybersecurity in Linux Environments - Strategies to Maintain Safety</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-learn-the-best-6-alternative-streaming-platforms/"><u>New 2024 Approved Learn The Best 6 Alternative Streaming Platforms</u></a></li>
-<li><a href="https://app-tips.techidaily.com/prepare-for-windows-10-eol-explore-five-essential-upgrades-or-migrations-options-now-zdnet-insights/"><u>Prepare for Windows 10 EOL: Explore Five Essential Upgrades or Migrations Options Now | ZDNet Insights</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/reimagining-posts-a-new-perspective-on-ig/"><u>Reimagining Posts A New Perspective on IG</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-red-hats-lightspeed-an-advanced-ai-solution-tailored-for-kubernetes-admins-with-openshift-zdnet/"><u>Unveiling Red Hat’s Lightspeed: An Advanced AI Solution Tailored for Kubernetes Admins with OpenShift | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/where-is-microsofts-promised-free-windows-10-update-now/"><u>Where Is Microsoft's Promised Free Windows 10 Update Now?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-ai-responsibly-with-open-source-innovations-insights-from-zdnet/"><u>Advancing AI Responsibly with Open Source Innovations - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/command-prompt-mastery-unlock-your-pcs-full-potential-windows-11-10-and-beyond/"><u>Command Prompt Mastery: Unlock Your PC's Full Potential (Windows 11, 10 & Beyond)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-the-missing-siri-hints-on-iphone-with-these-simple-steps/"><u>Fix the Missing Siri Hints on iPhone with These Simple Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/fortify-your-digital-space-safeguarding-homesme-pcs-with-microsofts-security-solutions/"><u>Fortify Your Digital Space: Safeguarding Home/SME PCs with Microsoft's Security Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-y55s-5g-2023-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo Y55s 5G (2023) to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/immutable-linux-explained-how-a-static-system-can-enhance-your-it-infrastructure/"><u>Immutable Linux Explained: How a Static System Can Enhance Your IT Infrastructure</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-honor-magic-vs-2-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Honor Magic Vs 2</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-6-secure-mc-domains/"><u>In 2024, Top 6 Secure MC Domains</u></a></li>
+<li><a href="https://app-tips.techidaily.com/insecurity-in-linux-based-systems-latest-findings-reveal-yes-with-potential-fixes-insights-from-a-new-study-zdnet/"><u>Insecurity in Linux-Based Systems: Latest Findings Reveal Yes with Potential Fixes - Insights From a New Study | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-microsofts-new-release-bound-to-irk-users-or-surprise-them-positively-insights-from-zdnet/"><u>Is Microsoft's New Release Bound to Irk Users, or Surprise Them Positively? Insights From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-fix-restoring-functionality-of-msi-mystic-light-in-windows-environment/"><u>Mastering the Fix: Restoring Functionality of MSI Mystic Light in Windows Environment</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-latest-feature-ignites-controversy-unseen-release-sparks-user-backlash/"><u>Microsoft's Latest Feature Ignites Controversy – Unseen Release Sparks User Backlash</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-video-plus-comprehensive-live-channel-access-for-2024/"><u>Prime Video Plus Comprehensive Live Channel Access for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-image-design-combining-dall-e-with-chatgpt-4/"><u>Revolutionizing Image Design: Combining DALL-E with ChatGPT-4</u></a></li>
+<li><a href="https://app-tips.techidaily.com/silent-release-sparks-fury-unveiling-the-controversial-feature-from-microsoft-on-zdnet/"><u>Silent Release Sparks Fury: Unveiling the Controversial Feature From Microsoft on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-professional-screen-recorders-for-2nite-expert-analysis-from-zdnet/"><u>The Ultimate List of Professional Screen Recorders for 2Nite: Expert Analysis From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-windows-essential-tips-for-upgrading-to-a-pro-edition-with-zdnets-expert-advice/"><u>Unlocking the Power of Windows: Essential Tips for Upgrading to a Pro Edition with ZDNet's Expert Advice</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-xs-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone XS</u></a></li>
 </ul></div>
 

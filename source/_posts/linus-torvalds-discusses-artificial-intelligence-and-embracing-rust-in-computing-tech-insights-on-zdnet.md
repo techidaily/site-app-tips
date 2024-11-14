@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses Artificial Intelligence & Embracing Rust in Computing | Tech Insights on ZDNet
-date: 2024-10-29T16:00:37.365Z
-updated: 2024-11-04T17:30:45.639Z
+date: 2024-11-06T18:15:11.877Z
+updated: 2024-11-13T18:09:54.106Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/1-understanding-and-resolving-audio-issues-how-to-restore-sound-to-your-mkv-files-with-quicktime/"><u>1. Understanding and Resolving Audio Issues: How to Restore Sound to Your MKV Files with QuickTime</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-chorus-to-clips-soundtracking-in-imovie/"><u>2024 Approved Chorus to Clips Soundtracking in iMovie</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-tap-into-tagging-techniques-for-6kplus-youtube-vistas/"><u>2024 Approved Tap Into #Tagging Techniques for $6K+ YouTube Vistas</u></a></li>
-<li><a href="https://app-tips.techidaily.com/agnes-ro-reveals-the-transformation-in-modern-development-roles-at-atlassian-insights-from-tech-visionary/"><u>Agnes Ro Reveals the Transformation in Modern Development Roles at Atlassian - Insights From Tech Visionary</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-deadline-approaching-for-microsofts-windows-11-issues-only-a-year-remains-to-fix-them/"><u>Critical Deadline Approaching for Microsoft's Windows 11 Issues – Only a Year Remains to Fix Them!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/efficiently-managing-your-email-chaos-a-step-by-step-guide-to-using-gmail-labels/"><u>Efficiently Managing Your Email Chaos: A Step-by-Step Guide to Using Gmail Labels</u></a></li>
-<li><a href="https://fox-info.techidaily.com/elevating-web-visibility-with-close-up-techniques-for-2024/"><u>Elevating Web Visibility with Close-Up Techniques for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-new-frontiers-in-coding-efficiency-the-impact-of-github-copilot-as-revealed-by-zdnet/"><u>Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/key-conditions-to-fulfill-before-launching-a-new-software-product/"><u>Key Conditions to Fulfill Before Launching a New Software Product</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-skills-with-courseras-new-levelset-exams-insights-from-zdnet/"><u>Mastering Skills with Coursera's New LevelSet Exams: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximize-output-with-expert-tips-and-tools-mastering-daily-workflow-management-zdnet/"><u>Maximize Output with Expert Tips and Tools: Mastering Daily Workflow Management | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-tech-less-territory-the-essential-impact-of-it-experts-on-cutting-edge-non-tech-firms-zdnet/"><u>Navigating Tech-Less Territory: The Essential Impact of IT Experts on Cutting-Edge Non-Tech Firms | ZDNET</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/overview-of-dji-flyer-x20-virtual-reality-lenses-for-2024/"><u>Overview of DJi Flyer X20 Virtual Reality Lenses for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-kubernetes-environment-with-codenotarys-new-sbom-offering-as-featured-on-zdnet/"><u>Secure Your Kubernetes Environment with Codenotary’s New SBOM Offering, as Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-upgrading-your-system-from-linux-mint-to-the-latest-version/"><u>Step-by-Step Guide: Upgrading Your System From Linux Mint to the Latest Version</u></a></li>
-<li><a href="https://app-tips.techidaily.com/stepping-up-your-system-a-comprehensive-guide-on-transitioning-from-windows-home-to-professional-insights-and-benefits/"><u>Stepping Up Your System: A Comprehensive Guide on Transitioning From Windows Home to Professional - Insights and Benefits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-hidden-potential-of-paperclips-and-their-connection-with-artificial-intelligence/"><u>The Hidden Potential of Paperclips and Their Connection with Artificial Intelligence</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-creating-and-exchanging-vocal-messages-on-apple-iphones/"><u>The Ultimate Guide to Creating and Exchanging Vocal Messages on Apple iPhones</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-nextgen-access-mastering-upcoming-features-with-vivetool/"><u>Windows NextGen Access: Mastering Upcoming Features with ViVeTool</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlocking-youtube-success-with-the-right-networking-choice/"><u>[Updated] 2024 Approved Unlocking YouTube Success with the Right Networking Choice</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-screenflow-demystified-essential-tools-for-your-mac-creation-for-2024/"><u>[Updated] ScreenFlow Demystified Essential Tools for Your Mac Creation for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-no-fee-apps-your-guide-to-downloading-pinterest-content/"><u>2024 Approved Best No-Fee Apps Your Guide to Downloading Pinterest Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-introduction-to-dynamic-graphic-techniques/"><u>2024 Approved Introduction to Dynamic Graphic Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/deck-tastic-4-reasons-to-invest-in-steam-deck/"><u>Deck-Tastic: 4 Reasons to Invest in Steam Deck</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-fresh-updates-in-macos-sonoma-comprehensive-overview-for-tech-enthusiasts-by-zdnet/"><u>Exploring the Fresh Updates in macOS Sonoma: Comprehensive Overview for Tech Enthusiasts by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-windows-10-update-initiative-where-did-it-go/"><u>Free Windows 10 Update Initiative: Where Did It Go?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-task-management-adding-to-do-lists-to-your-slack-workspace-zdnet-insights/"><u>Integrating Task Management: Adding To-Do Lists to Your Slack Workspace | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-your-cloud-storage-how-to-link-google-drive-to-slack-efficiently/"><u>Integrating Your Cloud Storage: How to Link Google Drive to Slack Efficiently</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-of-ai-powered-code-writing-pros-and-cons-explained-insights-from-zdnet/"><u>Navigating the Complexities of AI-Powered Code Writing: Pros and Cons Explained - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-landscape-high-quality-discords-revealed/"><u>Navigating the Landscape: High-Quality Discords Revealed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/side-and-back-lobes-are-usually-undesirable-as-they-represent-radiation-in-directions-that-do-not-contribute-to-effective-communication-and-can-cause-interf86/"><u>Side and Back Lobes Are Usually Undesirable as They Represent Radiation in Directions that Do Not Contribute to Effective Communication and Can Cause Interference.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sky-high-savings-the-least-expensive-drones-on-market-for-2024/"><u>Sky-High Savings The Least Expensive Drones on Market for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-battle-for-dominance-in-the-web-browsing-realm-who-leads/"><u>The Battle for Dominance in the Web Browsing Realm: Who Leads?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-techniques-for-capturing-ps3-gaming-moments-for-2024/"><u>Top Techniques for Capturing PS3 Gaming Moments for 2024</u></a></li>
 </ul></div>
 

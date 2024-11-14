@@ -1,7 +1,7 @@
 ---
 title: "The Future of Artificial Intelligence: Projected Breakthroughs in the Coming Years - ZDNet"
-date: 2024-10-29T17:07:47.758Z
-updated: 2024-11-04T17:09:42.386Z
+date: 2024-11-07T17:57:23.793Z
+updated: 2024-11-13T18:40:15.755Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-behind-the-scenes-10-underrated-aspects-of-reels-on-instagram/"><u>[New] In 2024, Behind the Scenes 10 Underrated Aspects of Reels on Instagram</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-curls-and-contours-creating-a-personalized-beauty-channel/"><u>2024 Approved Crafting Curls and Contours Creating a Personalized Beauty Channel</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-7-plusipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 7 Plus/iPad | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/become-a-word-game-virtuoso-mastering-strands-new-york-times-edition/"><u>Become a Word Game Virtuoso: Mastering Strands, New York Times Edition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-frustration-with-microsoft-exploring-alternatives-for-a-better-tech-ecosystem/"><u>Beyond Frustration with Microsoft? Exploring Alternatives for a Better Tech Ecosystem</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-winter-wonders-the-soundbot-sb210-delivers-quality-audio-amidst-cool-temperatures/"><u>Exploring the Winter Wonders: The Soundbot SB210 Delivers Quality Audio Amidst Cool Temperatures</u></a></li>
-<li><a href="https://app-tips.techidaily.com/gartner-reveals-half-of-generative-ai-initiatives-end-in-failure-insights-from-zdnet/"><u>Gartner Reveals Half of Generative AI Initiatives End in Failure - Insights From ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-narzo-60-pro-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme Narzo 60 Pro 5G Fingerprint Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-lava-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Lava Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-the-cloud-key-tech-leaders-anticipate-significant-shifts-in-business-models-exclusive-zdnet-report/"><u>Revolutionizing the Cloud: Key Tech Leaders Anticipate Significant Shifts in Business Models – Exclusive ZDNet Report</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tidying-up-linux-and-open-source-manuals-discovering-clarity-in-chaos-solutions-revealed/"><u>Tidying Up Linux & Open Source Manuals: Discovering Clarity in Chaos - Solutions Revealed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-business-growth-with-anthropics-claude-platform-the-future-of-scalable-ai-solutions/"><u>Unlocking Business Growth with Anthropic's Claude Platform - The Future of Scalable AI Solutions</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1728468654585-windows-11/"><u>Windows 11 安全移除更新包：三种有效解决方案</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-free-cam-software-showdown-best-alternative-to-expensive-options/"><u>[Updated] 2024 Approved Free Cam Software Showdown Best Alternative to Expensive Options</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-content-creation-evolution-choosing-studio-over-beta-for-2024/"><u>[Updated] Video Content Creation Evolution Choosing Studio Over Beta for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/5-essential-productivity-hacks-for-streamlining-your-day-to-day-tasks-insights-from-zdnet/"><u>5 Essential Productivity Hacks for Streamlining Your Day-to-Day Tasks: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-revolutionary-challenger-emerges-a-unique-app-that-outshines-microsoft-teams-and-zoom-with-lip-reading-technology/"><u>A Revolutionary Challenger Emerges: A Unique App That Outshines Microsoft Teams & Zoom With Lip-Reading Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amazon-introduces-revolutionary-ai-performance-metric-the-next-gen-rag-system-unveiled-by-zdnet/"><u>Amazon Introduces Revolutionary AI Performance Metric: The Next-Gen RAG System Unveiled by ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-12-mini-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 12 mini is off? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-switching-from-windows-to-linux-mint-easy-installation-steps/"><u>Complete Guide to Switching From Windows to Linux Mint - Easy Installation Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/decoding-servicenows-core-ai-tenets-essential-strategies-that-propel-corporate-innovation-zdnet/"><u>Decoding ServiceNow’s Core AI Tenets: Essential Strategies That Propel Corporate Innovation | ZDNET</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-canon-ip110-printer-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download the Latest Canon IP110 Printer Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/exploring-template-types-how-do-classical-spread-and-float-differ-on-flipbuilder-unraveling-the-comparison/"><u>Exploring Template Types: How Do Classical, Spread & Float Differ on FlipBuilder? Unraveling the Comparison</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-tech-experts-shape-the-future-of-non-tech-companies-insights-from-zdnet/"><u>How Tech Experts Shape the Future of Non-Tech Companies: Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-surface-tablet-that-wont-charge-a-comprehensive-guide/"><u>How to Fix a Surface Tablet That Won't Charge: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-strategy-for-elevating-your-video-visibility/"><u>In 2024, The Ultimate Strategy for Elevating Your Video Visibility</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/making-the-smart-choice-are-blu-ray-players-still-relevant/"><u>Making the Smart Choice: Are Blu-Ray Players Still Relevant?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-your-ipad-10-crucial-setups-and-tricks-for-apple-enthusiasts-of-all-levels-zdnet-insights/"><u>Master Your iPad: 10 Crucial Setups and Tricks for Apple Enthusiasts of All Levels | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-path-to-elevate-your-ubuntu-2404-system-insights-from-zdnet/"><u>Navigating the Path to Elevate Your Ubuntu 24.04 System – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/redefining-the-future-of-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-handbook-insights-from-zdnet/"><u>Redefining the Future of UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Handbook - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/scaling-your-business-with-anthropics-revolutionary-claude-enterprise-unleashing-ai-power-on-a-massive-scale-zdnet/"><u>Scaling Your Business with Anthropic's Revolutionary Claude Enterprise: Unleashing AI Power on a Massive Scale | ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-best-free-neon-text-generators-for-instant-results/"><u>Updated In 2024, The Best Free Neon Text Generators for Instant Results</u></a></li>
 </ul></div>
 

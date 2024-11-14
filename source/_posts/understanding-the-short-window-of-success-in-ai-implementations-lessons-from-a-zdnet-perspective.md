@@ -1,7 +1,7 @@
 ---
 title: Understanding the Short Window of Success in AI Implementations - Lessons From a ZDNet Perspective
-date: 2024-10-29T16:00:46.037Z
-updated: 2024-11-04T16:24:39.062Z
+date: 2024-11-07T19:58:19.762Z
+updated: 2024-11-13T18:06:21.067Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +187,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-mastering-instagram-reels-incorporating-tracks-seamlessly/"><u>[Updated] Mastering Instagram Reels Incorporating Tracks Seamlessly</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-boosting-channels-growth-strategies-for-effective-trailers/"><u>2024 Approved Boosting Channels' Growth Strategies for Effective Trailers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-top-12-screen-recorders-no-timer/"><u>2024 Approved Ultimate Top 12 Screen Recorders (No Timer)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/auto-enabled-security-for-half-a-billion-googles-bold-move-to-protect-users-with-mandatory-2fa/"><u>Auto-Enabled Security for Half a Billion: Google's Bold Move to Protect Users with Mandatory 2FA</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-vpn-for-school-to-unblock-websites/"><u>Best VPN for School to Unblock Websites</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cyber-attack-alert-hackers-leverage-covid-19-omicron-strain-fears-with-redline-malware-campaign-fortinet-insights/"><u>Cyber Attack Alert: Hackers Leverage COVID-19 Omicron Strain Fears with RedLine Malware Campaign – Fortinet Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/end-of-gaming-loopholes-valve-responds-now/"><u>End of Gaming Loopholes: Valve Responds Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expertly-vetted-leading-password-management-apps-for-2nny4-a-comprehensive-list-zdnet/"><u>Expertly Vetted Leading Password Management Apps for 2Nny4: A Comprehensive List | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-hackers-are-capitalizing-on-the-pandemic-a-deep-dive-into-attacks-against-us-universities-amidst-omicron-concerns-reported-by-zdnet/"><u>How Hackers Are Capitalizing on the Pandemic: A Deep Dive Into Attacks Against US Universities Amidst Omicron Concerns | Reported by ZDNET</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-y100a-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo Y100A For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-update-windows-11-drivers-if-you-cant-find-them-on-manufacturers-website/"><u>How to Update Windows 11 Drivers if You Can't Find Them on Manufacturer's Website</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210252419-9781990175015-i-shall-live/"><u>I Shall Live | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-1password-top-tier-value-packed-secure-password-solution-techadvisor/"><u>In-Depth Analysis of 1Password - Top Tier, Value-Packed Secure Password Solution | TechAdvisor</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-the-complete-1password-suite-on-linux-platforms-key-features-and-reviews-zdnet-exclusive/"><u>Introducing the Complete 1Password Suite on Linux Platforms: Key Features and Reviews | ZDNet Exclusive</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lastpass-executives-assure-users-of-no-breached-accounts-following-recent-security-warnings-insights-from-zdnet/"><u>LastPass Executives Assure Users of No Breached Accounts Following Recent Security Warnings: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lastpass-to-become-separate-business-as-logmein-executes-split-strategy-tech-buzz-on-zdnet/"><u>LastPass to Become Separate Business as LogMeIn Executes Split Strategy | Tech Buzz on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-password-replaced-by-passkeys-with-1password-the-latest-update-from-zdnet/"><u>Master Password Replaced by Passkeys with 1Password - The Latest Update From ZDNet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/nvidia-connection-controversy-unveiled-corsair-power-unit-specialist-jonny-gurus-insights/"><u>NVIDIA Connection Controversy Unveiled: Corsair Power Unit Specialist Jonny Guru's Insights</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-slow-down-or-freeze-time-expert-fcpx-editing-techniques-for-2024/"><u>Updated Slow Down or Freeze Time Expert FCPX Editing Techniques for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-snappy-picture-assemblies-a-brisk-guide-to-google-collages/"><u>[New] 2024 Approved Snappy Picture Assemblies A Brisk Guide to Google Collages</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ios-leading-edge-5-exceptional-psp-game-tools/"><u>[Updated] IOS Leading Edge 5 Exceptional PSP Game Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-compromise-on-security-upgrade-your-password-for-safe-streaming-experience-cybersafetynews/"><u>Don't Compromise on Security: Upgrade Your Password for Safe Streaming Experience | CyberSafetyNews</u></a></li>
+<li><a href="https://fox-info.techidaily.com/elevate-sound-recording-on-windows-the-ultimate-guide-for-2024/"><u>Elevate Sound Recording on Windows The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevating-enterprise-defense-starts-at-the-employee-level-expert-advice-on-corporate-and-personal-cybersecurity-by-zdnet/"><u>Elevating Enterprise Defense Starts at the Employee Level – Expert Advice on Corporate and Personal Cybersecurity by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhanced-online-security-made-easy-discover-how-proton-enables-full-data-protection-through-its-new-password-manager-as-explored-by-zdnet-experts/"><u>Enhanced Online Security Made Easy: Discover How Proton Enables Full Data Protection Through Its New Password Manager, as Explored by ZDNet Experts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-t2-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo T2 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-nord-n30-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Nord N30 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/malicious-exploitation-of-omicron-concerns-intensifies-as-cybercriminals-deploy-redline-trojan-expert-analysis-by-fortinet-on-emerging-threats/"><u>Malicious Exploitation of Omicron Concerns Intensifies as Cybercriminals Deploy RedLine Trojan – Expert Analysis by Fortinet on Emerging Threats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/massive-data-compromise-at-oregon-medical-practice-750k-patients-impacted-details-revealed-by-digi-journal/"><u>Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal</u></a></li>
+<li><a href="https://discover-data.techidaily.com/profi-tipps-zur-effektiven-archivierung-vergangener-nachrichten-in-microsoft-outlook/"><u>Profi-Tipps Zur Effektiven Archivierung Vergangener Nachrichten in Microsoft Outlook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-security-how-dashlane-enables-logins-without-a-main-password-according-to-zdnet/"><u>Revolutionizing Digital Security: How Dashlane Enables Logins Without a Main Password, According to ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-biometrics-as-users-struggle-with-password-fatigue-insights-from-zdnet-analysis/"><u>The Rise of Biometrics as Users Struggle with Password Fatigue: Insights From ZDNet Analysis</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-poco-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Poco Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-to-finding-and-installing-toshibam-copier-drives-on-windows-pcs/"><u>Ultimate Guide to Finding and Installing Toshibam Copier Drives on Windows PCs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-password-management-secrets-with-dashlane-costs-capabilities-and-starting-guide-techinsight/"><u>Unlocking Password Management Secrets with Dashlane: Costs, Capabilities & Starting Guide | TechInsight</u></a></li>
 </ul></div>
 

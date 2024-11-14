@@ -1,7 +1,7 @@
 ---
 title: The Roadmap for Artifice Intelligence Developments Over the Next Ten Years | ZDNet
-date: 2024-10-29T16:49:40.521Z
-updated: 2024-11-04T16:06:37.584Z
+date: 2024-11-09T18:58:47.818Z
+updated: 2024-11-13T19:16:45.380Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +181,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-huntings-top-5-best-video-recorders/"><u>[Updated] 2024 Approved Hunting's Top 5 Best Video Recorders</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-acid-pro-evaluation-finding-reliable-counterparts/"><u>[Updated] ACID Pro Evaluation Finding Reliable Counterparts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/adobe-full-voice-booster-evaluation-techniques-for-superior-sound-quality/"><u>Adobe Full Voice Booster Evaluation: Techniques for Superior Sound Quality</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-top-4-online-tools-to-remove-ai-generated-logos-and-watermarks-from-your-video-content/"><u>Best Top 4 Online Tools to Remove AI-Generated Logos & Watermarks From Your Video Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-deeplucas-ai-powered-video-creation-tool-unveiling-key-attributes-and-benefits-vs-drawbacks/"><u>Comprehensive Analysis of DeepLucas' AI-Powered Video Creation Tool - Unveiling Key Attributes & Benefits vs Drawbacks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-top-5-ai-powered-video-creation-tools-based-on-images/"><u>Comprehensive Evaluation: Top 5 AI-Powered Video Creation Tools Based on Images</u></a></li>
-<li><a href="https://app-tips.techidaily.com/decoding-sora-by-openai-key-features-practical-applications-and-potential-restrictions/"><u>Decoding Sora by OpenAI: Key Features, Practical Applications, and Potential Restrictions</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-win11s-gif-size-conundrum-in-discord/"><u>Decoding Win11's GIF Size Conundrum in Discord</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-leading-4-web-apps-to-eliminate-artificial-intelligence-branding-in-videos/"><u>Discover the Leading 4 Web Apps to Eliminate Artificial Intelligence Branding in Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-ai-video-stabilizers-of-2024-our-selection-of-top-6-online-and-offline-solutions/"><u>Discover the Ultimate AI Video Stabilizers of 2024: Our Selection of Top 6 Online and Offline Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-film-transfer-with-official-winx-dvd-ripper-platinum-hd-mp4-ripping-h264-in-minutes/"><u>Effortless Film Transfer with Official WinX DVD Ripper Platinum - HD MP4 Ripping (H.264) In Minutes!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/elevating-brand-presence-in-virtual-worlds-for-2024/"><u>Elevating Brand Presence in Virtual Worlds for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/fast-footsteps-simple-recording-for-dell-pcs-for-2024/"><u>Fast Footsteps Simple Recording for Dell PCs for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-15-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 15 to TV or PC? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/midnight-marauder-vs-daylight-defender-black-vs-silver-for-2024/"><u>Midnight Marauder Vs Daylight Defender Black vs Silver for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-seamless-speech-to-text-translation-in-microsoft-office-suite-word-for-2024/"><u>[New] Seamless Speech-to-Text Translation in Microsoft Office Suite (Word) for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-key-strategies-for-high-definition-iptv-logging/"><u>[Updated] 2024 Approved Key Strategies for High-Definition IPTV Logging</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boost-your-sites-performance-discover-the-benefits-of-cookiebot-integration/"><u>Boost Your Site's Performance: Discover the Benefits of Cookiebot Integration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-monica-ai-understanding-its-features-and-mastering-chatgpt-assistance/"><u>Exploring Monica AI: Understanding Its Features & Mastering ChatGPT Assistance</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/iphone-12-14-transfer-fotos-aus-itunes-auf-ihr-gerat/"><u>IPhone 12-14 - Transfer Fotos Aus iTunes Auf Ihr Gerät</u></a></li>
+<li><a href="https://fox-links.techidaily.com/revolutionize-your-talking-skills-with-these-no-cost-audio-modifications/"><u>Revolutionize Your Talking Skills with These No-Cost Audio Modifications</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/seamless-connectivity-on-the-road-why-lihan-lhfm1-grove-fm-transmitter-is-a-top-choice/"><u>Seamless Connectivity on the Road: Why LIHAN LHFM1 Grove FM Transmitter Is a Top Choice</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-10-cutting-edge-ai-chatbots-to-enhance-your-messaging-game/"><u>The Ultimate List of 10 Cutting-Edge AI Chatbots to Enhance Your Messaging Game</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-conversational-ai-exploring-the-best-features-of-gpt-powered-chatbots/"><u>Top-Rated Conversational AI: Exploring the Best Features of GPT-Powered Chatbots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-reviews-explore-the-best-in-ai-meet-chatgpt-your-new-preferred-chatbot-companion/"><u>Top-Rated Reviews: Explore the Best in AI - Meet ChatGPT, Your New Preferred Chatbot Companion</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-resolving-undelivered-imessages-on-iphone/"><u>Troubleshooting Steps: Resolving Undelivered iMessages on iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-this-years-most-engaging-storytelling-youtubers-for-2024/"><u>Unveiling This Year's Most Engaging Storytelling YouTubers for 2024</u></a></li>
 </ul></div>
 

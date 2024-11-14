@@ -1,7 +1,7 @@
 ---
 title: Data Analysis
-date: 2024-10-28T17:32:25.714Z
-updated: 2024-11-04T17:00:48.172Z
+date: 2024-11-08T18:37:08.733Z
+updated: 2024-11-13T19:12:03.705Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,24 +181,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-android-beat-best-free-apps-for-downloading-youtube-tunes/"><u>[New] 2024 Approved Android Beat Best Free Apps for Downloading YouTube Tunes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-examining-youtubes-workflow-after-content-submission/"><u>[New] In 2024, Examining YouTube's Workflow After Content Submission</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-ultimate-selection-best-video-calling-tools-phonepc/"><u>[New] Ultimate Selection Best Video Calling Tools Phone/PC</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-empowering-remote-teams-with-google-meets-whiteboard-features-on-various-devices/"><u>[Updated] 2024 Approved Empowering Remote Teams with Google Meet's Whiteboard Features on Various Devices</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-expert-insights-on-yis-4k-action-video-camera/"><u>[Updated] In 2024, Expert Insights on YI’s 4K Action Video Camera</u></a></li>
-<li><a href="https://app-tips.techidaily.com/anthropic-unveils-newly-released-free-claude-mobile-application-on-ios-announces-premium-enterprise-solution-a-breakthrough-for-business-efficiency/"><u>Anthropic Unveils Newly Released Free Claude Mobile Application on iOS; Announces Premium Enterprise Solution: A Breakthrough for Business Efficiency!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/arista-expands-into-mid-range-sector-with-advanced-cognitive-network-solutions/"><u>Arista Expands Into Mid-Range Sector with Advanced Cognitive Network Solutions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/t-friendly-sponsorship-blueprint-for-youtube-enthusiasts/"><u>Budget-Friendly Sponsorship Blueprint for YouTube Enthusiasts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/defending-your-microsoft-profile-from-hacking-risks-expert-tips-for-enhanced-security-digitalguardianblog/"><u>Defending Your Microsoft Profile From Hacking Risks: Expert Tips for Enhanced Security - DigitalGuardianBlog</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719225198037-epic-launcher-removal-woes-in-windows-11-fix-now/"><u>Epic Launcher Removal Woes in Windows 11: Fix Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-future-your-5-essential-choices-as-windows-11-officially-loses-mainstream-support/"><u>Facing the Future: Your 5 Essential Choices as Windows 11 Officially Loses Mainstream Support</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-realme-12-pro-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Realme 12 Pro 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-rising-complexity-of-ops-how-it-professionals-address-emerging-challenges/"><u>Navigating the Rising Complexity of 'Ops': How IT Professionals Address Emerging Challenges</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-through-disorder-revolutionary-fixes-for-cluttered-linux-and-open-source-guides-on-zdnet/"><u>Navigating Through Disorder: Revolutionary Fixes for Cluttered Linux & Open-Source Guides on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/red-hat-unveils-innovative-tools-in-newest-enterprise-linux-release-to-simplify-hybrid-cloud-management/"><u>Red Hat Unveils Innovative Tools in Newest Enterprise Linux Release to Simplify Hybrid Cloud Management</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-4-factors-and-10-ideal-choices-when-selecting-your-perfect-college-laptop-insights/"><u>Top 4 Factors & 10 Ideal Choices When Selecting Your Perfect College Laptop | Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleashing-potential-the-role-of-expertise-and-protection-in-advancing-cloud-native-platforms-according-to-zdnet/"><u>Unleashing Potential: The Role of Expertise and Protection in Advancing Cloud-Native Platforms, According to ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-explores-openais-budget-friendly-approach-to-enhancing-gpt-crafting-with-more-affordable-tuning-options/"><u>ZDNet Explores OpenAI's Budget-Friendly Approach to Enhancing GPT-Crafting with More Affordable Tuning Options</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-10-tricks-for-turning-youtube-watchlists-around/"><u>[New] 2024 Approved 10 Tricks for Turning YouTube Watchlists Around</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-celebrating-the-best-movies-that-evoke-hope-and-courage-for-2024/"><u>[New] Celebrating the Best Movies that Evoke Hope and Courage for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-inverting-instagram-videos-step-by-step-guide/"><u>[New] Inverting Instagram Videos Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-filmmakers-pathway-to-anime-subscription-buttons-in-filmora/"><u>[Updated] In 2024, Filmmaker’s Pathway to Anime Subscription Buttons in Filmora</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-screenplay-crafting-site/"><u>[Updated] Ultimate Screenplay Crafting Site</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-integration-for-advanced-analytics-and-marketing-success/"><u>Cookiebot Integration for Advanced Analytics & Marketing Success</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/desktop-snapshot-made-simple-free-tools-for-windows-for-2024/"><u>Desktop Snapshot Made Simple – Free Tools for Windows for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96465792-9781614480785-escape-from-zoomanity/"><u>Escape From Zoomanity | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-virtualization-at-no-cost-discover-the-steps-to-downloading-vmwares-latest-free-personal-edition-for-fusion-pro-and-workstation-pro-insights-from88/"><u>Experience Virtualization at No Cost: Discover the Steps to Downloading VMware's Latest Free Personal Edition for Fusion Pro and Workstation Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-samsung-galaxy-s1e-small-size-doesnt-mean-less-value/"><u>Review of the Samsung Galaxy S1e - Small Size Doesn't Mean Less Value</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-photoshop-tutorial-for-novices-essential-methods-to-enhance-your-images/"><u>Step-by-Step Photoshop Tutorial for Novices: Essential Methods to Enhance Your Images</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamline-your-kubernetes-management-with-red-hats-latest-innovation-openshift-lightspeed-a-smart-ai-tool-tailored-for-admins/"><u>Streamline Your Kubernetes Management with Red Hat's Latest Innovation - OpenShift Lightspeed, a Smart AI Tool Tailored for Admins</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-the-chaos-organizing-linux-and-open-source-manuals-a-comprehensive-guide/"><u>Taming the Chaos: Organizing Linux & Open Source Manuals - A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-gateway-to-artificial-intelligence-made-simple-with-superduperdb-exclusive-analysis-by-zdnet/"><u>The Gateway to Artificial Intelligence Made Simple with SuperDuperDB – Exclusive Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-trending-coding-languages-best-platforms-to-master-them-insights-from-zdnet/"><u>Top Trending Coding Languages : Best Platforms to Master Them - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/white-house-endorses-open-source-ai-innovation-in-recent-report-exclusive-analysis-by-zdnet/"><u>White House Endorses Open Source AI Innovation in Recent Report – Exclusive Analysis by ZDNet</u></a></li>
 </ul></div>
 

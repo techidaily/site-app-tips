@@ -1,7 +1,7 @@
 ---
 title: "The Myth of Untraceable Transactions Shattered: Bitcoin's Anonymity Revealed in Recent Paper"
-date: 2024-11-02T16:24:47.442Z
-updated: 2024-11-04T16:32:15.025Z
+date: 2024-11-07T16:48:59.883Z
+updated: 2024-11-13T19:19:38.935Z
 tags:
   - password-manager
 categories:
@@ -40,10 +40,10 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -61,10 +61,10 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -121,17 +121,14 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-30-quick-steps-to-metaverse-humor-from-copycat-to-creator/"><u>2024 Approved 30 Quick Steps to Metaverse Humor From Copycat to Creator</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-drone-visual-spectrum-20-first-time-free-luts-included/"><u>2024 Approved Drone Visual Spectrum - 20 First-Time FREE LUTS Included</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-generate-laughter-giphys-art/"><u>2024 Approved Generate Laughter Giphy's Art</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-knowledge-hub-leading-educational-youtube-sources/"><u>2024 Approved Knowledge Hub Leading Educational YouTube Sources</u></a></li>
-<li><a href="https://app-tips.techidaily.com/collaboration-ensures-continued-life-for-linux-414-long-term-support-version-zdnet-tech-news/"><u>Collaboration Ensures Continued Life for Linux 4.14 Long-Term Support Version | ZDNET Tech News</u></a></li>
-<li><a href="https://app-tips.techidaily.com/conquering-chaos-in-linuxopen-source-guidebooks-explore-our-streamlined-remedy-zdnet/"><u>Conquering Chaos in Linux/Open-Source Guidebooks: Explore Our Streamlined Remedy | ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/creating-order-adding-videos-to-personalized-youtube-shelves/"><u>Creating Order Adding Videos to Personalized YouTube Shelves</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-barriers-how-firms-find-it-challenging-to-leverage-generative-ai-according-to-deloittes-latest-insights/"><u>Exploring the Barriers: How Firms Find It Challenging to Leverage Generative AI According to Deloitte's Latest Insights</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-pip-views-on-chrome-across-devices/"><u>Mastering PIP Views on Chrome Across Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/surprising-upsides-for-it-professionals-facing-burnout-insights-from-zdnets-latest-article/"><u>Surprising Upsides for IT Professionals Facing Burnout: Insights From ZDNet's Latest Article</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleash-efficiency-on-the-linux-platform-explore-ubuntu-2204-as-your-workhorse-insights-by-zdnet/"><u>Unleash Efficiency on the Linux Platform - Explore Ubuntu 22.04 as Your Workhorse | Insights by ZDNET</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-in-audio-file-transformation-from-srt-to-xmlssattml/"><u>[New] Expertise in Audio File Transformation From SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-deciphering-ios-mechanism-for-image-capture/"><u>[New] In 2024, Deciphering IO's Mechanism for Image Capture</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-average-income-for-popular-youtube-creators-for-2024/"><u>[Updated] Average Income for Popular YouTube Creators for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-discovering-the-world-of-audio-with-your-ios-device/"><u>In 2024, Discovering the World of Audio with Your iOS Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-curiosity-in-ai-reveals-a-need-for-greater-transparency-insights-from-zdnet/"><u>Rising Curiosity in AI Reveals a Need for Greater Transparency - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/speeding-up-generative-ai-how-nvidias-latest-nims-revolutionize-computing-efficiency-insights-from-zdnet/"><u>Speeding Up Generative AI: How Nvidia's Latest 'NIMs' Revolutionize Computing Efficiency | Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-call-for-clarity-how-ais-popular-surge-highlights-the-demand-for-openness-by-zdnet/"><u>The Call for Clarity: How AI's Popular Surge Highlights the Demand for Openness by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-ultimate-faceoff-microsoft-teams-zoom-and-the-game-changer-in-lip-reading-tech/"><u>Unveiling the Ultimate Faceoff: Microsoft Teams, Zoom & The Game-Changer in Lip Reading Tech</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199690822-windows-10-blue-screen-troubles-fix-your-igdkmd64sys-error-today/"><u>Windows 10 Blue Screen Troubles? Fix Your igdkmd64.sys Error Today</u></a></li>
 </ul></div>
 

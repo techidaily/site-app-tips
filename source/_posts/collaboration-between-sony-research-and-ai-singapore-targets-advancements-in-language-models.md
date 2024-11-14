@@ -1,7 +1,7 @@
 ---
 title: Collaboration Between Sony Research and AI Singapore Targets Advancements in Language Models
-date: 2024-10-30T16:17:56.895Z
-updated: 2024-11-04T16:24:48.012Z
+date: 2024-11-08T19:34:30.590Z
+updated: 2024-11-13T17:06:32.987Z
 tags:
   - enterprise-software
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +187,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-9-expert-picked-smartphone-chat-apps-for-business-use-for-2024/"><u>[New] Top 9 Expert-Picked Smartphone Chat Apps for Business Use for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-elevate-your-android-vids-top-10-players-for-2024/"><u>[Updated] Elevate Your Android Vids Top 10 Players for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-meta-and-omni-universe-showcase-analysis/"><u>[Updated] Meta & Omni Universe Showcase Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1password-analysis-is-this-top-tier-password-solution-a-smart-investment-insights-from-tech-experts/"><u>1Password Analysis: Is This Top-Tier Password Solution a Smart Investment? - Insights From Tech Experts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-embrace-the-big-picture-facebooks-full-screen-feature-explained/"><u>2024 Approved Embrace the Big Picture Facebook's Full Screen Feature Explained</u></a></li>
-<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-technology-at-wwdc-2022-zdnets-exclusive-coverage/"><u>Apple Unveils Revolutionary Passkey Technology at WWDC 2022 - ZDNet's Exclusive Coverage</u></a></li>
-<li><a href="https://win-net.techidaily.com/creacion-libre-de-particion-efi-duplicada-en-windows-versiones-11-8-y-7/"><u>Creación Libre De Partición EFI Duplicada en Windows (Versiones 11, 8 Y 7)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cryptocom-executive-addresses-user-concerns-following-major-31m-security-breach-insights-from-zdnet/"><u>Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-13-mini-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 13 mini Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-security-my-experience-with-top-passwordless-password-manager-tools-the-clear-winner/"><u>Mastering Security: My Experience with Top Passwordless Password Manager Tools – The Clear Winner!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/oregon-healthcare-provider-alerts-over-half-a-million-clients-about-major-security-incident-tech-news/"><u>Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/preeminent-online-spaces-enhancing-youtube-traffic-for-2024/"><u>Preeminent Online Spaces Enhancing YouTube Traffic for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/standout-panzoid-design-kits/"><u>Standout Panzoid Design Kits</u></a></li>
-<li><a href="https://app-tips.techidaily.com/west-virginia-hospital-data-compromised-following-phishing-scheme-insights-by-zdnet/"><u>West Virginia Hospital Data Compromised Following Phishing Scheme - Insights by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zerofoxs-strategic-acquisition-of-idx-and-merger-with-landf-forms-a-mega-14b-cybersecurity-giant-insights-from-zdnet/"><u>ZeroFox's Strategic Acquisition of IDX and Merger with L&F Forms a Mega $1.4B Cybersecurity Giant - Insights From ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-voiceovers-unveiled-adding-depth-to-visual-storytelling/"><u>[New] In 2024, Voiceovers Unveiled Adding Depth to Visual Storytelling</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unseen-streamer-how-to-live-stream-privately-on-instagram/"><u>[New] Unseen Streamer How to Live-Stream Privately on Instagram</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/windows-11-mbr-hdd-gpt-ssd/"><u>如何安全切換 Windows 11 系統自 MBR HDD 至 GPT SSD (安全引導)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/affordable-password-safety-and-data-protection-with-advanced-encryption-for-less-than-monthly-cost-of-a-coffee-tips-by-zdnet/"><u>Affordable Password Safety & Data Protection with Advanced Encryption for Less than Monthly Cost of a Coffee | Tips by ZDNET</u></a></li>
+<li><a href="https://fox-access.techidaily.com/boosting-your-game-mastering-kinemaster-and-its-top-alternative-games/"><u>Boosting Your Game Mastering KineMaster and Its Top Alternative Games</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cant-remember-your-passwords-discover-how-a-password-manager-can-help-cnbc/"><u>Can't Remember Your Passwords? Discover How a Password Manager Can Help | CNBC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/database-leak-reveals-personal-data-of-over-30000-medical-staff-in-florida-an-in-depth-look-by-zdnet/"><u>Database Leak Reveals Personal Data of Over 30,000 Medical Staff in Florida: An In-Depth Look by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-apples-new-horizon-unlimited-access-to-ai-education-for-thousands-of-alumni-and-students/"><u>Exploring Apple's New Horizon: Unlimited Access to AI Education for Thousands of Alumni and Students</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-amplify-your-social-impact-with-these-innovative-fb-growth-tactics/"><u>In 2024, Amplify Your Social Impact with These Innovative FB Growth Tactics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-box-by-strategy-market-success-blueprints/"><u>In 2024, Box by Strategy Market Success Blueprints</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-troubleshooting-tips-for-fixing-action-bug-navigating-critical-error-108/"><u>Mastering Troubleshooting Tips for Fixing 'Action!' Bug: Navigating Critical Error 108</u></a></li>
+<li><a href="https://app-tips.techidaily.com/say-goodbye-to-master-passwords-discover-1passwords-innovative-passkey-alternative-explained-by-zdnet/"><u>Say Goodbye to Master Passwords: Discover 1Password's Innovative Passkey Alternative, Explained by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/silent-screen-capture-solved-with-movavi-no-sound-issues/"><u>Silent Screen Capture Solved with Movavi - No Sound Issues</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-fortifying-your-password-vault-against-threats-zdnet/"><u>Ultimate Guide: Fortifying Your Password Vault Against Threats | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-future-how-i-discovered-a-game-changing-password-manager-among-two-contenders-cyber-savvy-reviews/"><u>Unlocking the Future: How I Discovered a Game-Changing Password Manager Among Two Contenders | Cyber Savvy Reviews</u></a></li>
 </ul></div>
 
