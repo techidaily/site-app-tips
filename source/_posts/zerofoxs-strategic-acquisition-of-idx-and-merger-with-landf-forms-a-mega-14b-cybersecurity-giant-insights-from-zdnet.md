@@ -1,7 +1,7 @@
 ---
 title: ZeroFox's Strategic Acquisition of IDX and Merger with L&F Forms a Mega $1.4B Cybersecurity Giant - Insights From ZDNet
-date: 2024-11-07T09:05:39.882Z
-updated: 2024-11-14T05:42:59.346Z
+date: 2024-11-23T07:04:47.619Z
+updated: 2024-11-24T05:41:16.540Z
 tags:
   - password-manager
 categories:
@@ -16,6 +16,10 @@ SaaS cybersecurity company ZeroFox said on Monday that it has completed a deal t
 The company will be renamed ZeroFox Holdings once the deal goes through and will have the ticker symbol "ZFOX." The companies expect the deal to close in the first half of 2022\. 
 
 Monarch Alternative Capital LP and several other firms are also investing $170 million in the deal to merge the companies. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Security
 
@@ -83,31 +87,17 @@ Adam Gerchen, CEO of LNFA and a new ZeroFox board member, noted that the company
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-12-best-vlogging-cameras-for-vloggers/"><u>[New] In 2024, 12 Best Vlogging Cameras for Vloggers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ps3-playback-a-comprehensible-methodology-for-2024/"><u>[Updated] PS3 Playback A Comprehensible Methodology for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620191219-7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/amd-powered-aiseesoft-fast-and-efficient-video-transcoding-solutions/"><u>AMD-Powered Aiseesoft: Fast and Efficient Video Transcoding Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-glitches-the-ultimate-fix-guide-for-preventing-vrchat-crashes-on-pc/"><u>Beat the Glitches: The Ultimate Fix Guide for Preventing VRChat Crashes on PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-audio-equalizer-applications-for-android-top-5-picks/"><u>Best FREE Audio Equalizer Applications for Android: Top 5 Picks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-graphically-advanced-game-emulators-high-quality-visuals-and-optimal-frame-rates/"><u>Best Graphically Advanced Game Emulators: High-Quality Visuals & Optimal Frame Rates</u></a></li>
-<li><a href="https://article-files.techidaily.com/deconstructing-the-daily-earnings-of-podcasters-for-2024/"><u>Deconstructing the Daily Earnings of Podcasters for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620195426-download-fun-and-trending-facebook-messenger-stickers-now/"><u>Download Fun & Trending Facebook Messenger Stickers Now!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/expert-techniques-for-ps4-gameplay-documentation/"><u>Expert Techniques for PS4 Gameplay Documentation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-apples-device-management-insights-into-mdm-and-platform-implementation-strategies/"><u>Explore Apple's Device Management: Insights Into MDM and Platform Implementation Strategies</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-assessment-of-apple-music-pricing-structure-advantagesdisadvantages-and-how-to-get-started/"><u>In-Depth Assessment of Apple Music: Pricing Structure, Advantages/Disadvantages, and How to Get Started</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-redownload-or-restore-your-bought-apps-and-in-app-items-on-ios/"><u>Step-by-Step Guide: Redownload or Restore Your Bought Apps & In-App Items on iOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-best-5-top-rated-free-mobile-tracking-apps-unveiling-the-options/"><u>The Best 5 Top-Rated Free Mobile Tracking Apps: Unveiling the Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-xvid-media-player-compatible-with-windows-macos-android-and-iphone/"><u>Top Rated Xvid Media Player: Compatible with Windows, MacOS, Android & iPhone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-audio-rom-en-format-mp3-sans-frais-guide-de-movavi/"><u>Toutes Les Étapes Pour Transformer Un Fichier Audio ROM en Format MP3 Sans Frais - Guide De Movavi</u></a></li>
-<li><a href="https://discover-best.techidaily.com/transform-your-photos-and-pdfs-into-editable-text-on-the-go-using-ocr-for-iphones-finereader-integration-tutorial/"><u>Transform Your Photos and PDFs Into Editable Text on the Go Using OCR for iPhones - FineReader Integration Tutorial</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-professionals-handbook-to-video-editing-in-youtube-studio/"><u>[New] 2024 Approved The Professional's Handbook to Video Editing in YouTube Studio</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-reviving-old-memories-posting-them-via-your-camera-roll/"><u>[New] In 2024, Reviving Old Memories Posting Them via Your Camera Roll</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-flying-buddies-top-toys-for-children/"><u>[Updated] Perfect Flying Buddies Top Toys for Children</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-understanding-moto-z2-smart-technology-unleashed-for-2024/"><u>[Updated] Understanding Moto Z2 Smart Technology Unleashed for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-ultimate-guide-to-facebook-friendly-xbox-play/"><u>2024 Approved The Ultimate Guide to Facebook-Friendly Xbox Play</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-leap-towards-no-code-revolution-the-impactful-role-of-generative-artificial-intelligence-in-evolving-coding-paradigms-zdnet-insights/"><u>A Leap Towards 'No Code' Revolution: The Impactful Role of Generative Artificial Intelligence in Evolving Coding Paradigms | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/access-control-systems/"><u>Access Control Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/customizing-workouts-with-ai-how-chatgpt-empowers-fitness-coaches/"><u>Customizing Workouts with AI: How ChatGPT Empowers Fitness Coaches</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oneplus-nord-n30-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your OnePlus Nord N30 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-task-management-adding-to-do-lists-to-your-slack-workspace-zdnet-insights/"><u>Integrating Task Management: Adding To-Do Lists to Your Slack Workspace | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-transition-seamless-update-strategies-for-ubuntu-linux-users-moving-to-version-2404/"><u>Mastering the Transition: Seamless Update Strategies for Ubuntu Linux Users Moving to Version 24.04</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranking-mac-software-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking Mac Software : A Comprehensive Guide by ZDNet</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

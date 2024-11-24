@@ -1,7 +1,7 @@
 ---
 title: Can We Depend on Instagram? An In-Depth Analysis by ZDNet
-date: 2024-11-06T23:53:55.877Z
-updated: 2024-11-14T03:03:49.727Z
+date: 2024-11-20T21:51:15.722Z
+updated: 2024-11-23T17:39:33.745Z
 tags:
   - password-manager
 categories:
@@ -20,6 +20,10 @@ About once a day I get a message from someone asking for my help with restoring 
 I wish I did, but I don't. 
 
 Instagram hasn't done one blessed thing to [fix my hacked account](https://www.zdnet.com/article/my-instagram-account-was-hacked-and-two-factor-authentication-didnt-help/). Six weeks into this, and neither Instagram tech support -- if there even is such a department -- nor public relations have said a word to me. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -42,10 +46,7 @@ Yet Instagram has remained silent about this trend.
 What can you do? First, dump Instagram. It doesn't matter how popular it is if you can't count on it. Other services and apps offer similar features, including [Flickr](https://www.flickr.com/), with its emphasis on high-end photos; [Imgur](https://imgur.com/), another photographic-centric service; [Pinterest](https://www.pinterest.com/), an image-oriented social network; and [Retrica](https://retrica.co/), another photo-oriented service with many filters. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Social Media
@@ -105,18 +106,22 @@ Instagram simply isn't trustworthy.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-elevating-your-youtube-stream-the-wirecast-way/"><u>[New] 2024 Approved Elevating Your YouTube Stream The WireCast Way</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-enabledisable-picture-in-picture-with-safari-on-ios-ipad-for-2024/"><u>[New] Enable/Disable Picture-in-Picture with Safari on iOS, iPad for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-integrating-skype-into-zoom-meetings-made-simple/"><u>[Updated] Integrating Skype Into Zoom Meetings Made Simple</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-essential-filmmakers-toolkit-a-guide-to-audio-recording/"><u>2024 Approved The Essential Filmmaker's Toolkit A Guide to Audio Recording</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-3ds-emulator-apps-top-picks-for-windows-mac-ios-and-android/"><u>Best Free 3DS Emulator Apps: Top Picks for Windows, Mac, iOS & Android</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/como-crear-una-duplicado-perfecta-de-su-disco-duro-sin-calidad-apercibido-en-solo-5-minutos/"><u>Cómo Crear Una Duplicado Perfecta De Su Disco Duro Sin Calidad Apercibido en Solo 5 Minutos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620195653-discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/easy-to-follow-instructions-for-wiping-and-rebooting-your-android-smartphonetablet-to-default-settings/"><u>Easy-to-Follow Instructions for Wiping and Rebooting Your Android Smartphone/Tablet to Default Settings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/endless-interruptions-a-complete-guide-to-stopping-unsolicited-calls-on-your-smartphone/"><u>Endless Interruptions: A Complete Guide to Stopping Unsolicited Calls on Your Smartphone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-x50-gt-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Honor X50 GT Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722993056301-the-king-of-fighters-xv-update-eliminating-pc-instability-once-and-for-all/"><u>The King of Fighters XV Update - Eliminating PC Instability Once and For All</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-x100-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo X100 for Parents | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unraveling-the-mystery-of-the-bnsf-emulator-thorough-assessment-and-interpretation/"><u>Unraveling the Mystery of the BNSF Emulator: Thorough Assessment and Interpretation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-screen-capture-tips-for-mi-11-users-for-2024/"><u>[New] Essential Screen Capture Tips for Mi 11 Users for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-pinnacle-business-cloud-haven/"><u>[Updated] 2024 Approved Pinnacle Business Cloud Haven</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-productivity-with-ubuntu-2204-a-top-choice-for-professional-linux-desktops-techadvice/"><u>Boost Your Productivity with Ubuntu 22.04 - A Top Choice for Professional Linux Desktops | TechAdvice</u></a></li>
+<li><a href="https://windows11.techidaily.com/curtail-windows-system-acoustic-intensifiers/"><u>Curtail Windows System Acoustic Intensifiers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-the-future-the-latest-white-house-findings-support-open-source-artificial-intelligence-insights-from-zdnet/"><u>Embracing the Future: The Latest White House Findings Support Open-Source Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-cto-forecasts-major-shifts-in-cloud-computing-strategies-insights-from-tech-leaders/"><u>Expert CTO Forecasts Major Shifts in Cloud Computing Strategies - Insights From Tech Leaders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-future-with-linus-insights-on-artificebotics-rust-programming-and-why-linux-is-crucial-zdnet/"><u>Exploring the Future with Linus: Insights on Artificebotics, Rust Programming, and Why Linux Is Crucial | ZDNET</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/gaming-enthusiasts-guide-comprehensive-nvidia-shield-tv-pro-evaluation/"><u>Gaming Enthusiasts' Guide: Comprehensive Nvidia Shield TV Pro Evaluation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-design-thinking-bridges-the-gap-between-tech-professionals-and-enhanced-customer-experiences-insights-from-zdnet/"><u>How Design Thinking Bridges the Gap Between Tech Professionals and Enhanced Customer Experiences - Insights From ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-facebook-dating-for-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-infinix-smart-7-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Infinix Smart 7 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-demystified-understanding-its-essentiality-in-cloud-computing/"><u>Kubernetes Demystified: Understanding Its Essentiality in Cloud Computing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revived-vega-rendering-glitch/"><u>Revived Vega Rendering Glitch</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transitioning-from-windows-home-to-pro-tips-advantages-and-how-to-digital-insight-hub/"><u>Transitioning From Windows Home to Pro - Tips, Advantages & How-To | Digital Insight Hub</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-building-your-ideal-windows-11-vm-tutorial/"><u>Ultimate Guide: Building Your Ideal Windows 11 VM [Tutorial]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-selection-of-2024-ipad-pro-shields-elite-tested-and-evaluated-by-experts/"><u>Ultimate Selection of 2024 iPad Pro Shields: Elite Tested and Evaluated by Experts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/your-roadmap-to-sourcing-videos-on-social-media-fb-edition-for-2024/"><u>Your Roadmap to Sourcing Videos on Social Media (FB Edition) for 2024</u></a></li>
 </ul></div>
 

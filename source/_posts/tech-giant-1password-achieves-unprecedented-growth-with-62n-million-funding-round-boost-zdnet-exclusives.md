@@ -1,7 +1,7 @@
 ---
 title: Tech Giant 1Password Achieves Unprecedented Growth with $62N Million Funding Round Boost | ZDNET Exclusives
-date: 2024-11-10T16:16:59.649Z
-updated: 2024-11-13T16:45:14.998Z
+date: 2024-11-23T00:37:08.748Z
+updated: 2024-11-23T18:27:15.681Z
 tags:
   - password-manager
 categories:
@@ -13,9 +13,17 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 
 Password manager 1Password said it closed its latest funding round on Wednesday, raising $620 million and boosting its valuation to $6.8 billion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Series C funding round included the participation of ICONIQ Growth, Tiger Global, Lightspeed Venture Partners, Backbone Angels, and Accel, which led the Canadian company's series A and B rounds. 
 
@@ -75,26 +83,22 @@ Will Griffith, a founding partner at ICONIQ Growth, said more than one hundred C
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-simplifying-tasks-with-ez-grabber-techniques-for-2024/"><u>[New] Simplifying Tasks with EZ Grabber Techniques for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nappy-sounds-discover-role-rhythms-for-2024/"><u>[New] Snappy Sounds Discover Role Rhythms for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-telling-stories-vertically-video-editing-for-instagram-with-fcpx/"><u>[New] Telling Stories Vertically Video Editing for Instagram with FCPX</u></a></li>
-<li><a href="https://app-tips.techidaily.com/achieving-excellence-in-agile-software-engineering-unveiling-the-6-key-principles-for-a-thriving-design-process/"><u>Achieving Excellence in Agile Software Engineering: Unveiling the 6 Key Principles for a Thriving Design Process</u></a></li>
-<li><a href="https://app-tips.techidaily.com/anticipating-windows-12-release-latest-updates-and-unexpected-forecasts-techinsights/"><u>Anticipating Windows 12 Release: Latest Updates & Unexpected Forecasts | TechInsights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-development-process-with-generative-ai-tips-for-success-and-potential-hazards/"><u>Boost Your Development Process with Generative AI - Tips for Success & Potential Hazards</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guia-paso-a-paso-para-reducir-el-tamano-del-archivo-de-videos-en-alta-definicion-desde-4k-hasta-full-hd-en-pcs-con-windows-y-sistemas-apple-mac/"><u>Guía Paso a Paso Para Reducir El Tamaño Del Archivo De Vídeos en Alta Definición Desde 4K Hasta Full HD en PCs Con Windows Y Sistemas Apple Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/key-challenges-in-leveraging-generative-ai-insights-from-the-latest-deloitte-research-highlighted-by-zdnet/"><u>Key Challenges in Leveraging Generative AI: Insights From the Latest Deloitte Research Highlighted by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-tech-demands-with-the-zendure-superbase-pro-200-cu-ft-complete-hands-on-evaluation-by-zdnet-experts/"><u>Master Your Tech Demands with the Zendure SuperBase Pro 200 Cu. Ft., Complete Hands-On Evaluation by ZDNet Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/organizing-chaos-a-guide-to-streamlining-linux-and-open-source-docs/"><u>Organizing Chaos: A Guide to Streamlining Linux & Open Source Docs</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-tecno-pova-5-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Tecno Pova 5 Phone Hassle-Free</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/unleashing-creativity-the-top-10-final-cut-pro-movies-for-2024/"><u>Unleashing Creativity The Top 10 Final Cut Pro Movies for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/work-seamlessly-offline-on-onedrive-manage-your-documents-even-in-rural-locations-as-featured-by-zdnet/"><u>Work Seamlessly Offline on OneDrive - Manage Your Documents Even in Rural Locations, as Featured by ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-prime-fb-videos-deciding-on-the-best-ten/"><u>[Updated] 2024 Approved Prime FB Videos Deciding on the Best Ten</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-sites-for-fetching-video-intro-files/"><u>[Updated] In 2024, Essential Sites for Fetching Video Intro Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-reducing-noise-amplitude-gently-using-lumafusion/"><u>2024 Approved Reducing Noise Amplitude Gently Using Lumafusion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-and-fair-evaluation-of-airwatch-your-ultimate-guide/"><u>Comprehensive and Fair Evaluation of AirWatch - Your Ultimate Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-20-most-exceptional-lock-screen-utilities-tailored-for-android-smartphones/"><u>Discover the 20 Most Exceptional Lock Screen Utilities Tailored for Android Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-and-use-the-free-ogg-media-player-compatible-with-pc-and-mac/"><u>Download & Use the Free OGG Media Player Compatible with PC & Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-photography-skills-discover-5-remarkable-tools-for-upgrading-and-perfecting-images-beyond-remini/"><u>Elevate Your Photography Skills: Discover 5 Remarkable Tools for Upgrading and Perfecting Images Beyond Remini</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-s24-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy S24 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/mastering-hyper-v-snapshot-fusion-two-in-depth-methods-explained/"><u>Mastering Hyper-V Snapshot Fusion: Two In-Depth Methods Explained</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mumu-player-the-ultimate-powerful-android-emulation-tool-for-your-computer/"><u>MuMu Player: The Ultimate Powerful Android Emulation Tool for Your Computer</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ate-away-from-bot-influenced-metrics-for-2024/"><u>Navigate Away From Bot-Influenced Metrics for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-through-windows-11s-new-frontier/"><u>Navigating Through Windows 11'S New Frontier</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-iphone-a-comprehensive-guide-to-enabling-touch-id-and-passcode-protection/"><u>Securing Your iPhone: A Comprehensive Guide to Enabling Touch ID and Passcode Protection</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-poco-m6-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Poco M6 Pro 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-ten-must-watch-vr-scenes-on-youtube/"><u>Top Ten Must-Watch VR Scenes on Youtube</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193647-unlock-ultimate-convenience-and-safety-on-ios-discover-the-premier-password-protector-app/"><u>Unlock Ultimate Convenience & Safety on iOS - Discover the Premier Password Protector App!</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

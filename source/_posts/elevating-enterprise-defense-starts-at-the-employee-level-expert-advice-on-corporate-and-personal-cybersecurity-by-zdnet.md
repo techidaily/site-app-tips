@@ -1,7 +1,7 @@
 ---
 title: Elevating Enterprise Defense Starts at the Employee Level – Expert Advice on Corporate and Personal Cybersecurity by ZDNet
-date: 2024-11-10T16:51:36.423Z
-updated: 2024-11-13T18:15:54.622Z
+date: 2024-11-19T05:15:45.181Z
+updated: 2024-11-23T18:14:42.859Z
 tags:
   - password-manager
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 ## Elevating Enterprise Defense Starts at the Employee Level – Expert Advice on Corporate and Personal Cybersecurity by ZDNet
 
 Corporations aren't doing enough to improve their employees' personal security practices. Credentials remain the highest targeted data type as they are the gateway to ransomware and data theft. 61% of data breaches in 2021 involved the use of stolen and misused credentials. Bad actors took advantage of a global pandemic to increase the number of phishing attacks, the cause of stolen credentials in 36% of breaches -- a 9% increase over last year -- according to the [Verizon 2021 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdfx). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -62,24 +66,16 @@ Given how connected we all are, the rising demands of working anywhere, and incr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-masterful-video-cropping-elevate-your-content-game-on-instagram-for-2024/"><u>[New] Masterful Video Cropping Elevate Your Content Game on Instagram for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-tune-treasure-trove-save-and-study-sound-files-for-2024/"><u>[New] Tune Treasure Trove Save & Study Sound Files for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-optimal-steps-to-record-silent-videos/"><u>[Updated] 2024 Approved Optimal Steps to Record Silent Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-cinematic-tones-beyond-basic-adjustments/"><u>[Updated] Mastering Cinematic Tones Beyond Basic Adjustments</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/correcting-user-portrait-errors-in-digital-dialogue-for-2024/"><u>Correcting User Portrait Errors in Digital Dialogue for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-4k-uxga-gaming-the-asus-mg28uq-explained/"><u>In 2024, 4K UXGA Gaming - The ASUS MG28UQ Explained</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210011975-9781071537084-leadership-gagner-le-respect-et-faire-avancer-les-choses/"><u>Leadership: Gagner Le Respect Et Faire Avancer Les Choses | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/optimize-workflow-on-a-powerful-linux-platform-discover-the-advantages-of-ubuntu-2204-computingtoday/"><u>Optimize Workflow on a Powerful Linux Platform: Discover the Advantages of Ubuntu 22.04 | ComputingToday</u></a></li>
-<li><a href="https://app-tips.techidaily.com/prepare-for-windows-11-end-of-life-your-top-5-solutions-to-keep-your-pc-running-smoothly/"><u>Prepare for Windows 11 End of Life: Your Top 5 Solutions to Keep Your PC Running Smoothly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/raising-the-profile-of-it-in-cx-initiatives-strategies-for-success-a-deep-dive-by-zdnet/"><u>Raising the Profile of IT in CX Initiatives: Strategies for Success - A Deep Dive by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simplifying-systems-management-red-hats-strategic-use-of-ai-to-support-administrators-zdnet/"><u>Simplifying Systems Management: Red Hat's Strategic Use of AI to Support Administrators | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-leading-iam-tools-as-ranked-by-industry-experts/"><u>The Ultimate Guide to Leading IAM Tools , as Ranked by Industry Experts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smartphones-meet-virtual-worlds-top-10-headsets/"><u>[Updated] Smartphones Meet Virtual Worlds - Top 10 Headsets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-android-videography-6-must-try-music-videos-apps/"><u>2024 Approved Best Android Videography 6 Must-Try Music Videos Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-top-10-music-videos-on-facebook/"><u>2024 Approved Top 10 Music Videos on Facebook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/5-advanced-ai-solutions-dominating-the-market-in-automatic-video-editing-technology/"><u>5 Advanced AI Solutions Dominating the Market in Automatic Video Editing Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-elevenlabs-discovering-four-remarkable-alternatives-an-in-depth-analysis-of-their-unique-features/"><u>Beyond ElevenLabs: Discovering Four Remarkable Alternatives - An In-Depth Analysis of Their Unique Features</u></a></li>
+<li><a href="https://fox-access.techidaily.com/chromatic-excellence-program/"><u>Chromatic Excellence Program</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-adobes-full-voice-amplifier-features-and-tips/"><u>Comprehensive Guide to Adobe's Full Voice Amplifier: Features & Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-stable-diffusions-text-to-image-generative-ai/"><u>Comprehensive Guide: Understanding Stable Diffusion's Text-to-Image Generative AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/constructing-fitness-goals-leveraging-ai-insight/"><u>Constructing Fitness Goals: Leveraging AI Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-leading-substitutes-for-voicemyai-your-guide-to-innovative-ai-voice-solutions/"><u>Explore the Leading Substitutes for voicemy.ai: Your Guide to Innovative AI Voice Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/voicing-artifice-intelligence-how-chatgpt-revolutionizes-interaction-with-openai/"><u>Voicing Artifice Intelligence: How ChatGPT Revolutionizes Interaction with OpenAI</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

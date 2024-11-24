@@ -1,7 +1,7 @@
 ---
 title: "Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default"
-date: 2024-11-08T18:56:42.374Z
-updated: 2024-11-14T04:38:48.253Z
+date: 2024-11-17T02:55:55.929Z
+updated: 2024-11-24T05:24:49.765Z
 tags:
   - password-manager
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 Google [has auto enrolled](https://blog.google/technology/safety-security/reducing-account-hijacking/) more than 150 million users in 2-step verification after announcing the effort last year, noting in a release that the action has caused "the number of accounts hijacked by password theft decrease by 50%."
 
 The initiative also involved requiring 2 million YouTube users to enable it. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Google
 
@@ -75,31 +79,20 @@ Google [announced](https://www.zdnet.com/article/by-end-of-2021-google-plans-to-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-gaining-traction-on-youtube-the-successful-sponsorship-roadmap-by-famebit-for-2024/"><u>[New] Gaining Traction on YouTube The Successful Sponsorship Roadmap by FameBit for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-voice-over-fundamentals-from-syncing-dialogue-to-final-cut/"><u>[New] In 2024, Voice Over Fundamentals From Syncing Dialogue to Final Cut</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-mastering-screen-capture-in-linux-with-these-tools-for-2024/"><u>[New] Mastering Screen Capture in Linux with These Tools for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-superhero-sprouts-top-kid-friendly-gaming-stories/"><u>[New] Superhero Sprouts Top Kid-Friendly Gaming Stories</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-selecting-the-best-screencast-apps-for-digital-learning-for-2024/"><u>[Updated] Selecting the Best Screencast Apps for Digital Learning for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/adapting-office-gadgets-for-the-age-of-artificial-intelligence-zdnet/"><u>Adapting Office Gadgets for the Age of Artificial Intelligence | ZDNET</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/easy-and-effective-techniques-to-transform-wmv-files-into-high-quality-avi-for-free/"><u>Easy & Effective Techniques to Transform WMV Files Into High-Quality AVI for Free</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-rust-with-linux-creator-linus-torvalds-insights-on-his-work-habits-and-life-with-macbook-air-exclusive-coverage-from-zdnet/"><u>Exploring Rust with Linux Creator Linus Torvalds: Insights on His Work Habits and Life with MacBook Air | Exclusive Coverage From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-new-capabilities-unveiled-with-the-latest-version-of-windows-11-zdnet-insights/"><u>Exploring the New Capabilities Unveiled with the Latest Version of Windows 11 | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/grounding-is-especially-critical-for-transmitting-antennas-due-to-the-high-power-involved-which-increases-the-risk-of-lightning-strikes-and-electrical-hazar80/"><u>Grounding Is Especially Critical for Transmitting Antennas Due to the High Power Involved, Which Increases the Risk of Lightning Strikes and Electrical Hazards.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-skill-enhancement-and-robust-security-shape-the-future-of-cloud-native-solutions-insights-from-zdnet/"><u>How Skill Enhancement & Robust Security Shape the Future of Cloud-Native Solutions - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-unlocking-potential-in-your-photography-with-gopro-time-lapses/"><u>In 2024, Unlocking Potential in Your Photography with GoPro Time-Lapses</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-the-digital-shift-how-enterprise-architects-are-steering-change-zdnet/"><u>Leading the Digital Shift: How Enterprise Architects Are Steering Change | ZDNet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reduced-waste-lifestyle/"><u>Reduced Waste Lifestyle</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-the-hp-victus-15-gaming-laptop-at-an-unbeatable-price-of-just-515-during-best-buys-exclusive-anti-black-friday-sale-insights-from-zdnet/"><u>Score the HP Victus 15 Gaming Laptop at an Unbeatable Price of Just $515 During Best Buy's Exclusive Anti-Black Friday Sale - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-hottest-developer-positions-and-rising-programming-languages-predictions-for-the-tech-industry-insights-from-zdnet/"><u>The Hottest Developer Positions & Rising Programming Languages: Predictions for the Tech Industry | Insights From ZDNet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-15-color-grading-plugins-for-action-cam-video-for-2024/"><u>Ultimate 15 Color Grading Plugins for Action Cam Video for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsoft-must-fix-windows-10-issues-within-just-one-year-insights-from-zdnet/"><u>Urgent Challenge: Microsoft Must Fix Windows 10 Issues Within Just One Year - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-companies-face-difficulty-in-harnessing-generative-ai-key-findings-from-deloittes-research-zdnet/"><u>Why Companies Face Difficulty in Harnessing Generative AI: Key Findings From Deloitte's Research | ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-from-classic-quests-to-complex-escapades/"><u>[New] 2024 Approved From Classic Quests to Complex Escapades</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unveiling-public-domain-paintings-insights-and-links-for-2024/"><u>[New] Unveiling Public Domain Paintings Insights & Links for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-5-sd-card-apps-for-optimal-file-management-on-your-android-device/"><u>Best 5 SD Card Apps for Optimal File Management on Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-uwu-text-to-speech-apps-mastering-anime-character-vocalization-techniques/"><u>Best UwU Text-to-Speech Apps: Mastering Anime Character Vocalization Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/concealing-applications-a-step-by-step-guide-for-android-ios-devices/"><u>Concealing Applications: A Step-by-Step Guide for Android, iOS Devices</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/expertenrat-effiziente-sicherheits-und-wiederherstellungsmethoden-fur-windows-11/"><u>Expertenrat: Effiziente Sicherheits- Und Wiederherstellungsmethoden Für Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-why-photo-booth-videos-freeze-suddenly-for-2024/"><u>Exploring Why Photo Booth Videos Freeze Suddenly for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-excellent-gps-software-for-android-devices-a-comprehensive-guide/"><u>Free Excellent GPS Software for Android Devices - A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-high-definition-gaming-with-lg-27ud68-monitor-review/"><u>In 2024, High Definition Gaming with LG 27UD68 Monitor Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-out-of-space-on-windows/"><u>Overcoming Out Of Space On Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-converting-your-videos-from-vimeo-to-mov-format-on-windows/"><u>Quick Guide: Converting Your Videos From Vimeo to MOV Format on Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/tips-for-successful-live-streams-on-instagram-for-2024/"><u>Tips for Successful Live Streams on Instagram for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-video-editing-tool-master-color-grading-with-ioss-top-application/"><u>Top Rated Video Editing Tool: Master Color Grading with iOS's Top Application</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-xvid-media-player-compatible-with-windows-macos-android-and-iphone/"><u>Top Rated Xvid Media Player: Compatible with Windows, MacOS, Android & iPhone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
