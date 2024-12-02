@@ -1,7 +1,7 @@
 ---
 title: Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance
-date: 2024-11-22T09:06:47.716Z
-updated: 2024-11-24T04:11:28.686Z
+date: 2024-11-27T19:41:27.490Z
+updated: 2024-12-02T00:24:35.751Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-content-creation-evolution-studio-vs-innovative-beta/"><u>[New] 2024 Approved Content Creation Evolution Studio Vs. Innovative Beta</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unpacking-techniques-for-facebook-live-embedding/"><u>[New] 2024 Approved Unpacking Techniques for Facebook Live Embedding</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unlocking-ez-grabbers-potential-with-this-user-friendly-tutorial/"><u>[Updated] In 2024, Unlocking EZ Grabber's Potential with This User-Friendly Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-confidential-chats-with-enhanced-ai-technology-from-duckduckgo-explore-features-like-chatgpt/"><u>Experience Confidential Chats with Enhanced AI Technology From DuckDuckGo – Explore Features Like ChatGPT!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-uncharted-territory-of-emerging-ai-based-careers-decoding-their-intriguing-titles-and-futures-on-zdnet/"><u>Exploring the Uncharted Territory of Emerging AI-Based Careers: Decoding Their Intriguing Titles & Futures on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-uncharted-territory-the-emergence-of-innovative-yet-to-be-named-careers-in-the-age-of-artifice-intelligence/"><u>Exploring Uncharted Territory: The Emergence of Innovative, Yet-to-Be-Named Careers in the Age of Artifice Intelligence</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/free-visual-templates-to-upgrade-your-profile/"><u>Free Visual Templates to Upgrade Your Profile</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-se-2022-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone SE (2022) Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-6s-plus-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 6s Plus?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-xiaomi-mix-fold-3-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Xiaomi Mix Fold 3 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-investigating-whether-photostabilizer-transforms-image-quality/"><u>In 2024, Investigating Whether PhotoStabilizer Transforms Image Quality</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-asymmetry-of-todays-live-tech-evolution-a-deep-dive-zdnet/"><u>Navigating the Asymmetry of Today's Live Tech Evolution: A Deep Dive | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-future-with-ai-agent-ecosystems-how-theyll-reshape-services-expert-analysis-by-zdnet/"><u>Navigating the Future with AI 'Agent Ecosystems': How They'll Reshape Services | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/singapore-invests-24-billion-in-enhancing-it-networks-and-digital-solutions-insights-from-zdnet/"><u>Singapore Invests $2.4 Billion in Enhancing IT Networks & Digital Solutions – Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-now-reinventing-development-with-ai-in-low-code-and-no-code-solutions-featured-on-zdnet/"><u>The Future Is Now: Reinventing Development with AI in Low-Code and No-Code Solutions | Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-insiders-guide-to-choosing-a-devops-path-benefits-vs-hurdles-in-detail/"><u>The Insider's Guide to Choosing a DevOps Path: Benefits Vs. Hurdles in Detail</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-it-expansion-navigating-the-increase-in-employee-burnout-solutions-for-a-healthier-workplace-zdnet/"><u>The Rise of IT Expansion: Navigating the Increase in Employee Burnout - Solutions for a Healthier Workplace | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unmute-the-issue-fixing-iphone-call-ring-failures-with-ease/"><u>Unmute the Issue: Fixing iPhone Call Ring Failures with Ease</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-generative-ais-key-hurdle-demonstrating-tangible-returns-on-investment-insights-from-zdnet/"><u>Unveiling Generative AI's Key Hurdle: Demonstrating Tangible Returns on Investment – Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ree-online-tools-for-youtube-channel-starters-for-2024/"><u>[New] Free Online Tools for YouTube Channel Starters for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-into-the-unknown-how-to-start-and-flourish-as-a-travel-videographer/"><u>[Updated] 2024 Approved Into the Unknown How To Start & Flourish As a Travel Videographer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-compare-and-contrast-best-software-for-screen-grabs-obsfraps/"><u>[Updated] Compare and Contrast Best Software for Screen Grabs (OBS/Fraps)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-changes-in-instagrams-algorithm-user-perspectives/"><u>2024 Approved Changes in Instagram's Algorithm User Perspectives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-reviewing-the-best-screen-recorders-on-the-market/"><u>2024 Approved Reviewing the Best Screen Recorders on the Market</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-on-cloud-storage-protecting-data-for-ipads-pro-mini-and-air-via-icloud/"><u>Complete Tutorial on Cloud Storage: Protecting Data for iPads (Pro, Mini, and Air) via iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264535-how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-retrieve-your-forgotten-iphone-itunes-backup-passcode/"><u>How to Retrieve Your Forgotten iPhone iTunes Backup Passcode</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-youtubes-virality-secrets-effective-hashtag-strategies/"><u>In 2024, YouTube's Virality Secrets Effective Hashtag Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-apples-icloud-family-sharing-an-in-depth-tutorial-for-seamless-collaboration/"><u>Mastering Apple's iCloud Family Sharing - An In-Depth Tutorial for Seamless Collaboration</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y78-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y78 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-of-icloud-keychain-functionality-and-retrieving-your-data-on-iphone/"><u>The Ultimate Walkthrough of iCloud Keychain Functionality & Retrieving Your Data on iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-4-methods-for-effortlessly-transferring-your-iphone-photos-to-icloud-a-complete-guide/"><u>Top 4 Methods for Effortlessly Transferring Your iPhone Photos to iCloud: A Complete Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-icloud-keychain-a-complete-guide-to-unlocking-your-iphones-secure-storage/"><u>Understanding iCloud Keychain: A Complete Guide to Unlocking Your iPhone's Secure Storage</u></a></li>
 </ul></div>
 

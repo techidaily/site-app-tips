@@ -1,7 +1,7 @@
 ---
 title: "Inside Linus Torvalds' Tech World: Discussing Rust in Linux, Daily Routines & Tips for the Ultrabook - A Deep Dive by ZDNet"
-date: 2024-11-21T06:07:00.412Z
-updated: 2024-11-23T16:13:59.805Z
+date: 2024-11-25T16:57:03.322Z
+updated: 2024-12-02T08:22:21.368Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/company-names-revolutionary-ai-for-sustainable-smart-appliances-spotlight-on-zdnet-review/"><u>[Company Name]'s Revolutionary AI for Sustainable Smart Appliances: Spotlight on ZDNET Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-flv-to-youtubes-master-the-art-of-video-transformation-with-these-top-tools-for-2024/"><u>[New] Flv to Youtubes Master the Art of Video Transformation with These Top Tools for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-comprehensively-reviewing-top-10-no-cost-video-communication-apps-for-professional-and-academic-needs/"><u>[New] In 2024, Comprehensively Reviewing Top 10 No-Cost Video Communication Apps for Professional and Academic Needs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-religious-ringtones-for-daily-devotion-and-driving/"><u>[New] Religious Ringtones for Daily Devotion and Driving</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-optimize-video-quality-with-expertise-in-studio-editor-use-for-2024/"><u>[Updated] Optimize Video Quality with Expertise in Studio Editor Use for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-manager-training-essential-before-introducing-artificial-intelligence-in-business-insights-from-zdnet/"><u>1. Manager Training Essential Before Introducing Artificial Intelligence in Business: Insights From ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellence-in-expression-top-talkers-on-google-podcasts/"><u>2024 Approved Excellence in Expression Top Talkers on Google Podcasts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-marketing-crews-embrace-advanced-tech-zdnet-insights/"><u>AI Integration: One-Third of Marketing Crews Embrace Advanced Tech | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-ais-horizon-discover-the-accelerating-wave-of-emerging-technologies/"><u>Beyond AI's Horizon: Discover the Accelerating Wave of Emerging Technologies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminating-continuous-crashes-expert-solutions-for-stable-blender-performance-on-your-computer/"><u>Eliminating Continuous Crashes: Expert Solutions for Stable Blender Performance on Your Computer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-laptop-screens-continuous-flashing/"><u>Ending Laptop Screen's Continuous Flashing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-ai-evolution-is-pushing-the-limits-of-todays-tech-infrastructure-insights-from-zdnet/"><u>How AI Evolution Is Pushing the Limits of Today's Tech Infrastructure: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-fintech-figures-demand-thinking-revolution-not-simple-prompts-to-shape-ai-future/"><u>Leading Fintech Figures Demand Thinking Revolution, Not Simple Prompts, to Shape AI Future</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/macs-finest-for-gif-saving-the-leading-apps-for-2024/"><u>Mac's Finest for GIF Saving The Leading Apps for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-age-of-artificial-intelligence-strategies-for-tech-experts-to-excel-in-their-careers-zdnet/"><u>Navigating the Age of Artificial Intelligence: Strategies for Tech Experts to Excel in Their Careers | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-ai-how-multiple-machine-learning-models-will-power-your-business-according-to-zdnet/"><u>The Future Is AI: How Multiple Machine Learning Models Will Power Your Business, According to ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-unnoticed-online-players-handbook/"><u>The Unnoticed Online Player's Handbook</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-sonic-storytelling-showcasing-sound-waves-and-engaging-animated-sequences-with-sony-vegas-pro-for-2024/"><u>Updated Sonic Storytelling Showcasing Sound Waves & Engaging Animated Sequences with Sony Vegas Pro for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-singapore-advocates-for-financial-backing-of-ai-integration-and-carbon-neutral-goals/"><u>ZDNet Exclusive: Singapore Advocates for Financial Backing of AI Integration and Carbon-Neutral Goals</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-accessing-all-shared-content-in-messenger-chats-for-2024/"><u>[New] Accessing All Shared Content in Messenger Chats for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-designing-effective-thumbnails-with-imagery/"><u>[New] In 2024, Designing Effective Thumbnails with Imagery</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ideo-description-engineer/"><u>[New] Video Description Engineer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-building-brands-on-instagram-a-playbook-for-sponsorship-success/"><u>2024 Approved Building Brands on Instagram A Playbook for Sponsorship Success</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-step-by-step-tutorial-on-adding-captions-to-tiktok-videos/"><u>2024 Approved Step-by-Step Tutorial on Adding Captions to TikTok Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/alternative-media-players-similar-to-itunes-for-windows-vista-xp-or-7-users/"><u>Alternative Media Players Similar to iTunes for Windows Vista, XP, or 7 Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620278038-cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix</u></a></li>
+<li><a href="https://app-tips.techidaily.com/itunes-backup-file-restoration-how-to-retrieve-deleted-or-lost-ios-content-from-your-itunes-archive/"><u>ITunes Backup File Restoration: How to Retrieve Deleted or Lost iOS Content From Your iTunes Archive</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-to-record-and-save-your-watching-experience-on-youtube-with-zero-costs/"><u>Learn to Record and Save Your Watching Experience on YouTube with Zero Costs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lost-your-itunes-account-passcode-discover-the-top-methods-to-retrieve-it/"><u>Lost Your iTunes Account Passcode? Discover the Top Methods to Retrieve It</u></a></li>
+<li><a href="https://app-tips.techidaily.com/move-it-like-that-a-guide-for-shifting-itunes-lists-onto-usb-drives-across-windows-and-mac-systems/"><u>Move It Like That: A Guide for Shifting iTunes Lists Onto USB Drives Across Windows and Mac Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-benefits-for-elite-twitch-streamers/"><u>Prime Benefits for Elite Twitch Streamers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/resolve-constant-itunes-password-prompts-on-your-iphone-with-this-simple-guide/"><u>Resolve Constant ITunes Password Prompts on Your iPhone with This Simple Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-steps-converting-your-avi-videos-into-apples-itunes-format-for-ios-devices/"><u>Simple Steps: Converting Your AVI Videos Into Apple's iTunes Format for iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transferring-your-playlist-to-ipod-sans-itunes-with-aiseesoft/"><u>Step-by-Step Guide: Transferring Your Playlist to iPod Sans iTunes with Aiseesoft</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ling-frames-5-effective-charge-free-youtube-techniques-for-2024/"><u>Unveiling Frames 5 Effective, Charge-Free YouTube Techniques for 2024</u></a></li>
 </ul></div>
 

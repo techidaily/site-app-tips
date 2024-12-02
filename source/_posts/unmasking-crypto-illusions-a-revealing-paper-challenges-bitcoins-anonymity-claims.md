@@ -1,7 +1,7 @@
 ---
 title: "Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims"
-date: 2024-11-23T07:11:37.514Z
-updated: 2024-11-23T19:10:57.246Z
+date: 2024-12-01T07:54:09.134Z
+updated: 2024-12-01T20:35:37.407Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,18 +119,19 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-download-youtube-videos-anywhere-anytime-free-android-tips/"><u>[Updated] In 2024, Download YouTube Videos Anywhere, Anytime Free Android Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-boost-your-blogging-bravery-following-youtuber-leaders/"><u>2024 Approved Boost Your Blogging Bravery Following YouTuber Leaders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/5-essential-productivity-hacks-for-streamlining-your-day-to-day-tasks-insights-from-zdnet/"><u>5 Essential Productivity Hacks for Streamlining Your Day-to-Day Tasks: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-revolutionary-challenger-emerges-a-unique-app-that-outshines-microsoft-teams-and-zoom-with-lip-reading-technology/"><u>A Revolutionary Challenger Emerges: A Unique App That Outshines Microsoft Teams & Zoom With Lip-Reading Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-to-switching-from-windows-to-linux-mint-easy-installation-steps/"><u>Complete Guide to Switching From Windows to Linux Mint - Easy Installation Steps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-top-4-open-source-slack-substitutes-to-elevate-your-teams-communication-game-explore-the-options-on-zdnet/"><u>Discover Top 4 Open-Source Slack Substitutes to Elevate Your Team's Communication Game - Explore the Options on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-updates-to-libreoffice-for-mac-users-a-comprehensive-installation-tutorial-on-zdnet/"><u>Discover Updates to LibreOffice for Mac Users – A Comprehensive Installation Tutorial on ZDNET</u></a></li>
-<li><a href="https://blog-min.techidaily.com/dvd-iphone-ipad-androidpcdvd/"><u>DVD書き換え手順 | iPhone, iPad, Android、PC、ゲーム機経由でDVDを移行する</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-tech-experts-shape-the-future-of-non-tech-companies-insights-from-zdnet/"><u>How Tech Experts Shape the Future of Non-Tech Companies: Insights From ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-red-magic-9-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Red Magic 9 Pro</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/screen-recording-mastery-with-lenovo-gear/"><u>Screen Recording Mastery with Lenovo Gear</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-fix-for-non-working-dolby-atmos-on-windows-1110-systems/"><u>Step-by-Step Fix for Non-Working Dolby Atmos on Windows 11/10 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/year-on-year-analysis-reveals-laptop-ram-allocation-expected-to-jump-to-118gb-a-12-increase/"><u>Year-on-Year Analysis Reveals Laptop Ram Allocation Expected to Jump to 11.8GB, a 12% Increase</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-traction-in-the-digital-sphere-explore-the-quintessential-five-youtube-tactics/"><u>[New] 2024 Approved Gain Traction in the Digital Sphere - Explore the Quintessential Five YouTube Tactics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-apple-m1-pro-vs-m1-max-whats-the-difference/"><u>[New] Apple M1 Pro Vs. M1 Max What's the Difference?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-nvidia-unveils-new-accelerated-instruction-modules-aims-for-enhanced-gen-ai-performance-tech-news-on-zdnet/"><u>1. NVIDIA Unveils New Accelerated Instruction Modules (AIMs) for Enhanced GEN AI Performance - Tech News on ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-pc-edition-of-image-overlay-mastery/"><u>2024 Approved Ultimate PC Edition of Image Overlay Mastery</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/all-in-one-microsoft-experience-bridging-work-life-and-study-with-the-latest-teams-update-on-zdnet/"><u>All-in-One Microsoft Experience: Bridging Work, Life, and Study with the Latest Teams Update on ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/has-chatgpt-become-a-challenge-for-openai-to-keep-in-check-heres-why/"><u>Has ChatGPT Become a Challenge for OpenAI to Keep in Check? Here's Why</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-y77t-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo Y77t?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-windows-8-guide-to-powerful-movie-maker-editing-techniques/"><u>In 2024, The Windows 8 Guide to Powerful Movie Maker Editing Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-recent-patch-might-escalate-evening-tech-woes-experts-at-zdnet-caution/"><u>Microsoft's Recent Patch Might Escalate Evening Tech Woes, Experts at ZDNet Caution</u></a></li>
+<li><a href="https://app-tips.techidaily.com/raising-the-profile-of-it-in-cx-initiatives-strategies-for-success-a-deep-dive-by-zdnet/"><u>Raising the Profile of IT in CX Initiatives: Strategies for Success - A Deep Dive by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simplifying-systems-management-red-hats-strategic-use-of-ai-to-support-administrators-zdnet/"><u>Simplifying Systems Management: Red Hat's Strategic Use of AI to Support Administrators | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-chronological-order-to-experience-the-x-men-film-series/"><u>The Complete Chronological Order to Experience the X-Men Film Series</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-leading-iam-tools-as-ranked-by-industry-experts/"><u>The Ultimate Guide to Leading IAM Tools , as Ranked by Industry Experts</u></a></li>
 </ul></div>
 

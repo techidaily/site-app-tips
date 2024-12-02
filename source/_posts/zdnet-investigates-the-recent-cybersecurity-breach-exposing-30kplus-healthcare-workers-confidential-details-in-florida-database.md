@@ -1,7 +1,7 @@
 ---
 title: ZDNet Investigates the Recent Cybersecurity Breach Exposing 30K+ Healthcare Workers' Confidential Details in Florida Database
-date: 2024-11-16T21:09:47.143Z
-updated: 2024-11-24T09:48:27.825Z
+date: 2024-11-29T23:31:31.269Z
+updated: 2024-12-02T06:21:10.075Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ More than 30,000 US healthcare workers' personal information was recently expose
 Fowler [discovered](https://www.websiteplanet.com/blog/galeapp-leak-report/) a database run by Gale Healthcare Solutions with 170,239 exposed records that included names, emails, home addresses, photos and in some cases, Social Security Numbers as well as tax documents. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -100,18 +100,19 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-spectacular-visuals-the-power-of-tiktok-effects/"><u>[Updated] 2024 Approved Spectacular Visuals The Power of TikTok Effects</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-motion-analysis-report-2023/"><u>[Updated] Motion Analysis Report 2023</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-accelerate-engagement-quick-instagram-likes-and-videos-strategy/"><u>2024 Approved Accelerate Engagement Quick Instagram Likes and Videos Strategy</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-step-up-your-content-quality-with-these-8-mirrorless-cams/"><u>2024 Approved Step Up Your Content Quality with These 8 Mirrorless Cams</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-steps-to-transition-from-windows-to-linux-mint-for-optimized-performance-cnet/"><u>Complete Steps to Transition From Windows to Linux Mint for Optimized Performance | C|Net</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-oppo-reno-11f-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Oppo Reno 11F 5G</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-maximize-game-time-top-10-ps5-external-hddssd/"><u>In 2024, Maximize Game Time Top 10 PS5 External HDD/SSD</u></a></li>
-<li><a href="https://app-tips.techidaily.com/inside-linus-torvalds-tech-world-discussing-rust-in-linux-daily-routines-and-tips-for-the-ultrabook-a-deep-dive-by-zdnet/"><u>Inside Linus Torvalds' Tech World: Discussing Rust in Linux, Daily Routines & Tips for the Ultrabook - A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-building-an-excel-drop-down-menu-swiftly-and-simply-tips-from-zdnet/"><u>Step-by-Step Guide: Building an Excel Drop-Down Menu Swiftly & Simply - Tips From ZDNet</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-instructions-on-upgrading-your-flipbuilder-software-to-the-newest-release/"><u>Step-by-Step Instructions on Upgrading Your FlipBuilder Software to the Newest Release</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tackling-disorder-in-linux-and-open-source-manuals-unveiling-the-ultimate-fix-zdnet/"><u>Tackling Disorder in Linux & Open Source Manuals: Unveiling the Ultimate Fix | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-cloud-tech-vs-current-dominance-of-on-site-solutions-a-deep-dive-with-zdnet/"><u>The Rise of Cloud Tech Vs. Current Dominance of On-Site Solutions - A Deep Dive with ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-crm-platforms-of-2022-revealed-see-whos-leading-in-customer-engagement-zdnet/"><u>Top CRM Platforms of 2022 Revealed: See Who's Leading in Customer Engagement - ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-photomontage-effect-visual-synthesis-techniques/"><u>[New] 2024 Approved The Photomontage Effect Visual Synthesis Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-from-obscurity-to-popularity-facebooks-best-follower-growth-methods/"><u>2024 Approved From Obscurity to Popularity Facebook's Best Follower Growth Methods</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-keeping-your-content-in-the-spotlight-adhering-to-youtubes-cc-policy/"><u>2024 Approved Keeping Your Content in the Spotlight Adhering to YouTube's CC Policy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/crowdstrikes-cto-warns-of-generative-ai-risks-protecting-businesses-against-emerging-threats-zdnet/"><u>CrowdStrike's CTO Warns of Generative AI Risks: Protecting Businesses Against Emerging Threats | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/deciding-on-your-microsoft-account-type-during-windows-11-configuration-expert-advice-from-zdnet/"><u>Deciding on Your Microsoft Account Type During Windows 11 Configuration: Expert Advice From ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-a78-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Oppo A78 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-to-completely-erase-data-on-iphone-12-pro-to-avoid-privacy-leak-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Guide to Completely Erase Data on iPhone 12 Pro to Avoid Privacy Leak | Stellar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/noise-problem-solved-get-your-world-of-warcraft-game-sounds-back/"><u>Noise Problem Solved! Get Your World of Warcraft Game Sounds Back</u></a></li>
+<li><a href="https://facebook.techidaily.com/rethinking-the-use-of-negative-digital-tools/"><u>Rethinking the Use of Negative Digital Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-your-audio-files-and-playlists-into-mp3-format-on-pc/"><u>Step-by-Step Guide: Converting Your Audio Files and Playlists Into MP3 Format on PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-video-conference-tools-of-2022-comparing-leading-virtual-meeting-applications-insights-from-zdnet/"><u>Top Rated Video Conference Tools of 2022: Comparing Leading Virtual Meeting Applications - Insights From ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-13-mini-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone 13 mini? How to Fix</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11s-looming-crisis-just-one-year-left-for-microsoft-to-resolve-key-problems-says-zdnet-exclusive-report/"><u>Windows 11'S Looming Crisis: Just One Year Left for Microsoft to Resolve Key Problems, Says ZDNet Exclusive Report</u></a></li>
+<li><a href="https://app-tips.techidaily.com/your-windows-11-device-wont-be-supported-next-year-discover-five-essential-options-before-its-too-late-zdnet/"><u>Your Windows 11 Device Won't Be Supported Next Year. Discover Five Essential Options Before It's Too Late | ZDNET</u></a></li>
 </ul></div>
 

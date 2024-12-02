@@ -1,7 +1,7 @@
 ---
 title: "Leading the Charge: How Enterprise Architects Are Driving the Digital Transformation"
-date: 2024-10-08T17:24:16.083Z
-updated: 2024-10-11T17:27:39.900Z
+date: 2024-11-27T02:39:57.087Z
+updated: 2024-12-01T23:15:01.645Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,16 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,22 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-action-cameras-showdown-gopro-hero5-black-clashes-with-yi-4ks-latest/"><u>[New] 2024 Approved Action Cameras Showdown GoPro Hero5 Black Clashes with Yi 4K's Latest</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comparative-reviews-beyond-the-norms-of-sharex/"><u>[New] 2024 Approved Comparative Reviews Beyond the Norms of ShareX</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-guide-to-mp3-skype-recorder-record-skype-call-for-free/"><u>[New] The Ultimate Guide to MP3 Skype Recorder| Record Skype Call For Free</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-convert-and-store-webcam-footage-in-vlc-media/"><u>[Updated] 2024 Approved Convert & Store Webcam Footage in VLC Media</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-top-7-stardew-valley-enhancements-for-ultimate-farming-bliss/"><u>[Updated] 2024 Approved Top 7 Stardew Valley Enhancements for Ultimate Farming Bliss</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-secure-ways-to-break-into-apple-id-protected-devices-top-5-tools-ensuring-full-access-without-errors/"><u>Best Secure Ways to Break Into Apple ID-Protected Devices: Top 5 Tools Ensuring Full Access Without Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-your-tunes-a-detailed-walkthrough-for-pairing-several-bluetooth-speakers-with-a-single-device/"><u>Boosting Your Tunes: A Detailed Walkthrough for Pairing Several Bluetooth Speakers with a Single Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-how-to-modify-or-reset-your-apple-id-in-the-ios-cloud-service/"><u>Comprehensive Tutorial: How To Modify or Reset Your Apple ID in the iOS Cloud Service</u></a></li>
-<li><a href="https://app-tips.techidaily.com/connecting-icloud-and-windows-pc-a-comprehensive-tutorial-for-syncing-calendars/"><u>Connecting iCloud and Windows PC: A Comprehensive Tutorial for Syncing Calendars</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/how-to-do-transitions-on-inshot-video-editor/"><u>How to Do Transitions on Inshot Video Editor?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-honor-play-7t-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Honor Play 7T Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lost-something-in-your-icloud-storage-master-the-art-of-icloud-backup-data-retrieval/"><u>Lost Something in Your iCloud Storage? Master the Art of iCloud Backup Data Retrieval</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximize-your-network-proven-strategies-to-recover-contacts-from-icloud-without-compromise/"><u>Maximize Your Network: Proven Strategies to Recover Contacts From iCloud Without Compromise</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-guide-restoring-outlooks-network-functionality/"><u>Solution Guide: Restoring Outlook's Network Functionality</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-for-securing-your-whatsapp-data-with-icloud-backups/"><u>Step-by-Step Instructions for Securing Your WhatsApp Data with iCloud Backups</u></a></li>
-<li><a href="https://app-tips.techidaily.com/swift-solutions-for-disabling-iphone-activation-via-apples-icloud-service/"><u>Swift Solutions for Disabling iPhone Activation via Apple's iCloud Service</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-on-clearing-out-your-visual-memories-photosimages-from-icloud-storage/"><u>Ultimate Tutorial on Clearing Out Your Visual Memories (Photos/Images) From iCloud Storage</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hifting-paradigms-non-youtube-video-hosts/"><u>[New] Shifting Paradigms Non-Youtube Video Hosts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-pathway-to-personalizing-your-virtual-existence/"><u>2024 Approved The Pathway to Personalizing Your Virtual Existence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-data-collection-with-cookiebot-your-key-to-enhanced-seo/"><u>Automated Data Collection with Cookiebot: Your Key to Enhanced SEO</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/behind-microsofts-latest-edge-an-exclusive-look-at-the-revolutionary-ai-chip-set-to-outperform-apples-macbook/"><u>Behind Microsoft's Latest Edge: An Exclusive Look at the Revolutionary AI Chip Set to Outperform Apple's MacBook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creating-timely-alerts-a-step-by-step-guide-to-setting-up-slackbot-reminders/"><u>Creating Timely Alerts: A Step-by-Step Guide to Setting Up Slackbot Reminders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-citizen-devs-the-rising-influence-in-crafting-business-software-solutions-zdnet/"><u>Empowering Citizen Devs: The Rising Influence in Crafting Business Software Solutions | ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-8-by-drfone-ios/"><u>How to Unlock Verizon iPhone 8</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-12-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone 12 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-top-picks-premium-webcams-for-quality-podcasting/"><u>In 2024, Top Picks Premium Webcams for Quality Podcasting</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-transition-ahead-how-office-users-can-stay-connected-with-new-microsoft-365-services-in-the-coming-year-zdnet/"><u>Seamless Transition Ahead: How Office Users Can Stay Connected With New Microsoft 365 Services in the Coming Year | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-unveiling-of-microsofts-latest-innovation-a-game-changer-or-annoyance/"><u>The Unveiling of Microsoft's Latest Innovation - A Game Changer or Annoyance?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-security-alert-critical-vulnerability-found-and-patched-in-popular-curl-tool-for-linux-systems-read-the-full-story-on-zdnet/"><u>Urgent Security Alert: Critical Vulnerability Found & Patched in Popular Curl Tool for Linux Systems - Read the Full Story on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-why-it-departments-must-step-up-for-superior-customer-interactions/"><u>ZDNet Exclusive: Why IT Departments Must Step Up for Superior Customer Interactions</u></a></li>
 </ul></div>
 

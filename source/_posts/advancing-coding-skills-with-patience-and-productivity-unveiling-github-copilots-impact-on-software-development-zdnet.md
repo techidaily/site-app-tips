@@ -1,7 +1,7 @@
 ---
 title: "Advancing Coding Skills with Patience & Productivity: Unveiling GitHub Copilot's Impact on Software Development - ZDNet"
-date: 2024-10-29T16:26:30.739Z
-updated: 2024-11-04T17:09:52.094Z
+date: 2024-11-25T19:59:46.249Z
+updated: 2024-12-01T23:16:57.937Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,16 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,17 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-snapchat-gif-steps-for-every-user/"><u>[Updated] The Ultimate Snapchat GIF Steps for Every User</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-transforming-video-summaries-via-ideal-templates/"><u>2024 Approved Transforming Video Summaries via Ideal Templates</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-3ds-emulator-apps-top-picks-for-windows-mac-ios-and-android/"><u>Best Free 3DS Emulator Apps: Top Picks for Windows, Mac, iOS & Android</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/customize-your-own-gpt-explore-chatgpts-new-feature-for-tailored-ai-models/"><u>Customize Your Own GPT: Explore ChatGPT's New Feature for Tailored AI Models</u></a></li>
-<li><a href="https://app-tips.techidaily.com/endless-interruptions-a-complete-guide-to-stopping-unsolicited-calls-on-your-smartphone/"><u>Endless Interruptions: A Complete Guide to Stopping Unsolicited Calls on Your Smartphone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-perfecting-remote-conferences-with-focused-scopes/"><u>In 2024, Perfecting Remote Conferences with Focused Scopes</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/mp4imovie/"><u>MP4ファイル再生失敗：iMovieから書き出す方法とトラブルシューティング</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/seamless-skype-call-recordings-a-cross-platform-approach-for-2024/"><u>Seamless Skype Call Recordings A Cross-Platform Approach for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-rectify-microsoft-store-error-0x80072f30-on-pcs/"><u>Steps to Rectify Microsoft Store Error 0X80072F30 on PCs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-15-health-and-fitness-apps-compatible-with-apple-and-android-phones/"><u>Ultimate Selection of 15 Health and Fitness Apps Compatible with Apple & Android Phones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unraveling-the-mystery-of-the-bnsf-emulator-thorough-assessment-and-interpretation/"><u>Unraveling the Mystery of the BNSF Emulator: Thorough Assessment and Interpretation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-acquire-and-setup-windows-xp-movie-creator/"><u>[Updated] Acquire & Setup Windows XP Movie Creator</u></a></li>
+<li><a href="https://techtrends.techidaily.com/die-besten-programme-und-websites-zum-konvertieren-von-youtube-in-mp3-audio-dateien-vergleich-der-top-10-losungen/"><u>Die Besten Programme Und Websites Zum Konvertieren Von YouTube in MP3 Audio Dateien - Vergleich Der Top 10 Lösungen</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-instructions-on-how-to-exit-your-account-in-facebook-messenger/"><u>Easy Instructions on How to Exit Your Account in Facebook Messenger</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/find-the-perfect-sound-enhancement-top-notch-pc-audio-cards-of-2024-reviewed/"><u>Find the Perfect Sound Enhancement: Top-Notch PC Audio Cards of 2024 Reviewed</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-14-ultra-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi 14 Ultra FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-10t-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 10T 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-15-plus-5-ways-to-get-into-a-locked-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 15 Plus? 5 Ways to get into a Locked Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigational-aid-embracing-apple-maps-in-windows-systems/"><u>Navigational Aid: Embracing Apple Maps in Windows Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/speed-up-your-experience-top-three-methods-for-swiftly-moving-applications-from-older-iphone-to-newer-model/"><u>Speed Up Your Experience: Top Three Methods for Swiftly Moving Applications From Older iPhone to Newer Model</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-solution-effective-ways-to-repair-your-facebook-messaging-app-when-it-stops-working/"><u>Step-by-Step Solution: Effective Ways to Repair Your Facebook Messaging App When It Stops Working</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-18-most-popular-emoji-apps-for-iphones-and-android-phones/"><u>The Ultimate List of the 18 Most Popular Emoji Apps for iPhones and Android Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-audio-management-apps-compatible-with-pc-mac-ios-and-android-devices/"><u>Top 10 Audio Management Apps Compatible with PC, Mac, iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-android-app-locks-essential-guides-and-reviews/"><u>Top-Rated Android App Locks: Essential Guides and Reviews</u></a></li>
 </ul></div>
 

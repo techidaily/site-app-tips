@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Seamlessly Connecting Google Drive with Slack – Tips From ZDNet"
-date: 2024-10-09T04:42:18.590Z
-updated: 2024-10-11T20:32:43.498Z
+date: 2024-11-25T11:03:51.921Z
+updated: 2024-12-02T08:39:25.399Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,16 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-mastering-xbox-live-top-four-recording-techniques/"><u>[New] Mastering Xbox Live Top Four Recording Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unlocking-the-potential-of-ez-grabber/"><u>[New] Unlocking the Potential of EZ Grabber</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-creating-captivating-life-enriching-video-content/"><u>[Updated] 2024 Approved Creating Captivating Life-Enriching Video Content</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-lava-agni-2-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Lava Agni 2 5G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-a-leap-towards-realistic-integration/"><u>Bridging the Tech and Business Divide: A Leap Towards Realistic Integration</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experts-choice-peak-business-space-for-2024/"><u>Expert's Choice Peak Business Space for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/five-essential-strategies-for-your-windows-10-computer-as-microsoft-support-nears-its-end/"><u>Five Essential Strategies for Your Windows 10 Computer as Microsoft Support Nears Its End</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-15-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 15 Plus and iPad?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-reactivating-non-responsive-ctrl-in-windows-11/"><u>Mastering the Art of Reactivating Non-Responsive CTRL in Windows 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-journey-successful-strategies-for-upgrading-to-ubuntu-linux-2404-insights-from-zdnet/"><u>Navigating the Journey: Successful Strategies for Upgrading to Ubuntu Linux 24.04 - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-the-wild-expert-strategies-for-cleaner-linux-and-open-source-documentation/"><u>Taming the Wild: Expert Strategies for Cleaner Linux and Open Source Documentation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-maximize-impact-aspect-ratio-expertise-for-youtube-experts/"><u>[New] In 2024, Maximize Impact Aspect Ratio Expertise for YouTube Experts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-top-10-high-quality-photography-lenses/"><u>[New] In 2024, Top 10 High-Quality Photography Lenses</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-prototypical-360-rotation-camera-study/"><u>2024 Approved Prototypical 360° Rotation Camera Study</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-writing-game-on-microsoft-365-using-the-new-co-pilot-features-according-to-recent-zdnet-reviews/"><u>Elevate Your Writing Game on Microsoft 365 Using the New Co-Pilot Features, According to Recent ZDNet Reviews!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-tech-teams-amplifying-your-voice-in-the-realm-of-customer-experience-insights-from-zdnet/"><u>Empowering Tech Teams: Amplifying Your Voice in the Realm of Customer Experience - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ce-visibility-top-9-thumbnail-design-tools-for-creators-for-2024/"><u>Enhance Visibility Top 9 Thumbnail Design Tools for Creators for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-create-square-videos-to-gain-more-likes-on-facebook-for-2024/"><u>How to Create Square Videos to Gain More Likes on Facebook for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-slacks-new-functionality-a-step-by-step-tutorial-on-using-slack-connect-effectively/"><u>Mastering Slack's New Functionality - A Step-by-Step Tutorial on Using Slack Connect Effectively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/online-kunt-umpv-naar-aac-omzetten-gratis-dit-door-movavi-realiseerbaar/"><u>Online Kunt UMPV Naar AAC Omzetten Gratis - Dit Door Movavi Realiseerbaar!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/perfect-playlist-placement-techniques-for-youtube/"><u>Perfect Playlist Placement Techniques for YouTube</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rethinking-artificial-intelligence-insights-from-a-leading-ai-researcher-for-innovative-breakthroughs/"><u>Rethinking Artificial Intelligence: Insights From a Leading AI Researcher for Innovative Breakthroughs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/samsung-surpasses-apple-in-smartphone-shipments-while-rival-brand-closes-in-insights-by-zdnet/"><u>Samsung Surpasses Apple in Smartphone Shipments, While Rival Brand Closes In - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-pivotal-role-of-enterprise-architects-in-spearheading-digital-change-zdnet/"><u>The Pivotal Role of Enterprise Architects in Spearheading Digital Change | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ticking-clock-for-ms-how-microsoft-is-racing-against-time-to-fix-key-windows-10-challenges-by-zdnets-analysis/"><u>Ticking Clock for MS: How Microsoft Is Racing Against Time to Fix Key Windows 10 Challenges by ZDNet's Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranking-web-hosts-comprehensive-reviews-and-ratings-by-industry-experts-zdnet/"><u>Top-Ranking Web Hosts : Comprehensive Reviews and Ratings by Industry Experts | ZDNet</u></a></li>
 </ul></div>
 

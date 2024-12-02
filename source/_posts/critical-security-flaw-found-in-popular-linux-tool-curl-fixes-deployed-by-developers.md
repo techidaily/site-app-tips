@@ -1,7 +1,7 @@
 ---
 title: Critical Security Flaw Found in Popular Linux Tool Curl - Fixes Deployed by Developers
-date: 2024-11-17T05:10:43.136Z
-updated: 2024-11-23T18:41:55.371Z
+date: 2024-11-30T11:40:58.412Z
+updated: 2024-12-02T08:53:38.528Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-efficient-voice-tracking-techniques-on-ipad/"><u>[New] In 2024, Efficient Voice Tracking Techniques on iPad</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-reviews-on-top-6-hdmi-21-display-models/"><u>[Updated] Expert Reviews on Top 6 HDMI 2.1 Display Models</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bypass-the-login-viewing-instagram-pages-without-an-account/"><u>Bypass the Login: Viewing Instagram Pages Without an Account</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delving-into-disabling-gpgpu-task-prioritization-windows-wise/"><u>Delving Into Disabling GPGPU Task Prioritization Windows-Wise</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-singapores-small-businesses-with-genai-workforce-training-guide-insights-from-zdnet/"><u>Empowering Singapore's Small Businesses with GenAI Workforce Training Guide - Insights From ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/guidelines-per-il-backup-dei-dati-su-server-nas-con-il-software-piu-ottimo/"><u>Guidelines per Il Backup Dei Dati Su Server NAS Con Il Software Più Ottimo</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-prove-generative-ai-worth-in-your-business-understanding-roi-challenges-as-explained-by-zdnet/"><u>How to Prove Generative AI Worth in Your Business: Understanding ROI Challenges as Explained by ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-k11-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo K11 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-xs-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone XS in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://app-tips.techidaily.com/redesigning-interaction-how-generative-ai-is-shaping-the-future-of-user-interface-innovations-zdnet/"><u>Redesigning Interaction: How Generative AI Is Shaping the Future of User Interface Innovations | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/shifting-away-from-quick-fixes-to-pioneering-intellects-for-advancing-ai-says-renowned-banking-chief-zdnet/"><u>Shifting Away From Quick Fixes to Pioneering Intellects for Advancing AI, Says Renowned Banking Chief | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-complete-artificial-intelligence-journey-unfolds-direct-access-to-business-innovation-experts-zdnet-exploration/"><u>The Complete Artificial Intelligence Journey Unfolds - Direct Access to Business Innovation Experts | ZDNet Exploration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-role-of-a-chief-artificial-intelligence-officer-steps-to-achieve-the-position/"><u>The Role of a Chief Artificial Intelligence Officer – Steps to Achieve the Position</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-surge-of-edge-computing-devices-how-it-impacts-professional-growth-insights-from-zdnet/"><u>The Surge of Edge Computing Devices: How It Impacts Professional Growth - Insights From ZDNet</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ultimate-strategies-for-webinar-capture-with-minimal-effort-windows-mac/"><u>Ultimate Strategies for Webinar Capture with Minimal Effort (Windows, Mac)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-creativity-best-free-video-effects-apps-for-mobile-devices/"><u>Updated 2024 Approved Unleash Creativity Best Free Video Effects Apps for Mobile Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-visual-vibes-your-guide-to-kinemaster-memes/"><u>[New] 2024 Approved Visual Vibes Your Guide to KineMaster Memes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-impressive-display-innovations-top-10-mac-displays-of-the-year/"><u>[New] Impressive Display Innovations - Top 10 Mac Displays of the Year</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-constructive-approaches-to-defeating-digital-trolls/"><u>[New] In 2024, Constructive Approaches to Defeating Digital Trolls</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-youtube-studio-review-profits-and-payments/"><u>[New] In 2024, YouTube Studio Review Profits and Payments</u></a></li>
+<li><a href="https://app-tips.techidaily.com/chatgpt-insight-report-extensive-feature-list-and-strategies-for-handling-server-issues/"><u>ChatGPT Insight Report - Extensive Feature List & Strategies for Handling Server Issues</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-how-to-upgrade-your-communication-with-the-best-10-ai-chatbot-solutions/"><u>Discover How to Upgrade Your Communication with the Best 10 AI Chatbot Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discovering-the-most-engaging-and-intelligent-gpt-chatbot-on-the-market/"><u>Discovering The Most Engaging and Intelligent GPT Chatbot on the Market</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-obscure-to-owned-taking-control-of-your-username-in-windows-11/"><u>From Obscure to Owned: Taking Control of Your UserName in Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/insiders-guide-to-the-best-gpt-ai-chatbots-expert-analysis-and-review/"><u>Insider's Guide to the Best GPT AI Chatbots - Expert Analysis and Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reimagining-creation-in-the-crypto-world-a-guide-to-top-nft-generating-platforms/"><u>Reimagining Creation in the Crypto World - A Guide to Top NFT-Generating Platforms</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/solutions-for-short-lived-laptop-battery-life-expert-advice-from-yl-computing/"><u>Solutions for Short-Lived Laptop Battery Life: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y27s-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y27s</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-top-10-list-of-ai-powered-chatbots-for-enhanced-interaction/"><u>The Ultimate Top 10 List of AI-Powered Chatbots for Enhanced Interaction</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-top-6-itunes-visualizers-bring-your-music-to-life-with-stunning-animations/"><u>The Ultimate Top 6 iTunes Visualizers: Bring Your Music to Life with Stunning Animations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-reviews-of-gpt-based-chat-ais-what-you-need-to-discover/"><u>Top Reviews of GPT-Based Chat AIs: What You Need to Discover</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-of-ex-journeys-eva-ai-an-authoritative-chatbot-overview-you-need-to-read/"><u>Unlocking the Secrets of Ex Journey's EVA AI: An Authoritative Chatbot Overview You Need to Read</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-pros-and-cons-a-deep-dive-into-elevenlabs-ai-innovation/"><u>Unveiling the Pros and Cons: A Deep Dive Into ElevenLabs' AI Innovation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/windows-movie-maker-6-downloading-made-easy/"><u>Windows Movie Maker 6 Downloading Made Easy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zero-in-on-transparent-design-with-figmas-bg-removal/"><u>Zero In on Transparent Design with Figma's BG Removal</u></a></li>
 </ul></div>
 

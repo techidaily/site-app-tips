@@ -1,7 +1,7 @@
 ---
 title: "Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal"
-date: 2024-11-19T17:37:48.764Z
-updated: 2024-11-23T19:57:08.036Z
+date: 2024-12-01T02:34:31.925Z
+updated: 2024-12-01T18:53:23.797Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/0a9719ddcbae5c52ddb9477f8674bda6f7443fbaa
 The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it suffered a ransomware attack in July that led to the breach of sensitive employee and patient information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it
 [![2020-03-18-at-12-23-32-pm.jpg](https://www.zdnet.com/a/img/resize/3c34ebf72342b1f0704550e1e2edf445f0628572/2020/03/18/7c2e2258-7566-4e66-9059-a1a8aedf00b4/2020-03-18-at-12-23-32-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best security key While robust passwords help you secure your valuable online accounts, hardware-based two-factor authentication takes that security to the next level.  Read now](https://www.zdnet.com/article/best-security-key/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The breach involves the information of 750,000 patients and 522 current and former OAG employees. 
@@ -90,20 +90,17 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-gopro-footage/"><u>[Updated] Maximizing GoPro Footage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-teslas-electric-vehicle-charging-network-sets-new-us-benchmark-following-agreement-with-general-motors-and-ford-insights-for-zdnet/"><u>1. Tesla's Electric Vehicle Charging Network Sets New U.S. Benchmark Following Agreement with General Motors and Ford – Insights for ZDNet</u></a></li>
-<li><a href="https://win-docs.techidaily.com/best-seo-companies-in-amsterdam-comprehensive-ranking-guide-and-expert-service-comparisons/"><u>Best SEO Companies in Amsterdam: Comprehensive Ranking Guide & Expert Service Comparisons</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-top-5-ai-powered-video-creation-tools-based-on-images/"><u>Comprehensive Evaluation: Top 5 AI-Powered Video Creation Tools Based on Images</u></a></li>
-<li><a href="https://app-tips.techidaily.com/decoding-sora-by-openai-key-features-practical-applications-and-potential-restrictions/"><u>Decoding Sora by OpenAI: Key Features, Practical Applications, and Potential Restrictions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-leading-4-web-apps-to-eliminate-artificial-intelligence-branding-in-videos/"><u>Discover the Leading 4 Web Apps to Eliminate Artificial Intelligence Branding in Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-ai-video-stabilizers-of-2024-our-selection-of-top-6-online-and-offline-solutions/"><u>Discover the Ultimate AI Video Stabilizers of 2024: Our Selection of Top 6 Online and Offline Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-accelerated-speeds-with-crucials-p310-ssd-review-for-m2-2280-cards/"><u>Experience Accelerated Speeds with Crucial's P310 SSD Review for M.2 2280 Cards</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-insights-on-the-deep-lucas-video-generator-detailed-breakdown-of-functionalities-advantages-and-limitations/"><u>Expert Insights on the Deep Lucas Video Generator: Detailed Breakdown of Functionalities, Advantages and Limitations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-ai-highlight-creators-introduction-and-key-features-of-top-tools/"><u>Exploring AI Highlight Creators: Introduction & Key Features of Top Tools</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-a-fatal-unmountablebootvolume-bug-in-windows-10-easily/"><u>How to Repair a Fatal UNMOUNTABLE_BOOT_VOLUME Bug in Windows 10 Easily!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-capturing-screenshots-and-recording-your-desktop-on-windows/"><u>Ultimate Guide: Capturing Screenshots and Recording Your Desktop on Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-poco-c50-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-compreous-guide-to-recording-and-securing-periscope-videos/"><u>[Updated] A Compreous Guide to Recording & Securing Periscope Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-copyright-compliance-in-instagrams-musical-world-for-2024/"><u>[Updated] Mastering Copyright Compliance in Instagram's Musical World for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-choosing-a-premium-portable-vlog-camera-for-2024/"><u>[Updated] The Ultimate Guide to Choosing a Premium Portable Vlog Camera for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-money-savers-budget-priced-vr-devices-china/"><u>2024 Approved Money Savers Budget-Priced VR Devices (China)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expertly-selected-and-testing-ultimate-ranking-for-apple-watch-band-options/"><u>Expertly Selected & Testing: Ultimate Ranking for Apple Watch Band Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-anonymity-the-key-to-empowering-todays-remote-teams-zdnet/"><u>Harnessing Anonymity: The Key to Empowering Today’s Remote Teams | ZDNET</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-blend-photos-effortlessly-in-real-time/"><u>In 2024, Blend Photos Effortlessly in Real-Time</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-nokia-c12-plus-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Nokia C12 Plus</u></a></li>
+<li><a href="https://app-tips.techidaily.com/intro-to-coursera-levelsets-competency-evaluations-the-latest-update-explained-by-zdnet/"><u>Intro to Coursera LevelSets Competency Evaluations - The Latest Update Explained by ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/no-more-glitches-expert-advice-to-stop-rogue-company-from-freezing-on-your-computer/"><u>No More Glitches: Expert Advice to Stop Rogue Company From Freezing on Your Computer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-11-must-have-applications-and-services-for-windowsmac-users-insights-from-zdnet/"><u>Top 11 Must-Have Applications & Services for Windows/Mac Users - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transparency-in-tech-swiss-fed-government-goes-full-open-source-for-software-development/"><u>Transparency in Tech: Swiss Fed Government Goes Full Open Source for Software Development</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Boost Your Programming Speed Securely with Generative AI - Insights and Cautions From ZDNet
-date: 2024-11-01T16:47:47.825Z
-updated: 2024-11-04T17:06:39.376Z
+date: 2024-11-30T11:52:00.375Z
+updated: 2024-12-02T05:20:59.116Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,15 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-top-30-for-timeless-telephone-chimes/"><u>[New] The Top 30 for Timeless Telephone Chimes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-list-of-public-domain-picture-banks/"><u>[New] Ultimate List of Public Domain Picture Banks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-best-ipad-video-players-for-2n4-a-guide-to-downloading-reliable-solutions/"><u>Discover the Best iPad Video Players for 2N4: A Guide to Downloading Reliable Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-5-must-try-free-cellphone-locator-applications/"><u>Discover the Ultimate List of 5 Must-Try Free Cellphone Locator Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-list-of-top-10-mobile-backup-solutions-for-iphones-and-android-phones/"><u>Essential List of Top 10 Mobile Backup Solutions for iPhones and Android Phones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-expert-tips-for-spotifys-advertisers-for-2024/"><u>From Novice to Pro Expert Tips for Spotify's Advertisers for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-assessment-and-user-reviews-for-the-vizmato-software-suite/"><u>In-Depth Assessment & User Reviews for the Vizmato Software Suite</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/protective-phone-cases-with-screen-shields/"><u>Protective Phone Cases with Screen Shields</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-poco-c55-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Poco C55</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-iphone-n-charge-rates-with-esrs-new-qi2-magsafe-battery-chargers-the-ultimate-guide-to-faster-heat-free-power-using-cryoboost-technology-9/"><u>Revolutionize Your iPhone N Charge Rates with ESR's New Qi2 MagSafe Battery Chargers: The Ultimate Guide to Faster, Heat-Free Power Using CryoBoost Technology | GadgetInsight</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-editors-ally-smooth-operation-in-m1-with-top-tools/"><u>[New] The Editor's Ally Smooth Operation in M1 with Top Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-complete-examination-a-full-picture-of-bublcams-360-degree-scope-for-2024/"><u>[Updated] Complete Examination A Full Picture of Bublcam's 360-Degree Scope for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-depth-dive-perfecting-the-art-of-green-screen-with-kinemaster/"><u>[Updated] In-Depth Dive Perfecting the Art of Green Screen with Kinemaster</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-revolutionary-tactics-for-enhanced-roi-in-animated-facebook-advertising/"><u>[Updated] Revolutionary Tactics for Enhanced ROI in Animated Facebook Advertising</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-tackling-tricky-feed-issues-hidden-youtubefacebook-videos/"><u>[Updated] Tackling Tricky Feed Issues Hidden YouTube/Facebook Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/a-step-by-step-methodology-for-precisentic-google-meeting-arrangements/"><u>A Step-by-Step Methodology for Precisentic Google Meeting Arrangements</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advance-your-career-with-cutting-edge-tech-more-than-ai-at-the-forefront-lessons-from-zdnet/"><u>Advance Your Career with Cutting-Edge Tech: More Than AI at the Forefront | Lessons From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-artificebotics-how-modern-ai-experts-merge-innovation-with-business-acumen-to-shape-future-technologies/"><u>Beyond Artificebotics: How Modern AI Experts Merge Innovation with Business Acumen to Shape Future Technologies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-modern-career-exploration/"><u>ChatGPT's Role in Modern Career Exploration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-disparities-shape-our-progress-in-real-time-technology-breakthroughs-zdnet/"><u>How Disparities Shape Our Progress in Real-Time Technology Breakthroughs | ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-inconsistencies-in-artificial-intelligence-expert-analysis-on-reliability-issues-zdnet/"><u>Overcoming Inconsistencies in Artificial Intelligence: Expert Analysis on Reliability Issues | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tackling-the-accountability-gap-in-artificial-intelligence-development/"><u>Tackling the Accountability Gap in Artificial Intelligence Development</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-ai-watermarking-solutions-revealed-on-zdnet/"><u>The Definitive Guide to AI Watermarking Solutions - Revealed on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-work-how-ai-agents-define-the-new-era-and-transform-employment-landscape-permanently-insights-from-zdnet/"><u>The Future of Work: How AI Agents Define the New Era and Transform Employment Landscape Permanently - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unpacking-the-irony-of-automation-when-artificnial-intelligence-spurs-more-work-not-less-zdnet-insights/"><u>Unpacking the Irony of Automation: When Artificnial Intelligence Spurs More Work, Not Less | ZDNET Insights</u></a></li>
 </ul></div>
 

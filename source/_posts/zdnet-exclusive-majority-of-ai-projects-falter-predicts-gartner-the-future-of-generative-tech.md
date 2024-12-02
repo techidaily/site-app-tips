@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Majority of AI Projects Falter, Predicts Gartner | The Future of Generative Tech"
-date: 2024-10-05T01:35:08.001Z
-updated: 2024-10-12T01:41:04.506Z
+date: 2024-11-27T22:01:49.233Z
+updated: 2024-12-01T21:08:35.229Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-pushing-limits-with-4k-vision-lgs-monitor-the-31mu97-b-for-2024/"><u>[New] Pushing Limits with 4K Vision – LG's Monitor, the 31MU97-B for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-reclaim-the-loss-10-essential-iphone-x-techniques/"><u>[New] Reclaim The Loss 10 Essential iPhone X Techniques</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-art-of-digital-cinema-a-detailed-analysis-of-lgs-31mu97-b-monitor/"><u>[New] The Art of Digital Cinema - A Detailed Analysis of LG’s 31MU97-B Monitor</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-save-on-soccer-spectacles-live-tape-trim-for-free/"><u>2024 Approved Save on Soccer Spectacles - Live, Tape, Trim for Free</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-step-by-step-process-for-perfecting-screencast-video-quality/"><u>2024 Approved The Step-by-Step Process for Perfecting Screencast Video Quality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/6-powerful-strategies-to-create-stunning-microsoft-excel-charts/"><u>6 Powerful Strategies to Create Stunning Microsoft Excel Charts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-productivity-with-ubuntu-2204-a-top-choice-for-professional-linux-desktops-techadvice/"><u>Boost Your Productivity with Ubuntu 22.04 - A Top Choice for Professional Linux Desktops | TechAdvice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-the-future-the-latest-white-house-findings-support-open-source-artificial-intelligence-insights-from-zdnet/"><u>Embracing the Future: The Latest White House Findings Support Open-Source Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/error-resolved-overcoming-cannot-reach-live-server-settings-issues-easily/"><u>Error Resolved: Overcoming 'Cannot Reach Live Server Settings' Issues Easily</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-cto-forecasts-major-shifts-in-cloud-computing-strategies-insights-from-tech-leaders/"><u>Expert CTO Forecasts Major Shifts in Cloud Computing Strategies - Insights From Tech Leaders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-future-with-linus-insights-on-artificebotics-rust-programming-and-why-linux-is-crucial-zdnet/"><u>Exploring the Future with Linus: Insights on Artificebotics, Rust Programming, and Why Linux Is Crucial | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-design-thinking-bridges-the-gap-between-tech-professionals-and-enhanced-customer-experiences-insights-from-zdnet/"><u>How Design Thinking Bridges the Gap Between Tech Professionals and Enhanced Customer Experiences - Insights From ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-the-block-fixed-guide-for-fixing-stuck-on-loading-in-minecraft/"><u>Overcome the Block: Fixed Guide for Fixing 'Stuck on Loading' In Minecraft</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transitioning-from-windows-home-to-pro-tips-advantages-and-how-to-digital-insight-hub/"><u>Transitioning From Windows Home to Pro - Tips, Advantages & How-To | Digital Insight Hub</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-building-your-ideal-windows-11-vm-tutorial/"><u>Ultimate Guide: Building Your Ideal Windows 11 VM [Tutorial]</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-behind-the-scenes-with-viral-image-memes-and-stories/"><u>2024 Approved Behind the Scenes with Viral Image Memes & Stories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-capture-conserve-continue-a-guide-to-saving-snapchat-content/"><u>2024 Approved Capture, Conserve, Continue A Guide to Saving Snapchat Content</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-lightweight-ultrabook-microsoft-surface-laptop-go-review/"><u>Affordable, Lightweight Ultrabook - Microsoft Surface Laptop Go Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-mastery-without-coding-knowledge-tackling-intricate-systems-through-varied-education-strategies-zdnet/"><u>AI Mastery Without Coding Knowledge - Tackling Intricate Systems Through Varied Education Strategies | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-how-technological-advancements-contribute-to-staff-burnout-and-strategies-for-improvement-zdnet/"><u>Exploring How Technological Advancements Contribute to Staff Burnout and Strategies for Improvement | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-impact-of-cutting-edge-ai-on-present-technology-systems-discoveries-by-zdnet/"><u>Exploring the Impact of Cutting-Edge AI on Present Technology Systems - Discoveries by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-unexpected-how-ai-is-shaping-unprecedented-job-roles-and-their-mysterious-titles-zdnet-analysis/"><u>Exploring the Unexpected: How AI Is Shaping Unprecedented Job Roles and Their Mysterious Titles | ZDNET Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/full-range-locomotion-appraisal/"><u>Full Range Locomotion Appraisal</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-realme-11-proplus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Realme 11 Pro+ Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-a-comprehensive-overview-recording-saving-and-sharing-youtube-videos-for-free/"><u>In 2024, A Comprehensive Overview Recording, Saving & Sharing YouTube Videos for Free</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-double-the-joy-master-looping-of-youtube-media-on-televisions/"><u>In 2024, Double the Joy Master Looping of YouTube Media on Televisions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-techniques-to-avoid-blackout-issues-on-online-video-platform/"><u>In 2024, Techniques to Avoid Blackout Issues on Online Video Platform</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-brother-hl-228n-dot-printer-driver-compatible-for-windows-operating-systems-including-111087/"><u>Install Brother HL-228n DOT Printer Driver - Compatible for Windows Operating Systems Including 11/10/8/7</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-artificial-intelligence-a-threat-to-cybersecurity-employment-prospects/"><u>Is Artificial Intelligence a Threat to Cybersecurity Employment Prospects?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-start-with-core-business-insights/"><u>Mastering Tech Team Leadership: Start with Core Business Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-modern-hurdles-tackling-ambiguous-results-and-uncertain-precision-in-ai-expert-analysis-by-zdnet/"><u>Overcoming Modern Hurdles: Tackling Ambiguous Results and Uncertain Precision in AI | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-artificial-intelligence-data-as-the-key-element-strategies-to-complete-the-ai-jigsaw/"><u>Unlocking Artificial Intelligence: Data as the Key Element - Strategies to Complete the AI Jigsaw</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Rising Popularity: How OpenStack & Kata Containers Gain Renewed Interest - Insights From ZDNet"
-date: 2024-10-08T18:02:15.528Z
-updated: 2024-10-11T22:58:07.193Z
+date: 2024-11-30T06:47:33.676Z
+updated: 2024-12-01T21:09:13.399Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-enhance-post-impact-auto-adjusting-videos-for-instagram-on-mac/"><u>[New] Enhance Post Impact Auto-Adjusting Videos for Instagram on Mac</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-build-a-custom-facebook-coverage/"><u>[New] In 2024, Build a Custom Facebook Coverage</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-restore-windows-photo-viewer-quick-effective-ways-for-win10/"><u>[New] Restore Windows Photo Viewer Quick, Effective Ways for Win10</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-techniques-for-effortless-facebook-video-posting-pcandroid/"><u>[New] Techniques for Effortless Facebook Video Posting, PC/Android</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-top-6-cheapest-action-cameras-to-buy-under-100-for-2024/"><u>[New] Top 6 Cheapest Action Cameras to Buy Under $100 for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-how-adobes-enterprise-level-ai-feature-transforms-team-collaboration-insights-from-zdnet/"><u>1. How Adobe's Enterprise-Level AI Feature Transforms Team Collaboration: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-transforming-business-the-effects-of-decentralization-and-web3-on-corporations-insights-from-zdnet/"><u>1. Transforming Business: The Effects of Decentralization & Web3 on Corporations - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-game-changing-entrant-in-the-video-call-arena-outshines-microsoft-teams-and-zoom-with-lip-reading-capabilities-zdnet/"><u>A Game-Changing Entrant in the Video Call Arena Outshines Microsoft Teams and Zoom with Lip-Reading Capabilities | ZDNet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/best-no-cost-mp4-to-mp3-software-top-rated-tools-for-seamless-audio-conversion/"><u>Best No Cost MP4 to MP3 Software - Top Rated Tools for Seamless Audio Conversion</u></a></li>
-<li><a href="https://app-tips.techidaily.com/celona-secures-60m-in-funding-drives-enterprise-level-5g-innovation-tech-news/"><u>Celona Secures $60M in Funding, Drives Enterprise-Level 5G Innovation - Tech News</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cybersecurity-measures/"><u>Cybersecurity Measures</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-convert-your-dvd-collection-to-mkv-format-flawlessly/"><u>How to Convert Your DVD Collection to MKV Format Flawlessly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/inside-look-how-non-apple-companies-offer-more-enjoyable-work-experiences-confirms-ex-employee-zdnet/"><u>Inside Look: How Non-Apple Companies Offer More Enjoyable Work Experiences, Confirms Ex-Employee | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-your-path-in-technology-with-insights-from-an-industry-titan-the-inside-scoop-on-building-a-career-at-boeing-zdnet/"><u>Navigating Your Path in Technology with Insights From an Industry Titan - The Inside Scoop on Building a Career at Boeing [ZDNet]</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revitalize-your-reels-a-compreenas-guide-for-enhancer-22/"><u>Revitalize Your Reels A Compreenas Guide for Enhancer 2.2</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-gopro-video-editing-101-getting-started-with-quik-on-macbook-for-2024/"><u>Updated GoPro Video Editing 101 Getting Started with Quik on MacBook for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-abletons-precision-in-sound-reduction/"><u>[New] 2024 Approved Ableton's Precision in Sound Reduction</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-text-transformation-tricks-for-media/"><u>[New] Text Transformation Tricks for Media</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-elevate-videography-quality-top-7-sound-effects-pick/"><u>[Updated] In 2024, Elevate Videography Quality Top 7 Sound Effects Pick</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-survivors-guide-top-6-mc-house-plans/"><u>2024 Approved Survivor's Guide Top 6 MC House Plans</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/6kej5p6q5lin5zcm5pmc56m66lu45lik5zcm5q2l6yyv572u55qe5b6u5bcp5beu5yil/"><u>解析不同時空軸上同步錯置的微小差別</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-workflow-embrace-the-developer-mindset-for-unmatched-efficiency-zdnet/"><u>Boost Your Workflow: Embrace the Developer Mindset for Unmatched Efficiency | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-premier-5-rdp-solutions-for-telecommuting-as-featured-by-zdnet/"><u>Discover the Premier 5 RDP Solutions for Telecommuting , as Featured by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-essential-strategies-for-maximizing-your-windows-10-experience-pre-end-of-support-insights-from-zdnet/"><u>Five Essential Strategies for Maximizing Your Windows 10 Experience Pre-End of Support - Insights From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-oppo-find-n3-flip-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Oppo Find N3 Flip</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-maximizing-b-roll-effective-techniques-for-enhancing-videos/"><u>In 2024, Maximizing B-Roll Effective Techniques for Enhancing Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-guide-10-prime-video-communication-apps-on-smartphones/"><u>In 2024, Ultimate Guide 10 Prime Video Communication Apps on Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-delayed-delivery-features-into-mozilla-thunderbird-a-comprehensive-guide/"><u>Integrating Delayed Delivery Features Into Mozilla Thunderbird: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/latest-breakthroughs-in-5g-networking-and-edge-tech-trends-top-picks-from-todays-market-zdnet/"><u>Latest Breakthroughs in 5G Networking & Edge Tech Trends: Top Picks From Today's Market (ZDNet)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-7-compelling-advantages-of-implementing-aiops-in-your-it-strategy/"><u>The Definitive Guide to 7 Compelling Advantages of Implementing AIOps in Your IT Strategy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-ai-ventures-skyrocket-by-a-factor-of-ten-in-the-last-year-industry-report/"><u>ZDNet Reveals AI Ventures Skyrocket by a Factor of Ten in the Last Year - Industry Report</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726219476854-wavmp3-movavi/"><u>オンラインでも簡単な無料WAVファイルをMP3に変換 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Design Thinking for Closer Alignment of IT Experts with User-Centric Solutions: A ZDNet Perspective"
-date: 2024-09-27T18:50:16.541Z
-updated: 2024-10-01T05:57:12.049Z
+date: 2024-11-29T13:01:26.742Z
+updated: 2024-12-01T21:56:18.969Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/xclusive-guide-to-the-best-7-android-browsers-ad-free-for-2024/"><u>[New] Exclusive Guide to the Best 7 Android Browsers, Ad-Free for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-fixing-invisible-areas-within-youtube-videos/"><u>[Updated] Fixing Invisible Areas Within YouTube Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-artificial-intelligence-create-an-engaging-radio-experience-for-modern-audiences/"><u>Can Artificial Intelligence Create an Engaging Radio Experience for Modern Audiences?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-chatgpt-functionality-a-guide-to-browsers-and-the-added-advantage-of-plugins/"><u>Enhancing ChatGPT Functionality - A Guide to Browsers and the Added Advantage of Plugins</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/finding-the-ideal-format-for-your-youtube-videos/"><u>Finding the Ideal Format for Your YouTube Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-streamlined-regulations-are-boosting-aseans-path-to-a-2t-digital-economy-by-2030-featured-on-zdnet/"><u>How Streamlined Regulations Are Boosting ASEAN's Path to a $2T Digital Economy by 2030, Featured on ZDNET</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Oppo Find X6 Phone Without Password?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-in-depth-insights-on-preserving-ps4-gaming-history/"><u>In 2024, In-Depth Insights on Preserving PS4 Gaming History</u></a></li>
-<li><a href="https://app-tips.techidaily.com/innovating-for-sustainability-ais-role-in-developing-next-gen-green-smart-appliances-exclusive-report/"><u>Innovating for Sustainability: AI's Role in Developing Next-Gen Green Smart Appliances | Exclusive Report</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-logitech-mouse-control-software-g-series-g602-driver-download-for-pcs-and-laptops/"><u>Install Logitech Mouse Control Software: G Series G602 Driver Download for PCs and Laptops</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-gpt-for-modern-cognitive-behavioral-strategies/"><u>Leveraging GPT for Modern Cognitive Behavioral Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-hurdles-of-uncertainty-in-ai-efficiency-and-precision-insights-from-zdnet/"><u>Navigating the Hurdles of Uncertainty in AI Efficiency & Precision - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-why-your-ipad-refuses-to-print/"><u>Troubleshooting: Why Your iPad Refuses to Print</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-photography-tips-for-seamless-instagram-posting/"><u>[New] 2024 Approved Photography Tips for Seamless Instagram Posting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-5-psone-emulators-perfect-play-on-your-pc-for-2024/"><u>[New] Top 5 PsOne Emulators Perfect Play on Your PC for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-zenful-grooves-top-20-tranquil-country-beats-for-stress-free-dancing-tiktok/"><u>[Updated] 2024 Approved Zenful Grooves Top 20 Tranquil Country Beats for Stress-Free Dancing (TikTok)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-backward-playmanship-a-guide-to-reversed-youtube-videos-for-2024/"><u>[Updated] Backward Playmanship A Guide to Reversed YouTube Videos for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-how-adobes-enterprise-level-ai-feature-transforms-team-collaboration-insights-from-zdnet/"><u>1. How Adobe's Enterprise-Level AI Feature Transforms Team Collaboration: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-transforming-business-the-effects-of-decentralization-and-web3-on-corporations-insights-from-zdnet/"><u>1. Transforming Business: The Effects of Decentralization & Web3 on Corporations - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/agnes-ro-reveals-the-transformation-in-modern-development-roles-at-atlassian-insights-from-tech-visionary/"><u>Agnes Ro Reveals the Transformation in Modern Development Roles at Atlassian - Insights From Tech Visionary</u></a></li>
+<li><a href="https://app-tips.techidaily.com/celona-secures-60m-in-funding-drives-enterprise-level-5g-innovation-tech-news/"><u>Celona Secures $60M in Funding, Drives Enterprise-Level 5G Innovation - Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-deadline-approaching-for-microsofts-windows-11-issues-only-a-year-remains-to-fix-them/"><u>Critical Deadline Approaching for Microsoft's Windows 11 Issues – Only a Year Remains to Fix Them!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybersecurity-measures/"><u>Cybersecurity Measures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/declutter-your-mailbox-instantly-one-trick-for-cleaner-communications-zdnet-insights/"><u>Declutter Your Mailbox Instantly - One Trick for Cleaner Communications | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-new-frontiers-in-coding-efficiency-the-impact-of-github-copilot-as-revealed-by-zdnet/"><u>Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-designs-in-syma-x8c/"><u>Innovative Designs in Syma X8C</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-how-non-apple-companies-offer-more-enjoyable-work-experiences-confirms-ex-employee-zdnet/"><u>Inside Look: How Non-Apple Companies Offer More Enjoyable Work Experiences, Confirms Ex-Employee | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-your-path-in-technology-with-insights-from-an-industry-titan-the-inside-scoop-on-building-a-career-at-boeing-zdnet/"><u>Navigating Your Path in Technology with Insights From an Industry Titan - The Inside Scoop on Building a Career at Boeing [ZDNet]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/recording-winning-calls-a-complete-guide-free-vs-paid-for-windows-and-mac-users-for-2024/"><u>Recording Winning Calls A Complete Guide (Free vs Paid) for Windows & Mac Users for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-making-your-dysfunctional-samsung-soundbar-function-again/"><u>Step-by-Step Solution: Making Your Dysfunctional Samsung Soundbar Function Again</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-truth-behind-the-hype-asus-expertbook-b3s-performance-gaps-critically-reviewed-by-zdnet/"><u>Unveiling the Truth Behind the Hype: ASUS ExpertBook B3's Performance Gaps Critically Reviewed by ZDNet</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-8-free-online-video-stabilization-tools-for-smoother-footage/"><u>Updated In 2024, Top 8 Free Online Video Stabilization Tools for Smoother Footage</u></a></li>
 </ul></div>
 

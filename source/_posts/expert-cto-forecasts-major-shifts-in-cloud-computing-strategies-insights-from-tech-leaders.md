@@ -1,7 +1,7 @@
 ---
 title: Expert CTO Forecasts Major Shifts in Cloud Computing Strategies - Insights From Tech Leaders
-date: 2024-10-05T00:38:18.893Z
-updated: 2024-10-11T19:57:51.243Z
+date: 2024-11-26T22:14:38.370Z
+updated: 2024-12-02T00:58:19.685Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,16 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-telegram-promotion-techniques-for-marketing-beginners/"><u>[New] Telegram Promotion Techniques For Marketing Beginners</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies/"><u>[Updated] In 2024, How To Make Your Videos a YouTube Hit Top Tips and Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-technology-at-wwdc-2022-zdnets-exclusive-coverage/"><u>Apple Unveils Revolutionary Passkey Technology at WWDC 2022 - ZDNet's Exclusive Coverage</u></a></li>
-<li><a href="https://win-forum.techidaily.com/boost-your-pcs-performance-free-up-drive-space-in-windows-11-quickly-with-revouninstaller/"><u>Boost Your PC's Performance - Free Up Drive Space in Windows 11 Quickly With RevoUninstaller</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cryptocom-executive-addresses-user-concerns-following-major-31m-security-breach-insights-from-zdnet/"><u>Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/einfache-reset-anleitung-vmware-esxi-root-password-ohne-neukonfiguration-wiederherstellen/"><u>Einfache Reset-Anleitung: VMware ESXi Root Password Ohne Neukonfiguration Wiederherstellen</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a23-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A23 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-youtubes-shorts-fund-aims-to-revolutionize-content-creation-for-2024/"><u>How YouTube's Shorts Fund Aims to Revolutionize Content Creation for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/huge-black-friday-blowout-get-nordpass-premium-at-half-price-secure-your-passwords-now/"><u>Huge Black Friday Blowout! Get NordPass Premium at Half Price - Secure Your Passwords Now!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-wallets-1password-joins-forces-with-brex-to-simplify-secure-transactions-according-to-zdnet-coverage/"><u>Revolutionizing Digital Wallets: 1Password Joins Forces with Brex to Simplify Secure Transactions, According to ZDNet Coverage</u></a></li>
-<li><a href="https://common-error.techidaily.com/unexplained-restarts-on-windows-10-pcs/"><u>Unexplained Restarts on Windows 10 PCs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-webcam-recording-made-simple-for-laptops-and-chromebooks/"><u>[New] 2024 Approved Webcam Recording Made Simple for Laptops & Chromebooks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-pinnacle-devices-best-cars-surveillance-tech/"><u>[New] In 2024, Pinnacle Devices Best Cars Surveillance Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-online-jest-builder/"><u>[New] Online Jest Builder</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-from-vlogs-to-viral-jake-pauls-online-empire-expansion/"><u>[Updated] In 2024, From Vlogs to Viral Jake Paul’s Online Empire Expansion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-best-5-programs-for-snagging-facebook-feeds-for-2024/"><u>[Updated] The Best 5 Programs for Snagging Facebook Feeds for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-infinix-note-30-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-download-and-install-the-latest-steelseries-device-drivers-for-windows-computers/"><u>Find, Download, and Install the Latest SteelSeries Device Drivers for Windows Computers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/github-versus-gitlab-showdown-determining-the-best-fit-for-your-dev-needs-insights-from-zdnet/"><u>GitHub versus GitLab Showdown: Determining the Best Fit for Your Dev Needs, Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-a-managers-frustration-with-team-slack-usage-led-to-unforeseen-consequences-a-zdnet-analysis/"><u>How a Manager's Frustration with Team Slack Usage Led to Unforeseen Consequences - A ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-expert-insights-suggest-ai-is-key-to-securing-our-digital-future-zdnet/"><u>How Expert Insights Suggest AI Is Key to Securing Our Digital Future - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/jiri-voblizka-founder-crystal-microphone-for-his-contribution-to-czech-culture-by-radio-prague/"><u>Jiří Vobližka (Founder) – Crystal Microphone for His Contribution to Czech Culture by Radio Prague</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-curiosity-in-ai-reveals-a-need-for-greater-transparency-insights-from-zdnet/"><u>Rising Curiosity in AI Reveals a Need for Greater Transparency - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-mozilla-firefox-saved-login-credentials-setting-up-a-master-password/"><u>Securing Mozilla Firefox Saved Login Credentials: Setting up a Master Password</u></a></li>
+<li><a href="https://app-tips.techidaily.com/speeding-up-generative-ai-how-nvidias-latest-nims-revolutionize-computing-efficiency-insights-from-zdnet/"><u>Speeding Up Generative AI: How Nvidia's Latest 'NIMs' Revolutionize Computing Efficiency | Insights From ZDNET</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/streamlining-youtube-content-onto-insta-feed/"><u>Streamlining YouTube Content Onto Insta Feed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-call-for-clarity-how-ais-popular-surge-highlights-the-demand-for-openness-by-zdnet/"><u>The Call for Clarity: How AI's Popular Surge Highlights the Demand for Openness by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-ultimate-faceoff-microsoft-teams-zoom-and-the-game-changer-in-lip-reading-tech/"><u>Unveiling the Ultimate Faceoff: Microsoft Teams, Zoom & The Game-Changer in Lip Reading Tech</u></a></li>
 </ul></div>
 

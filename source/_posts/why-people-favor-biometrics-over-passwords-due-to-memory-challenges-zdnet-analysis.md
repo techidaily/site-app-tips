@@ -1,7 +1,7 @@
 ---
 title: Why People Favor Biometrics Over Passwords Due to Memory Challenges | ZDNet Analysis
-date: 2024-11-20T17:44:19.563Z
-updated: 2024-11-23T17:52:15.271Z
+date: 2024-11-28T07:34:38.102Z
+updated: 2024-12-02T12:31:05.847Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,20 +99,20 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-ultimate-camera-showdown-top-camcorders-reviewed/"><u>[New] In 2024, The Ultimate Camera Showdown Top Camcorders Reviewed</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-mystery-reader-fb-narratives-explorer/"><u>[New] Mystery Reader FB Narratives Explorer</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-ultra-hd-playback-best-ps5-and-hdmi-21-compatible-monitors/"><u>[New] Ultra HD Playback Best PS5 & HDMI 2.1 Compatible Monitors</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-money-matters-finns-financial-framework/"><u>[Updated] In 2024, Money Matters Finn's Financial Framework</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-list-of-text-tools-and-plugins/"><u>2024 Approved Ultimate List of Text Tools & Plugins</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-15-android-compatible-free-messaging-apps-a-comprehensive-guide/"><u>Best 15 Android-Compatible Free Messaging Apps: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-sms-automation-tools-top-10-applications-for-android-and-ios-devices/"><u>Best SMS Automation Tools: Top 10 Applications for Android & iOS Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-spending-learn-how-to-navigate-and-utilize-apple-pay-on-the-apple-watch/"><u>Effortless Spending: Learn How to Navigate and Utilize Apple Pay on the Apple Watch</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-direct-to-fans-or-mass-market-twitch-vs-youtube-explored/"><u>In 2024, Direct-to-Fans or Mass-Market? Twitch Vs YouTube Explored</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-gt-neo-5-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme GT Neo 5 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-ranking-of-the-top-messaging-applications-on-iphone-and-android-phones/"><u>The Ultimate Ranking of the Top Messaging Applications on iPhone and Android Phones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-mobile-app-the-ultimate-video-editing-tool-for-android-users/"><u>Top-Rated Mobile App: The Ultimate Video Editing Tool for Android Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-the-non-functioning-facebook-messenger-application/"><u>Troubleshooting Guide: Resolving Issues with the Non-Functioning Facebook Messenger Application</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/velvet-vaults-2022-olympic-skaters-for-2024/"><u>Velvet Vaults 2022 Olympic Skaters for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-quick-tips-making-high-quality-recordings-on-iphone-for-2024/"><u>[New] Quick Tips Making High-Quality Recordings on iPhone for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-decoding-virtual-realm-must-know-phrases-for-2024/"><u>[Updated] Decoding Virtual Realm Must-Know Phrases for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-how-adobes-enterprise-level-ai-feature-transforms-team-collaboration-insights-from-zdnet/"><u>1. How Adobe's Enterprise-Level AI Feature Transforms Team Collaboration: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-transforming-business-the-effects-of-decentralization-and-web3-on-corporations-insights-from-zdnet/"><u>1. Transforming Business: The Effects of Decentralization & Web3 on Corporations - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-boosting-youtube-traffic-outsmarting-automated-viewers/"><u>2024 Approved Boosting YouTube Traffic Outsmarting Automated Viewers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/agnes-ro-reveals-the-transformation-in-modern-development-roles-at-atlassian-insights-from-tech-visionary/"><u>Agnes Ro Reveals the Transformation in Modern Development Roles at Atlassian - Insights From Tech Visionary</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/are-there-issues-with-playstation-network-or-could-the-problem-be-on-your-end/"><u>Are There Issues with PlayStation Network, or Could the Problem Be on Your End?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-streamlining-gdpr-compliance-and-user-tracking/"><u>Cookiebot: Streamlining GDPR Compliance and User Tracking</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-deadline-approaching-for-microsofts-windows-11-issues-only-a-year-remains-to-fix-them/"><u>Critical Deadline Approaching for Microsoft's Windows 11 Issues – Only a Year Remains to Fix Them!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-new-frontiers-in-coding-efficiency-the-impact-of-github-copilot-as-revealed-by-zdnet/"><u>Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-machine-learning-is-revolutionizing-game-production-and-transforming-player-experiences-in-the-video-games-sector/"><u>How Machine Learning Is Revolutionizing Game Production and Transforming Player Experiences in the Video Games Sector</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-capture-screens-in-windows-8-4-methods/"><u>In 2024, Capture Screens in Windows 8 4 Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-motorola-moto-g23-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Motorola Moto G23 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-how-non-apple-companies-offer-more-enjoyable-work-experiences-confirms-ex-employee-zdnet/"><u>Inside Look: How Non-Apple Companies Offer More Enjoyable Work Experiences, Confirms Ex-Employee | ZDNET</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Review: Unveiling the Latest in Computer Components</u></a></li>
 </ul></div>
 

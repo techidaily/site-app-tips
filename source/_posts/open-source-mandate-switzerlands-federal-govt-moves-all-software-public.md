@@ -1,7 +1,7 @@
 ---
 title: "Open-Source Mandate: Switzerland's Federal Govt. Moves All Software Public"
-date: 2024-11-11T19:39:19.149Z
-updated: 2024-11-13T18:36:49.588Z
+date: 2024-11-26T00:35:45.823Z
+updated: 2024-12-02T00:48:43.716Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,15 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-a-comprehensive-list-of-top-10-video-communication-apps/"><u>[New] In 2024, A Comprehensive List of Top 10 Video Communication Apps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-editing-magic-transformative-strategies-for-youtube-creators/"><u>[Updated] 2024 Approved Editing Magic Transformative Strategies for YouTube Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chrome-plug-ins-for-productivity-the-best-8-ai-tools/"><u>Chrome Plug-Ins for Productivity: The Best 8 AI Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/getting-started-with-itunes-on-windows-operating-systems-a-step-by-step-guide/"><u>Getting Started with iTunes on Windows Operating Systems: A Step-by-Step Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/guidelines-to-end-lenovo-visual-pulse/"><u>Guidelines to End Lenovo Visual Pulse</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-iphones-potential-for-detailed-photography-for-2024/"><u>Harnessing iPhone's Potential for Detailed Photography for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-fix-it-when-your-iphone-is-not-detected-by-itunes/"><u>How to Fix It when Your iPhone Is Not Detected by iTunes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-htc-u23-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on HTC U23</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ipod-add-on-tutorial-placing-tracks-without-using-itunes-aiseesofts-approach/"><u>IPod Add-On Tutorial: Placing Tracks Without Using iTunes (Aiseesoft's Approach)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/no-more-itunes-required-master-the-art-of-seamless-ipod-management-using-modern-alternatives/"><u>No More iTunes Required: Master the Art of Seamless iPod Management Using Modern Alternatives</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-worlds-richest-content-creator-on-youtube/"><u>[Updated] 2024 Approved World's Richest Content Creator on YouTube</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192575-best-6-exceptional-contact-widget-apps-for-android-ranked/"><u>Best 6 Exceptional Contact Widget Apps for Android - Ranked</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-and-assessment-unveiling-the-power-of-vllo-video-editor/"><u>Comprehensive Analysis & Assessment: Unveiling the Power of VLLO Video Editor</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194339-discover-the-top-15-no-cost-texting-solutions-for-your-android-device/"><u>Discover the Top 15 No-Cost Texting Solutions for Your Android Device!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-advanced-concepts-in-googles-mobile-device-management-mdm-and-its-future-capabilities-a-comprehensive-guide/"><u>Explore Advanced Concepts in Google's Mobile Device Management (MDM) and Its Future Capabilities – A Comprehensive Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/focus-frameworks-key-tools-to-brighten-videos/"><u>Focus Frameworks Key Tools to Brighten Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-hooked-on-these-6-non-monetary-gaming-treasures/"><u>Get Hooked on These 6 Non-Monetary Gaming Treasures</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-visual-vault-techniques-for-capturing-tweets-animated-content/"><u>In 2024, The Visual Vault Techniques for Capturing Tweets’ Animated Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-insights-on-electronics-toms-devices-explored/"><u>Inside Insights on Electronics - Tom's Devices Explored</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-game-console-emulators-for-superior-imagery-and-performance-top-picks-for-gamers/"><u>Leading Game Console Emulators for Superior Imagery & Performance: Top Picks for Gamers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/e-streaming-hierarchy-who-rises-above-vimeo-or-giants-like-youtubes-and-dailymotions-for-2024/"><u>Online Streaming Hierarchy Who Rises Above – Vimeo or Giants Like YouTubes and DailyMotions for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/perfect-intel-windows-drivers-timing-and-techniques/"><u>Perfect Intel Windows Drivers: Timing and Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/streamlining-the-process-of-managing-your-apple-devices-photograph-collection-overcoming-obstacles-and-finding-answers/"><u>Streamlining the Process of Managing Your Apple Device's Photograph Collection: Overcoming Obstacles and Finding Answers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-8-exceptional-multitasking-applications-for-your-android-device/"><u>Top 8 Exceptional Multitasking Applications for Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-top-rated-mobile-phone-video-editing-software-with-kinemaster-features/"><u>Ultimate Guide: Top Rated Mobile Phone Video Editing Software with KineMaster Features</u></a></li>
 </ul></div>
 

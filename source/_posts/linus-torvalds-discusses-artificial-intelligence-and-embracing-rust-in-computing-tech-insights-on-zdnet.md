@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses Artificial Intelligence & Embracing Rust in Computing | Tech Insights on ZDNet
-date: 2024-11-18T05:58:59.487Z
-updated: 2024-11-24T08:07:48.788Z
+date: 2024-11-28T12:21:35.783Z
+updated: 2024-12-02T03:17:40.438Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-utilizing-skys-bounty-to-brighten-indoors/"><u>2024 Approved Utilizing Sky's Bounty to Brighten Indoors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-points-exploring-how-generative-artificial-intelligence-is-revolutionizing-user-interface-design-featured-on-zdnet/"><u>Beyond Clicks & Points: Exploring How Generative Artificial Intelligence Is Revolutionizing User Interface Design | Featured on ZDNET</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/blueprints-for-the-ultimate-home-studio-a-4k-editing-powerhouse-for-2024/"><u>Blueprints for the Ultimate Home Studio A 4K Editing Powerhouse for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-am08-pro-assert-its-authenticity-in-magic-gaming/"><u>Can AM08 Pro Assert Its Authenticity in Magic Gaming?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-guide-pathways-to-becoming-an-ai-leadership-executive-in-tech-companies/"><u>Essential Guide: Pathways to Becoming an AI Leadership Executive in Tech Companies</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-realme-gt-5-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Realme GT 5.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-web-hosting-providers-in-depth-analysis-by-professionals-pcmag/"><u>Leading Web Hosting Providers : In-Depth Analysis by Professionals | PCMag</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/one-finger-technique-revealed-expanding-your-view-on-google-maps-made-easy/"><u>One-Finger Technique Revealed: Expanding Your View on Google Maps Made Easy!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/superior-internet-audio-devices-reviewed-and-ranked-2023-for-2024/"><u>Superior Internet Audio Devices Reviewed & Ranked 2023 for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-growth-of-edge-devices-and-its-impact-on-job-prospects-an-exploration-by-zdnet/"><u>The Growth of Edge Devices and Its Impact on Job Prospects - An Exploration by ZDNet</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/en-up-your-timeline-youtube-video-trimming-techniques-for-2024/"><u>Tighten Up Your Timeline YouTube Video Trimming Techniques for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/uplifting-information-and-communication-technology-singapores-24b-allocation-detailed-zdnet-analysis/"><u>Uplifting Information and Communication Technology: Singapore's $2.4B Allocation Detailed | ZDNet Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-digital-domination-rise-from-thousands-to-a-million-on-youtube-for-2024/"><u>[New] Digital Domination Rise From Thousands to a Million on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-analyzing-t-series-revenue-generation-on-youtube-channels-for-2024/"><u>[Updated] Analyzing T-Series' Revenue Generation on Youtube Channels for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/fix-your-whatsapp-problems-with-our-expert-assistance-step-by-step-guide/"><u>Fix Your WhatsApp Problems with Our Expert Assistance - Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-bluetooth-up-and-running-on-windows-11-troubleshooting-steps-for-a-seamless-connection/"><u>Get Bluetooth Up and Running on Windows 11: Troubleshooting Steps for a Seamless Connection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-enable-and-use-whatsapp-securely-with-alternative-identifiers-instead-of-your-phone-number/"><u>How to Enable and Use WhatsApp Securely with Alternative Identifiers Instead of Your Phone Number</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-xiaomi-redmi-note-12t-pro-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Xiaomi Redmi Note 12T Pro Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-essential-10-games-comparable-to-grand-theft-auto-v/"><u>In 2024, Essential 10 Games Comparable to Grand Theft Auto V</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Xiaomi Redmi Note 13 5G?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/irrevocable-deletion-of-whatsapp-on-iphones-a-comprehensive-tutorial/"><u>Irrevocable Deletion of WhatsApp on iPhones: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-blog.techidaily.com/is-your-nas-at-risk-with-the-new-windows-11-kb5006832-cumulative-update/"><u>Is Your NAS at Risk with the New Windows 11 KB5006832 Cumulative Update?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preserve-your-whatsapp-images-flawlessly-top-3-methods-for-saving-photos-across-ios-and-android-without-quality-compromise/"><u>Preserve Your WhatsApp Images Flawlessly: Top 3 Methods for Saving Photos Across iOS & Android Without Quality Compromise</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-nokia-g42-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Nokia G42 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-for-enabling-and-performing-a-whatsapp-backup-to-icloud/"><u>The Ultimate Tutorial for Enabling and Performing a WhatsApp Backup to iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-high-quality-whatsapp-video-converter-tools-you-need/"><u>Top 5 High-Quality WhatsApp Video Converter Tools You Need</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-strategies-sending-oversized-videos-with-ease-from-an-iphone-using-whatsapp/"><u>Top Strategies: Sending Oversized Videos with Ease From an iPhone Using WhatsApp</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveiling-the-ultimate-strategy-to-record-your-favorite-streamed-series-hulu/"><u>Unveiling the Ultimate Strategy to Record Your Favorite Streamed Series (Hulu)</u></a></li>
 </ul></div>
 

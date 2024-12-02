@@ -1,7 +1,7 @@
 ---
 title: "How Do Firms Grapple with Harnessing Generative AI: Insights From a New Deloitte Study Highlights Challenges - Featured on ZDNet"
-date: 2024-11-19T00:45:19.525Z
-updated: 2024-11-24T00:40:32.841Z
+date: 2024-11-29T19:44:25.953Z
+updated: 2024-12-01T18:58:30.271Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-ultimate-online-collaboration-conjurer-for-2024/"><u>[New] Ultimate Online Collaboration Conjurer for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-complete-breakdown-enhancing-your-experience-with-advanced-mobizen-techniques/"><u>[Updated] In 2024, Complete Breakdown Enhancing Your Experience with Advanced Mobizen Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advancing-c-suite-digital-literacy-a-guide-to-tech-education-in-six-steps-zdnet/"><u>Advancing C-Suite Digital Literacy: A Guide to Tech Education in Six Steps | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/agile-methods-clash-with-ai-projects-insights-from-a-new-study-zdnet/"><u>Agile Methods Clash with AI Projects: Insights From a New Study | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asia-dominates-the-surge-in-non-cash-payments-expected-to-reach-16-trillion-zdnet-insights/"><u>Asia Dominates the Surge in Non-Cash Payments Expected to Reach $1.6 Trillion | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/banking-innovation-at-risk-cio-warns-against-reliance-on-easy-prompt-tech-in-favour-of-creative-geniuses/"><u>Banking Innovation at Risk: CIO Warns Against Reliance on Easy-Prompt Tech in Favour of Creative Geniuses</u></a></li>
-<li><a href="https://app-tips.techidaily.com/debunking-common-false-beliefs-in-monetizing-data-assets-the-zdnet-perspective/"><u>Debunking Common False Beliefs in Monetizing Data Assets - The ZDNet Perspective</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dive-into-business-before-technology-to-excel-as-a-tech-team-leader-strategies-by-zdnet/"><u>Dive Into Business Before Technology to Excel as a Tech Team Leader | Strategies by ZDNet</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-filmmaking-basics-top-action-cameras-reviewed-in-23/"><u>In 2024, Filmmaking Basics Top Action Cameras Reviewed in '23</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-honor-magic-v2-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Honor Magic V2</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-your-career-trajectory-with-ai-strategies-for-tech-professionals-on-zdnet/"><u>Mastering Your Career Trajectory with AI: Strategies for Tech Professionals on ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210942140-9781913568016-my-journey-to-zen/"><u>My Journey To Zen | Free Book</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-ranked-spots-for-boosting-youtube-videos/"><u>Top-Ranked Spots for Boosting YouTube Videos</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-11-pro-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 11 Pro i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unlocking-full-potential-zdsoft-screen-recorder-for-2024/"><u>[New] Unlocking Full Potential ZDSoft Screen Recorder for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-easyvidwin11-the-simplest-way-to-record-your-pc-screen/"><u>[Updated] 2024 Approved EasyVidWin11 The Simplest Way to Record Your PC Screen</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1726028166703-20245/"><u>【最新動画エフェクトアプリ】この2024に必見！日本で人気な5つ選びたくさん利用法</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-step-by-step-strategy-to-remove-users-on-facebook/"><u>A Step-by-Step Strategy to Remove Users on Facebook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-why-chatgpt-stands-out-amongst-advanced-ai-chat-bots/"><u>Comprehensive Analysis: Why ChatGPT Stands Out Amongst Advanced AI Chat Bots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-of-chatsonic-an-in-depth-guide-to-understanding-this-advanced-ai-chatbot/"><u>Comprehensive Evaluation of Chatsonic: An In-Depth Guide to Understanding This Advanced AI Chatbot</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-how-these-10-cutting-edge-ai-chatbots-can-elevate-your-communication-game/"><u>Discover How These 10 Cutting-Edge AI Chatbots Can Elevate Your Communication Game</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620184703-discover-the-full-potential-of-eva-ai-by-ex-journey-your-essential-chatbot-review-compiled/"><u>Discover the Full Potential of EVA AI by Ex Journey – Your Essential Chatbot Review Compiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-with-ais-best-kept-secret-an-in-depth-analysis-of-the-apo-assistant-chatbot-app/"><u>Experience Next-Level Interaction with AI's Best Kept Secret - An In-Depth Analysis of the Apo Assistant Chatbot App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-the-future-10-revolutionary-ai-chatbots-to-upgrade-your-conversations/"><u>Experience the Future: 10 Revolutionary AI Chatbots to Upgrade Your Conversations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-alternatives-to-elevenlabs-generative-voice-ai-technology/"><u>Exploring Alternatives to ElevenLabs' Generative Voice AI Technology</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oneplus-ace-2-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of OnePlus Ace 2 Pro? Try These Fixes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/greatest-competitors-to-vimeos-cameo-editor-platform-for-2024/"><u>Greatest Competitors to Vimeo's Cameo Editor Platform for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Passcode without a Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-top-ultraportable-laptop-with-unmatched-all-day-battery-a-must-read-review/"><u>The Top Ultraportable Laptop with Unmatched All-Day Battery: A Must-Read Review</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-correcting-overestimated-cpu-metrics-in-windows-task-manager/"><u>Tips for Correcting Overestimated CPU Metrics in Windows Task Manager</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-interactions-with-nova-chatgpt-the-premier-ai-companion-for-cutting-edge-dialogues/"><u>Transform Your Interactions with Nova ChatGPT: The Premier AI Companion for Cutting-Edge Dialogues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The 'Big Wave' Of Enterprise 5G: Celona's Landmark $60 Million Series C Investment Explained by ZDNet"
-date: 2024-11-01T16:29:00.638Z
-updated: 2024-11-04T17:27:51.068Z
+date: 2024-12-01T11:07:27.467Z
+updated: 2024-12-02T09:05:11.546Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +176,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-add-meaning-with-texts-the-ultimate-tiktok-guide/"><u>[New] In 2024, Add Meaning with Texts The Ultimate TikTok Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-zoomers-guide-to-enhancing-call-quality-with-filters/"><u>[New] The Zoomer's Guide to Enhancing Call Quality with Filters</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-making-sporting-scenes-spectacomed/"><u>2024 Approved Making Sporting Scenes Spectacomed</u></a></li>
-<li><a href="https://driver-error.techidaily.com/automobile-rejected-by-tech-gear/"><u>Automobile Rejected by Tech Gear</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192575-best-6-exceptional-contact-widget-apps-for-android-ranked/"><u>Best 6 Exceptional Contact Widget Apps for Android - Ranked</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-and-assessment-unveiling-the-power-of-vllo-video-editor/"><u>Comprehensive Analysis & Assessment: Unveiling the Power of VLLO Video Editor</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/deciphering-the-key-elements-behind-wii-us-remarkable-win/"><u>Deciphering The Key Elements Behind Wii U’s Remarkable Win</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194339-discover-the-top-15-no-cost-texting-solutions-for-your-android-device/"><u>Discover the Top 15 No-Cost Texting Solutions for Your Android Device!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-advanced-concepts-in-googles-mobile-device-management-mdm-and-its-future-capabilities-a-comprehensive-guide/"><u>Explore Advanced Concepts in Google's Mobile Device Management (MDM) and Its Future Capabilities – A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-ultimate-facetune-guide-elevating-your-image-quality/"><u>In 2024, Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/s-guide-to-enriched-video-engagement-through-commentary-and-alert-embeddings-for-2024/"><u>Incor's Guide to Enriched Video Engagement Through Commentary and Alert Embeddings for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-game-console-emulators-for-superior-imagery-and-performance-top-picks-for-gamers/"><u>Leading Game Console Emulators for Superior Imagery & Performance: Top Picks for Gamers</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/step-by-step-guide-downloading-films-from-fmovies-platform/"><u>Step-by-Step Guide: Downloading Films From FMovies Platform</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-25-leading-video-editing-apps-for-every-ios-device-including-models-15-x8-6-5/"><u>The Ultimate List of the 25 Leading Video Editing Apps for Every iOS Device, Including Models 15-X/8-6-5</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-8-exceptional-multitasking-applications-for-your-android-device/"><u>Top 8 Exceptional Multitasking Applications for Your Android Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-top-rated-mobile-phone-video-editing-software-with-kinemaster-features/"><u>Ultimate Guide: Top Rated Mobile Phone Video Editing Software with KineMaster Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-list-of-top-10-android-game-cracking-apps-work-with-or-without-root-access/"><u>Ultimate List of Top 10 Android Game Cracking Apps - Work with or without Root Access</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-ai-power-in-ubuntu-with-auto-gpt/"><u>Unleash AI Power in Ubuntu with Auto-GPT</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-is-product-review-vlog-paid/"><u>[Updated] Is Product Review Vlog Paid</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-top-15-facebook-videograbber-add-ons-compatible-with-firefox/"><u>2024 Approved Top 15 Facebook Videograbber Add-Ons, Compatible with FireFox</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-points-exploring-how-generative-artificial-intelligence-is-revolutionizing-user-interface-design-featured-on-zdnet/"><u>Beyond Clicks & Points: Exploring How Generative Artificial Intelligence Is Revolutionizing User Interface Design | Featured on ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installation-guide-set-up-epson-wf-2750-printing-solutions/"><u>Installation Guide: Set Up Epson WF-2750 Printing Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-web-hosting-providers-in-depth-analysis-by-professionals-pcmag/"><u>Leading Web Hosting Providers : In-Depth Analysis by Professionals | PCMag</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-growth-of-edge-devices-and-its-impact-on-job-prospects-an-exploration-by-zdnet/"><u>The Growth of Edge Devices and Its Impact on Job Prospects - An Exploration by ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/understanding-the-contrast-macbook-air-vs-macbook-pro-differences-explored/"><u>Understanding the Contrast: MacBook Air Vs. MacBook Pro Differences Explored</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uplifting-information-and-communication-technology-singapores-24b-allocation-detailed-zdnet-analysis/"><u>Uplifting Information and Communication Technology: Singapore's $2.4B Allocation Detailed | ZDNet Analysis</u></a></li>
 </ul></div>
 

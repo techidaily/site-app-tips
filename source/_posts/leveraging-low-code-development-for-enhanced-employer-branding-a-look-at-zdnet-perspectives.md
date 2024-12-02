@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Low-Code Development for Enhanced Employer Branding: A Look at ZDnet Perspectives"
-date: 2024-10-05T22:46:03.413Z
-updated: 2024-10-12T05:30:54.660Z
+date: 2024-12-01T02:07:44.088Z
+updated: 2024-12-02T02:57:29.898Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-seamless-web-browsing-on-edge-with-picture-in-picture-mode/"><u>[New] In 2024, Seamless Web Browsing on Edge with Picture-in-Picture Mode</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-capture-the-world-through-the-lens-of-mi-11/"><u>[Updated] Capture the World Through the Lens of Mi 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/10-iconic-movie-moments-to-inspire-your-edits-for-2024/"><u>10 Iconic Movie Moments to Inspire Your Edits for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-compreranal-guide-to-best-free-budget-friendly-lut-sources/"><u>2024 Approved Compreranal Guide to Best Free, Budget-Friendly LUT Sources</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bust-the-specter-fingers-plaguing-your-iphone-screen-try-these-10-fixes-now/"><u>Bust the Specter Fingers Plaguing Your iPhone Screen? Try These 10 Fixes Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-methods-for-sharing-big-videos-via-whatsapp-on-your-iphone/"><u>Effective Methods for Sharing Big Videos via WhatsApp on Your iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-strategies-managing-your-visibility-and-last-seen-timestamp-on-whatsapp/"><u>Expert Strategies: Managing Your Visibility and Last Seen Timestamp on WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guaranteed-methods-restore-deleted-whatsapp-content-on-your-iphone-including-messages-photos-videos-and-audio/"><u>Guaranteed Methods: Restore Deleted WhatsApp Content on Your iPhone Including Messages, Photos, Videos & Audio</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-discreetly-adjust-and-verify-whatsapps-last-seen-feature-with-proven-tips/"><u>How to Discreetly Adjust and Verify WhatsApp's 'Last Seen' Feature with Proven Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-recurring-issues-with-iphone-apps-falling-short/"><u>How to Resolve Recurring Issues with iPhone Apps Falling Short</u></a></li>
-<li><a href="https://article-posts.techidaily.com/movavi-editor-pro-unboxing-the-future-released-2024/"><u>Movavi Editor Pro – Unboxing the Future, Released 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-movie-magic-for-minis-teach-your-child-to-create-their-own-films-for-2024/"><u>New Movie Magic for Minis Teach Your Child to Create Their Own Films for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/swift-solutions-retrieving-your-lost-whatsapp-messages-on-iphone-with-simple-techniques/"><u>Swift Solutions: Retrieving Your Lost WhatsApp Messages on iPhone with Simple Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-on-restoring-past-whatsapp-dialogues-and-mastering-the-art-of-unarchiving-texts/"><u>The Ultimate Tutorial on Restoring Past WhatsApp Dialogues & Mastering the Art of Unarchiving Texts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-memory-issues-in-roblox-games-on-ios-devices/"><u>Troubleshooting Memory Issues in Roblox Games on iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/update-your-contact-info-a-step-by-step-guide-to-changing-your-phone-number-on-whatsapp/"><u>Update Your Contact Info: A Step-by-Step Guide to Changing Your Phone Number on WhatsApp</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-evaluating-apples-m1-macbook-air-for-media-professionals/"><u>[New] Evaluating Apple’s M1 MacBook Air for Media Professionals</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eading-free-platforms-for-youtube-openings/"><u>[New] Leading Free Platforms for YouTube Openings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-primes-peak-performers-highest-tweets-and-viewing-numbers-for-2024/"><u>[New] Prime’s Peak Performers Highest Tweets & Viewing Numbers for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-enhancing-scene-clarity-with-zoom-cinematography/"><u>[Updated] In 2024, Enhancing Scene Clarity with ZOOM Cinematography</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-boost-channels-to-partner-status-in-under-90-days-start-now/"><u>2024 Approved Boost Channels to Partner Status in Under 90 Days, Start Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advanced-array-designs-employ-strategies-like-amplitude-tapering-and-null-steering-algorithms-to-control-side-lobes-for-improved-directivity-and-reduced-int87/"><u>Advanced Array Designs Employ Strategies Like Amplitude Tapering and Null-Steering Algorithms to Control Side Lobes for Improved Directivity and Reduced Interference Potential.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-initiatives-surge-by-10x-in-recent-year-insights-from-latest-research-zdnet/"><u>AI Initiatives Surge by 10X in Recent Year - Insights From Latest Research | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/conquering-chaos-in-linuxopen-source-guidebooks-explore-our-streamlined-remedy-zdnet/"><u>Conquering Chaos in Linux/Open-Source Guidebooks: Explore Our Streamlined Remedy | ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-how-the-microsoft-surface-laptop-4-sets-a-new-standard/"><u>Expert Analysis: How the Microsoft Surface Laptop 4 Sets a New Standard</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-barriers-how-firms-find-it-challenging-to-leverage-generative-ai-according-to-deloittes-latest-insights/"><u>Exploring the Barriers: How Firms Find It Challenging to Leverage Generative AI According to Deloitte's Latest Insights</u></a></li>
+<li><a href="https://solve-info.techidaily.com/five-effective-methods-and-a-handy-hack-for-restoring-your-lost-account-on-windows-1011/"><u>Five Effective Methods & a Handy Hack for Restoring Your Lost Account on Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-black-ops-4-fatal-errors/"><u>How to Fix Black Ops 4 Fatal Errors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-itel-p55-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Itel P55 5G Without PUK Codes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/surprising-upsides-for-it-professionals-facing-burnout-insights-from-zdnets-latest-article/"><u>Surprising Upsides for IT Professionals Facing Burnout: Insights From ZDNet's Latest Article</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-link-between-kernel-vulnerabilities-and-linux-system-security-proactive-measures-for-protection/"><u>Understanding the Link Between Kernel Vulnerabilities and Linux System Security: Proactive Measures for Protection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleash-efficiency-on-the-linux-platform-explore-ubuntu-2204-as-your-workhorse-insights-by-zdnet/"><u>Unleash Efficiency on the Linux Platform - Explore Ubuntu 22.04 as Your Workhorse | Insights by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-alert-microsoft-faces-critical-challenge-with-windows-10-only-a-year-leftzdnet/"><u>Urgent Alert: Microsoft Faces Critical Challenge with Windows 10 - Only a Year Left![ZDNet]</u></a></li>
 </ul></div>
 

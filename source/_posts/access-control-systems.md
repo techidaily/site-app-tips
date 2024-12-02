@@ -1,7 +1,7 @@
 ---
 title: Access Control Systems
-date: 2024-11-07T19:52:59.918Z
-updated: 2024-11-13T20:03:18.440Z
+date: 2024-11-30T19:29:11.601Z
+updated: 2024-12-02T05:49:20.803Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-image-jokes-how-to-create-memetic-gold/"><u>[Updated] 2024 Approved Image Jokes How to Create Memetic Gold</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-brief-video-joust-the-showdown-between-youtubes-shorts-and-tiktoks-flavor/"><u>[Updated] Brief Video Joust The Showdown Between YouTubes Shorts and TikTok's Flavor</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-ultimate-3-fb-movie-extractors/"><u>2024 Approved Ultimate 3 Fb Movie Extractors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-itunes-backup-strategies-learn-the-best-techniques-for-protection/"><u>Comprehensive iTunes Backup Strategies – Learn the Best Techniques for Protection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-strategies-to-overcome-non-functional-music-playback-on-itunes/"><u>Effective Strategies to Overcome Non-Functional Music Playback on iTunes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/enhance-learning-with-easy-recording-techniques-for-your-imac/"><u>Enhance Learning with Easy Recording Techniques for Your iMac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/first-rate-6-software-for-visual-text-conversion-for-2024/"><u>First-Rate 6 Software for Visual Text Conversion for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-quick-windows-surfing-guide-unveiled/"><u>In 2024, Quick Windows Surfing Guide Unveiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/itunes-backup-file-restoration-how-to-retrieve-deleted-or-lost-ios-content-from-your-itunes-archive/"><u>ITunes Backup File Restoration: How to Retrieve Deleted or Lost iOS Content From Your iTunes Archive</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/perfecting-video-quality-on-zoom-through-filters-use-for-2024/"><u>Perfecting Video Quality on Zoom Through Filters Use for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-the-issue-of-non-syncing-tunes-from-itunes-to-ios-devices/"><u>Solving the Issue of Non-Syncing Tunes From iTunes to iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transferring-your-itunes-collection-from-computer-to-external-hard-drive/"><u>Step-by-Step Guide: Transferring Your iTunes Collection From Computer to External Hard Drive</u></a></li>
-<li><a href="https://app-tips.techidaily.com/temporary-itunes-store-outage-discover-7-effective-solutions/"><u>Temporary iTunes Store Outage: Discover 7 Effective Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-no-cost-mac-os-big-sur-mp4-transcoder-compare-and-choose-the-best/"><u>Top No-Cost Mac OS Big Sur MP4 Transcoder - Compare and Choose the Best</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-solutions-for-resolving-the-issue-of-music-not-playing-in-itunes/"><u>Top Solutions for Resolving the Issue of Music Not Playing in iTunes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-blurred-lines-the-art-of-anonymizing-youtube-content/"><u>[Updated] In 2024, Blurred Lines The Art of Anonymizing YouTube Content</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-leveraging-discord-for-efficient-media-broadcasting-techniques-for-2024/"><u>[Updated] Leveraging Discord for Efficient Media Broadcasting Techniques for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-key-to-success-perfecting-your-online-yt-presence/"><u>[Updated] The Key to Success Perfecting Your Online YT Presence</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-blur-it-out-free-iphones-tips-for-crisp-image-edits/"><u>2024 Approved Blur It Out Free iPhones Tips for Crisp Image Edits</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-daily-dharma-the-best-yoga-channels-for-self-growth/"><u>2024 Approved Daily Dharma The Best Yoga Channels for Self-Growth</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-setting-up-and-accessing-kik-chat-app-for-windowsmac-users/"><u>Complete Tutorial: Setting Up & Accessing Kik Chat App for Windows/Mac Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/create-amazing-gifs-instantly-with-our-choice-of-the-10-best-free-apps-on-smartphones-iphone-and-android/"><u>Create Amazing GIFs Instantly with Our Choice of the 10 Best Free Apps on Smartphones (iPhone & Android)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creating-anime-sounds-with-uwu-modifiers-top-three-speech-alteration-tools-for-fans/"><u>Creating Anime Sounds with UwU Modifiers: Top Three Speech Alteration Tools for Fans</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005885868-snowrunner-freezes-persistently-heres-what-you-need-to-know-to-fix-it/"><u>SnowRunner Freezes Persistently? Here's What You Need to Know to Fix It</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-moving-your-iphone-applications-seamlessly-between-iphones/"><u>Step-by-Step Guide: Moving Your iPhone Applications Seamlessly Between iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192484-ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-premier-game-chat-platforms-for-enthusiasts/"><u>Updated 2024 Approved Premier Game Chat Platforms for Enthusiasts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Xiaomi 13T Pro? | Dr.fone</u></a></li>
 </ul></div>
 

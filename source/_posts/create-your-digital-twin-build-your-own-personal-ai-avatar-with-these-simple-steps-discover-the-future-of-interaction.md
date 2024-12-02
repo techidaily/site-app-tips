@@ -1,7 +1,7 @@
 ---
 title: "Create Your Digital Twin: Build Your Own Personal AI Avatar with These Simple Steps – Discover the Future of Interaction"
-date: 2024-10-09T06:13:09.266Z
-updated: 2024-10-11T17:36:45.192Z
+date: 2024-11-27T06:09:02.250Z
+updated: 2024-12-02T01:53:27.514Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +176,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-imprint-clipart-with-inner-circle-light-defocus-method-ps/"><u>[New] 2024 Approved Imprint Clipart with Inner Circle Light Defocus Method PS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-uncomplicated-tutorial-for-capturing-mac-screenshots/"><u>[New] In 2024, Uncomplicated Tutorial for Capturing Mac Screenshots</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-celestial-vision-high-definition-touch-screens/"><u>2024 Approved Celestial Vision High Definition Touch Screens</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-dominating-the-digital-space-from-5000-to-over-a-million-views/"><u>2024 Approved Dominating the Digital Space From 5,000 to Over a Million Views</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/are-wi-fi-mesh-networks-worth-the-investment/"><u>Are Wi-Fi Mesh Networks Worth the Investment?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-methods-to-transform-avi-files-for-streamlined-playback-on-iphone-ipad-and-ipod-via-itunes/"><u>Effortless Methods to Transform AVI Files for Streamlined Playback on iPhone, iPad & iPod via iTunes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-tips-for-resolving-unrecognized-devices-making-itunes-recognize-your-iphone-ipad-or-ipod-again/"><u>Expert Tips For Resolving Unrecognized Devices: Making iTunes Recognize Your iPhone, iPad, or iPod Again</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-scratch-to-screen-video-editing-with-youtube-and-others/"><u>In 2024, From Scratch to Screen Video Editing with YouTube & Others</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-15-pro-maxipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 15 Pro Max/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-whatsapp-call-recording-techniques/"><u>In 2024, Mastering WhatsApp Call Recording Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-fix-guide-eliminate-itunes-music-duplicates-with-simple-methods/"><u>Quick Fix Guide: Eliminate iTunes Music Duplicates with Simple Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revamp-your-itunes-collection-with-these-proven-techniques-for-inserting-album-images/"><u>Revamp Your iTunes Collection with These Proven Techniques for Inserting Album Images</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-the-issue-of-non-syncing-tunes-from-itunes-to-ios-devices/"><u>Solving the Issue of Non-Syncing Tunes From iTunes to iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/syncing-imovie-projects-with-itunes-a-step-by-step-guide/"><u>Syncing iMovie Projects with iTunes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-12-replacements-for-itunes-on-pc-and-mac-in-2n34-best-options-explored/"><u>Top 12 Replacements for iTunes on PC and Mac in 2N34 - Best Options Explored</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unveiling-the-secrets-of-valheim-crop-cultivation-for-2024/"><u>Unveiling the Secrets of Valheim Crop Cultivation for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-transform-your-snaps-the-complete-guide-to-snapchat-editing-for-2024/"><u>[Updated] Transform Your Snaps The Complete Guide to Snapchat Editing for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/crafting-your-path-in-technology-insights-from-an-industry-giant-the-aerospace-sector-explored-by-zdnet/"><u>Crafting Your Path in Technology: Insights From an Industry Giant - The Aerospace Sector Explored by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-growth-surge-how-openstack-and-kata-containers-regain-popularity-among-businesses-zdnet-insights/"><u>Exploring the Growth Surge: How OpenStack & Kata Containers Regain Popularity Among Businesses | ZDNet Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/framefusion-matrix-the-ultimate-montage-craft-for-2024/"><u>FrameFusion Matrix The Ultimate Montage Craft for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-8t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 8T If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-decoding-the-capabilities-in-samsungs-newest-photo-software/"><u>In 2024, Decoding the Capabilities in Samsung's Newest Photo Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-airpod-connectivity-easy-steps-to-sync-with-windows-11-in-the-new-year/"><u>Mastering AirPod Connectivity: Easy Steps to Sync with Windows 11 in the New Year!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-in-linux-and-free-tech-docs-unveiling-the-clear-path-to-clarity/"><u>Organizing Chaos in Linux & Free Tech Docs: Unveiling The Clear Path to Clarity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-crucial-role-of-it-departments-in-shaping-modern-customer-journeys-a-perspective-by-zdnet/"><u>The Crucial Role of IT Departments in Shaping Modern Customer Journeys: A Perspective by ZDNet</u></a></li>
 </ul></div>
 

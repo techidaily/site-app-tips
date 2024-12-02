@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: New Release of Robust, Enduring Linux Kernel for Extended Lifetime Support"
-date: 2024-10-10T22:52:07.009Z
-updated: 2024-10-12T04:23:32.706Z
+date: 2024-11-24T19:13:54.267Z
+updated: 2024-12-02T03:28:42.602Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-boost-your-youtube-output-rapid-video-rendering-and-transfer/"><u>[Updated] 2024 Approved Boost Your YouTube Output - Rapid Video Rendering and Transfer</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-quicktime-screen-recording-with-audio-guide-for-2024/"><u>[Updated] QuickTime Screen Recording with Audio Guide for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/complete-2024-fix-resolving-path-of-exile-connection-issues-with-the-instance/"><u>Complete 2024 Fix: Resolving Path of Exile Connection Issues with the Instance</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-your-projects-top-10-after-effects-text-plans/"><u>Enhance Your Projects Top 10 After Effects Text Plans</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193252-experience-endless-possibilities-access-free-cracked-applications-for-ios-and-android-via-appcake-today/"><u>Experience Endless Possibilities: Access Free, Cracked Applications for iOS & Android via AppCake Today</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-c210-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C210</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-redmi-note-12-4g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi Redmi Note 12 4G FRP Bypass</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mobile-memories-creator-high-quality-iphone-photo-and-file-printer/"><u>Mobile Memories Creator: High-Quality iPhone Photo & File Printer</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/mod-wmv-mkv-movavi/"><u>MOD WMV 영상 포함된 비용 부과 없이 MKV로 전환하는 일광인터넷 해제서리 – Movavi</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-2-apps-for-effortless-iphone-reflection-on-televisions-and-desktops/"><u>The Ultimate Guide: Top 2 Apps for Effortless iPhone Reflection on Televisions and Desktops</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-stunning-gallery-apps-on-android-your-guide-to-capturing-and-sharing-perfect-images/"><u>Top 10 Stunning Gallery Apps on Android: Your Guide to Capturing and Sharing Perfect Images</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-messaging-apps-compatible-with-iphone-and-android-finding-the-perfect-one/"><u>Top Rated Messaging Apps Compatible with iPhone & Android: Finding the Perfect One</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-free-iphone-and-android-entertainment-with-appcake-get-all-your-favorite-cracked-apps-and-games-now/"><u>Unlock Free iPhone & Android Entertainment with AppCake - Get All Your Favorite Cracked Apps & Games Now!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-ultimate-convenience-and-safety-on-ios-discover-the-premier-password-protector-app/"><u>Unlock Ultimate Convenience & Safety on iOS - Discover the Premier Password Protector App</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unleash-your-artistry-top-10-music-video-creation-services/"><u>Updated 2024 Approved Unleash Your Artistry Top 10 Music Video Creation Services</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-effortlessly-formulating-cohesive-skype-chats-across-windowsmac-platforms-for-2024/"><u>[New] Effortlessly Formulating Cohesive Skype Chats Across Windows/Mac Platforms for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-strategies-for-changing-song-pace-on-spotify-app/"><u>[Updated] 2024 Approved Top Strategies for Changing Song Pace on Spotify App</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unveiling-the-best-lipos-a-drone-buyers-bible/"><u>[Updated] 2024 Approved Unveiling the Best LiPos - A Drone Buyer's Bible</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-inside-track-on-calculating-your-youtube-impact-and-income/"><u>[Updated] In 2024, Inside Track on Calculating Your YouTube Impact and Income</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-engineers-simple-app-shames-mcdonalds-tech-a-closer-look-at-the-fast-food-giants-missteps/"><u>1. Engineer’s Simple App Shames McDonald's Tech: A Closer Look at the Fast-Food Giant's Missteps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-citizen-developers-in-modern-business-workflows/"><u>Empowering Citizen Developers in Modern Business Workflows</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/get-instant-fake-faces-top-free-online-generators-for-2024/"><u>Get Instant Fake Faces Top Free Online Generators for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-low-code-solutions-can-boost-your-companys-appeal-insights-from-zdnet/"><u>How Low-Code Solutions Can Boost Your Company's Appeal: Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-to-capture-and-preserve-preview-images-within-your-word-documents/"><u>How to Capture and Preserve Preview Images Within Your Word Documents</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-streamline-your-linuxopen-source-knowledge-base-for-clarity-and-efficiency-expert-insights-and-solutions/"><u>How to Streamline Your Linux/Open-Source Knowledge Base for Clarity & Efficiency: Expert Insights and Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transforming-your-windows-home-into-professional-grade-with-an-easy-upgrade/"><u>Step-by-Step Guide: Transforming Your Windows Home Into Professional Grade with an Easy Upgrade</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017036175-troubleshooting-persistent-sound-issues-in-windows-11-a-step-by-step-guide/"><u>Troubleshooting Persistent Sound Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-ai-how-langchain-revolutionizes-generative-assistance/"><u>Unleashing the Power of AI: How LangChain Revolutionizes Generative Assistance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrading-windows-home-to-a-pro-license-essential-tips-and-reasons-for-the-switch-techexpertise-hub/"><u>Upgrading Windows Home to a Pro License: Essential Tips & Reasons for the Switch | TechExpertise Hub</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visualquilt-maker-macos-photoplusvideo-display/"><u>VisualQuilt Maker MacOS Photo+Video Display</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/winning-strategies-elevating-win11-zoom-experience-for-2024/"><u>Winning Strategies Elevating Win11 Zoom Experience for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/your-windows-11-journey-explore-your-five-last-choices-before-microsoft-phases-out-support/"><u>Your Windows 11 Journey: Explore Your Five Last Choices Before Microsoft Phases Out Support</u></a></li>
 </ul></div>
 

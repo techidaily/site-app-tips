@@ -1,7 +1,7 @@
 ---
 title: Advancing Skillsets & Enhancing Security Through Cloud-Native Solutions on Emerging Platforms
-date: 2024-10-07T02:10:04.896Z
-updated: 2024-10-11T21:41:12.281Z
+date: 2024-11-30T05:54:32.220Z
+updated: 2024-12-01T20:35:29.940Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,16 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streamline-your-zoom-talks-with-camera-snaps/"><u>[New] 2024 Approved Streamline Your Zoom Talks with Camera Snaps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-innovative-notetaking-for-mobile-photographers/"><u>[Updated] 2024 Approved Innovative Notetaking for Mobile Photographers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-laws-surrounding-personal-recording-on-youtube-site-for-2024/"><u>[Updated] Laws Surrounding Personal Recording on YouTube Site for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/6-effective-methods-for-restoring-your-icloud-account-password/"><u>6 Effective Methods for Restoring Your iCloud Account Password</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-fixes-for-downloading-image-failed-on-ios-1211-top-7-methods/"><u>Best Fixes for 'Downloading Image Failed' On iOS 12/11: Top 7 Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-start-guide-mastering-icloud-photo-sharing-from-scratch/"><u>Easy Start Guide: Mastering iCloud Photo Sharing From Scratch</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-easily-and-instantly-unlock-your-device-from-apples-icloud/"><u>How to Easily and Instantly Unlock Your Device From Apple's iCloud</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-a25-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy A25 5G Phone that is Locked?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-restoring-and-repairing-failed-icloud-backups/"><u>Troubleshooting Guide: Restoring and Repairing Failed iCloud Backups</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mpg-vob-online-converter-by-movavi/"><u>무료 MPG VOB 효과적인 변환은 여기에! - Online Converter by Movavi</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-crafting-captivating-unboxing-content-top-tips/"><u>[New] 2024 Approved Crafting Captivating Unboxing Content Top Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-echoing-ethos-with-closing-credits/"><u>[New] 2024 Approved Echoing Ethos with Closing Credits</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-key-steps-to-find-your-youtube-content-creation-hub/"><u>[Updated] Key Steps to Find Your YouTube Content Creation Hub</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unlocking-the-secrets-of-advanced-virtualization/"><u>2024 Approved Unlocking the Secrets of Advanced Virtualization</u></a></li>
+<li><a href="https://article-tips.techidaily.com/clear-cut-strategies-for-watermark-free-photography-for-2024/"><u>Clear-Cut Strategies for Watermark-Free Photography for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-business-strategy-handbook-for-amazon-web-services-aws-insights-into-dominating-the-cloud-computing-sphere/"><u>Comprehensive Business Strategy Handbook for Amazon Web Services (AWS): Insights Into Dominating the Cloud Computing Sphere</u></a></li>
+<li><a href="https://app-tips.techidaily.com/finding-order-in-the-disarray-of-linuxopen-source-manuals-the-ultimate-fix/"><u>Finding Order in the Disarray of Linux/Open Source Manuals - The Ultimate Fix!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-v27-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo V27 Pro Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-anonymity-the-underestimated-edge-in-managing-todays-digital-workforce-zdnet/"><u>Leveraging Anonymity: The Underestimated Edge in Managing Today's Digital Workforce | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-365-hit-by-ddos-assault-an-in-depth-analysis-the-digital-chronicles/"><u>Microsoft 365 Hit by DDoS Assault: An In-Depth Analysis - The Digital Chronicles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-future-without-official-support-top-5-strategies-for-windows/"><u>Navigating the Future Without Official Support: Top 5 Strategies for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-11-update-error-code-0x80246007/"><u>Resolving Windows 11 Update Error Code: 0X80246007</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-linux-kernel-414-lts-through-strategic-partnership-announcement/"><u>Reviving Linux Kernel 4.14 LTS Through Strategic Partnership Announcement</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-expenses-in-gen-ai-education-risk-assessment-lags-behind-according-to-recent-stanford-study-insights-on-cost-and-safety/"><u>Rising Expenses in Gen AI Education: Risk Assessment Lags Behind According to Recent Stanford Study - Insights on Cost & Safety</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-concealed-treasure-mastering-the-art-of-using-finders-sidebar-on-your-mac/"><u>The Concealed Treasure: Mastering the Art of Using Finders Sidebar on Your Mac</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-why-does-warno-keep-stalling-on-pc-and-how-to-fix-it/"><u>Ultimate Guide: Why Does Warno Keep Stalling on PC and How to Fix It?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-immutable-linux-benefits-of-using-a-non-modifiable-os-distribution-tech-insights/"><u>Understanding Immutable Linux: Benefits of Using a Non-Modifiable OS Distribution | Tech Insights</u></a></li>
 </ul></div>
 

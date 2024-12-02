@@ -1,7 +1,7 @@
 ---
 title: "How Hackers Are Capitalizing on the Pandemic: A Deep Dive Into Attacks Against US Universities Amidst Omicron Concerns | Reported by ZDNET"
-date: 2024-11-22T06:14:05.238Z
-updated: 2024-11-23T16:25:12.861Z
+date: 2024-12-01T09:23:48.592Z
+updated: 2024-12-02T07:34:56.990Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 Researchers with cybersecurity firm Proofpoint have [discovered](https://www.proofpoint.com/us/blog/threat-insight/university-targeted-credential-phishing-campaigns-use-covid-19-omicron-themes) a new phishing attack leveraging concern about the spread of the Omicron strain of COVID-19 to steal credentials and gain access to accounts at several prominent universities in the US. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### latest developments
@@ -22,7 +22,7 @@ Researchers with cybersecurity firm Proofpoint have [discovered](https://www.pro
 [![microscopic magnification of coronavirus that causes flu and chronic pneumonia leading to death](https://www.zdnet.com/a/img/resize/29eb42cb18bf682179393fd5caa23f5e78bec28e/2020/02/03/bd4a5b33-2cca-4ff8-9753-12d1bfd10a1d/istock-12015454421.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) Coronavirus: Business and technology in a pandemic From cancelled conferences to disrupted supply chains, not a corner of the global economy is immune to the spread of COVID-19.  Read now](https://www.zdnet.com/collection/coronavirus-business-and-technology-in-a-pandemic/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The emails -- part of an attack that Proofpoint researchers said began in October but increased in November -- generally contain information about COVID-19 testing and the new Omicron variant.
@@ -96,17 +96,17 @@ By entering under the guise of a legitimate user, the attacker has a greater cha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-snap-motion-blur-photos-effortlessly-with-iphone-techniques/"><u>[New] Snap Motion-Blur Photos Effortlessly with iPhone Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-a-guide-to-navigating-instagrams-new-updates/"><u>[Updated] 2024 Approved A Guide to Navigating Instagram's New Updates</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-easy-and-swift-face-blur-on-piscart-tools-at-hand/"><u>[Updated] 2024 Approved Easy and Swift Face-Blur on PiscArt Tools at Hand</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-perfecting-hdr-photos-techniques-for-blending-in-lightroom/"><u>[Updated] Perfecting HDR Photos Techniques for Blending in Lightroom</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-fixes-for-the-recurring-issue-icloud-login-continually-asks-for-password/"><u>Essential Fixes for the Recurring Issue: ICloud Login Continually Asks for Password</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices!</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-phasmophabria-a-comprehensive-walkthrough-for-overcoming-vr-compatibility-issues/"><u>Mastering Phasmophabria: A Comprehensive Walkthrough for Overcoming VR Compatibility Issues</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-animate-your-text-the-top-10-generators-to-boost-engagement/"><u>New 2024 Approved Animate Your Text The Top 10 Generators to Boost Engagement</u></a></li>
-<li><a href="https://app-tips.techidaily.com/resolving-the-icloud-messages-disabled-issue-step-by-step-guide-to-restore-your-apple-id/"><u>Resolving the 'iCloud Messages Disabled' Issue: Step-by-Step Guide to Restore Your Apple ID</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-changing-your-icloud-email-address/"><u>Step-by-Step Guide: Changing Your iCloud Email Address</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-strategies-for-disassociating-your-iphone-from-apples-icloud-service/"><u>Top Strategies for Disassociating Your iPhone From Apple's iCloud Service</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/zoom-steps-for-successful-fb-live-on-platform/"><u>Zoom Steps for Successful FB Live on Platform</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-diving-deep-into-screencast-best-practices-for-2024/"><u>[New] Diving Deep Into Screencast Best Practices for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-sonys-bdp-s6700-a-modernized-take/"><u>[New] In 2024, Sony's BDP-S6700 A Modernized Take</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-inside-look-polaroids-bold-move-into-action-camera-tech/"><u>[New] Inside Look Polaroid's Bold Move Into Action Camera Tech</u></a></li>
+<li><a href="https://app-tips.techidaily.com/crafting-your-path-in-technology-insights-from-an-industry-giant-the-aerospace-sector-explored-by-zdnet/"><u>Crafting Your Path in Technology: Insights From an Industry Giant - The Aerospace Sector Explored by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-growth-surge-how-openstack-and-kata-containers-regain-popularity-among-businesses-zdnet-insights/"><u>Exploring the Growth Surge: How OpenStack & Kata Containers Regain Popularity Among Businesses | ZDNet Insights</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/leveraging-visuals-a-step-by-step-guide-for-youtube-trailers/"><u>Leveraging Visuals A Step-by-Step Guide for YouTube Trailers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/navigating-through-steam-error-code-130-the-comprehensive-fixes-you-need/"><u>Navigating Through Steam Error Code 130 - The Comprehensive Fixes You Need</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-in-linux-and-free-tech-docs-unveiling-the-clear-path-to-clarity/"><u>Organizing Chaos in Linux & Free Tech Docs: Unveiling The Clear Path to Clarity</u></a></li>
+<li><a href="https://games-able.techidaily.com/picking-the-prime-player-for-your-raspberry-pi-batocera-vs-retropie/"><u>Picking the Prime Player for Your Raspberry Pi: Batocera Vs. RetroPie</u></a></li>
+<li><a href="https://discover-best.techidaily.com/professional-live-streaming-with-manycam-top-virtual-camera-and-videochat-tool/"><u>Professional Live Streaming with ManyCam - Top Virtual Camera and Videochat Tool</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-popularity-of-ops-transforming-it-landscapes-and-introducing-fresh-challenges-insights-from-tech-giants/"><u>Rising Popularity of 'Ops': Transforming IT Landscapes and Introducing Fresh Challenges - Insights From Tech Giants</u></a></li>
+<li><a href="https://app-tips.techidaily.com/scaling-up-with-anthropi-how-the-latest-claude-update-empowers-businesses-globally-insights-from-zdnet/"><u>Scaling Up with AnthroPi: How the Latest Claude Update Empowers Businesses Globally - Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet"
-date: 2024-11-10T17:42:06.917Z
-updated: 2024-11-13T18:37:53.601Z
+date: 2024-11-25T00:21:25.620Z
+updated: 2024-12-02T04:50:33.353Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +176,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bridging-soundscapes-and-visuals-essentials-for-innovative-asmr-videos/"><u>[Updated] 2024 Approved Bridging Soundscapes & Visuals – Essentials for Innovative ASMR Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-step-by-step-guide-embellishing-images-with-borders-on-instagram-for-2024/"><u>[Updated] Step-by-Step Guide Embellishing Images with Borders on Instagram for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfecting-your-playlists-adapting-spotify-to-the-youtube-music-ecosystem/"><u>2024 Approved Perfecting Your Playlists Adapting Spotify to the YouTube Music Ecosystem</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-steps-to-accessing-whatsapp-anonymously-no-phone-required/"><u>Comprehensive Steps to Accessing WhatsApp Anonymously: No Phone Required</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-retrieve-older-whatsapp-messages-a-guide-to-accessing-deleted-or-archived-conversations/"><u>How to Retrieve Older WhatsApp Messages: A Guide to Accessing Deleted or Archived Conversations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-securely-transfer-whatsapp-pictures-from-ios-and-android-devices-without-losing-a-bit-explore-these-3-effective-strategies/"><u>How to Securely Transfer WhatsApp Pictures From iOS and Android Devices without Losing a Bit - Explore These 3 Effective Strategies</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-12-proplus-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme 12 Pro+ 5G Lock Screen Password?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-friends-into-your-chat-list-a-comprehensive-tutorial-for-ios-and-android-users-of-whatsapp/"><u>Integrating Friends Into Your Chat List: A Comprehensive Tutorial for iOS & Android Users of WhatsApp</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leaked-image-of-googles-revolutionary-new-pixel-watch-reveals-major-redesign-its-a-game-changer-techspotted/"><u>Leaked Image of Google's Revolutionary New Pixel Watch Reveals Major Redesign; It's a Game Changer! | TechSpotted</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamless-preservation-of-your-messages-syncing-whatsapp-chats-with-google-drive-tips-for-smartphones-and-tablets/"><u>Seamless Preservation of Your Messages: Syncing WhatsApp Chats with Google Drive - Tips for Smartphones and Tablets</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/spotlight-on-apples-bold-move-against-leading-web-browser-through-provocative-advertisement-cnet-news/"><u>Spotlight on Apple's Bold Move Against Leading Web Browser Through Provocative Advertisement | CNET News</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-removing-cache-data-from-mozilla-firefox/"><u>Step-by-Step Instructions: Removing Cache Data From Mozilla Firefox</u></a></li>
-<li><a href="https://app-tips.techidaily.com/swift-solutions-retrieving-your-lost-whatsapp-messages-on-iphone-with-simple-techniques/"><u>Swift Solutions: Retrieving Your Lost WhatsApp Messages on iPhone with Simple Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-on-restoring-past-whatsapp-dialogues-and-mastering-the-art-of-unarchiving-texts/"><u>The Ultimate Tutorial on Restoring Past WhatsApp Dialogues & Mastering the Art of Unarchiving Texts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-truth-about-tropico-6-a-paradise-under-siege/"><u>Unveiling the Truth About Tropico 6: A Paradise Under Siege</u></a></li>
-<li><a href="https://app-tips.techidaily.com/update-your-contact-info-a-step-by-step-guide-to-changing-your-phone-number-on-whatsapp/"><u>Update Your Contact Info: A Step-by-Step Guide to Changing Your Phone Number on WhatsApp</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-tecno-pop-8-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Tecno Pop 8 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-capturing-memories-efficiently-phones-screen-save-for-snaps/"><u>[New] Capturing Memories Efficiently Phones' Screen Save for Snaps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unveiling-top-7-crypto-creators-for-nft-conversion/"><u>[New] Unveiling Top 7 Crypto-Creators for NFT Conversion</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-essentials-of-creating-memorable-fb-slideshows/"><u>[Updated] The Essentials of Creating Memorable FB Slideshows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/5-advanced-ai-solutions-dominating-the-market-in-automatic-video-editing-technology/"><u>5 Advanced AI Solutions Dominating the Market in Automatic Video Editing Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-elevenlabs-discovering-four-remarkable-alternatives-an-in-depth-analysis-of-their-unique-features/"><u>Beyond ElevenLabs: Discovering Four Remarkable Alternatives - An In-Depth Analysis of Their Unique Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-adobes-full-voice-amplifier-features-and-tips/"><u>Comprehensive Guide to Adobe's Full Voice Amplifier: Features & Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-top-8-unrestricted-character-ais-expert-options-without-limitations/"><u>Discover Top 8 Unrestricted Character AIs: Expert Options Without Limitations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-gt-neo-5-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme GT Neo 5 to PC? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-newest-list-of-engaging-podcast-dialogues/"><u>In 2024, Newest List of Engaging Podcast Dialogues</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-and-test-drive-report-the-toy-sized-marvel-galaxy-ford-f-1-remote-control-vehicle/"><u>Unboxing and Test Drive Report: The Toy-Sized Marvel, Galaxy Ford F-1# Remote Control Vehicle</u></a></li>
 </ul></div>
 

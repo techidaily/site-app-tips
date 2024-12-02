@@ -1,7 +1,7 @@
 ---
 title: "Security Breach: LastPass Compromised Once More - Critical Update From ZDNet"
-date: 2024-11-20T22:01:54.312Z
-updated: 2024-11-24T00:39:44.733Z
+date: 2024-12-01T04:07:22.973Z
+updated: 2024-12-02T09:32:17.655Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,24 +81,24 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-reel-in-success-top-drone-video-editors-for-every-stage-of-learning-for-2024/"><u>[New] Reel in Success Top Drone Video Editors for Every Stage of Learning for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nokia-c12-plus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nokia C12 Plus to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-techniques-to-minimize-file-size-of-audio-messages-in-whatsapp/"><u>Effortless Techniques to Minimize File Size of Audio Messages in WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-privacy-with-easy-steps-to-protect-your-whatsapp-accounts-on-smartphones/"><u>Enhance Privacy with Easy Steps to Protect Your WhatsApp Accounts on Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-intricacies-of-whatsapps-delete-for-all-functionality/"><u>Exploring the Intricacies of WhatsApp's 'Delete for All' Functionality</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guaranteed-methods-restore-deleted-whatsapp-content-on-your-iphone-including-messages-photos-videos-and-audio/"><u>Guaranteed Methods: Restore Deleted WhatsApp Content on Your iPhone Including Messages, Photos, Videos & Audio</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-set-up-automatic-backups-from-whatsapp-to-google-drive-a-step-by-step-guide-for-android-and-iphone-users/"><u>How to Set Up Automatic Backups From WhatsApp to Google Drive: A Step-by-Step Guide for Android & iPhone Users</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nokia-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nokia Unlock Without Password</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oneplus-12r-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring OnePlus 12R PC | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photo-deformation-masterclass-essentials/"><u>In 2024, Photo Deformation Masterclass Essentials</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-how-to-record-your-desktop-with-filmora-scrn/"><u>New 2024 Approved How to Record Your Desktop with Filmora Scrn?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preserve-your-whatsapp-images-flawlessly-top-3-methods-for-saving-photos-across-ios-and-android-without-quality-compromise/"><u>Preserve Your WhatsApp Images Flawlessly: Top 3 Methods for Saving Photos Across iOS & Android Without Quality Compromise</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-how-to-manual-effortless-audio-clipping-from-whatsapp-chats/"><u>The Ultimate How-To Manual: Effortless Audio Clipping From WhatsApp Chats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-for-enabling-and-performing-a-whatsapp-backup-to-icloud/"><u>The Ultimate Tutorial for Enabling and Performing a WhatsApp Backup to iCloud</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-filmdownloadseiten-fur-hollywood-and-bollywood-gratis-streaming-und-herunterladen/"><u>Top-Filmdownloadseiten Für Hollywood & Bollywood: Gratis Streaming Und Herunterladen</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/understanding-light-settings-in-youtube-video-editing-for-2024/"><u>Understanding Light Settings in YouTube Video Editing for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-without-limits-how-to-use-windows-and-mac-apps-on-your-chromebook/"><u>Video Editing Without Limits How to Use Windows and Mac Apps on Your Chromebook</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/whatsapp-data-resurrection-steps-for-retrieving-chat-history-stored-in-google-drive-on-iphone-solved/"><u>WhatsApp Data Resurrection: Steps for Retrieving Chat History Stored in Google Drive on iPhone [Solved]</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-drone-shooters-guide-to-vibration-reduction-tech/"><u>2024 Approved Drone Shooter's Guide to Vibration Reduction Tech</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-select-the-right-font-to-stand-out-on-youtube/"><u>2024 Approved Select the Right Font to Stand Out on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/camera-malfunction-in-windows-11-understanding-and-solving-error-code-0xa00f4244/"><u>Camera Malfunction in Windows 11: Understanding and Solving Error Code 0xA00F4244</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cognitive-network-advancements-from-arista-enter-mainstream-sectors-a-deep-dive-tech-insights/"><u>Cognitive Network Advancements From Arista Enter Mainstream Sectors: A Deep Dive - Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-software-picks-for-your-computer-the-ultimate-guide-to-windowsmac-tools-recommended-by-zdnet/"><u>Essential Software Picks for Your Computer: The Ultimate Guide to Windows/Mac Tools Recommended by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-horizons-arista-introduces-advanced-cognitive-networking-in-the-middle-market-segment-insights-from-zdnet/"><u>Expanding Horizons: Arista Introduces Advanced Cognitive Networking in the Middle Market Segment - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-increased-demand-for-openstack-and-kata-containers-in-modern-tech-ecosystems/"><u>Exploring the Increased Demand for OpenStack and Kata Containers in Modern Tech Ecosystems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/high-fidelity-mp4-converter-to-fb-for-2024/"><u>High-Fidelity MP4 Converter to FB for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-invalid-file-history-option-in-windows-devices/"><u>How to Fix Invalid File History Option in Windows Devices</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pricing-strategies-for-youtube-video-promotions/"><u>In 2024, Pricing Strategies for YouTube Video Promotions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-14-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 14</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-at-nvidias-open-sourced-gpu-drivers-demystifying-what-powers-your-graphics-performance/"><u>Inside Look at Nvidia's Open Sourced GPU Drivers – Demystifying What Powers Your Graphics Performance</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamlining-it-management-with-artificial-intelligence-red-hats-approach-to-simplifying-admin-duties/"><u>Streamlining IT Management with Artificial Intelligence: Red Hat's Approach to Simplifying Admin Duties</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-are-gaining-traction-in-tech-circles-zdnet/"><u>The Rising Popularity: How OpenStack & Kata Containers Are Gaining Traction in Tech Circles | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-latest-features-of-macos-sonoma-your-ultimate-guide-all-tips-and-insights-from-zdnet/"><u>Unveiling the Latest Features of macOS Sonoma: Your Ultimate Guide - All Tips and Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/vulnerability-detected-in-curl-utility-for-linux-systems-prompt-mitigation-measures-implemented-tech-news-blog/"><u>Vulnerability Detected in Curl Utility for Linux Systems: Prompt Mitigation Measures Implemented | Tech News Blog</u></a></li>
 </ul></div>
 

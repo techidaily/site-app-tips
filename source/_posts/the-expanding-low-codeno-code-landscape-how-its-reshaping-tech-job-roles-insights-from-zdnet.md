@@ -1,7 +1,7 @@
 ---
 title: "The Expanding Low-Code/No-Code Landscape: How It's Reshaping Tech Job Roles – Insights From ZDNet"
-date: 2024-10-07T16:29:56.903Z
-updated: 2024-10-11T17:37:44.975Z
+date: 2024-11-27T08:26:28.695Z
+updated: 2024-12-02T07:35:29.114Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,16 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,24 +176,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-ps1-game-emulation-software-on-your-pc/"><u>[New] Best PS1 Game Emulation Software on Your PC</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-enhance-creativity-top-ai-tools-to-generate-podcast-names/"><u>[New] Enhance Creativity Top AI Tools to Generate Podcast Names</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-growth-galore-strategies-for-surpassing-yield-with-youtube-mobile-audiences/"><u>[Updated] Growth Galore Strategies for Surpassing Yield with YouTube Mobile Audiences</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-the-clouds-advanced-drone-video-techniques/"><u>2024 Approved Capturing the Clouds Advanced Drone Video Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028409186-9/"><u>9人気ファイルコンバータ転送ツールリスト - 動画、オーディオファイルの簡単な変換方法</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-hottest-programming-languages-of-today-and-ideal-learning-resources-as-featured-by-zdnet/"><u>Discover the Hottest Programming Languages of Today & Ideal Learning Resources as Featured by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-large-scale-industries-how-anthropics-revolutionary-claude-plan-transforms-business-ai-capabilities-featured-on-zdnet/"><u>Empowering Large-Scale Industries: How Anthropic's Revolutionary Claude Plan Transforms Business AI Capabilities | Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-vivaldis-new-inbuilt-email-feature-a-stunningly-excellent-addition/"><u>Experience Vivaldi's New Inbuilt Email Feature: A Stunningly Excellent Addition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-enhancements-in-red-hats-newest-enterprise-linux-release-solutions-for-managing-hybrid-cloud-challenges/"><u>Exploring the Enhancements in Red Hat's Newest Enterprise Linux Release: Solutions for Managing Hybrid Cloud Challenges</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-x100-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo X100 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-m14-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy M14 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-s23plus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy S23+ to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/level-up-your-instagram-posts-with-expert-edits/"><u>Level Up Your Instagram Posts with Expert Edits</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leveraging-design-thinking-for-closer-alignment-of-it-experts-with-user-centric-solutions-a-zdnet-perspective/"><u>Leveraging Design Thinking for Closer Alignment of IT Experts with User-Centric Solutions: A ZDNet Perspective</u></a></li>
-<li><a href="https://app-tips.techidaily.com/pioneering-beyond-standard-llms-in-artificial-intelligence-development-insights-from-an-ai-scientist-at-zdnet/"><u>Pioneering Beyond Standard LLMs in Artificial Intelligence Development | Insights From an AI Scientist at ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-elevating-your-pc-from-windows-home-to-professional-version/"><u>Step-by-Step Guide: Elevating Your PC From Windows Home to Professional Version</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-y100-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo Y100 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-free-vmware-productivity-your-step-by-step-tutorial-on-obtaining-personal-copies-of-fusion-pro-and-workstation-pro-zdnet-insights/"><u>Unlock Free VMware Productivity: Your Step-by-Step Tutorial on Obtaining Personal Copies of Fusion Pro and Workstation Pro | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-simplified-access-how-superduperdb-revolutionizes-ai-application-integration-insights-from-zdnet/"><u>Unlocking Simplified Access: How SuperDuperDB Revolutionizes AI Application Integration - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-best-of-the-best-hexacopter-drone-reviews-for-2024/"><u>[New] Best of the Best Hexacopter Drone Reviews for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-step-by-step-strategies-for-hosting-engaging-discord-channels/"><u>[New] Step-by-Step Strategies for Hosting Engaging Discord Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-does-a-vtubing-career-start-and-prospective-path-in-2024/"><u>[Updated] How Does a Vtubing Career Start & Prospective Path, In 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2024s-premier-web-host-services-in-depth-analysis-and-ratings-from-seasoned-professionals-network-world/"><u>2024'S Premier Web Host Services: In-Depth Analysis and Ratings From Seasoned Professionals | Network World</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-top-5-data-commercialization-fallacies-insights-from-zdnet/"><u>Debunking Top 5 Data Commercialization Fallacies: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-low-codeno-code-tools-are-evolving-with-the-rise-of-artificial-intelligence-insights-from-zdnet/"><u>How Low-Code/No-Code Tools Are Evolving With the Rise of Artificial Intelligence: Insights From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-honor-play-7t-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor Play 7T in Minutes | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125189250-lowest-price-ever-grab-black-pla-filament-for-3d-printing-at-only-16kg/"><u>Lowest Price Ever: Grab Black PLA Filament for 3D Printing at Only $16/Kg</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-and-comparisons-by-tech-experts-ciodigest/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews & Comparisons by Tech Experts | CIODIGEST</u></a></li>
 </ul></div>
 

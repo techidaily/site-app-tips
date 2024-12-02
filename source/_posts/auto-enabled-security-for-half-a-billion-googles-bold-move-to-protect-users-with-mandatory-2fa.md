@@ -1,7 +1,7 @@
 ---
 title: "Auto-Enabled Security for Half a Billion: Google's Bold Move to Protect Users with Mandatory 2FA"
-date: 2024-11-20T19:35:05.437Z
-updated: 2024-11-24T03:56:18.859Z
+date: 2024-11-28T16:30:55.313Z
+updated: 2024-12-01T22:40:43.208Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ Google [has auto enrolled](https://blog.google/technology/safety-security/reduci
 The initiative also involved requiring 2 million YouTube users to enable it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google
@@ -79,24 +79,24 @@ Google [announced](https://www.zdnet.com/article/by-end-of-2021-google-plans-to-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-pixlr-essentials-10-pro-tips-to-transform-your-images/"><u>[Updated] Pixlr Essentials 10 Pro Tips to Transform Your Images</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-m34-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy M34 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-complete-guide-restoring-lost-messages-in-whatsapp/"><u>A Complete Guide: Restoring Lost Messages in WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-methods-to-move-your-whatsapp-chats-between-android-devices/"><u>Best Methods to Move Your WhatsApp Chats Between Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/efficient-methods-for-downloading-and-sending-high-resolution-videos-on-whatsapp-compression-techniques-revealed/"><u>Efficient Methods for Downloading and Sending High-Resolution Videos on WhatsApp: Compression Techniques Revealed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/explore-the-highest-rated-virtual-reality-games/"><u>Explore the Highest-Rated Virtual Reality Games</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-saving-your-whatsapp-pdfs-on-an-iphone-with-ease/"><u>Guide: Saving Your WhatsApp PDFs on an iPhone with Ease</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-list-of-no-download-online-gif-to-video-converters/"><u>In 2024, Comprehensive List of No-Download Online GIF to Video Converters</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-utilization-of-unused-film-clips-tips-and-tricks/"><u>In 2024, Utilization of Unused Film Clips Tips and Tricks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/managing-excessive-tiktoks-mastering-edits-and-deletions-for-2024/"><u>Managing Excessive TikToks Mastering Edits & Deletions for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/migrating-your-chats-and-media-a-step-by-step-guide-from-androids-whatsapp-to-ios/"><u>Migrating Your Chats and Media: A Step-by-Step Guide From Android's WhatsApp to iOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-dietary-habits-using-ai-insights/"><u>Optimizing Dietary Habits Using AI Insights</u></a></li>
-<li><a href="https://win-hot.techidaily.com/recuperacion-efectiva-de-archivos-desaparecidos-en-onedrive-post-sincronizacion/"><u>Recuperación Efectiva De Archivos Desaparecidos en OneDrive Post-Sincronización</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-messaging-ultimate-guide-to-whatsapp-passwords-on-ios-and-android-devices/"><u>Secure Your Messaging: Ultimate Guide to WhatsApp Passwords on iOS & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-no-backup-available-errors-in-whatsapp-understanding-the-cause-and-top-5-remediation-strategies/"><u>Solving 'No Backup Available' Errors in WhatsApp: Understanding the Cause & Top 5 Remediation Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/star-wars-the-old-republic-not-working-heres-how-to-get-it-running-smoothly-again/"><u>Star Wars The Old Republic Not Working? Here's How to Get It Running Smoothly Again</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-4-simple-methods-for-securing-your-whatsapp-chats-on-ios-devices/"><u>Top 4 Simple Methods for Securing Your WhatsApp Chats on iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-techniques-for-retrieving-lost-whatsapp-messages-on-android-devices/"><u>Top Techniques for Retrieving Lost WhatsApp Messages on Android Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-select-the-best-cameras-beyond-your-gopro-companion/"><u>[New] Select the Best Cameras Beyond Your GoPro Companion</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-how-to-record-minecraft-on-mac/"><u>[Updated] In 2024, How to Record Minecraft on Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-full-scoop-deciphering-the-google-podcast-app/"><u>2024 Approved Full Scoop Deciphering the Google Podcast App</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-15-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 15 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehebly-repairing-your-ps4-when-it-freezes-a-stepwise-approach/"><u>Comprehebly Repairing Your PS4 When It Freezes - A Stepwise Approach</u></a></li>
+<li><a href="https://app-tips.techidaily.com/digital-privacy-essentials-how-anonymity-empowers-remote-teams-zdnet/"><u>Digital Privacy Essentials: How Anonymity Empowers Remote Teams | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-privacy-in-firefox-how-to-safeguard-stored-usernames-and-passwords-using-a-primary-key/"><u>Enhance Privacy in Firefox: How to Safeguard Stored Usernames and Passwords Using a Primary Key</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/expert-english-evolution-via-mondly-techniques/"><u>Expert English Evolution via Mondly Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-chilly-response-of-corporations-to-the-sizzling-potential-of-5g-technology/"><u>Exploring the Chilly Response of Corporations to the Sizzling Potential of 5G Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/has-microsoft-retracted-its-promises-of-a-complimentary-windows-11-update-insights-from-zdnet/"><u>Has Microsoft Retracted Its Promises of a Complimentary Windows 11 Update? - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-aws-expert-guide-on-navigating-and-thriving-with-amazons-premier-cloud-platform-zdnet-perspectives/"><u>Mastering AWS: Expert Guide on Navigating and Thriving with Amazon's Premier Cloud Platform | ZDNet Perspectives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/no-internet-no-problem-onedrive-enables-offline-file-access-for-uninterrupted-work-zdnet/"><u>No Internet? No Problem! OneDrive Enables Offline File Access for Uninterrupted Work | ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/quick-step-by-step-turning-pictures-into-youtube-desktop-thumbnails/"><u>Quick Step-By-Step Turning Pictures Into YouTube Desktop Thumbnails</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-cloud-services-visionary-insights-from-leading-cto-on-future-models-forbes/"><u>Revolutionizing Cloud Services: Visionary Insights From Leading CTO on Future Models - Forbes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/safe-online-video-conversion-from-youtube-to-mp4-for-2024/"><u>Safe Online Video Conversion - From YouTube to MP4 for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sweet-notion-romance-in-italys-lexicon/"><u>Sweet Notion: Romance in Italy's Lexicon</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-hci-providers-of-2022-expert-analysis-by-zdnet/"><u>Top-Ranked HCI Providers of 2022 - Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-expert-review-of-superior-pandemic-vaccine-administration-platforms-for-healthcare-providers/"><u>ZDNet's Expert Review of Superior Pandemic Vaccine Administration Platforms for Healthcare Providers</u></a></li>
 </ul></div>
 

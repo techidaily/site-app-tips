@@ -1,7 +1,7 @@
 ---
 title: Achieve SQL Mastery with Premier Course Selections - Comprehensive Guide by ZDNet
-date: 2024-10-09T03:39:21.367Z
-updated: 2024-10-11T19:34:20.691Z
+date: 2024-12-01T04:05:08.738Z
+updated: 2024-12-02T10:34:53.370Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,16 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-quick-setup-for-smartphones-as-personalized-vr-headsets/"><u>[New] The Quick Setup for Smartphones as Personalized VR Headsets</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-key-points-to-remember-a-comprehensive-look-at-youtube-tv-for-2024/"><u>[Updated] Key Points to Remember A Comprehensive Look at YouTube TV for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mcb-template-pack-download-now/"><u>[Updated] MCB Template Pack Download Now</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/audiovisual-expertise-selecting-top-video-minds/"><u>Audiovisual Expertise Selecting Top Video Minds</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-features-and-performance-of-the-garmin-forerunner-245-watch/"><u>Exploring the Features and Performance of the Garmin Forerunner 245 Watch</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/mastering-mac-a-step-by-step-guide-to-changing-your-command-key-settings/"><u>Mastering Mac: A Step-by-Step Guide to Changing Your Command Key Settings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-of-upgrading-from-ubuntu-linux-2310-to-2404-a-step-by-step-guide/"><u>Navigating the Challenges of Upgrading From Ubuntu Linux 23.10 to 24.04 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/red-hat-enterprise-linux-release-and-hybrid-cloud/"><u>Red Hat, Enterprise Linux Release, and Hybrid Cloud.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolving-job-landscape-with-ai-how-technology-replaces-and-creates-opportunities-in-training-and-ethics-insights-for-tomorrows-workforce-zdnet/"><u>The Evolving Job Landscape with AI: How Technology Replaces and Creates Opportunities in Training & Ethics | Insights for Tomorrow's Workforce | ZDNet</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-best-imovie-alternative-for-windows-10-free-paid-and-everything-in-between-for-2024/"><u>Updated Discover the Best iMovie Alternative for Windows 10 Free, Paid, and Everything in Between for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-new-release-of-robust-enduring-linux-kernel-for-extended-lifetime-support/"><u>ZDNet Exclusive: New Release of Robust, Enduring Linux Kernel for Extended Lifetime Support</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-leveraging-length-and-style-in-your-instagram-videos/"><u>[Updated] In 2024, Leveraging Length and Style in Your Instagram Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-whats-outside-of-tiktok-a-curated-list-of-popular-channels-for-2024/"><u>[Updated] What's Outside of TikTok? A Curated List of Popular Channels for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-crafting-a-unique-identity-step-by-step-audio-customizations-on-android-phones/"><u>2024 Approved Crafting a Unique Identity Step-by-Step Audio Customizations on Android Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-invalid-device-label-in-windows-os/"><u>Correcting 'Invalid Device' Label in Windows OS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/global-shift-towards-digital-wallets-anticipated-growth-to-16t-asia-paving-the-way-zdnet/"><u>Global Shift Towards Digital Wallets - Anticipated Growth to $1.6T, Asia Paving the Way | ZDNET</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-cutting-edge-strategies-for-recording-slideshows/"><u>In 2024, Cutting-Edge Strategies for Recording Slideshows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-techniques-for-cost-efficient-youtube-introduction-and-conclusion-creation/"><u>In 2024, Techniques for Cost-Efficient YouTube Introduction & Conclusion Creation</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unleash-your-creativity-best-online-collage-makers-for-photos-and-videos/"><u>In 2024, Unleash Your Creativity Best Online Collage Makers for Photos and Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-new-normal-essential-strategies-for-tech-experts-amidst-the-rise-of-artificial-intelligence-insights-from-zdnet/"><u>Navigating the New Normal: Essential Strategies for Tech Experts Amidst the Rise of Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ready-for-upskilling-explore-non-ai-edge-tech-trends-and-tips-learn-more-on-zdnet/"><u>Ready for Upskilling? Explore Non-AI Edge Tech Trends and Tips - Learn More on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-human-connections-why-tech-experts-should-engage-in-meaningful-dialogue-beyond-datasets/"><u>Reviving Human Connections: Why Tech Experts Should Engage in Meaningful Dialogue Beyond Datasets</u></a></li>
+<li><a href="https://win-online.techidaily.com/scopri-i-programmi-di-sincronizzazione-e-restaurazione-piu-efficienti-per-posta-inoltrata-di-outlook-valutazione-comparativa/"><u>Scopri I Programmi Di Sincronizzazione E Restaurazione Più Efficienti per Posta Inoltrata Di Outlook: Valutazione Comparativa</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-guide-for-newcomers-on-av1-for-2024/"><u>The Essential Guide for Newcomers on AV1 for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/training-leaders-before-deploying-artificial-intelligence-insights-from-zdnet/"><u>Training Leaders Before Deploying Artificial Intelligence: Insights From ZDNet</u></a></li>
 </ul></div>
 

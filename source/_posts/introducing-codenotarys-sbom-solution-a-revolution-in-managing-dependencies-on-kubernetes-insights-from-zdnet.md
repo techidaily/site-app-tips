@@ -1,7 +1,7 @@
 ---
 title: "Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet"
-date: 2024-11-18T22:44:42.199Z
-updated: 2024-11-23T22:41:59.274Z
+date: 2024-11-27T17:30:25.175Z
+updated: 2024-12-02T08:53:51.435Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-leading-free-graphic-websites-for-quality-vectors/"><u>[New] 2024 Approved Leading Free Graphic Websites for Quality Vectors</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-maximizing-impact-with-tiktok-video-uploads-from-pcmac-for-2024/"><u>[New] Maximizing Impact with TikTok Video Uploads From PC/Mac for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-a-complete-tutorial-for-professional-gopro-vlogs/"><u>[Updated] 2024 Approved A Complete Tutorial for Professional GoPro Vlogs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-revolution-in-business-understanding-the-shift-to-hundreds-of-models-for-operational-excellence-perspectives-by-zdnet/"><u>AI Revolution in Business: Understanding the Shift to Hundreds of Models for Operational Excellence - Perspectives by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asia-at-forefront-non-cash-payments-projected-to-reach-16-trillion/"><u>Asia at Forefront: Non-Cash Payments Projected to Reach $1.6 Trillion</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asia-spearheads-surge-in-non-monetary-exchanges-projected-reach-of-16-trillion/"><u>Asia Spearheads Surge in Non-Monetary Exchanges: Projected Reach of 1.6 Trillion</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cio-warns-against-complacency-in-ai-development-advocates-for-innovative-thinkers-over-simplistic-ai-prompts-insights-from-zdnet/"><u>CIO Warns Against Complacency in AI Development; Advocates for Innovative Thinkers over Simplistic AI Prompts - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721429042472-cleanse-tweets-of-cursive-symbols-linuss-disclosures-trojan-explanation-and-chatbot-issues/"><u>Cleanse Tweets of Cursive Symbols, Linus’s Disclosures, Trojan Explanation, & ChatBot Issues.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-expertise-in-a-non-ai-dominated-tech-edge-explore-opportunnities-with-zdnet/"><u>Elevate Your Expertise in a Non-AI Dominated Tech Edge – Explore Opportunnities with ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-to-effective-tech-management-begin-by-understanding-the-business-landscape/"><u>Guide to Effective Tech Management: Begin by Understanding the Business Landscape</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-asus-rog-phone-7-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Asus ROG Phone 7 to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-realme-gt-3-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-methods-for-eliminating-invisible-youtube-playback/"><u>In 2024, Methods for Eliminating Invisible YouTube Playback</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-streamlining-sonic-selection-a-guide-to-curating-youtube-content/"><u>In 2024, Streamlining Sonic Selection A Guide to Curating YouTube Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/open-source-as-a-magnet-for-elite-creativity-and-innovation-zdnet/"><u>Open Source as a Magnet for Elite Creativity and Innovation | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-misconception-among-smbs-about-not-needing-cyber-insurance-despite-potential-risks-perspectives-by-zdnet/"><u>The Misconception Among SMBs About Not Needing Cyber Insurance Despite Potential Risks - Perspectives by ZDNET</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-error-loading-player-without-found-sources-for-windows-users/"><u>Troubleshooting Error Loading Player Without Found Sources for Windows Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-your-sons-of-heavenwood-pc-game-crashes-a-step-by-step-guide/"><u>Troubleshooting Your Sons of Heavenwood PC Game Crashes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-importance-of-addressing-legacy-technology-lessons-from-a-failed-system-upgrade/"><u>Understanding the Importance of Addressing Legacy Technology: Lessons From a Failed System Upgrade</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-nailing-the-perfect-capture-mac-tips-for-screencasting-streamed-video/"><u>[Updated] 2024 Approved Nailing the Perfect Capture Mac Tips for Screencasting Streamed Video</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-identifying-premium-free-online-tools-for-efficient-srt-translations/"><u>[Updated] Identifying Premium Free Online Tools for Efficient SRT Translations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-transferring-your-icloud-password-vault-on-and-off-macos/"><u>Comprehensive Guide: Transferring Your iCloud Password Vault on and Off macOS</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-honor-v-purse-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor V Purse Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-email-update-tutorial-how-to-easily-alter-your-current-icloud-id/"><u>ICloud Email Update Tutorial: How To Easily Alter Your Current iCloud ID</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-photo-sharing-a-beginners-complete-step-by-step-tutorial/"><u>ICloud Photo Sharing: A Beginner's Complete Step-by-Step Tutorial</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-gaming-snaps-top-5-windows-11-tactics/"><u>In 2024, Mastering Gaming Snaps Top 5 Windows 11 Tactics</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264324-lost-something-in-your-icloud-storage-master-the-art-of-icloud-backup-data-retrieval/"><u>Lost Something in Your iCloud Storage? Master the Art of iCloud Backup Data Retrieval!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-methods-for-sharing-igtv-in-stories/"><u>Step-by-Step Methods for Sharing IGTV in Stories</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-icloud-message-accessibility-a-comprehensive-approach-for-enabling-your-emails/"><u>Troubleshooting iCloud Message Accessibility: A Comprehensive Approach for Enabling Your Emails</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-resolve-dread-hunger-game-crashes-on-personal-computers/"><u>Troubleshooting Steps to Resolve 'Dread Hunger' Game Crashes on Personal Computers</u></a></li>
 </ul></div>
 

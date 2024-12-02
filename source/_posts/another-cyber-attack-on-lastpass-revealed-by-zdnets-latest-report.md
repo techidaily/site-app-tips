@@ -1,7 +1,7 @@
 ---
 title: Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report
-date: 2024-11-18T20:57:40.177Z
-updated: 2024-11-23T17:48:50.652Z
+date: 2024-11-28T22:52:24.137Z
+updated: 2024-12-02T10:21:55.255Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,20 +81,19 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ultimate-audio-experience-budget-friendly-asmr-mics-reviewed/"><u>[Updated] 2024 Approved Ultimate Audio Experience Budget-Friendly ASMR Mics Reviewed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/directing-your-viewing-path-with-ai-helpers/"><u>Directing Your Viewing Path with AI Helpers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-how-chatgpt-is-revolutionizing-industries-7-real-world-applications/"><u>Discover How ChatGPT Is Revolutionizing Industries: 7 Real-World Applications</u></a></li>
-<li><a href="https://win-docs.techidaily.com/einfache-anleitung-zum-sichern-von-icloud-postfachern-mit-einfachem-prozess/"><u>Einfache Anleitung Zum Sichern Von iCloud-Postfächern Mit Einfachem Prozess</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/facebooks-secrets-to-impressive-cover-video-setup/"><u>Facebook's Secrets to Impressive Cover Video Setup</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-definitive-list-of-5-drone-racing-headsets/"><u>In 2024, The Definitive List of 5 Drone Racing Headsets</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/link-films-for-organized-youtube-display/"><u>Link Films for Organized YouTube Display</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-a-tale-of-office-woes/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown: A Tale of Office Woes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/open-source-mandate-switzerlands-federal-govt-moves-all-software-public/"><u>Open-Source Mandate: Switzerland's Federal Govt. Moves All Software Public</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section/"><u>Section</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-impact-of-russian-aggression-on-ukraines-tech-sector-potential-risks-and-concerns/"><u>The Impact of Russian Aggression on Ukraine's Tech Sector: Potential Risks and Concerns</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-vmwares-power-get-your-hands-on-the-free-personal-versions-of-fusion-pro-and-workstation-pro-zdnet/"><u>Unlocking VMware's Power: Get Your Hands on the Free Personal Versions of Fusion Pro & Workstation Pro | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-deadline-microsoft-must-resolve-major-windows-10-issues-within-just-one-year-insights-from-zdnet/"><u>Urgent Deadline: Microsoft Must Resolve Major Windows 10 Issues Within Just One Year, Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtube-copyrights-demystified-understanding-and-managing-strikes/"><u>YouTube Copyrights Demystified Understanding and Managing Strikes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-ultimate-ranking-the-leading-antivirus-solutions/"><u>ZDNet's Ultimate Ranking: The Leading Antivirus Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-enhance-visual-appeal-edit-videos-for-instagram-success/"><u>[New] In 2024, Enhance Visual Appeal Edit Videos for Instagram Success</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mac-video-excellence-the-creme-de-la-liste-for-sierra-users/"><u>[Updated] 2024 Approved Mac Video Excellence The Crème De La Liste for Sierra Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-secrets-revealed-how-to-boost-facebook-rankings-in-under-a-minute/"><u>[Updated] 2024 Approved Secrets Revealed How to Boost Facebook Rankings in Under a Minute</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-otter-team-edition-unveiled-revolutionize-remote-collaboration-with-adaptive-live-meeting-transcriptions-zdnet-insights/"><u>1. Otter Team Edition Unveiled: Revolutionize Remote Collaboration with Adaptive Live Meeting Transcriptions - ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-coding-skills-the-impact-of-github-copilot-on-developer-workflow-a-zdnet-perspective/"><u>Boost Your Coding Skills: The Impact of GitHub Copilot on Developer Workflow - A ZDNet Perspective</u></a></li>
+<li><a href="https://app-tips.techidaily.com/crowdstrikes-cto-warns-generative-ai-emerges-as-a-major-threat-to-business-security/"><u>CrowdStrike's CTO Warns: Generative AI Emerges as a Major Threat to Business Security</u></a></li>
+<li><a href="https://app-tips.techidaily.com/excel-expert-advice-crafting-a-user-friendly-drop-down-list-in-minutes-with-zdnets-strategies/"><u>Excel Expert Advice: Crafting a User-Friendly Drop-Down List in Minutes with ZDNet's Strategies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/instagram-live-with-professional-obs-for-2024/"><u>Instagram Live with Professional OBS for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-steep-path-to-update-ubuntu-2404-insights-from-zdnet/"><u>Navigating the Steep Path to Update Ubuntu 24.04 - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/stop-losing-your-data-on-usb-sticks-learn-how-to-retrieve-deleted-files-effectively/"><u>Stop Losing Your Data on USB Sticks! Learn How to Retrieve Deleted Files Effectively</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-cutting-edge-of-connectivity-a-look-at-the-best-new-developments-in-5g-and-edge-computing-zdnet/"><u>The Cutting-Edge of Connectivity: A Look at the Best New Developments in 5G and Edge Computing (ZDNET)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-obs-tutorial-for-youtube-and-twitch-broadcasts-for-2024/"><u>The Ultimate OBS Tutorial for YouTube & Twitch Broadcasts for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tools-that-enhance-your-travel-videos/"><u>Tools That Enhance Your Travel Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-7-affordable-mobile-phone-tariffs-a-comprehensive-guide/"><u>Top 7 Affordable Mobile Phone Tariffs : A Comprehensive Guide</u></a></li>
 </ul></div>
 

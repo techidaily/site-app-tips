@@ -1,7 +1,7 @@
 ---
 title: LastPass to Become Separate Business as LogMeIn Executes Split Strategy | Tech Buzz on ZDNet
-date: 2024-11-17T17:12:49.808Z
-updated: 2024-11-23T22:42:53.087Z
+date: 2024-11-26T06:59:33.035Z
+updated: 2024-12-01T23:30:45.076Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ LogMeIn [announced](https://www.logmein.com/newsroom/press-release/2021/logmein-
 The cloud-based solutions company explained that the move allows LastPass to invest heavily in "customer experience, go-to-market functions and engineering" as a way to improve its "organic growth in password management," Single Sign-On (SSO) and multi-factor authentication (MFA). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -86,24 +86,22 @@ In a message to users, LastPass reiterated that it could "strategically increase
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-seamless-integration-12-stream-app-experience/"><u>[New] Seamless Integration 12 Stream App Experience</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-top-5-inspiring-book-tt-showcases-for-2024/"><u>[New] Top 5 Inspiring Book TT Showcases for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tweet-to-whatsapp-video-dissemination-methods-for-2024/"><u>[New] Tweet-to-WhatsApp Video Dissemination Methods for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-techniques-for-convenient-iphone-screen-recording/"><u>[Updated] Essential Techniques for Convenient Iphone Screen Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-android-viewer-for-high-quality-3d/"><u>2024 Approved Immersive Android Viewer for High-Quality 3D</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/5yq5546h55qe44gq5oml6acg44gn44cb6lk755so5lin6kab44gu44k944ov44oi44km44kn44ki44ks5l244gj44gf44oh44kj44k544kv44of44op44o844oq44oz44kw5pa55rov/"><u>効率的な手順で、費用不要のソフトウェアを使ったディスクミラーリング方法</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-on-moving-your-itunes-media-library-onto-an-external-storage-device-for-mac-and-pc-users/"><u>Complete Tutorial on Moving Your iTunes Media Library Onto an External Storage Device for Mac and PC Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-anytime-anythnough-how-to-get-past-or-latest-itunes-versions-for-pcs-and-apple-devices-without-paying-a-dime/"><u>Download Anytime, Anythnough: How to Get Past or Latest iTunes Versions for PCs and Apple Devices Without Paying a Dime</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminate-sound-interference-issues-on-a-windows-10-system-a-comprehensive-walkthrough/"><u>Eliminate Sound Interference Issues on a Windows 10 System: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/filmmakers-checklist-on-the-go-gear-guide-for-2024/"><u>Filmmaker's Checklist On-the-Go Gear Guide for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-recover-lost-contacts-from-your-iphones-itunes-backup/"><u>How to Recover Lost Contacts From Your iPhone's iTunes Backup</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-fix-guide-eliminate-itunes-music-duplicates-with-simple-methods/"><u>Quick Fix Guide: Eliminate iTunes Music Duplicates with Simple Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revamp-your-itunes-collection-with-these-proven-techniques-for-inserting-album-images/"><u>Revamp Your iTunes Collection with These Proven Techniques for Inserting Album Images</u></a></li>
-<li><a href="https://app-tips.techidaily.com/syncing-imovie-projects-with-itunes-a-step-by-step-guide/"><u>Syncing iMovie Projects with iTunes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-12-replacements-for-itunes-on-pc-and-mac-in-2n34-best-options-explored/"><u>Top 12 Replacements for iTunes on PC and Mac in 2N34 - Best Options Explored</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/k-video-potential-premium-lens-selection-tips/"><u>Unlock Video Potential Premium Lens Selection Tips</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-6-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 6</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-building-visual-story-arcs/"><u>[New] 2024 Approved Building Visual Story Arcs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-engaging-audiences-youtube-shorts-vs-tiktok-trends/"><u>[New] 2024 Approved Engaging Audiences Youtube Shorts Vs. TikTok Trends</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-carryminati-financial-triumphs-with-ajey-nagar/"><u>[Updated] In 2024, CarryMinati Financial Triumphs with Ajey Nagar</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-list-of-online-havens-for-free-tamil-ringtones-for-2024/"><u>[Updated] The Ultimate List of Online Havens for Free Tamil Ringtones for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-insightful-analysis-unveiling-the-challenges-of-leveraging-generative-ai-in-business-key-findings-from-deloittes-latest-study/"><u>1. Insightful Analysis: Unveiling the Challenges of Leveraging Generative AI in Business - Key Findings From Deloitte's Latest Study</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-list-of-affordable-licensed-game-music-websites/"><u>2024 Approved List of Affordable, Licensed Game Music Websites</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amazon-introduces-innovative-ai-metric-for-response-accuracy-and-grounding/"><u>Amazon Introduces Innovative AI Metric for Response Accuracy and Grounding</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explosive-expansion-of-lowno-code-tech-sector-signals-evolving-job-landscape-insights-from-zdnet/"><u>Explosive Expansion of Low/No-Code Tech Sector Signals Evolving Job Landscape: Insights From ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/five-strategies-for-recovering-erased-or-missing-files-from-your-xbox-one-console/"><u>Five Strategies for Recovering Erased or Missing Files From Your Xbox One Console</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-amazon-is-redefining-ai-assessment-with-a-novel-rag-metric-insights-from-recent-zdnet-analysis/"><u>How Amazon Is Redefining AI Assessment with a Novel RAG Metric – Insights From Recent ZDNET Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/language-model-face-off-deciding-between-bard-chatgpt-and-offline-alpaca/"><u>Language Model Face-Off: Deciding Between Bard, ChatGPT, and Offline Alpaca</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-efficiency-on-chromebooks-discover-essential-navigation-tricks-and-performance-boosters-zdnet/"><u>Maximize Efficiency on Chromebooks: Discover Essential Navigation Tricks & Performance Boosters | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-job-market-the-persistent-value-of-open-source-expertise-and-linux-knowledge-in-challenging-economic-times-insights-from-zdnet/"><u>Navigating the Job Market: The Persistent Value of Open Source Expertise & Linux Knowledge in Challenging Economic Times - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/restore-defaults-a-comprehensive-tutorial-for-mac-network-setup/"><u>Restore Defaults: A Comprehensive Tutorial for Mac Network Setup</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-honor-x8b-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Honor X8b to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-innovators-flocking-to-open-source-projects-a-deep-dive-zdnet/"><u>Top Innovators Flocking to Open Source Projects - A Deep Dive | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/work-anywhere-discover-how-onedrives-new-offline-feature-keeps-you-productive-no-matter-where-you-are/"><u>Work Anywhere: Discover How OneDrive's New Offline Feature Keeps You Productive, No Matter Where You Are</u></a></li>
 </ul></div>
 

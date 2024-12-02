@@ -1,7 +1,7 @@
 ---
 title: "How Development Work Is Changing: A Conversation with Atlassian's Agnes Ro, as Spotted on ZDNet"
-date: 2024-10-10T23:16:04.864Z
-updated: 2024-10-12T04:29:13.639Z
+date: 2024-11-28T07:36:28.072Z
+updated: 2024-12-02T01:18:30.140Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-iphone-image-editing-learn-to-change-resolution/"><u>[New] IPhone Image Editing Learn to Change Resolution</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-elevate-visibility-maximize-views-seo-for-videos/"><u>[Updated] In 2024, Elevate Visibility, Maximize Views - SEO for Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-metaviews-analyzing-6-in-depth-metaverse-scenarios/"><u>[Updated] Metaviews Analyzing 6 In-Depth Metaverse Scenarios</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-seamless-integration-of-luts-for-enhanced-cinematography-for-2024/"><u>[Updated] Seamless Integration of LUTs for Enhanced Cinematography for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-podcasters-handbook-writing-strategies-and-sample-scripts-available-free/"><u>2024 Approved The Podcaster's Handbook Writing Strategies & Sample Scripts Available Free</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordability-vs-functionality-in-the-winegard-fl5500a-flatwave-antenna-review/"><u>Affordability Vs. Functionality in the Winegard FL5500A FlatWave Antenna Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-6-cross-platform-explorers-navigating-iphones-on-windows-and-macos/"><u>Best 6 Cross-Platform Explorers: Navigating iPhones on Windows & macOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-3ds-emulator-apps-top-picks-for-windows-mac-ios-and-android/"><u>Best Free 3DS Emulator Apps: Top Picks for Windows, Mac, iOS & Android</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-virtual-reality-movie-experiences-top-15-vr-apps-for-iphone-and-android/"><u>Best Virtual Reality Movie Experiences: Top 15 VR Apps for iPhone and Android</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620195653-discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More</u></a></li>
-<li><a href="https://app-tips.techidaily.com/endless-interruptions-a-complete-guide-to-stopping-unsolicited-calls-on-your-smartphone/"><u>Endless Interruptions: A Complete Guide to Stopping Unsolicited Calls on Your Smartphone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-15-pro-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 15 Pro Without a Home Button</u></a></li>
-<li><a href="https://app-tips.techidaily.com/optimize-your-business-with-cutting-edge-android-mdm-options-and-features/"><u>Optimize Your Business With Cutting-Edge Android MDM Options and Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-answer-airpods-and-nintendo-switch-connectivity-explained/"><u>The Ultimate Answer: AirPods and Nintendo Switch Connectivity Explained</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-exploring-significance-and-usage-of-a-blue-emoji-on-messenger/"><u>[New] 2024 Approved Exploring Significance and Usage of a Blue Emoji on Messenger</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-primary-screening-footage-study-and-off-the-cuff-selections/"><u>[New] In 2024, Primary Screening Footage Study and Off-the-Cuff Selections</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-visionsplit-assessment-overview/"><u>[New] VisionSplit Assessment Overview</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-elevating-visual-experience-big-is-better/"><u>[Updated] In 2024, Elevating Visual Experience Big Is Better</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-learn-how-to-split-your-screen-while-watching-netflix/"><u>[Updated] In 2024, Learn How To Split Your Screen While Watching Netflix</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-coding-skills-with-patience-and-productivity-unveiling-github-copilots-impact-on-software-development-zdnet/"><u>Advancing Coding Skills with Patience & Productivity: Unveiling GitHub Copilot's Impact on Software Development - ZDNet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-versatile-linksys-max-stream-ac1900-muaa2000-a-router-that-fits-every-lifestyle/"><u>Exploring the Versatile Linksys Max-Stream AC1900 (MUAA2000): A Router That Fits Every Lifestyle</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-sunset-of-windows-11-5-essential-steps-to-take-as-microsoft-ends-support/"><u>Facing the Sunset of Windows 11: 5 Essential Steps to Take as Microsoft Ends Support</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-call-of-duty-vanguard-stability-improvements-for-desktop-users/"><u>Resolved: Call of Duty Vanguard Stability Improvements for Desktop Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-design-of-an-artificial-earth-plane-can-vary-depending-on-the-frequency-of-operation-at-lower-frequencies-a-larger-physical-area-may-be-needed-to-effect85/"><u>The Design of an Artificial Earth Plane Can Vary Depending on the Frequency of Operation; at Lower Frequencies, a Larger Physical Area May Be Needed to Effectively Reflect Radio Waves.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-role-of-citizen-developers-in-streamlining-corporate-tech-initiatives/"><u>The Rising Role of Citizen Developers in Streamlining Corporate Tech Initiatives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-creativity-how-open-source-projects-draw-in-elite-innovators-insights-from-zdnet/"><u>Unlocking Creativity: How Open-Source Projects Draw in Elite Innovators - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-companies-find-it-hard-to-utilize-generative-ai-unveiling-survey-results-by-deloitte-as-featured-on-zdnet/"><u>Why Companies Find It Hard to Utilize Generative AI - Unveiling Survey Results by Deloitte as Featured on ZDNet</u></a></li>
 </ul></div>
 

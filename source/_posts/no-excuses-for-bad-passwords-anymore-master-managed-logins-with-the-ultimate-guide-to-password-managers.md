@@ -1,7 +1,7 @@
 ---
 title: No Excuses for Bad Passwords Anymore - Master Managed Logins with the Ultimate Guide to Password Managers
-date: 2024-11-18T21:01:54.974Z
-updated: 2024-11-23T23:03:25.717Z
+date: 2024-11-25T04:36:56.148Z
+updated: 2024-12-02T11:23:22.094Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Tell me, what is the password for your bank account? If you can rattle off that password without thinking, chances are pretty good it's not nearly strong enough. Any password you can memorize (unless you have an amazing memory) is probably weak. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -38,7 +38,7 @@ Of course, at this point, you're thinking, "I don't want to have to memorize a b
 Let's step back a bit.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does this even work?
@@ -113,17 +113,18 @@ You've been warned.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-10-highly-trusted-free-video-communication-tools-with-security-features-for-2024/"><u>[New] 10 Highly-Trusted Free Video Communication Tools with Security Features for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-million-prize-the-latest-boost-in-bugcrowds-premium-vulnerability-reporting-insight-for-security-experts/"><u>$1 Million Prize: The Latest Boost in Bugcrowd's Premium Vulnerability Reporting - Insight for Security Experts</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728482629154-windows-11/"><u>解決 Windows 11 壓縮暫存檔失效問題 - 全面指南</u></a></li>
-<li><a href="https://media-tips.techidaily.com/complete-tutorial-easily-convert-mxf-to-compatible-clips-for-imovie-on-mac-using-top-rated-mxf-conversion-software/"><u>Complete Tutorial: Easily Convert MXF to Compatible Clips for iMovie on Mac Using Top-Rated MXF Conversion Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-windows-code-0x0000004e-hiccups/"><u>Fixing Windows' Code 0X0000004E Hiccups</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Realme C55? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-tecno-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Tecno</u></a></li>
-<li><a href="https://media-tips.techidaily.com/introducing-the-new-era-sharps-oled-smart-tvs-with-roku-integration-now-available/"><u>Introducing the New Era: Sharp's OLED Smart TVs with Roku Integration Now Available</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/iphone-time-travel-mastering-prolonged-photo-captures-for-2024/"><u>IPhone Time Travel Mastering Prolonged Photo Captures for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-security-how-dashlanes-passwordless-logins-eliminate-the-hassle-of-remembering-one-overarching-password-insights-from-zdnet/"><u>Master Your Security: How Dashlane's Passwordless Logins Eliminate the Hassle of Remembering One Overarching Password - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-invest-in-1password-exceptional-security-and-features-justify-premium-price-tag-for-users-cyberguardian-review/"><u>Why Invest in 1Password? Exceptional Security and Features Justify Premium Price Tag for Users | CyberGuardian Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-investigates-the-recent-cybersecurity-breach-exposing-30kplus-healthcare-workers-confidential-details-in-florida-database/"><u>ZDNet Investigates the Recent Cybersecurity Breach Exposing 30K+ Healthcare Workers' Confidential Details in Florida Database</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-culinary-craftsmanship-innovative-naming-for-food-shows-for-2024/"><u>[Updated] Culinary Craftsmanship Innovative Naming for Food Shows for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/365-as-revealed-by-zdnet/"><u>365, as Revealed by ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-met-not-satisfied-tagging-on-win11/"><u>Bypass Met Not Satisfied Tagging on Win11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-challenge-ahead-microsoft-must-fix-major-windows-11-issues-before-launch-deadline-insights-from-zdnet/"><u>Critical Challenge Ahead: Microsoft Must Fix Major Windows 11 Issues Before Launch Deadline - Insights From ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-logitech-g633-microphone-connectivity-issues/"><u>Diagnosing & Repairing Logitech G633 Microphone Connectivity Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-methods-for-fetching-asus-routers-compatible-wifi-drivers-online/"><u>Easy Methods for Fetching ASUS Router's Compatible WiFi Drivers Online</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-end-of-mainstream-windows-11-support-soon-explore-your-5-last-resort-options-now/"><u>Facing the End of Mainstream Windows 11 Support Soon? Explore Your 5 Last Resort Options Now!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/israelian-voyage-preparation-essential-insights-and-local-speak/"><u>Israelian Voyage Preparation: Essential Insights & Local Speak</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-cyberpunk-2077-installation-tips-for-bypassing-downloading-hurdles-on-steam/"><u>Mastering Cyberpunk 2077 Installation: Tips for Bypassing Downloading Hurdles on Steam</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-main-lobe-or-beam-represents-the-direction-in-which-an-antenna-radiates-most-of-its-energy-a-highly-directive-antenna-has-a-narrow-main-lobe/"><u>The Main Lobe, or Beam, Represents the Direction in Which an Antenna Radiates Most of Its Energy; a Highly Directive Antenna Has a Narrow Main Lobe.</u></a></li>
+<li><a href="https://facebook.techidaily.com/top-6-benefits-why-facebook-remains-essential/"><u>Top 6 Benefits: Why Facebook Remains Essential</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-update-microsoft-faces-major-challenges-with-windows-11-just-one-year-left/"><u>Urgent Update: Microsoft Faces Major Challenges with Windows 11 - Just One Year Left!</u></a></li>
 </ul></div>
 

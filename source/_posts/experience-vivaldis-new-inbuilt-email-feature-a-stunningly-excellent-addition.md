@@ -1,7 +1,7 @@
 ---
 title: "Experience Vivaldi's New Inbuilt Email Feature: A Stunningly Excellent Addition"
-date: 2024-09-29T09:37:32.963Z
-updated: 2024-09-30T22:11:49.814Z
+date: 2024-11-27T13:06:45.790Z
+updated: 2024-12-01T20:42:04.281Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-hidden-dangers-of-high-follower-bloat-avoidance-tactics/"><u>[Updated] 2024 Approved The Hidden Dangers of High-Follower Bloat Avoidance Tactics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-lengthy-iphone-photo-captures/"><u>[Updated] Mastering Lengthy iPhone Photo Captures</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-obscured-oath-vs-illuminated-ideal-black-vs-silver/"><u>2024 Approved Obscured Oath Vs Illuminated Ideal Black vs Silver</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-solutions-combating-it-professional-burnout-and-alert-overload-with-technology-insights-from-zdnet/"><u>AI Solutions: Combating IT Professional Burnout & Alert Overload with Technology Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asia-spearheads-the-surge-in-non-cash-payments-anticipated-global-reach-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Cash Payments: Anticipated Global Reach of $1.6 Trillion</u></a></li>
-<li><a href="https://app-tips.techidaily.com/attracting-global-tech-pioneers-the-power-of-open-source-zdnet/"><u>Attracting Global Tech Pioneers: The Power of Open Source | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-leaders-top-6-strategies-for-enhancing-executive-technological-proficiency-zdnet/"><u>Empowering Leaders: Top 6 Strategies for Enhancing Executive Technological Proficiency | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-manager-education-prior-to-enterprise-ai-adoption-lessons-by-zdnet/"><u>Essential Manager Education Prior to Enterprise AI Adoption - Lessons by ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-honor-100-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Honor 100 Pro</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-turn-your-videos-into-treasures-the-best-dvd-creation-software-for-preserving-memories/"><u>In 2024, Turn Your Videos Into Treasures The Best DVD Creation Software for Preserving Memories</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-professional-success-in-an-ai-driven-world-insights-from-industry-leaders/"><u>Navigating Professional Success in an AI-Driven World: Insights From Industry Leaders</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/premium-cloud-apps-for-android-the-most-reliable-for-2024/"><u>Premium Cloud Apps for Android The Most Reliable for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/southwest-passengers-excited-as-delta-reveals-bland-update-whats-at-stake-for-the-airlines-industry/"><u>Southwest Passengers Excited as Delta Reveals Bland Update: What's at Stake for the Airlines Industry?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-pc-functions-mtk-usb-for-windows/"><u>Streamline PC Functions - MTK USB for Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-cropping-and-editing-music-in-canva/"><u>The Ultimate Guide Cropping & Editing Music in Canva</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-crafting-content-masterpieces-select-the-ultimate-androidpc-apps/"><u>[New] In 2024, Crafting Content Masterpieces Select the Ultimate Android/PC Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-tactical-titles-trailer-producer/"><u>[Updated] 2024 Approved Tactical Titles Trailer Producer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-insight-into-online-media-distribution-and-fb-copyright-policies-for-2024/"><u>[Updated] Insight Into Online Media Distribution and FB Copyright Policies for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypassing-phone-numbers-how-to-use-apps-and-apis-easily/"><u>Bypassing Phone Numbers: How to Use Apps and APIs Easily</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-steps-to-transition-from-windows-to-linux-mint-for-optimized-performance-cnet/"><u>Complete Steps to Transition From Windows to Linux Mint for Optimized Performance | C|Net</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolution-of-dev-responsibilities-as-seen-by-agnes-ro-of-atlassian-expert-analysis-on-zdnet/"><u>Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-quality-quilting-turning-photographic-patterns-into-cartoons/"><u>In 2024, Quick Quality Quilting Turning Photographic Patterns Into Cartoons</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-codenotarys-sbom-solution-a-revolution-in-managing-dependencies-on-kubernetes-insights-from-zdnet/"><u>Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-mouse-interaction-unlocking-potential-with-clicklock/"><u>Mastering Mouse Interaction: Unlocking Potential with ClickLock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-crm-platforms-of-2022-revealed-see-whos-leading-in-customer-engagement-zdnet/"><u>Top CRM Platforms of 2022 Revealed: See Who's Leading in Customer Engagement - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-leading-antivirus-programs-according-to-zdnet/"><u>Ultimate List: Leading Antivirus Programs , According to ZDNet</u></a></li>
 </ul></div>
 

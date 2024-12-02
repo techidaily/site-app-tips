@@ -1,7 +1,7 @@
 ---
 title: "Amazon Introduces Revolutionary AI Performance Metric: The Next-Gen RAG System Unveiled by ZDNet"
-date: 2024-10-28T16:32:00.509Z
-updated: 2024-11-04T17:01:47.005Z
+date: 2024-11-25T03:41:44.231Z
+updated: 2024-12-01T19:30:32.257Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-facetime-made-simple-for-android-users/"><u>[New] FaceTime Made Simple for Android Users</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-leading-top-5-agile-and-lightweight-cameras-list-for-2024/"><u>[New] Leading Top 5 Agile and Lightweight Cameras List for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-optimize-your-channels-an-introduction-to-youtube-statistics/"><u>2024 Approved Optimize Your Channels An Introduction to YouTube Statistics</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-reclaiming-iphone-hdr-footage-premiere-pros-fixes-for-overexposure/"><u>2024 Approved Reclaiming iPhone HDR Footage Premiere Pro's Fixes for Overexposure</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-6-mobile-explorer-tools-compatible-with-ios-devices-on-pcmac-systems/"><u>Discover the Top 6 Mobile Explorer Tools Compatible with iOS Devices on PC/Mac Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-10-alternatives-to-app-lock-on-android-devices/"><u>Discover the Ultimate 10 Alternatives to App Lock on Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-insights-the-definitive-guide-to-gopro-quik-a-comprehensive-analysis/"><u>Essential Insights: The Definitive Guide to GoPro Quik - A Comprehensive Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-mastering-your-android-device-top-free-and-premium-rooting-apps/"><u>Guide: Mastering Your Android Device - Top Free & Premium Rooting Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/hulu-vs-hulu-plus-an-in-depth-look-at-their-unique-offerings/"><u>Hulu Vs. Hulu Plus - An In-Depth Look at Their Unique Offerings.</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-canon-mg3620-driver-installation-online/"><u>Step-by-Step Guide to Canon MG3620 Driver Installation Online</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-3-free-android-block-game-apps-reviews-and-download-links/"><u>Top 3 Free Android Block Game Apps: Reviews & Download Links</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194385-top-ranked-shotcut-video-editor-a-comprehensive-guide-dont-miss-it/"><u>Top-Ranked Shotcut Video Editor: A Comprehensive Guide - Don't Miss It</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194671-transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitters-favorite-tiktoks-the-ultimate-list-for-2024/"><u>Twitter's Favorite TikToks The Ultimate List for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-y100a-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo Y100A? Fixed | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-hidden-details-you-need-to-know-about-youtube-tv-service/"><u>[New] In 2024, Hidden Details You Need to Know About YouTube TV Service</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unlocking-the-secrets-of-advanced-virtualization/"><u>[Updated] Unlocking the Secrets of Advanced Virtualization</u></a></li>
+<li><a href="https://app-tips.techidaily.com/edge-computing-boom-unpacking-how-this-trend-shapes-future-careers-insights-from-zdnet/"><u>Edge Computing Boom: Unpacking How This Trend Shapes Future Careers - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-generative-ai-enhances-productivity-and-reshapes-the-role-of-software-developers-zdnet-insights/"><u>How Generative AI Enhances Productivity and Reshapes the Role of Software Developers | ZDNet Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206502142-how-to-fix-class-not-registered-errors-on-windows-11-solved/"><u>How to Fix 'Class Not Registered' Errors on Windows 11 – Solved</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-ultimate-srt-download-blueprint-from-youtube/"><u>In 2024, The Ultimate SRT Download Blueprint From YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-error-code-0x800f0831-a-step-by-step-guide/"><u>Quick Fixes for Error Code 0X800f0831: A Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/resolving-dvd-drive-problems-a-step-by-step-guide-tips-from-yl-computing/"><u>Resolving DVD Drive Problems: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-bulletproof-ai-watermarks-insights-from-zdnet/"><u>The Ultimate Guide to Bulletproof AI Watermarks: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-plans-of-2024-comprehensive-reviews-and-comparisons-techradar/"><u>Top-Ranked Web Hosting Plans of 2024: Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-360-degree-and-virtual-reality-cinematography-for-2024/"><u>Understanding 360-Degree and Virtual Reality Cinematography for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-profitability-with-generative-ai-understanding-roi-challenges-and-strategies-featured-in-zdnet/"><u>Unlocking Profitability with Generative AI: Understanding ROI Challenges and Strategies | Featured in ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-data-as-key-ingredient-in-crafting-smart-ai-solutions-strategies-for-completing-your-technological-jigsaw/"><u>Unveiling Data as Key Ingredient in Crafting Smart AI Solutions: Strategies for Completing Your Technological Jigsaw</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring AI, Embracing Rust, and the Critical Role of Linux Kernel with Linus Torvalds | Tech Insights
-date: 2024-10-30T16:48:20.838Z
-updated: 2024-11-04T17:09:35.503Z
+date: 2024-11-29T21:57:20.835Z
+updated: 2024-12-02T05:13:52.027Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,16 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-pinnacle-photo-narrative-assembly-platform/"><u>[New] Pinnacle Photo Narrative Assembly Platform</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-effortless-audio-integration-for-inshot-devices/"><u>[Updated] 2024 Approved Effortless Audio Integration for InShot Devices</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-detecting-invisible-interactions-on-snapchat-for-2024/"><u>[Updated] Detecting Invisible Interactions on Snapchat for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-learn-how-to-build-youtube-backlinks-for-your-channel-for-2024/"><u>[Updated] Learn How to Build YouTube Backlinks for Your Channel for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-optimize-zoom-audio-in-2-steps-to-enhance-hearing-experience/"><u>2024 Approved Optimize Zoom Audio in 2 Steps to Enhance Hearing Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-the-price-tag-on-ea-play/"><u>Evaluating the Price Tag on EA Play</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-creating-and-sharing-video-calls-via-skype-whatsapp/"><u>Step-by-Step Tutorial: Creating & Sharing Video Calls via Skype, WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-25-best-iphone-video-editors-a-comprehensive-guide-from-iphone-x-to-iphone-5/"><u>Top 25 Best iPhone Video Editors: A Comprehensive Guide From iPhone X to iPhone 5</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-4-innovative-loop-video-creators-best-apps-for-android-and-ios/"><u>Top 4 Innovative Loop Video Creators: Best Apps for Android and iOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-proven-methods-to-seamlessly-transform-epub-into-text-files-a-comprehensive-guide/"><u>Top 7 Proven Methods to Seamlessly Transform ePub Into Text Files: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722997557200-troubleshooting-your-pc-for-continuous-dirt-crashes-solutions-inside/"><u>Troubleshooting Your PC for Continuous Dirt ^_^ Crashes: Solutions Inside</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-perfecting-your-ringtone-choices-on-an-iphone/"><u>[New] In 2024, Perfecting Your Ringtone Choices on an iPhone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-engage-audience-directly-from-xbox-with-fb-live/"><u>[Updated] Engage Audience Directly From Xbox with FB Live</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-clicking-around-unveiling-the-future-of-uis-with-generative-ai-zdnet/"><u>Beyond Clicking Around: Unveiling the Future of UIs with Generative AI | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-for-singaporean-smes-equip-your-team-with-genai-skills-insights-from-zdnet/"><u>Comprehensive Guide for Singaporean SMEs: Equip Your Team with GenAI Skills - Insights From ZDNet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-13-pro-max-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/effortless-harmony-creating-engaging-and-organized-youtube-playlists/"><u>Effortless Harmony Creating Engaging and Organized YouTube Playlists</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/te-your-vlogs-optimizing-title-description-and-tags/"><u>Elevate Your Vlogs Optimizing Title, Description & Tags</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-xs-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone XS? How to Fix</u></a></li>
+<li><a href="https://app-tips.techidaily.com/marketing-strategies-evolve-with-ai-how-many-are-on-board-an-analysis-by-zdnet/"><u>Marketing Strategies Evolve with AI: How Many Are on Board? An Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-start-with-understanding-your-companys-core-goals-insights-from-zdnet/"><u>Mastering Tech Team Leadership: Start with Understanding Your Company's Core Goals | Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/unveiling-the-ultimate-home-cinema-a-comprehensive-review-of-the-55-inch-samsung-ru7300-qled-4k-tv/"><u>Unveiling the Ultimate Home Cinema: A Comprehensive Review of the 55-Inch Samsung RU7300 QLED 4K TV</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-business-executives-doubt-it-reliability-insights-from-a-new-ibm-research-revealed-on-zdnet/"><u>Why Business Executives Doubt IT Reliability: Insights From a New IBM Research Revealed on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-recent-study-a-staggering-25-of-tech-workers-may-soon-seek-new-employment-opportunities/"><u>ZDNet's Recent Study: A Staggering 25% of Tech Workers May Soon Seek New Employment Opportunities</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Side and Back Lobes Are Usually Undesirable as They Represent Radiation in Directions that Do Not Contribute to Effective Communication and Can Cause Interference.
-date: 2024-11-07T19:08:01.613Z
-updated: 2024-11-13T16:01:58.184Z
+date: 2024-11-26T07:48:39.697Z
+updated: 2024-12-02T01:02:40.850Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-expertly-choosing-the-best-screen-snipers-on-windows/"><u>[New] 2024 Approved Expertly Choosing The Best Screen Snipers on Windows</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-integrating-instagram-effects-into-pre-existing-content/"><u>[Updated] 2024 Approved Integrating Instagram Effects Into Pre-Existing Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-reimagine-your-storytelling-with-smartly-scaled-instagram-videos-for-2024/"><u>[Updated] Reimagine Your Storytelling with Smartly Scaled Instagram Videos for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/10-best-ai-chatbot-tools-that-will-transform-how-you-communicate/"><u>10 Best AI Chatbot Tools That Will Transform How You Communicate</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-accessible-gamers-soundtrack-without-restrictions/"><u>2024 Approved Accessible Gamers' Soundtrack Without Restrictions</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-deep-dive-into-microsofts-bing-chat-and-its-use-of-advanced-ai-like-gpt-4/"><u>A Deep Dive Into Microsoft's Bing Chat and Its Use of Advanced AI Like GPT-4</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-guide-to-evaluating-gpt-powered-conversational-agents-insights-and-recommendations/"><u>Essential Guide to Evaluating GPT-Powered Conversational Agents - Insights & Recommendations</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g04frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G04FRP Lock</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-eva-ai-by-ex-journey-the-ultimate-chatbot-review/"><u>In-Depth Analysis: EVA AI by Ex Journey - The Ultimate Chatbot Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/inverting-film-tracks-in-mobile-devices/"><u>Inverting Film Tracks in Mobile Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-trick-to-finding-out-if-someone-has-read-your-chat-methods-and-tips/"><u>The Ultimate Trick to Finding Out if Someone Has Read Your Chat: Methods & Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-gpt-powered-ai-chatbot-comprehensive-insights-and-reviews/"><u>Top Rated GPT-Powered AI Chatbot: Comprehensive Insights & Reviews</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-of-chatsonic-in-depth-analysis-and-key-takeawutes-for-mastery-over-the-advanced-ai-chatterbot/"><u>Unlocking the Secrets of Chatsonic: In-Depth Analysis and Key Takeawutes for Mastery over the Advanced AI Chatterbot</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-most-superior-ai-conversational-agents-is-it-chatai-gdt-or-aibot/"><u>Unveiling the Most Superior AI Conversational Agents: Is It ChatAi GDT or AiBot?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-bing-chat-interacting-with-artificial-intelligence-via-gpt-technology/"><u>Unveiling the Power of Bing Chat: Interacting with Artificial Intelligence via GPT Technology</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-creating-a-diminuendo-effect-in-imovie-audio-tracks/"><u>Updated Creating a Diminuendo Effect in iMovie Audio Tracks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-syncing-songs-to-social-networks-iphonesandroid-approach/"><u>[New] In 2024, Syncing Songs to Social Networks IPhones/Android Approach</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-closeup-essential-filmmaking-tips/"><u>[New] Mastering the Art of Closeup Essential Filmmaking Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-procure-no-cost-media-content-from-prime-4-youtube-vids/"><u>2024 Approved Procure No-Cost Media Content From Prime 4 YouTube Vids</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-and-fair-evaluation-of-airwatch-your-ultimate-guide/"><u>Comprehensive and Fair Evaluation of AirWatch - Your Ultimate Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-the-latest-insignia-wireless-receiver-drivers-for-windows/"><u>Download & Install the Latest Insignia Wireless Receiver Drivers for Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-and-use-the-free-ogg-media-player-compatible-with-pc-and-mac/"><u>Download & Use the Free OGG Media Player Compatible with PC & Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-photography-skills-discover-5-remarkable-tools-for-upgrading-and-perfecting-images-beyond-remini/"><u>Elevate Your Photography Skills: Discover 5 Remarkable Tools for Upgrading and Perfecting Images Beyond Remini</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-fortnite-from-crashing-on-pc-complete-guide/"><u>How To Stop Fortnite From Crashing On PC - Complete Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-video-collage-app-how-to-make-split-screen-videos-for-2024/"><u>Instagram Video Collage App How to Make Split Screen Videos for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193647-unlock-ultimate-convenience-and-safety-on-ios-discover-the-premier-password-protector-app/"><u>Unlock Ultimate Convenience & Safety on iOS - Discover the Premier Password Protector App!</u></a></li>
 </ul></div>
 

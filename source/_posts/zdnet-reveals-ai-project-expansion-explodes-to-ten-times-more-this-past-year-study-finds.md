@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reveals AI Project Expansion Explodes to Ten Times More This Past Year - Study Finds
-date: 2024-10-11T03:51:11.330Z
-updated: 2024-10-12T06:59:34.850Z
+date: 2024-11-24T17:30:03.525Z
+updated: 2024-12-01T16:26:03.435Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-enhance-your-photography-journey-adding-music-and-filters-in-windows-10-photos/"><u>[New] Enhance Your Photography Journey Adding Music and Filters in Windows 10 Photos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-illusory-motion-capture-guide/"><u>[New] Illusory Motion Capture Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-quick-stitching-together-synchronizing-obs-and-zoom/"><u>[New] Quick Stitching Together Synchronizing OBS and Zoom</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-step-by-step-crafting-time-lapses-on-a-canon/"><u>[Updated] In 2024, Step-by-Step Crafting Time-Lapses on a Canon</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-bing-chat-and-its-synergy-with-gpt-n-language-models/"><u>Comprehensive Guide to Bing Chat & Its Synergy with GPT-N Language Models</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620185282-comprehensive-guide-to-the-eva-ai-chatbot-from-ex-journey-dont-miss-this/"><u>Comprehensive Guide to the EVA AI Chatbot From Ex Journey – Don't Miss This</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-top-10-innovative-ai-chatbots-for-superior-conversations/"><u>Experience Next-Level Interaction: Top 10 Innovative AI Chatbots for Superior Conversations</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-12-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 12 Pro Max and iPad</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oneplus-12-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent OnePlus 12 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-microsofts-bing-chat-feature-using-advanced-ai-and-gpt-4/"><u>In-Depth Analysis of Microsoft's Bing Chat Feature Using Advanced AI & GPT-4</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-image-transformations-today-for-2024/"><u>Master Image Transformations Today for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-interactions-with-nova-chatgpt-the-premier-ai-companion-for-cutting-edge-dialogues/"><u>Transform Your Interactions with Nova ChatGPT: The Premier AI Companion for Cutting-Edge Dialogues</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-champion-of-ai-bots-in-depth-review-of-chatgpt-for-next-level-conversations/"><u>Unveiling the Champion of AI Bots: In-Depth Review of ChatGPT for Next-Level Conversations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-facets-of-chatgpt-2024-detailed-examination-of-features-and-strategies-for-server-glitches/"><u>Unveiling the Facets of ChatGPT 2024: Detailed Examination of Features and Strategies for Server Glitches</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-from-photos-to-films-easy-video-creation-with-ezvid-on-mac-os-for-2024/"><u>Updated From Photos to Films Easy Video Creation with Ezvid on Mac OS for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-cutting-edge-meme-creation-app/"><u>[New] Cutting-Edge Meme Creation App</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-elevate-your-ads-performance-animation-strategies-for-success/"><u>[Updated] 2024 Approved Elevate Your Ad's Performance Animation Strategies for Success</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-techniques-extracting-youtube-audio/"><u>[Updated] In 2024, Techniques Extracting YouTube Audio</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-top-audiovisual-enhancements-for-video-producers/"><u>2024 Approved Top Audiovisual Enhancements for Video Producers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-new-horizons-of-the-linux-kernel-version-6-whats-inside-computingtoday/"><u>Exploring the New Horizons of the Linux Kernel Version 6.^ - What's Inside? | ComputingToday</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-honor-magic-v2-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Honor Magic V2?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-use-dslr-for-facebook-live-on-you-pc-or-mac-in-2024/"><u>How to Use DSLR for Facebook Live on You PC or Mac, In 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/instantly-fix-the-repeated-app-crash-issue-step-by-step-guide/"><u>Instantly Fix the Repeated App 'Crash' Issue - Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-through-2022s-leading-accounting-solutions-your-ultimate-comparison-guide/"><u>Navigating Through 2022'S Leading Accounting Solutions: Your Ultimate Comparison Guide.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-uncertainty-mastering-the-limitations-of-modern-ai-tools-tech-insights-on-zdnet/"><u>Navigating Uncertainty: Mastering the Limitations of Modern AI Tools | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-mice-with-unparalleled-hdi-capabilities/"><u>Next-Gen Mice with Unparalleled HDI Capabilities</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revival-in-the-clouds-the-converging-success-stories-of-openstack-and-kata-containers-analyzing-market-trends-on-zdnet/"><u>Revival in the Clouds: The Converging Success Stories of OpenStack and Kata Containers | Analyzing Market Trends on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-advancement-alert-verizon-business-partners-with-startup-celona-for-next-gen-private-5g-services/"><u>Tech Advancement Alert: Verizon Business Partners with Startup Celona for Next-Gen Private 5G Services</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-leading-remote-access-tools-reviewed-zdnets-expert-analysis/"><u>Top 5 Leading Remote Access Tools Reviewed - ZDNet's Expert Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-microsoft-faces-critical-challenge-with-windows-11-just-one-year-leftzdnet-exclusive/"><u>Urgent: Microsoft Faces Critical Challenge with Windows 11 - Just One Year Left![ZDNet Exclusive]</u></a></li>
 </ul></div>
 

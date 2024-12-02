@@ -1,7 +1,7 @@
 ---
 title: Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models
-date: 2024-11-20T19:47:02.261Z
-updated: 2024-11-24T10:11:54.012Z
+date: 2024-11-27T06:51:56.734Z
+updated: 2024-12-02T06:37:00.290Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,15 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/alm-cursor-3-pathways-to-mellow-watching-videos-on-youtube-57-chars-for-2024/"><u>[New] Calm Cursor 3 Pathways to Mellow Watching Videos on YouTube (57 Chars) for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-methods-for-easy-instagram-video-uploads-from-desktop-for-2024/"><u>[New] Step-by-Step Methods for Easy Instagram Video Uploads From Desktop for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-how-to-set-up-zoom-for-video-meeting-for-2024/"><u>[Updated] How to Set up Zoom for Video Meeting for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-embracing-the-edge-how-surge-in-edge-computing-devices-shapes-future-careers-techworld/"><u>1. Embracing the Edge: How Surge in Edge Computing Devices Shapes Future Careers | TechWorld</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/apeak-soft-recording-performance-and-reliability-assessed-for-2024/"><u>Apeak Soft Recording Performance and Reliability Assessed for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-transform-your-images-into-videos-with-these-10-online-tools/"><u>New 2024 Approved Transform Your Images Into Videos with These 10 Online Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tackling-the-accountability-gap-in-artificial-intelligence-development/"><u>Tackling the Accountability Gap in Artificial Intelligence Development</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-ai-watermarking-solutions-revealed-on-zdnet/"><u>The Definitive Guide to AI Watermarking Solutions - Revealed on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-work-how-ai-agents-mark-a-new-era-of-innovation-and-permanent-shifts-in-employment-landscape/"><u>Transforming Work: How AI Agents Mark a New Era of Innovation and Permanent Shifts in Employment Landscape</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-roadmap-for-monetization-success-on-youtube-via-adsense/"><u>[New] A Roadmap for Monetization Success on YouTube via AdSense</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-add-meaningful-context-a-guide-to-video-captions-on-tiktok/"><u>[New] In 2024, Add Meaningful Context A Guide to Video Captions on TikTok</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-airpods-apart-heres-the-mend/"><u>[Updated] 2024 Approved Airpods Apart? Here's the Mend</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2021-ipad-pro-featuring-m1-processor-incredible-computing-power-at-your-fingertips/"><u>2021 iPad Pro Featuring M1 Processor: Incredible Computing Power at Your Fingertips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-video-editing-free-high-quality-pp-templates/"><u>2024 Approved Advanced Video Editing FREE High-Quality PP Templates</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-complete-guide-restoring-lost-messages-in-whatsapp/"><u>A Complete Guide: Restoring Lost Messages in WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-methods-to-move-your-whatsapp-chats-between-android-devices/"><u>Best Methods to Move Your WhatsApp Chats Between Android Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-rax80-experience-lightning-fast-wi-fi-6-connectivity/"><u>Comprehensive Analysis of the Netgear Nighthawk RAX80: Experience Lightning-Fast Wi-Fi 6 Connectivity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/efficient-methods-for-downloading-and-sending-high-resolution-videos-on-whatsapp-compression-techniques-revealed/"><u>Efficient Methods for Downloading and Sending High-Resolution Videos on WhatsApp: Compression Techniques Revealed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-saving-your-whatsapp-pdfs-on-an-iphone-with-ease/"><u>Guide: Saving Your WhatsApp PDFs on an iPhone with Ease</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-xiaomi-redmi-12-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Xiaomi Redmi 12 Through Google Earth?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-login-interruptions-on-rust-pcs/"><u>Mastering Steam Login Interruptions on Rust PCs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/migrating-your-chats-and-media-a-step-by-step-guide-from-androids-whatsapp-to-ios/"><u>Migrating Your Chats and Media: A Step-by-Step Guide From Android's WhatsApp to iOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-messaging-ultimate-guide-to-whatsapp-passwords-on-ios-and-android-devices/"><u>Secure Your Messaging: Ultimate Guide to WhatsApp Passwords on iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-4-simple-methods-for-securing-your-whatsapp-chats-on-ios-devices/"><u>Top 4 Simple Methods for Securing Your WhatsApp Chats on iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-techniques-for-retrieving-lost-whatsapp-messages-on-android-devices/"><u>Top Techniques for Retrieving Lost WhatsApp Messages on Android Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrade-or-not-a-comparative-look-at-apples-latest-iphones-iphone-16-and-15-as-recommended/"><u>Upgrade or Not? A Comparative Look at Apple's Latest iPhones (iPhone 16 & 15) as Recommended</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight"
-date: 2024-11-17T09:47:46.870Z
-updated: 2024-11-23T23:37:17.602Z
+date: 2024-12-01T06:55:18.911Z
+updated: 2024-12-01T22:27:04.125Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 ## Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,18 +77,21 @@ Check Point Research
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-spotting-instagrams-newly-deactivated-accounts-for-2024/"><u>[New] Spotting Instagram's Newly Deactivated Accounts for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unveiling-the-ideal-aspect-ratio-for-video-content/"><u>[Updated] In 2024, Unveiling the Ideal Aspect Ratio for Video Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/amazon-introduces-revolutionary-ai-performance-metric-the-next-gen-rag-system-unveiled-by-zdnet/"><u>Amazon Introduces Revolutionary AI Performance Metric: The Next-Gen RAG System Unveiled by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-four-fixes-for-non-deliverable-email-alerts-in-windows-11/"><u>Breaking Down Four Fixes for Non-Deliverable Email Alerts in Windows 11</u></a></li>
-<li><a href="https://solve-info.techidaily.com/come-restaurare-i-file-perduti-sulla-tua-memoria-sd/"><u>Come Restaurare I File Perduti Sulla Tua Memoria SD</u></a></li>
-<li><a href="https://app-tips.techidaily.com/decoding-servicenows-core-ai-tenets-essential-strategies-that-propel-corporate-innovation-zdnet/"><u>Decoding ServiceNow’s Core AI Tenets: Essential Strategies That Propel Corporate Innovation | ZDNET</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-broadcom-bluetooth-drivers-on-windows-10-8-and-7/"><u>Download and Install Broadcom Bluetooth Drivers on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-path-to-elevate-your-ubuntu-2404-system-insights-from-zdnet/"><u>Navigating the Path to Elevate Your Ubuntu 24.04 System – Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/redefining-the-future-of-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-handbook-insights-from-zdnet/"><u>Redefining the Future of UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Handbook - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-missing-app-icons-issue-with-these-proven-techniques/"><u>Resolve Your iPhone's Missing App Icons Issue with These Proven Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/scaling-your-business-with-anthropics-revolutionary-claude-enterprise-unleashing-ai-power-on-a-massive-scale-zdnet/"><u>Scaling Your Business with Anthropic's Revolutionary Claude Enterprise: Unleashing AI Power on a Massive Scale | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-world-is-yours/"><u>The World Is Yours</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-stop-madden-nfl-21-from-exiting-unexpectedly-on-pc/"><u>Troubleshooting Tips: How to Stop Madden NFL 21 From Exiting Unexpectedly on PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-what-hidden-beats-within-facebook-are-you-overlooking/"><u>[New] 2024 Approved What Hidden Beats Within Facebook Are You Overlooking?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-navigating-the-tech-maze-screen-casting-sessions/"><u>[Updated] In 2024, Navigating the Tech Maze Screen Casting Sessions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-insiders-guide-to-top-ranking-titles/"><u>[Updated] The Insider's Guide to Top-Ranking Titles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2022s-leading-iam-solutions-reviewed-expert-picks-by-zdnet/"><u>2022'S Leading IAM Solutions Reviewed: Expert Picks by ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-crm-solutions-for-2-surveillance-system-we-use-a-variety-of-methods-to-detect-and-monitor-suspicious-activity-within-our-facility-these-include-the-fol79/"><u>Best CRM Solutions for 2 Surveillance System, We Use a Variety of Methods to Detect and Monitor Suspicious Activity Within Our Facility. These Include the Following Steps:</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-tech-teams-amplifying-your-voice-in-the-realm-of-customer-experience-insights-from-zdnet/"><u>Empowering Tech Teams: Amplifying Your Voice in the Realm of Customer Experience - Insights From ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/exclusive-list-best-mac-gif-recorders-for-2024/"><u>Exclusive List Best Mac GIF Recorders for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/how-to-record-google-meet-on-phone-for-2024/"><u>How to Record Google Meet on Phone for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-rog-phone-8-by-fonelab-android-recover-music/"><u>How to restore wiped music on ROG Phone 8</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-xiaomi-redmi-k70-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Xiaomi Redmi K70 Pro Lock Screen Password</u></a></li>
+<li><a href="https://app-tips.techidaily.com/next-gen-ai-avatars-feature-realistic-emotional-expressions-reveals-zdnet-report/"><u>Next-Gen AI Avatars Feature Realistic Emotional Expressions, Reveals ZDNet Report</u></a></li>
+<li><a href="https://app-tips.techidaily.com/optimize-workflow-on-a-powerful-linux-platform-discover-the-advantages-of-ubuntu-2204-computingtoday/"><u>Optimize Workflow on a Powerful Linux Platform: Discover the Advantages of Ubuntu 22.04 | ComputingToday</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prepare-for-windows-11-end-of-life-your-top-5-solutions-to-keep-your-pc-running-smoothly/"><u>Prepare for Windows 11 End of Life: Your Top 5 Solutions to Keep Your PC Running Smoothly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsofts-crucial-year-ahead-to-fix-windows-10-issues-techinsight/"><u>Urgent Challenge: Microsoft's Crucial Year Ahead to Fix Windows 10 Issues | TechInsight</u></a></li>
 </ul></div>
 

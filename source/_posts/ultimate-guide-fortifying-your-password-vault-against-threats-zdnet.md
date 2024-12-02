@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Fortifying Your Password Vault Against Threats | ZDNet"
-date: 2024-11-22T00:19:32.851Z
-updated: 2024-11-24T01:18:10.546Z
+date: 2024-12-01T01:06:43.626Z
+updated: 2024-12-02T10:40:07.010Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ Creating and remembering a unique and complex password for each of your accounts
 A good password manager will create, store, and apply strong and complex passwords across the board, thereby securing your accounts. I've used a password manager for years and wouldn't be able to juggle all my online accounts without it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -46,7 +46,7 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -66,7 +66,7 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -90,7 +90,7 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -139,19 +139,20 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/et-1000-subscribers-for-your-youtube-channel-for-2024/"><u>[New] Get 1000 Subscribers for Your YouTube Channel for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-techniques-to-elevate-your-gopro-work/"><u>[New] Innovative Techniques to Elevate Your GoPro Work</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-online-havens-for-sponsorship-initiatives-on-youtube/"><u>[Updated] 2024 Approved Online Havens for Sponsorship Initiatives on YouTube</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-unlocking-the-full-potential-of-youtube-video-interactions/"><u>2024 Approved Unlocking the Full Potential of YouTube Video Interactions</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/comprehensive-morphvox-modification-handbook-for-2024/"><u>Comprehensive MorphVOX Modification Handbook for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-videoblogging-victory-surviving-ten-frequent-phobias/"><u>In 2024, Videoblogging Victory Surviving Ten Frequent Phobias</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-password-manager-solutions-for-2cy2024-thoroughly-reviewed-by-tech-gurus-at-zdnet/"><u>Leading Password Manager Solutions for 2CY2024: Thoroughly Reviewed by Tech Gurus at ZDNET</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/saving-the-essence-a-guide-for-virtual-meeting-records/"><u>Saving the Essence A Guide for Virtual Meeting Records</u></a></li>
-<li><a href="https://app-tips.techidaily.com/security-breach-lastpass-compromised-once-more-critical-update-from-zdnet/"><u>Security Breach: LastPass Compromised Once More - Critical Update From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/switch-from-lastpass-to-icloud-passwords-on-windows-a-step-by-step-guide-zdnet/"><u>Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transformez-vos-fichiers-audio-ape-en-ogg-sur-demande-via-un-service-web-movavi/"><u>Transformez Vos Fichiers Audio APE en OGG Sur Demande via Un Service Web - Movavi</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-zdnets-2024-ranking-of-leading-lastpass-replacements/"><u>Ultimate Guide: ZDNet's 2024 Ranking of Leading LastPass Replacements</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-huge-savings-with-dashlanes-password-manager-snipe-premium-at-just-50-off-today/"><u>Unlock Huge Savings with Dashlane's Password Manager - Snipe Premium at Just 50% Off Today!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-security-a-detailed-analysis-and-user-assessment-of-premium-password-manager-1password-authoritative-review-by-cryptosafe-zdnet/"><u>Unlocking Security: A Detailed Analysis & User Assessment of Premium Password Manager, 1Password | Authoritative Review by CryptoSafe ZDNET</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-maximizing-reach-and-engagement-in-igtv-content-strategy/"><u>[Updated] 2024 Approved Maximizing Reach and Engagement in IGTV Content Strategy</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-premium-top-11-list-ultimate-recording-gear/"><u>[Updated] 2024 Approved Premium Top 11 List - Ultimate Recording Gear</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-mp4mpl2s-creation-from-twitter-videos/"><u>2024 Approved MP4/MPL2S Creation From Twitter Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boss-loses-cool-over-team-communication-mishaps-on-microsoft-teams/"><u>Boss Loses Cool Over Team Communication Mishaps on Microsoft Teams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/collaborative-development-of-advanced-llms-by-sony-and-ai-singapore-announced-tech-news/"><u>Collaborative Development of Advanced LLMs by Sony & AI Singapore Announced | Tech News</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-guide-youtube-to-mpeg-transcoding/"><u>Comprehensive Guide YouTube to MPEG Transcoding</u></a></li>
+<li><a href="https://app-tips.techidaily.com/continued-access-office-20162019-to-retain-full-functionality-with-upcoming-microsoft-365-backend-enhancements-zdnet/"><u>Continued Access : Office 2016/2019 to Retain Full Functionality with Upcoming Microsoft 365 Backend Enhancements | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-a-massive-ddos-strike-crippled-microsofts-office-365-services-insights-for-it-security-experts/"><u>How a Massive DDoS Strike Crippled Microsoft's Office 365 Services – Insights for IT Security Experts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y78plus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo Y78+ Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-itel-a60-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-the-digital-transformation-how-enterprise-architects-drive-innovation-zdnet/"><u>Leading the Digital Transformation: How Enterprise Architects Drive Innovation | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/open-sourcing-the-future-switzerlands-federal-govt-embraces-transparency-with-software-release-initiative-zdnet/"><u>Open Sourcing the Future: Switzerland's Federal Govt. Embraces Transparency with Software Release Initiative - ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fix-for-unstable-performance-of-guilty-gear-strive-on-pc/"><u>Step-by-Step Fix for Unstable Performance of Guilty Gear Strive on PC</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/ultimate-mac-video-transcoding-tutorial-how-to-effortlessly-convert-hd-files/"><u>Ultimate Mac Video Transcoding Tutorial: How to Effortlessly Convert HD Files</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-leading-pioneers-are-drawn-to-collaborative-open-source-initiatives-a-zdnet-analysis/"><u>Why Leading Pioneers Are Drawn to Collaborative Open Source Initiatives - A ZDNET Analysis</u></a></li>
 </ul></div>
 

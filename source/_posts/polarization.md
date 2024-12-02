@@ -1,7 +1,7 @@
 ---
 title: Polarization
-date: 2024-10-06T16:01:25.822Z
-updated: 2024-10-12T07:16:14.614Z
+date: 2024-11-27T04:32:25.125Z
+updated: 2024-12-02T03:00:59.551Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,16 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,20 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-sdr-to-super-hd-a-practical-guide-for-quality-improvement/"><u>[New] In 2024, SDR to Super HD A Practical Guide for Quality Improvement</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-comprehensive-list-of-free-video-intros/"><u>[Updated] 2024 Approved Comprehensive List of Free Video Intros</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-cutting-edge-psd-outlines-effects/"><u>2024 Approved Cutting-Edge PSD Outlines Effects</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-a54-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy A54 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cambia-tus-archivos-de-imagen-jpg-gratuitamente-a-formato-jpeg-en-linea-usando-movavi/"><u>Cambia Tus Archivos De Imagen JPG Gratuitamente a Formato JPEG en Línea Usando Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-audacity-error-code-9999-in-windows-1110/"><u>How to Fix the Audacity Error Code 9999 in Windows 11/10</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-5-android-games-for-true-ps2-virtual-gaming-adventures/"><u>In 2024, Top 5 Android Games for True PS2 Virtual Gaming Adventures</u></a></li>
-<li><a href="https://app-tips.techidaily.com/inside-look-how-lastpass-leadership-addresses-safety-concerns-amidst-alarming-security-notifications-explored-by-zdnet/"><u>Inside Look: How LastPass Leadership Addresses Safety Concerns Amidst Alarming Security Notifications | Explored by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/kasperskys-password-protector-exposed-generating-vulnerable-passwords-prone-to-brute-force-attacks-insights-from-zdnet/"><u>Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/major-ransomware-incident-strikes-leading-firm-superior-plus-in-natural-gas-industry-exclusive-details-on-zdnet/"><u>Major Ransomware Incident Strikes Leading Firm Superior Plus in Natural Gas Industry - Exclusive Details on ZDNET</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-10-free-stock-photo-sites/"><u>New 2024 Approved Top 10 Free Stock Photo Sites</u></a></li>
-<li><a href="https://app-tips.techidaily.com/newly-launched-full-featured-1password-app-for-linux-enthusiasts-a-closer-look-tech-news/"><u>Newly Launched Full-Featured 1Password App for Linux Enthusiasts: A Closer Look - Tech News</u></a></li>
-<li><a href="https://app-tips.techidaily.com/say-goodbye-to-master-passwords-discover-1passwords-innovative-passkey-alternative-explained-by-zdnet/"><u>Say Goodbye to Master Passwords: Discover 1Password's Innovative Passkey Alternative, Explained by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-fortifying-your-password-vault-against-threats-zdnet/"><u>Ultimate Guide: Fortifying Your Password Vault Against Threats | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-future-how-i-discovered-a-game-changing-password-manager-among-two-contenders-cyber-savvy-reviews/"><u>Unlocking the Future: How I Discovered a Game-Changing Password Manager Among Two Contenders | Cyber Savvy Reviews</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-expert-tactics-optimizing-freefire-video-content/"><u>[New] 2024 Approved Expert Tactics Optimizing FreeFire Video Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-decoding-the-mystery-of-where-are-my-youtube-comments-for-2024/"><u>[New] Decoding the Mystery of Where Are My YouTube Comments for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elevating-your-filmmaking-skills-on-the-windows-10-platform-for-2024/"><u>[Updated] Elevating Your Filmmaking Skills on the Windows 10 Platform for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-emotional-awareness-mastering-eq-with-chatgpt/"><u>Boosting Emotional Awareness: Mastering EQ with ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boss-loses-cool-over-team-communication-mishaps-on-microsoft-teams/"><u>Boss Loses Cool Over Team Communication Mishaps on Microsoft Teams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/collaborative-development-of-advanced-llms-by-sony-and-ai-singapore-announced-tech-news/"><u>Collaborative Development of Advanced LLMs by Sony & AI Singapore Announced | Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/continued-access-office-20162019-to-retain-full-functionality-with-upcoming-microsoft-365-backend-enhancements-zdnet/"><u>Continued Access : Office 2016/2019 to Retain Full Functionality with Upcoming Microsoft 365 Backend Enhancements | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-capturing-twitch-broadcasts-the-5-best-downloader-apps/"><u>Efficiently Capturing Twitch Broadcasts: The 5 Best Downloader Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-a-massive-ddos-strike-crippled-microsofts-office-365-services-insights-for-it-security-experts/"><u>How a Massive DDoS Strike Crippled Microsoft's Office 365 Services – Insights for IT Security Experts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-motorola-moto-g24-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Motorola Moto G24 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-the-digital-transformation-how-enterprise-architects-drive-innovation-zdnet/"><u>Leading the Digital Transformation: How Enterprise Architects Drive Innovation | ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95918160-9781683255611-los-misterios-de-la-masoneria-historia-jerarquia-simbologia-secretos-masones-ilustres/"><u>Los misterios de la masonería. Historia, jerarquía, simbología, secretos, masones ilustres | Free Book</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-15-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 15 Plus Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/sonys-ai-research-unit-collaborates-with-ai-singapore-on-advanced-language-models-technews/"><u>Sony's AI Research Unit Collaborates with AI Singapore on Advanced Language Models - TechNews</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ey-to-connecting-your-youtube-channel-with-a-facebook-page/"><u>The Key to Connecting Your YouTube Channel with a Facebook Page</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-the-lip-reader-how-this-innovative-app-poses-a-threat-to-giants-like-microsoft-teams-and-zoom-zdnet-insight/"><u>The Rise of the Lip-Reader: How This Innovative App Poses a Threat to Giants Like Microsoft Teams and Zoom | ZDNet Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-linux-distributions-ideal-for-developers-a-comprehensive-guide-by-techradar/"><u>Top 5 Linux Distributions Ideal for Developers: A Comprehensive Guide by TechRadar</u></a></li>
 </ul></div>
 

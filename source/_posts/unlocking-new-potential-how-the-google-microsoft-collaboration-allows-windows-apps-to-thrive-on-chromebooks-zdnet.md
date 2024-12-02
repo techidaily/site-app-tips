@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Potential: How the Google-Microsoft Collaboration Allows Windows Apps to Thrive on Chromebooks | ZDNet"
-date: 2024-10-06T02:57:39.026Z
-updated: 2024-10-12T01:30:06.982Z
+date: 2024-11-27T01:56:23.319Z
+updated: 2024-12-02T03:28:44.412Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,17 +176,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-leading-iphone-apps-the-ultimate-guide-to-removing-photo-clutter/"><u>[Updated] Leading iPhone Apps The Ultimate Guide to Removing Photo Clutter</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-picture-perfectionism-top-tools-and-sites-for-superior-photo-frames/"><u>[Updated] Picture Perfectionism Top Tools & Sites for Superior Photo Frames</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-stream-ready-strategies-for-crystal-clear-steam-recordings/"><u>2024 Approved Stream-Ready Strategies for Crystal Clear Steam Recordings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/awaken-your-pc-to-god-like-powers-with-windows-11/"><u>Awaken Your PC to God-Like Powers with Windows 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/celona-secures-60m-in-series-c-funding-drives-enterprise-5g-revolution-what-you-need-to-know/"><u>Celona Secures $60M in Series C Funding, Drives Enterprise 5G Revolution: What You Need to Know</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-infusing-astrology-in-whatsapp-profiles-for-better-engagement/"><u>In 2024, Infusing Astrology in WhatsApp Profiles for Better Engagement</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-7-plus-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 7 Plus</u></a></li>
-<li><a href="https://app-tips.techidaily.com/latest-tech-tip-seamless-transition-how-to-move-from-linux-mint-to-mint-21-efficiently/"><u>Latest Tech Tip: Seamless Transition - How To Move From Linux Mint to Mint 21 Efficiently!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revealed-employee-testimonial-why-you-might-prefer-not-to-work-at-apple-according-to-insiders/"><u>Revealed: Employee Testimonial – Why You Might Prefer Not to Work at Apple According to Insiders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-tasks-utilize-8-crafted-ai-services/"><u>Revolutionize Tasks: Utilize 8 Crafted AI Services</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rising-power-of-citizen-developers-in-driving-enterprise-software-innovation/"><u>Rising Power of Citizen Developers in Driving Enterprise Software Innovation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-desktop-distributions-reviewed-why-linux-mint-22-stands-out-above-the-rest/"><u>Top Desktop Distributions Reviewed - Why Linux Mint 22 Stands Out Above the Rest</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-innovative-methods-for-3d-text-illustration/"><u>[New] Innovative Methods for 3D Text Illustration</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-discover-the-joy-of-real-time-broadcasting-with-fb-and-roku-for-2024/"><u>[Updated] Discover the Joy of Real-Time Broadcasting with FB & Roku for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-innovative-strategies-to-optimize-youtube-edits-after-upload-for-2024/"><u>[Updated] Innovative Strategies to Optimize YouTube Edits After Upload for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-how-to-validate-your-youtube-profile-a-simple-guide/"><u>2024 Approved How to Validate Your YouTube Profile? A Simple Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/antenna-arrays-can-synthesize-a-desired-radiation-pattern-by-controlling-the-relative-phases-and-amplitudes-of-signals-fed-to-each-element/"><u>Antenna Arrays Can Synthesize a Desired Radiation Pattern by Controlling the Relative Phases and Amplitudes of Signals Fed to Each Element.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybersecurity-breakthroughs-with-ai-how-leading-experts-envision-defeating-digital-threats-zdnet/"><u>Cybersecurity Breakthroughs with AI: How Leading Experts Envision Defeating Digital Threats | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-citizen-devops-revolutionize-workload-management-in-corporate-it-systems/"><u>How Citizen DevOps Revolutionize Workload Management in Corporate IT Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-editorial-expertise-counteract-dimness-in-iphone-hdr-with-four-premiere-techniques/"><u>In 2024, [Editorial Expertise] Counteract Dimness in iPhone HDR with Four Premiere Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionize-user-interaction-using-xr-virtual-replicas-and-immersive-computing-a-strategic-enterprise-handbook-zdnet/"><u>Revolutionize User Interaction Using XR, Virtual Replicas, and Immersive Computing: A Strategic Enterprise Handbook [ZDNET]</u></a></li>
 </ul></div>
 

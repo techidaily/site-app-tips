@@ -1,7 +1,7 @@
 ---
 title: The Rising Role of Citizen Developers in Streamlining Corporate Tech Initiatives
-date: 2024-11-03T16:18:40.076Z
-updated: 2024-11-04T16:44:16.600Z
+date: 2024-11-24T17:04:12.628Z
+updated: 2024-12-01T19:15:30.499Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-streamlined-scheduling-combine-iphoneandroid-calendars-with-zoom/"><u>[Updated] Streamlined Scheduling Combine iPhone/Android Calendars With Zoom</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-perfecting-hp-screen-capture-top-4-methods-unveiled/"><u>2024 Approved Perfecting HP Screen Capture Top 4 Methods Unveiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-cleansing-apps-for-iphone-top-free-options-for-enhanced-performance/"><u>Best Cleansing Apps for iPhone: Top Free Options for Enhanced Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-setting-up-and-accessing-kik-chat-app-for-windowsmac-users/"><u>Complete Tutorial: Setting Up & Accessing Kik Chat App for Windows/Mac Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expertly-curated-list-the-ultimate-9plus1-video-streaming-solutions-for-android-devices/"><u>Expertly Curated List: The Ultimate 9+1 Video Streaming Solutions for Android Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-get-your-surface-device-reconnected-to-wireless-network/"><u>How to Get Your Surface Device Reconnected to Wireless Network</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-honor-magic-6-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on Honor Magic 6 Pro Devices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-100-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor 100 Lock Screen Password?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-honor-magic5-ultimate-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Honor Magic5 Ultimate and Browser | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-vn-video-editor-benefits-drawbacks-and-top-substitutes/"><u>In-Depth Analysis: VN Video Editor - Benefits, Drawbacks & Top Substitutes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2262180-9781501112232-music-and-mantras/"><u>Music and Mantras | Free Book</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/spk10-037-shines-in-review-brilliant-and-adaptable-for-every-scene/"><u>SPK10-037 Shines in Review - Brilliant & Adaptable for Every Scene</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-moving-your-iphone-applications-seamlessly-between-iphones/"><u>Step-by-Step Guide: Moving Your iPhone Applications Seamlessly Between iPhones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192484-ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-free-fires-voice-alteration-strategies/"><u>[New] In 2024, Free Fire's Voice Alteration Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-photo-quality-with-auto-and-smart-hdr-features/"><u>[New] Revolutionizing Photo Quality with Auto and Smart HDR Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-elevate-designs-essential-secrets-for-canva-mastery/"><u>[Updated] 2024 Approved Elevate Designs Essential Secrets for Canva Mastery</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlock-instagrams-video-capabilities-blueprint-for-powerful-marketing/"><u>2024 Approved Unlock Instagram's Video Capabilities Blueprint for Powerful Marketing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-and-premium-note-taking-apps-for-android-top-5-picks/"><u>Best Free and Premium Note-Taking Apps for Android: Top 5 Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-adobe-premiere-rush-evaluation-advantages-disadvantages-and-viable-substitutes/"><u>Comprehensive Adobe Premiere Rush Evaluation: Advantages, Disadvantages & Viable Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-funimate-tips-and-tricks-for-professional-video-editing-and-animation/"><u>Comprehensive Guide to Using Funimate: Tips and Tricks for Professional Video Editing and Animation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortlessly-resolve-freezes-discover-5-steps-to-force-quit-unresponsive-programs-on-your-mac/"><u>Effortlessly Resolve Freezes: Discover 5 Steps to Force Quit Unresponsive Programs on Your Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hitachi-ultra-hd-4k-televisions-seamless-streaming-with-inbuilt-roku-players/"><u>Hitachi Ultra HD 4K Televisions - Seamless Streaming with Inbuilt Roku Players</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-k70e-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi K70E?</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Plus without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-get-your-phone-numbers-back-the-best-iphone-apps-reviewed/"><u>How to Get Your Phone Numbers Back: The Best iPhone Apps Reviewed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209612303-9781547567546-meditacion-guia-impresionante-para-principiantes-por-gabriyell-buechner/"><u>Meditación: Guía Impresionante Para Principiantes Por Gabriyell Buechner | Free Book</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/photo-finesse-leading-edits-for-social-media-savvy-for-2024/"><u>Photo Finesse Leading Edits for Social Media Savvy for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-communication-across-devices-magicapps-cross-platform-calls-and-texting/"><u>Seamless Communication Across Devices: MagicApp's Cross-Platform Calls and Texting</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-disconnecting-from-facebooks-chat-app/"><u>Step-by-Step Guide: Disconnecting From Facebook's Chat App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-top-10-photo-organizing-tools-compatible-with-pcs-and-mac-computers/"><u>The Ultimate List of Top 10 Photo Organizing Tools Compatible with PCs & Mac Computers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/what-is-bluestacks-a-complete-insight-into-this-popular-android-emulator/"><u>What Is BlueStacks? A Complete Insight Into This Popular Android Emulator</u></a></li>
 </ul></div>
 

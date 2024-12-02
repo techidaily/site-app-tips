@@ -1,7 +1,7 @@
 ---
 title: Linux Vendor Kernel Security Compromised? Recent Research Confirms & Suggests Remedies | ZDNet
-date: 2024-10-09T03:12:37.060Z
-updated: 2024-10-11T19:49:48.375Z
+date: 2024-11-26T12:52:26.300Z
+updated: 2024-12-01T21:24:08.528Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +176,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-internal-recording-feature-screen-capture-for-huaweis-mate-and-p-series-phones/"><u>[New] 2024 Approved Internal Recording Feature Screen Capture for Huawei's Mate & P Series Phones</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-mastering-game-capture-a-guide-to-using-obs/"><u>[New] Mastering Game Capture A Guide to Using OBS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultra-clarity-the-new-era-of-hd-monitors-envy-27/"><u>[Updated] Ultra Clarity The New Era of HD Monitors - Envy 27</u></a></li>
-<li><a href="https://app-tips.techidaily.com/auto-enabled-security-for-half-a-billion-googles-bold-move-to-protect-users-with-mandatory-2fa/"><u>Auto-Enabled Security for Half a Billion: Google's Bold Move to Protect Users with Mandatory 2FA</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cyber-attack-alert-hackers-leverage-covid-19-omicron-strain-fears-with-redline-malware-campaign-fortinet-insights/"><u>Cyber Attack Alert: Hackers Leverage COVID-19 Omicron Strain Fears with RedLine Malware Campaign – Fortinet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/data-leak-strikes-wv-medical-facilities-due-to-cyberattack-in-depth-analysis-on-zdnet/"><u>Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-steps-to-download-and-update-drivers-for-your-hp-officejet-pro-8720-using-windows-devices/"><u>Easy Steps to Download and Update Drivers for Your HP Officejet Pro 8720 Using Windows Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-affordable-high-res-4k-cameras-under-1k/"><u>In 2024, Affordable High-Res 4K Cameras Under $1K</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-x8b-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor X8b Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-to-buying-todays-best-360-cameras/"><u>In 2024, Unveiling the Secrets to Buying Today's Best 360 Cameras</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-1password-top-tier-value-packed-secure-password-solution-techadvisor/"><u>In-Depth Analysis of 1Password - Top Tier, Value-Packed Secure Password Solution | TechAdvisor</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-the-complete-1password-suite-on-linux-platforms-key-features-and-reviews-zdnet-exclusive/"><u>Introducing the Complete 1Password Suite on Linux Platforms: Key Features and Reviews | ZDNet Exclusive</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lastpass-executives-assure-users-of-no-breached-accounts-following-recent-security-warnings-insights-from-zdnet/"><u>LastPass Executives Assure Users of No Breached Accounts Following Recent Security Warnings: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lastpass-to-become-separate-business-as-logmein-executes-split-strategy-tech-buzz-on-zdnet/"><u>LastPass to Become Separate Business as LogMeIn Executes Split Strategy | Tech Buzz on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-password-replaced-by-passkeys-with-1password-the-latest-update-from-zdnet/"><u>Master Password Replaced by Passkeys with 1Password - The Latest Update From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/our-9-favorite-free-language-learning-websites/"><u>Our 9 Favorite Free Language Learning Websites</u></a></li>
-<li><a href="https://blog-min.techidaily.com/uberspielen-von-musik-auf-ihr-iphone-mp3-dateien-songs-und-playlist-transfer/"><u>Überspielen Von Musik Auf Ihr iPhone - MP3-Dateien, Songs Und Playlist Transfer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-begin-recording-your-webcam-via-vlc-player/"><u>[New] Begin Recording Your Webcam via VLC Player</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-saving-the-best-from-fb-in-high-definition-for-2024/"><u>[Updated] Saving the Best From FB in High Definition for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anticipating-windows-12-release-latest-updates-and-unexpected-forecasts-techinsights/"><u>Anticipating Windows 12 Release: Latest Updates & Unexpected Forecasts | TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-development-process-with-generative-ai-tips-for-success-and-potential-hazards/"><u>Boost Your Development Process with Generative AI - Tips for Success & Potential Hazards</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-vivaldis-new-inbuilt-email-application-a-marvel-of-efficiency-and-style-tech-insights/"><u>Discover Vivaldi’s New Inbuilt Email Application: A Marvel of Efficiency and Style | Tech Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-windows-update-error-0x80073712/"><u>Quick Fix for Windows Update: Error 0X80073712</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-corporate-potential-through-ai-discover-anthropics-claude-for-scalable-innovation/"><u>Unleashing Corporate Potential Through AI: Discover Anthropic's Claude for Scalable Innovation</u></a></li>
 </ul></div>
 

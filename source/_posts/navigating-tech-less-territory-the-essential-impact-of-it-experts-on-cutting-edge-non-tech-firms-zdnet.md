@@ -1,7 +1,7 @@
 ---
 title: "Navigating Tech-Less Territory: The Essential Impact of IT Experts on Cutting-Edge Non-Tech Firms | ZDNET"
-date: 2024-11-06T16:25:24.142Z
-updated: 2024-11-13T18:58:36.583Z
+date: 2024-11-24T21:53:31.340Z
+updated: 2024-12-02T13:45:47.036Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-a-peek-into-vegaspros-future/"><u>[Updated] A Peek Into VegasPro's Future</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-flat-to-fantastic-animated-text-transformations-for-2024/"><u>[Updated] From Flat to Fantastic Animated Text Transformations for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-tactics-for-channel-spotlighting-on-youtube/"><u>[Updated] The Essential Tactics for Channel Spotlighting on Youtube</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1password-analysis-is-this-top-tier-password-solution-a-smart-investment-insights-from-tech-experts/"><u>1Password Analysis: Is This Top-Tier Password Solution a Smart Investment? - Insights From Tech Experts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-magix-vision-enhancement-a-detailed-review/"><u>2024 Approved MAGIX Vision Enhancement A Detailed Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-technology-at-wwdc-2022-zdnets-exclusive-coverage/"><u>Apple Unveils Revolutionary Passkey Technology at WWDC 2022 - ZDNet's Exclusive Coverage</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cryptocom-executive-addresses-user-concerns-following-major-31m-security-breach-insights-from-zdnet/"><u>Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/huge-black-friday-blowout-get-nordpass-premium-at-half-price-secure-your-passwords-now/"><u>Huge Black Friday Blowout! Get NordPass Premium at Half Price - Secure Your Passwords Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/immediate-solutions-to-revive-your-unresponsive-logitech-keyboard/"><u>Immediate Solutions to Revive Your Unresponsive Logitech Keyboard</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/macbook-pro-revival-how-to-guide-for-a-fresh-system-boot/"><u>MacBook Pro Revival: How-To Guide for a Fresh System Boot</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-wallets-1password-joins-forces-with-brex-to-simplify-secure-transactions-according-to-zdnet-coverage/"><u>Revolutionizing Digital Wallets: 1Password Joins Forces with Brex to Simplify Secure Transactions, According to ZDNet Coverage</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-your-dvd-player-a-guide-to-changing-and-overcoming-region-locks/"><u>Unlocking Your DVD Player: A Guide to Changing and Overcoming Region Locks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zerofoxs-strategic-acquisition-of-idx-and-merger-with-landf-forms-a-mega-14b-cybersecurity-giant-insights-from-zdnet/"><u>ZeroFox's Strategic Acquisition of IDX and Merger with L&F Forms a Mega $1.4B Cybersecurity Giant - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-pioneering-the-next-level-of-streaming-setups/"><u>[New] In 2024, Pioneering the Next Level of Streaming Setups</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-most-reliable-gopro-cases-1-10-showdown/"><u>[New] In 2024, The Most Reliable GoPro Cases - #1-10 Showdown</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-step-into-the-world-of-vrecorder-downloading-and-using-for-2024/"><u>[New] Step Into the World of VRecorder Downloading and Using for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/irtual-world-real-profit-for-game-makers-for-2024/"><u>[New] Virtual World, Real Profit for Game Makers for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-seamless-conversations-with-chat-gpt-expert-insights-and-review-on-the-leading-ai-bot-in-chat-technology/"><u>Experience Seamless Conversations with Chat GPT: Expert Insights and Review on the Leading AI Bot in Chat Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-elevenlabs-generative-voice-ai-and-similar-alternatives-on-the-market/"><u>Exploring ElevenLabs Generative Voice AI and Similar Alternatives on the Market</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-companions-choosing-blu-ray-software-freepaid-on-pcsmacs/"><u>In 2024, Best Companions Choosing Blu-Ray Software (Free/Paid) on PCs/Macs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-chatgpt-204-analysis-comprehensive-overview-capabilities-and-debugging-internal-server-errors/"><u>In-Depth ChatGPT 2#04 Analysis: Comprehensive Overview, Capabilities, and Debugging Internal Server Errors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-review-of-chatgpt-a-closer-look-at-its-attributes-performance-and-troubleshooting-errors/"><u>In-Depth Review of ChatGPT - A Closer Look at Its Attributes, Performance & Troubleshooting Errors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-with-legends-top-history-youtube-content-for-learners-for-2024/"><u>Learning with Legends Top History YouTube Content for Learners for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-world-of-chat-ai-a-closer-look-at-how-chatgpt-sets-new-standards-for-interaction/"><u>Navigating the World of Chat AI: A Closer Look at How ChatGPT Sets New Standards for Interaction</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-communication-the-ultimate-review-of-the-unbeatable-apo-ai-chatbot/"><u>Revolutionizing Communication: The Ultimate Review of the Unbeatable Apo AI Chatbot</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-comprehensive-guide-to-bings-ai-integration-with-the-cutting-edge-gpt-4-model/"><u>The Comprehensive Guide to Bing's AI Integration with the Cutting-Edge GPT-4 Model</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-7-essential-software-for-creating-stunning-animation-drawings/"><u>Updated In 2024, 7 Essential Software for Creating Stunning Animation Drawings</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-writers-and-their-payment-frequency/"><u>YouTube' Writers and Their Payment Frequency</u></a></li>
 </ul></div>
 

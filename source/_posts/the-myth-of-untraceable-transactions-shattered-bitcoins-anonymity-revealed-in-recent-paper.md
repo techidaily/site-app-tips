@@ -1,7 +1,7 @@
 ---
 title: "The Myth of Untraceable Transactions Shattered: Bitcoin's Anonymity Revealed in Recent Paper"
-date: 2024-11-18T23:19:40.557Z
-updated: 2024-11-24T06:17:40.517Z
+date: 2024-11-26T09:13:41.471Z
+updated: 2024-12-01T17:53:53.421Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,20 +119,16 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-apowersofts-place-in-the-screen-capture-market/"><u>[New] Apowersoft's Place in the Screen Capture Market</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-direct-sharing-twitch-live-links-for-facebook-friends-for-2024/"><u>[New] Direct Sharing Twitch Live Links for Facebook Friends for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-expert-tips-for-skype-calls-best-recording-techniques-freepaid/"><u>[New] In 2024, Expert Tips for Skype Calls Best Recording Techniques (Free/Paid)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/1715860773713-new-live-video-logging-on-mac-free/"><u>[New] Live Video Logging on Mac, Free!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/an-insightful-guide-to-choosing-between-elevenlabs-genvoice-ai-and-competitor-products/"><u>An Insightful Guide to Choosing Between ElevenLabs' GenVoice AI and Competitor Products</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-chatsonic-the-complete-guide-to-understanding-this-innovative-ai-chatbot/"><u>Comprehensive Analysis of Chatsonic: The Complete Guide to Understanding This Innovative AI Chatbot</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-elevenlabs-generative-voice-ai-and-comparable-options/"><u>Comprehensive Analysis: ElevenLabs' Generative Voice AI & Comparable Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-top-10-innovative-ai-chatbots-for-superior-conversations/"><u>Experience Next-Level Interaction: Top 10 Innovative AI Chatbots for Superior Conversations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-functionality-of-the-hacking-keyboard-merely-a-novelty-or-a-significant-boost-to-productivity-zdnet-insights/"><u>Exploring the Functionality of the Hacking Keyboard: Merely a Novelty or a Significant Boost to Productivity? | ZDNet Insights</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a18-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo A18 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-microsofts-bing-chat-feature-using-advanced-ai-and-gpt-4/"><u>In-Depth Analysis of Microsoft's Bing Chat Feature Using Advanced AI & GPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-the-limitless-an-overview-of-openais-api-potential/"><u>Leveraging the Limitless: An Overview of OpenAI’s API Potential</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-chrome-stalling-problems-effective-troubleshooting-steps/"><u>Solve Your Chrome Stalling Problems - Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-correcting-amd-gpu-driver-issues/"><u>Step-by-Step Guide to Correcting AMD GPU Driver Issues</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-pros-and-cons-a-deep-dive-into-elevenlabs-ai-innovation/"><u>Unveiling the Pros and Cons: A Deep Dive Into ElevenLabs' AI Innovation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-premier-live-basketball-experience-at-home-for-2024/"><u>[New] Premier Live Basketball Experience at Home for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypass-the-microsoft-account-a-comprehensive-tutorial-on-setting-up-windows-11-anonymously/"><u>Bypass the Microsoft Account: A Comprehensive Tutorial on Setting up Windows 11 Anonymously</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhanced-video-experience-mozilla-firefox-1/"><u>Enhanced Video Experience: Mozilla Firefox 1</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-development-work-is-changing-a-conversation-with-atlassians-agnes-ro-as-spotted-on-zdnet/"><u>How Development Work Is Changing: A Conversation with Atlassian's Agnes Ro, as Spotted on ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-ultimate-playlist-plan-for-insta/"><u>In 2024, The Ultimate Playlist Plan for Insta</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-modern-obstacles-dealing-with-ambiguous-results-and-faulty-accuracy-in-artificial-intelligence-analysis-by-zdnet/"><u>Mastering Modern Obstacles: Dealing with Ambiguous Results and Faulty Accuracy in Artificial Intelligence | Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-windows-11-your-complete-reference-tips-and-tricks-with-zdnets-expert-guide/"><u>Mastering Windows 11: Your Complete Reference, Tips & Tricks with ZDNet's Expert Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ssionals-choice-premium-youtube-cameras/"><u>Professionals' Choice Premium YouTube Cameras</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-and-upgrading-to-idt-hd-audio-codec-for-optimal-performance-on-your-windows-10-system/"><u>Resolving Issues & Upgrading to IDT HD Audio Codec for Optimal Performance on Your Windows 10 System</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-business-connectivity-celonas-60m-series-c-fuels-next-gen-enterprise-5g-solutions-zdnet-insights/"><u>Revolutionizing Business Connectivity: Celona's $60M Series C Fuels Next-Gen Enterprise 5G Solutions | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-complexity-streamlining-linux-and-community-guides-for-effortless-understanding/"><u>Unraveling Complexity: Streamlining Linux & Community Guides for Effortless Understanding</u></a></li>
 </ul></div>
 

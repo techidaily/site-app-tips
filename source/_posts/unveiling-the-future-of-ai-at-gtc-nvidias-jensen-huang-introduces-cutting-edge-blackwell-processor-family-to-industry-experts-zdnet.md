@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Future of AI at GTC: Nvidia's Jensen Huang Introduces Cutting-Edge Blackwell Processor Family to Industry Experts | ZDNet"
-date: 2024-10-10T07:36:13.693Z
-updated: 2024-10-11T17:25:42.681Z
+date: 2024-11-30T23:23:09.384Z
+updated: 2024-12-02T03:13:38.468Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-exclusive-guide-choosing-among-top-9-free-logo-creators/"><u>[New] 2024 Approved Exclusive Guide Choosing Among Top 9 Free Logo Creators</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-mastering-the-balance-visuals-and-sound-in-media-creation/"><u>[New] In 2024, Mastering the Balance Visuals and Sound in Media Creation</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-keep-your-content-safe-guidelines-for-clearance-of-tiktok-videos/"><u>[Updated] Keep Your Content Safe Guidelines for Clearance of TikTok Videos</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1-secure-your-data-ultimate-guide-on-safely-transferring-sd-card-contents-to-pc/"><u>1. Secure Your Data: Ultimate Guide on Safely Transferring SD Card Contents to PC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-sony-xperia-1-v-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Sony Xperia 1 V?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-hot-40-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Hot 40.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-root-management-suite-powerful-app-control-and-uninstallation-tool/"><u>Complete Root Management Suite: Powerful App Control & Uninstallation Tool</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-top-20-best-free-android-games-play-the-complete-versions-with-no-cost/"><u>Download Top 20 Best Free Android Games: Play the Complete Versions with No Cost</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-adobe-premiere-rush-strengths-weaknesses-and-competitor-solutions/"><u>In-Depth Analysis of Adobe Premiere Rush - Strengths, Weaknesses, and Competitor Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-apple-clips-expert-reviews-and-detailed-instructional-insights/"><u>Mastering Apple Clips: Expert Reviews & Detailed Instructional Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-8-ios-data-backup-solutions-protecting-your-photos-messages-and-more/"><u>Top 8 iOS Data Backup Solutions: Protecting Your Photos, Messages & More</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-best-ways-to-refine-your-chatgpt-interactions/"><u>Unveiling the Best Ways to Refine Your ChatGPT Interactions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-crafting-engaging-youtube-channel-names-for-vlogger-success-no-more-than-156/"><u>[Updated] 2024 Approved Crafting Engaging YouTube Channel Names for Vlogger Success (No More Than 156)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-programming-speed-securely-with-generative-ai-insights-and-cautions-from-zdnet/"><u>Boost Your Programming Speed Securely with Generative AI - Insights and Cautions From ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-downloading-and-installing-brother-mfc-l2740dw-drivers/"><u>Easy Guide to Downloading and Installing Brother MFC-L2740DW Drivers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-canonicals-revolutionary-distroless-images-transform-enterprise-security-a-deep-dive-techinsights/"><u>How Canonical's Revolutionary 'Distroless' Images Transform Enterprise Security: A Deep Dive - TechInsights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-brother-mfc-j480dw-printer-drivers-on-your-windows-machine/"><u>How to Get the Newest Brother MFC-J480DW Printer Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-estimating-gb-for-an-entire-film-daily-viewing/"><u>In 2024, Estimating GB for an Entire Film, Daily Viewing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/move-data-seamlessly-across-pcs-using-windows-os-versions-111087/"><u>Move Data Seamlessly Across PCs Using Windows OS (Versions 11/10/8/7)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-tips-for-successfully-configuring-google-one-vpn-services-on-macos-systems/"><u>Quick Tips for Successfully Configuring Google One VPN Services on macOS Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-issue-why-your-dead-space-remake-fails-to-start-expert-advice/"><u>Solving the Issue: Why Your Dead Space Remake Fails to Start – Expert Advice</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-visionary-linus-torvalds-explores-ai-progress-rust-integration-and-linux-significance-with-zdnet/"><u>Tech Visionary Linus Torvalds Explores AI Progress, Rust Integration, and Linux Significance with ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-electric-vehicle-varieties-how-do-evs-bevs-phevs-and-fcevs-compare-to-hybrids/"><u>Understanding Electric Vehicle Varieties: How Do EVs, BEVs, PHEVs and FCEVs Compare to Hybrids?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrade-journey-for-ubuntu-linux-2404-demystified-by-zdnet-experts/"><u>Upgrade Journey for Ubuntu Linux 24.04 Demystified by ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11s-recent-update-unleashes-exciting-novel-capabilities-insights-from-zdnet/"><u>Windows 11'S Recent Update Unleashes Exciting Novel Capabilities - Insights From ZDNet</u></a></li>
 </ul></div>
 

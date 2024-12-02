@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]"
-date: 2024-11-21T07:40:52.360Z
-updated: 2024-11-24T07:15:44.301Z
+date: 2024-11-27T03:00:34.871Z
+updated: 2024-12-02T11:01:45.598Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ Creating and remembering a unique and complex password for each of your accounts
 A good password manager will create, store, and apply strong and complex passwords across the board, thereby securing your accounts. I've used a password manager for years and wouldn't be able to juggle all my online accounts without it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -46,7 +46,7 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -66,7 +66,7 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -90,7 +90,7 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -139,24 +139,14 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-enhance-your-digital-footprint-upload-tiktoks-on-twitter/"><u>[New] 2024 Approved Enhance Your Digital Footprint Upload TikToks on Twitter</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-best-10-tiktok-video-editors-to-make-tiktok-videos-onlinew-indowspc/"><u>[New] In 2024, Best 10 TikTok Video Editors to Make TikTok Videos Online/W Indows/PC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-unleash-potential-in-online-engagement-through-zoom-screenshares/"><u>[New] Unleash Potential in Online Engagement Through Zoom Screenshares</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-monetization-contest-dailymovement-vs-youtubes-earnings-battleground/"><u>2024 Approved The Monetization Contest DailyMovement vs Youtube's Earnings Battleground</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-users-perspective-on-senuti-software-with-ideal-substitutes-compatible-with-pc-and-apple-devices/"><u>A User's Perspective on Senuti Software with Ideal Substitutes Compatible with PC and Apple Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278148-discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-back-online-three-quick-fixes-for-an-unresponsive-ipad-in-itunes-mode/"><u>Get Back Online: Three Quick Fixes for an Unresponsive iPad in iTunes Mode</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-completely-erase-irrelevant-applications-from-itunes-for-good/"><u>How To Completely Erase Irrelevant Applications From iTunes for Good</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-11-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 11 without Password?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a23-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A23 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-itunes-backups-essential-guide-and-step-by-step-tutorials/"><u>Mastering iTunes Backups: Essential Guide & Step-by-Step Tutorials</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-elite-costless-mp3-collision-system-2023s-recommended-choices/"><u>New In 2024, Elite Costless MP3 Collision System 2023S Recommended Choices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-fixes-for-recovering-deleted-itunes-content-on-ios-and-macos/"><u>Quick Fixes for Recovering Deleted iTunes Content on iOS & macOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/retrieve-deleted-contact-information-using-itunes-backup-on-ios-devices/"><u>Retrieve Deleted Contact Information Using iTunes Backup on iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/reviving-lost-conversations-a-step-by-step-guide-to-recovering-deleted-messages-in-itunes/"><u>Reviving Lost Conversations: A Step-by-Step Guide to Recovering Deleted Messages in iTunes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/share-your-creations-from-imovie-directly-to-your-itunes-library/"><u>Share Your Creations From iMovie Directly to Your iTunes Library</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smooth-touchscreen-experience-in-new-windows-11-with-elan/"><u>Smooth Touchscreen Experience in New Windows 11 with Elan</u></a></li>
-<li><a href="https://fox-info.techidaily.com/starting-your-own-platform-a-guide-to-critiquing-home-essentials/"><u>Starting Your Own Platform A Guide to Critiquing Home Essentials</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-mac-tutorial-downloading-and-setting-up-kinemaster-made-easy-for-2024/"><u>Updated Mac Tutorial Downloading and Setting Up KineMaster Made Easy for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-discovering-colorful-content-on-your-pc-with-advanced-windows-features/"><u>[New] 2024 Approved Discovering Colorful Content on Your PC with Advanced Windows Features</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-obs-studio-guide-android-broadcast-optimization/"><u>[New] 2024 Approved OBS Studio Guide Android Broadcast Optimization</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-best-6-apps-for-instagram-reels-for-2024/"><u>[Updated] Best 6 Apps for Instagram Reels for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-through-2022s-leading-accounting-solutions-your-ultimate-comparison-guide/"><u>Navigating Through 2022'S Leading Accounting Solutions: Your Ultimate Comparison Guide.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-uncertainty-mastering-the-limitations-of-modern-ai-tools-tech-insights-on-zdnet/"><u>Navigating Uncertainty: Mastering the Limitations of Modern AI Tools | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/quickquip-quarterfreeze-media/"><u>QuickQuip QuarterFreeze Media</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revival-in-the-clouds-the-converging-success-stories-of-openstack-and-kata-containers-analyzing-market-trends-on-zdnet/"><u>Revival in the Clouds: The Converging Success Stories of OpenStack and Kata Containers | Analyzing Market Trends on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-the-disarray-in-linuxopen-source-manuals-expert-fixes-on-zdnet/"><u>Taming the Disarray in Linux/Open Source Manuals: Expert Fixes on ZDNet</u></a></li>
 </ul></div>
 

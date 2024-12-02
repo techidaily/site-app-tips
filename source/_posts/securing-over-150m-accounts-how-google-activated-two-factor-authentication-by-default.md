@@ -1,7 +1,7 @@
 ---
 title: "Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default"
-date: 2024-11-17T02:55:55.929Z
-updated: 2024-11-24T05:24:49.765Z
+date: 2024-11-24T19:17:42.172Z
+updated: 2024-12-02T00:45:17.835Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ Google [has auto enrolled](https://blog.google/technology/safety-security/reduci
 The initiative also involved requiring 2 million YouTube users to enable it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google
@@ -79,20 +79,18 @@ Google [announced](https://www.zdnet.com/article/by-end-of-2021-google-plans-to-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-from-classic-quests-to-complex-escapades/"><u>[New] 2024 Approved From Classic Quests to Complex Escapades</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-unveiling-public-domain-paintings-insights-and-links-for-2024/"><u>[New] Unveiling Public Domain Paintings Insights & Links for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-5-sd-card-apps-for-optimal-file-management-on-your-android-device/"><u>Best 5 SD Card Apps for Optimal File Management on Your Android Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-uwu-text-to-speech-apps-mastering-anime-character-vocalization-techniques/"><u>Best UwU Text-to-Speech Apps: Mastering Anime Character Vocalization Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/concealing-applications-a-step-by-step-guide-for-android-ios-devices/"><u>Concealing Applications: A Step-by-Step Guide for Android, iOS Devices</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/expertenrat-effiziente-sicherheits-und-wiederherstellungsmethoden-fur-windows-11/"><u>Expertenrat: Effiziente Sicherheits- Und Wiederherstellungsmethoden Für Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-why-photo-booth-videos-freeze-suddenly-for-2024/"><u>Exploring Why Photo Booth Videos Freeze Suddenly for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-excellent-gps-software-for-android-devices-a-comprehensive-guide/"><u>Free Excellent GPS Software for Android Devices - A Comprehensive Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-high-definition-gaming-with-lg-27ud68-monitor-review/"><u>In 2024, High Definition Gaming with LG 27UD68 Monitor Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-out-of-space-on-windows/"><u>Overcoming Out Of Space On Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-converting-your-videos-from-vimeo-to-mov-format-on-windows/"><u>Quick Guide: Converting Your Videos From Vimeo to MOV Format on Windows</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/tips-for-successful-live-streams-on-instagram-for-2024/"><u>Tips for Successful Live Streams on Instagram for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-video-editing-tool-master-color-grading-with-ioss-top-application/"><u>Top Rated Video Editing Tool: Master Color Grading with iOS's Top Application</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-xvid-media-player-compatible-with-windows-macos-android-and-iphone/"><u>Top Rated Xvid Media Player: Compatible with Windows, MacOS, Android & iPhone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-blueprints-for-success-top-10-insights-into-instagram-video-marketing-for-2024/"><u>[New] Blueprints for Success Top 10 Insights Into Instagram Video Marketing for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-hulu-on-all-platforms-winmacmobile-for-2024/"><u>[New] How To Record Hulu On All Platforms - Win/Mac/Mobile for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastering-temporal-and-spatial-shifts-in-filmmaking-for-2024/"><u>[New] Mastering Temporal & Spatial Shifts in Filmmaking for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-perfecting-zoom-on-snapchat-for-better-snaps/"><u>[New] Perfecting Zoom on Snapchat for Better Snaps</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-youtube-video-trailers-with-filmoras-guide/"><u>2024 Approved Crafting YouTube Video Trailers with Filmora's Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-online-alter-ego-artistry-drawing-a-fancy-profile/"><u>2024 Approved Online Alter-Ego Artistry Drawing a Fancy Profile</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-security-while-watching-the-hidden-dangers-of-weak-passwords-in-streaming-platforms-cyberwatchers-blog/"><u>Enhance Security While Watching: The Hidden Dangers of Weak Passwords in Streaming Platforms | CyberWatchers Blog</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exclusive-offer-on-jem-authenticator-and-password-manager-enhance-login-security-with-ease-dive-into-zdnet/"><u>Exclusive Offer on JEM Authenticator & Password Manager: Enhance Login Security with Ease - Dive Into ZDNet!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-cryptocom-ceo-tackles-login-challenges-post-31-million-hack-incident-covered-by-zdnet/"><u>How Crypto.com CEO Tackles Login Challenges Post $31 Million Hack Incident Covered by ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-screen-record-on-ipad-more-easily-for-2024/"><u>How to Screen Record on iPad More Easily for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-movies-imovie-music-essentials/"><u>In 2024, Harmonizing Movies IMovie Music Essentials</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-examination-of-1password-maximizing-security-with-high-value-for-your-dollar-a-comprehensive-review-by-zdnets-experts/"><u>In-Depth Examination of 1Password: Maximizing Security with High Value for Your Dollar - A Comprehensive Review by ZDNet's Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-dashlanes-offerings-price-breakdown-features-unveiled-and-step-by-step-setup-tutorial-cyberwisezine/"><u>Navigating Dashlane's Offerings: Price Breakdown, Features Unveiled & Step-by-Step Setup Tutorial | CyberWiseZine</u></a></li>
 </ul></div>
 

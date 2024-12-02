@@ -1,7 +1,7 @@
 ---
 title: "OpenStack and Kata Container Renaissance: Exploring Their Renewed Appeal on the Tech Scene - Analysis by ZDNET"
-date: 2024-11-18T06:51:20.383Z
-updated: 2024-11-24T00:19:45.109Z
+date: 2024-11-24T21:02:43.903Z
+updated: 2024-12-02T04:12:58.439Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-navigating-through-tiktoks-visual-communication-tools-for-2024/"><u>[New] Navigating Through TikTok's Visual Communication Tools for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-closing-chapter-on-instagram-how-to-discard-account-permanently/"><u>[Updated] In 2024, Closing Chapter on Instagram How to Discard Account Permanently</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-professional-edge-without-solely-focusing-on-ai-insights-for-todays-workforce/"><u>Elevate Your Professional Edge Without Solely Focusing on AI | Insights for Today's Workforce</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-synergy-how-ai-empowers-developers-and-business-teams-insights-from-zdnet/"><u>Enhancing Synergy: How AI Empowers Developers & Business Teams - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-emerging-companies-can-leverage-ai-models-to-capture-market-share-insights-from-zdnet/"><u>How Emerging Companies Can Leverage AI Models to Capture Market Share: Insights From ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-nubia-z50-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Nubia Z50 Ultra to iPhone | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-adobe-photos-sway-decrease-a-crucial-feature/"><u>In 2024, Adobe Photos' Sway Decrease - A Crucial Feature?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-of-integrating-artificasternotext-ai-and-agile-methodologies-zdnet-reported-findings/"><u>Navigating the Complexities of Integrating Artificasternotext AI and Agile Methodologies - ZDNET Reported Findings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-rise-of-agent-ecosystems-in-artificial-intelligence-future-service-domination/"><u>Navigating the Rise of Agent Ecosystems in Artificial Intelligence: Future Service Domination</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/powerline-performance-vs-aesthetics-in-the-tp-link-av2000-adapter-reviews-and-insights/"><u>Powerline Performance Vs. Aesthetics in the TP-Link AV2000 Adapter - Reviews and Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/prioritize-manager-training-before-ai-deployment-insights-from-zdnet/"><u>Prioritize Manager Training Before AI Deployment: Insights From ZDNet</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/reclaiming-deleted-items-on-your-iphone-after-a-factory-reset-a-guide/"><u>Reclaiming Deleted Items on Your iPhone After a Factory Reset – A Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-troubleshooting-silent-speakers-on-windows-a-fix-guide/"><u>Solved: Troubleshooting Silent Speakers on Windows - A Fix Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-verify-your-youtube-account-a-simple-guide/"><u>[New] 2024 Approved How to Verify Your YouTube Account - a Simple Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-brand-transformation-on-instagram-top-10-unconventional-igtv-video-ideas-for-2024/"><u>[New] Brand Transformation on Instagram Top 10 Unconventional IGTV Video Ideas for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-best-start-streamlined-tools-for-novice-game-editors/"><u>[Updated] 2024 Approved The Best Start Streamlined Tools for Novice Game Editors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unlocking-nvidias-screen-recorder-potential/"><u>[Updated] 2024 Approved Unlocking NVIDIA's Screen Recorder Potential</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-twittersphere-treasure-trove-for-2024/"><u>[Updated] The Twittersphere Treasure Trove for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-showdown-vlc-versus-mpc-in-video-viewing/"><u>[Updated] The Ultimate Showdown VLC Versus MPC in Video Viewing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionize-your-gameplay-with-this-gratuitous-voice-alterer/"><u>2024 Approved Revolutionize Your Gameplay with This Gratuitous Voice Alterer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-the-eva-ai-chatbot-from-ex-journey-dont-miss-this/"><u>Comprehensive Guide to the EVA AI Chatbot From Ex Journey – Don't Miss This!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/delving-deep-into-chatsonic-a-thorough-assessment-of-the-cutting-edge-ai-chat-companion/"><u>Delving Deep Into Chatsonic: A Thorough Assessment of the Cutting-Edge AI Chat Companion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-bing-chat-how-to-utilize-ai-and-gpt-n-technology-for-enhanced-conversations/"><u>Exploring Bing Chat: How to Utilize AI and GPT-N Technology for Enhanced Conversations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-enhanced-capabilities-of-chatgpt-2024-full-feature-breakdown-and-troubleshooting-server-errors/"><u>Exploring the Enhanced Capabilities of ChatGPT 2024 - Full Feature Breakdown & Troubleshooting Server Errors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-advanced-techniques-for-sharper-screen-collaboration/"><u>In 2024, Advanced Techniques for Sharper Screen Collaboration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-at-chatsonic-thorough-review-uncovers-vital-information-on-this-state-of-the-art-artificial-intelligence-chat-interface/"><u>Inside Look at Chatsonic: Thorough Review Uncovers Vital Information on This State-of-the-Art Artificial Intelligence Chat Interface</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-fix-the-msodll-error-on-windows-computers/"><u>Steps to Fix the Mso.dll Error on Windows Computers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-best-substitutes-for-elevenlabs-groundbreaking-generative-voice-ai/"><u>The Best Substitutes for ElevenLabs' Groundbreaking Generative Voice AI</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-chatgpt-a-thorough-breakdown-of-its-capabilities-flaws-and-error-management-techniques/"><u>The Ultimate Guide to ChatGPT - A Thorough Breakdown of Its Capabilities, Flaws & Error Management Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-chatsonic-an-exhaustive-evaluation-for-insights-into-cutting-edge-ai-conversational-technology/"><u>Unveiling Chatsonic: An Exhaustive Evaluation for Insights Into Cutting-Edge AI Conversational Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-bing-chat-interacting-with-artificial-intelligence-via-gpt-technology/"><u>Unveiling the Power of Bing Chat: Interacting with Artificial Intelligence via GPT Technology</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/vn-video-editor-pc-review-is-it-the-right-choice-for-you/"><u>VN Video Editor PC Review Is It the Right Choice for You?</u></a></li>
 </ul></div>
 

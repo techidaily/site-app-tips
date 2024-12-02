@@ -1,7 +1,7 @@
 ---
 title: "Unleashing the Power of AI: How LangChain Revolutionizes Generative Assistance"
-date: 2024-10-08T11:36:28.399Z
-updated: 2024-10-12T10:36:34.839Z
+date: 2024-12-01T09:57:32.774Z
+updated: 2024-12-01T23:20:56.230Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-obs-broadcasting-directly-on-instagram/"><u>[New] 2024 Approved OBS Broadcasting Directly on Instagram</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube-for-2024/"><u>[Updated] Break It Down Free Techniques to Go Frame by Frame on YouTube for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-content-crusaders-route-to-rapid-instagram-fame-for-2024/"><u>[Updated] Content Crusader’s Route to Rapid Instagram Fame for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-compact-cinematic-story-guide/"><u>[Updated] In 2024, Compact Cinematic Story Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-most-accessible-high-quality-video-modification-sites/"><u>[Updated] Unveiling the Most Accessible, High-Quality Video Modification Sites</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-discover-picsarts-features-in-full-guide-update/"><u>2024 Approved Discover PicsArt's Features in Full - Guide Update</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-your-companys-safety-start-with-individual-protection-strategies-insights-from-zdnet/"><u>Enhance Your Company's Safety: Start with Individual Protection Strategies - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-your-passwords-under-control-at-half-price-save-big-now-only-50-off-keeper-manager-gizmonews/"><u>Get Your Passwords Under Control at Half Price! Save Big Now - Only 50% Off Keeper Manager | GizmoNews</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/gtx-950-code-43-error-on-windows-10-solved/"><u>GTX 950 Code 43 Error on Windows 10 [Solved]</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/is-1password-a-high-value-investment-comprehensive-expert-evaluation-of-this-top-tier-password-solution-insights-from-tech-sector-leaders/"><u>Is 1Password a High-Value Investment? Comprehensive Expert Evaluation of This Top-Tier Password Solution - Insights From Tech Sector Leaders</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/pro-tips-for-power-users-expert-whatsapp-techniques/"><u>Pro Tips for Power Users Expert WhatsApp Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-grab-3-months-of-dashlane-pro-password-management-for-just-1-with-zdnets-exclusive-offer/"><u>Secure Your Digital Life: Grab 3 Months of Dashlane Pro Password Management for Just $1 with ZDNet's Exclusive Offer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-the-cloud-dont-fall-victim-to-hacking-spot-and-fix-these-flaws-now-zdnet/"><u>Securing the Cloud: Don’t Fall Victim to Hacking - Spot and Fix These Flaws Now! | ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sound-stuttering-distortion-problem-on-windows-107-solved/"><u>Sound Stuttering / Distortion Problem on Windows 10/7 [Solved]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/team-wide-security-at-just-1995month-discover-how-1password-transforms-password-management-tech-insights/"><u>Team-Wide Security at Just $19.95/Month: Discover How 1Password Transforms Password Management | Tech Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-security-why-embracing-a-password-manager-is-essential-now-more-than-ever/"><u>Unlocking Security: Why Embracing a Password Manager Is Essential Now More Than Ever</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-protection-solution-from-security-expert-targets-log4j-exploits-in-hardware-locked-out-of-updates-zdnet/"><u>Urgent Protection Solution From Security Expert Targets Log4j Exploits in Hardware Locked Out of Updates | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-people-favor-biometrics-over-passwords-due-to-memory-challenges-zdnet-analysis/"><u>Why People Favor Biometrics Over Passwords Due to Memory Challenges | ZDNet Analysis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unleash-professional-quality-facebook-profile-pictures-with-these-tools/"><u>[New] 2024 Approved Unleash Professional Quality Facebook Profile Pictures with These Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-unearth-your-secret-snapshots/"><u>[New] In 2024, How to Unearth Your Secret Snapshots</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-quick-and-easy-sharing-of-creative-content/"><u>[Updated] 2024 Approved The Quick and Easy Sharing of Creative Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-detailed-walkthrough-monitoring-and-managing-your-off-facebook-activities/"><u>[Updated] Detailed Walkthrough Monitoring and Managing Your Off-Facebook Activities</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-developer-productivity-and-endurance-with-github-copilot-a-zdnet-insight/"><u>Advancing Developer Productivity & Endurance with GitHub Copilot - A ZDNet Insight</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-stories-excellence-among-8-film-categories/"><u>Crafting Stories Excellence Among 8 Film Categories</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-evolution-of-developer-roles-insights-from-atlassians-agnes-ro-featured-in-zdnet/"><u>Exploring the Evolution of Developer Roles: Insights From Atlassian’s Agnes Ro – Featured in ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-photomagic-studio/"><u>In 2024, PhotoMagic Studio</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-the-globe-from-your-screen-best-of-66-influential-travel-tweeters-for-unmissable-offers-and-anecdotes/"><u>Navigate the Globe From Your Screen: Best of 66 Influential Travel Tweeters for Unmissable Offers and Anecdotes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-cloud-native-futures-unveiling-skillsets-and-enhanced-security-in-emerging-platforms-insights-from-zdnet/"><u>Navigating Cloud-Native Futures: Unveiling Skillsets & Enhanced Security in Emerging Platforms - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-ops-integration-and-its-complexities-within-enterprise-it-environments-as-analyzed-by-zdnet/"><u>Navigating Ops Integration and Its Complexities Within Enterprise IT Environments, as Analyzed by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-your-path-in-technology-insights-from-industry-leaders-at-global-aerospace-giant/"><u>Navigating Your Path in Technology: Insights From Industry Leaders at Global Aerospace Giant</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-advanced-capabilities-in-chatgpt-tutorial-for-beta-web-navigation-tools/"><u>Unlocking Advanced Capabilities in ChatGPT: Tutorial for Beta Web Navigation Tools</u></a></li>
 </ul></div>
 

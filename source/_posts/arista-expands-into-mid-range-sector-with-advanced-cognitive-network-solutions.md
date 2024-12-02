@@ -1,7 +1,7 @@
 ---
 title: Arista Expands Into Mid-Range Sector with Advanced Cognitive Network Solutions
-date: 2024-11-09T18:04:45.849Z
-updated: 2024-11-13T16:59:32.973Z
+date: 2024-11-26T06:50:19.551Z
+updated: 2024-12-02T10:32:59.458Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,24 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-revolutionary-strategy-mac-opening-with-wearable/"><u>[New] Revolutionary Strategy Mac Opening With Wearable</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-securing-memories-a-comprehensive-guide-for-scanning-and-storing-vintage-photos/"><u>[New] Securing Memories A Comprehensive Guide for Scanning and Storing Vintage Photos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sonic-sharing-adding-music-to-your-whatsapp-status/"><u>[New] Sonic Sharing Adding Music to Your WhatsApp Status</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-6-pillars-of-effective-facebook-live-website-integration/"><u>[New] The 6 Pillars of Effective Facebook Live Website Integration</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-8-efficient-free-video-chat-platforms-available-for-pc-and-mac/"><u>[Updated] 2024 Approved 8 Efficient, Free Video Chat Platforms Available for PC and MAC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-cutting-edge-3d-animations-made-easy-by-leading-applications/"><u>[Updated] In 2024, Cutting-Edge 3D Animations Made Easy by Leading Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-on-cloud-storage-protecting-data-for-ipads-pro-mini-and-air-via-icloud/"><u>Complete Tutorial on Cloud Storage: Protecting Data for iPads (Pro, Mini, and Air) via iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620264535-how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-to-recover-lost-partitions-from-your-lenovo-computer-in-windows-nvite-10-using-myrecover-tool/"><u>How to Recover Lost Partitions From Your Lenovo Computer in Windows Nvite 10 Using MyRecover Tool</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-realme-c53-lock-screen-password-by-drfone-android/"><u>How to Reset your Realme C53 Lock Screen Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oneplus-ace-3-phone-by-drfone-android/"><u>How to Unlock a Network Locked OnePlus Ace 3 Phone?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-icloud-security-efficiently-disconnect-across-devices-with-our-3-step-process/"><u>Mastering iCloud Security: Efficiently Disconnect Across Devices with Our 3 Step Process</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revive-your-whatsapp-chats-with-icloud-backup-step-by-step-guide/"><u>Revive Your WhatsApp Chats with iCloud Backup: Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-managing-and-exporting-icloud-keychain-credentials-on-a-mac-computer/"><u>Step-by-Step Tutorial: Managing and Exporting iCloud Keychain Credentials on a Mac Computer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-of-icloud-keychain-functionality-and-retrieving-your-data-on-iphone/"><u>The Ultimate Walkthrough of iCloud Keychain Functionality & Retrieving Your Data on iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-4-methods-for-effortlessly-transferring-your-iphone-photos-to-icloud-a-complete-guide/"><u>Top 4 Methods for Effortlessly Transferring Your iPhone Photos to iCloud: A Complete Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-step-by-step-guide-how-to-effortlessly-backup-and-sync-your-iphone-with-icloud/"><u>Ultimate Step-by-Step Guide: How to Effortlessly Backup and Sync Your iPhone with iCloud</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-tricks-for-smoothly-moving-your-dvds-onto-a-tivo-system/"><u>Ultimate Tricks for Smoothly Moving Your DVDs Onto a TiVo System</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-icloud-keychain-a-complete-guide-to-unlocking-your-iphones-secure-storage/"><u>Understanding iCloud Keychain: A Complete Guide to Unlocking Your iPhone's Secure Storage</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capturing-web-streamed-music-step-by-step-guide-for-2024/"><u>[Updated] Capturing Web-Streamed Music Step by Step Guide for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-leading-10-image-cataloging-applications-for-both-windows-and-mac-systems-a-comprehensive-ranking-guide/"><u>Discover the Leading 10 Image Cataloging Applications for Both Windows & Mac Systems: A Comprehensive Ranking Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-8-ultimate-free-fax-applications-for-your-android-device/"><u>Discover the Top 8 Ultimate Free Fax Applications for Your Android Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-persistent-xerox-update-issue-error-code-0x800f020b/"><u>How to Fix the Persistent Xerox Update Issue (Error Code: 0X800F020B)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-best-free-wmv-video-combining-tools-2023-edition-for-2024/"><u>New Best Free WMV Video Combining Tools 2023 Edition for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-0x80amake-sure-to-use-relevant-keywords-like-windows-11-system-restore-error-and-error-0x80070091-in-each-title-as-it-helps-with-seo-rankings115/"><u>Overcoming the 0X80amake Sure to Use Relevant Keywords Like Windows 11, System Restore Error, and Error 0X80070091 in Each Title, as It Helps with SEO Rankings by Making the Content More Discoverable for Those Specific Terms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-the-top-6-iphone-apps-to-restore-your-lost-memories/"><u>Ultimate Guide: The Top 6 iPhone Apps to Restore Your Lost Memories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-selections-premium-webcam-platforms/"><u>Ultimate Selections Premium Webcam Platforms</u></a></li>
 </ul></div>
 

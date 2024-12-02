@@ -1,7 +1,7 @@
 ---
 title: Collaboration Between Sony Research and AI Singapore Targets Advancements in Language Models
-date: 2024-11-21T16:36:53.046Z
-updated: 2024-11-24T06:21:34.959Z
+date: 2024-12-01T05:24:28.761Z
+updated: 2024-12-01T22:29:24.424Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-tools-for-clear-images/"><u>[Updated] 2024 Approved Essential Tools for Clear Images</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-optimizing-youtube-closures-a-comprehensive-guide-to-crafting-effective-end-screens-and-cards/"><u>[Updated] 2024 Approved Optimizing YouTube Closures A Comprehensive Guide to Crafting Effective End Screens and Cards</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-mastery-the-top-10-steps-to-optimize-engagement/"><u>[Updated] Instagram Mastery The Top 10 Steps to Optimize Engagement</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-revolutionizing-careers-the-inevitable-shift-to-a-world-governed-by-intelligent-agents-expert-analysis-on-zdnet/"><u>AI Revolutionizing Careers: The Inevitable Shift to a World Governed by Intelligent Agents | Expert Analysis on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-transforms-business-strategies-how-many-marketing-departments-adapt-learn-with-zdnet/"><u>AI Transforms Business Strategies: How Many Marketing Departments Adapt? - Learn with ZDNet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-your-channels-income-understanding-critical-view-thresholds-for-2024/"><u>Boost Your Channel's Income Understanding Critical View Thresholds for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/elevate-your-broadcast-screen-share-techniques-for-the-modern-broadcaster-for-2024/"><u>Elevate Your Broadcast Screen-Share Techniques for the Modern Broadcaster for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-the-future-how-your-enterprise-will-depend-on-numerous-ai-algorithms-insights-from-zdnet/"><u>Embracing the Future: How Your Enterprise Will Depend on Numerous AI Algorithms - Insights From ZDNet</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-se-2022-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone SE (2022) in the Best Ways</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-xiaomi-14-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Xiaomi 14 Pro Activity | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-impenetrable-ai-watermark-techniques-for-content-security-zdnet/"><u>Mastering Impenetrable AI Watermark Techniques for Content Security | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-todays-obstacles-dealing-with-imperfect-ai-output-and-doubts-on-reliability-insights-from-zdnet/"><u>Navigating Today's Obstacles: Dealing with Imperfect AI Output & Doubts on Reliability - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-era-of-edge-expansion-unveiling-its-impact-on-professional-growth-and-opportunities-innovatetech/"><u>The Era of Edge Expansion: Unveiling Its Impact on Professional Growth and Opportunities | InnovateTech</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-work-exploring-unprecedented-career-paths-and-title-evolution-in-the-age-of-artificial-intelligence/"><u>The Future of Work: Exploring Unprecedented Career Paths and Title Evolution in the Age of Artificial Intelligence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-review-capturing-every-angle-in-one-device-samsung/"><u>[New] Full Review Capturing Every Angle in One Device - Samsung</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-visual-prowess-top-5-camera-techniques-for-the-year-filmographys-review-of-24/"><u>[New] In 2024, Visual Prowess Top 5 Camera Techniques for the Year - Filmography's Review of '24</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-copyright-free-audio-treasury-for-gamers-online/"><u>2024 Approved Copyright-Free Audio Treasury for Gamers Online</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-edge-40-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Motorola Edge 40</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-strategies-for-reconstructing-your-itunes-music-library-in-depth-guide/"><u>Expert Strategies for Reconstructing Your iTunes Music Library (In-Depth Guide)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/foray-into-video-fidelity-an-initialists-perspective-for-2024/"><u>Foray Into Video Fidelity An Initialist's Perspective for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y77t-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo Y77t Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-speed-up-your-itunes-experience-a-complete-guide-with-10-effective-steps/"><u>How to Speed Up Your iTunes Experience: A Complete Guide with 10 Effective Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-use-your-itunes-gift-card-on-ios-devices-and-mac-computers/"><u>How To Use Your iTunes Gift Card On iOS Devices And Mac Computers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-your-pictures-focus-with-gaussian-blur/"><u>In 2024, Perfect Your Picture's Focus with Gaussian Blur</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-compact-drone-guide-unraveling-dji-sparks-selfie-prowess/"><u>In 2024, The Ultimate Compact Drone Guide Unraveling DJI Spark's Selfie Prowess</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revive-missing-iphone-apps-and-photos-data-recovery-solutions-for-your-itunes-backups/"><u>Revive Missing iPhone Apps and Photos: Data Recovery Solutions for Your iTunes Backups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-methods-revive-your-lost-itunes-downloads-across-all-devices/"><u>Simple Methods: Revive Your Lost iTunes Downloads Across All Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-your-connectivity-issues-what-to-try-when-itunes-fails-to-detect-iphone-ipad-or-ipod/"><u>Solving Your Connectivity Issues: What To Try When iTunes Fails To Detect iPhone, iPad Or iPod</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/wechselwirkungsunterstutzung-fur-die-winx-dvd-extractor-and-videokonvertierung-softwares-professioneller-online-service/"><u>Wechselwirkungsunterstützung Für Die WinX DVD Extractor & Videokonvertierung Softwares - Professioneller Online-Service</u></a></li>
 </ul></div>
 

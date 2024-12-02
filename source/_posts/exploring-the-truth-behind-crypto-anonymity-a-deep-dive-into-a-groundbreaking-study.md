@@ -1,7 +1,7 @@
 ---
 title: Exploring the Truth Behind Crypto Anonymity – A Deep Dive Into a Groundbreaking Study
-date: 2024-11-17T07:00:27.918Z
-updated: 2024-11-24T06:25:59.007Z
+date: 2024-11-28T09:10:17.630Z
+updated: 2024-12-02T02:55:22.118Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,21 +119,19 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-fbx-gameplay-snapshot-techniques/"><u>[New] 2024 Approved FBX Gameplay Snapshot Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-foremost-6-networks-fostering-profitable-partnerships/"><u>[New] 2024 Approved Foremost 6 Networks Fostering Profitable Partnerships</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-streamlined-approach-to-using-azures-transcription-technology/"><u>[Updated] A Streamlined Approach to Using Azure's Transcription Technology</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-maximize-engagement-with-these-instagram-story-tips/"><u>[Updated] Maximize Engagement with These Instagram Story Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-create-shareable-memes-with-adobe-photoshop/"><u>2024 Approved Create Shareable Memes with Adobe Photoshop</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-dive-deep-with-these-6-extraordinary-metaverse-models/"><u>2024 Approved Dive Deep with These 6 Extraordinary Metaverse Models</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-20-most-popular-bluetooth-enabled-multiplayer-games-on-phones-and-tablets/"><u>Discover the Top 20 Most Popular Bluetooth-Enabled Multiplayer Games on Phones & Tablets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-6-imovie-substitutes-for-your-android-smartphones-video-edits/"><u>Discover the Ultimate 6 iMovie Substitutes for Your Android Smartphone's Video Edits</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-the-ultimate-free-audiobook-library-now-compatible-with-ios-and-android-devices/"><u>Download the Ultimate Free Audiobook Library Now - Compatible with iOS & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-started-with-tango-step-by-step-instructions-for-downloading-video-chatting-app/"><u>Get Started With Tango - Step-by-Step Instructions For Downloading Video Chatting App</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-sending-audio-messages-with-your-iphone-effortlessly/"><u>Guide: Sending Audio Messages with Your iPhone Effortlessly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-geforce-940mx-graphics-driver-download/"><u>Nvidia GeForce 940MX Graphics Driver Download</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-idevice-software-challenges-tips-for-successful-ios-upgrades/"><u>Solving iDevice Software Challenges: Tips for Successful iOS Upgrades</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-best-free-morning-motivators-unique-alarm-apps-for-an-easy-start/"><u>Top 10 Best FREE Morning Motivators: Unique Alarm Apps for an Easy Start</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-6-essential-iphone-apps-for-restoring-lost-contact-information/"><u>Top 6 Essential iPhone Apps for Restoring Lost Contact Information</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205564453-troubleshooting-sticky-windows-keyboards-top-solutions-revealed/"><u>Troubleshooting Sticky Windows Keyboards – Top Solutions Revealed</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-biggest-fifa-visuals-youtube-insights-graphed/"><u>[Updated] Biggest FIFA Visuals YouTube Insights Graphed</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/4-time-saving-ways-to-perfect-loops-in-your-instagram-videos-for-2024/"><u>4 Time-Saving Ways to Perfect Loops in Your Instagram Videos for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creating-effective-reminders-using-slackbot-a-step-by-step-guide-on-slack/"><u>Creating Effective Reminders Using Slackbot: A Step-by-Step Guide on Slack</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2010-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2010 Error Code 0x800A03EC?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-vital-are-it-specialists-for-modern-businesses-operating-without-technology-insights-from-a-zdnet-perspective/"><u>How Vital Are IT Specialists for Modern Businesses Operating Without Technology? Insights From a ZDNET Perspective</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-ace-3-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus Ace 3 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-s18-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo S18 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-stealthy-editing-blur-faces-with-picsart/"><u>In 2024, Stealthy Editing Blur Faces With Picsart</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-next-gen-cloud-infrastructures-for-skills-development-and-robust-security-in-modern-applications/"><u>Leveraging Next-Gen Cloud Infrastructures for Skills Development and Robust Security in Modern Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-faces-critical-deadline-for-fixing-windows-10-issues-just-one-year-left-to-rectify-technewszdnet/"><u>Microsoft Faces Critical Deadline for Fixing Windows 10 Issues – Just One Year Left to Rectify | TechNewsZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-todays-it-landscape-balancing-cloud-innovation-with-current-on-premise-realities-techinsights/"><u>Navigating Today's IT Landscape: Balancing Cloud Innovation with Current On-Premise Realities | TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/sonys-ai-initiative-collaborates-with-ai-singapore-on-next-gen-language-models-unveiling-the-partnership/"><u>Sony's AI Initiative Collaborates with AI Singapore on Next-Gen Language Models: Unveiling the Partnership</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ling-the-best-practices-for-youtube-fb-sharing/"><u>Unveiling the Best Practices for YouTube FB Sharing</u></a></li>
 </ul></div>
 

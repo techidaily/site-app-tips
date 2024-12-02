@@ -1,7 +1,7 @@
 ---
 title: Antenna Impedance Matching Is Essential Not only for Efficient Power Transfer but Also because Mismatches Can Distort the Radiation Pattern Due to Standing Waves on Transmission Lines.
-date: 2024-10-05T11:59:17.656Z
-updated: 2024-10-11T16:08:06.930Z
+date: 2024-11-30T04:47:56.449Z
+updated: 2024-12-02T07:21:53.533Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,14 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/achieving-synergy-how-tech-and-business-are-finally-joining-forces-today-zdnet/"><u>Achieving Synergy: How Tech & Business Are Finally Joining Forces Today | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-progressive-upgrades-during-artificial-intelligence-revolution-its-pledge-as-featured-on-zdnet/"><u>Embracing Progressive Upgrades During Artificial Intelligence Revolution: IT's Pledge as Featured on ZDNET</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-y36-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo Y36 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-saving-big-on-final-cut-pro-without-paying/"><u>In 2024, Saving Big on Final Cut Pro without Paying</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-edge-in-hyperconvergence-the-elite-vendors-featured-on-zdnet/"><u>Leading Edge in Hyperconvergence: The Elite Vendors , Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-hybrid-cloud-challenges-with-the-latest-enhancements-of-red-hats-enterprise-linux-distribution/"><u>Mastering Hybrid Cloud Challenges with the Latest Enhancements of Red Hat's Enterprise Linux Distribution</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-oppo-reno-8t-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Oppo Reno 8T 5G on Mac?</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1728502418487-windows-10ssd/"><u>Windows 10におけるSSDの最適なブート設定ガイド</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-creating-professional-level-xbox-screen-recordings/"><u>[Updated] 2024 Approved Creating Professional-Level Xbox Screen Recordings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unite-chords-and-visuals-on-powerpoint/"><u>[Updated] 2024 Approved Unite Chords and Visuals on PowerPoint</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-takes-the-stage-in-low-code-and-no-code-development-strategic-shifts-highlighted-by-zdnet-experts/"><u>AI Takes the Stage in Low-Code and No-Code Development: Strategic Shifts Highlighted by ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-spearheads-the-surge-in-non-cash-payments-forecasted-reach-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Cash Payments: Forecasted Reach of $1.6 Trillion</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/becoming-multilingual-via-visual-media/"><u>Becoming Multilingual via Visual Media</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/boosting-connectivity-with-creative-fb-slideshow-ideas/"><u>Boosting Connectivity with Creative FB Slideshow Ideas</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-supercomputers-are-pivotal-in-chinas-quest-for-a-revolutionary-digital-metamorphosis/"><u>How Supercomputers Are Pivotal in China's Quest for a Revolutionary Digital Metamorphosis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hubsan-h501s-x4-fpv-quadcopter-review-for-2024/"><u>Hubsan H501S X4 FPV Quadcopter Review for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-captivating-features-the-allure-of-filmora-editing/"><u>In 2024, Captivating Features The Allure of Filmora Editing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211473385-9782385640118-revelez-votre-dharma/"><u>Révélez votre Dharma | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uncovering-the-next-breakthrough-the-quest-for-an-ultimate-5g-app-beyond-just-speed-and-connection-zdnet/"><u>Uncovering the Next Breakthrough: The Quest for an Ultimate 5G App Beyond Just Speed and Connection | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zipfile-subs-guide-from-archive-to-srt-file-format/"><u>Zipfile Subs Guide From Archive to SRT File Format</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET"
-date: 2024-11-17T04:31:14.191Z
-updated: 2024-11-23T22:25:01.048Z
+date: 2024-11-30T01:50:56.075Z
+updated: 2024-12-02T03:46:03.102Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-demystifying-the-process-of-writing-youtube-video-content/"><u>[New] 2024 Approved Demystifying the Process of Writing YouTube Video Content</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-12-sign-bio-blueprints-on-whatsapp/"><u>[New] In 2024, The Ultimate 12-Sign Bio Blueprints on WhatsApp</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-key-sites-the-6-most-vital-platforms-for-b2b-relationships/"><u>2024 Approved Key Sites The 6 Most Vital Platforms for B2B Relationships</u></a></li>
-<li><a href="https://app-tips.techidaily.com/harnessing-the-power-of-full-stack-ai-conversations-with-your-enterprises-leading-tech-guru-zdnet-insights/"><u>Harnessing the Power of Full-Stack AI: Conversations with Your Enterprise's Leading Tech Guru | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-rapid-expansion-in-tech-fuels-employee-burnout-strategies-for-change/"><u>How Rapid Expansion in Tech Fuels Employee Burnout - Strategies for Change</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-recover-from-javascript-jscriptdll-not-detected-or-lost-mistakes/"><u>How to Recover From JavaScript (Jscript.dll) Not Detected or Lost Mistakes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-new-frontier-the-rise-of-specialized-ai-oversight-positions-for-next-gen-software-teams-zdnet/"><u>Navigating the New Frontier: The Rise of Specialized AI Oversight Positions for Next-Gen Software Teams | ZDNET</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/navigating-the-world-of-computer-components-with-toms-hardware-solutions/"><u>Navigating the World of Computer Components with Tom's Hardware Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/pushing-boundaries-the-rise-of-lowno-code-platforms-and-their-impact-on-traditional-it-support/"><u>Pushing Boundaries: The Rise of Low/No-Code Platforms & Their Impact on Traditional IT Support</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reimagining-domestic-functionality-with-chatgpt-innovations/"><u>Reimagining Domestic Functionality with ChatGPT Innovations</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-vivo-y100t-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y100t Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-playbook-earning-your-keep-on-youtube-channel/"><u>The 2024 Playbook Earning Your Keep on YouTube Channel</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-incoming-wave-of-ai-enabled-agent-ecosystems-transforming-tomorrows-market-services/"><u>The Incoming Wave of AI-Enabled 'Agent Ecosystems': Transforming Tomorrow's Market Services</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-role-of-multiple-ai-systems-in-business-success-understanding-the-trends-with-zdnets-analysis/"><u>The Role of Multiple AI Systems in Business Success: Understanding the Trends with ZDNET's Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-unseen-challenge-in-conversational-ai-stanford-highlights-english-centric-flaws-in-modern-chatbots-zdnet/"><u>The Unseen Challenge in Conversational AI: Stanford Highlights English-Centric Flaws in Modern Chatbots | ZDNET</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unlocking-serene-nights-with-advanced-sleep-technologies-a-must-have-selection/"><u>Unlocking Serene Nights with Advanced Sleep Technologies: A Must-Have Selection</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premier-mac-tools-beyond-bandicam/"><u>[New] 2024 Approved Premier Mac Tools Beyond Bandicam</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-simple-screen-recorder-for-windows-10/"><u>[New] In 2024, Simple Screen Recorder for Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-open-library-legal-gaming-tracks-downloadable-for-2024/"><u>[New] Open Library Legal Gaming Tracks Downloadable for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-playlist-passport-traveling-tunes-throughout-platforms-for-2024/"><u>[New] Playlist Passport Traveling Tunes Throughout Platforms for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-comprehensive-assessment-of-frozen-treats-on-display/"><u>[Updated] Comprehensive Assessment of Frozen Treats on Display</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-interview-skills-using-chatgpt-a-comprehensive-guide/"><u>Boost Your Interview Skills Using ChatGPT - A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-how-iphone-users-can-download-and-preserve-pdfs-from-whatsapp/"><u>Complete Tutorial: How iPhone Users Can Download and Preserve PDFs From WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-tips-for-retrieving-lost-whatsapp-data-on-ios-recover-texts-images-movies-and-sounds-easily/"><u>Expert Tips for Retrieving Lost WhatsApp Data on iOS - Recover Texts, Images, Movies & Sounds Easily</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-meizu-21-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Meizu 21 Devices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-ultimate-guide-to-organizing-fb-giveaways/"><u>In 2024, The Ultimate Guide to Organizing FB Giveaways</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-and-effective-strategies-for-iphone-users-to-preserve-whatsapp-communications/"><u>Quick and Effective Strategies for iPhone Users to Preserve WhatsApp Communications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-your-messages-comprehensive-guide-on-recovering-whatsapp-backups-from-google-drive-on-ios-devices/"><u>Reviving Your Messages: Comprehensive Guide on Recovering WhatsApp Backups From Google Drive on iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamlessly-shifting-conversations-moving-whatsapp-information-from-android-devices-to-iphones/"><u>Seamlessly Shifting Conversations: Moving WhatsApp Information From Android Devices to iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-guide-capturing-your-whatsapp-video-calls-on-ios-android-and-pc/"><u>Simple Guide: Capturing Your WhatsApp Video Calls on iOS, Android, and PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-steps-to-seamlessly-download-audio-messages-from-whatsapp/"><u>Simple Steps to Seamlessly Download Audio Messages From WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-whatsapp-video-conversion-apps-for-perfect-quality/"><u>The Ultimate Guide: Top WhatsApp Video Conversion Apps for Perfect Quality</u></a></li>
 </ul></div>
 

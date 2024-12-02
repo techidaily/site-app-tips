@@ -1,7 +1,7 @@
 ---
 title: "LastPass Executives Assure Users of No Breached Accounts Following Recent Security Warnings: Insights From ZDNet"
-date: 2024-11-19T08:21:27.330Z
-updated: 2024-11-24T05:22:53.998Z
+date: 2024-11-26T21:15:20.258Z
+updated: 2024-12-02T13:19:36.126Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/03aa98ead41db04bf63114eadc16ec748777a4353
 Two LastPass vice presidents have released statements about the situation surrounding LastPass security issues that came to light this week. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Two LastPass vice presidents have released statements about the situation surrou
 [![web-browsers.jpg](https://www.zdnet.com/a/img/resize/86d91f7746b92a734c6f4130024638d05fe70bc2/2021/04/22/8feb3e5c-47fc-4cea-be35-4460e9f080ef/web-browsers.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best browsers for privacy Most people use Google Chrome as their default browser. But privacy is another matter for the online ad giant.  Read now](https://www.zdnet.com/article/best-browser-for-privacy/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Two days ago, hundreds of LastPass users took to [Twitter](https://twitter.com/technology%5Fgreg/status/1475600580521381889), [Reddit](https://www.reddit.com/r/Lastpass/comments/rpy0uq/recent%5Fsuccessful%5Flogin%5Fattempts%5Ffrom%5Fodd%5Fips/), [and other sites](https://news.ycombinator.com/item?id=29705957) to complain that they were getting alerts about their master password being used by someone who was not them. [Some reported](https://twitter.com/shift%5Fplusone/status/1475959354742525956) that even after changing their master password, someone tried to access their account again. 
@@ -84,24 +84,19 @@ Parent company LogMeIn announced just two weeks ago that it is [spinning off Las
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-craft-engaging-youtube-stays-strategies-to-shine-without-thousand-supporters/"><u>[New] Craft Engaging YouTube Stays Strategies to Shine without Thousand Supporters</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-pinnacle-recorders-of-academic-dialogues/"><u>[New] Pinnacle Recorders of Academic Dialogues</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-reclaim-your-loss-with-these-top-10-iphone-x-hacks/"><u>[New] Reclaim Your Loss with These Top 10 iPhone X Hacks</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-5-amazing-free-youtube-intro-makers-ranked/"><u>[Updated] 5 Amazing Free YouTube Intro Makers Ranked</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-visionary-backdrops-compiling-the-best-free-screen-template-downloads/"><u>[Updated] In 2024, Visionary Backdrops Compiling the Best Free Screen Template Downloads</u></a></li>
-<li><a href="https://app-tips.techidaily.com/avoid-music-chaos-a-detailed-walkthrough-on-updatingreinstalling-itunes-while-preserving-your-library/"><u>Avoid Music Chaos: A Detailed Walkthrough on Updating/Reinstalling iTunes While Preserving Your Library</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278966-discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-nvidia-geforce-rtx-3070-drivers-for-windows-11-and-10/"><u>Download & Update: NVIDIA GeForce RTX 3070 Drivers for Windows 11 and 10</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-steps-removing-redundant-songs-from-your-itunes-library/"><u>Easy Steps: Removing Redundant Songs From Your iTunes Library</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-your-favorite-songs-and-movies-for-free-directly-from-itunes-no-cost-at-all/"><u>Get Your Favorite Songs and Movies for Free Directly From iTunes – No Cost at All</u></a></li>
-<li><a href="https://article-posts.techidaily.com/maximizing-visual-impact-with-extra-camera-work-for-2024/"><u>Maximizing Visual Impact with Extra Camera Work for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mi-drone-4k-flight-insights-and-features/"><u>Mi Drone 4K Flight Insights & Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revive-your-ipad-top-3-strategies-to-restore-connectivity-with-itunes/"><u>Revive Your iPad: Top 3 Strategies to Restore Connectivity with iTunes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-solution-getting-your-itunes-home-sharing-back-on-track/"><u>Step-by-Step Solution: Getting Your iTunes Home Sharing Back on Track</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-address-post-win-11-upgrade-linux-issues/"><u>Steps to Address Post-Win 11 Upgrade Linux Issues</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-6-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 6</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-effective-tips-for-when-itunes-refuses-to-start-up/"><u>Troubleshooting Guide: Effective Tips for When iTunes Refuses to Start Up</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-how-to-fix-apple-music-not-syncing-to-your-iphone-ipad-or-ipod/"><u>Troubleshooting: How to Fix Apple Music Not Syncing to Your iPhone, iPad or iPod</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-rebuilding-and-refreshing-your-itunes-library-with-3-successful-strategies/"><u>Ultimate Tutorial: Rebuilding and Refreshing Your iTunes Library with 3 Successful Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-eliminating-odd-shades-a-step-by-step-guide-to-flawless-greenscreens/"><u>[New] 2024 Approved Eliminating Odd Shades A Step-by-Step Guide to Flawless Greenscreens</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-enhancing-virtual-collaboration-recording-techniques-for-gotomeet/"><u>[Updated] 2024 Approved Enhancing Virtual Collaboration Recording Techniques for GoToMeet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-slug-lines-an-essential-guide/"><u>2024 Approved Understanding Slug Lines An Essential Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-of-hp-840-g3-device-with-newest-driver-installation-tutorials/"><u>Effortless Setup of HP 840 G3 Device with Newest Driver Installation Tutorials</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-business-with-low-code-solutions-how-they-boost-employer-appeal/"><u>Elevate Your Business with Low-Code Solutions: How They Boost Employer Appeal</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-how-to-correctly-establish-a-directx-rendering-device/"><u>Fixed: How to Correctly Establish a DirectX Rendering Device</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-se-2020-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone SE (2020) without Password</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-list-5-premium-live-stream-recorders/"><u>In 2024, The Ultimate List 5 Premium Live Stream Recorders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-ubuntu-2404-enhancements-with-expert-tips-from-zdnets-guide/"><u>Mastering Ubuntu 24.04 Enhancements with Expert Tips From ZDNet's Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-turmoil-unpacking-russias-invasion-effects-on-ukraines-it-landscape-analysis-by-zdnet/"><u>Tech Turmoil: Unpacking Russia's Invasion Effects on Ukraine's IT Landscape | Analysis by ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/techniques-to-access-restricted-videos-on-fb-without-issues/"><u>Techniques to Access Restricted Videos on FB Without Issues</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-tech-executive-forecasts-major-evolution-in-cloud-computing-strategies-insights-from-zdnet/"><u>Top Tech Executive Forecasts Major Evolution in Cloud Computing Strategies – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-identity-management-solutions-of-2022-expert-reviews-and-comparisons/"><u>Top-Rated Identity Management Solutions of 2022: Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-open-source-expertise-and-linux-mastery-remain-highly-sought-after-despite-challenging-financial-climates-insights-from-zdnet/"><u>Why Open-Source Expertise & Linux Mastery Remain Highly Sought After, Despite Challenging Financial Climates - Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From LastPass to iCloud: Transition Your Passwords Securely on PC - Expert Tips From ZDNet"
-date: 2024-11-22T19:14:50.256Z
-updated: 2024-11-23T19:05:38.579Z
+date: 2024-12-01T06:15:24.318Z
+updated: 2024-12-01T22:34:36.074Z
 tags:
   - password-manager
 categories:
@@ -19,6 +19,10 @@ Image: Maria Diaz/ZDNET
 
 An [Apple ID](https://www.zdnet.com/article/your-friends-could-help-stop-you-getting-locked-out-of-your-apple-id/) gives you access to many perks within the Apple software ecosystem, and one of them is [Keychain](https://www.zdnet.com/article/how-to-locate-a-password-with-the-macos-keychain/): iCloud's password manager. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
@@ -33,6 +37,10 @@ But how can I remember all these passwords if I can't even remember my significa
 
 ## How to use iCloud as a password manager on Windows
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open iCloud for Windows
 
 Go to your Start menu and open iCloud for Windows. Adding iCloud for Windows to your computer lets you manage your passwords from your PC and generate verification codes when an account needs [two-factor authentication](https://www.zdnet.com/article/two-factor-authentication-is-a-great-idea-but-not-enough-people-are-using-it/) (2FA).
@@ -43,6 +51,10 @@ Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your iCloud Passwords
 
 Once you sign in to your account -- if you haven't already -- you can access your account, add another account, and make any necessary changes.
@@ -52,6 +64,10 @@ Go to Passwords, and click Apply.
 Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Make sure Passwords is on and click Apply
 
@@ -72,10 +88,6 @@ Once you click **Install Extension** in iCloud, you'll be able to add the **iClo
 Maria Diaz/ZDNET
 
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
 
@@ -105,23 +117,11 @@ Like LastPass, the browser extension will let you fill in your login information
 
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do you get iCloud for Windows?  
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How do I set up iCloud Keychain? 
 
@@ -130,7 +130,7 @@ iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/arti
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
@@ -167,20 +167,24 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-obs-studio-for-gamers-ps4-screenshots-and-recordings-guide/"><u>[New] In 2024, OBS Studio for Gamers PS4 Screenshots & Recordings Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-tools-for-effortless-video-image-retrieval-for-2024/"><u>[Updated] Free Tools for Effortless Video Image Retrieval for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-pioneering-the-pathway-personal-youtube-videos-in-google-accounts/"><u>[Updated] Pioneering the Pathway Personal YouTube Videos in Google Accounts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-and-critique-of-the-vizmato-application/"><u>Comprehensive Analysis & Critique of the Vizmato Application</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-free-android-chat-applications-ranked-from-1-to-10/"><u>Discover the Ultimate Selection of Free Android Chat Applications: Ranked From #1 to #10</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-road-safety-with-the-11-most-effective-apps-for-handsfree-sms-access/"><u>Enhance Road Safety with the 11 Most Effective Apps for Handsfree SMS Access</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-streamline-your-content-top-8-youtube-to-avi-solutions/"><u>In 2024, Streamline Your Content Top 8 YouTube-to-AVI Solutions</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/e-track-on-calculating-your-youtube-impact-and-income-for-2024/"><u>Inside Track on Calculating Your YouTube Impact and Income for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/cting-your-youtube-presence-with-finalcut-pro-proficiency-for-2024/"><u>Perfecting Your YouTube Presence with FinalCut Pro Proficiency for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-guide-5-methods-to-securely-backup-your-iphone-applications/"><u>Simple Guide: 5 Methods to Securely Backup Your iPhone Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-11-superior-sound-integration-tools-for-adding-music-and-voice-to-videos-across-android-ios-mac-and-pc-platforms/"><u>The Ultimate List of 11 Superior Sound Integration Tools for Adding Music & Voice to Videos Across Android, iOS, Mac & PC Platforms</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-biometric-lock-screen-applications-for-your-android-device/"><u>Top 10 Biometric Lock Screen Applications for Your Android Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-list-of-free-tools-create-and-share-laugh-out-loud-memes-anywhere-anytime/"><u>Ultimate List of Free Tools: Create and Share Laugh-Out-Loud Memes Anywhere, Anytime</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-composition-and-tints-mastering-color-usage/"><u>[New] In 2024, Composition and Tints Mastering Color Usage</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-complete-instagram-reversal-methodology-for-2024/"><u>[New] The Complete Instagram Reversal Methodology for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unraveling-instagram-video-anomalies-today-for-2024/"><u>[Updated] Unraveling Instagram Video Anomalies Today for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1password-goes-mobile-with-significant-enhancement-see-whats-changed-zdnet/"><u>1Password Goes Mobile with Significant Enhancement, See What's Changed - ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-topmusicreactionvids-yt-celebrity-highlights-2023/"><u>2024 Approved TopMusicReactionVids YT Celebrity Highlights, 2023</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cut-costs-and-boost-security-grab-keeper-password-manager-for-half-price-shop-at-zdnet-today/"><u>Cut Costs and Boost Security! Grab Keeper Password Manager for Half Price - Shop at ZDNET Today!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dive-into-display-dimensions-for-video-newbies/"><u>Dive Into Display Dimensions For Video Newbies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/implementing-dual-authentication-on-github-via-mobile-apps-a-comprehensive-guide/"><u>Implementing Dual-Authentication on GitHub via Mobile Apps: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-imaginarium-collagecraft-cutting-edge-assembler/"><u>In 2024, Imaginarium CollageCraft Cutting-Edge Assembler</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-nokia-c110-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Nokia C110 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/kindle-purchase-benefits-and-value/"><u>Kindle Purchase: Benefits and Value</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-password-free-access-simplified-with-dashlanes-new-feature-insights-from-zdnet/"><u>Master Password-Free Access Simplified with Dashlane's New Feature - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/no-excuses-for-bad-passwords-anymore-master-managed-logins-with-the-ultimate-guide-to-password-managers/"><u>No Excuses for Bad Passwords Anymore - Master Managed Logins with the Ultimate Guide to Password Managers</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscribing-to-games-psplus-against-xbox-game-pass/"><u>Subscribing to Games: PS+ Against Xbox Game Pass</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-motorola-moto-g73-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Motorola Moto G73 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-lastpass-substitutes-expert-picks-by-zdnet/"><u>Top LastPass Substitutes : Expert Picks by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-zdnets-2024-ranking-of-leading-lastpass-replacements/"><u>Ultimate Guide: ZDNet's 2024 Ranking of Leading LastPass Replacements</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-huge-savings-with-dashlanes-password-manager-snipe-premium-at-just-50-off-today/"><u>Unlock Huge Savings with Dashlane's Password Manager - Snipe Premium at Just 50% Off Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-security-a-detailed-analysis-and-user-assessment-of-premium-password-manager-1password-authoritative-review-by-cryptosafe-zdnet/"><u>Unlocking Security: A Detailed Analysis & User Assessment of Premium Password Manager, 1Password | Authoritative Review by CryptoSafe ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How Canonical's Revolutionary 'Distroless' Images Transform Enterprise Security: A Deep Dive - TechInsights"
-date: 2024-11-01T17:13:31.895Z
-updated: 2024-11-04T17:32:09.243Z
+date: 2024-12-01T12:13:23.303Z
+updated: 2024-12-02T09:52:26.758Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,16 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-expert-strategies-on-calculating-your-youtube-audience-impact-and-revenue/"><u>[New] 2024 Approved Expert Strategies on Calculating Your YouTube Audience Impact and Revenue</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-echoenthusiast-auditory-review-exploration-for-2024/"><u>[Updated] EchoEnthusiast Auditory Review Exploration for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-top-5-pro-digital-cameras-for-smooth-twitch-broadcasts/"><u>2024 Approved Top 5 Pro Digital Cameras for Smooth Twitch Broadcasts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-about-the-samsung-galaxy-ring-cost-breakdown-availability-dates-and-feature-listing/"><u>All About the Samsung Galaxy Ring: Cost Breakdown, Availability Dates & Feature Listing</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-nubia-red-magic-8s-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Nubia Red Magic 8S Pro in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pros-choice-10-cameras-with-shake-reduction-feature/"><u>Pro's Choice 10 Cameras with Shake Reduction Feature</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-installing-and-using-kik-messenger-on-pcsmacs/"><u>Step-by-Step Guide: Installing & Using Kik Messenger on PCs/Macs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-10-reliable-data-backup-apps-for-ios-and-android-devices/"><u>The Ultimate Guide: Top 10 Reliable Data Backup Apps for iOS & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-alternatives-to-remini-boost-and-beautify-photos-with-these-powerful-image-editing-apps/"><u>Top 5 Alternatives to Remini: Boost & Beautify Photos with These Powerful Image Editing Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/try-these-free-apps-the-best-ways-to-efficiently-delete-files-from-your-ipad/"><u>Try These Free Apps: The Best Ways to Efficiently Delete Files From Your iPad</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620190501-ultimate-xvid-video-player-guide-ideal-choice-for-pcs-macs-smartphones-and-tablets/"><u>Ultimate Xvid Video Player Guide: Ideal Choice for PCs, Macs, Smartphones & Tablets</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-cutting-edge-vector-design-the-most-popular-apps-reviewed/"><u>[New] Cutting-Edge Vector Design The Most Popular Apps Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/buy-macx-pro-top-tier-professional-video-editor-for-quick-seamless-file-conversions/"><u>Buy MacX Pro - Top-Tier Professional Video Editor for Quick, Seamless File Conversions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-ai-in-developer-tools-why-rote-automation-is-a-thing-of-the-past-insights-from-zdnet/"><u>Embracing AI in Developer Tools: Why Rote Automation Is a Thing of the Past - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/free-youtube-endings-that-stand-out-ranked-for-2024/"><u>Free YouTube Endings That Stand Out - Ranked for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-11-pro-how-to-unlock-a-disabled-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 11 Pro How to Unlock a Disabled Apple iPhone 11 Pro?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-savory-storytelling-in-video-cooking-top-7-insights/"><u>In 2024, Savory Storytelling in Video Cooking - Top 7 Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-open-source-to-draw-global-tech-pioneers-insights-from-zdnet/"><u>Leveraging Open Source to Draw Global Tech Pioneers - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-how-ai-growth-clashes-with-agile-practices-according-to-recent-research-by-zdnet/"><u>Navigating the Complexities: How AI Growth Clashes with Agile Practices, According to Recent Research by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-tech-talent-how-artificial-intelligence-combats-job-burnout-and-warning-tiredness-for-it-professionals-zdnet/"><u>Reviving Tech Talent: How Artificial Intelligence Combats Job Burnout & Warning Tiredness for IT Professionals | ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-geforce-frame-pacing/"><u>Solved GeForce Frame Pacing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-now-16-t-trillion-non-cash-deals-dominated-by-asia-insights-from-zdnet/"><u>The Future Is Now: 1.6 T Trillion Non-Cash Deals Dominated by Asia | Insights From ZDNET</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-20-mobiles-perfecting-dji-visual-content-for-2024/"><u>Top 20 Mobiles Perfecting DJi Visual Content for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-workplaces-how-ai-agents-shape-the-future-of-employment-zdnet/"><u>Transforming Workplaces: How AI Agents Shape the Future of Employment | ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Zero-Code Development: How Generative AI Is Transforming the Future Beyond Low-Code"
-date: 2024-10-09T18:30:40.556Z
-updated: 2024-10-12T09:50:39.775Z
+date: 2024-11-24T19:14:39.859Z
+updated: 2024-12-02T02:42:35.493Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-capture-your-music-5-pro-tips-for-streaming-sound-online-for-2024/"><u>[New] Capture Your Music 5 Pro Tips for Streaming Sound Online for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-streamline-your-videos-crop-and-export-tutorial-for-instagram-for-2024/"><u>[New] Streamline Your Videos Crop & Export Tutorial for Instagram for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-success-secrets-maximizing-post-performance-for-2024/"><u>[Updated] Instagram Success Secrets Maximizing Post Performance for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-step-by-step-guide-how-to-legally-reprint-your-amazon-kindle-ebooks/"><u>1. Step-by-Step Guide: How To Legally Reprint Your Amazon Kindle Ebooks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-deep-dive-into-microsofts-bing-chat-and-its-use-of-advanced-ai-like-gpt-4/"><u>A Deep Dive Into Microsoft's Bing Chat and Its Use of Advanced AI Like GPT-4</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/circulation-crafting-kit-for-2024/"><u>Circulation Crafting Kit for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-guide-to-evaluating-gpt-powered-conversational-agents-insights-and-recommendations/"><u>Essential Guide to Evaluating GPT-Powered Conversational Agents - Insights & Recommendations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/inside-look-at-chatsonic-thorough-review-uncovers-vital-information-on-this-state-of-the-art-artificial-intelligence-chat-interface/"><u>Inside Look at Chatsonic: Thorough Review Uncovers Vital Information on This State-of-the-Art Artificial Intelligence Chat Interface</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/navigating-content-size-on-igtv-top-5-expert-tips-to-consider/"><u>Navigating Content Size on IGTV Top 5 Expert Tips to Consider</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-tecno-spark-go-2024-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Tecno Spark Go (2024)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-chatgpt-a-thorough-breakdown-of-its-capabilities-flaws-and-error-management-techniques/"><u>The Ultimate Guide to ChatGPT - A Thorough Breakdown of Its Capabilities, Flaws & Error Management Techniques</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-v29-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo V29 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-chatsonic-an-exhaustive-evaluation-for-insights-into-cutting-edge-ai-conversational-technology/"><u>Unveiling Chatsonic: An Exhaustive Evaluation for Insights Into Cutting-Edge AI Conversational Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-bing-chat-interacting-with-artificial-intelligence-via-gpt-technology/"><u>Unveiling the Power of Bing Chat: Interacting with Artificial Intelligence via GPT Technology</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-enhancing-audio-visual-experience-with-youtube-music-insertion/"><u>[New] 2024 Approved Enhancing Audio-Visual Experience with YouTube Music Insertion</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-charting-the-course-to-earnings-with-youtube-videos-for-2024/"><u>[Updated] Charting the Course to Earnings with YouTube Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-flashback-flair-top-80s-video-tricks-for-a-contemporary-edge/"><u>[Updated] Flashback Flair Top 80S Video Tricks for a Contemporary Edge</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shades-of-genius-3-proven-tricks-for-color-correction-success/"><u>2024 Approved Shades of Genius 3 Proven Tricks for Color Correction Success</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apple-pay-issues-here-are-six-ways-to-resolve-when-your-card-is-rejected/"><u>Apple Pay Issues? Here Are Six Ways to Resolve When Your Card Is Rejected</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-development-work-is-changing-a-conversation-with-atlassians-agnes-ro-as-spotted-on-zdnet/"><u>How Development Work Is Changing: A Conversation with Atlassian's Agnes Ro, as Spotted on ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g23-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G23 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-modern-obstacles-dealing-with-ambiguous-results-and-faulty-accuracy-in-artificial-intelligence-analysis-by-zdnet/"><u>Mastering Modern Obstacles: Dealing with Ambiguous Results and Faulty Accuracy in Artificial Intelligence | Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-windows-11-your-complete-reference-tips-and-tricks-with-zdnets-expert-guide/"><u>Mastering Windows 11: Your Complete Reference, Tips & Tricks with ZDNet's Expert Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/pioneering-beyond-standard-llms-in-artificial-intelligence-development-insights-from-an-ai-scientist-at-zdnet/"><u>Pioneering Beyond Standard LLMs in Artificial Intelligence Development | Insights From an AI Scientist at ZDNet</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/recover-lost-media-with-prograde-sd-card-rescue-retrieve-photos-and-videos-safely/"><u>Recover Lost Media with Prograde SD Card Rescue – Retrieve Photos and Videos Safely</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-business-connectivity-celonas-60m-series-c-fuels-next-gen-enterprise-5g-solutions-zdnet-insights/"><u>Revolutionizing Business Connectivity: Celona's $60M Series C Fuels Next-Gen Enterprise 5G Solutions | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-complexity-streamlining-linux-and-community-guides-for-effortless-understanding/"><u>Unraveling Complexity: Streamlining Linux & Community Guides for Effortless Understanding</u></a></li>
 </ul></div>
 

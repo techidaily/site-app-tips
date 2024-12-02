@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity Measures
-date: 2024-11-08T17:30:13.778Z
-updated: 2024-11-13T16:32:13.057Z
+date: 2024-11-26T10:33:10.758Z
+updated: 2024-12-02T02:18:19.193Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,15 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-experience-retro-gaming-glory-with-best-pc-ps1-emulation-software/"><u>[New] 2024 Approved Experience Retro Gaming Glory with Best PC PS1 Emulation Software</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/levating-video-sharing-from-youtube-to-insta/"><u>[New] Elevating Video Sharing From YouTube to Insta</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/complete-pages-printed-by-printers-now/"><u>Complete Pages Printed by Printers Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-on-securing-data-full-process-for-backing-up-and-synchronizing-your-iphone-via-icloud/"><u>Comprehensive Tutorial on Securing Data: Full Process for Backing Up & Synchronizing Your iPhone via iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/icloud-picture-perusal-made-easy-top-alternatives-for-non-iphone-users/"><u>ICloud Picture Perusal Made Easy – Top Alternatives for Non-iPhone Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-tecno-spark-10-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Tecno Spark 10 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-m1s-impact-on-video-editing-software-performance/"><u>In 2024, M1's Impact on Video Editing Software Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-ios-photography-tips-on-managing-camera-roll-photo-library-and-pictures/"><u>Navigating iOS Photography: Tips on Managing Camera Roll, Photo Library, and Pictures</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-removing-your-pics-photos-and-images-from-icloud-securely/"><u>Step-by-Step Guide: Removing Your Pics, Photos & Images From iCloud Securely</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-hardware-destinations-for-quality-computer-tech/"><u>Tom's Hardware Destinations for Quality Computer Tech</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-essence-of-polarr-revolutionizing-digital-photography/"><u>[New] 2024 Approved The Essence of Polarr Revolutionizing Digital Photography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-instantly-examine-windows-documents-efficiently/"><u>[Updated] Instantly Examine Windows Documents Efficiently</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-10-steps-to-optimize-your-insta-storytelling/"><u>[Updated] The Ultimate 10 Steps to Optimize Your Insta Storytelling</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-all-in-one-video-capture-solution-manycam-enhance-your-live-streaming-with-virtual-webcams/"><u>1. All-in-One Video Capture Solution: ManyCam - Enhance Your Live Streaming with Virtual Webcams</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-fandom-to-fame-gamers-livestream-success-strategies/"><u>2024 Approved From Fandom to Fame Gamers' Livestream Success Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192671-discover-the-ideal-free-pdf-modification-apps-and-online-utilities-ranked-for-you/"><u>Discover the Ideal Free PDF Modification Apps & Online Utilities – Ranked for You</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ideal-free-pdf-modification-apps-and-online-utilities-ranked-for-you/"><u>Discover the Ideal Free PDF Modification Apps & Online Utilities – Ranked for You!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620188306-download-top-20-best-free-android-games-play-the-complete-versions-with-no-cost/"><u>Download Top 20 Best Free Android Games: Play the Complete Versions with No Cost!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211246319-9798989581719-fortunes-inkwell/"><u>Fortune's Inkwell | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mobile-memories-creator-high-quality-iphone-photo-and-file-printer/"><u>Mobile Memories Creator: High-Quality iPhone Photo & File Printer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-motorola-edge-40-neo-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://win-docs.techidaily.com/resolving-the-encryption-mode-must-be-activated-host-warning/"><u>Resolving the 'Encryption Mode Must Be Activated' Host Warning</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-2-apps-for-effortless-iphone-reflection-on-televisions-and-desktops/"><u>The Ultimate Guide: Top 2 Apps for Effortless iPhone Reflection on Televisions and Desktops</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-top-ranking-lock-screen-enhancers-for-android-devices/"><u>The Ultimate List of Top-Ranking Lock Screen Enhancers for Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-stunning-gallery-apps-on-android-your-guide-to-capturing-and-sharing-perfect-images/"><u>Top 10 Stunning Gallery Apps on Android: Your Guide to Capturing and Sharing Perfect Images</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/understanding-apple-tvs-long-term-benefits/"><u>Understanding Apple TV's Long-Term Benefits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-free-iphone-and-android-entertainment-with-appcake-get-all-your-favorite-cracked-apps-and-games-now/"><u>Unlock Free iPhone & Android Entertainment with AppCake - Get All Your Favorite Cracked Apps & Games Now!</u></a></li>
 </ul></div>
 

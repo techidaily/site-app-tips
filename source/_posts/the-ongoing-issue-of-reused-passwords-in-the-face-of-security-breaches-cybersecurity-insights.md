@@ -1,7 +1,7 @@
 ---
 title: The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights
-date: 2024-11-19T03:25:38.154Z
-updated: 2024-11-23T16:07:12.840Z
+date: 2024-11-27T22:03:28.693Z
+updated: 2024-12-01T23:29:46.539Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -114,7 +114,7 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -141,7 +141,7 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -189,21 +189,20 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/-journey-beyond-top-10-global-explorer-channels-for-2024/"><u>[New] A Journey Beyond Top 10 Global Explorer Channels for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-best-text-animation-presets-for-2024/"><u>[Updated] Best Text Animation Presets for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-full-course-on-becoming-a-yt-creator-expert/"><u>[Updated] The Full Course on Becoming a YT Creator Expert</u></a></li>
-<li><a href="https://app-tips.techidaily.com/act-now-uncover-the-five-essential-strategies-for-windows-11-users-before-microsoft-discontinues-support-zdnet-tech-analysis/"><u>Act Now: Uncover the Five Essential Strategies for Windows 11 Users Before Microsoft Discontinues Support | ZDNet Tech Analysis</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012777769-bypassing-error-re-establish-your-destiny-grope-with-these-fixes/"><u>Bypassing Error: Re-Establish Your Destiny Grope With These Fixes!</u></a></li>
-<li><a href="https://win11.techidaily.com/command-prompt-wizardry-admin-skills-unveiled/"><u>Command Prompt Wizardry: Admin Skills Unveiled</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-avoiding-pitfalls-securing-your-skype-recordings-in-obs/"><u>In 2024, Avoiding Pitfalls Securing Your Skype Recordings in OBS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-of-upgrading-from-ubuntu-linux-2310-to-2404-a-step-by-step-guide/"><u>Navigating the Challenges of Upgrading From Ubuntu Linux 23.10 to 24.04 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/red-hat-enterprise-linux-release-and-hybrid-cloud/"><u>Red Hat, Enterprise Linux Release, and Hybrid Cloud.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/side-lobe-control/"><u>Side Lobe Control</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/solving-common-youtube-issues-effective-strategies-and-hacks/"><u>Solving Common YouTube Issues: Effective Strategies & Hacks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolving-job-landscape-with-ai-how-technology-replaces-and-creates-opportunities-in-training-and-ethics-insights-for-tomorrows-workforce-zdnet/"><u>The Evolving Job Landscape with AI: How Technology Replaces and Creates Opportunities in Training & Ethics | Insights for Tomorrow's Workforce | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranking-customer-relationship-management-tools-of-2022-ideal-options-for-small-and-medium-businesses-zdnet-insights/"><u>Top-Ranking Customer Relationship Management Tools of 2022: Ideal Options for Small & Medium Businesses - ZDNet Insights</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unveil-image-by-removing-surroundings-for-2024/"><u>Unveil Image by Removing Surroundings for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-new-release-of-robust-enduring-linux-kernel-for-extended-lifetime-support/"><u>ZDNet Exclusive: New Release of Robust, Enduring Linux Kernel for Extended Lifetime Support</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-capture-your-social-face-video/"><u>[New] 2024 Approved Capture Your Social Face Video</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-achieve-flawless-network-livestream-mastering-vlc-techniques/"><u>[Updated] 2024 Approved Achieve Flawless Network Livestream Mastering VLC Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-spring-screens-a-deep-dive-into-desktop-capturing-pro/"><u>[Updated] In 2024, Spring Screens A Deep Dive Into Desktop Capturing Pro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-turn-your-vlogs-into-tunes-with-an-insta-mp3-conversion-hack-for-2024/"><u>[Updated] Turn Your Vlogs Into Tunes with an Insta-Mp3 Conversion Hack for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unmatched-melodies-selector-android-companion/"><u>[Updated] Unmatched Melodies Selector, Android Companion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2024s-premier-web-host-services-in-depth-analysis-and-ratings-from-seasoned-professionals-network-world/"><u>2024'S Premier Web Host Services: In-Depth Analysis and Ratings From Seasoned Professionals | Network World</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/windows-7810-11/"><u>透過 Windows 7、8、10 或 11 系統，如何有效地進行檔案的完美還原</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversione-gratuita-di-file-aifc-a-wav-online-usando-movavi-guida-completa/"><u>Conversione Gratuita Di File .aifc a WAV Online Usando Movavi - Guida Completa</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-top-5-data-commercialization-fallacies-insights-from-zdnet/"><u>Debunking Top 5 Data Commercialization Fallacies: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-low-codeno-code-tools-are-evolving-with-the-rise-of-artificial-intelligence-insights-from-zdnet/"><u>How Low-Code/No-Code Tools Are Evolving With the Rise of Artificial Intelligence: Insights From ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-redmi-note-12-pro-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi Redmi Note 12 Pro 5G FRP</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/riding-the-wave-of-pervasive-device-expansion-in-edge-investments-boost-your-career-with-insights-from-zdnet/"><u>Riding the Wave of Pervasive Device Expansion in Edge Investments: Boost Your Career with Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-digital-how-non-cash-transactions-are-set-to-soar-to-1nt-led-by-asian-markets-zdnet-insights/"><u>The Future Is Digital: How Non-Cash Transactions Are Set to Soar to $1.nT, Led by Asian Markets | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-and-comparisons-by-tech-experts-ciodigest/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews & Comparisons by Tech Experts | CIODIGEST</u></a></li>
 </ul></div>
 

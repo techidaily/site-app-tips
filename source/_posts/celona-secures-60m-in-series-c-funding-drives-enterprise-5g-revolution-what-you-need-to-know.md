@@ -1,7 +1,7 @@
 ---
 title: "Celona Secures $60M in Series C Funding, Drives Enterprise 5G Revolution: What You Need to Know"
-date: 2024-11-22T00:12:39.223Z
-updated: 2024-11-24T09:54:11.681Z
+date: 2024-11-24T21:18:26.315Z
+updated: 2024-12-02T12:21:11.858Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-perfecting-the-art-of-whatsapp-call-logging/"><u>[Updated] 2024 Approved Perfecting the Art of WhatsApp Call Logging</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-srt-to-sub-magic-three-effective-ways/"><u>2024 Approved SRT to SUB Magic Three Effective Ways</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-tailoring-watch-experience-on-youtube-with-speed-modifications/"><u>2024 Approved Tailoring Watch Experience on YouTube with Speed Modifications</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/best-scripting-solutions-for-ae/"><u>Best Scripting Solutions for AE</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-artificebotics-how-modern-ai-experts-merge-innovation-with-business-acumen-to-shape-future-technologies/"><u>Beyond Artificebotics: How Modern AI Experts Merge Innovation with Business Acumen to Shape Future Technologies</u></a></li>
-<li><a href="https://article-files.techidaily.com/elevate-your-edits-adding-fades-in-pro-video/"><u>Elevate Your Edits Adding Fades in Pro Video</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-ai-in-developer-tools-why-rote-automation-is-a-thing-of-the-past-insights-from-zdnet/"><u>Embracing AI in Developer Tools: Why Rote Automation Is a Thing of the Past - Insights From ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-honor-magic-5-lite-by-drfone-android/"><u>How to Show Wi-Fi Password on Honor Magic 5 Lite</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-a25-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy A25 5G FRP</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leveraging-open-source-to-draw-global-tech-pioneers-insights-from-zdnet/"><u>Leveraging Open Source to Draw Global Tech Pioneers - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-how-ai-growth-clashes-with-agile-practices-according-to-recent-research-by-zdnet/"><u>Navigating the Complexities: How AI Growth Clashes with Agile Practices, According to Recent Research by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-inconsistencies-in-artificial-intelligence-expert-analysis-on-reliability-issues-zdnet/"><u>Overcoming Inconsistencies in Artificial Intelligence: Expert Analysis on Reliability Issues | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-workplaces-how-ai-agents-shape-the-future-of-employment-zdnet/"><u>Transforming Workplaces: How AI Agents Shape the Future of Employment | ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-implementing-auto-captions-in-reels/"><u>[New] Step-by-Step Implementing Auto Captions in Reels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-channel-expansion-at-wallet-friendly-costs/"><u>[Updated] 2024 Approved Channel Expansion at Wallet-Friendly Costs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-tactics-for-securing-royalty-free-creative-pieces/"><u>[Updated] 2024 Approved Tactics for Securing Royalty-Free Creative Pieces</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-xreal-air-vr-headset-evaluation-experience-virtual-worlds-directly-on-your-skin/"><u>1. XReal Air VR Headset Evaluation: Experience Virtual Worlds Directly on Your Skin</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-rumor-and-fiction-understanding-the-true-essence-of-fb-papers/"><u>Beyond Rumor and Fiction: Understanding the True Essence of FB Papers</u></a></li>
+<li><a href="https://games-able.techidaily.com/celebrating-indie-innovations-my-curated-collection/"><u>Celebrating Indie Innovations: My Curated Collection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-on-managing-your-iphones-icloud-storage-backup-restoration-and-deletion-tips/"><u>Complete Guide on Managing Your iPhone's iCloud Storage: Backup, Restoration & Deletion Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-on-securing-data-full-process-for-backing-up-and-synchronizing-your-iphone-via-icloud/"><u>Comprehensive Tutorial on Securing Data: Full Process for Backing Up & Synchronizing Your iPhone via iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/efficiently-clear-out-icloud-book-collections-the-ultimate-guide-to-saving-cloud-storage/"><u>Efficiently Clear Out iCloud Book Collections: The Ultimate Guide to Saving Cloud Storage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-accessing-your-icloud-keychain-passwords-across-iphone-ipad-and-mac/"><u>Guide: Accessing Your iCloud Keychain Passwords Across iPhone, iPad & Mac</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-s17-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo S17 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-picture-perusal-made-easy-top-alternatives-for-non-iphone-users/"><u>ICloud Picture Perusal Made Easy – Top Alternatives for Non-iPhone Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620263951-locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-ios-photography-tips-on-managing-camera-roll-photo-library-and-pictures/"><u>Navigating iOS Photography: Tips on Managing Camera Roll, Photo Library, and Pictures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-more-window-trends-gone-for-the-future/"><u>No More Window Trends: Gone for the Future</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-removing-your-pics-photos-and-images-from-icloud-securely/"><u>Step-by-Step Guide: Removing Your Pics, Photos & Images From iCloud Securely</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-tecno-phantom-v-flip-by-drfone-android/"><u>Top 10 Password Cracking Tools For Tecno Phantom V Flip</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264415-troubleshoot-your-icloud-picture-sharing-problems-for-ios-devices-and-macbook-computers-essential-steps/"><u>Troubleshoot Your iCloud Picture Sharing Problems for iOS Devices and MacBook Computers - Essential Steps!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-creativity-building-a-memorable-podcast-name-for-2024/"><u>Unleashing Creativity Building a Memorable Podcast Name for 2024</u></a></li>
 </ul></div>
 

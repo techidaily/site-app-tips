@@ -1,7 +1,7 @@
 ---
 title: "The Critical 90-Day Evaluation Period for Artificial Intelligence Innovations: Insights From ZDNet"
-date: 2024-10-10T20:18:19.540Z
-updated: 2024-10-11T19:42:16.379Z
+date: 2024-11-27T03:23:03.208Z
+updated: 2024-12-02T05:35:33.433Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +176,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-screen-recording-on-imac-with-ease/"><u>[New] Mastering Screen Recording on iMac with Ease</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unlock-your-farming-potential-with-top-valheim-seeds/"><u>[Updated] 2024 Approved Unlock Your Farming Potential with Top Valheim Seeds</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-master-the-charm-of-darker-digital-images/"><u>[Updated] Master the Charm of Darker Digital Images</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-motorola-moto-g14-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Motorola Moto G14.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-rusts-role-in-linux-projects-with-linus-torvalds-a-glimpse-into-his-routine-and-macbook-experience-zdnet/"><u>Exploring Rust's Role in Linux Projects with Linus Torvalds: A Glimpse Into His Routine and MacBook Experience - ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-persistent-usb-connection-loss-step-by-step-guide/"><u>Fixing Persistent USB Connection Loss - Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/grasping-ai-an-easy-approach/"><u>Grasping AI: An Easy Approach</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-xiaomi-redmi-note-12t-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Xiaomi Redmi Note 12T Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-codenotarys-sbom-solution-for-kubernetes-ensuring-security-and-compliance/"><u>Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-linux-kernel-v65-a-comprehensive-look-at-its-latest-groundbreaking-capabilities-techworld/"><u>Introducing Linux Kernel v6.5: A Comprehensive Look at Its Latest Groundbreaking Capabilities | TechWorld</u></a></li>
-<li><a href="https://app-tips.techidaily.com/organizing-chaos-streamlining-linux-and-open-source-docs-solutions-from-zdnet/"><u>Organizing Chaos: Streamlining Linux & Open Source Docs - Solutions From ZDNet</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/techniques-for-harvesting-hd-facebook-videos-for-2024/"><u>Techniques for Harvesting HD Facebook Videos for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-impending-crisis-for-microsofts-windows-10-a-race-against-time-reviewed-by-zdnet/"><u>The Impending Crisis for Microsoft's Windows 10: A Race Against Time Reviewed by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-accounting-programs-finding-the-perfect-match/"><u>Top Rated Accounting Programs : Finding the Perfect Match!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-short-window-of-success-in-ai-implementations-lessons-from-a-zdnet-perspective/"><u>Understanding the Short Window of Success in AI Implementations - Lessons From a ZDNet Perspective</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-premium-recommendations-for-ultra-hd-monitoring-tools/"><u>[New] In 2024, Premium Recommendations for Ultra-HD Monitoring Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-add-video-to-text/"><u>[Updated] In 2024, How to Add Video to Text</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-swift-windows-insight-sharing-methods/"><u>[Updated] In 2024, Swift Windows Insight Sharing Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hands-on-crafting-unique-movie-closures-for-pennies-for-2024/"><u>Hands-On Crafting Unique Movie Closures for Pennies for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-new-release-a-game-changer-or-annoyance-find-out-how-it-stacks-up-zdnet/"><u>Microsoft's New Release: A Game Changer or Annoyance? Find Out How It Stacks Up [ZDNet]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-overlap-of-kernel-issues-and-cybersecurity-in-linux-environments-strategies-to-maintain-safety/"><u>Navigating the Overlap of Kernel Issues & Cybersecurity in Linux Environments - Strategies to Maintain Safety</u></a></li>
+<li><a href="https://app-tips.techidaily.com/new-advancements-for-ai-tasks-with-latest-kubernetes-version-released-insights-from-tech-experts-at-zdnet/"><u>New Advancements for AI Tasks with Latest Kubernetes Version Released, Insights From Tech Experts at ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-up-your-desktop-how-to-change-themes-in-win11/"><u>Switching Up Your Desktop: How To Change Themes in Win11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ticking-clock-for-microsoft-overcoming-the-imminent-windows-11-dilemma-in-under-a-year-exclusive-insights-from-zdnet/"><u>Ticking Clock for Microsoft: Overcoming the Imminent Windows 11 Dilemma in Under a Year | Exclusive Insights From ZDNET</u></a></li>
 </ul></div>
 

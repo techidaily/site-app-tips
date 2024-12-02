@@ -1,7 +1,7 @@
 ---
 title: "Why Using a Password Manager Is Essential: Top 5 Benefits Explained by ZDNet"
-date: 2024-11-21T07:50:26.740Z
-updated: 2024-11-24T08:47:45.171Z
+date: 2024-11-25T07:05:48.841Z
+updated: 2024-12-02T10:59:25.524Z
 tags:
   - password-manager
 categories:
@@ -97,10 +97,6 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fshould-you-use-your-browsers-built-in-password-manager%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fshould-you-use-your-browsers-built-in-password-manager%2F "Twitter") 
@@ -108,10 +104,6 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 Direct LinkEmbed Code
 
 Close Modal Dialog
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** recommends
 
@@ -169,10 +161,6 @@ In this article, I explain why I consider a password manager essential. I also t
 
 * **See: [Best password manager in 2021](https://www.zdnet.com/article/best-password-manager/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The case for password managers 
 
 You can choose from dozens of third-party password manager apps and services, both commercial and open source. Despite some differences in user experience, they are all similar in their core features. On a PC running Windows or Linux, on a Mac running MacOS, or on a mobile device, you install an app that manages a database containing sets of credentials (usernames, passwords, and other required details). The contents of the database are protected with AES-256 encryption. To unlock the password database, you enter a decryption key (your master password) that only you know, and then allow the program to fill in the saved credentials so you can sign in on a webpage or app. 
@@ -187,12 +175,20 @@ The companies that manage and sync those saved files don't have access to the de
 
 That architecture offers five distinct advantages over a DIY solution. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 * [Best VPN services](https://www.zdnet.com/article/best-vpn/)
 * [Best security keys](https://www.zdnet.com/article/best-security-key/)
 * [Best antivirus software](https://www.zdnet.com/article/best-antivirus/)
 * [The fastest VPNs](https://www.zdnet.com/article/fastest-vpn/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1) Browser Integration 
 
@@ -225,6 +221,10 @@ By contrast, if you manage passwords in an encrypted file that's saved locally, 
 ###  5) Surveillance Safeguard 
 
 Password managers generally offer good protection against "shoulder surfing." An attacker who's able to watch you type, either live or with the help of a surveillance camera, can steal your login credentials with ease. Password managers never expose those details. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is there a case against password managers?
 
@@ -278,6 +278,10 @@ If you're a journalist working on security issues, or an activist in a country w
 
 But even if you're not an obvious candidate for targeted attacks, you can be swept up in a website breach. That's why [Have I Been Pwned?](https://haveibeenpwned.com/) exists. It's easy enough for a compromised website to force you to reset your password, minimizing the risk of that breach, but if you've used that same combination of credentials elsewhere, you're at serious risk. And no matter how careful you are, you're always at risk of being fooled into handing over your credentials in a well-designed phishing attack.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Which password manager is right for you?
 
 Any password manager solution is better than none.
@@ -285,7 +289,7 @@ Any password manager solution is better than none.
 The simplest solution is to use the password management tools built into your default browser or operating system. That option works especially well for anyone who is technically unsophisticated, has a limited number of credentials to store, and uses hardware and services from a single ecosystem. If you're setting things up for a friend or relative who has a Mac and an iPhone, for example, Apple's Keychain will suffice. Those who live in Google's ecosystem can probably get by with Chrome's password manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### read this
@@ -303,10 +307,6 @@ Finally, most commercial password managers include business plans that allow cen
 We've put together a list of the best free and paid options here: [Best Password Manager in 2021](https://www.zdnet.com/article/best-password-manager/). Each entry in this list includes pricing details as well as a link to security information. Every paid program offers a free trial, and we strongly recommend taking advantage of those trials to see if a program is right for you.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Related stories:
 
@@ -330,16 +330,22 @@ We've put together a list of the best free and paid options here: [Best Password
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-4k-perfection-selecting-youtubes-best-video-tools/"><u>[New] In 2024, 4K Perfection Selecting YouTube's Best Video Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-amplify-videographic-excellence-choose-from-these-7-audios/"><u>[New] In 2024, Amplify Videographic Excellence - Choose From These 7 Audios</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1728504135247-youtube5/"><u>消えたYouTubeコンテンツを取り戻せ！簡単な手順で動画を再び見るための5つの戦略</u></a></li>
-<li><a href="https://app-tips.techidaily.com/buy-ashamapoos-pro-3d-cad-software-version-11-at-a-steal-just-40-on-zdnet-today/"><u>Buy Ashamapoo's Pro 3D CAD Software Version 11 at a Steal: Just $40 on ZDNet Today!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discord-the-top-movie-enthusiasts-choice-of-streaming-platform/"><u>Discord: The Top Movie Enthusiast's Choice of Streaming Platform</u></a></li>
-<li><a href="https://app-tips.techidaily.com/excel-mastery-how-to-craft-stunning-tables-for-data-presentation/"><u>Excel Mastery: How to Craft Stunning Tables for Data Presentation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-insights-into-computing-discover-more-with-toms-hardware/"><u>Expert Insights Into Computing - Discover More with Tom's Hardware</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-secrets-to-effective-video-tagging-revealed-here/"><u>In 2024, Secrets to Effective Video Tagging Revealed Here!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-the-importance-of-ai-integration-and-rust-language-in-evolving-the-linux-kernel-the-core-aspect-driving-tech-forward/"><u>Linus Torvalds Discusses the Importance of AI Integration and Rust Language in Evolving the Linux Kernel - The Core Aspect Driving Tech Forward</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-gaming-giants-tussle-with-video-powerhouse-youtube-for-2024/"><u>The Gaming Giant's Tussle with Video Powerhouse YouTube for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-update-needed-microsofts-crucial-challenge-with-windows-10-countdown-begins/"><u>Urgent Update Needed: Microsoft's Crucial Challenge with Windows 10 Countdown Begins!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-expert-analysis-of-sonys-high-definition-video-gear/"><u>[New] 2024 Approved Expert Analysis of Sony's High-Definition Video Gear</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-partedlens-overview/"><u>[New] PartedLens Overview</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bellylaugh-blast-websites-with-the-best-comical-ringtones/"><u>[Updated] BellyLaugh Blast Websites with the Best Comical Ringtones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-avoiding-grainy-zoom-videos-techniques-included/"><u>2024 Approved Avoiding Grainy Zoom Videos – Techniques Included</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-iphone-photography-shadow-techniques/"><u>2024 Approved The Art of iPhone Photography Shadow Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-samsung-galaxy-s24plus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Samsung Galaxy S24+ to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/alarm-system/"><u>Alarm System</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beamwidth-is-a-critical-parameter-for-antennas-especially-in-applications-like-radar-or-satellite-communications-where-precise-targeting-is-necessary/"><u>Beamwidth Is a Critical Parameter for Antennas, Especially in Applications Like Radar or Satellite Communications Where Precise Targeting Is Necessary.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnose-and-cure-computer-crashes-with-these-proven-tips-for-stop-code-0x000003d/"><u>Diagnose and Cure Computer Crashes with These Proven Tips for Stop Code 0X00000^3D</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-pc-experience-transitioning-from-windows-home-to-pro-key-benefits-explained/"><u>Elevate Your PC Experience: Transitioning From Windows Home to Pro - Key Benefits Explained</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-evolution-exploring-the-role-of-decentralized-networks-and-web3-technologies-in-modern-companies-zdnet-analysis/"><u>Enterprise Evolution: Exploring the Role of Decentralized Networks and Web3 Technologies in Modern Companies | ZDNET Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-future-your-top-5-choices-as-microsofts-mainstream-windows-1/"><u>Facing the Future: Your Top 5 Choices as Microsoft's Mainstream Windows 1</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-artificial-intelligence-expert-insights-on-securing-victory-in-cyberspace-warfare-zdnet/"><u>Harnessing Artificial Intelligence: Expert Insights on Securing Victory in Cyberspace Warfare | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-secure-your-no-cost-windows-11-update-before-they-run-out/"><u>How to Secure Your No-Cost Windows 11 Update Before They Run Out</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-14-pro-max-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 14 Pro Max to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rethinking-microsoft-how-redirecting-their-approach-can-enhance-user-experience-and-satisfaction/"><u>Rethinking Microsoft: How Redirecting Their Approach Can Enhance User Experience and Satisfaction</u></a></li>
 </ul></div>
 

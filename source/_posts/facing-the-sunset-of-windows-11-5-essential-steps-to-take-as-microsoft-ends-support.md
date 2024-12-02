@@ -1,7 +1,7 @@
 ---
 title: "Facing the Sunset of Windows 11: 5 Essential Steps to Take as Microsoft Ends Support"
-date: 2024-11-02T16:52:33.858Z
-updated: 2024-11-04T16:32:24.507Z
+date: 2024-11-25T18:53:34.548Z
+updated: 2024-12-02T09:18:53.463Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-avoiding-grainy-zoom-videos-techniques-included/"><u>[New] Avoiding Grainy Zoom Videos – Techniques Included</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-streamline-screen-recording-processes-during-facetime/"><u>[New] Streamline Screen-Recording Processes During FaceTime</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-strategies-for-closing-down-a-forgotten-linkedin-profile/"><u>[Updated] Strategies for Closing Down a Forgotten LinkedIn Profile</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-6-cross-platform-explorers-navigating-iphones-on-windows-and-macos/"><u>Best 6 Cross-Platform Explorers: Navigating iPhones on Windows & macOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-virtual-reality-movie-experiences-top-15-vr-apps-for-iphone-and-android/"><u>Best Virtual Reality Movie Experiences: Top 15 VR Apps for iPhone and Android</u></a></li>
-<li><a href="https://app-tips.techidaily.com/budget-friendly-samsung-music-players-ideal-for-samsung-s8s9-users-and-pc-enthusiasts-free-and-paid-models-included/"><u>Budget-Friendly Samsung Music Players: Ideal for Samsung S8/S9 Users and PC Enthusiasts - Free and Paid Models Included</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-twistedwave-advantages-disadvantages-top-attributes-and-applications/"><u>Comprehensive Guide to TwistedWave: Advantages, Disadvantages, Top Attributes, and Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620195653-discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-guide-unveiling-the-power-of-videoleap-in-2/"><u>Essential Guide: Unveiling the Power of Videoleap in 2</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-unbiased-insight-a-complete-airwatch-reviews-for-informed-decision-making/"><u>Essential Unbiased Insight: A Complete AirWatch Reviews for Informed Decision Making</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-gadgets-with-toms-hardware-insights/"><u>Exploring High-Performance Gadgets with Tom's Hardware Insights</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-ultimate-selection-the-top-15plus-vr-games-on-google-cardboard/"><u>In 2024, Ultimate Selection The Top 15+ VR Games on Google Cardboard</u></a></li>
-<li><a href="https://extra-information.techidaily.com/maximize-your-visuals-on-zoom-the-definitive-guide/"><u>Maximize Your Visuals on Zoom – The Definitive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/optimize-your-business-with-cutting-edge-android-mdm-options-and-features/"><u>Optimize Your Business With Cutting-Edge Android MDM Options and Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/svchostexe-overload-understanding-netservices-solutions-and-prevention/"><u>Svchost.exe Overload: Understanding Netservices, Solutions & Prevention</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transition-smoothly-with-chromes-picture-in-picture/"><u>Transition Smoothly with Chrome’s Picture In Picture</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-common-issues-with-nier-automata-pc-performance/"><u>Troubleshooting Common Issues with Nier Automata PC Performance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-navigate-to-full-screen-bliss-on-facebook/"><u>[Updated] 2024 Approved Navigate to Full-Screen Bliss on Facebook</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-crafting-the-quintessential-thumbnails-for-live-video-success/"><u>[Updated] Crafting the Quintessential Thumbnails for Live Video Success</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-launch-live-fb-broadcast-from-any-device-with-obs-guide/"><u>[Updated] Launch Live FB Broadcast From Any Device with OBS Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tiktok-beats-as-ringtones-practical-approach-for-mobile-users/"><u>2024 Approved TikTok Beats as Ringtones Practical Approach for Mobile Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-deep-dive-into-what-is-bing/"><u>A Deep Dive Into What Is Bing?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-mobile-messaging-platforms-top-picks-for-ios-and-android-devices/"><u>Best 10 Mobile Messaging Platforms: Top Picks for iOS and Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-apple-music-evaluation-cost-analysis-and-features-breakdown-free-download/"><u>Comprehensive Apple Music Evaluation: Cost Analysis & Features Breakdown - Free Download</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inside-the-arsenal-the-complete-review-of-sj-cam-s6-for-2024/"><u>Inside the Arsenal The Complete Review of SJ-CAM S6 for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stay-secure-and-connected-top-11-mobile-apps-for-hands-free-text-reading/"><u>Stay Secure and Connected: Top 11 Mobile Apps for Hands-Free Text Reading</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-accessing-whatsapp-anonymously-without-providing-your-phone-number/"><u>Step-by-Step Instructions: Accessing WhatsApp Anonymously Without Providing Your Phone Number</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-8-xbox-console-emulators-on-pcandroid-reviewed-objectively/"><u>The Ultimate Guide: Top 8 Xbox Console Emulators on PC/Android, Reviewed Objectively</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-swf-player-apps-compatible-with-pc-mac-android-and-iphone-devices/"><u>Top Rated SWF Player Apps Compatible with PC, Mac, Android & iPhone Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/transforming-youtube-content-for-igtv-success/"><u>Transforming YouTube Content for IGTV Success</u></a></li>
 </ul></div>
 

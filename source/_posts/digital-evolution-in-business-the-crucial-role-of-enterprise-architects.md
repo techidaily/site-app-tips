@@ -1,7 +1,7 @@
 ---
 title: "Digital Evolution in Business: The Crucial Role of Enterprise Architects"
-date: 2024-10-04T17:24:16.265Z
-updated: 2024-10-11T23:34:33.567Z
+date: 2024-11-29T07:46:22.633Z
+updated: 2024-12-02T09:32:07.948Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,16 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,21 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-incor-writings-on-the-best-practices-for-youtube-commentary/"><u>[New] 2024 Approved Incor Writings on the Best Practices for YouTube Commentary</u></a></li>
-<li><a href="https://app-tips.techidaily.com/alternative-media-players-similar-to-itunes-for-windows-vista-xp-or-7-users/"><u>Alternative Media Players Similar to iTunes for Windows Vista, XP, or 7 Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278038-cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix</u></a></li>
-<li><a href="https://win-able.techidaily.com/correcting-helldivers-2s-msvcr110dll-not-found-dilemma/"><u>Correcting HellDivers 2'S 'MSVCR110.dll Not Found' Dilemma</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-your-preferred-version-easy-free-downloads-of-both-old-and-new-itunes-for-windows-and-mac/"><u>Get Your Preferred Version: Easy Free Downloads of Both Old and New iTunes for Windows & Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/getting-started-with-itunes-on-windows-operating-systems-a-step-by-step-guide/"><u>Getting Started with iTunes on Windows Operating Systems: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-fix-it-when-your-iphone-is-not-detected-by-itunes/"><u>How to Fix It when Your iPhone Is Not Detected by iTunes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-drivers-for-your-logitech-m310-mouse/"><u>How To Install The Latest Drivers For Your Logitech M310 Mouse</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-tecno-spark-10-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Tecno Spark 10 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-enhancing-viewer-experience-vertical-videos-in-final-cut-pro-x/"><u>In 2024, Enhancing Viewer Experience Vertical Videos in Final Cut Pro X</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/malwarefox-leads-the-pack-as-your-ultimate-cybersecurity-shield-for-browsers-in-2020/"><u>MalwareFox Leads the Pack as Your Ultimate Cybersecurity Shield for Browsers in 2020</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-android-image-correction-apps/"><u>Pro Android Image Correction Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-steps-converting-your-avi-videos-into-apples-itunes-format-for-ios-devices/"><u>Simple Steps: Converting Your AVI Videos Into Apple's iTunes Format for iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transferring-your-playlist-to-ipod-sans-itunes-with-aiseesoft/"><u>Step-by-Step Guide: Transferring Your Playlist to iPod Sans iTunes with Aiseesoft</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unboxing-flight-comprehensive-guide-to-dji-phantom-4-for-2024/"><u>Unboxing Flight Comprehensive Guide to DJI Phantom 4 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-complete-investigation-into-razers-kiyo-webcam/"><u>[Updated] 2024 Approved Complete Investigation Into Razer's Kiyo Webcam</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-shine-on-mastering-the-art-of-illumination-for-youtube-videos/"><u>[Updated] 2024 Approved Shine On Mastering the Art of Illumination for YouTube Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-concoct-an-awkward-potion-for-beginners-in-minecraft/"><u>How to Concoct an Awkward Potion for Beginners in Minecraft</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-z-fold-5-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy Z Fold 5 Phone with Broken Screen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-moto-g-play-analysis-long-lasting-battery-life-meets-solid-processor-speed/"><u>In-Depth Moto G Play Analysis - Long-Lasting Battery Life Meets Solid Processor Speed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/latest-breakthroughs-in-5g-and-edge-tech-top-5-trends-you-cant-ignore-insights-from-zdnet/"><u>Latest Breakthroughs in 5G & Edge Tech: Top 5 Trends You Can't Ignore - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/navigating-backward-movie-playback-on-iphones-for-2024/"><u>Navigating Backward Movie Playback on iPhones for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-system-administration-how-red-hat-integrates-ai-for-enhanced-efficiency/"><u>Revolutionizing System Administration: How Red Hat Integrates AI for Enhanced Efficiency</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211270588-9780062035882-runes-in-ten-minutes/"><u>Runes in Ten Minutes | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-elevating-your-windows-home-edition-to-pro-benefits-unveiled/"><u>Step-by-Step Guide: Elevating Your Windows Home Edition to Pro - Benefits Unveiled</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/g-your-filmed-artistry-on-a-journey-with-imovie-and-youtube-for-2024/"><u>Taking Your Filmed Artistry on a Journey with iMovie & YouTube for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-trends-unveiled-the-revival-and-growing-appeal-of-openstack-with-kata-containers-zdnet/"><u>Tech Trends Unveiled: The Revival and Growing Appeal of OpenStack with Kata Containers | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-current-state-of-cloud-computing-and-persisting-challenges-with-on-premise-systems/"><u>The Current State of Cloud Computing & Persisting Challenges with On-Premise Systems.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-shift-to-non-techies-leading-enterprise-tech-revolution-insights-from-zdnet/"><u>The Shift to Non-Techies Leading Enterprise Tech Revolution – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-bypassing-the-turing-trial/"><u>Unleashing Potential: Bypassing the Turing Trial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-amazons-cutting-edge-ai-benchmark-assessing-relevance-answers-and-contextual-groundings/"><u>Unveiling Amazon's Cutting-Edge AI Benchmark: Assessing Relevance, Answers & Contextual Groundings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-open-source-expertise-and-linux-mastery-remain-highly-sought-after-despite-challenging-financial-climates-insights-from-zdnet/"><u>Why Open-Source Expertise & Linux Mastery Remain Highly Sought After, Despite Challenging Financial Climates - Insights From ZDNet</u></a></li>
 </ul></div>
 

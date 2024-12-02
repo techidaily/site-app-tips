@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores the Booming Growth of No-Code/Low-Code Solutions and Its Impact on IT Career Paths
-date: 2024-10-11T04:42:06.524Z
-updated: 2024-10-12T00:58:43.694Z
+date: 2024-12-01T11:19:39.456Z
+updated: 2024-12-01T22:37:07.172Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +176,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-premium-free-excellence-analyzing-and-sharing-best-free-luts/"><u>[New] 2024 Approved Premium-Free Excellence Analyzing and Sharing Best Free LUTs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-mastering-vimeo-video-farewells-tips-and-tricks/"><u>[New] Mastering Vimeo Video Farewells Tips and Tricks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ltimate-guide-igniting-video-visionaries-in-your-channel/"><u>[New] Ultimate Guide Igniting Video Visionaries in Your Channel</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unlocking-viral-potential-in-digital-content-creation/"><u>[Updated] 2024 Approved Unlocking Viral Potential in Digital Content Creation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/another-cyber-attack-on-lastpass-revealed-by-zdnets-latest-report/"><u>Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-password-management-tools-of-2022-slash-your-costs-insights-from-zdnet/"><u>Best Password Management Tools of 2022: Slash Your Costs - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/debunking-bitcoin-privacy-myths-the-expose-that-shook-its-secrecy/"><u>Debunking Bitcoin Privacy Myths: The Exposé That Shook Its Secrecy</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/lling-darkness-enhancing-youtube-views/"><u>Dispelling Darkness, Enhancing Youtube Views</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-and-secure-password-management-solutions-for-202e-thorough-evaluation-by-industry-experts-techradar/"><u>Free & Secure Password Management Solutions for 202E: Thorough Evaluation by Industry Experts - TechRadar</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-advanced-aesthetics-the-ultimate-guide-to-tiktok-effects/"><u>In 2024, Advanced Aesthetics The Ultimate Guide to TikTok Effects</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-masters-picks-highest-rated-cards-for-streaming-on-youtube/"><u>In 2024, Master's Picks Highest Rated Cards for Streaming on YouTube</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-security-how-dashlanes-passwordless-logins-eliminate-the-hassle-of-remembering-one-overarching-password-insights-from-zdnet/"><u>Master Your Security: How Dashlane's Passwordless Logins Eliminate the Hassle of Remembering One Overarching Password - Insights From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-solving-your-ps5-dualsense-charger-woes/"><u>Troubleshooting Guide: Solving Your PS5 DualSense Charger Woes</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/vectors-unveiled-a-novices-path-through-types-and-apps-for-2024/"><u>Vectors Unveiled A Novice’s Path Through Types and Apps for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-invest-in-1password-exceptional-security-and-features-justify-premium-price-tag-for-users-cyberguardian-review/"><u>Why Invest in 1Password? Exceptional Security and Features Justify Premium Price Tag for Users | CyberGuardian Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-picks-for-traditional-japanese-huts-in-mc-worlds-for-2024/"><u>[New] Top Picks for Traditional Japanese Huts in MC Worlds for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-seamless-integration-of-obs-studio-with-android-tech/"><u>[Updated] Seamless Integration of OBS Studio with Android Tech</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-videoleap-zoom-hacks-for-detailed-video-insight-for-2024/"><u>[Updated] Videoleap Zoom Hacks for Detailed Video Insight for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/audiovisual-standards-for-success-on-youtube-top-format-choices/"><u>Audiovisual Standards for Success on YouTube – Top Format Choices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/high-staking-habitats-critical-commentary/"><u>HIGH-STAKING HABITATS Critical Commentary</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-agile-journey-six-pivotal-principles-for-triumphant-software-design-from-zdnet/"><u>Navigating the Agile Journey: Six Pivotal Principles for Triumphant Software Design From ZDnet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-todays-challenges-overcoming-uncertainty-in-ai-output-and-doubts-on-precision-insights-from-zdnet/"><u>Navigating Today's Challenges: Overcoming Uncertainty in AI Output & Doubts on Precision - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-polarization-shown-by-the-radiation-pattern-should-match-that-of-the-receiving-antenna-to-maximize-signal-reception-and-minimize-losses/"><u>The Polarization Shown by the Radiation Pattern Should Match that of the Receiving Antenna to Maximize Signal Reception and Minimize Losses.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-mastery-in-quick-writer-with-these-latest-copilot-updates-for-microsoft-365-expert-insights-from-zdnet/"><u>Unlocking Mastery in Quick Writer with These Latest Copilot Updates for Microsoft 365 - Expert Insights From ZDNet</u></a></li>
 </ul></div>
 

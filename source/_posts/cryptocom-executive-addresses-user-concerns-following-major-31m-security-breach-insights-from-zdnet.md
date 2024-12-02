@@ -1,7 +1,7 @@
 ---
 title: Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet
-date: 2024-11-20T04:54:09.087Z
-updated: 2024-11-24T01:41:52.924Z
+date: 2024-11-27T03:17:51.778Z
+updated: 2024-12-01T23:11:00.277Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Crypto.com CEO Kris Marszalek responded to complaints from thousands of users about issues logging back into their accounts after the company was [forced](https://crypto.com/product-news/crypto-com-security-report-next-steps) to change security settings following [a hack last week](https://www.zdnet.com/article/fortune-favours-the-breached-crypto-com-admits-400-users-hit-in-hack/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Crypto.com CEO Kris Marszalek responded to complaints from thousands of users ab
 [![cybersecurity-lock-resized.jpg](https://www.zdnet.com/a/img/resize/5871b5ae5b589728bdc8064555d12823acf4b63e/2020/10/27/db3c0325-2b86-435b-8efa-93828deb6b56/cybersecurity-lock-resized.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best cyber insurance The cyber insurance industry is likely to go mainstream and is a simple cost of doing business. Here are a few options to consider.  Read now](https://www.zdnet.com/article/best-cyber-insurance/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On Monday, the company [admitted](https://www.zdnet.com/article/crypto-com-confirms-483-users-hit-in-attack-that-saw-over-31m-in-coins-withdrawn/) that 483 users were affected by unauthorized cryptocurrency withdrawals on their accounts, costing a total of "4,836.26 ETH, 443.93 BTC, and approximately US$66,200 in other cryptocurrencies." At the time of the attack, that amounted to about $31 million. 
@@ -80,20 +80,24 @@ Crypto.com created a program designed to refund users who were affected by the h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-a-comprehensive-guide-to-crop-your-video-for-instagram/"><u>2024 Approved A Comprehensive Guide to Crop Your Video for Instagram</u></a></li>
-<li><a href="https://techtrends.techidaily.com/5-minute-must-know-tips-to-navigate-and-excel-on-x-platform/"><u>5 Minute Must-Know Tips to Navigate and Excel on X Platform</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-gap-between-tech-specialists-and-user-experiences-with-innovative-design-strategies/"><u>Bridging the Gap Between Tech Specialists and User Experiences with Innovative Design Strategies</u></a></li>
-<li><a href="https://extra-information.techidaily.com/full-spectrum-visionary-eizos-cg318-4k-reviewed-and-revealed/"><u>Full Spectrum Visionary EIZO's CG318-4K Reviewed and Revealed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-vital-are-it-specialists-for-modern-businesses-operating-without-technology-insights-from-a-zdnet-perspective/"><u>How Vital Are IT Specialists for Modern Businesses Operating Without Technology? Insights From a ZDNET Perspective</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-sprinkle-some-glitter-on-your-photos-ios-and-androids-prime-10-apps/"><u>In 2024, Sprinkle Some Glitter on Your Photos IOS & Android's Prime 10 Apps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/innovative-techniques-for-stunning-hdr-photography/"><u>Innovative Techniques for Stunning HDR Photography</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leveraging-next-gen-cloud-infrastructures-for-skills-development-and-robust-security-in-modern-applications/"><u>Leveraging Next-Gen Cloud Infrastructures for Skills Development and Robust Security in Modern Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-faces-critical-deadline-for-fixing-windows-10-issues-just-one-year-left-to-rectify-technewszdnet/"><u>Microsoft Faces Critical Deadline for Fixing Windows 10 Issues – Just One Year Left to Rectify | TechNewsZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-todays-it-landscape-balancing-cloud-innovation-with-current-on-premise-realities-techinsights/"><u>Navigating Today's IT Landscape: Balancing Cloud Innovation with Current On-Premise Realities | TechInsights</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210209405-9781071581094-passe-backstage-para-o-outro-lado/"><u>Passe Backstage Para O Outro Lado | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/sonys-ai-initiative-collaborates-with-ai-singapore-on-next-gen-language-models-unveiling-the-partnership/"><u>Sony's AI Initiative Collaborates with AI Singapore on Next-Gen Language Models: Unveiling the Partnership</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-essential-list-of-2024s-freeware-for-testing-your-storage-devices/"><u>The Essential List of 2024'S Freeware for Testing Your Storage Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028775285-windows-10/"><u>Windows 10でスクリーンショットファイルサイズ調整手順</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-majority-of-ai-projects-falter-predicts-gartner-the-future-of-generative-tech/"><u>ZDNet Exclusive: Majority of AI Projects Falter, Predicts Gartner | The Future of Generative Tech</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-quick-guide-initiating-and-managing-android-zoom-calls/"><u>[Updated] In 2024, Quick Guide Initiating & Managing Android Zoom Calls</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pivot-past-moments-an-android-video-reversal-tutorial/"><u>2024 Approved Pivot Past Moments An Android Video Reversal Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-a54-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy A54 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-linux-69-kernel-improvements-a-ranking-digitalreviewer/"><u>Essential Linux 6.9 Kernel Improvements: A Ranking - DigitalReviewer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-beyond-ai-boundaries-the-call-of-an-ai-scientist-on-thinking-differently/"><u>Exploring Beyond AI Boundaries - The Call of an AI Scientist on Thinking Differently</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oppo-find-x6-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo Find X6 Phone Screen?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-does-open-source-shape-ethical-ai-development-exploring-perspectives-on-zdnet/"><u>How Does Open Source Shape Ethical AI Development? Exploring Perspectives on ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-c55-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme C55 Data? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12t-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12T Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-f34-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy F34 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-enhanced-with-codenotarys-new-software-bill-of-materials-service-the-latest-update-featured-by-zdnet/"><u>Kubernetes Enhanced with Codenotary’s New Software Bill of Materials Service - The Latest Update Featured by ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/mark-zuckerberg-reveals-he-has-a-goat-named-bitcoin/"><u>Mark Zuckerberg Reveals He Has a Goat Named Bitcoin</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-devops-adoption-in-business-strategies-for-staying-ahead-while-reducing-risks-insights-from-zdnet/"><u>Mastering DevOps Adoption in Business: Strategies for Staying Ahead While Reducing Risks - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-tough-economic-terrain-the-persistent-demand-for-professionals-skilled-in-open-source-and-linux-platforms-zdnet-exclusive/"><u>Navigating the Tough Economic Terrain: The Persistent Demand for Professionals Skilled in Open Source and Linux Platforms | ZDNET Exclusive</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-incorporating-audio-into-new-and-enhanced-mkv-files/"><u>New 2024 Approved Incorporating Audio Into New and Enhanced MKV Files</u></a></li>
+<li><a href="https://app-tips.techidaily.com/regulatory-compliance/"><u>Regulatory Compliance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/status-of-microsofts-previous-promotion-for-a-complimentary-windows-10-installation/"><u>Status of Microsoft's Previous Promotion for a Complimentary Windows 10 Installation!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-changing-landscape-for-software-engineers-perspectives-by-atlassians-agnes-ro-on-zdnet/"><u>The Changing Landscape for Software Engineers: Perspectives by Atlassian's Agnes Ro on ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-a-frozen-xbox-app-in-windows-10/"><u>Unlocking a Frozen Xbox App in Windows 10</u></a></li>
 </ul></div>
 

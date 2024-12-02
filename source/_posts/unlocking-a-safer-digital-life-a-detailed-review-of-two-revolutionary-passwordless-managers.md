@@ -1,7 +1,7 @@
 ---
 title: "Unlocking a Safer Digital Life: A Detailed Review of Two Revolutionary Passwordless Managers"
-date: 2024-11-18T19:26:48.169Z
-updated: 2024-11-24T05:45:38.091Z
+date: 2024-11-29T22:40:10.775Z
+updated: 2024-12-02T10:30:27.339Z
 tags:
   - password-manager
 categories:
@@ -34,7 +34,7 @@ Should you ditch your master password completely? I took the plunge with both [D
 My conclusion: There's a passwordless password manager in your future, but only technically sophisticated customers should plunge in today.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting up a passwordless account
@@ -54,7 +54,7 @@ Screenshot by Ed Bott/ZDNET
 With those tasks out of the way, you can import your existing passwords and add new ones. More importantly, you now have a device that you can use to set up access to the password vault on other devices, with no master password required.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting up additional devices
@@ -98,7 +98,7 @@ The dealbreaker for me, though, came when I tried to export my passwords from th
 Given those beta headaches, I decided to delete my passwordless 1Password account and try again in a few months. But Dashlane was impressive enough to make me seriously consider switching.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the risk?
@@ -112,7 +112,7 @@ So, what happens if you can't access any of those trusted devices? You're locked
 Both Dashlane and 1Password offer an alternative in the form of a recovery key. That's a randomly generated alphanumeric code (Dashlane's key is 28 characters long; 1Password uses a 56- character recovery key) that you print out and store in a safe place. If you're ever in a situation where you don't have a PC or mobile device that's signed in to your account, you can break the glass and use that recovery key as a last resort. But you'll never need to type it under normal circumstances, meaning it's resistant to phishing, keyloggers, and other hacking tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should you switch to a passwordless account?
@@ -151,17 +151,20 @@ I was impressed enough by [Dashlane](https://www.tkqlhce.com/click-9041660-15578
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-acquiring-drone-racing-skills-and-exploring-top-fpv-drones/"><u>[New] In 2024, Acquiring Drone Racing Skills & Exploring Top FPV Drones</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-10-facebook-jail-secrets-to-avoid-being-blocked-get-out-of-it-for-2024/"><u>[Updated] 10 Facebook Jail Secrets to Avoid Being Blocked / Get Out of It for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-become-a-broadcast-pro-screen-sharing-101-for-facebookers/"><u>[Updated] 2024 Approved Become a Broadcast Pro Screen Sharing 101 for Facebookers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-innovative-tips-to-create-effective-free-video-advertisements-on-youtube/"><u>[Updated] In 2024, Innovative Tips to Create Effective Free Video Advertisements on YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-assembling-an-eye-catching-movie-miniature/"><u>2024 Approved Assembling an Eye-Catching Movie Miniature</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-samsung-galaxy-f14-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-cyber-defense-how-juniper-networks-strengthens-its-sase-offerings-with-a-new-cloud-firewall-feature-tech-analysis-by-zdnet/"><u>Enhancing Cyber Defense: How Juniper Networks Strengthens Its SASE Offerings with a New Cloud Firewall Feature - Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-best-digital-signing-applications-a-zdnet-recommendation/"><u>Exploring the Best Digital Signing Applications: A ZDNet Recommendation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/impedance-matching/"><u>Impedance Matching</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/innovating-with-youtube-studio-editor-for-next-gen-videos-for-2024/"><u>Innovating with YouTube Studio Editor for Next-Gen Videos for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-windows-10-top-five-strategies-to-consider-before-support-concludes-next-year-zdnet-insights/"><u>Navigating the Future of Windows 10: Top Five Strategies to Consider Before Support Concludes Next Year | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preparing-for-the-future-five-must-know-steps-as-microsofts-windows-support-nears-its-end-according-to-zdnet/"><u>Preparing for the Future: Five Must-Know Steps as Microsoft's Windows ^Support Nears Its End, According to ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comparing-metaverse-to-multiplemetasa-highlighting-their-variance/"><u>[New] Comparing Metaverse to MultipleMetasa Highlighting Their Variance</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-solve-facebook-messenger-not-sending-videos-on-iphone-and-android/"><u>[New] Solve “Facebook Messenger Not Sending Videos” On iPhone and Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-comparative-content-crusade-analyzing-your-videos-against-others/"><u>[Updated] In 2024, Comparative Content Crusade Analyzing Your Videos Against Others'</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-comprehensive-look-at-ffpm-your-pip-guide/"><u>2024 Approved A Comprehensive Look at FFPM Your PIP Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-essential-cine-gear-for-every-aspiring-filmmaker/"><u>2024 Approved Essential Cine Gear for Every Aspiring Filmmaker</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-12-proplus-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-wireless-network-adapter-issues-on-windows-11-a-comprehensive-guide/"><u>Fixing Qualcomm Wireless Network Adapter Issues on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/juniper-networks-enhances-security-with-new-cloud-based-firewall-in-unified-secure-access-service-edge-portfolio/"><u>Juniper Networks Enhances Security with New Cloud-Based Firewall in Unified Secure Access Service Edge Portfolio</u></a></li>
+<li><a href="https://app-tips.techidaily.com/latest-features-in-libreoffice-and-easy-macos-installation-guide-insights-from-zdnet/"><u>Latest Features in LibreOffice & Easy macOS Installation Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-volume-reduction-in-audio-designs-using-logic-pro-for-2024/"><u>Mastering Volume Reduction in Audio Designs Using Logic Pro for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-faces-time-sensitive-dilemma-over-windows-10-in-just-one-year-insights-from-zdnet-coverage/"><u>Microsoft Faces Time-Sensitive Dilemma Over Windows 10 in Just One Year - Insights From ZDNET Coverage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-impact-of-the-russian-ukrainian-conflict-on-global-tech-sector-insights-from-zdnet/"><u>The Impact of the Russian-Ukrainian Conflict on Global Tech Sector | Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultra-stable-linux-kernel-the-long-haul-solution-released-insights-from-zdnet/"><u>Ultra-Stable Linux Kernel: The Long-Haul Solution Released - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-potential-with-artificial-intelligence-learn-how-81-increase-in-workforce-productivity-can-be-achieved-expert-tips-by-zdnet/"><u>Unleashing Potential with Artificial Intelligence: Learn How 81% Increase in Workforce Productivity Can Be Achieved | Expert Tips by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-the-mystery-is-the-no-cost-windows-11-upgrade-still-available-analysis-by-zdnet/"><u>Unraveling the Mystery: Is the No-Cost Windows 11 Upgrade Still Available? - Analysis by ZDNET</u></a></li>
 </ul></div>
 

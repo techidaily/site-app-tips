@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranked Linux Education Programs: Training and Bootcamp Overviews From Leading Sources"
-date: 2024-10-30T17:00:23.594Z
-updated: 2024-11-04T17:05:02.722Z
+date: 2024-11-29T12:20:15.011Z
+updated: 2024-12-02T01:23:04.415Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,15 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-above-and-beyond-perfecting-your-drone-video-craft/"><u>[Updated] Above and Beyond Perfecting Your Drone Video Craft</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-transformative-power-of-augmented-vision/"><u>2024 Approved The Transformative Power of Augmented Vision</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-10-mobile-messaging-platforms-top-picks-for-ios-and-android-devices/"><u>Best 10 Mobile Messaging Platforms: Top Picks for iOS and Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android!</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-12-pro-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone 12 Pro with 3 Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-8-xbox-console-emulators-on-pcandroid-reviewed-objectively/"><u>The Ultimate Guide: Top 8 Xbox Console Emulators on PC/Android, Reviewed Objectively</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-swf-player-apps-compatible-with-pc-mac-android-and-iphone-devices/"><u>Top Rated SWF Player Apps Compatible with PC, Mac, Android & iPhone Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unpacking-the-cpu-clash-amds-latest-ryzen-ai-9-hx-370-triumphs-over-apples-m3-max-in-processor-speed-tests/"><u>Unpacking the CPU Clash: AMD's Latest Ryzen AI 9 HX 370 Triumphs Over Apple's M3 Max in Processor Speed Tests</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-a-new-era-of-immersive-storytelling/"><u>[New] In 2024, A New Era of Immersive Storytelling</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-strategy-for-posting-srt-content-socially-for-2024/"><u>[New] The Ultimate Strategy for Posting SRT Content Socially for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-under-100-investments-in-action-cameras-top-selections/"><u>[New] Under $100 Investments in Action Cameras – Top Selections</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-reversal-strategies-moving-from-latest-sierra-to-el-capitan/"><u>[Updated] Reversal Strategies Moving From Latest Sierra to El Capitan</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-pixels-of-hilarity-with-adobe-tools/"><u>2024 Approved Pixels of Hilarity with Adobe Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-c-suite-digital-literacy-a-guide-to-tech-education-in-six-steps-zdnet/"><u>Advancing C-Suite Digital Literacy: A Guide to Tech Education in Six Steps | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/agile-methods-clash-with-ai-projects-insights-from-a-new-study-zdnet/"><u>Agile Methods Clash with AI Projects: Insights From a New Study | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-dominates-the-surge-in-non-cash-payments-expected-to-reach-16-trillion-zdnet-insights/"><u>Asia Dominates the Surge in Non-Cash Payments Expected to Reach $1.6 Trillion | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/banking-innovation-at-risk-cio-warns-against-reliance-on-easy-prompt-tech-in-favour-of-creative-geniuses/"><u>Banking Innovation at Risk: CIO Warns Against Reliance on Easy-Prompt Tech in Favour of Creative Geniuses</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-common-false-beliefs-in-monetizing-data-assets-the-zdnet-perspective/"><u>Debunking Common False Beliefs in Monetizing Data Assets - The ZDNet Perspective</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dive-into-business-before-technology-to-excel-as-a-tech-team-leader-strategies-by-zdnet/"><u>Dive Into Business Before Technology to Excel as a Tech Team Leader | Strategies by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-professional-edge-without-solely-focusing-on-ai-insights-for-todays-workforce/"><u>Elevate Your Professional Edge Without Solely Focusing on AI | Insights for Today's Workforce</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-enjoy-fubotv-content-with-an-amazon-firestick-step-by-step-instructions/"><u>How to Enjoy FuboTV Content with an Amazon Firestick - Step-by-Step Instructions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-itel-p55-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Itel P55</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-monetization-milestone-500-subscribers-achieved/"><u>In 2024, YouTube's Monetization Milestone 500 Subscribers Achieved</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-your-career-trajectory-with-ai-strategies-for-tech-professionals-on-zdnet/"><u>Mastering Your Career Trajectory with AI: Strategies for Tech Professionals on ZDNet</u></a></li>
 </ul></div>
 

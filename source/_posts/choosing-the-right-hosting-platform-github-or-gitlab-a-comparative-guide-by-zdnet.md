@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Right Hosting Platform: GitHub or GitLab? - A Comparative Guide by ZDNet"
-date: 2024-11-19T05:01:29.547Z
-updated: 2024-11-24T00:49:07.376Z
+date: 2024-11-26T18:22:34.156Z
+updated: 2024-12-02T02:07:41.291Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-best-camera-apps-to-shoot-and-record-videos-on-iphone-and-andriod-phones/"><u>[New] Best Camera Apps to Shoot and Record Videos on iPhone and Andriod Phones</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-earnings-on-youtube-shorts-essentials-and-prospective-income/"><u>[New] Maximizing Earnings on YouTube Shorts Essentials & Prospective Income</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-mastering-vocal-alteration-in-free-fire-complimentary-tips/"><u>[Updated] Mastering Vocal Alteration in Free Fire Complimentary Tips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-zero-cost-image-booster-online-plus-mobile-app/"><u>2024 Approved Best Zero-Cost Image Booster Online + Mobile App</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/accelerated-sizing-youtube-content-for-macs/"><u>Accelerated Sizing YouTube Content for MACs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-widening-gulf-in-data-expertise-a-closer-look-at-innovative-solutions-by-companeby-zdnet/"><u>Bridging the Widening Gulf in Data Expertise: A Closer Look at Innovative Solutions by Companeby ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/championing-creativity-in-ai-development-bank-chief-rejects-relying-on-simple-prompts-urges-intellectual-revolution-zdnet/"><u>Championing Creativity in AI Development, Bank Chief Rejects Relying on Simple Prompts; Urges Intellectual Revolution | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empower-management-with-ai-essential-training-strategies-before-deployment/"><u>Empower Management with AI: Essential Training Strategies Before Deployment</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-executives-with-tech-expertise-six-essential-tips-to-foster-digital-proficiency-in-management-teams/"><u>Empowering Executives with Tech Expertise - Six Essential Tips to Foster Digital Proficiency in Management Teams</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-x-flip-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo X Flip Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-90-gt-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-v30-lite-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo V30 Lite 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-complete-ai-workflow-engaging-with-organizations-leading-tech-expertise-zdnet/"><u>Unveiling the Complete AI Workflow: Engaging with Organization's Leading Tech Expertise | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/utilizing-artificial-intelligence-the-key-strategy-to-alleviate-job-burnout-and-combat-alert-overload-for-it-professionals-insights-from-zdnet/"><u>Utilizing Artificial Intelligence: The Key Strategy to Alleviate Job Burnout & Combat Alert Overload for IT Professionals | Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-reveals-how-many-marketing-teams-are-using-ai-the-answer-may-surprise-you/"><u>ZDNet Reveals: How Many Marketing Teams Are Using AI? The Answer May Surprise You!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-ultimate-guide-to-iphone-ringtone-alterations/"><u>[Updated] 2024 Approved The Ultimate Guide to iPhone Ringtone Alterations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rising-above-internet-naysayers-and-detractors/"><u>[Updated] Rising Above Internet Naysayers and Detractors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-action-seekers-guide-to-polaroid-xs-100i/"><u>[Updated] The Action Seeker's Guide to Polaroid XS 100I</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-tips-for-obtaining-pristine-photos-without-payment-for-2024/"><u>[Updated] Top Tips for Obtaining Pristine Photos Without Payment for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-snapseed-101-basic-editing-techniques-unveiled/"><u>2024 Approved Snapseed 101 Basic Editing Techniques Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-itunes-backup-strategies-learn-the-best-techniques-for-protection/"><u>Comprehensive iTunes Backup Strategies – Learn the Best Techniques for Protection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-strategies-to-overcome-non-functional-music-playback-on-itunes/"><u>Effective Strategies to Overcome Non-Functional Music Playback on iTunes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-your-artistic-expression-10plus-luts-for-zero-price/"><u>Enhance Your Artistic Expression – 10+ LUTs for Zero Price</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/exploring-advanced-recording-alternatives-to-fbx-frameworks/"><u>Exploring Advanced Recording Alternatives to FBX Frameworks</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/hdd-5/"><u>HDD上消失したデータを無料で回復する手順: 5つのスキル</u></a></li>
+<li><a href="https://app-tips.techidaily.com/temporary-itunes-store-outage-discover-7-effective-solutions/"><u>Temporary iTunes Store Outage: Discover 7 Effective Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-solutions-for-resolving-the-issue-of-music-not-playing-in-itunes/"><u>Top Solutions for Resolving the Issue of Music Not Playing in iTunes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-miracast-issues-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Miracast Issues on Windows 11: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

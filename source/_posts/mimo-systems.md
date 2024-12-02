@@ -1,7 +1,7 @@
 ---
 title: MIMO Systems
-date: 2024-10-06T11:18:50.308Z
-updated: 2024-10-11T19:22:18.951Z
+date: 2024-11-28T13:28:12.401Z
+updated: 2024-12-02T09:18:46.973Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-essential-mac-6-video-grabber-apps-for-2024/"><u>[New] Essential Mac 6 Video Grabber Apps for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-voiceover-fundamentals-for-aspiring-tiktok-creators/"><u>[Updated] 2024 Approved Voiceover Fundamentals for Aspiring TikTok Creators</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-learn-how-to-solve-common-issues-for-youtube-shorts/"><u>[Updated] Learn How to Solve Common Issues for YouTube Shorts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-uncover-the-joyful-journey-best-comedy-and-sadness-on-insta/"><u>[Updated] Uncover the Joyful Journey Best Comedy & Sadness on Insta</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2022s-leading-data-security-solutions-find-the-ultimate-encryption-software-according-to-industry-experts-at-zdnet/"><u>2022'S Leading Data Security Solutions: Find the Ultimate Encryption Software According to Industry Experts at ZDNet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-free-virtual-meeting-software-options-for-both-windows-and-mac/"><u>2024 Approved Best Free Virtual Meeting Software Options For Both Windows & Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-top-benefits-of-embracing-aiops-why-you-need-to-make-the-switch/"><u>Exploring the Top Benefits of Embracing AIOps: Why You Need to Make the Switch</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-redmi-12-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi Redmi 12 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-smartphone-cinematography-mastery-designing-impactful-youtube-thumbnails/"><u>In 2024, Smartphone Cinematography Mastery Designing Impactful YouTube Thumbnails</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movavi-converter-de-formato-alaw-para-mp3-online-gratuito/"><u>Movavi - Converter De Formato ALAW Para MP3 Online Gratuito</u></a></li>
-<li><a href="https://app-tips.techidaily.com/open-source-mandate-switzerlands-federal-govt-moves-all-software-public/"><u>Open-Source Mandate: Switzerland's Federal Govt. Moves All Software Public</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/quick-introduction-to-hangul-an-asian-script-essentials-guide/"><u>Quick Introduction to Hangul: An Asian Script Essentials Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section/"><u>Section</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-impact-of-russian-aggression-on-ukraines-tech-sector-potential-risks-and-concerns/"><u>The Impact of Russian Aggression on Ukraine's Tech Sector: Potential Risks and Concerns</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-vmwares-power-get-your-hands-on-the-free-personal-versions-of-fusion-pro-and-workstation-pro-zdnet/"><u>Unlocking VMware's Power: Get Your Hands on the Free Personal Versions of Fusion Pro & Workstation Pro | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-deadline-microsoft-must-resolve-major-windows-10-issues-within-just-one-year-insights-from-zdnet/"><u>Urgent Deadline: Microsoft Must Resolve Major Windows 10 Issues Within Just One Year, Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-ultimate-ranking-the-leading-antivirus-solutions/"><u>ZDNet's Ultimate Ranking: The Leading Antivirus Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pro-3-analysis-how-ion-is-redefining-the-action-video-landscape/"><u>[New] Pro 3 Analysis - How ION Is Redefining the Action Video Landscape</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-easy-techniques-for-snagging-youtube-songs-and-commentary-for-2024/"><u>[Updated] Easy Techniques for Snagging YouTube Songs and Commentary for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-otter-team-edition-unveiled-revolutionize-remote-collaboration-with-adaptive-live-meeting-transcriptions-zdnet-insights/"><u>1. Otter Team Edition Unveiled: Revolutionize Remote Collaboration with Adaptive Live Meeting Transcriptions - ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-coding-skills-the-impact-of-github-copilot-on-developer-workflow-a-zdnet-perspective/"><u>Boost Your Coding Skills: The Impact of GitHub Copilot on Developer Workflow - A ZDNet Perspective</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/digital-vs-print-the-ultimate-decision-guide/"><u>Digital Vs. Print: The Ultimate Decision Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-11r-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus 11R Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-infinix-gt-10-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Infinix GT 10 Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Plus with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-steep-path-to-update-ubuntu-2404-insights-from-zdnet/"><u>Navigating the Steep Path to Update Ubuntu 24.04 - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-the-chatgpt-extensions-hub-ideas-for-progress/"><u>Revolutionizing the ChatGPT Extensions Hub: Ideas for Progress</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-microsoft-account-essential-steps-to-protect-against-cyber-threats-tips-from-zdnet/"><u>Securing Your Microsoft Account: Essential Steps to Protect Against Cyber Threats - Tips From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-competitive-edge-of-devops-in-modern-enterprptions-ensuring-safety-and-efficiency-as-recommended-by-zdnet/"><u>The Competitive Edge of DevOps in Modern Enterprptions: Ensuring Safety and Efficiency as Recommended by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-cutting-edge-of-connectivity-a-look-at-the-best-new-developments-in-5g-and-edge-computing-zdnet/"><u>The Cutting-Edge of Connectivity: A Look at the Best New Developments in 5G and Edge Computing (ZDNET)</u></a></li>
 </ul></div>
 

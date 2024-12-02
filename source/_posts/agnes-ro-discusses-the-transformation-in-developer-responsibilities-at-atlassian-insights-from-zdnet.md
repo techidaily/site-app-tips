@@ -1,7 +1,7 @@
 ---
 title: Agnes Ro Discusses the Transformation in Developer Responsibilities at Atlassian - Insights From ZDNet
-date: 2024-10-31T16:29:51.130Z
-updated: 2024-11-04T16:34:44.440Z
+date: 2024-11-26T19:02:55.808Z
+updated: 2024-12-02T02:42:41.722Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,16 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/approved-enhancing-online-privacy-youtubes-access-controls/"><u>2024 Approved Enhancing Online Privacy YouTube's Access Controls</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/2024s-top-26-freeware-registry-sanitizers-the-definitive-rankings-for-a-streamlined-pc/"><u>2024’S Top 26 Freeware Registry Sanitizers: The Definitive Rankings for a Streamlined PC</u></a></li>
-<li><a href="https://win-unique.techidaily.com/come-clonare-linstallazione-di-windows-11-versione-11-su-hard-disk-solidi-ssd-o-tradizionali-hdd/"><u>Come Clonare L'Installazione Di Windows 11 Versione 11 Su Hard Disk Solidi (SSD) O Tradizionali (HDD)</u></a></li>
-<li><a href="https://article-files.techidaily.com/diy-filming-hacks-to-learn-and-implement-at-home-for-2024/"><u>DIY Filming Hacks to Learn and Implement at Home for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/genuine-insight-into-lightcut-the-ultimate-ai-powered-video-editor-for-your-mobile-devices-android-and-ios/"><u>Genuine Insight Into LightCut: The Ultimate AI-Powered Video Editor for Your Mobile Devices (Android & iOS)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-capturing-the-ultimate-xbox-experience-a-screen-recorders-manual/"><u>In 2024, Capturing the Ultimate Xbox Experience A Screen Recorder's Manual</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-ace-2-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Ace 2 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revitalize-your-iphone-four-effective-methods-to-recover-data-from-icloud/"><u>Revitalize Your iPhone: Four Effective Methods to Recover Data From iCloud</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secure-strategies-leveraging-chatgpt-responsibly-in-your-practice-as-a-therapist/"><u>Secure Strategies: Leveraging ChatGPT Responsibly in Your Practice as a Therapist</u></a></li>
-<li><a href="https://app-tips.techidaily.com/uncover-secrets-of-stealthy-iphone-programs-strategies-and-methods/"><u>Uncover Secrets of Stealthy iPhone Programs: Strategies and Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620190018-unlock-free-iphone-and-android-entertainment-with-appcake-get-all-your-favorite-cracked-apps-and-games-now/"><u>Unlock Free iPhone & Android Entertainment with AppCake - Get All Your Favorite Cracked Apps & Games Now</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-how-to-prevent-and-mend-streaming-hiccups-in-fb-livestran/"><u>[New] 2024 Approved How to Prevent and Mend Streaming Hiccups in FB Livestran</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-evaluating-freenocam-for-professional-webcam-use/"><u>[New] In 2024, Evaluating FreenoCam for Professional Webcam Use</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-accurate-chart-watcher-master-your-video-rankings/"><u>[Updated] Accurate Chart Watcher Master Your Video Rankings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-streaming-showdown-gopro-hero5-black-vs-virb-ultra-30/"><u>[Updated] In 2024, Streaming Showdown GoPro Hero5 Black Vs. VIRB Ultra 30</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-comprehensive-handbook-for-recording-calls/"><u>2024 Approved The Comprehensive Handbook for Recording Calls</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-your-skills-beyond-ai-explore-cutting-edge-career-opportunemail-protected/"><u>Advancing Your Skills Beyond AI - Explore Cutting-Edge Career Opportun([email Protected])!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/cutting-edge-ipad-voice-recording-tools-3p/"><u>Cutting-Edge iPad Voice Recording Tools 3P</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-artificial-intelligence-revolutionizes-the-creation-of-eco-friendly-smart-home-devices-insights-from-a-leading-tech-firm/"><u>How Artificial Intelligence Revolutionizes the Creation of Eco-Friendly Smart Home Devices - Insights From a Leading Tech Firm</u></a></li>
+<li><a href="https://app-tips.techidaily.com/investing-in-the-future-singapore-advocates-funding-ai-integration-and-eco-friendly-technologies/"><u>Investing in the Future: Singapore Advocates Funding AI Integration and Eco-Friendly Technologies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stanford-investigation-highlights-ais-english-focused-flaw-in-chatbots-urging-diverse-language-support-zdnet/"><u>Stanford Investigation Highlights AI's English-Focused Flaw in Chatbots, Urging Diverse Language Support | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-insiders-guide-to-choosing-a-devops-path-benefits-vs-hurdles-in-detail/"><u>The Insider's Guide to Choosing a DevOps Path: Benefits Vs. Hurdles in Detail</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-it-expansion-navigating-the-increase-in-employee-burnout-solutions-for-a-healthier-workplace-zdnet/"><u>The Rise of IT Expansion: Navigating the Increase in Employee Burnout - Solutions for a Healthier Workplace | ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-selection-of-text-from-speech-applications-202/"><u>The Ultimate Selection of Text-From-Speech Applications, 202</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-webcam-apps-featuring-manycam-technology-ideal-for-facebuzz/"><u>Top Webcam Apps Featuring ManyCam Technology Ideal for Facebuzz</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uncovering-the-ultimate-ai-watermark-strategy-on-zdnet/"><u>Uncovering the Ultimate AI Watermark Strategy on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-role-of-chief-ai-officers-steps-to-secure-this-key-position/"><u>Unveiling the Role of Chief AI Officers - Steps to Secure This Key Position</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808008865-windows-10-update-assistant-what-is-it-and-how-to-uninstall-it/"><u>Windows 10 Update Assistant - What Is It and How to Uninstall It</u></a></li>
 </ul></div>
 

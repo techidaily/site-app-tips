@@ -1,7 +1,7 @@
 ---
 title: Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet
-date: 2024-11-21T21:06:58.173Z
-updated: 2024-11-23T20:24:52.019Z
+date: 2024-11-29T06:08:35.129Z
+updated: 2024-12-02T05:09:59.721Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-pro-tips-for-rapidly-creating-effective-subtitles-on-fb/"><u>[New] Pro Tips for Rapidly Creating Effective Subtitles on FB</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-snapshot-experience-mastering-snapchat-filters/"><u>[New] The Ultimate Snapshot Experience Mastering Snapchat Filters</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-navigating-the-backlink-jungle-a-video-content-guide/"><u>2024 Approved Navigating the Backlink Jungle A Video Content Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/adapting-to-an-automated-future-essential-tips-for-technology-professionals-thriving-amidst-ai-advancements-zdnet/"><u>Adapting to an Automated Future: Essential Tips for Technology Professionals Thriving Amidst AI Advancements | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-chatbot-language-bias-revealed-by-stanford-research-the-struggle-with-non-english-languages-zdnet/"><u>AI Chatbot Language Bias Revealed by Stanford Research - The Struggle with Non-English Languages | ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722969828288-download-and-update-your-synaptics-mouse-and-touchpad-drivers-for-windows-with-minimal-hassle/"><u>Download & Update Your Synaptics Mouse and Touchpad Drivers for Windows with Minimal Hassle</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-v27-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo V27 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-craft-top-notch-episodes-learn-podcast-editing-secrets-with-garageband/"><u>In 2024, Craft Top-Notch Episodes Learn Podcast Editing Secrets with GarageBand</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-htc-u23-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock HTC U23 Pattern Lock Screen</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y28-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y28 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-ai-expertise-for-non-programmers-the-need-for-multifaceted-learning-in-complex-environments-zdnet/"><u>Navigating AI Expertise for Non-Programmers - The Need for Multifaceted Learning in Complex Environments | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-old-school-it-systems-key-insights-for-managing-outdated-technologies-and-avoiding-migration-pitfalls/"><u>Navigating Old-School IT Systems: Key Insights for Managing Outdated Technologies and Avoiding Migration Pitfalls</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-pitfalls-of-outdated-systems-a-lesson-from-a-failed-technology-migration-zdnet/"><u>Navigating the Pitfalls of Outdated Systems: A Lesson From a Failed Technology Migration | ZDNet</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-video-cropping-made-easy-a-comprehensive-guide-to-using-avidemux/"><u>New In 2024, Video Cropping Made Easy A Comprehensive Guide to Using Avidemux</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revitalizing-the-tech-workforce-how-ai-tools-mitigate-job-stress-and-enhance-focus-for-it-experts-learn-from-zdnets-expert-analysis/"><u>Revitalizing the Tech Workforce: How AI Tools Mitigate Job Stress and Enhance Focus for IT Experts | Learn From ZDNet's Expert Analysis</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/seamless-transition-convert-between-xvid-and-divx-with-our-no-cost-tools/"><u>Seamless Transition: Convert Between Xvid & DivX with Our No-Cost Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-urgent-need-for-upgraded-skills-in-cybersecurity-teams-facing-legacy-system-hurdles/"><u>The Urgent Need for Upgraded Skills in Cybersecurity Teams Facing Legacy System Hurdles</u></a></li>
-<li><a href="https://app-tips.techidaily.com/when-ai-growth-meets-agile-practices-uncovering-challenges-through-latest-studies-zdnet/"><u>When AI Growth Meets Agile Practices: Uncovering Challenges Through Latest Studies | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-reveals-how-many-marketing-departments-are-leveraging-artificer-intelligence-now/"><u>ZDNet Reveals How Many Marketing Departments Are Leveraging Artificer Intelligence Now</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-11-mac-applications-for-efficient-screen-saving/"><u>[New] 2024 Approved Top 11 Mac Applications for Efficient Screen Saving</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-ace-your-films-with-these-top-15-gopro-video-luts/"><u>[Updated] Ace Your Films with These Top 15 GoPro Video LUTs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-diving-into-deep-an-in-depth-review-of-the-htc-vive-for-2024/"><u>[Updated] Diving Into Deep An In-Depth Review of the HTC Vive for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ultimate-rotation-video-mounting-for-2024/"><u>[Updated] Ultimate Rotation Video Mounting for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-voice-recording-mastery-with-ipad-tools/"><u>2024 Approved Voice Recording Mastery with iPad Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/game-optimized-screens-for-ps5-xbox-series-x-gamers/"><u>Game-Optimized Screens for PS5, Xbox Series X Gamers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-connecting-your-pc-with-icloud-through-the-icloud-control-panel/"><u>Step-by-Step Guide: Connecting Your PC with iCloud Through the iCloud Control Panel</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-3-methods-to-remove-ebooks-from-your-icloud-library-freeing-up-space/"><u>Top 3 Methods to Remove eBooks From Your iCloud Library, Freeing Up Space</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-methods-for-transferring-icloud-tunes-to-ios-and-mac-a-comprehensive-guide/"><u>Top 5 Methods for Transferring iCloud Tunes to iOS and Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-free-contact-acquisition-top-4-methods-for-seamless-retrieval-from-icloud/"><u>Unlocking the Power of Free Contact Acquisition: Top 4 Methods for Seamless Retrieval From iCloud</u></a></li>
 </ul></div>
 

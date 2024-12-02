@@ -1,7 +1,7 @@
 ---
 title: "Companies Scale Up GenAI Strategy: Insights From a New Bloomberg/ZDNet Study"
-date: 2024-10-10T04:52:40.158Z
-updated: 2024-10-11T23:39:01.864Z
+date: 2024-11-30T06:04:10.089Z
+updated: 2024-12-01T21:26:17.228Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-sound-of-you-how-to-add-a-personal-touch-with-ringtones-and-alerts-on-android-phones/"><u>[New] The Sound of You How to Add a Personal Touch with Ringtones and Alerts on Android Phones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-the-power-of-srt-editing-for-mac-users/"><u>[New] Unlocking the Power of SRT Editing for Mac Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-detect-if-someone-has-muted-or-blocked-you-on-snapchat/"><u>[Updated] How to Detect If Someone Has Muted or Blocked You on Snapchat</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-on-managing-your-iphones-icloud-storage-backup-restoration-and-deletion-tips/"><u>Complete Guide on Managing Your iPhone's iCloud Storage: Backup, Restoration & Deletion Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-on-securing-data-full-process-for-backing-up-and-synchronizing-your-iphone-via-icloud/"><u>Comprehensive Tutorial on Securing Data: Full Process for Backing Up & Synchronizing Your iPhone via iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-accessing-your-icloud-keychain-passwords-across-iphone-ipad-and-mac/"><u>Guide: Accessing Your iCloud Keychain Passwords Across iPhone, iPad & Mac</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-yuva-2-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/icloud-picture-perusal-made-easy-top-alternatives-for-non-iphone-users/"><u>ICloud Picture Perusal Made Easy – Top Alternatives for Non-iPhone Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nubia-z50s-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nubia Z50S Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS with a Mask On</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-narzo-n55-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme Narzo N55 Phone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-windows-photo-inspector-fast-edition/"><u>In 2024, Top Windows Photo Inspector, Fast Edition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-ios-photography-tips-on-managing-camera-roll-photo-library-and-pictures/"><u>Navigating iOS Photography: Tips on Managing Camera Roll, Photo Library, and Pictures</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620264415-troubleshoot-your-icloud-picture-sharing-problems-for-ios-devices-and-macbook-computers-essential-steps/"><u>Troubleshoot Your iCloud Picture Sharing Problems for iOS Devices and MacBook Computers - Essential Steps!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-cutting-to-the-chase-mastering-zoom-in-videoleap-videos/"><u>[New] In 2024, Cutting to the Chase Mastering Zoom in Videoleap Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-voice-capture-device-analysis/"><u>[New] In 2024, Voice Capture Device Analysis</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-overwatch-gameplay-recording-made-easy/"><u>2024 Approved Overwatch Gameplay Recording Made Easy</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unlocking-emotional-depth-in-self-narrated-videos-yt/"><u>2024 Approved Unlocking Emotional Depth in Self-Narrated Videos YT</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/aomei-data-recovery-and-backup-the-ultimate-solution-for-any-device-and-global-users/"><u>AOMEI Data Recovery & Backup: The Ultimate Solution for Any Device and Global Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-ubuntu-2404-the-ultimate-combination-of-speed-and-security-in-the-latest-linux-distribution-zdnet/"><u>Discover Ubuntu 24.04: The Ultimate Combination of Speed and Security in the Latest Linux Distribution | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/edit-pdf-documents-at-no-cost-with-google-docs-a-step-by-step-tutorial/"><u>Edit PDF Documents at No Cost with Google Docs: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolving-with-ubuntu-mastering-your-24-system-upgrade-journey-zdnet-insights/"><u>Evolving with Ubuntu: Mastering Your 24.# System Upgrade Journey | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-digital-manga-my-journey-with-tablets-and-ereaders-the-clear-winner/"><u>Exploring Digital Manga: My Journey with Tablets & eReaders - The Clear Winner</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-leading-screen-recording-solutions-review-by-techradar/"><u>Exploring the Leading Screen Recording Solutions : Review by TechRadar</u></a></li>
+<li><a href="https://article-files.techidaily.com/flash-flick-narrative-template/"><u>Flash Flick Narrative Template</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-sony-xperia-10-v-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Sony Xperia 10 V? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-gray-areas-of-ai-development-why-transparency-matters-more-than-ever/"><u>Navigating the Gray Areas of AI Development: Why Transparency Matters More Than Ever</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionize-your-photo-editing-skills-with-pixlr-insights-for-2024/"><u>Revolutionize Your Photo Editing Skills with Pixlr Insights for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-trend-of-low-code-and-no-code-development-its-impact-on-changing-tech-roles-discovered-with-zdnet/"><u>Rising Trend of Low-Code & No-Code Development: Its Impact on Changing Tech Roles - Discovered with ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-transformation-of-business-tech-tools-amidst-rising-ai-dominance-zdnet/"><u>The Future Transformation of Business Tech Tools Amidst Rising AI Dominance | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-next-evolution-in-coding-how-generative-ai-is-paving-the-way-from-low-code-to-no-code-systems/"><u>The Next Evolution in Coding: How Generative AI Is Paving the Way From Low-Code to No-Code Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-silent-launch-of-microsofts-new-tool-triggers-global-uproar-tech-news-insight/"><u>The Silent Launch of Microsoft's New Tool Triggers Global Uproar | Tech News Insight</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/troubleshooting-and-repairing-software-issues-on-your-pc-with-yl-computings-expert-tips/"><u>Troubleshooting and Repairing Software Issues on Your PC with YL Computing's Expert Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET
-date: 2024-11-22T20:49:06.438Z
-updated: 2024-11-23T18:51:17.171Z
+date: 2024-11-26T05:51:43.902Z
+updated: 2024-12-02T11:45:04.944Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,21 +68,22 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unleash-the-power-of-live-broadcast-recording-techniques-online/"><u>[New] 2024 Approved Unleash the Power of Live Broadcast Recording Techniques Online</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-creating-a-safe-mc-habitat-plan-6/"><u>[Updated] 2024 Approved Creating a Safe MC Habitat Plan #6</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-your-ultimate-guide-to-essential-game-worlds/"><u>2024 Approved Your Ultimate Guide to Essential Game Worlds</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-setting-up-and-accessing-kik-chat-app-for-windowsmac-users/"><u>Complete Tutorial: Setting Up & Accessing Kik Chat App for Windows/Mac Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/create-amazing-gifs-instantly-with-our-choice-of-the-10-best-free-apps-on-smartphones-iphone-and-android/"><u>Create Amazing GIFs Instantly with Our Choice of the 10 Best Free Apps on Smartphones (iPhone & Android)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/creating-anime-sounds-with-uwu-modifiers-top-three-speech-alteration-tools-for-fans/"><u>Creating Anime Sounds with UwU Modifiers: Top Three Speech Alteration Tools for Fans</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-value-in-nvme-cooling-with-our-comprehensive-review-of-the-uphere-m201-heatsink-for-under-5/"><u>Discover the Best Value in NVMe Cooling with Our Comprehensive Review of the UpHere M201 Heatsink for Under $5</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-and-installation-guide-how-to-set-up-tango-video-calls-and-chats/"><u>Download & Installation Guide: How To Set Up Tango Video Calls And Chats</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2022-launch-postponed-heres-why-and-how-it-was-resolved/"><u>Football Manager 2022 Launch Postponed - Here's Why and How It Was Resolved</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ideal-calendar-solutions-best-complimentary-and-premium-options-for-iphones/"><u>Ideal Calendar Solutions: Best Complimentary and Premium Options for iPhones</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78plus-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78+ to Outlook | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/living-the-language-life-immersion-techniques-unveiled/"><u>Living the Language Life: Immersion Techniques Unveiled</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/new-ai-contender-is-gemini-superior-to-chatgpt/"><u>New AI Contender: Is Gemini Superior to ChatGPT?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/pro-techniques-recording-your-twitch-showcase/"><u>Pro Techniques Recording Your Twitch Showcase</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192484-ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-maximize-your-gaming-experience-with-kinemaster-and-its-top-competitors-reviewed/"><u>[New] 2024 Approved Maximize Your Gaming Experience with KineMaster and Its Top Competitors Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-nikon-d850-vs-d7500-features/"><u>[New] Exploring Nikon D850 Vs D7500 Features</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-crafting-your-perfect-youtube-playlists-a-step-by-step-guide-for-2024/"><u>[Updated] Crafting Your Perfect YouTube Playlists A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-leap-towards-no-code-revolution-the-impactful-role-of-generative-artificial-intelligence-in-evolving-coding-paradigms-zdnet-insights/"><u>A Leap Towards 'No Code' Revolution: The Impactful Role of Generative Artificial Intelligence in Evolving Coding Paradigms | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/access-control-systems/"><u>Access Control Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/advanced-drawing-experience-with-the-huion-inspiroy-g10t-tablet-superior-quality-examined/"><u>Advanced Drawing Experience with the Huion Inspiroy G10T Tablet - Superior Quality Examined</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-transition-seamless-update-strategies-for-ubuntu-linux-users-moving-to-version-2404/"><u>Mastering the Transition: Seamless Update Strategies for Ubuntu Linux Users Moving to Version 24.04</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-a-tale-of-office-woes/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown: A Tale of Office Woes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/open-source-mandate-switzerlands-federal-govt-moves-all-software-public/"><u>Open-Source Mandate: Switzerland's Federal Govt. Moves All Software Public</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section/"><u>Section</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-comprehensive-list-of-point-of-sale-solutions-excluding-gpt/"><u>The Comprehensive List of Point-of-Sale Solutions Excluding GPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-impact-of-russian-aggression-on-ukraines-tech-sector-potential-risks-and-concerns/"><u>The Impact of Russian Aggression on Ukraine's Tech Sector: Potential Risks and Concerns</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranking-mac-software-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking Mac Software : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-distinctions-a-comprehensive-look-at-gpt-4-and-gpt-35/"><u>Unveiling the Distinctions: A Comprehensive Look at GPT-4 and GPT-3.5</u></a></li>
 </ul></div>
 

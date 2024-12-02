@@ -1,7 +1,7 @@
 ---
 title: How Crypto.com CEO Tackles Login Challenges Post $31 Million Hack Incident Covered by ZDNet
-date: 2024-11-18T19:24:48.390Z
-updated: 2024-11-24T03:59:18.077Z
+date: 2024-11-28T01:18:59.073Z
+updated: 2024-12-01T22:08:12.143Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Crypto.com CEO Kris Marszalek responded to complaints from thousands of users about issues logging back into their accounts after the company was [forced](https://crypto.com/product-news/crypto-com-security-report-next-steps) to change security settings following [a hack last week](https://www.zdnet.com/article/fortune-favours-the-breached-crypto-com-admits-400-users-hit-in-hack/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Crypto.com CEO Kris Marszalek responded to complaints from thousands of users ab
 [![cybersecurity-lock-resized.jpg](https://www.zdnet.com/a/img/resize/5871b5ae5b589728bdc8064555d12823acf4b63e/2020/10/27/db3c0325-2b86-435b-8efa-93828deb6b56/cybersecurity-lock-resized.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best cyber insurance The cyber insurance industry is likely to go mainstream and is a simple cost of doing business. Here are a few options to consider.  Read now](https://www.zdnet.com/article/best-cyber-insurance/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On Monday, the company [admitted](https://www.zdnet.com/article/crypto-com-confirms-483-users-hit-in-attack-that-saw-over-31m-in-coins-withdrawn/) that 483 users were affected by unauthorized cryptocurrency withdrawals on their accounts, costing a total of "4,836.26 ETH, 443.93 BTC, and approximately US$66,200 in other cryptocurrencies." At the time of the attack, that amounted to about $31 million. 
@@ -80,17 +80,19 @@ Crypto.com created a program designed to refund users who were affected by the h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-charting-the-path-to-previous-imagery-a-facebook-centric-guide/"><u>[New] Charting the Path to Previous Imagery A Facebook-Centric Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/10-best-ai-chatbot-tools-that-will-transform-how-you-communicate/"><u>10 Best AI Chatbot Tools That Will Transform How You Communicate</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-secure-and-stream-youtube-in-firefoxchrome/"><u>2024 Approved Secure & Stream YouTube in Firefox/Chrome</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/diymp4dvd/"><u>DIY！MP4ファイルをDVDビデオ形式に転換するプログラムと手順ガイド - お使い上手く！</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevenlabs-generative-voice-ai-vs-competitors-an-informed-review/"><u>ElevenLabs Generative Voice AI Vs. Competitors: An Informed Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-seamless-conversations-with-chat-gpt-expert-insights-and-review-on-the-leading-ai-bot-in-chat-technology/"><u>Experience Seamless Conversations with Chat GPT: Expert Insights and Review on the Leading AI Bot in Chat Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-elevenlabs-generative-voice-ai-and-similar-alternatives-on-the-market/"><u>Exploring ElevenLabs Generative Voice AI and Similar Alternatives on the Market</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-god-of-war-continuously-crashes-on-your-pc/"><u>Fixing the Issue: Why God of War Continuously Crashes on Your PC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-streamline-screen-capturing-in-todays-remote-meetings/"><u>In 2024, Streamline Screen Capturing in Today’s Remote Meetings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-chatgpt-204-analysis-comprehensive-overview-capabilities-and-debugging-internal-server-errors/"><u>In-Depth ChatGPT 2#04 Analysis: Comprehensive Overview, Capabilities, and Debugging Internal Server Errors</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tailoring-image-sizes-in-photos-for-ios-devices-for-2024/"><u>Tailoring Image Sizes in Photos for iOS Devices for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ltimate-pathway-to-successful-uploads-on-youtube/"><u>The Ultimate Pathway to Successful Uploads on YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nriching-youtube-channels-amp-up-with-songs/"><u>[New] Enriching Youtube Channels Amp up with Songs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-fundamentals-of-creating-alluring-podcast-descriptions/"><u>[New] In 2024, The Fundamentals of Creating Alluring Podcast Descriptions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-activate-windows-11s-automatic-high-dynamic-range-auto-hdr/"><u>[Updated] 2024 Approved Activate Windows 11'S Automatic High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-choosing-a-streaming-powerhouse-obs-or-wirecast/"><u>2024 Approved Choosing a Streaming Powerhouse OBS or Wirecast?</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/digital-evolution-in-business-the-crucial-role-of-enterprise-architects/"><u>Digital Evolution in Business: The Crucial Role of Enterprise Architects</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-innovation-beyond-apples-walls-why-diverse-workplaces-spark-creativity/"><u>Embracing Innovation Beyond Apple's Walls - Why Diverse Workplaces Spark Creativity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-revival-how-openstack-and-kata-containers-gain-new-ground-in-tech-markets-zdnet-insights/"><u>Exploring the Revival: How OpenStack and Kata Containers Gain New Ground in Tech Markets - ZDNet Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210777063-9798886168969-having-faith-is-fun/"><u>Having Faith Is Fun | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-y100-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo Y100 5G Lock Screen Password?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-films-activate-xp-movie-maker-now/"><u>In 2024, Transform Films, Activate XP Movie Maker Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/open-source-mastery-and-proficiency-with-linux-a-ticket-to-employment-resilience-amidst-economic-uncertainty-featured-on-zdnet/"><u>Open Source Mastery and Proficiency with Linux: A Ticket to Employment Resilience Amidst Economic Uncertainty | Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-higher-output-with-the-programmer-approach-learn-from-dev-teams-zdnet/"><u>Unlocking Higher Output with the Programmer Approach - Learn From Dev Teams | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-you-should-think-about-aiops-check-out-these-7-key-points-according-to-zdnet/"><u>Why You Should Think About AIOps? Check Out These 7 Key Points According To ZDNet</u></a></li>
 </ul></div>
 

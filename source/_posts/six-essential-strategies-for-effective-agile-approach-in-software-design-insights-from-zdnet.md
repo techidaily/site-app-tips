@@ -1,7 +1,7 @@
 ---
 title: Six Essential Strategies for Effective Agile Approach in Software Design - Insights From ZDNet
-date: 2024-10-07T01:21:30.696Z
-updated: 2024-10-12T01:49:58.492Z
+date: 2024-11-26T00:11:41.308Z
+updated: 2024-12-02T02:47:06.544Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,16 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -193,19 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-flutter-free-your-videos-a-selection-of-excellent-converters/"><u>[New] 2024 Approved Flutter Free Your Videos A Selection of Excellent Converters</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-leading-10-capture-applications-for-online-tutorials/"><u>[New] Leading 10 Capture Applications for Online Tutorials</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-art-of-crafting-impactful-hashtags-for-instagram-content/"><u>[New] The Art of Crafting Impactful Hashtags for Instagram Content</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-elite-workstations-for-peak-productivity/"><u>[Updated] Elite Workstations for Peak Productivity</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-high-tide-gear-surfing-camera-innovations-of-2023/"><u>2024 Approved High Tide Gear Surfing Camera Innovations of 2023</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-development-work-is-changing-a-conversation-with-atlassians-agnes-ro-as-spotted-on-zdnet/"><u>How Development Work Is Changing: A Conversation with Atlassian's Agnes Ro, as Spotted on ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-infinix-hot-40-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Infinix Hot 40</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 6 Plus</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-modern-obstacles-dealing-with-ambiguous-results-and-faulty-accuracy-in-artificial-intelligence-analysis-by-zdnet/"><u>Mastering Modern Obstacles: Dealing with Ambiguous Results and Faulty Accuracy in Artificial Intelligence | Analysis by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-windows-11-your-complete-reference-tips-and-tricks-with-zdnets-expert-guide/"><u>Mastering Windows 11: Your Complete Reference, Tips & Tricks with ZDNet's Expert Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-inaccessible-roblox-game-error-for-windows-users/"><u>Resolving Inaccessible Roblox Game Error for Windows Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-business-connectivity-celonas-60m-series-c-fuels-next-gen-enterprise-5g-solutions-zdnet-insights/"><u>Revolutionizing Business Connectivity: Celona's $60M Series C Fuels Next-Gen Enterprise 5G Solutions | ZDNet Insights</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-the-issue-when-your-iphone-notes-wont-update-across-devices/"><u>Solving the Issue: When Your iPhone Notes Won't Update Across Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unraveling-complexity-streamlining-linux-and-community-guides-for-effortless-understanding/"><u>Unraveling Complexity: Streamlining Linux & Community Guides for Effortless Understanding</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-premier-5-online-communities-ascending-beyond-twitter/"><u>[Updated] Premier 5 Online Communities Ascending Beyond Twitter</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crusader-kings-ii-troubleshooting-how-to-fix-unsuccessful-boot-issues/"><u>Crusader Kings II Troubleshooting - How to Fix Unsuccessful Boot Issues</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-capture-and-share-adventures-with-gopro-tips-for-livestreams-and-social-media/"><u>In 2024, Capture and Share Adventures with GoPro Tips for Livestreams & Social Media</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g-stylus-5g-2023-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G Stylus 5G (2023) Phone without Google Account?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-summit-of-synergy-for-vr-sensations/"><u>In 2024, Summit of Synergy for VR Sensations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainty-overcoming-ai-challenges-with-inaccurate-results-insights-from-zdnet/"><u>Navigating the Uncertainty: Overcoming AI Challenges with Inaccurate Results - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-barriers-for-significant-profit-with-artificeinvestment-an-essential-guide-for-entrepreneurs-zdnet/"><u>Overcoming Barriers for Significant Profit with Artificeinvestment: An Essential Guide for Entrepreneurs | ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-liberating-your-digital-library-by-removing-drm-from-mobipocket-ebooks/"><u>Step-by-Step Guide: Liberating Your Digital Library by Removing DRM From Mobipocket eBooks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-artificial-intelligence-success-the-critical-role-of-data-integration-strategies-and-insights-zdnet/"><u>Unlocking Artificial Intelligence Success: The Critical Role of Data Integration - Strategies & Insights | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-trustworthy-ai-watermarking-strategies-with-expert-advice-on-zdnet/"><u>Unveiling Trustworthy AI Watermarking Strategies with Expert Advice on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrading-singapores-digital-landscape-24b-allocation-for-ict-improvements-and-online-services-expansion-infotech-insights/"><u>Upgrading Singapore's Digital Landscape: $2.4B Allocation for ICT Improvements and Online Services Expansion | InfoTech Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-dev-home-for-windows-11/"><u>What Is Dev Home for Windows 11?</u></a></li>
 </ul></div>
 

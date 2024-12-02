@@ -1,7 +1,7 @@
 ---
 title: Tenfold Surge in Artifice Intelligence Initiatives This Year, Confirms ZDNet Insight Survey
-date: 2024-11-20T18:32:15.378Z
-updated: 2024-11-23T23:02:17.475Z
+date: 2024-12-01T06:45:25.963Z
+updated: 2024-12-02T10:34:39.579Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-from-transaction-to-treasure-securing-your-fb-conversations/"><u>[New] In 2024, From Transaction to Treasure Securing Your FB Conversations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>[Updated] 2024 Approved From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-seamless-creativity-on-the-go-androidios-montages-top-8/"><u>[Updated] 2024 Approved Seamless Creativity on the Go Android/iOS Montages Top 8</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-architects-crafting-fantasy-realms-for-marvel-for-2024/"><u>[Updated] Architects Crafting Fantasy Realms for Marvel for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-master-video-creation-understanding-the-role-of-camera-lenses-in-vlogging/"><u>2024 Approved Master Video Creation Understanding the Role of Camera Lenses in Vlogging</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-the-directors-toolkit-youtube-lessons-on-film-making/"><u>2024 Approved The Director's Toolkit YouTube Lessons on Film Making</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-as-a-savior-for-overworked-it-staff-mitigating-job-burnout-and-alert-fatigue-insights/"><u>AI as a Savior for Overworked IT Staff - Mitigating Job Burnout and Alert Fatigue Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-revolution-exploring-how-generative-technology-could-increase-the-volume-of-work-tech-insights-on-zdnet/"><u>AI Revolution: Exploring How Generative Technology Could Increase the Volume of Work | Tech Insights on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-audacity-over-convenience-bank-cios-call-to-elevate-ai-challenges-dismiss-lazy-prompt-creation-exclusive-on-zdnet/"><u>Embracing Audacity Over Convenience: Bank CIO's Call to Elevate AI Challenges, Dismiss Lazy Prompt Creation - Exclusive on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-opportunities-for-new-players-in-the-ai-model-development-arena-insights-from-zdnet/"><u>Exploring Opportunities for New Players in the AI Model Development Arena - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-generative-ai-could-increase-labor-demand-despite-efficiency-promises-insights-from-zdnet/"><u>How Generative AI Could Increase Labor Demand Despite Efficiency Promises: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-ai-limitations-an-in-depth-look-at-precision-challenges-by-zdnet/"><u>Mastering AI Limitations: An In-Depth Look at Precision Challenges by ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-windows-11-solutions-for-missing-class-registration-issues/"><u>Mastering Windows 11: Solutions for Missing Class Registration Issues</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-digital-defense-the-urgent-call-for-enhanced-cybersecurity-expertise-amidst-legacy-system-challenges/"><u>Navigating the Digital Defense: The Urgent Call for Enhanced Cybersecurity Expertise Amidst Legacy System Challenges</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-path-to-becoming-a-chief-artificial-intelligence-officer-insights-and-strategies/"><u>Navigating the Path to Becoming a Chief Artificial Intelligence Officer | Insights & Strategies</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/outriders-launch-errors-addressed-tips-and-tricks-for-a-successful-game-start-on-your-pc/"><u>Outriders Launch Errors Addressed - Tips and Tricks for a Successful Game Start on Your PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-thankful-discoveries-unlimited-outro-options/"><u>[New] 2024 Approved Thankful Discoveries Unlimited Outro Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-explore-a-world-of-sound-the-ultimate-guide-to-androids-music-videos/"><u>[New] In 2024, Explore a World of Sound The Ultimate Guide to Android's Music Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-laughter-lane-top-7-comedy-content-concepts-for-vloggers/"><u>[Updated] Laughter Lane Top 7 Comedy Content Concepts for Vloggers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/15407329-updated-top-6-youtube-outro-makers-lots-of-free-options/"><u>[Updated] Top 6 YouTube Outro Makers - Lots of FREE Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-methods-for-sharing-big-videos-via-whatsapp-on-your-iphone/"><u>Effective Methods for Sharing Big Videos via WhatsApp on Your iPhone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effortless-solutions-to-unstuck-windows-1-10-threads-from-stubborn-driver-errors/"><u>Effortless Solutions to Unstuck Windows 1지어 10 Threads From Stubborn Driver Errors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-techniques-to-minimize-file-size-of-audio-messages-in-whatsapp/"><u>Effortless Techniques to Minimize File Size of Audio Messages in WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-privacy-with-easy-steps-to-protect-your-whatsapp-accounts-on-smartphones/"><u>Enhance Privacy with Easy Steps to Protect Your WhatsApp Accounts on Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-intricacies-of-whatsapps-delete-for-all-functionality/"><u>Exploring the Intricacies of WhatsApp's 'Delete for All' Functionality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guaranteed-methods-restore-deleted-whatsapp-content-on-your-iphone-including-messages-photos-videos-and-audio/"><u>Guaranteed Methods: Restore Deleted WhatsApp Content on Your iPhone Including Messages, Photos, Videos & Audio</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-discreetly-adjust-and-verify-whatsapps-last-seen-feature-with-proven-tips/"><u>How to Discreetly Adjust and Verify WhatsApp's 'Last Seen' Feature with Proven Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-set-up-automatic-backups-from-whatsapp-to-google-drive-a-step-by-step-guide-for-android-and-iphone-users/"><u>How to Set Up Automatic Backups From WhatsApp to Google Drive: A Step-by-Step Guide for Android & iPhone Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/latest-update-insights-on-movavi-screen-recording-software-top-reviews-and-tips/"><u>Latest Update Insights on Movavi Screen Recording Software – Top Reviews & Tips</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/rescue-and-restore-files-on-usb-drives-pre-formatting-immediate-solutions/"><u>Rescue and Restore Files on USB Drives Pre-Formatting - Immediate Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-far-cry-n-black-display-glitches-for-a-smoother-gaming-experience/"><u>Resolving Far Cry N Black Display Glitches for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-how-to-manual-effortless-audio-clipping-from-whatsapp-chats/"><u>The Ultimate How-To Manual: Effortless Audio Clipping From WhatsApp Chats</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unparalleled-flexibility-with-msis-professional-mp161e2-a-portable-monitor-revolution/"><u>Unparalleled Flexibility with MSI's Professional MP161E2 - A Portable Monitor Revolution</u></a></li>
+<li><a href="https://app-tips.techidaily.com/whatsapp-data-resurrection-steps-for-retrieving-chat-history-stored-in-google-drive-on-iphone-solved/"><u>WhatsApp Data Resurrection: Steps for Retrieving Chat History Stored in Google Drive on iPhone [Solved]</u></a></li>
 </ul></div>
 

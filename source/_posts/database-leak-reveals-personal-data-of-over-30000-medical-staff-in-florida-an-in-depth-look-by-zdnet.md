@@ -1,7 +1,7 @@
 ---
 title: "Database Leak Reveals Personal Data of Over 30,000 Medical Staff in Florida: An In-Depth Look by ZDNet"
-date: 2024-11-20T09:50:18.880Z
-updated: 2024-11-24T09:31:25.323Z
+date: 2024-11-24T22:08:20.776Z
+updated: 2024-12-01T23:45:51.109Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ More than 30,000 US healthcare workers' personal information was recently expose
 Fowler [discovered](https://www.websiteplanet.com/blog/galeapp-leak-report/) a database run by Gale Healthcare Solutions with 170,239 exposed records that included names, emails, home addresses, photos and in some cases, Social Security Numbers as well as tax documents. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -100,19 +100,18 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-sync-across-platforms-downloading-and-storing-gifs-from-facebook/"><u>[Updated] In 2024, Sync Across Platforms Downloading and Storing GIFs From Facebook</u></a></li>
-<li><a href="https://app-tips.techidaily.com/auto-enabled-security-for-half-a-billion-googles-bold-move-to-protect-users-with-mandatory-2fa/"><u>Auto-Enabled Security for Half a Billion: Google's Bold Move to Protect Users with Mandatory 2FA</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypass-windows-11-blackout-with-easy-tips-and-tricks/"><u>Bypass Windows 11 Blackout with Easy Tips & Tricks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/craft-engaging-posts-on-social-platforms-using-the-power-of-chatgpt/"><u>Craft Engaging Posts on Social Platforms Using the Power of ChatGPT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cyber-attack-alert-hackers-leverage-covid-19-omicron-strain-fears-with-redline-malware-campaign-fortinet-insights/"><u>Cyber Attack Alert: Hackers Leverage COVID-19 Omicron Strain Fears with RedLine Malware Campaign – Fortinet Insights</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-the-complete-1password-suite-on-linux-platforms-key-features-and-reviews-zdnet-exclusive/"><u>Introducing the Complete 1Password Suite on Linux Platforms: Key Features and Reviews | ZDNet Exclusive</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lastpass-executives-assure-users-of-no-breached-accounts-following-recent-security-warnings-insights-from-zdnet/"><u>LastPass Executives Assure Users of No Breached Accounts Following Recent Security Warnings: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lastpass-to-become-separate-business-as-logmein-executes-split-strategy-tech-buzz-on-zdnet/"><u>LastPass to Become Separate Business as LogMeIn Executes Split Strategy | Tech Buzz on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-password-replaced-by-passkeys-with-1password-the-latest-update-from-zdnet/"><u>Master Password Replaced by Passkeys with 1Password - The Latest Update From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722892546482-samsungs-latest-innovation-the-galaxy-z-fold-x-get-inside-info-on-cost-release-window-and-cutting-edge-specs/"><u>Samsung's Latest Innovation - The Galaxy Z Fold X: Get Inside Info on Cost, Release Window & Cutting-Edge Specs!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-port-reset-error-on-your-usb-device-in-windows-11-a-step-by-step-guide/"><u>Solving the Port Reset Error on Your USB Device in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-project-management-through-filmora-knowledge/"><u>[New] Streamlining Project Management Through Filmora Knowledge</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-mastering-virtual-space-insights-into-vr-cinema/"><u>[Updated] 2024 Approved Mastering Virtual Space Insights Into VR Cinema</u></a></li>
+<li><a href="https://app-tips.techidaily.com/10-owners-to-consider-before-end-of-life-date-hits/"><u>10 Owners to Consider Before End-of-Life Date Hits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-premier-cloud-platforms-exploring-the-strengths-of-aws-microsoft-azure-and-google-cloud-in-hybrid-saas-markets-insights-by-zdnet/"><u>Comprehensive Review of Premier Cloud Platforms: Exploring the Strengths of AWS, Microsoft Azure & Google Cloud in Hybrid, SaaS Markets | Insights by ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-gaming-excellence-the-premier-consoles-to-try/"><u>Discover Gaming Excellence: The Premier Consoles to Try</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-elite-selection-of-macos-programs-featured-on-zdnet/"><u>Explore the Elite Selection of macOS Programs - Featured on ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/exploring-high-resolution-with-lgs-digital-cinema-31mu97-b/"><u>Exploring High-Resolution with LG's Digital Cinema 31MU97-B</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-gt-10-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix GT 10 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovating-ai-research-breaking-free-from-conventional-llm-approaches/"><u>Innovating AI Research - Breaking Free From Conventional LLM Approaches</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-competitive-edge-with-devops-best-practices-to-mitigate-risk-expertise-by-zdnet/"><u>Mastering the Art of Competitive Edge with DevOps Best Practices to Mitigate Risk | Expertise by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-2b-five-facts-to-remember-about-antenna-grounding/"><u>Section 2B: Five Facts to Remember About Antenna Grounding</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ultimate-guide-to-top-12-action-cams-with-satellite-based-locators/"><u>Ultimate Guide to Top 12 Action Cams with Satellite-Based Locators</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-nubia-red-magic-8s-proplus-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Nubia Red Magic 8S Pro+? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

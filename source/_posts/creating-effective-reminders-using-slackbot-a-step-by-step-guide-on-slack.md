@@ -1,7 +1,7 @@
 ---
 title: "Creating Effective Reminders Using Slackbot: A Step-by-Step Guide on Slack"
-date: 2024-10-10T08:07:09.933Z
-updated: 2024-10-12T11:41:57.664Z
+date: 2024-11-28T05:21:08.322Z
+updated: 2024-12-01T16:53:03.465Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,16 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,16 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -193,24 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-uncovering-true-reflection-in-distorted-facebook-video/"><u>[New] 2024 Approved Uncovering True Reflection in Distorted Facebook Video</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-take-fullscreen-digital-canvas/"><u>[New] In 2024, Take Fullscreen Digital Canvas</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/amplify-reach-todays-most-effective-instagram-tag-strategies-for-2024/"><u>Amplify Reach Today's Most Effective Instagram Tag Strategies for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-realme-v30-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Realme V30 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-company-appeal-with-low-code-solutions-insights-from-zdnet/"><u>Enhancing Company Appeal with Low-Code Solutions: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-guide-converting-and-editing-pdf-files-using-google-docs/"><u>Free Guide: Converting and Editing PDF Files Using Google Docs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docx document with Digital Signature - (Tutorial)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-12-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone 12? Heres the Best Fixes</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-learn-how-to-create-compelling-youtube-closures-economically/"><u>In 2024, Learn How To Create Compelling YouTube Closures Economically</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leveraging-artificer-intelligence-the-next-gen-kubernetes-update-revealed-infotech-today/"><u>Leveraging Artificer Intelligence: The Next-Gen Kubernetes Update Revealed | InfoTech Today</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-recall-understanding-why-it-isnt-the-ultimate-privacy-disaster-top-7-insights-to-ease-your-concerns-zdnet/"><u>Microsoft Recall: Understanding Why It Isn't the 'Ultimate Privacy Disaster' – Top 7 Insights to Ease Your Concerns | ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-guide-to-repairing-a-damaged-disk-in-steam-platform/"><u>Quick Guide to Repairing a Damaged Disk in Steam Platform</u></a></li>
-<li><a href="https://app-tips.techidaily.com/side-lobes-and-back-lobes/"><u>Side Lobes and Back Lobes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/stay-organized-with-slackbot-your-ultimate-tutorial-for-setting-effective-reminders-in-slack/"><u>Stay Organized with Slackbot: Your Ultimate Tutorial for Setting Effective Reminders in Slack</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-into-the-world-of-text-animation-14-must-see-examples-for-2024/"><u>Step Into the World of Text Animation 14 Must-See Examples for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/streamline-team-collaboration-with-to-do-list-functionality-in-slack-expert-tips-from-zdnet/"><u>Streamline Team Collaboration with To-Do List Functionality in Slack | Expert Tips From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-zero-code-development-how-generative-ai-is-transforming-the-future-beyond-low-code/"><u>The Rise of Zero-Code Development: How Generative AI Is Transforming the Future Beyond Low-Code</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-hdcp-issues-a-comprehensive-guide-on-identification-and-troubleshooting/"><u>Understanding HDCP Issues: A Comprehensive Guide on Identification & Troubleshooting</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-reveals-ai-project-expansion-explodes-to-ten-times-more-this-past-year-study-finds/"><u>ZDNet Reveals AI Project Expansion Explodes to Ten Times More This Past Year - Study Finds</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-easy-guide-start-audio-capture-on-windows-10/"><u>[New] 2024 Approved Easy Guide Start Audio Capture on Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-smart-way-to-shop-for-drones-must-know-information/"><u>[New] 2024 Approved The Smart Way to Shop for Drones Must-Know Information</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveiling-yuneecs-typhoon-h-an-aerial-powerhouse-review/"><u>[New] 2024 Approved Unveiling Yuneec’s Typhoon H An Aerial Powerhouse Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pixelpilot-screen-recorder-critique-plus-backups/"><u>[Updated] PixelPilot Screen Recorder Critique + Backups</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-prime-selection-of-innovative-vr-cycling-games-for-2024/"><u>[Updated] Prime Selection of Innovative VR Cycling Games for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/academias-dilemma-human-writing-vs-ai-assisted-paperwork/"><u>Academia’s Dilemma: Human Writing Vs. AI-Assisted Paperwork</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ais-impact-on-the-future-of-cybersecurity-employment-opportunities-zdnet/"><u>AI's Impact on the Future of Cybersecurity Employment Opportunities | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experts-rank-the-top-web-hosting-services-for-202ebyzdnet-find-your-perfect-match/"><u>Experts Rank the Top Web Hosting Services for 202Eby|ZDNET - Find Your Perfect Match!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-top-tech-pioneers-are-harnessing-the-power-of-open-source-for-groundbreaking-innovations-explore-with-zdnet/"><u>How Top Tech Pioneers Are Harnessing the Power of Open Source for Groundbreaking Innovations | Explore with ZDNET</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-15-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 15 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/moto-z2s-smarter-edge-an-exclusive-look-for-2024/"><u>Moto Z2's Smarter Edge An Exclusive Look for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-of-integrating-agile-with-artificial-intelligence-development-latest-research-reveals-complications-zdnet/"><u>Navigating the Challenges of Integrating Agile with Artificial Intelligence Development - Latest Research Reveals Complications | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapore-invests-s24-billion-in-enhancing-ict-infrastructure-and-digital-service-offerings-technews/"><u>Singapore Invests S$2.4 Billion in Enhancing ICT Infrastructure & Digital Service Offerings | TechNews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-work-unpacking-edge-technologys-impact-on-professional-advancement-with-zdnet/"><u>The Future of Work: Unpacking Edge Technology's Impact on Professional Advancement with ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-paradox-of-productivity-is-generative-ai-causing-extra-jobs-according-to-zdnet/"><u>The Paradox of Productivity: Is Generative AI Causing Extra Jobs, According to ZDNet?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-unique-benefits-of-using-auto-gpt-compared-to-chatgpt-insights-for-users/"><u>The Unique Benefits of Using Auto-GPT Compared to ChatGPT: Insights for Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-your-company-depends-on-numerous-ai-systems-insights-from-zdnet/"><u>Why Your Company Depends on Numerous AI Systems - Insights From ZDNet</u></a></li>
 </ul></div>
 

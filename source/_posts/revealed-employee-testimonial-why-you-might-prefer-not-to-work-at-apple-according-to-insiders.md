@@ -1,7 +1,7 @@
 ---
 title: "Revealed: Employee Testimonial – Why You Might Prefer Not to Work at Apple According to Insiders"
-date: 2024-11-22T17:37:10.911Z
-updated: 2024-11-23T19:24:54.819Z
+date: 2024-11-28T21:26:17.907Z
+updated: 2024-12-01T17:59:08.282Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-real-time-recording-for-gamers-explained/"><u>[New] In 2024, Real-Time Recording for Gamers Explained</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nleash-popularity-essential-hashes-for-viral-short-form-content/"><u>[New] Unleash Popularity Essential Hashes for Viral Short Form Content</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-no-stress-just-peaceful-pc-gaming/"><u>[Updated] In 2024, No Stress, Just Peaceful PC Gaming</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-declining-trust-among-business-executives-in-information-technology-insights-from-a-recent-ibm-research-exploring-the-causes-on-zdnet/"><u>1. Declining Trust Among Business Executives in Information Technology: Insights From a Recent IBM Research - Exploring the Causes on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-discovering-the-ultimate-ai-watermark-techniques-insights-from-zdnet/"><u>1. Discovering the Ultimate AI Watermark Techniques: Insights From ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-0x8024200d-stops-windows-from-updating-easy-fixes-for-a-smooth-operating-experience/"><u>Error 0X8024200d Stops Windows From Updating: Easy Fixes for a Smooth Operating Experience</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/find-the-ultimate-replacements-for-leawo-dvd-ripping-software-expert-reviews-and-comparisons/"><u>Find the Ultimate Replacements for Leawo DVD Ripping Software: Expert Reviews and Comparisons</u></a></li>
-<li><a href="https://win-blog.techidaily.com/forza-horizon-5-optimization-tips-how-to-improve-pc-performance-and-frame-rate-issues/"><u>Forza Horizon 5 Optimization Tips: How to Improve PC Performance and Frame Rate Issues</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-artificial-intelligence-may-reshape-career-prospects-in-cybersecurity-zdnet/"><u>How Artificial Intelligence May Reshape Career Prospects in Cybersecurity | ZDNet</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/join-forces-with-aomei-your-key-to-achieving-business-triumph/"><u>Join Forces with AOMEI: Your Key to Achieving Business Triumph</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-todays-dilemma-strategies-to-tackle-imprecise-outcomes-in-artifical-intelligence-expert-analysis-by-zdnet/"><u>Mastering Today’s Dilemma: Strategies to Tackle Imprecise Outcomes in Artifical Intelligence | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-legacy-systems-lessons-from-a-failed-upgrade-insights-and-strategies/"><u>Navigating Legacy Systems: Lessons From a Failed Upgrade - Insights & Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/probing-tomorrows-shields-the-next-7-tech-trends/"><u>Probing Tomorrow's Shields: The Next 7 Tech Trends</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolution-of-coding-from-rote-methods-to-ai-enhanced-software-engineering-insights-from-zdnet/"><u>The Evolution of Coding: From Rote Methods to AI-Enhanced Software Engineering - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-ten-windows-phones-for-seamless-video-streaming/"><u>Top Ten Windows Phones for Seamless Video Streaming</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-singapores-2nbillion-commitment-to-supercharge-its-it-infrastructure-and-elevate-digital-solutions-tech-insight/"><u>Unveiling Singapore's $2.nBillion Commitment to Supercharge Its IT Infrastructure and Elevate Digital Solutions | Tech Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-addressing-outdated-technology-is-crucial-a-case-study-on-migration-missteps/"><u>Why Addressing Outdated Technology Is Crucial: A Case Study on Migration Missteps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-pull-of-open-source-for-global-leaders-in-innovation/"><u>ZDNet Explores the Pull of Open Source for Global Leaders in Innovation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/hniques-to-retrieve-and-save-youtubes-iconic-images/"><u>3 Techniques to Retrieve & Save YouTube's Iconic Images</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/how-to-back-up-your-pcs-files-onto-a-usb-hdd-for-no-cost-windows-1087-guides/"><u>How to Back Up Your PC's Files Onto a USB HDD for No Cost - Windows 10/8/7 Guides</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-steps-access-your-icloud-images-from-anywhere/"><u>Simple Steps: Access Your iCloud Images From Anywhere</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211230380-9798889609964-simply-put/"><u>Simply Put | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-icloud-photo-sharing-issues-on-iphone-ipad-and-mac-a-comprehensive-guide/"><u>Solving iCloud Photo Sharing Issues on iPhone, iPad & Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/step-by-step-guide-to-restore-broken-files-in-your-windows-10-os-tech-insights-from-yl-computing/"><u>Step-by-Step Guide to Restore Broken Files in Your Windows 10 OS – Tech Insights From YL Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-securely-syncing-your-ipad-pro-mini-and-air-with-icloud-backups/"><u>Step-by-Step Guide: Securely Syncing Your iPad Pro, Mini & Air with iCloud Backups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264574-struggling-with-a-forgotten-icloud-login-discover-these-6-effective-remedies/"><u>Struggling with a Forgotten iCloud Login? Discover These 6 Effective Remedies</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

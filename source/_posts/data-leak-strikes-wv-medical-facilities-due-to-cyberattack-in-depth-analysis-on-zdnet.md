@@ -1,7 +1,7 @@
 ---
 title: Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet
-date: 2024-11-20T07:10:51.061Z
-updated: 2024-11-24T01:34:58.458Z
+date: 2024-11-29T18:04:13.506Z
+updated: 2024-12-01T23:21:05.338Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 ## Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Executive guide
@@ -20,7 +20,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 [![phishing-header.jpg](https://www.zdnet.com/a/img/resize/ac019af4c6d0d000921065b0769387a86a4afe61/2017/09/04/fc1528a9-ecf2-4e2a-b743-91f06206a23e/phishing-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) What is phishing? Everything you need to know to protect yourself from scam emails and more Don't click on that email! Find everything you need to know in this phishing guide including how to protect yourself from one of the most common forms of cyber attack.  Read now](https://www.zdnet.com/article/what-is-phishing-how-to-protect-yourself-from-scam-emails-and-more/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A hospital system in West Virginia has [suffered](https://www.prnewswire.com/news-releases/monongalia-health-system-inc-investigates-and-addresses-data-security-incident-301449436.html) a data breach resulting from a phishing attack, which gave hackers access to several email accounts. 
@@ -74,14 +74,24 @@ Mon Health started sending breach notification letters to victims on December 21
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-optimal-visual-performance-in-4k-titles/"><u>[New] 2024 Approved Optimal Visual Performance in 4K Titles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-tactics-to-maximize-engagement-with-every-reddit-post/"><u>[New] In 2024, Tactics to Maximize Engagement with Every Reddit Post</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-step-by-step-guide-to-creating-fb-slideshows/"><u>[New] Step-by-Step Guide to Creating FB Slideshows</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-top-charts-tactics-when-to-go-live-on-youtube/"><u>[Updated] Top Charts Tactics When to Go Live on YouTube</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-on-managing-your-iphones-icloud-storage-backup-restoration-and-deletion-tips/"><u>Complete Guide on Managing Your iPhone's iCloud Storage: Backup, Restoration & Deletion Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-on-securing-data-full-process-for-backing-up-and-synchronizing-your-iphone-via-icloud/"><u>Comprehensive Tutorial on Securing Data: Full Process for Backing Up & Synchronizing Your iPhone via iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/icloud-picture-perusal-made-easy-top-alternatives-for-non-iphone-users/"><u>ICloud Picture Perusal Made Easy – Top Alternatives for Non-iPhone Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-ios-photography-tips-on-managing-camera-roll-photo-library-and-pictures/"><u>Navigating iOS Photography: Tips on Managing Camera Roll, Photo Library, and Pictures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-booking-your-next-visit-at-the-apple-genius-bar/"><u>Step-by-Step Guide: Booking Your Next Visit at the Apple Genius Bar</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-become-a-gif-whisperer-crafting-images-from-vimeo-videos/"><u>[New] Become a GIF Whisperer Crafting Images From Vimeo Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-start-your-edit-journey-top-tips-for-photo-gurus-in-training/"><u>[New] Start Your Edit Journey Top Tips for Photo Gurus in Training</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-the-best-8-mirrorless-cameras-for-youtube-vloggers/"><u>[Updated] In 2024, Explore the Best 8 Mirrorless Cameras for YouTube Vloggers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analysis-top-15-youtube-channels-for-epic-product-reviews/"><u>[Updated] In-Depth Analysis Top 15 YouTube Channels for Epic Product Reviews</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-jokegenius-get-the-best-meme-app/"><u>2024 Approved JokeGenius - Get the Best Meme App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/array-synthesis/"><u>Array Synthesis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-progress-toward-a-unified-vision-insights-from-zdnet/"><u>Bridging the Tech & Business Divide: Progress Toward a Unified Vision - Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-optimization-issues-why-is-my-gpu-not-being-utilized-on-windows-11/"><u>Cyberpunk 2077 Optimization Issues: Why Is My GPU Not Being Utilized on Windows 11?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-fifa-visuals-key-youtube-video-trends/"><u>In 2024, FIFA Visuals Key YouTube Video Trends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-profits-with-windows-11-a-closer-look/"><u>Making Profits with Windows 11 - A Closer Look</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-recent-payment-platform-failures-impacts-on-smbs-business-insights/"><u>Navigating Recent Payment Platform Failures: Impacts on SMBs | Business Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-challenge-of-upgrading-from-ubuntu-2404-a-step-by-step-guide/"><u>Navigating the Challenge of Upgrading From Ubuntu 24.04 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-rise-of-cloud-technologies-amidst-dominant-on-premise-infrastructures-insights-from-zdnet/"><u>Navigating the Rise of Cloud Technologies Amidst Dominant On-Premise Infrastructures - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/screencentral-exclusive-global-views-with-homeside-links-for-2024/"><u>ScreenCentral Exclusive Global Views with Homeside Links for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-video-conference-tools-of-2022-features-and-reviews-pcmag/"><u>Top Rated Video Conference Tools of 2022: Features & Reviews - PCMag</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-antivirus-solutions-expert-review-by-zdnet/"><u>Top-Rated Antivirus Solutions - Expert Review by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ubuntu-2404-unveiled-the-latest-lightning-speed-linux-os-with-enhanced-security-features-zdnet/"><u>Ubuntu 24.04 Unveiled: The Latest, Lightning-Speed Linux OS with Enhanced Security Features | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-differences-among-battery-electric-vehicles-plug-in-hybrs-hydrogen-cell-vehicles-and-traditional-hybrids/"><u>Understanding the Differences Among Battery Electric Vehicles, Plug-In Hybrs, Hydrogen Cell Vehicles & Traditional Hybrids</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-whats-next-from-microsoft-potential-solutions-or-more-nuisances-learn-the-details-zdnet/"><u>Unveiling What's Next From Microsoft - Potential Solutions, Or More Nuisances? Learn the Details [ZDNet]</u></a></li>
 </ul></div>
 

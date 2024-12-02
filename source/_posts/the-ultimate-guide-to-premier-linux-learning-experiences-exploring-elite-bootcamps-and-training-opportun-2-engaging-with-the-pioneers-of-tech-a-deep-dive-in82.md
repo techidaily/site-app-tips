@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Premier Linux Learning Experiences: Exploring Elite Bootcamps & Training Opportun 2. Engaging with the Pioneers of Tech: A Deep Dive Into Linux Mastery Courses"
-date: 2024-10-09T23:37:17.848Z
-updated: 2024-10-12T12:19:42.490Z
+date: 2024-11-30T20:44:22.774Z
+updated: 2024-12-02T05:25:57.951Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-reducing-recording-ambiance-free-methods-and-pros-for-2024/"><u>[Updated] Reducing Recording Ambiance Free Methods and Pros for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-engineers-simple-app-shames-mcdonalds-tech-a-closer-look-at-the-fast-food-giants-missteps/"><u>1. Engineer’s Simple App Shames McDonald's Tech: A Closer Look at the Fast-Food Giant's Missteps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-the-orchard-discovering-enhanced-fulfillment-in-non-apple-workplaces-zdnet/"><u>Beyond the Orchard: Discovering Enhanced Fulfillment in Non-Apple Workplaces | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-citizen-developers-in-modern-business-workflows/"><u>Empowering Citizen Developers in Modern Business Workflows</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-essential-teacher-friendly-screen-recording-software/"><u>In 2024, Essential Teacher-Friendly Screen Recording Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-tecno-camon-20-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Tecno Camon 20 Lock Screen Password</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-online-companion-fb-stories-saver/"><u>In 2024, Online Companion Fb Stories Saver</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unlock-the-potential-of-your-instagram-content-with-video-edits/"><u>In 2024, Unlock the Potential of Your Instagram Content with Video Edits</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/innovative-listening-techniques-for-students-with-macs/"><u>Innovative Listening Techniques for Students with Macs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-website-crawling-techniques-finding-the-perfect-match-for-optimization-success/"><u>Mastering Website Crawling Techniques: Finding the Perfect Match for Optimization Success</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximize-your-productivity-with-ubuntu-2204-a-powerful-desktop-os-from-zdnet/"><u>Maximize Your Productivity with Ubuntu 22.04: A Powerful Desktop OS From ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/memo-menagerie-the-ultimate-list-of-meme-generators/"><u>Memo Menagerie The Ultimate List of Meme Generators</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transforming-your-windows-home-into-professional-grade-with-an-easy-upgrade/"><u>Step-by-Step Guide: Transforming Your Windows Home Into Professional Grade with an Easy Upgrade</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-ai-how-langchain-revolutionizes-generative-assistance/"><u>Unleashing the Power of AI: How LangChain Revolutionizes Generative Assistance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/upgrading-windows-home-to-a-pro-license-essential-tips-and-reasons-for-the-switch-techexpertise-hub/"><u>Upgrading Windows Home to a Pro License: Essential Tips & Reasons for the Switch | TechExpertise Hub</u></a></li>
-<li><a href="https://app-tips.techidaily.com/your-windows-11-journey-explore-your-five-last-choices-before-microsoft-phases-out-support/"><u>Your Windows 11 Journey: Explore Your Five Last Choices Before Microsoft Phases Out Support</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-avoiding-common-errors-perfect-tripod-usage-in-video-production-for-2024/"><u>[Updated] Avoiding Common Errors Perfect Tripod Usage in Video Production for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-best-value-for-money-8-ace-free-srt-apps-reviewed/"><u>[Updated] In 2024, Best Value for Money 8 Ace Free SRT Apps Reviewed</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-discover-powerful-tagging-tactics-a-guide-to-amplifying-freegame-content/"><u>[Updated] In 2024, Discover Powerful Tagging Tactics A Guide to Amplifying FreeGame Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-art-of-virtual-exploration-a-tactical-approach-for-2024/"><u>[Updated] The Art of Virtual Exploration A Tactical Approach for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/advanced-steganography-in-videos-hiding-the-unseen/"><u>Advanced Steganography in Videos Hiding the Unseen</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-innovations-reshaping-the-future-of-software-development-the-productivity-shift-unveiled-codedigest/"><u>AI Innovations Reshaping the Future of Software Development - The Productivity Shift Unveiled | CodeDigest</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-bandwidth-exploring-revolutionary-5g-applications-that-surpass-connectivity-deep-dive-with-zdnet/"><u>Beyond Bandwidth: Exploring Revolutionary 5G Applications That Surpass Connectivity | Deep Dive with ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-skills-beyond-ai-discover-unseen-opportunities-at-the-edge-with-insights-from-zdnet/"><u>Elevate Your Skills Beyond AI: Discover Unseen Opportunities at the Edge with Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-harness-the-business-potential-of-artificial-intelligence-despite-common-hurdles-according-to-zdnet/"><u>How to Harness the Business Potential of Artificial Intelligence Despite Common Hurdles, According to ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/premium-win-drivers-amd-excellence/"><u>Premium Win Drivers, AMD Excellence</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-xbox-sx-issues-and-repair-options/"><u>Troubleshooting Xbox S/X Issues & Repair Options</u></a></li>
 </ul></div>
 

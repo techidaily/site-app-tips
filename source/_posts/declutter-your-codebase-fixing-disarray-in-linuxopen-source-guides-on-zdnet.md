@@ -1,7 +1,7 @@
 ---
 title: "Declutter Your Codebase: Fixing Disarray in Linux/Open Source Guides on ZDNet."
-date: 2024-11-16T17:24:40.428Z
-updated: 2024-11-23T18:55:20.466Z
+date: 2024-11-30T02:44:59.301Z
+updated: 2024-12-01T23:45:38.599Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-avoiding-the-samsung-gear-360-hurdle-top-camera-alternatives-of-2023/"><u>[Updated] Avoiding the Samsung Gear 360 Hurdle - Top Camera Alternatives of 2023</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-from-capture-to-screen-the-complete-process-of-uploading-360-vids-on-youtube-for-2024/"><u>[Updated] From Capture to Screen The Complete Process of Uploading 360 Vids on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-enabling-your-brands-mobile-reach-launching-youtube-channels-with-ease/"><u>[Updated] In 2024, Enabling Your Brand's Mobile Reach Launching YouTube Channels with Ease</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-6-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 6 to Samsung | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-10-alternatives-to-app-lock-on-android-devices/"><u>Discover the Ultimate 10 Alternatives to App Lock on Android Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-hp-sound-card-software-for-free-simple-and-swift-setup-tutorials/"><u>Get HP Sound Card Software for Free: Simple & Swift Setup Tutorials</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-mastering-your-android-device-top-free-and-premium-rooting-apps/"><u>Guide: Mastering Your Android Device - Top Free & Premium Rooting Apps</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-12-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 12</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nubia-red-magic-8s-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nubia Red Magic 8S Pro to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/overcoming-dvd-encryption-for-universal-playback-on-vlc/"><u>Overcoming DVD Encryption for Universal Playback on VLC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-selection-of-android-screen-casting-apps-discover-the-top-9-options-to-enhance-your-experience/"><u>The Ultimate Selection of Android Screen Casting Apps: Discover the Top 9 Options to Enhance Your Experience</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-unbiased-news-apps-the-ultimate-list-for-both-iphone-and-android-users/"><u>Top-Rated, Unbiased News Apps: The Ultimate List for Both iPhone and Android Users</u></a></li>
-<li><a href="https://fox-http.techidaily.com/winning-with-windows-11-mastering-video-conferencing-via-zoom-for-2024/"><u>Winning with Windows 11 Mastering Video Conferencing via Zoom for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-formulating-impressive-online-media-introductions/"><u>[New] 2024 Approved Formulating Impressive Online Media Introductions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/dit-your-way-to-success-iosandroid-apps-for-youtube-shorts/"><u>[New] Edit Your Way to Success IOS/Android Apps for YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-to-dailymotion-transferring-videos-seamlessly/"><u>[New] YouTube to Dailymotion Transferring Videos Seamlessly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-and-enjoy-virtual-reality-cinema-on-your-ipad/"><u>2024 Approved Explore and Enjoy Virtual Reality Cinema on Your iPad</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-reimagining-your-message-innovative-video-concepts/"><u>2024 Approved Reimagining Your Message Innovative Video Concepts</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-complete-guide-to-adding-video-filter-magic-to-zoom-meetings/"><u>2024 Approved The Complete Guide to Adding Video Filter Magic to Zoom Meetings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-how-lastpass-leadership-addresses-safety-concerns-amidst-alarming-security-notifications-explored-by-zdnet/"><u>Inside Look: How LastPass Leadership Addresses Safety Concerns Amidst Alarming Security Notifications | Explored by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kasperskys-password-protector-exposed-generating-vulnerable-passwords-prone-to-brute-force-attacks-insights-from-zdnet/"><u>Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/major-ransomware-incident-strikes-leading-firm-superior-plus-in-natural-gas-industry-exclusive-details-on-zdnet/"><u>Major Ransomware Incident Strikes Leading Firm Superior Plus in Natural Gas Industry - Exclusive Details on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/newly-launched-full-featured-1password-app-for-linux-enthusiasts-a-closer-look-tech-news/"><u>Newly Launched Full-Featured 1Password App for Linux Enthusiasts: A Closer Look - Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-security-how-1passwords-new-feature-replaces-master-passwords-with-passkeys-insights-from-zdnet/"><u>Revolutionizing Security: How 1Password's New Feature Replaces Master Passwords with Passkeys - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/standing-youtubes-view-threshold-for-money-for-2024/"><u>Understanding Youtube’s View Threshold for Money for 2024</u></a></li>
 </ul></div>
 

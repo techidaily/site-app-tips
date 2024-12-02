@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Russian Aggression on Ukraine's Tech Sector: Potential Risks and Concerns"
-date: 2024-11-10T17:32:54.734Z
-updated: 2024-11-13T17:05:32.637Z
+date: 2024-11-25T13:00:01.155Z
+updated: 2024-12-02T13:25:36.964Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +176,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-social-synergy-blueprint-for-ig-and-tiktok-pairing/"><u>[New] 2024 Approved Social Synergy Blueprint for IG & TikTok Pairing</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-master-the-art-of-livestreaming-three-key-approaches-subscriber-less-style/"><u>[New] In 2024, Master the Art of Livestreaming Three Key Approaches, Subscriber-Less Style</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-toggle-off-instagram-tv-feature/"><u>[Updated] 2024 Approved Toggle Off Instagram TV Feature</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-imprint-clipart-with-inner-circle-light-defocus-method-ps/"><u>[Updated] In 2024, Imprint Clipart with Inner Circle Light Defocus Method PS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/avchd-on-sony-xperia-5-v-convert-mts-for-sony-xperia-5-v-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on Sony Xperia 5 V-convert MTS for Sony Xperia 5 V</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-flight-fun-in-depth-review-of-the-holy-stone-hs170-predator-mini-drone/"><u>Budget-Friendly Flight Fun: In-Depth Review of the Holy Stone HS170 Predator Mini Drone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oppo-f23-5g-lock-screen-password-by-drfone-android/"><u>How To Change Oppo F23 5G Lock Screen Password?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-f04-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy F04 to Another | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-melodic-mambos-macaws/"><u>In 2024, Melodic Mambos Macaws</u></a></li>
-<li><a href="https://app-tips.techidaily.com/permanent-removal-effective-ways-to-get-rid-of-unwanted-apps-from-your-itunes-library/"><u>Permanent Removal: Effective Ways to Get Rid of Unwanted Apps From Your iTunes Library</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-and-easy-fixes-how-to-resolve-itunes-not-opening-issue-on-your-device/"><u>Quick and Easy Fixes: How to Resolve 'iTunes Not Opening' Issue on Your Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278349-revamp-your-itunes-collection-with-these-proven-techniques-for-inserting-album-images/"><u>Revamp Your iTunes Collection with These Proven Techniques for Inserting Album Images!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-common-itunes-problems-downloading-updating-logging-in-and-connectivity/"><u>Troubleshooting Common iTunes Problems: Downloading, Updating, Logging In & Connectivity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-step-by-step-tutorial-restoring-your-itunes-collection-like-a-pro/"><u>Ultimate Step-by-Step Tutorial: Restoring Your iTunes Collection Like a Pro</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-jpeg-to-gif-with-a-click-ranked-list-of-top-free-converters-for-2024/"><u>[New] JPEG to GIF with a Click Ranked List of Top Free Converters for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-easyrecorder-pro-free-gamers-recording-aid/"><u>[Updated] In 2024, EasyRecorder Pro Free Gamers' Recording Aid</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-cut-for-quality-offline-ipad-gaming/"><u>[Updated] In 2024, The Ultimate Cut for Quality Offline iPad Gaming</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-free-mobile-radio-player-on-apple-devices-iphoneipadipod-touch/"><u>Discover the Ultimate Free Mobile Radio Player on Apple Devices (iPhone/iPad/iPod Touch)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discovering-concealed-ios-applications-a-comprehensive-guide/"><u>Discovering Concealed iOS Applications: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-strategies-for-preventing-spam-messages-in-ios-devices-guide-for-iphone-and-ipad-including-ios-18/"><u>Effective Strategies for Preventing Spam Messages in iOS Devices: Guide for iPhone & iPad (Including iOS 18)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-download-to-upload-the-art-of-online-video-editing-for-2024/"><u>From Download to Upload The Art of Online Video Editing for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-motion-graphics-with-funimate-in-depth-analysis-for-top-notch-video-production-techniques/"><u>Mastering Motion Graphics with Funimate: In-Depth Analysis for Top-Notch Video Production Techniques</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-top-video-highlight-creators-desktop-and-mobile-options-for-2024/"><u>New Top Video Highlight Creators Desktop and Mobile Options for 2024</u></a></li>
 </ul></div>
 

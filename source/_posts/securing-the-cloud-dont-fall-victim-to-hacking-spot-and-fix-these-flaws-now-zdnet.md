@@ -1,7 +1,7 @@
 ---
 title: "Securing the Cloud: Don’t Fall Victim to Hacking - Spot and Fix These Flaws Now! | ZDNet"
-date: 2024-11-16T23:14:23.791Z
-updated: 2024-11-24T02:38:01.317Z
+date: 2024-11-26T10:13:37.239Z
+updated: 2024-12-01T22:21:11.463Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -116,7 +116,7 @@ Analysis of identity and access management (IAM) polices taking into account hun
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -137,7 +137,7 @@ Another practice that isn't helping IT departments is [poor password security](h
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### special feature
@@ -157,7 +157,7 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -183,24 +183,18 @@ IT departments should also consider whether regular accounts need administrator 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-voice-tracker-for-ipad-users-for-2024/"><u>[Updated] The Ultimate Voice Tracker for iPad Users for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-6-cross-platform-explorers-navigating-iphones-on-windows-and-macos/"><u>Best 6 Cross-Platform Explorers: Navigating iPhones on Windows & macOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-virtual-reality-movie-experiences-top-15-vr-apps-for-iphone-and-android/"><u>Best Virtual Reality Movie Experiences: Top 15 VR Apps for iPhone and Android</u></a></li>
-<li><a href="https://app-tips.techidaily.com/budget-friendly-samsung-music-players-ideal-for-samsung-s8s9-users-and-pc-enthusiasts-free-and-paid-models-included/"><u>Budget-Friendly Samsung Music Players: Ideal for Samsung S8/S9 Users and PC Enthusiasts - Free and Paid Models Included</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-twistedwave-advantages-disadvantages-top-attributes-and-applications/"><u>Comprehensive Guide to TwistedWave: Advantages, Disadvantages, Top Attributes, and Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620195653-discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More</u></a></li>
-<li><a href="https://app-tips.techidaily.com/endless-interruptions-a-complete-guide-to-stopping-unsolicited-calls-on-your-smartphone/"><u>Endless Interruptions: A Complete Guide to Stopping Unsolicited Calls on Your Smartphone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/engaging-consumer-openings-for-2024/"><u>Engaging Consumer Openings for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-guide-unveiling-the-power-of-videoleap-in-2/"><u>Essential Guide: Unveiling the Power of Videoleap in 2</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-unbiased-insight-a-complete-airwatch-reviews-for-informed-decision-making/"><u>Essential Unbiased Insight: A Complete AirWatch Reviews for Informed Decision Making</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photo-refinement-essentials-expert-tips-for-efficient-background-clearance/"><u>In 2024, Photo Refinement Essentials Expert Tips for Efficient Background Clearance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-connect-to-windows-7-airspace/"><u>Instant Connect to Windows 7 Airspace</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-integration-on-linux-a-beginners-guide-using-the-bavarder-toolkit/"><u>Mastering ChatGPT Integration on Linux: A Beginner's Guide Using the Bavarder Toolkit</u></a></li>
-<li><a href="https://app-tips.techidaily.com/optimize-your-business-with-cutting-edge-android-mdm-options-and-features/"><u>Optimize Your Business With Cutting-Edge Android MDM Options and Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-a-non-functional-sennheiser-gameone-microphone-a-guide/"><u>Reviving a Non-Functional Sennheiser GameOne Microphone: A Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/tips-to-effortlessly-insert-music-into-video-editing-sessions-for-2024/"><u>Tips to Effortlessly Insert Music Into Video Editing Sessions for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-resource-allocation-analysis-software/"><u>Top Resource Allocation Analysis Software</u></a></li>
-<li><a href="https://solve-news.techidaily.com/transformacion-facil-de-formatos-ifo-a-mp4-tutorial-para-sistemas-operativos-windows-and-macos/"><u>Transformación Fácil De Formatos IFO a MP4: Tutorial Para Sistemas Operativos Windows & MacOS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/watch-live-sports-with-fubotv-streamed-through-a-firestick-how/"><u>Watch Live Sports with FuboTV Streamed Through a Firestick - How?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-interplatform-video-uploading-twitter-and-tumblr-synced/"><u>[Updated] 2024 Approved Interplatform Video Uploading Twitter & Tumblr Synced</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-mastering-makeup-tutorials-launching-your-glam-vlog/"><u>[Updated] In 2024, Mastering Makeup Tutorials Launching Your Glam Vlog</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-10-cost-free-screen-capture-apps-for-mac-users/"><u>2024 Approved Top 10 Cost-Free Screen Capture Apps for Mac Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-the-art-of-video-production-in-filmora/"><u>Decoding the Art of Video Production in Filmora</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-apples-next-move-the-development-of-an-enhanced-security-operating-system-for-ai-infrastructure/"><u>Exploring Apple's Next Move: The Development of an Enhanced Security Operating System for AI Infrastructure</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-infinix-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Infinix</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-harmonize-music-with-ppt-design/"><u>In 2024, Harmonize Music with PPT Design</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/leveraging-snap-functions-boosting-virtual-interaction-during-meets-for-2024/"><u>Leveraging Snap Functions Boosting Virtual Interaction During Meets for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/safeguard-firefox-stored-usernames-and-passwords-using-a-principal-key-tips-by-techexperts/"><u>Safeguard Firefox Stored Usernames and Passwords Using a Principal Key | Tips by TechExperts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-roadmap-for-artifice-intelligence-developments-over-the-next-ten-years-zdnet/"><u>The Roadmap for Artifice Intelligence Developments Over the Next Ten Years | ZDNet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/are-the-earning-prospects-for-youtubers-from-branded-video-plays-in-2024/"><u>What Are the Earning Prospects for YouTubers From Branded Video Plays, In 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/white-house-endorses-open-source-ai-innovation-in-recent-report-exclusive-analysis-by-zdnet/"><u>White House Endorses Open Source AI Innovation in Recent Report – Exclusive Analysis by ZDNet</u></a></li>
 </ul></div>
 

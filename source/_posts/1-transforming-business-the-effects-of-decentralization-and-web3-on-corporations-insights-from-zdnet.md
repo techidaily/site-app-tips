@@ -1,7 +1,7 @@
 ---
 title: "1. Transforming Business: The Effects of Decentralization & Web3 on Corporations - Insights From ZDNet"
-date: 2024-11-10T18:50:12.020Z
-updated: 2024-11-13T17:13:18.179Z
+date: 2024-11-30T00:03:11.588Z
+updated: 2024-12-01T17:12:40.993Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-boost-your-channel-top-14-gaming-vids-for-youtube-success-for-2024/"><u>[New] Boost Your Channel Top 14 Gaming Vids for YouTube Success for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-discover-the-leading-youtube-to-webm-converter-tools/"><u>[Updated] In 2024, Discover the Leading YouTube-to-WebM Converter Tools</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-filmmaking-demystified-on-youtube-for-2024/"><u>[Updated] The Art of Filmmaking Demystified on YouTube for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-comprehensive-guide-understanding-the-delete-for-everyone-option-in-whatsapp/"><u>A Comprehensive Guide: Understanding the 'Delete for Everyone' Option in WhatsApp</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-a-sense-of-anticipation-3-steps-to-add-a-countdown-timer-in-fcpx-for-2024/"><u>Create a Sense of Anticipation 3 Steps to Add a Countdown Timer in FCPX for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/fix-your-whatsapp-problems-with-our-expert-assistance-step-by-step-guide/"><u>Fix Your WhatsApp Problems with Our Expert Assistance - Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-v30-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme V30 Lock Screen Password</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-a23-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy A23 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/noise-free-listening-in-minutes-quick-fixes-for-your-astro-a50-speaker-woes/"><u>Noise-Free Listening in Minutes: Quick Fixes for Your Astro A50 Speaker Woes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-fixes-how-to-securely-restore-deleted-whatsapp-conversations-on-iphone-devices/"><u>Quick Fixes: How to Securely Restore Deleted WhatsApp Conversations on iPhone Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-accounts-now-unbeatable-jem-authenticator-and-password-management-solution-insights-from-zdnet/"><u>Secure Your Accounts Now! Unbeatable JEM Authenticator & Password Management Solution | Insights From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ongoing-issue-of-reused-passwords-in-the-face-of-security-breaches-cybersecurity-insights/"><u>The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-high-quality-whatsapp-video-converter-tools-you-need/"><u>Top 5 High-Quality WhatsApp Video Converter Tools You Need</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-creativity-in-ai-how-three-different-chatbots-rose-to-the-challenge/"><u>Unleashing Creativity in AI: How Three Different Chatbots Rose to the Challenge</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-find-muted-conversations-on-snapchat/"><u>[New] How to Find Muted Conversations on Snapchat</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-yt-highlights-year-end-spotlight-on-top-music-reactions/"><u>[Updated] 2024 Approved YT Highlights Year-End Spotlight on Top Music Reactions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-premier-8-screen-recorders-guidebook-for-2024/"><u>[Updated] Premier 8 Screen Recorders Guidebook for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-chatgpt-2erview-insights-on-capabilities-updates-and-handling-server-issues/"><u>Comprehensive ChatGPT 2Erview: Insights on Capabilities, Updates, and Handling Server Issues</u></a></li>
+<li><a href="https://app-tips.techidaily.com/decoding-eva-ai-a-deep-dive-into-the-transformed-ex-journey-conversational-agent/"><u>Decoding EVA AI - A Deep Dive Into the Transformed Ex Journey Conversational Agent</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-chatgpt-2024-complete-analysis-of-functionality-characteristics-and-server-hiccups/"><u>Exploring ChatGPT 2024: Complete Analysis of Functionality, Characteristics & Server Hiccups</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-correcting-libgdk-win32-20-0dll-file-missing-errors-effectively/"><u>Guide: Correcting libgdk-win32-2.0-0.dll File Missing Errors Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-locate-and-replace-missing-d3dx9nineteenth-error-files/"><u>How to Locate and Replace Missing D3dx9_nineteenth Error Files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-audio-software-for-windows-7-download-drivers-now/"><u>How to Update Audio Software for Windows 7 - Download Drivers Now</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-12-pro-4g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 12 Pro 4G FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-no-browser-scenarios-in-new-oss/"><u>Overcoming No-Browser Scenarios in New OSs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionize-conversations-with-these-top-10-artificial-intelligence-chatbot-tools/"><u>Revolutionize Conversations with These Top 10 Artificial Intelligence Chatbot Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-complete-insight-into-eva-ai-ex-journey-chatbot-a-must-read-reveal-for-tech-enthusiasts/"><u>The Complete Insight Into EVA AI (Ex-Journey) Chatbot: A Must-Read Reveal for Tech Enthusiasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-chatsonic-the-ultimate-review-for-insights-into-an-intelligent-artificial-conversational-agent/"><u>Unveiling Chatsonic: The Ultimate Review for Insights Into an Intelligent Artificial Conversational Agent</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-eva-the-ultimate-guide-to-the-former-ex-journey-ai-bot/"><u>Unveiling the Power of EVA: The Ultimate Guide to the Former Ex Journey AI Bot</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover Updates to LibreOffice for Mac Users – A Comprehensive Installation Tutorial on ZDNET
-date: 2024-11-01T16:22:52.681Z
-updated: 2024-11-04T16:30:12.261Z
+date: 2024-11-30T19:33:19.610Z
+updated: 2024-12-02T12:22:51.714Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-honorable-highlights-elite-endorsements-for-snapping-alert-songs/"><u>[New] Honorable Highlights Elite Endorsements for Snapping Alert Songs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>[New] The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-tiktok-trends-in-reading-top-picks-with-a-viral-chop/"><u>2024 Approved TikTok Trends in Reading Top Picks with a Viral Chop</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-y100i-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo Y100i to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-no-cost-android-tracking-programs-top-5-picks-for-smartphone-surveillance/"><u>Best No-Cost Android Tracking Programs: Top 5 Picks for Smartphone Surveillance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193851-discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/458001-9780307427564-forgiveness/"><u>Forgiveness | Free Book</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/ifind-data-restoration-professional-solutions-for-retrieving-files-from-damaged-external-drives/"><u>IFind Data Restoration: Professional Solutions for Retrieving Files From Damaged External Drives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/telechargeur-de-films-hd-et-4k-mac-gratuit-meilleure-solution-pour-le-streaming-en-haute-definition/"><u>Téléchargeur De Films HD Et 4K Mac Gratuit - Meilleure Solution Pour Le Streaming en Haute Définition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-must-have-mdm-solutions-expert-picks-for-optimal-mobile-control/"><u>Top 7 Must-Have MDM Solutions: Expert Picks for Optimal Mobile Control</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-clips-with-this-exceptional-android-video-editing-software/"><u>Transform Your Clips with This Exceptional Android Video Editing Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-admin-utility-remove-disable-and-manage-rooted-device-applications-easily/"><u>Ultimate Admin Utility: Remove, Disable, and Manage Rooted Device Applications Easily</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194494-ultimate-selection-of-secure-android-app-protectors-find-out-which-ones-rank-the-highest/"><u>Ultimate Selection of Secure Android App Protectors – Find Out Which Ones Rank the Highest!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unified-chat-and-call-features-on-magicapp-compatible-with-iphone-android-and-pc/"><u>Unified Chat & Call Features on MagicApp - Compatible with iPhone, Android & PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-a-guide-to-gpt-use/"><u>Unlocking Potential: A Guide to GPT Use</u></a></li>
-<li><a href="https://app-tips.techidaily.com/what-exactly-is-instant-messaging-an-in-depth-guide/"><u>What Exactly Is Instant Messaging? An In-Depth Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/xplore-beyond-youtube-with-these-top-5-video-tools/"><u>[New] Explore Beyond Youtube with These Top 5 Video Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ncome-growth-in-gaming-videos-for-2024/"><u>[New] Income Growth in Gaming Videos for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/4-excel-windows-pc/"><u>4 種 Excel專用 Windows PC 復原保存技巧</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-chatbots-struggle-beyond-english-boundaries-insights-from-a-new-stanford-research-zdnet/"><u>AI Chatbots Struggle Beyond English Boundaries - Insights From a New Stanford Research | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-pointing-exploring-the-impact-of-generative-ai-on-ux-zdnet-analysis/"><u>Beyond Clicks and Pointing: Exploring the Impact of Generative AI on UX | ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/from-citizens-to-coders-how-low-code-and-no-code-is-revolutionizing-development-in-it/"><u>From Citizens to Coders: How Low-Code and No-Code Is Revolutionizing Development in IT</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-s17-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo S17 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-effective-guide-to-cast-apple-iphone-x-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>In 2024, Effective Guide to Cast Apple iPhone X to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fast-and-furious-the-prime-5-video-clipping-tools-in-chromes/"><u>In 2024, Fast & Furious The Prime 5 Video Clipping Tools in Chromes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prowess-in-color-correction-the-ultimate-11-tutorials/"><u>In 2024, Prowess in Color Correction The Ultimate 11 Tutorials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-method-windows-clown-fish-audio-tweaker/"><u>In 2024, Streamlined Method Windows Clown Fish Audio Tweaker</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/master-the-art-of-attraction-secrets-to-viral-tiktok-unboxing-content/"><u>Master the Art of Attraction Secrets to Viral TikTok Unboxing Content</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-challenges-unlocking-the-full-potential-of-ai-in-your-business-strategy-zdnet/"><u>Navigating Challenges: Unlocking the Full Potential of AI in Your Business Strategy | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapore-invests-24-billion-in-enhancing-ict-frameworks-and-digital-service-offerings-a-deep-dive-into-the-national-strategy/"><u>Singapore Invests $2.4 Billion in Enhancing ICT Frameworks & Digital Service Offerings: A Deep Dive Into the National Strategy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-next-big-thing-the-quest-for-an-unprecedented-5g-game-changer-beyond-simple-connections-insights-from-zdnet/"><u>Unveiling the Next Big Thing: The Quest for an Unprecedented 5G Game-Changer Beyond Simple Connections - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-truth-five-common-errors-in-understanding-data-revenue-strategies-on-zdnet/"><u>Unveiling the Truth: Five Common Errors in Understanding Data Revenue Strategies on ZDNet</u></a></li>
 </ul></div>
 

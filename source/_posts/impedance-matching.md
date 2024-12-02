@@ -1,7 +1,7 @@
 ---
 title: Impedance Matching
-date: 2024-10-05T02:16:39.473Z
-updated: 2024-10-12T06:19:58.994Z
+date: 2024-11-29T07:45:28.489Z
+updated: 2024-12-02T01:34:29.421Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,16 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,19 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-from-creation-your-guide-to-googles-audio-upload/"><u>[New] In 2024, From Creation Your Guide to Google's Audio Upload</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mac-users-manual-recording-high-quality-audio-with-audacity/"><u>[Updated] 2024 Approved Mac Users' Manual Recording High-Quality Audio with Audacity</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/aussie-language-sayings-and-slang-for-daily-chit-chat/"><u>Aussie Language: Sayings & Slang for Daily Chit-Chat</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ciq-gains-support-from-linux-experts-as-main-backer-of-rocks-cluster-os-initiative-techinsight/"><u>CIQ Gains Support From Linux Experts as Main Backer of Rocks Cluster OS Initiative - TechInsight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exhaustion-amongst-it-specialists-positive-developments-in-sight/"><u>Exhaustion Amongst IT Specialists - Positive Developments in Sight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-best-digital-signing-applications-a-zdnet-recommendation/"><u>Exploring the Best Digital Signing Applications: A ZDNet Recommendation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oneplus-nord-3-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of OnePlus Nord 3 5G Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/implementing-fixes-for-unstartable-windows-services/"><u>Implementing Fixes for Unstartable Windows Services</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-best-solutions-for-meizu-network-unlock-by-drfone-android/"><u>In 2024, Best Solutions for Meizu Network Unlock</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-cutting-and-joining-apps-for-android-and-ios-2023-review/"><u>New Free Video Cutting and Joining Apps for Android and iOS (2023 Review)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preparing-for-the-future-five-must-know-steps-as-microsofts-windows-support-nears-its-end-according-to-zdnet/"><u>Preparing for the Future: Five Must-Know Steps as Microsoft's Windows ^Support Nears Its End, According to ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-remote-communication-the-emergence-of-an-innovative-lip-reading-challenger-for-microsoft-teams-and-zoom-zdnet/"><u>Revolutionizing Remote Communication: The Emergence of an Innovative Lip-Reading Challenger for Microsoft Teams & Zoom | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-seamlessly-connecting-google-drive-with-slack-tips-from-zdnet/"><u>Step-by-Step Guide: Seamlessly Connecting Google Drive with Slack – Tips From ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-elevate-your-ae-projects-with-top-10-texts-for-2024/"><u>[New] Elevate Your AE Projects with Top 10 Texts for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-optimize-frame-rates-for-maximum-gameplay-immersion/"><u>[Updated] 2024 Approved Optimize Frame Rates for Maximum Gameplay Immersion</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-uncover-the-hidden-gems-of-the-youtube-tv-experience/"><u>[Updated] In 2024, Uncover the Hidden Gems of the YouTube TV Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-insider-secrets-smooth-videophoto-transfer-to-windows-11/"><u>2024 Approved Insider Secrets Smooth Video/Photo Transfer to Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adaptive-antenna-arrays-dynamically-alter-their-radiation-patterns-in-response-to-environmental-changes-optimizing-communication-links-with-moving-targets-o76/"><u>Adaptive Antenna Arrays Dynamically Alter Their Radiation Patterns in Response to Environmental Changes, Optimizing Communication Links with Moving Targets or Fluctuating Interference Conditions.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-security-at-risk-with-generative-ai-crowdstrike-cto-alerts-in-latest-analysis-for-zdnet/"><u>Enterprise Security at Risk with Generative AI, CrowdStrike CTO Alerts in Latest Analysis for ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-linux-69-kernel-improvements-a-ranking-digitalreviewer/"><u>Essential Linux 6.9 Kernel Improvements: A Ranking - DigitalReviewer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-updating-dns-configuration-on-android-phones-and-tablets/"><u>Expert Tips for Updating DNS Configuration on Android Phones and Tablets</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-officejet-5740-drivers-download-for-windows-11108/"><u>HP OfficeJet 5740 Drivers Download for Windows 11/10/8</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-traversing-the-terrain-of-facebooks-video-hub/"><u>In 2024, Traversing the Terrain of Facebook’s Video Hub</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-devops-adoption-in-business-strategies-for-staying-ahead-while-reducing-risks-insights-from-zdnet/"><u>Mastering DevOps Adoption in Business: Strategies for Staying Ahead While Reducing Risks - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/senior-solutions-enhancing-older-windows-pc-usage/"><u>Senior Solutions: Enhancing Older Windows PC Usage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-nvidias-secret-sauce-a-deep-dive-into-gpu-driver-source-release/"><u>Unveiling Nvidia’s Secret Sauce: A Deep Dive Into GPU Driver Source Release</u></a></li>
+<li><a href="https://app-tips.techidaily.com/veteran-linus-developers-endorse-ciq-the-principal-patron-for-rocky-linuxs-launch-computing-world/"><u>Veteran Linus Developers Endorse CIQ: The Principal Patron for Rocky Linux's Launch | Computing World</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses the Importance of AI Integration and Rust Language in Evolving the Linux Kernel - The Core Aspect Driving Tech Forward
-date: 2024-10-29T16:28:20.740Z
-updated: 2024-11-04T16:44:46.945Z
+date: 2024-11-26T09:33:59.100Z
+updated: 2024-12-02T06:20:46.488Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,16 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,16 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -118,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -193,19 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-discovery-of-the-best-10-sites-for-pristine-images/"><u>[New] Exclusive Discovery of the Best 10 Sites for Pristine Images</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-rectifying-half-volume-issues-on-fb-media/"><u>2024 Approved Rectifying Half-Volume Issues on Fb Media</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/amazon-vs-samsung-tablet-showdown-which-tech-giant-wins-your-purchase/"><u>Amazon Vs. Samsung Tablet Showdown: Which Tech Giant Wins Your Purchase?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-uwu-text-to-speech-apps-mastering-anime-character-vocalization-techniques/"><u>Best UwU Text-to-Speech Apps: Mastering Anime Character Vocalization Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/concealing-applications-a-step-by-step-guide-for-android-ios-devices/"><u>Concealing Applications: A Step-by-Step Guide for Android, iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-excellent-gps-software-for-android-devices-a-comprehensive-guide/"><u>Free Excellent GPS Software for Android Devices - A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-artistic-science-behind-youtube-live-imagery/"><u>In 2024, The Artistic Science Behind YouTube Live Imagery</u></a></li>
-<li><a href="https://facebook.techidaily.com/opting-out-of-iphones-personal-data-harvesting/"><u>Opting Out of iPhones' Personal Data Harvesting</u></a></li>
-<li><a href="https://facebook.techidaily.com/requesting-a-sellers-credit-on-social-media-platform-fb/"><u>Requesting a Seller's Credit on Social Media Platform FB</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-redownload-or-restore-your-bought-apps-and-in-app-items-on-ios/"><u>Step-by-Step Guide: Redownload or Restore Your Bought Apps & In-App Items on iOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-xvid-media-player-compatible-with-windows-macos-android-and-iphone/"><u>Top Rated Xvid Media Player: Compatible with Windows, MacOS, Android & iPhone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tip-fixing-the-video-cannot-load-error-code-224003/"><u>Troubleshooting Tip: Fixing the 'Video Cannot Load - Error Code 224003'</u></a></li>
-<li><a href="https://win-able.techidaily.com/understanding-and-solving-the-windows-10-causality-of-0xc19001e1-errors/"><u>Understanding and Solving the Windows 10 Causality of 0Xc19001e1 Errors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-bridging-the-gap-between-youtube-and-instagram-stories-effectively/"><u>[New] 2024 Approved Bridging the Gap Between YouTube & Instagram Stories Effectively</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-full-feature-analysis-videon-plus-suite-the-edit-experience-for-2024/"><u>[New] Full Feature Analysis Videon Plus Suite – The Edit Experience for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-top-photo-protection-apps-reviewed-for-2024/"><u>[New] The Top Photo Protection Apps Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-youtube-cc-licensing-for-video-creators/"><u>[Updated] Understanding YouTube CC Licensing for Video Creators</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-initial-steps-creating-a-new-twitter-identity/"><u>2024 Approved Initial Steps Creating a New Twitter Identity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-ai-is-revolutionizing-teamwork-among-developers-and-business-professionals-insights-from-zdnet/"><u>How AI Is Revolutionizing Teamwork Among Developers and Business Professionals - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-visual-data-extractor/"><u>In 2024, Visual Data Extractor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-improvements-and-fixes-in-the-driver-update-for-logitech-extreme-3d-pro/"><u>Latest Improvements & Fixes in the Driver Update for Logitech Extreme 3D Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-surge-of-edge-computing-devices-implications-for-professional-growth-and-opportunities-zdnet/"><u>Navigating the Surge of Edge Computing Devices: Implications for Professional Growth and Opportunities | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prepare-your-leaders-why-managerial-training-is-key-for-successful-ai-integration/"><u>Prepare Your Leaders: Why Managerial Training Is Key for Successful AI Integration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-ui-with-ai-the-end-of-traditional-interfaces-zdnet-insights/"><u>Revolutionizing UI with AI: The End of Traditional Interfaces | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/survey-finds-quarter-of-it-workers-considering-job-switches-insights-from-zdnet/"><u>Survey Finds Quarter of IT Workers Considering Job Switches - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-5-photo-background-changer-apps-for-iphone-x87/"><u>Top 5 Photo Background Changer Apps for iPhone X/8/7</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-to-eliminate-minecraft-lag-issues/"><u>Top Strategies to Eliminate Minecraft Lag Issues</u></a></li>
 </ul></div>
 

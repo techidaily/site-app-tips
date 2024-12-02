@@ -1,7 +1,7 @@
 ---
 title: Safeguard Firefox Stored Usernames and Passwords Using a Principal Key | Tips by TechExperts
-date: 2024-11-12T16:00:56.522Z
-updated: 2024-11-13T17:45:46.394Z
+date: 2024-11-26T23:50:13.693Z
+updated: 2024-12-01T22:22:24.870Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-easily-store-linkedin-videos-here-are-6-optimal-tools-for-it-for-2024/"><u>[Updated] Easily Store LinkedIn Videos - Here Are 6 Optimal Tools for It for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/10-best-ai-powered-chatbots-that-will-transform-how-you-communicate/"><u>10 Best AI-Powered Chatbots That Will Transform How You Communicate</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-precious-chrome-companion-ringtones/"><u>2024 Approved Precious Chrome Companion Ringtones</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/6-most-useful-adobe-premiere-tips-for-better-video-editing/"><u>6 Most Useful Adobe Premiere Tips for Better Video Editing</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/a-step-by-step-guide-to-microsoft-teams-snap-photos/"><u>A Step-by-Step Guide to Microsoft Teams Snap Photos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/chatgpt-2024-ultimate-review-unpacking-advanced-features-and-solving-internal-server-malfunctions/"><u>ChatGPT 2024 Ultimate Review: Unpacking Advanced Features and Solving Internal Server Malfunctions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-elevenlabs-generative-voice-ai-options-and-reviews/"><u>Comprehensive Analysis of ElevenLabs' Generative Voice AI: Options & Reviews</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-top-rtf-helicopter-blade-e-flite-mcx2-unboxing-and-performance-analysis/"><u>Comprehensive Guide: Top RTF Helicopter Blade E-Flite mCX2 Unboxing and Performance Analysis</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-data-retrieval-tool-restore-lost-data-from-honor-x7b-by-fonelab-android-recover-data/"><u>Honor Data Retrieval tool – restore lost data from Honor X7b</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-review-of-elevenlabs-genai-vs-other-voice-generation-technologies/"><u>In-Depth Review of ElevenLabs' GenAI Vs. Other Voice Generation Technologies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/must-know-review-inside-look-at-the-revolutionary-eva-previously-ex-journey-chatbot/"><u>Must-Know Review: Inside Look at the Revolutionary EVA (Previously Ex Journey) Chatbot</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-logitech-headset-drivers-update-guide/"><u>Speedy Logitech Headset Drivers Update Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-complete-insight-into-eva-ai-ex-journey-chatbot-a-must-read-reveal-for-tech-enthusiasts/"><u>The Complete Insight Into EVA AI (Ex-Journey) Chatbot: A Must-Read Reveal for Tech Enthusiasts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-solving-ntdlldll-issues-on-various-windows-versions/"><u>Ultimate Guide: Solving ntdll.dll Issues on Various Windows Versions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-chatsonic-the-ultimate-review-for-insights-into-an-intelligent-artificial-conversational-agent/"><u>Unveiling Chatsonic: The Ultimate Review for Insights Into an Intelligent Artificial Conversational Agent</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-understanding-the-impact-of-nikon-d500s-4k-output/"><u>[Updated] In 2024, Understanding the Impact of Nikon D500's 4K Output</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-spread-laughter-with-simple-steps-in-kinemaster/"><u>[Updated] Spread Laughter with Simple Steps in KineMaster</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-2023-how-to-share-a-tiktok-video-on-twitter/"><u>2024 Approved 2023 | How to Share A Tiktok Video on Twitter?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95625630-9789352150120-aao-jadu-sikhen/"><u>AAO JADU SIKHEN | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/authentic-evaluation-discovering-the-power-of-lightcut-ai-video-editing-app-on-android-and-ios/"><u>Authentic Evaluation: Discovering the Power of LightCut AI Video Editing App on Android and iOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-app-lock-replacements-for-android-the-top-10-picks/"><u>Best App Lock Replacements for Android : The Top 10 Picks</u></a></li>
+<li><a href="https://win-premium.techidaily.com/best-free-tools-the-top-5-alternatives-to-eagleget-for-saving-videos-and-music-without-internet/"><u>Best Free Tools: The Top 5 Alternatives To EagleGet For Saving Videos & Music Without Internet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-bluestacks-unveiling-all-the-essentials/"><u>Comprehensive Guide to BlueStacks: Unveiling All the Essentials</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-analyzing-the-features-of-picku-app-and-its-affordable-photoshop-substitutes/"><u>Comprehensive Guide: Analyzing the Features of PickU App and Its Affordable Photoshop Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-on-converting-gif-files-to-apng-format-with-software-such-as-ezgif-and-aiseesoft/"><u>Comprehensive Tutorial on Converting GIF Files to APNG Format with Software Such as Ezgif & Aiseesoft</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193990-experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-ultimate-5-choices-of-wi-fi-based-chat-applications-for-effortless-texting-online/"><u>Exploring the Ultimate 5 Choices of Wi-Fi Based Chat Applications for Effortless Texting Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tech-triad-analysis-unraveling-the-vr-ar-mr-tapestry-for-2024/"><u>Tech Triad Analysis Unraveling the VR-AR-MR Tapestry for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-professionals-selection-top-5-drones-ranked-for-2024/"><u>The Professionals' Selection Top 5 Drones Ranked for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/time-traveling-through-tech-uncovering-the-capabilities-of-the-once-popular-netgear-c3000-router-and-modem-duo/"><u>Time Traveling Through Tech: Uncovering the Capabilities of the Once-Popular Netgear C3000 Router and Modem Duo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tracking-engagement-finding-out-who-appreciated-your-instagram-posts/"><u>Tracking Engagement: Finding Out Who Appreciated Your Instagram Posts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-reddit-presence-with-these-tactics/"><u>Transform Your Reddit Presence with These Tactics</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-full-simplemdm-must-know-reviews-for-your-ios-and-mac-experience/"><u>Unveiling Full SimpleMDM: Must-Know Reviews for Your iOS and Mac Experience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-vita-your-ultimate-guide-to-mastering-the-cutting-edge-video-editor/"><u>Unveiling the Power of VITA: Your Ultimate Guide to Mastering the Cutting-Edge Video Editor</u></a></li>
 </ul></div>
 

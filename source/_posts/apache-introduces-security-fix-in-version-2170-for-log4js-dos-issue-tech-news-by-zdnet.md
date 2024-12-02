@@ -1,7 +1,7 @@
 ---
 title: Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet
-date: 2024-11-21T17:37:10.056Z
-updated: 2024-11-23T16:29:08.136Z
+date: 2024-11-29T11:33:27.210Z
+updated: 2024-12-02T08:58:48.975Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -112,7 +112,7 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -190,16 +190,24 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-floating-frames-the-ultimate-guide-to-pip-with-netflix/"><u>[New] In 2024, Floating Frames The Ultimate Guide to PIP with Netflix</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-ultimate-guide-to-using-telegram-web-effectively/"><u>[New] In 2024, The Ultimate Guide to Using Telegram Web Effectively</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-deciphering-intermittent-stoppages-in-photobooth-videos-for-2024/"><u>[Updated] Deciphering Intermittent Stoppages in Photobooth Videos for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cybersecurity-titans-unite-zerofox-acquires-idx-aligning-with-landf-for-an-impressive-14-billion-powerhouse-revealed-by-zdnet/"><u>Cybersecurity Titans Unite! ZeroFox Acquires IDX, Aligning with L&F for an Impressive $1.4 Billion Powerhouse Revealed by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-does-the-bitwarden-prompt-for-master-password-work-tips-to-turn-it-on-easily/"><u>How Does the Bitwarden Prompt for Master Password Work? Tips to Turn It On Easily!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo S18e? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/major-new-features-1password-mobile-app-receives-extensive-upgrade-zdnet/"><u>Major New Features: 1Password Mobile App Receives Extensive Upgrade - ZDNet</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-final-cut-pro-x-crash-fix-solutions/"><u>New 2024 Approved Final Cut Pro X Crash Fix Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-password-security-tools-of-2024-professional-reviews-zdnet/"><u>Top-Ranked Password Security Tools of 2024: Professional Reviews | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-a-safer-digital-life-a-detailed-review-of-two-revolutionary-passwordless-managers/"><u>Unlocking a Safer Digital Life: A Detailed Review of Two Revolutionary Passwordless Managers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-all-encompassing-look-at-the-ricoh-theta-s-design/"><u>[New] In 2024, All-Encompassing Look at the Ricoh Theta S Design</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-innovative-ways-to-infuse-voiceovers-into-your-media/"><u>[New] Innovative Ways to Infuse Voiceovers Into Your Media</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-editors-guide-best-for-youtube-content/"><u>[Updated] 2024 Approved The Ultimate Editor's Guide Best for YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-monetization-potential-with-youtube-ad-strategies-for-2024/"><u>[Updated] Harnessing Monetization Potential with YouTube Ad Strategies for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advanced-array-designs-employ-strategies-like-amplitude-tapering-and-null-steering-algorithms-to-control-side-lobes-for-improved-directivity-and-reduced-int87/"><u>Advanced Array Designs Employ Strategies Like Amplitude Tapering and Null-Steering Algorithms to Control Side Lobes for Improved Directivity and Reduced Interference Potential.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-initiatives-surge-by-10x-in-recent-year-insights-from-latest-research-zdnet/"><u>AI Initiatives Surge by 10X in Recent Year - Insights From Latest Research | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/collaboration-ensures-continued-life-for-linux-414-long-term-support-version-zdnet-tech-news/"><u>Collaboration Ensures Continued Life for Linux 4.14 Long-Term Support Version | ZDNET Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/conquering-chaos-in-linuxopen-source-guidebooks-explore-our-streamlined-remedy-zdnet/"><u>Conquering Chaos in Linux/Open-Source Guidebooks: Explore Our Streamlined Remedy | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/could-microsofts-new-offering-soothe-or-annoy-you-expert-analysis-by-zdnet-revealed/"><u>Could Microsoft's New Offering Soothe or Annoy You? Expert Analysis by ZDNet Revealed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-barriers-how-firms-find-it-challenging-to-leverage-generative-ai-according-to-deloittes-latest-insights/"><u>Exploring the Barriers: How Firms Find It Challenging to Leverage Generative AI According to Deloitte's Latest Insights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a14-4gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A14 4Gwith/without a PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-laserjet-printer-support-find-and-install-the-correct-windows-p1102w-driver-software-now/"><u>HP LaserJet Printer Support: Find and Install the Correct Windows P1102w Driver Software Now!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplified-srt-transformation-from-ttml-xml-and-ssa/"><u>In 2024, Simplified SRT Transformation From TTML, XML & SSA</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidiaintel-card-syncing-a-win11-update-success-story/"><u>Nvidia/Intel Card Syncing, A Win11 Update Success Story</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/proven-strategies-for-effective-phone-note-taking-for-2024/"><u>Proven Strategies for Effective Phone Note-Taking for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/surprising-upsides-for-it-professionals-facing-burnout-insights-from-zdnets-latest-article/"><u>Surprising Upsides for IT Professionals Facing Burnout: Insights From ZDNet's Latest Article</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-link-between-kernel-vulnerabilities-and-linux-system-security-proactive-measures-for-protection/"><u>Understanding the Link Between Kernel Vulnerabilities and Linux System Security: Proactive Measures for Protection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleash-efficiency-on-the-linux-platform-explore-ubuntu-2204-as-your-workhorse-insights-by-zdnet/"><u>Unleash Efficiency on the Linux Platform - Explore Ubuntu 22.04 as Your Workhorse | Insights by ZDNET</u></a></li>
 </ul></div>
 

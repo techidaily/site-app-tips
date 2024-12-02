@@ -1,7 +1,7 @@
 ---
 title: Can't Remember Your Passwords? Discover How a Password Manager Can Help | CNBC
-date: 2024-11-18T10:00:25.479Z
-updated: 2024-11-23T20:33:21.574Z
+date: 2024-11-26T22:25:57.846Z
+updated: 2024-12-02T13:11:22.496Z
 tags:
   - password-manager
 categories:
@@ -105,10 +105,6 @@ Direct LinkEmbed Code
 
 Close Modal Dialog
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** recommends
 
 [The best password managers for business Everyone needs a password manager. It's the only way to maintain unique, hard-to-guess credentials for every secure site you and your team access daily.  Read now](https://www.zdnet.com/article/best-password-manager/)
@@ -165,6 +161,10 @@ In this article, I explain why I consider a password manager essential. I also t
 
 * **See: [Best password manager in 2021](https://www.zdnet.com/article/best-password-manager/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The case for password managers 
 
 You can choose from dozens of third-party password manager apps and services, both commercial and open source. Despite some differences in user experience, they are all similar in their core features. On a PC running Windows or Linux, on a Mac running MacOS, or on a mobile device, you install an app that manages a database containing sets of credentials (usernames, passwords, and other required details). The contents of the database are protected with AES-256 encryption. To unlock the password database, you enter a decryption key (your master password) that only you know, and then allow the program to fill in the saved credentials so you can sign in on a webpage or app. 
@@ -179,10 +179,6 @@ The companies that manage and sync those saved files don't have access to the de
 
 That architecture offers five distinct advantages over a DIY solution. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 * [Best VPN services](https://www.zdnet.com/article/best-vpn/)
@@ -196,10 +192,6 @@ Most password managers include browser extensions that automatically prompt you 
 
 Contrast that approach with the inevitable friction of a manual list. You don't need to find a file and add a password to it to save a new or changed set of credentials, and you don't need to find and open that same file to copy and paste your password. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2) Password Generation 
 
 Every password manager worth its salted hash includes a password generator capable of instantly producing a truly random, never-before-used-by-you password. If you don't like that password, you can click to generate another. You can then use that random password when creating a new account or changing credentials for an existing one. 
@@ -207,6 +199,10 @@ Every password manager worth its salted hash includes a password generator capab
 Most password managers also allow you to customize the length and complexity of a generated password so you can deal with sites that have peculiar password rules. 
 
 With the possible exceptions of [John Forbes Nash, Jr.](https://en.wikipedia.org/wiki/A%5FBeautiful%5FMind%5F%28film%29), and [Raymond Babbitt](https://en.wikipedia.org/wiki/Rain%5FMan), mere mortals are not capable of such feats of randomization. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3) Phishing Protection 
 
@@ -226,6 +222,10 @@ By contrast, if you manage passwords in an encrypted file that's saved locally, 
 
 Password managers generally offer good protection against "shoulder surfing." An attacker who's able to watch you type, either live or with the help of a surveillance camera, can steal your login credentials with ease. Password managers never expose those details. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is there a case against password managers?
 
 Even armed with those arguments, when I make that recommendation to other people, I typically hear the same excuses. Honestly, though, none of them hold up to scrutiny.
@@ -243,10 +243,6 @@ And so you wind up keeping an encrypted list of passwords that are not exactly u
 **"If someone steals my password file, they have all my passwords."**
 
 No, they don't. They have an AES-256 encrypted blob that is, for all intents and purposes, useless gibberish. The only way to extract its secrets is with the decryption key, which you and you alone know. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Security
 
@@ -283,7 +279,7 @@ If you're a journalist working on security issues, or an activist in a country w
 But even if you're not an obvious candidate for targeted attacks, you can be swept up in a website breach. That's why [Have I Been Pwned?](https://haveibeenpwned.com/) exists. It's easy enough for a compromised website to force you to reset your password, minimizing the risk of that breach, but if you've used that same combination of credentials elsewhere, you're at serious risk. And no matter how careful you are, you're always at risk of being fooled into handing over your credentials in a well-designed phishing attack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Which password manager is right for you?
@@ -291,6 +287,10 @@ But even if you're not an obvious candidate for targeted attacks, you can be swe
 Any password manager solution is better than none.
 
 The simplest solution is to use the password management tools built into your default browser or operating system. That option works especially well for anyone who is technically unsophisticated, has a limited number of credentials to store, and uses hardware and services from a single ecosystem. If you're setting things up for a friend or relative who has a Mac and an iPhone, for example, Apple's Keychain will suffice. Those who live in Google's ecosystem can probably get by with Chrome's password manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### read this
 
@@ -330,22 +330,20 @@ We've put together a list of the best free and paid options here: [Best Password
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-enhance-editing-efficiency-the-finest-text-plugins-for-ae-for-2024/"><u>[New] Enhance Editing Efficiency The Finest Text Plugins for AE for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-discover-the-cheapest-action-cameras-below-100-budget/"><u>[Updated] Discover the Cheapest ACTION Cameras Below $100 Budget</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transforming-images-with-ease-learn-snapseed-today/"><u>[Updated] Transforming Images with Ease Learn Snapseed Today</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1password-secures-massive-620m-investment-recent-financing-news-covered-by-tech-industry-leaders/"><u>1Password Secures Massive $620M Investment - Recent Financing News Covered by Tech Industry Leaders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-beginners-guide-to-using-dashlane-unraveling-its-pricing-structure-and-features-as-explained-by-zdnet/"><u>A Beginner's Guide to Using Dashlane: Unraveling Its Pricing Structure and Features as Explained by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cybercriminals-exploit-fears-over-new-omicron-variant-to-target-american-academic-institutions-insights-from-zdnet/"><u>Cybercriminals Exploit Fears Over New Omicron Variant to Target American Academic Institutions - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-free-trial-of-dashlanes-premium-password-safe-save-now-at-a-bargain-price-on-zdnet/"><u>Download Free Trial of Dashlane's Premium Password Safe - Save Now at a Bargain Price on ZDNet!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expertly-vetted-leading-password-management-apps-for-2nny4-a-comprehensive-list-zdnet/"><u>Expertly Vetted Leading Password Management Apps for 2Nny4: A Comprehensive List | ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-astro-a40-microphone-issue-solutions-and-tips/"><u>Fixing the Astro A40 Microphone Issue: Solutions and Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-hackers-are-capitalizing-on-the-pandemic-a-deep-dive-into-attacks-against-us-universities-amidst-omicron-concerns-reported-by-zdnet/"><u>How Hackers Are Capitalizing on the Pandemic: A Deep Dive Into Attacks Against US Universities Amidst Omicron Concerns | Reported by ZDNET</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-8-plus-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 8 Plus Lock Screen</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-1password-top-tier-value-packed-secure-password-solution-techadvisor/"><u>In-Depth Analysis of 1Password - Top Tier, Value-Packed Secure Password Solution | TechAdvisor</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722994301576-polycyclic-aromatic-hydrocarbons-pahs-are-formed-by-fused-benzene-rings-and-can-exhibit-different-chemical-properties-than-monocyclic-aromatics/"><u>Polycyclic Aromatic Hydrocarbons (PAHs) Are Formed by Fused Benzene Rings and Can Exhibit Different Chemical Properties than Monocyclic Aromatics.</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-travel-companion-mokos-foldable-bluetooth-keyboard-for-all-your-typing-needs/"><u>The Ultimate Travel Companion: MoKo's Foldable Bluetooth Keyboard for All Your Typing Needs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-password-security-tools-comprehensive-reviews-and-comparisons-cnet/"><u>Top Rated Password Security Tools : Comprehensive Reviews and Comparisons - CNET</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/winxdvd-partnerschaft-steigern-sie-ihre-dvd-nutzung-mit-unserem-kooperationsprogramm/"><u>WinXDVD-Partnerschaft: Steigern Sie Ihre DVD-Nutzung Mit Unserem Kooperationsprogramm</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigate-your-way-to-the-best-idevice-apps-for-extracting-content-from-facebook/"><u>[New] In 2024, Navigate Your Way to the Best iDevice Apps for Extracting Content From Facebook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-scripting-summative-stories/"><u>[New] In 2024, Scripting Summative Stories</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-find-discord-server/"><u>[Updated] How to Find Discord Server</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-melody-of-affection-greatest-love-songs-to-sweeten-a-proposal/"><u>2024 Approved Melody of Affection Greatest Love Songs to Sweeten a Proposal</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-panic-five-essential-steps-for-your-windows-11-pre-end-of-support-journey-insights-from-zdnet/"><u>Don't Panic: Five Essential Steps for Your Windows 11 Pre-End-of-Support Journey - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/exclusive-access-to-the-finest-ae-templates-all-free/"><u>Exclusive Access to The Finest AE Templates, All-Free</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-picks-for-optimal-website-hosting-services-in-depth-analysis-and-comparisons-zdnet/"><u>Expert Picks for Optimal Website Hosting Services : In-Depth Analysis & Comparisons | ZDNet</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-simplified-steps-to-effortlessly-capture-your-ideas-in-a-podcast-format/"><u>In 2024, Simplified Steps to Effortlessly Capture Your Ideas in a Podcast Format</u></a></li>
+<li><a href="https://app-tips.techidaily.com/joint-development-of-scalable-llms-by-sony-intelligence-and-ai-singapore-announced-futuretech-weekly/"><u>Joint Development of Scalable LLMs by Sony Intelligence and AI Singapore Announced | FutureTech Weekly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808228029-revamp-your-display-experience-with-our-step-by-step-window-11-driver-update-tutorial/"><u>Revamp Your Display Experience with Our Step-by-Step Window 11 Driver Update Tutorial!</u></a></li>
+<li><a href="https://windows11.techidaily.com/revealing-secrets-unmasking-the-facade-of-restricted-communication/"><u>Revealing Secrets: Unmasking the Facade of Restricted Communication</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rocky-linux-backed-by-ciq-as-prominent-linux-experts-rally-together/"><u>Rocky Linux Backed by CIQ as Prominent Linux Experts Rally Together</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-tide-of-cloud-technology-vs-the-steady-ground-of-on-premise-systems-nextgentech-trends/"><u>The Rising Tide of Cloud Technology Vs. The Steady Ground of On-Premise Systems | NextGenTech Trends</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-11-indispensable-windows-and-macos-programs-you-should-know-about-insights-from-zdnet/"><u>Top 11 Indispensable Windows & macOS Programs You Should Know About - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-ending-maintenance-in-a-year-explore-these-5-alternatives-now/"><u>Windows 11 Ending Maintenance in a Year - Explore These 5 Alternatives Now!</u></a></li>
 </ul></div>
 

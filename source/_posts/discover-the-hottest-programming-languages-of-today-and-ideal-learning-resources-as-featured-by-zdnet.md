@@ -1,7 +1,7 @@
 ---
 title: Discover the Hottest Programming Languages of Today & Ideal Learning Resources as Featured by ZDNet
-date: 2024-09-29T17:21:49.497Z
-updated: 2024-10-01T06:23:07.920Z
+date: 2024-11-28T00:18:57.193Z
+updated: 2024-12-02T09:46:29.401Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-the-art-of-hashtag-usage-a-primer-for-gamers-yt/"><u>[New] 2024 Approved Mastering the Art of Hashtag Usage A Primer for Gamers YT</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-incognito-observer-of-online-chronicles-for-2024/"><u>[New] Incognito Observer of Online Chronicles for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-swiftly-mastering-the-art-of-smoothing-iphone-shots-four-methods/"><u>[New] Swiftly Mastering the Art of Smoothing iPhone Shots (Four Methods)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-revolutionizing-careers-the-inevitable-shift-to-a-world-governed-by-intelligent-agents-expert-analysis-on-zdnet/"><u>AI Revolutionizing Careers: The Inevitable Shift to a World Governed by Intelligent Agents | Expert Analysis on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-transforms-business-strategies-how-many-marketing-departments-adapt-learn-with-zdnet/"><u>AI Transforms Business Strategies: How Many Marketing Departments Adapt? - Learn with ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-benefits-against-risks-of-chatgpt/"><u>Balancing Benefits Against Risks of ChatGPT</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/download-your-favorite-film-clips-mastering-video-extraction-on-zimbio-platforms/"><u>Download Your Favorite Film Clips: Mastering Video Extraction on Zimbio Platforms</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-the-future-how-your-enterprise-will-depend-on-numerous-ai-algorithms-insights-from-zdnet/"><u>Embracing the Future: How Your Enterprise Will Depend on Numerous AI Algorithms - Insights From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-track-to-windows-help-top-5-routes-uncovered/"><u>Fast Track to Windows Help - Top 5 Routes Uncovered</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-step-by-step-for-turning-your-vids-into-beats-on-insta/"><u>In 2024, The Step-by-Step for Turning Your Vids Into Beats on Insta</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-impenetrable-ai-watermark-techniques-for-content-security-zdnet/"><u>Mastering Impenetrable AI Watermark Techniques for Content Security | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-todays-obstacles-dealing-with-imperfect-ai-output-and-doubts-on-reliability-insights-from-zdnet/"><u>Navigating Today's Obstacles: Dealing with Imperfect AI Output & Doubts on Reliability - Insights From ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-control-panel-bugs-in-pathfinder-wrath-of-the-righteune-keyboard-and-gamepad-troubleshooting-tips/"><u>Solve Control Panel Bugs in Pathfinder: Wrath of the Righteune Keyboard and Gamepad Troubleshooting Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-era-of-edge-expansion-unveiling-its-impact-on-professional-growth-and-opportunities-innovatetech/"><u>The Era of Edge Expansion: Unveiling Its Impact on Professional Growth and Opportunities | InnovateTech</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-work-exploring-unprecedented-career-paths-and-title-evolution-in-the-age-of-artificial-intelligence/"><u>The Future of Work: Exploring Unprecedented Career Paths and Title Evolution in the Age of Artificial Intelligence</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-a15-4g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy A15 4G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-efficient-backup-of-camera-roll-to-share-via-snapchat/"><u>[Updated] 2024 Approved Efficient Backup of Camera Roll to Share via Snapchat</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2022s-leading-data-security-solutions-find-the-ultimate-encryption-software-according-to-industry-experts-at-zdnet/"><u>2022'S Leading Data Security Solutions: Find the Ultimate Encryption Software According to Industry Experts at ZDNet</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/accelerer-le-demarrage-de-votre-pc-avec-windows-10-les-8-techniques-les-plus-efficaces-pour-un-lancer-detincelle/"><u>Accélérer Le Démarrage De Votre PC Avec Windows 10: Les 8 Techniques Les Plus Efficaces Pour Un Lancer D'Étincelle</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-efficiency-with-slack-mastering-the-apps-top-features-for-enhanced-workflow-zdnet/"><u>Boost Your Efficiency with Slack: Mastering the App's Top Features for Enhanced Workflow | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-future-your-5-essential-choices-as-windows-11-officially-loses-mainstream-support/"><u>Facing the Future: Your 5 Essential Choices as Windows 11 Officially Loses Mainstream Support</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/pasos-faciles-para-mover-tu-identidad-de-apple-entre-dispositivos/"><u>Pasos Fáciles Para Mover Tu Identidad De Apple Entre Dispositivos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/red-hat-unveils-innovative-tools-in-newest-enterprise-linux-release-to-simplify-hybrid-cloud-management/"><u>Red Hat Unveils Innovative Tools in Newest Enterprise Linux Release to Simplify Hybrid Cloud Management</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-list-of-window-screenshot-utilities-for-2024/"><u>Ultimate List of Window Screenshot Utilities for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-potential-the-role-of-expertise-and-protection-in-advancing-cloud-native-platforms-according-to-zdnet/"><u>Unleashing Potential: The Role of Expertise and Protection in Advancing Cloud-Native Platforms, According to ZDNet</u></a></li>
 </ul></div>
 

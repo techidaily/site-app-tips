@@ -1,7 +1,7 @@
 ---
 title: Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet
-date: 2024-11-18T02:44:34.076Z
-updated: 2024-11-23T20:20:06.651Z
+date: 2024-11-27T16:00:35.872Z
+updated: 2024-12-02T13:32:42.349Z
 tags:
   - password-manager
 categories:
@@ -32,7 +32,7 @@ If you've been around for the past 10 or so years, you know that most services r
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use iCloud as a password manager on Windows
@@ -58,7 +58,7 @@ Sign in with your Apple ID and password.
 Image: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make sure Passwords is on and click Apply
@@ -71,10 +71,6 @@ Make sure Passwords is on and click **Apply**.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Add browser extension
 
 At this point, you can also add a browser extension to [Google Chrome](https://www.zdnet.com/article/malicious-google-chrome-extensions-affect-1-4-million-users/) or [Microsoft Edge](https://www.zdnet.com/article/beef-up-microsoft-edge-with-my-favorite-add-ons/) by following the instructions in the iCloud for Windows app. 
@@ -86,7 +82,7 @@ Maria Diaz/ZDNET
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
@@ -105,10 +101,6 @@ Enter the verification code.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Try out the password manager
 
 After you set up iCloud for [Windows](https://www.zdnet.com/article/windows-11-22h2-how-to-get-microsofts-latest-os-update-and-whats-coming-next/) as a password manager and your browser extension, you can try it out by going to a website and trying to log in.
@@ -123,6 +115,10 @@ Like LastPass, the browser extension will let you fill in your login information
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do you get iCloud for Windows?  
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
@@ -132,6 +128,10 @@ To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ
 iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/article/how-to-update-all-of-your-apple-devices/): [iPhone](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fipad%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [Mac](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). To set it up, go to your iPhone's Settings and tap on your name at the top of the screen to access your iCloud settings. Then, choose iCloud. Find Passwords and Keychain and select that, then tap on Sync this iPhone to turn it on. 
 
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
 
@@ -167,22 +167,16 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-maximizing-your-zoom-experience-on-chromeos/"><u>[New] Maximizing Your Zoom Experience on ChromeOS</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-innovative-ways-to-create-captivating-slow-motion-videos-for-instagram-fame-for-2024/"><u>[Updated] Innovative Ways to Create Captivating Slow Motion Videos for Instagram Fame for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-elevate-your-video-conferencing-mastering-zoom-filters/"><u>2024 Approved Elevate Your Video Conferencing Mastering Zoom Filters</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-set-up-amd-radeon-rx-590-drivers-on-your-windows-pc/"><u>Download & Set Up AMD Radeon RX 590 Drivers on Your Windows PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-methods-for-sharing-big-videos-via-whatsapp-on-your-iphone/"><u>Effective Methods for Sharing Big Videos via WhatsApp on Your iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-strategies-managing-your-visibility-and-last-seen-timestamp-on-whatsapp/"><u>Expert Strategies: Managing Your Visibility and Last Seen Timestamp on WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-discreetly-adjust-and-verify-whatsapps-last-seen-feature-with-proven-tips/"><u>How to Discreetly Adjust and Verify WhatsApp's 'Last Seen' Feature with Proven Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-securely-transfer-whatsapp-pictures-from-ios-and-android-devices-without-losing-a-bit-explore-these-3-effective-strategies/"><u>How to Securely Transfer WhatsApp Pictures From iOS and Android Devices without Losing a Bit - Explore These 3 Effective Strategies</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/multi-photo-sharing-easy-steps-to-post-several-images-on-facebook/"><u>Multi-Photo Sharing: Easy Steps to Post Several Images on Facebook</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-mkv-software-pc-and-android-for-2024/"><u>Prime MKV Software PC & Android for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-redmi-a2plus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi Redmi A2+ to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamless-preservation-of-your-messages-syncing-whatsapp-chats-with-google-drive-tips-for-smartphones-and-tablets/"><u>Seamless Preservation of Your Messages: Syncing WhatsApp Chats with Google Drive - Tips for Smartphones and Tablets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/swift-solutions-retrieving-your-lost-whatsapp-messages-on-iphone-with-simple-techniques/"><u>Swift Solutions: Retrieving Your Lost WhatsApp Messages on iPhone with Simple Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-on-restoring-past-whatsapp-dialogues-and-mastering-the-art-of-unarchiving-texts/"><u>The Ultimate Tutorial on Restoring Past WhatsApp Dialogues & Mastering the Art of Unarchiving Texts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016681243-troubleshooting-your-windows-media-players-missing-audio-solved/"><u>Troubleshooting Your Windows Media Player's Missing Audio – Solved</u></a></li>
-<li><a href="https://app-tips.techidaily.com/update-your-contact-info-a-step-by-step-guide-to-changing-your-phone-number-on-whatsapp/"><u>Update Your Contact Info: A Step-by-Step Guide to Changing Your Phone Number on WhatsApp</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-innovative-snapchat-strategies-the-ultimate-list/"><u>[Updated] Innovative Snapchat Strategies The Ultimate List</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-quick-guide-to-influential-instagram-hashtags-for-2024/"><u>[Updated] Quick Guide to Influential #Instagram Hashtags for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/a-thorough-examination-recmeisters-screen-capture-innovations-for-2024/"><u>A Thorough Examination Recmeister's Screen Capture Innovations for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-elite-learning-management-solutions-rated-by-tech-experts-at-zdnet/"><u>Explore Elite Learning Management Solutions Rated by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-advantages-of-running-an-immutable-linux-distribution-insights-and-benefits/"><u>Exploring the Advantages of Running an Immutable Linux Distribution - Insights and Benefits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-the-booming-low-to-no-code-industry-is-reshaping-it-professions-zdnet-analysis/"><u>How the Booming Low to No-Code Industry Is Reshaping IT Professions - ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/langchains-revolutionary-approach-to-making-genai-truly-beneficial-as-featured-on-zdnet/"><u>LangChain's Revolutionary Approach to Making GenAI Truly Beneficial, as Featured on ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/obtain-latest-firmware-for-your-brother-hl-l2300d/"><u>Obtain Latest Firmware for Your Brother HL-L2300D</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overwhelmed-tech-experts-the-bright-side-revealed-zdnet-insights/"><u>Overwhelmed Tech Experts: The Bright Side Revealed | ZDNet Insights</u></a></li>
+<li><a href="https://win-great.techidaily.com/top-5-methoden-zur-behebung-von-iphones-sicherungsfehler-nr-54-eine-einfache-anleitung/"><u>Top 5 Methoden Zur Behebung Von iPhones Sicherungsfehler Nr. 54: Eine Einfache Anleitung</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-wizardry-six-routes-to-property-insight/"><u>Windows Wizardry: Six Routes to Property Insight</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Design of an Artificial Earth Plane Can Vary Depending on the Frequency of Operation; at Lower Frequencies, a Larger Physical Area May Be Needed to Effectively Reflect Radio Waves.
-date: 2024-11-02T17:32:18.293Z
-updated: 2024-11-04T16:54:01.735Z
+date: 2024-11-28T07:00:01.000Z
+updated: 2024-12-02T08:25:05.054Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,16 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-begin-with-class-in-every-screen-best-intro-editor-app/"><u>[New] In 2024, Begin with Class in Every Screen Best Intro Editor App</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-simplified-guide-to-switching-clownfish-voices-on-win-for-2024/"><u>[New] Simplified Guide to Switching Clownfish Voices on Win for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-blueprint-for-building-a-graphic-design-business/"><u>[Updated] Blueprint for Building a Graphic Design Business</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ensure-every-important-call-is-heard-uninterrupted-connectivity-even-in-silence-and-chaos-with-our-innovative-10-call-flash-applications/"><u>Ensure Every Important Call Is Heard: Uninterrupted Connectivity Even in Silence and Chaos with Our Innovative 10-Call Flash Applications</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-comparison-the-finest-streaming-tv-platforms-for-2024/"><u>In-Depth Comparison The Finest Streaming TV Platforms for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ios-10-updates-unveiled-explore-the-enhanced-lockscreen-features/"><u>IOS 10 Updates Unveiled: Explore the Enhanced Lockscreen Features</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-syncopation-spotlight-the-top-video-editing-software-for-pairing-sound-and-visuals/"><u>New Syncopation Spotlight The Top Video Editing Software for Pairing Sound and Visuals</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-free-gba-emulators-your-ultimate-guide-to-playing-game-boy-advance-titles-on-pc/"><u>Top 5 Free GBA Emulators: Your Ultimate Guide to Playing Game Boy Advance Titles on PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-file-management-apps-for-android-user-reviews-and-comparisons/"><u>Top-Rated File Management Apps for Android: User Reviews and Comparisons</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-12-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 12 screen lock without data loss</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-everyone-needs-to-try-the-newly-updated-factual-inshot-editor-unleash-your-creativity/"><u>Why Everyone Needs to Try the Newly Updated Factual InShot Editor - Unleash Your Creativity!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cost-effective-recorder-selections-for-youtube-vloggers/"><u>[New] 2024 Approved Cost-Effective Recorder Selections for YouTube Vloggers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-live-setup-in-minutes/"><u>[Updated] 2024 Approved Instagram Live Setup in Minutes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unique-expression-modifying-voices-on-instagram-media-features-for-2024/"><u>[Updated] Unique Expression Modifying Voices on Instagram Media Features for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-huawei-nova-y91-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-eye-on-video-the-premier-cameras-excellence/"><u>2024 Approved Eye on Video The Premier Cameras Excellence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-blueprint-adding-professional-effects-to-your-videos/"><u>2024 Approved The Complete Blueprint Adding Professional Effects to Your Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creative-loops-made-easy-with-the-top-4-mobile-apps-for-android-and-ios-users/"><u>Creative Loops Made Easy with the Top 4 Mobile Apps for Android and iOS Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-guide-sending-video-messages-on-skype-and-whatsapp/"><u>Easy Guide: Sending Video Messages on Skype and WhatsApp</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-delete-temporary-files-on-windows-10-solved/"><u>How to Delete Temporary Files on Windows 10 [Solved]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-iphone-maintenance-programs-unlock-premium-features-without-cost/"><u>Leading iPhone Maintenance Programs: Unlock Premium Features without Cost</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-20-parent-monitoring-software-ensuring-child-internet-safety/"><u>Top 20 Parent Monitoring Software: Ensuring Child Internet Safety</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-instant-messaging-a-comprehensive-overview/"><u>Understanding Instant Messaging: A Comprehensive Overview</u></a></li>
 </ul></div>
 

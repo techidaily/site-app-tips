@@ -1,7 +1,7 @@
 ---
 title: "Security Champions Earn Big: Bugcrowd Raises Bounty Ceiling to $1M – What ZDNET Reports on Cybersecurity Incentives"
-date: 2024-11-21T16:40:13.270Z
-updated: 2024-11-24T03:47:44.495Z
+date: 2024-11-25T00:51:16.195Z
+updated: 2024-12-02T05:34:17.319Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 The company averages about $900 per reward, but 1Password CEO Jeff Shiner said the company hopes to "attract another layer of outside expertise to make sure our systems are as secure as possible." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -70,20 +70,16 @@ The company also has an internal "Eyes of the Month program" for their employees
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-transform-brainstorms-into-youtube-channel-names/"><u>[New] 2024 Approved How To Transform Brainstorms Into YouTube Channel Names</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-effective-social-media-video-promos/"><u>[New] In 2024, Mastering Effective Social Media Video Promos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-a-customizable-yt-channel-subscribe-link/"><u>[Updated] In 2024, Crafting a Customizable YT Channel Subscribe Link</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-free-video-player-face-off-vlc-versus-mpc/"><u>[Updated] In 2024, Free Video Player Face-Off VLC Versus MPC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/flvaiffmovavi/"><u>如何免費把FLV改為AIFF：使用Movavi在線優化轉換器</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-factual-inshot-video-editing-tool-of-2024-a-must-see/"><u>Discover the Top Factual InShot Video Editing Tool of 2024 - A MUST-SEE!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-android-spying-tools-top-5-selections-for-covert-mobile-monitoring/"><u>Discover the Ultimate List of Free Android Spying Tools - Top 5 Selections for Covert Mobile Monitoring</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-mobile-photography-top-iphone-editing-effects-for-stunning-images/"><u>Mastering Mobile Photography: Top iPhone Editing Effects for Stunning Images</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/secrets-to-flawless-webp-to-jpg-image-conversion-for-2024/"><u>Secrets to Flawless WebP-to-JPG Image Conversion for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-process-for-downloading-adobe-on-microsoft-store/"><u>The Complete Process for Downloading Adobe on Microsoft Store</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620190391-the-ultimate-guide-12-hilarious-mobile-faces-you-can-try-on-any-phone/"><u>The Ultimate Guide: 12 Hilarious Mobile Faces You Can Try on Any Phone!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-paid-and-free-calendar-applications-for-ios-devices/"><u>Top Rated Paid & Free Calendar Applications for iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193087-ultimate-review-of-the-shotcut-app-unveil-its-features-and-benefits-now/"><u>Ultimate Review of the Shotcut App: Unveil Its Features and Benefits Now!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlock-free-designs-download-banners-for-youtube-creators-for-2024/"><u>Unlock Free Designs Download Banners for YouTube Creators for 2024</u></a></li>
-<li><a href="https://solve-news.techidaily.com/unveiling-the-ultimate-macx-dvd-ripper-pro-history-benefits-and-detailed-overview/"><u>Unveiling the Ultimate MacX DVD Ripper Pro: History, Benefits, and Detailed Overview</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-ultimate-guide-to-video-visibility-for-youtubers/"><u>[New] The Ultimate Guide to Video Visibility (For YouTubers)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-secure-extraction-converting-youtube-to-trusted-mp4/"><u>[Updated] In 2024, Secure Extraction Converting YouTube to Trusted MP4</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-phone-apps-that-change-your-speech/"><u>[Updated] In 2024, The Ultimate Guide to Phone Apps That Change Your Speech</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-instagram-growth-strategy-handbook/"><u>[Updated] The Instagram Growth Strategy Handbook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/power2goand/"><u>無料と有料: Power2Goの違いを超越した使用法&差異分析</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-the-forgotten-how-to-locate-the-hidden-enhancement-in-windows-11/"><u>Bring Back the Forgotten: How to Locate the Hidden Enhancement in Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cerebras-releases-revolutionary-wse-section-1-advanced-problem-on-antenna-ground-systems/"><u>Cerebras Releases Revolutionary WSE- # Section 1: Advanced Problem on Antenna Ground Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/data-analysis/"><u>Data Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-panic-windows-11-users-discover-5-effective-strategies-before-official-end-of-service-zdnet/"><u>Don't Panic, Windows 11 Users! Discover 5 Effective Strategies Before Official End of Service | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-hurdles-in-ai-implementation-key-takeawives-from-deloitte-survey-zdnet/"><u>Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-effortless-driver-updates-for-your-windows-system/"><u>Quick & Effortless Driver Updates for Your Windows System!</u></a></li>
 </ul></div>
 

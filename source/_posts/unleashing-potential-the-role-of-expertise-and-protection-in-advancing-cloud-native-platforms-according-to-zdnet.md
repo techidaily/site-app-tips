@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Potential: The Role of Expertise and Protection in Advancing Cloud-Native Platforms, According to ZDNet"
-date: 2024-11-11T20:01:41.076Z
-updated: 2024-11-13T17:44:22.795Z
+date: 2024-11-30T00:04:40.596Z
+updated: 2024-12-02T00:38:39.103Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-timeless-shots-perfecting-the-art-of-date-placement-in-pictures/"><u>[New] Timeless Shots Perfecting the Art of Date Placement in Pictures</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premium-motion-mastery-modules/"><u>[Updated] Premium Motion Mastery Modules</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-smart-exposure-the-ultimate-guide-to-hdr-tech-in-cameras/"><u>2024 Approved Mastering Smart Exposure The Ultimate Guide to HDR Tech in Cameras</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-timelapse-techniques-for-samsung-smartphones/"><u>2024 Approved Timelapse Techniques for Samsung Smartphones</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/classic-comedy-compilation-a-goofy-movie-review-for-2024/"><u>Classic Comedy Compilation A 'Goofy Movie' Review for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-how-to-modify-or-reset-your-apple-id-in-the-ios-cloud-service/"><u>Comprehensive Tutorial: How To Modify or Reset Your Apple ID in the iOS Cloud Service</u></a></li>
-<li><a href="https://app-tips.techidaily.com/connecting-icloud-and-windows-pc-a-comprehensive-tutorial-for-syncing-calendars/"><u>Connecting iCloud and Windows PC: A Comprehensive Tutorial for Syncing Calendars</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278966-discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/efficient-methods-to-unlink-your-iphone-device-from-icloud-accounts/"><u>Efficient Methods to Unlink Your iPhone Device From iCloud Accounts</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-privacy-purposed-selecting-best-insta-watchers/"><u>In 2024, Privacy-Purposed Selecting Best Insta Watchers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/resolving-authorization-and-connection-errors-on-itunes-platforms-a-comprehastern-guide/"><u>Resolving Authorization and Connection Errors on iTunes Platforms – A Comprehastern Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-solution-getting-your-itunes-home-sharing-back-on-track/"><u>Step-by-Step Solution: Getting Your iTunes Home Sharing Back on Track</u></a></li>
-<li><a href="https://app-tips.techidaily.com/swift-solutions-for-disabling-iphone-activation-via-apples-icloud-service/"><u>Swift Solutions for Disabling iPhone Activation via Apple's iCloud Service</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-strategies-to-resolve-persistent-icloud-sign-in-prompts-for-password/"><u>Top 7 Strategies to Resolve Persistent iCloud Sign-In Prompts for Password</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-overcoming-non-responsive-screen-fixing-absence-of-physical-controls/"><u>Troubleshooting: Overcoming Non-Responsive Screen - Fixing Absence of Physical Controls</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-guide-elevate-your-images-with-these-5-optimal-methods/"><u>Ultimate Guide: Elevate Your Images with These 5 Optimal Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-rebuilding-and-refreshing-your-itunes-library-with-3-successful-strategies/"><u>Ultimate Tutorial: Rebuilding and Refreshing Your iTunes Library with 3 Successful Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sequential-appearance-start/"><u>2024 Approved Sequential Appearance Start</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-mobile-games-hacking-tools-on-android-rooted-and-non-rooted-options/"><u>Best 10 Mobile Games Hacking Tools on Android: Rooted & Non-Rooted Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-root-management-suite-powerful-app-control-and-uninstallation-tool/"><u>Complete Root Management Suite: Powerful App Control & Uninstallation Tool</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-for-gsdll32dll-not-found-errors/"><u>Comprehensive Fixes for 'Gsdll32.dll' Not Found Errors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-vsco-features-advantages-disadvantages-and-top-substitutes/"><u>Comprehensive Guide: Understanding VSCO – Features, Advantages, Disadvantages, and Top Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-top-20-best-free-android-games-play-the-complete-versions-with-no-cost/"><u>Download Top 20 Best Free Android Games: Play the Complete Versions with No Cost</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722888827110-how-to-get-netflix-up-and-running-again-on-your-lg-hdtv/"><u>How To Get Netflix Up and Running Again on Your LG HDTV</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-13-pro-max-to-pc-via-usb-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 13 Pro Max to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-hues-and-highlights-editing-techniques-for-impact/"><u>In 2024, Hues & Highlights Editing Techniques for Impact</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-adobe-premiere-rush-strengths-weaknesses-and-competitor-solutions/"><u>In-Depth Analysis of Adobe Premiere Rush - Strengths, Weaknesses, and Competitor Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-apple-clips-expert-reviews-and-detailed-instructional-insights/"><u>Mastering Apple Clips: Expert Reviews & Detailed Instructional Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210232228-9780753734827-moon-astrology/"><u>Moon Astrology | Free Book</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ms-sql-lifeline-mvps-restoration-talk/"><u>MS SQL Lifeline: MVP's Restoration Talk</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/obs-live-broadcasting-on-instagram/"><u>OBS Live Broadcasting on Instagram</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/scaffold-design-must-account-for-dead-loads-live-loads-and-environmental-loads-such-as-wind-and-snow/"><u>Scaffold Design Must Account for Dead Loads, Live Loads, and Environmental Loads Such as Wind and Snow.</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/step-by-step-legally-convert-youtube-to-mp4-format/"><u>Step-by-Step Legally Convert YouTube to MP4 Format</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-15-mobile-workout-apps-ideal-for-both-ios-and-android-devices/"><u>Top 15 Mobile Workout Apps: Ideal for Both iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-8-ios-data-backup-solutions-protecting-your-photos-messages-and-more/"><u>Top 8 iOS Data Backup Solutions: Protecting Your Photos, Messages & More</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-top-10-best-mobile-slow-motion-video-tools-compatible-with-ios-and-android-devices/"><u>Ultimate Top 10 Best Mobile Slow Motion Video Tools Compatible with iOS & Android Devices</u></a></li>
 </ul></div>
 

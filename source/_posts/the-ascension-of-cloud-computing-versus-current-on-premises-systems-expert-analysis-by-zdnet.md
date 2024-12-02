@@ -1,7 +1,7 @@
 ---
 title: The Ascension of Cloud Computing Versus Current On-Premises Systems | Expert Analysis by ZDNet
-date: 2024-10-09T11:28:21.912Z
-updated: 2024-10-12T02:29:41.426Z
+date: 2024-11-30T00:44:30.492Z
+updated: 2024-12-02T05:48:18.490Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,16 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,21 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-a-compreshift-guide-to-creating-profitable-and-engaging-youtube-collaborations/"><u>[New] 2024 Approved A Compreshift Guide to Creating Profitable & Engaging YouTube Collaborations</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-deep-dive-into-benq-sw320s-4k-visuals/"><u>[New] In 2024, Deep Dive Into BenQ SW320's 4K Visuals</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-a-review-free-meme-makers-to-use/"><u>[Updated] A Review Free Meme Makers to Use</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-what-are-luts-and-how-they-change-your-photo/"><u>2024 Approved What Are LUTs and How They Change Your Photo</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-edge-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-most-effective-cross-platform-chat-applications-for-ios-and-android-devices/"><u>Discover the Most Effective Cross-Platform Chat Applications for iOS and Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-8-leading-projector-apps-for-effortless-wi-fi-hookup-on-your-android-device/"><u>Discover the Ultimate List of 8 Leading Projector Apps for Effortless Wi-Fi Hookup on Your Android Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-tricks-for-bypassing-android-restrictions-in-just-a-few-taps/"><u>Effortless Tricks for Bypassing Android Restrictions in Just a Few Taps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-insights-into-the-vita-video-editing-suite-why-its-a-game-changer/"><u>Essential Insights Into the VITA Video Editing Suite: Why It's a Game-Changer</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-12-pro-max-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 12 Pro Max Location by Number | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-8-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone 8</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Poco M6 Pro 5G</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-from-jump-cuts-to-smooth-moves-3-final-cut-pro-transition-methods/"><u>New 2024 Approved From Jump Cuts to Smooth Moves 3 Final Cut Pro Transition Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-great-android-camera-apps-for-amazing-shots/"><u>The Ultimate List of Great Android Camera Apps for Amazing Shots</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-9plus-secure-unlocking-apps-with-fingerprint-recognition-for-android-smartphones/"><u>The Ultimate List: 9+ Secure Unlocking Apps with Fingerprint Recognition for Android Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-review-of-the-shotcut-app-unveil-its-features-and-benefits-now/"><u>Ultimate Review of the Shotcut App: Unveil Its Features and Benefits Now</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-keyframe-kinetics-collections/"><u>[New] In 2024, Keyframe Kinetics Collections</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-vocal-mapping-microphone-captures-voice/"><u>[New] In 2024, Vocal Mapping Microphone Captures Voice</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-precision-in-digital-imaging-a-professionals-approach/"><u>[Updated] In 2024, Precision in Digital Imaging A Professional's Approach</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-zero-dollar-mac-capture-mastery/"><u>2024 Approved Zero-Dollar Mac Capture Mastery</u></a></li>
+<li><a href="https://app-tips.techidaily.com/5-essential-productivity-hacks-for-streamlining-your-day-to-day-tasks-insights-from-zdnet/"><u>5 Essential Productivity Hacks for Streamlining Your Day-to-Day Tasks: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-switching-from-windows-to-linux-mint-easy-installation-steps/"><u>Complete Guide to Switching From Windows to Linux Mint - Easy Installation Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-top-4-open-source-slack-substitutes-to-elevate-your-teams-communication-game-explore-the-options-on-zdnet/"><u>Discover Top 4 Open-Source Slack Substitutes to Elevate Your Team's Communication Game - Explore the Options on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-updates-to-libreoffice-for-mac-users-a-comprehensive-installation-tutorial-on-zdnet/"><u>Discover Updates to LibreOffice for Mac Users – A Comprehensive Installation Tutorial on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-tech-experts-shape-the-future-of-non-tech-companies-insights-from-zdnet/"><u>How Tech Experts Shape the Future of Non-Tech Companies: Insights From ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-insightful-review-the-comprehensive-theta-s-experience/"><u>In 2024, Insightful Review The Comprehensive Theta S Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-7-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 7 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-redefining-visual-storytelling-adding-and-altering-twitter-video-thumbnails/"><u>In 2024, Redefining Visual Storytelling Adding and Altering Twitter Video Thumbnails</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/transform-your-brand-11-free-animated-logo-makers-and-essential-design-tips/"><u>Transform Your Brand 11 Free Animated Logo Makers & Essential Design Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-update-needed-microsofts-crucial-challenge-with-windows-10-countdown-begins/"><u>Urgent Update Needed: Microsoft's Crucial Challenge with Windows 10 Countdown Begins!</u></a></li>
 </ul></div>
 

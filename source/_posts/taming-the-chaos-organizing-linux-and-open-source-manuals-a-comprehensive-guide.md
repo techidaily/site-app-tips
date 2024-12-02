@@ -1,7 +1,7 @@
 ---
 title: "Taming the Chaos: Organizing Linux & Open Source Manuals - A Comprehensive Guide"
-date: 2024-11-03T17:27:04.951Z
-updated: 2024-11-04T16:14:06.987Z
+date: 2024-11-27T04:07:23.244Z
+updated: 2024-12-01T23:30:22.803Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-seeking-consistent-income-through-youtube/"><u>[New] In 2024, Seeking Consistent Income Through YouTube</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-streamlining-your-projects-with-voice-over-integration/"><u>2024 Approved Streamlining Your Projects with Voice Over Integration</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-symphony-of-screens-how-music-enhances-vimeo-content/"><u>2024 Approved Symphony of Screens How Music Enhances Vimeo Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/awaken-with-joy-discover-the-10-most-engaging-free-alarm-clock-applications-for-a-playful-routine/"><u>Awaken with Joy: Discover the 10 Most Engaging Free Alarm Clock Applications for a Playful Routine</u></a></li>
-<li><a href="https://app-tips.techidaily.com/capturing-perfect-moments-with-auto-timer-features-for-iphone-and-android-cameras/"><u>Capturing Perfect Moments with Auto-Timer Features for iPhone and Android Cameras</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-steps-to-remove-or-uninstall-applications-from-iphone-and-android-devices/"><u>Complete Guide: Steps to Remove or Uninstall Applications From iPhone and Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-imovie-review-features-assessment-and-top-editing-software-substitutes/"><u>Comprehensive IMovie Review: Features, Assessment & Top Editing Software Substitutes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-6-free-online-casino-slots-for-android-phones-and-iphones/"><u>Discover the Ultimate Selection of 6 Free Online Casino Slots for Android Phones and iPhones</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-system-tune-up-updating-to-mf4770n-drivers/"><u>Efficient System Tune-Up: Updating to MF4770n Drivers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortlessly-explore-inbox-the-best-five-apps-for-computer-based-message-management/"><u>Effortlessly Explore Inbox: The Best Five Apps for Computer-Based Message Management</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-redmi-12-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Redmi 12 to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-s18e-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo S18e Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iphone-hdr-capturing-dynamic-range-in-your-images/"><u>IPhone HDR Capturing Dynamic Range in Your Images</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-marvels-team-up-the-truth-behind-the-avengers-ratings/"><u>Navigating Marvel's Team-Up: The Truth Behind 'The Avengers' Ratings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protect-your-children-online-a-guide-to-the-20-best-parental-control-tools-available-today/"><u>Protect Your Children Online: A Guide to the 20 Best Parental Control Tools Available Today</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-beat-making-brilliance-music-for-your-instareals/"><u>[New] Beat-Making Brilliance Music for Your InstaReals</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-achieving-gentle-growth-of-silence-in-audio-production/"><u>[New] In 2024, Achieving Gentle Growth of Silence in Audio Production</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-innovating-tiktok-posts-for-twitters-platform/"><u>[New] In 2024, Innovating TikTok Posts for Twitter's Platform</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-leveraging-innovation-a-comprehensive-guide-to-redefining-your-tiktok-avatar/"><u>[New] In 2024, Leveraging Innovation A Comprehensive Guide to Redefining Your TikTok Avatar</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-shadowed-observers-playbook-engaging-with-instagram-stories-anonymously-free/"><u>[New] In 2024, The Shadowed Observer's Playbook Engaging with Instagram Stories Anonymously [Free]</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-this-years-prime-pc-vr-tech/"><u>In 2024, Unveiling This Year's Prime PC VR Tech</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-insight-into-vllo-video-editing-suite-features-performance-and-user-experience-reviewed/"><u>In-Depth Insight Into VLLO Video Editing Suite: Features, Performance, and User Experience Reviewed</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-slow-down-time-adding-slow-motion-effects-in-windows-live-movie-maker/"><u>New In 2024, Slow Down Time Adding Slow Motion Effects in Windows Live Movie Maker</u></a></li>
+<li><a href="https://win-updates.techidaily.com/problembehandlung-fur-acronis-hd-fehler-top3-ansatze-zum-datenschutz/"><u>Problembehandlung Für Acronis HD-Fehler - Top3 Ansätze Zum Datenschutz</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-free-messaging-apps-as-great-substitutes-for-whatsapp/"><u>Top 10 Free Messaging Apps as Great Substitutes for WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-iphones-file-recovery-apps-restore-your-lost-data-easily/"><u>Top 5 iPhones File Recovery Apps: Restore Your Lost Data Easily</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-remote-control-applications-for-your-android-device-via-pc-the-ultimate-2024-guide/"><u>Top 5 Remote Control Applications for Your Android Device via PC: The Ultimate 2024 Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-trusted-ipad-video-player-apps-of-2024-install-now/"><u>Top 5 Trusted iPad Video Player Apps of 2024 - Install Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-shotcut-video-editor-a-comprehensive-guide-dont-miss-it/"><u>Top-Ranked Shotcut Video Editor: A Comprehensive Guide - Don't Miss It!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-lumafusion-reigns-supreme-in-the-world-of-ios-video-editors-a-detailed-review/"><u>Why LumaFusion Reigns Supreme in the World of iOS Video Editors – A Detailed Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Design Thinking Bridges the Gap Between Tech Professionals and Enhanced Customer Experiences - Insights From ZDNet
-date: 2024-10-06T05:19:09.937Z
-updated: 2024-10-11T18:47:22.186Z
+date: 2024-11-29T08:18:17.876Z
+updated: 2024-12-02T08:55:51.672Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,24 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-best-tripod-for-iphone-and-android-smartphone/"><u>[New] The Best Tripod for iPhone and Android Smartphone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-mastering-the-art-of-expression-tiktoks-top-7-emojis/"><u>2024 Approved Mastering the Art of Expression TikTok's Top 7 Emojis</u></a></li>
-<li><a href="https://video-capture.techidaily.com/advanced-techniques-developing-elapsed-time-features-in-obs-software/"><u>Advanced Techniques Developing Elapsed Time Features in OBS Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cybersecurity-titans-unite-zerofox-acquires-idx-aligning-with-landf-for-an-impressive-14-billion-powerhouse-revealed-by-zdnet/"><u>Cybersecurity Titans Unite! ZeroFox Acquires IDX, Aligning with L&F for an Impressive $1.4 Billion Powerhouse Revealed by ZDNet</u></a></li>
-<li><a href="https://article-helps.techidaily.com/delving-into-quantum-hdr-a-complete-overview/"><u>Delving Into Quantum HDR A Complete Overview</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-does-the-bitwarden-prompt-for-master-password-work-tips-to-turn-it-on-easily/"><u>How Does the Bitwarden Prompt for Master Password Work? Tips to Turn It On Easily!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-a1x-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo A1x 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-backdrop-beats-curating-cinematic-tunes/"><u>In 2024, Backdrop Beats Curating Cinematic Tunes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-s17t-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo S17t to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-motorola-moto-g23-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Motorola Moto G23</u></a></li>
-<li><a href="https://extra-support.techidaily.com/m1-pro-to-m1-max-assessing-the-leap-in-apples-chip-design-for-2024/"><u>M1 Pro to M1 Max Assessing the Leap in Apple's Chip Design for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/major-new-features-1password-mobile-app-receives-extensive-upgrade-zdnet/"><u>Major New Features: 1Password Mobile App Receives Extensive Upgrade - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/major-revamp-enhanced-security-and-features-in-the-latest-1password-app-for-smartphones/"><u>Major Revamp: Enhanced Security & Features in the Latest 1Password App for Smartphones!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/projectweb-shutdown-announced-fujitsu-reacts-to-japans-government-data-leaks-insights-from-zdnet/"><u>ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/proton-launches-advanced-password-protector-ensuring-total-privacy-with-robust-end-to-end-cryptography-zdnet/"><u>Proton Launches Advanced Password Protector, Ensuring Total Privacy with Robust End-to-End Cryptography | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-exclusive-offer-on-pioneering-3-year-3d-password-manager-at-just-30-zdnet/"><u>Secure Your Digital Life: Exclusive Offer on Pioneering 3-Year 3D Password Manager at Just $30 | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-2-methods-for-free-high-quality-film-downloads-from-internet-to-pc/"><u>Top 2 Methods for FREE High-Quality Film Downloads From Internet to PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-password-security-tools-of-2024-professional-reviews-zdnet/"><u>Top-Ranked Password Security Tools of 2024: Professional Reviews | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-a-safer-digital-life-a-detailed-review-of-two-revolutionary-passwordless-managers/"><u>Unlocking a Safer Digital Life: A Detailed Review of Two Revolutionary Passwordless Managers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-10-best-screenshot-enhancers-iphoneandroid-sticker-magic/"><u>[New] 10 Best Screenshot Enhancers IPhone/Android Sticker Magic</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/fficiently-handling-youtube-short-issues/"><u>[New] Efficiently Handling YouTube Short Issues</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-peak-of-digital-preservation-elite-storage-guide/"><u>[Updated] Peak of Digital Preservation Elite Storage Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-hidden-facebook-data-and-protecting-yourself-online/"><u>[Updated] Unveiling Hidden Facebook Data & Protecting Yourself Online</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adaptive-arrays/"><u>Adaptive Arrays</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-microsoft-recall-as-a-privacy-catastrophe-here-are-7-compelling-reasons-you-shouldnt-worry-zdnet/"><u>Debunking Microsoft Recall as a Privacy Catastrophe? Here Are 7 Compelling Reasons You Shouldn't Worry | ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/elevating-laughs-the-essential-tutorial-for-memetic-mastery-at-9gag/"><u>Elevating Laughs The Essential Tutorial for Memetic Mastery at 9GAG</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-rapid-impact-of-ai-on-software-engineering-challenges-in-quantifying-progress-insights-from-zdnet/"><u>Exploring the Rapid Impact of AI on Software Engineering: Challenges in Quantifying Progress - Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-avi-to-mp4-conversion-easy-steps-with-movavi/"><u>Free Online AVI to MP4 Conversion - Easy Steps with Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-essential-is-devops-for-staying-ahead-in-business-ensuring-safety-through-top-strategies-insights-from-zdnet/"><u>How Essential Is DevOps for Staying Ahead in Business: Ensuring Safety Through Top Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-major-cloud-services-aws-azure-and-google-cloud-for-a-hybrid-and-saas-strategy-insights-by-zdnet/"><u>In-Depth Analysis of Major Cloud Services: AWS, Azure, and Google Cloud for a Hybrid and SaaS Strategy | Insights by ZDNET</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/kunci-cerdas-untuk-apple-langkah-langkah-memperbaiki-errors-dalam-perubahan-data-di-icloud/"><u>Kunci Cerdas Untuk Apple: Langkah-Langkah Memperbaiki Errors Dalam Perubahan Data Di iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/sonys-research-division-joins-forces-with-ai-singapore-for-next-gen-language-models-innovation-breakthrough/"><u>Sony's Research Division Joins Forces with AI Singapore for Next-Gen Language Models | Innovation Breakthrough</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-comeback-kid-unpacking-why-openstack-and-kata-containers-are-winning-over-enterprises-again-analysis-on-zdnet/"><u>The Comeback Kid: Unpacking Why OpenStack & Kata Containers Are Winning Over Enterprises Again - Analysis on ZDNET</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-easy-fix-for-a-desired-list-directionality-for-2024/"><u>The Easy Fix for a Desired List Directionality for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-path-to-crafting-killer-podcast-names-plus-inspiration-sparks/"><u>The Ultimate Path to Crafting Killer Podcast Names, Plus Inspiration Sparks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-crisis-microsofts-critical-challenge-with-windows-10-looms-as-deadline-approaches-tech-news-by-zdnet/"><u>Urgent Crisis: Microsoft's Critical Challenge with Windows 10 Looms as Deadline Approaches | Tech News by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-woes-intensify-for-microsoft-as-launch-deadline-looms-expert-analysis-by-zdnet/"><u>Windows 11 Woes Intensify for Microsoft as Launch Deadline Looms – Expert Analysis by ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET
-date: 2024-11-22T16:50:44.955Z
-updated: 2024-11-23T20:56:14.213Z
+date: 2024-11-28T00:09:25.098Z
+updated: 2024-12-01T22:23:49.645Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -112,7 +112,7 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -190,22 +190,17 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-crafting-prime-tiktok-openings-using-macos/"><u>[Updated] 2024 Approved Crafting Prime TikTok Openings Using MacOS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-secrets-to-preventing-photo-app-problems-in-windows-11/"><u>[Updated] Secrets to Preventing Photo App Problems in Windows 11</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-total-environmental-immersion-in-media-creation/"><u>[Updated] Total Environmental Immersion in Media Creation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/alternative-media-players-similar-to-itunes-for-windows-vista-xp-or-7-users/"><u>Alternative Media Players Similar to iTunes for Windows Vista, XP, or 7 Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278038-cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/epic-quests-unveiled-top-games-mirroring-ghost-of-tsushima-for-2024/"><u>Epic Quests Unveiled Top Games Mirroring Ghost of Tsushima for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-analysis-complete-look-at-xvideo-studio-essentials/"><u>Expert Analysis Complete Look at XVideo Studio Essentials</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-your-preferred-version-easy-free-downloads-of-both-old-and-new-itunes-for-windows-and-mac/"><u>Get Your Preferred Version: Easy Free Downloads of Both Old and New iTunes for Windows & Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/getting-started-with-itunes-on-windows-operating-systems-a-step-by-step-guide/"><u>Getting Started with iTunes on Windows Operating Systems: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-fix-it-when-your-iphone-is-not-detected-by-itunes/"><u>How to Fix It when Your iPhone Is Not Detected by iTunes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-lava-yuva-2-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Lava Yuva 2 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intels-lunar-lake-project-outsourced-assembly-and-upgrades-via-panther-lake-incorporating-clearwater-forest-power-systems/"><u>Intel's Lunar Lake Project: Outsourced Assembly and Upgrades via Panther Lake, Incorporating Clearwater Forest Power Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ipod-add-on-tutorial-placing-tracks-without-using-itunes-aiseesofts-approach/"><u>IPod Add-On Tutorial: Placing Tracks Without Using iTunes (Aiseesoft's Approach)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-cropping-videos-in-avidemux-a-comprehensive-guide-for-beginners-and-pros/"><u>New Cropping Videos in Avidemux A Comprehensive Guide for Beginners and Pros</u></a></li>
-<li><a href="https://app-tips.techidaily.com/no-more-itunes-required-master-the-art-of-seamless-ipod-management-using-modern-alternatives/"><u>No More iTunes Required: Master the Art of Seamless iPod Management Using Modern Alternatives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reassert-control-over-your-online-footprint-ditch-chatgpt/"><u>Reassert Control Over Your Online Footprint - Ditch ChatGPT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transferring-your-playlist-to-ipod-sans-itunes-with-aiseesoft/"><u>Step-by-Step Guide: Transferring Your Playlist to iPod Sans iTunes with Aiseesoft</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-comprehensive-manual-best-practices-for-using-mobizen-recording-tool/"><u>[New] 2024 Approved Comprehensive Manual Best Practices for Using Mobizen Recording Tool</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-techniques-to-transform-your-ppt-into-professional-videos/"><u>[New] 2024 Approved Techniques to Transform Your PPT Into Professional Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-becoming-a-pro-at-visual-effects-creation/"><u>[Updated] Becoming a Pro at Visual Effects Creation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-snap-tastic-facebooks-fleeting-media-for-2024/"><u>[Updated] Snap-Tastic Facebook's Fleeting Media for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-visionaries-of-synthetic-environment-tech/"><u>2024 Approved Visionaries of Synthetic Environment Tech</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cracking-the-code-calculating-your-income-from-youtubes-cpm/"><u>Cracking the Code Calculating Your Income From YouTube's CPM</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-motorola-moto-g84-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Motorola Moto G84 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/increased-patent-safeguards-for-linux-systems-oin-exclusivity-intensifies-skirts-ai-coverage-zdnet/"><u>INCREASED PATENT SAFEGUARDS FOR LINUX SYSTEMS: OIN EXCLUSIVITY INTENSIFIES, SKIRTS AI COVERAGE - ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-the-decade-journey-of-revolutionizing-cloud-computing-past-achievements-and-future-trends-zdnet/"><u>Kubernetes: The Decade Journey of Revolutionizing Cloud Computing - Past Achievements and Future Trends | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-design-thinking-for-deeper-connections-empowering-tech-experts-to-improve-customer-journeys-zdnet-perspectives/"><u>Leveraging Design Thinking for Deeper Connections: Empowering Tech Experts to Improve Customer Journeys | ZDNET Perspectives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-cold-reception-how-companies-are-taking-their-time-with-embracing-the-heat-of-5g-innovation/"><u>Navigating the Cold Reception: How Companies Are Taking Their Time with Embracing the Heat of 5G Innovation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-manual-zdnet/"><u>Revolutionizing UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Manual | ZDNet</u></a></li>
 </ul></div>
 

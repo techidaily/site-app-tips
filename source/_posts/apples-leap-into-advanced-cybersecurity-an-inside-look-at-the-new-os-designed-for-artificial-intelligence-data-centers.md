@@ -1,7 +1,7 @@
 ---
 title: "Apple's Leap Into Advanced Cybersecurity: An Inside Look at the New OS Designed for Artificial Intelligence Data Centers"
-date: 2024-10-28T16:24:02.402Z
-updated: 2024-11-04T16:24:49.438Z
+date: 2024-11-28T20:04:25.438Z
+updated: 2024-12-02T08:42:21.676Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-freeze-action-with-iphone-mastery-of-motion-blur-techniques/"><u>[New] 2024 Approved Freeze Action with iPhone Mastery of Motion-Blur Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-cost-effective-strategies-to-combine-videos-with-text-for-2024/"><u>[New] Cost-Effective Strategies to Combine Videos with Text for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/our-path-to-engaging-content-dive-into-our-free-youtube-ad-gallery/"><u>[New] Your Path to Engaging Content – Dive Into Our Free YouTube Ad Gallery</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-top-asmr-equipment-for-thoughtful-shoppers-seeking-performance/"><u>[Updated] 2024 Approved Top ASMR Equipment for Thoughtful Shoppers Seeking Performance</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-what-lies-beneath-the-surface-of-instagrams-reels/"><u>[Updated] In 2024, What Lies Beneath the Surface of Instagram's Reels</u></a></li>
-<li><a href="https://app-tips.techidaily.com/creative-loops-made-easy-with-the-top-4-mobile-apps-for-android-and-ios-users/"><u>Creative Loops Made Easy with the Top 4 Mobile Apps for Android and iOS Users</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone XR With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-tecno-spark-20-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Tecno Spark 20 FRP Bypass</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/six-typical-installation-hurdles-for-auto-gpt-and-their-solutions/"><u>Six Typical Installation Hurdles for Auto-GPT and Their Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/stay-secure-and-connected-top-11-mobile-apps-for-hands-free-text-reading/"><u>Stay Secure and Connected: Top 11 Mobile Apps for Hands-Free Text Reading</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-accessing-whatsapp-anonymously-without-providing-your-phone-number/"><u>Step-by-Step Instructions: Accessing WhatsApp Anonymously Without Providing Your Phone Number</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-instant-messaging-a-comprehensive-overview/"><u>Understanding Instant Messaging: A Comprehensive Overview</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-color-perfect-advanced-color-correction-in-final-cut-pro/"><u>Updated 2024 Approved Color Perfect Advanced Color Correction in Final Cut Pro</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rom-freezing-points-to-inviting-landscapes/"><u>[New] From Freezing Points to Inviting Landscapes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlock-free-video-file-handler-for-pc-and-mac-os-for-2024/"><u>[New] Unlock Free Video File Handler for PC & Mac OS for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-streamlining-media-consumption-accessing-facebook-content-via-appletv/"><u>[Updated] 2024 Approved Streamlining Media Consumption Accessing Facebook Content via AppleTV</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-truth-recovery-your-image-on-fb-confirmed/"><u>[Updated] 2024 Approved Truth Recovery Your Image on FB Confirmed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-future-proof-your-facebook-strategy-with-2024s-top-trends/"><u>[Updated] Future-Proof Your Facebook Strategy with 2024'S Top Trends</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-solutions-combating-it-professional-burnout-and-alert-overload-with-technology-insights-from-zdnet/"><u>AI Solutions: Combating IT Professional Burnout & Alert Overload with Technology Insights From ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725289861296-ai60fps/"><u>AI超解像：达到60fps及以上的流畅视频体验</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-synergy-how-ai-empowers-developers-and-business-teams-insights-from-zdnet/"><u>Enhancing Synergy: How AI Empowers Developers & Business Teams - Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/guide-successfully-navigating-the-windows-11-boot-settings-menu/"><u>Guide: Successfully Navigating the Windows 11 Boot Settings Menu</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-emerging-companies-can-leverage-ai-models-to-capture-market-share-insights-from-zdnet/"><u>How Emerging Companies Can Leverage AI Models to Capture Market Share: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-of-integrating-artificasternotext-ai-and-agile-methodologies-zdnet-reported-findings/"><u>Navigating the Complexities of Integrating Artificasternotext AI and Agile Methodologies - ZDNET Reported Findings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-rise-of-agent-ecosystems-in-artificial-intelligence-future-service-domination/"><u>Navigating the Rise of Agent Ecosystems in Artificial Intelligence: Future Service Domination</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-poco-c55-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Poco C55 Phone Now with These Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prioritize-manager-training-before-ai-deployment-insights-from-zdnet/"><u>Prioritize Manager Training Before AI Deployment: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-work-how-ai-agents-forge-a-new-era-in-employment-insights-from-zdnet/"><u>Revolutionizing Work: How AI Agents Forge a New Era in Employment - Insights From ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-realme-narzo-n53-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Realme Narzo N53 Phone Network-Ready</u></a></li>
 </ul></div>
 

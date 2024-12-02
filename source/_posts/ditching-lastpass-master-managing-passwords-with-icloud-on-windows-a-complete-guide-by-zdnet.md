@@ -1,7 +1,7 @@
 ---
 title: Ditching LastPass? Master Managing Passwords with iCloud on Windows - A Complete Guide by ZDNet
-date: 2024-11-17T07:51:35.616Z
-updated: 2024-11-23T19:53:17.661Z
+date: 2024-11-30T19:08:23.694Z
+updated: 2024-12-02T04:01:51.066Z
 tags:
   - password-manager
 categories:
@@ -31,10 +31,14 @@ If you've been around for the past 10 or so years, you know that most services r
 
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use iCloud as a password manager on Windows
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open iCloud for Windows
@@ -48,7 +52,7 @@ Go to the Start menu and open iCloud for Windows.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Sign in to your iCloud Passwords
@@ -61,10 +65,6 @@ Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Make sure Passwords is on and click Apply
 
 Make sure Passwords is selected on the iCloud window, then click on **Apply** to make the changes. 
@@ -74,6 +74,10 @@ You can also install browser extensions at this point.
 Make sure Passwords is on and click **Apply**.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Add browser extension
 
@@ -101,10 +105,6 @@ Enter the verification code.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Try out the password manager
 
 After you set up iCloud for [Windows](https://www.zdnet.com/article/windows-11-22h2-how-to-get-microsofts-latest-os-update-and-whats-coming-next/) as a password manager and your browser extension, you can try it out by going to a website and trying to log in.
@@ -117,15 +117,15 @@ Like LastPass, the browser extension will let you fill in your login information
 
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## How do you get iCloud for Windows?  
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How do I set up iCloud Keychain? 
 
@@ -167,16 +167,19 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-multiangle-exploration-guide/"><u>[New] MultiAngle Exploration Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/celebrating-a-milestone-kubernetes-at-10-years-old-a-retrospective-of-its-impact-on-cloud-native-tech-and-future-prospects-zdnet/"><u>Celebrating a Milestone: Kubernetes at 10 Years Old – A Retrospective of Its Impact on Cloud-Native Tech & Future Prospects | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/gartner-reveals-half-of-generative-ai-initiatives-end-in-failure-insights-from-zdnet/"><u>Gartner Reveals Half of Generative AI Initiatives End in Failure - Insights From ZDNet</u></a></li>
-<li><a href="https://media-tips.techidaily.com/high-quality-techniques-the-leading-three-ways-to-transform-midi-into-exquisite-mp3-format/"><u>High-Quality Techniques: The Leading Three Ways to Transform MIDI Into Exquisite MP3 Format</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-initialization-problems-with-age-of-empires-iv/"><u>How to Resolve Initialization Problems with Age of Empires IV</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-realme-narzo-60-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Realme Narzo 60 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ring-content-sharing-on-youtube-without-breaching-copyright-for-2024/"><u>Mastering Content Sharing on YouTube Without Breaching Copyright for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Realme GT 5 (240W)? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-the-cloud-key-tech-leaders-anticipate-significant-shifts-in-business-models-exclusive-zdnet-report/"><u>Revolutionizing the Cloud: Key Tech Leaders Anticipate Significant Shifts in Business Models – Exclusive ZDNet Report</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tidying-up-linux-and-open-source-manuals-discovering-clarity-in-chaos-solutions-revealed/"><u>Tidying Up Linux & Open Source Manuals: Discovering Clarity in Chaos - Solutions Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-quintessential-free-tools-for-malware-removal-2024-edition/"><u>Unveiling the Quintessential Free Tools for Malware Removal, 2024 Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-seamless-transitions-the-art-of-canon-time-lapses/"><u>[New] Crafting Seamless Transitions The Art of Canon Time-Lapses</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-space-best-practices-for-tiktok-videos/"><u>[Updated] Twitter's Space Best Practices for TikTok Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-explore-top-7-live-streaming-iosandroid-apps-perfect-for-youtube-channel-creators/"><u>2024 Approved Explore Top 7 Live Streaming iOS/Android Apps Perfect for YouTube Channel Creators</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1728474812078-windows-11/"><u>歸零 Windows 11: 重建系統時復原檔案的製作指南</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-cutting-edge-enhancements-in-microsofts-latest-windows-11-upgrade-on-zdnet/"><u>Discover the Cutting-Edge Enhancements in Microsoft's Latest Windows 11 Upgrade on ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oneplus-nord-3-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked OnePlus Nord 3 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-ultra-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23 Ultra Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-cloud-service-giants-an-in-depth-look-at-aws-microsoft-azure-and-google-clouds-hybrid-saas-offerings-zdnet-analysis/"><u>Leading Cloud Service Giants: An In-Depth Look at AWS, Microsoft Azure, and Google Cloud's Hybrid, SaaS Offerings - ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-windows-11-vms-expert-tips-for-optimal-configuration-wisdom-directly-from-zdnets-pros/"><u>Mastering Windows 11 VMs: Expert Tips for Optimal Configuration - Wisdom Directly From ZDNet's Pros</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-world-of-facebook-group-queries/"><u>Navigating the World of Facebook Group Queries</u></a></li>
+<li><a href="https://win-popular.techidaily.com/new-release-emeditor-v1470-beta-version-unveiled-advanced-text-editing-software/"><u>New Release: EmEditor v14.7.0 Beta Version Unveiled - Advanced Text Editing Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-obstacles-in-ai-precision-and-reliability-for-todays-developers-expert-analysis-at-zdnet/"><u>Overcoming Obstacles in AI Precision & Reliability for Today's Developers | Expert Analysis at ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-critical-need-for-clarity-in-artificer-interests-exploring-the-transparency-gap-in-ai-evolution-zdnet/"><u>The Critical Need for Clarity in Artificer Interests: Exploring the Transparency Gap in AI Evolution | ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet"
-date: 2024-11-18T20:59:38.922Z
-updated: 2024-11-24T07:27:29.501Z
+date: 2024-11-29T07:35:52.166Z
+updated: 2024-12-01T16:16:42.425Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,15 +68,18 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-resource-powerdirector-users/"><u>[New] The Ultimate Resource PowerDirector Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-free-facebook-management-smart-post-scheduling-tips/"><u>[Updated] Free Facebook Management Smart Post Scheduling Tips</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-revamping-your-podcasts-identity-leading-ai-tools/"><u>2024 Approved Revamping Your Podcast's Identity Leading AI Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/blades-new-vision-in-ultra-high-definition-clarity/"><u>Blade's New Vision in Ultra-High Definition Clarity</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-itel-a05s-screen-sharing-drfone-by-drfone-android/"><u>How To Do Itel A05s Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/infinite-jest-10-ultimate-meme-layouts/"><u>Infinite Jest - 10 Ultimate Meme Layouts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lipsync-the-groundbreaking-new-challenger-in-the-ms-teams-and-zoom-arena-revolutionizing-communication-for-the-hearing-impaired/"><u>LipSync: The Groundbreaking New Challenger in the MS Teams & Zoom Arena - Revolutionizing Communication for the Hearing Impaired</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-4b-five-facts-about-advanced-antenna-array-theory/"><u>Section 4B: Five Facts About Advanced Antenna Array Theory</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-setting-up-google-one-vpn-on-your-mac-with-ease/"><u>Step-by-Step Guide: Setting Up Google One VPN on Your Mac with Ease</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-latest-features-of-macos-sonoma-a-comprehensive-guide-insights-from-zdnet/"><u>Unveiling the Latest Features of macOS Sonoma: A Comprehensive Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlock-more-views-twitch-to-facebook-streaming-tips/"><u>[New] Unlock More Views Twitch to Facebook Streaming Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-mastering-youtube-video-text-overlay-techniques/"><u>[Updated] Mastering YouTube Video Text Overlay Techniques</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-procuring-growls-and-whispers-audio-packages/"><u>2024 Approved Procuring Growls and Whispers Audio Packages</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-top-20-trending-memes-reddit-vs-twitter/"><u>2024 Approved Top 20 Trending Memes Reddit Vs. Twitter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-mkv-and-mp4-formats-determining-the-best-fit-for-your-viewing-needs/"><u>Comparing MKV and MP4 Formats - Determining the Best Fit for Your Viewing Needs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/emerging-leadership-in-the-age-of-generative-ai-how-new-software-roles-are-shaping-the-future-tech-insight/"><u>Emerging Leadership in the Age of Generative AI: How New Software Roles Are Shaping the Future | Tech Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-partnerships-the-role-of-artificial-intelligence-in-merging-developer-expertise-with-business-strategy-zdnet-analysis/"><u>Empowering Partnerships: The Role of Artificial Intelligence in Merging Developer Expertise with Business Strategy - ZDNet Analysis</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-iphone-6-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About iPhone 6 Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prioritize-manager-training-before-deploying-artificial-intelligence-insights-from-zdnet/"><u>Prioritize Manager Training Before Deploying Artificial Intelligence: Insights From ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-realtek-superior-sound-system-connection-errors/"><u>Resolving Realtek Superior Sound System Connection Errors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-cashless-how-non-monetary-transactions-are-set-to-soar-past-16t-driven-by-asian-markets-zdnet-insights/"><u>The Future Is Cashless: How Non-Monetary Transactions Are Set to Soar Past $1.6T, Driven by Asian Markets | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-singapores-push-towards-eco-friendly-tech-funding-artificeal-intelligence-to-combat-climate-change/"><u>ZDNet Explores Singapore’s Push Towards Eco-Friendly Tech: Funding Artificeal Intelligence to Combat Climate Change</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Roadmap for Artifice Intelligence Developments Over the Next Ten Years | ZDNet
-date: 2024-11-09T18:58:47.818Z
-updated: 2024-11-13T19:16:45.380Z
+date: 2024-12-01T00:54:07.963Z
+updated: 2024-12-02T11:41:27.286Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-seamless-speech-to-text-translation-in-microsoft-office-suite-word-for-2024/"><u>[New] Seamless Speech-to-Text Translation in Microsoft Office Suite (Word) for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-key-strategies-for-high-definition-iptv-logging/"><u>[Updated] 2024 Approved Key Strategies for High-Definition IPTV Logging</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/boost-your-sites-performance-discover-the-benefits-of-cookiebot-integration/"><u>Boost Your Site's Performance: Discover the Benefits of Cookiebot Integration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-monica-ai-understanding-its-features-and-mastering-chatgpt-assistance/"><u>Exploring Monica AI: Understanding Its Features & Mastering ChatGPT Assistance</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/iphone-12-14-transfer-fotos-aus-itunes-auf-ihr-gerat/"><u>IPhone 12-14 - Transfer Fotos Aus iTunes Auf Ihr Gerät</u></a></li>
-<li><a href="https://fox-links.techidaily.com/revolutionize-your-talking-skills-with-these-no-cost-audio-modifications/"><u>Revolutionize Your Talking Skills with These No-Cost Audio Modifications</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/seamless-connectivity-on-the-road-why-lihan-lhfm1-grove-fm-transmitter-is-a-top-choice/"><u>Seamless Connectivity on the Road: Why LIHAN LHFM1 Grove FM Transmitter Is a Top Choice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-10-cutting-edge-ai-chatbots-to-enhance-your-messaging-game/"><u>The Ultimate List of 10 Cutting-Edge AI Chatbots to Enhance Your Messaging Game</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-conversational-ai-exploring-the-best-features-of-gpt-powered-chatbots/"><u>Top-Rated Conversational AI: Exploring the Best Features of GPT-Powered Chatbots</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-reviews-explore-the-best-in-ai-meet-chatgpt-your-new-preferred-chatbot-companion/"><u>Top-Rated Reviews: Explore the Best in AI - Meet ChatGPT, Your New Preferred Chatbot Companion</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-resolving-undelivered-imessages-on-iphone/"><u>Troubleshooting Steps: Resolving Undelivered iMessages on iPhone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-this-years-most-engaging-storytelling-youtubers-for-2024/"><u>Unveiling This Year's Most Engaging Storytelling YouTubers for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-reel-revolution-top-tech-for-brightening-videos/"><u>[Updated] 2024 Approved Reel Revolution Top Tech for Brightening Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unlock-potential-in-your-screen-recording-with-obs/"><u>[Updated] 2024 Approved Unlock Potential in Your Screen Recording with OBS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-selection-of-top-10-cinematic-beacons-of-hope/"><u>[Updated] A Selection of Top 10 Cinematic Beacons of Hope</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-android-projector-applications-top-8-picks-for-seamless-wireless-connection/"><u>Best Android Projector Applications: Top 8 Picks for Seamless Wireless Connection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-of-picplaypost-revolutionizing-digital-content-with-advanced-editing-features-for-videos-collages-and-more/"><u>Comprehensive Evaluation of PicPlayPost: Revolutionizing Digital Content with Advanced Editing Features for Videos, Collages, and More</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-pinnacle-studio-benefits-drawbacks-and-best-alternatives-explored/"><u>Comprehensive Review of Pinnacle Studio: Benefits, Drawbacks & Best Alternatives Explored</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-12-effortless-typing-solutions-on-ios-and-android-the-ultimate-keyboard-app-selection/"><u>Discover the Top 12 Effortless Typing Solutions on iOS & Android: The Ultimate Keyboard App Selection</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y100i-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y100i Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-vivo-y200e-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo Y200e 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protecting-your-mobile-data-how-to-set-up-biometric-authentication-and-passwords-for-iphone-security/"><u>Protecting Your Mobile Data: How to Set Up Biometric Authentication & Passwords for iPhone Security</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-guide-top-free-tools-for-speedy-file-removal-on-your-ipad-device/"><u>Quick Guide: Top Free Tools for Speedy File Removal on Your iPad Device</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-converting-lossless-flac-audio-to-compact-aac-without-quality-loss/"><u>The Ultimate Guide to Converting Lossless FLAC Audio to Compact AAC without Quality Loss</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-8-must-have-multi-window-programs-for-android-phones-and-tablets/"><u>The Ultimate List of 8 Must-Have Multi-Window Programs for Android Phones & Tablets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-alternative-podcast-apps-to-replace-player-fm-on-your-android-device/"><u>Top Alternative Podcast Apps to Replace Player FM on Your Android Device</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transformer-gratuitement-un-fichier-aiff-en-format-wav-tutorial-de-movavi/"><u>Transformer Gratuitement Un Fichier AIFF en Format WAV - Tutorial De Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/velocita-accelerata-per-la-conversione-di-video-e-audio-con-winxvideo-ai-usando-gpu/"><u>Velocità Accelerata per La Conversione Di Video E Audio Con Winxvideo AI, Usando GPU</u></a></li>
 </ul></div>
 

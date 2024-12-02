@@ -1,7 +1,7 @@
 ---
 title: How Vital Are IT Specialists for Modern Businesses Operating Without Technology? Insights From a ZDNET Perspective
-date: 2024-10-04T20:43:53.170Z
-updated: 2024-10-11T20:54:00.863Z
+date: 2024-11-27T08:02:27.598Z
+updated: 2024-12-01T23:42:46.810Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-hilarious-guide-crafting-memes-with-ease/"><u>[New] Hilarious Guide Crafting Memes with Ease</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-video-gurus-playbook-smooth-transition-to-easy-youtube-cc-and-subtitles/"><u>[New] The Video Guru's Playbook Smooth Transition to Easy YouTube CC & Subtitles</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-whos-at-the-apex-youtube-subscribers-ranking/"><u>2024 Approved Who's at the Apex? YouTube Subscribers Ranking</u></a></li>
-<li><a href="https://app-tips.techidaily.com/before-its-too-late-exploring-five-strategies-to-maintain-your-windows-pc-zdnet/"><u>Before It's Too Late: Exploring Five Strategies to Maintain Your Windows 지원 제한되는 PC | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/digital-evolution-in-business-the-crucial-role-of-enterprise-architects/"><u>Digital Evolution in Business: The Crucial Role of Enterprise Architects</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-innovation-beyond-apples-walls-why-diverse-workplaces-spark-creativity/"><u>Embracing Innovation Beyond Apple's Walls - Why Diverse Workplaces Spark Creativity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-revival-how-openstack-and-kata-containers-gain-new-ground-in-tech-markets-zdnet-insights/"><u>Exploring the Revival: How OpenStack and Kata Containers Gain New Ground in Tech Markets - ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-rectify-a-non-heating-bed-in-your-3d-printer-comprehensive-guide/"><u>How To Rectify A Non-Heating Bed In Your 3D Printer: Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-proplus-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 Pro+ 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oneplus-open-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked OnePlus Open Phone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-a-pause-on-end-to-end-encryption-makes-sense-for-meta-in-23/"><u>Why a Pause on End-to-End Encryption Makes Sense for Meta in '23</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-you-should-think-about-aiops-check-out-these-7-key-points-according-to-zdnet/"><u>Why You Should Think About AIOps? Check Out These 7 Key Points According To ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discover-the-power-of-proportions-in-youtube-content-creation/"><u>[New] In 2024, Discover the Power of Proportions in YouTube Content Creation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-camera-prospectus-ranking-the-top-5-superior-motion-cameras-for-2024/"><u>[Updated] Camera Prospectus Ranking the Top 5 Superior Motion Cameras for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-record-a-webinar/"><u>[Updated] In 2024, How to Record a Webinar</u></a></li>
+<li><a href="https://discover-great.techidaily.com/discovering-zelia-the-inspiring-journey-of-a-renowned-writer/"><u>Discovering Zelia: The Inspiring Journey of a Renowned Writer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-technology-tools-top-9-must-have-gadgets-for-students/"><u>Essential Technology Tools: Top 9 Must-Have Gadgets for Students</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experiencing-the-marvels-of-streaming-with-apple-vision-pro-a-rollercoaster-ride-through-my-top-pick/"><u>Experiencing the Marvels of Streaming with Apple Vision Pro: A Rollercoaster Ride Through My Top Pick</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-your-enterprise-will-depend-on-numerous-ai-models-insights-from-zdnet/"><u>How Your Enterprise Will Depend on Numerous AI Models - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/key-considerations-to-keep-in-mind-prior-to-investing-in-restored-portable-pcs/"><u>Key Considerations to Keep in Mind Prior to Investing in Restored Portable PCs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-paradox-of-productivity-can-generative-ai-actually-boost-your-workload-find-out-with-zdnets-latest-analysis/"><u>The Paradox of Productivity: Can Generative AI Actually Boost Your Workload? Find Out with ZDNet's Latest Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/training-your-staff-in-ai-revolution-essential-manual-for-smbs-in-singapore-zdnet/"><u>Training Your Staff in AI Revolution: Essential Manual for SMBs in Singapore | ZDnet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-truth-about-becoming-a-devops-expert-opportunities-and-pitfalls-awaiting-you-siliconvalleynews/"><u>Unveiling the Truth About Becoming a DevOps Expert: Opportunities and Pitfalls Awaiting You | SiliconValleyNews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/your-journey-to-devops-mastery-exploring-benefits-challenges-and-truths-zdnets-comprehensive-guide/"><u>Your Journey to DevOps Mastery: Exploring Benefits, Challenges, and Truths | ZDNET's Comprehensive Guide</u></a></li>
 </ul></div>
 

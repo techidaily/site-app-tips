@@ -1,7 +1,7 @@
 ---
 title: Agnes Ro Reveals the Transformation in Modern Development Roles at Atlassian - Insights From Tech Visionary
-date: 2024-11-06T17:12:52.957Z
-updated: 2024-11-13T16:53:30.494Z
+date: 2024-11-30T12:13:12.136Z
+updated: 2024-12-02T13:14:07.163Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,21 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-battle-of-broadcasting-is-obs-or-twitch-studio-superior-in-2024/"><u>[Updated] Battle of Broadcasting Is OBS or Twitch Studio Superior, In 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-uniting-your-favorite-sounds-a-complete-walkthrough-for-making-youtube-playlists-onlinemobile/"><u>[Updated] In 2024, Uniting Your Favorite Sounds A Complete Walkthrough for Making YouTube Playlists Online/Mobile</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-harness-your-contents-potential-with-ideal-post-days/"><u>2024 Approved Harness Your Content's Potential with Ideal Post Days</u></a></li>
-<li><a href="https://media-tips.techidaily.com/all-in-one-entertainment-on-demand-dive-into-siriusxms-comprehensive-mix-of-riveting-sports-coverage-and-top-hits-music/"><u>All-in-One Entertainment on Demand: Dive Into SiriusXM's Comprehensive Mix of Riveting Sports Coverage and Top Hits Music!</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/cloaked-story-crafting-your-ultimate-snapguide-manual/"><u>Cloaked Story Crafting Your Ultimate Snapguide Manual</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dominating-the-digital-space-from-5000-to-over-a-million-views/"><u>Dominating the Digital Space From 5,000 to Over a Million Views</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-privacy-with-easy-steps-to-protect-your-whatsapp-accounts-on-smartphones/"><u>Enhance Privacy with Easy Steps to Protect Your WhatsApp Accounts on Smartphones</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-m4a-editor-software-top-5-recommendations-for-2024/"><u>Free M4A Editor Software Top 5 Recommendations for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-enable-and-use-whatsapp-securely-with-alternative-identifiers-instead-of-your-phone-number/"><u>How to Enable and Use WhatsApp Securely with Alternative Identifiers Instead of Your Phone Number</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-set-up-automatic-backups-from-whatsapp-to-google-drive-a-step-by-step-guide-for-android-and-iphone-users/"><u>How to Set Up Automatic Backups From WhatsApp to Google Drive: A Step-by-Step Guide for Android & iPhone Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/irrevocable-deletion-of-whatsapp-on-iphones-a-comprehensive-tutorial/"><u>Irrevocable Deletion of WhatsApp on iPhones: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preserve-your-whatsapp-images-flawlessly-top-3-methods-for-saving-photos-across-ios-and-android-without-quality-compromise/"><u>Preserve Your WhatsApp Images Flawlessly: Top 3 Methods for Saving Photos Across iOS & Android Without Quality Compromise</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-into-new-dimensions-with-jaunt-vr-review-for-2024/"><u>Step Into New Dimensions with Jaunt VR Review for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-for-enabling-and-performing-a-whatsapp-backup-to-icloud/"><u>The Ultimate Tutorial for Enabling and Performing a WhatsApp Backup to iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-strategies-sending-oversized-videos-with-ease-from-an-iphone-using-whatsapp/"><u>Top Strategies: Sending Oversized Videos with Ease From an iPhone Using WhatsApp</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebook-follower-verification-techniques-for-professionals/"><u>[New] 2024 Approved Facebook Follower Verification Techniques for Professionals</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-bringing-dimensions-to-life-the-1-list-of-pcs-top-vr-360-players/"><u>[New] In 2024, Bringing Dimensions to Life The #1 List of PC's Top VR 360 Players</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-ideal-systems-for-recording-and-streaming-athletic-competitions/"><u>[Updated] In 2024, Ideal Systems for Recording and Streaming Athletic Competitions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/10-best-ai-powered-chatbots-that-will-transform-how-you-communicate/"><u>10 Best AI-Powered Chatbots That Will Transform How You Communicate</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-seamless-transition-of-youtube-videos-into-instagram-stories/"><u>2024 Approved Seamless Transition of YouTube Videos Into Instagram Stories</u></a></li>
+<li><a href="https://app-tips.techidaily.com/chatgpt-2024-ultimate-review-unpacking-advanced-features-and-solving-internal-server-malfunctions/"><u>ChatGPT 2024 Ultimate Review: Unpacking Advanced Features and Solving Internal Server Malfunctions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-elevenlabs-generative-voice-ai-options-and-reviews/"><u>Comprehensive Analysis of ElevenLabs' Generative Voice AI: Options & Reviews</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-infinix-note-30-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Infinix Note 30 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-review-of-elevenlabs-genai-vs-other-voice-generation-technologies/"><u>In-Depth Review of ElevenLabs' GenAI Vs. Other Voice Generation Technologies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/must-know-review-inside-look-at-the-revolutionary-eva-previously-ex-journey-chatbot/"><u>Must-Know Review: Inside Look at the Revolutionary EVA (Previously Ex Journey) Chatbot</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/speed-vs-snapshots-unveiling-the-pros-and-cons-of-oneplus-8t-camera-capabilities/"><u>Speed Vs. Snapshots: Unveiling the Pros and Cons of OnePlus 8T Camera Capabilities</u></a></li>
 </ul></div>
 

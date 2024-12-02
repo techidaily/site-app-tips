@@ -1,7 +1,7 @@
 ---
 title: Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News
-date: 2024-11-20T03:19:24.678Z
-updated: 2024-11-24T02:58:58.237Z
+date: 2024-11-27T16:58:07.895Z
+updated: 2024-12-01T19:41:22.374Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it suffered a ransomware attack in July that led to the breach of sensitive employee and patient information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it
 [![2020-03-18-at-12-23-32-pm.jpg](https://www.zdnet.com/a/img/resize/3c34ebf72342b1f0704550e1e2edf445f0628572/2020/03/18/7c2e2258-7566-4e66-9059-a1a8aedf00b4/2020-03-18-at-12-23-32-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best security key While robust passwords help you secure your valuable online accounts, hardware-based two-factor authentication takes that security to the next level.  Read now](https://www.zdnet.com/article/best-security-key/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The breach involves the information of 750,000 patients and 522 current and former OAG employees. 
@@ -90,16 +90,20 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-academic-avenue-leading-educators-on-youtube/"><u>[Updated] In 2024, Academic Avenue Leading Educators on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-capital-compilation-your-first-podcast-edition/"><u>2024 Approved Complete Capital Compilation Your First Podcast Edition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advanced-audio-capture-and-conversion-made-simple-by-otters-latest-teams-software-update-explore-features-on-zdnet/"><u>Advanced Audio Capture and Conversion Made Simple by Otter's Latest Teams Software Update | Explore Features on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/before-its-too-late-discover-5-essential-steps-to-prepare-your-windows-e-pc-for-post-support-era-expert-advice-from-zdnet/"><u>Before It's Too Late: Discover 5 Essential Steps to Prepare Your Windows E PC for Post-Support Era | Expert Advice From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-windows-10-update-initiative-where-did-it-go/"><u>Free Windows 10 Update Initiative: Where Did It Go?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-c33-2023-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme C33 2023 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-your-cloud-storage-how-to-link-google-drive-to-slack-efficiently/"><u>Integrating Your Cloud Storage: How to Link Google Drive to Slack Efficiently</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/optimize-and-personalize-user-experiences-the-magic-of-cookiebot-functionality/"><u>Optimize and Personalize User Experiences: The Magic of Cookiebot Functionality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-netflix-ui-800-3-issue-a-comprehensive-guide/"><u>Solving the Netflix UI-800-3 Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722998519803-steam-authentication-errors-solved-regain-access-now/"><u>Steam Authentication Errors Solved - Regain Access Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-last-5-optionsto-ensure-continued-use/"><u>Windows 10 End of Life Approaching: Discover Your Last 5 Optionsto Ensure Continued Use</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2023s-most-popular-online-video-hub-on-facebook-for-2024/"><u>2023'S Most Popular Online Video Hub on Facebook for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/bringing-oceans-home-the-360-world-of-insta360s-one-x2/"><u>Bringing Oceans Home: The 360 World of Insta360's One X2</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-microsoft-edge-experience-discover-premier-add-ons-endorsed-by-zdnet/"><u>Enhance Microsoft Edge Experience: Discover Premier Add-Ons Endorsed by ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/full-breakdown-gopro-slr4-silver-edition-for-2024/"><u>Full Breakdown GoPro SLR4 Silver Edition for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harnessing-the-full-potential-of-video-enhancer-22-for-your-work/"><u>Harnessing the Full Potential of Video Enhancer 2.2 for Your Work</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/insecurity-in-linux-based-systems-latest-findings-reveal-yes-with-potential-fixes-insights-from-a-new-study-zdnet/"><u>Insecurity in Linux-Based Systems: Latest Findings Reveal Yes with Potential Fixes - Insights From a New Study | ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-cutting-edge-technology-by-toms-experts/"><u>Inside Look at Cutting-Edge Technology by Tom's Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-excel-cell-consolidation-techniques-with-expert-advice-from-zdnet/"><u>Master Excel Cell Consolidation Techniques with Expert Advice From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/safety/"><u>Safety</u></a></li>
+<li><a href="https://app-tips.techidaily.com/silent-release-sparks-fury-unveiling-the-controversial-feature-from-microsoft-on-zdnet/"><u>Silent Release Sparks Fury: Unveiling the Controversial Feature From Microsoft on ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-evaluating-features-for-gaming-computers/"><u>The Ultimate Guide: Evaluating Features for Gaming Computers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-mastering-linux-skills-through-elite-foundation-courses-and-intensive-bootcamps/"><u>Ultimate Guide to Mastering Linux Skills Through Elite Foundation Courses & Intensive Bootcamps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-we-know-about-the-newest-google-pixel-timepiece-speculated-cost-debut-date-and-tech-specs/"><u>What We Know About the Newest Google Pixel Timepiece - Speculated Cost, Debut Date & Tech Specs</u></a></li>
 </ul></div>
 

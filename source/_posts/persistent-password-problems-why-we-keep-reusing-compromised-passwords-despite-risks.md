@@ -1,7 +1,7 @@
 ---
 title: "Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks"
-date: 2024-11-16T22:52:38.023Z
-updated: 2024-11-23T18:07:51.849Z
+date: 2024-11-29T09:45:55.294Z
+updated: 2024-12-01T18:19:00.581Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -114,7 +114,7 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -141,7 +141,7 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -189,18 +189,17 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-revamping-subtitles-from-srt-with-ease/"><u>[New] 2024 Approved Revamping Subtitles From SRT with Ease</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-creator-to-earnings-successful-youtube-short-strategies/"><u>[New] In 2024, From Creator to Earnings Successful YouTube Short Strategies</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-mastering-content-propagation-on-vimeo-for-2024/"><u>[New] Mastering Content Propagation on Vimeo for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-seo-puzzle-strategies-that-elevate-your-podcasts/"><u>[New] Unlocking the SEO Puzzle Strategies That Elevate Your Podcasts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-mechanics-of-instagrams-featured-stories/"><u>[Updated] The Mechanics of Instagram's Featured Stories</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-to-fixing-the-missing-d3dx930dll-library-problems-on-windows-pcs/"><u>A Step-by-Step Guide to Fixing the Missing d3dx9_30.dll Library Problems on Windows PCs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192575-best-6-exceptional-contact-widget-apps-for-android-ranked/"><u>Best 6 Exceptional Contact Widget Apps for Android - Ranked</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194339-discover-the-top-15-no-cost-texting-solutions-for-your-android-device/"><u>Discover the Top 15 No-Cost Texting Solutions for Your Android Device!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/end-your-wait-effective-fixes-for-continuous-buffering-on-kodi-platforms/"><u>End Your Wait: Effective Fixes for Continuous Buffering on Kodi Platforms</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-game-console-emulators-for-superior-imagery-and-performance-top-picks-for-gamers/"><u>Leading Game Console Emulators for Superior Imagery & Performance: Top Picks for Gamers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-step-by-step-guide-how-to-quickly-unlock-your-android-device-with-easy-hacks/"><u>Simple Step-by-Step Guide: How to Quickly Unlock Your Android Device with Easy Hacks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-25-leading-video-editing-apps-for-every-ios-device-including-models-15-x8-6-5/"><u>The Ultimate List of the 25 Leading Video Editing Apps for Every iOS Device, Including Models 15-X/8-6-5</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/17-transformative-metaverse-trials-explained/"><u>17 Transformative Metaverse Trials Explained</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-mastering-view-counts-eluding-mechanized-spectators/"><u>2024 Approved Mastering View Counts Eluding Mechanized Spectators</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722894525858-comprehensive-instructions-for-swapping-out-phone-screen-shield-film/"><u>Comprehensive Instructions for Swapping Out Phone Screen Shield Film</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/die-besten-13-youtube-umwandlungen-in-mp3-format-effizientes-konvertieren-mithilfe-von-movavi/"><u>Die Besten 13 YouTube-Umwandlungen in MP3 Format - Effizientes Konvertieren Mithilfe Von Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-top-benefits-of-embracing-aiops-why-you-need-to-make-the-switch/"><u>Exploring the Top Benefits of Embracing AIOps: Why You Need to Make the Switch</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-itel-p55-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Itel P55 Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-honor-100-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Honor 100 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rogue-company-pc-stability-patch-say-goodbye-to-unwanted-disconnections-during-play/"><u>Rogue Company PC Stability Patch – Say Goodbye to Unwanted Disconnections During Play</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-5-best-places-to-find-freelance-work/"><u>The 5 Best Places to Find Freelance Work</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-vmwares-power-get-your-hands-on-the-free-personal-versions-of-fusion-pro-and-workstation-pro-zdnet/"><u>Unlocking VMware's Power: Get Your Hands on the Free Personal Versions of Fusion Pro & Workstation Pro | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-deadline-microsoft-must-resolve-major-windows-10-issues-within-just-one-year-insights-from-zdnet/"><u>Urgent Deadline: Microsoft Must Resolve Major Windows 10 Issues Within Just One Year, Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-ultimate-ranking-the-leading-antivirus-solutions/"><u>ZDNet's Ultimate Ranking: The Leading Antivirus Solutions</u></a></li>
 </ul></div>
 

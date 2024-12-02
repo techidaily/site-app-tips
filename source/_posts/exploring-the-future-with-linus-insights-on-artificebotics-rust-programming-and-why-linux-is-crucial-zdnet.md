@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Future with Linus: Insights on Artificebotics, Rust Programming, and Why Linux Is Crucial | ZDNET"
-date: 2024-10-05T21:46:10.568Z
-updated: 2024-10-12T00:55:18.374Z
+date: 2024-11-24T18:50:07.418Z
+updated: 2024-12-01T17:04:35.744Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,24 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-leveraging-influencer-networks-for-video-game-success/"><u>[New] 2024 Approved Leveraging Influencer Networks for Video Game Success</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-steps-for-a-never-to-return-from-tiktok-space/"><u>[New] Steps for a Never-to-Return From TikTok Space</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-convert-youtube-to-mp3-without-compromising-security-3-tips/"><u>[Updated] In 2024, How to Convert YouTube to MP3 Without Compromising Security - 3 Tips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-high-dynamic-range-photography-with-ps/"><u>[Updated] Navigating High Dynamic Range Photography with PS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-complete-package-of-top-zoom-capturing-gear/"><u>[Updated] The Complete Package of Top Zoom Capturing Gear</u></a></li>
-<li><a href="https://app-tips.techidaily.com/30-bargain-alert-access-the-groundbreaking-worlds-first-3-dimensional-password-vault-for-three-years-get-yours-today-from-zdnet/"><u>$30 Bargain Alert! Access the Groundbreaking World's First 3-Dimensional Password Vault for Three Years - Get Yours Today From ZDNet!</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1-mac-osdvddvdmp4iphoneipaditunes/"><u>1. Mac OS上最高效的DVD转码器：简单精确地从加密DVD中提取MP4/iPhone/iPad/iTunes格式视频</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sierras-cloud-essentials-drives-full-access-guide/"><u>2024 Approved Sierra's Cloud Essentials Drives Full Access Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-we-depend-on-instagram-an-in-depth-analysis-by-zdnet/"><u>Can We Depend on Instagram? An In-Depth Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discovering-your-macs-secrets-a-guide-to-finding-passwords-in-the-keychain/"><u>Discovering Your Mac's Secrets: A Guide to Finding Passwords in the Keychain</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-driver-installation-and-updates-for-the-amd-radeon-rx-480-series/"><u>Effortless Driver Installation & Updates for the AMD Radeon RX 480 Series</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-craft-the-perfect-gif-message-in-snapchat-easy-steps/"><u>In 2024, Craft the Perfect Gif Message in Snapchat [Easy Steps]</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-perfect-focus-in-teams-meetings-mastering-background-blur/"><u>In 2024, Perfect Focus in Teams Meetings Mastering Background Blur</u></a></li>
-<li><a href="https://app-tips.techidaily.com/instagrams-reliability-questioned-insights-from-a-zdnet-investigation/"><u>Instagram's Reliability Questioned: Insights From a ZDNet Investigation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-brex-how-1password-enhances-user-security-with-new-online-payment-features-insights-from-zdnet/"><u>Integrating Brex: How 1Password Enhances User Security with New Online Payment Features - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/logmein-decides-to-create-independent-entity-with-lastpass-zdnet-news/"><u>LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-phishing-scams-impersonating-leaders-dhl-microsoft-and-whatsapp-in-the-spotlight/"><u>Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unmasking-crypto-illusions-a-revealing-paper-challenges-bitcoins-anonymity-claims/"><u>Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-using-a-password-manager-is-essential-top-5-benefits-explained-by-zdnet/"><u>Why Using a Password Manager Is Essential: Top 5 Benefits Explained by ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-shaping-new-normals-innovative-brands-and-youtube-partnerships/"><u>[New] 2024 Approved Shaping New Normals Innovative Brands and YouTube Partnerships</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-harness-free-fb-link-downloaders-for-2024/"><u>[New] Harness Free FB Link Downloaders for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-boost-visual-impact-learning-to-edit-videos-using-storyremix-and-windows-photos/"><u>[Updated] Boost Visual Impact Learning to Edit Videos Using StoryRemix and Windows Photos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-effortlessly-integrate-your-apple-podcasts-collection/"><u>[Updated] In 2024, Effortlessly Integrate Your Apple Podcasts Collection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/365-as-revealed-by-zdnet/"><u>365, as Revealed by ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bridging-music-sections-advanced-audacity-techniques-for-2024/"><u>Bridging Music Sections Advanced Audacity Techniques for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-challenge-ahead-microsoft-must-fix-major-windows-11-issues-before-launch-deadline-insights-from-zdnet/"><u>Critical Challenge Ahead: Microsoft Must Fix Major Windows 11 Issues Before Launch Deadline - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-brother-l2690dw-printer-drivers-installation-guide-and-update-steps/"><u>Download the Latest Brother L2690DW Printer Drivers: Installation Guide and Update Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/embracing-authenticity-in-video-marketing-through-clients-words/"><u>Embracing Authenticity in Video Marketing Through Clients' Words</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-end-of-mainstream-windows-11-support-soon-explore-your-5-last-resort-options-now/"><u>Facing the End of Mainstream Windows 11 Support Soon? Explore Your 5 Last Resort Options Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/integrating-the-latest-intel-gpu-software-on-windows/"><u>Integrating the Latest Intel GPU Software on Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-100-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-main-lobe-or-beam-represents-the-direction-in-which-an-antenna-radiates-most-of-its-energy-a-highly-directive-antenna-has-a-narrow-main-lobe/"><u>The Main Lobe, or Beam, Represents the Direction in Which an Antenna Radiates Most of Its Energy; a Highly Directive Antenna Has a Narrow Main Lobe.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-secrets-of-successful-virtual-workspaces-embracing-anonymity-zdnet/"><u>Unveiling Secrets of Successful Virtual Workspaces: Embracing Anonymity | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-update-microsoft-faces-major-challenges-with-windows-11-just-one-year-left/"><u>Urgent Update: Microsoft Faces Major Challenges with Windows 11 - Just One Year Left!</u></a></li>
 </ul></div>
 

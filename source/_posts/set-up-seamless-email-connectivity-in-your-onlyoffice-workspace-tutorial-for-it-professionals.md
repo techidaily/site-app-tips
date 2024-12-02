@@ -1,7 +1,7 @@
 ---
 title: Set Up Seamless Email Connectivity in Your ONLYOFFICE Workspace – Tutorial for IT Professionals
-date: 2024-10-05T03:31:50.890Z
-updated: 2024-10-11T23:35:11.431Z
+date: 2024-11-26T21:45:50.093Z
+updated: 2024-12-01T21:12:12.502Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,24 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-excellent-tools-to-save-live-feeds-from-youtube-vids/"><u>[New] 2024 Approved Excellent Tools to Save Live Feeds From YouTube Vids</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-a-comprehensive-overview-of-multiscreen-streaming-techniques-on-social-media-platforms-like-facebook/"><u>[New] A Comprehensive Overview of Multiscreen Streaming Techniques on Social Media Platforms Like Facebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-10-basic-blocks-house-concepts-for-mc-players/"><u>[Updated] 10 Basic Blocks House Concepts for MC Players</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-amplifying-your-content-free-techniques-to-boost-youtube-views/"><u>[Updated] In 2024, Amplifying Your Content Free Techniques to Boost YouTube Views</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-illuminating-your-content-youtube-video-lighting-secrets/"><u>2024 Approved Illuminating Your Content YouTube Video Lighting Secrets</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-redmi-note-12t-pro-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Redmi Note 12T Pro FRP</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-to-eliminating-the-icloud-security-code-without-using-your-apple-id/"><u>Guide to Eliminating the iCloud Security Code Without Using Your Apple ID</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620263951-locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/retrieve-deleted-items-from-your-icloud-a-comprehensive-guide-to-icloud-file-restoration/"><u>Retrieve Deleted Items From Your iCloud: A Comprehensive Guide to iCloud File Restoration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/reviving-your-ipad-from-an-icloud-backup-complete-instructions-including-non-reset-options/"><u>Reviving Your iPad From an iCloud Backup: Complete Instructions Including Non-Reset Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamless-iphone-photo-syncing-strategies-with-icloud-discover-these-4-effective-techniques/"><u>Seamless iPhone Photo Syncing Strategies with iCloud - Discover These 4 Effective Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-steps-access-your-icloud-images-from-anywhere/"><u>Simple Steps: Access Your iCloud Images From Anywhere</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-removing-your-pics-photos-and-images-from-icloud-securely/"><u>Step-by-Step Guide: Removing Your Pics, Photos & Images From iCloud Securely</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-viewing-icloud-saved-passwords-on-ios-devices-and-computers/"><u>Step-by-Step Tutorial: Viewing iCloud Saved Passwords on iOS Devices & Computers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transforming-wireless-experience-expert-review-on-tp-link-deco-p9-mesh-network/"><u>Transforming Wireless Experience – Expert Review on TP-Link Deco P9 Mesh Network</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-creating-layered-text-the-illustration-expertise/"><u>[New] Creating Layered Text The Illustration Expertise</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-portable-balance-enhancer-for-shooting-blurs/"><u>[Updated] Portable Balance Enhancer for Shooting Blurs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/emerging-trends-in-developer-careers-and-popular-coding-languages-exploring-the-future-of-tech-with-zdnet/"><u>Emerging Trends in Developer Careers & Popular Coding Languages - Exploring the Future of Tech with ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-on-ai-integration-and-rust-utilization-in-linux-kernel-the-keystone-of-open-source-computing/"><u>Linus Torvalds on AI Integration & Rust Utilization in Linux Kernel - The Keystone of Open-Source Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-leads-to-managerial-meltdown-a-cautionary-tale/"><u>Microsoft Teams Misuse Leads to Managerial Meltdown - A Cautionary Tale</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-complexity-of-containerized-applications-with-codenotary-introducing-an-advanced-sbom-service-for-kubernetes-insights-from-zdnet/"><u>Navigating the Complexity of Containerized Applications with Codenotary: Introducing an Advanced SBOM Service for Kubernetes - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/surface-pro-display-dilemma-discover-how-to-stop-the-shakingflickering/"><u>Surface Pro Display Dilemma? Discover How To Stop the Shaking/Flickering!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-effective-techniques-for-deep-cleaning-household-stereo-speakers/"><u>Ultimate Guide: Effective Techniques for Deep-Cleaning Household Stereo Speakers</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/understanding-icloud-a-comprehensive-guide-on-its-functions-and-usage/"><u>Understanding iCloud: A Comprehensive Guide on Its Functions and Usage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10-at-a-crossroads-for-microsoft-just-one-year-to-turn-things-around-digitalreview/"><u>Windows 10 at a Crossroads for Microsoft - Just One Year to Turn Things Around | DigitalReview</u></a></li>
 </ul></div>
 

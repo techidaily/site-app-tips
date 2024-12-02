@@ -1,7 +1,7 @@
 ---
 title: Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET
-date: 2024-11-17T18:09:00.927Z
-updated: 2024-11-23T19:45:22.132Z
+date: 2024-11-25T03:27:05.830Z
+updated: 2024-12-01T16:47:25.210Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-transform-every-moment-top-tasks-to-master-while-listening-to-your-favorite-podcasts/"><u>[New] 2024 Approved Transform Every Moment Top Tasks to Master While Listening to Your Favorite Podcasts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-capturing-the-spectrum-a-broad-overview-of-recorders/"><u>[New] Capturing the Spectrum A Broad Overview of Recorders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/as-the-need-for-data-talent-expands-one-organizations-proactive-approach-to-skill-development-zdnet/"><u>As the Need for Data Talent Expands, One Organization's Proactive Approach to Skill Development | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-for-singaporean-small-businesses-harnessing-genai-for-employee-development-zdnet/"><u>Comprehensive Guide for Singaporean Small Businesses: Harnessing GenAI for Employee Development | ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-blade-blh4100-120s-rtf-outdoor-rc-helicopter-in-depth-analysis-and-performance-insights/"><u>Comprehensive Guide: Blade BLH4100 120S RTF Outdoor RC Helicopter - In-Depth Analysis and Performance Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/evolution-of-innovation-identifying-a-revolutionary-5g-application-surpassing-traditional-connectivity-boundaries-zdnet/"><u>Evolution of Innovation: Identifying a Revolutionary 5G Application Surpassing Traditional Connectivity Boundaries | ZDNet</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/o-upload-a-video-from-imovie-to-youtube/"><u>How to Upload a Video From iMovie to YouTube?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-digital-asset-preservation-with-adobe-and-exploring-best-non-adobe-options-for-2024/"><u>Mastering Digital Asset Preservation with Adobe & Exploring Best Non-Adobe Options for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-business-intelligence-direct-access-to-corporate-chief-engineers-via-ai-chains-zdnet/"><u>Revolutionizing Business Intelligence: Direct Access to Corporate Chief Engineers via AI Chains | ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-13-ultra-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from 13 Ultra</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-next-horizon-in-employment-how-ai-agents-are-set-to-permanently-reshape-our-careers/"><u>The Next Horizon in Employment: How AI Agents Are Set to Permanently Reshape Our Careers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-small-and-medium-sized-businesses-overlook-necessary-cybersecurity-coverage-insights-from-zdnet/"><u>Why Small and Medium-Sized Businesses Overlook Necessary Cybersecurity Coverage: Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-how-to-share-a-private-youtube-video/"><u>[New] How to Share a Private YouTube Video?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-tips-to-smoothly-add-photo-capabilities-into-your-virtual-gatherings/"><u>[New] Tips to Smoothly Add Photo Capabilities Into Your Virtual Gatherings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-steps-to-view-and-manage-photos-and-files-across-devices-with-icloud/"><u>Easy Steps to View and Manage Photos & Files Across Devices with iCloud</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-your-eos-login-troubles-on-palworld-6-proven-methods-for-successful-entry/"><u>Fixing Your EOS Login Troubles on Palworld: 6 Proven Methods for Successful Entry</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-email-eradication-mastery-discover-the-best-techniques-and-tips-to-delete-successfully/"><u>ICloud Email Eradication Mastery: Discover the Best Techniques & Tips to Delete Successfully</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-complete-analysis-gopro-silver-edition-hero4-assessment/"><u>In 2024, Complete Analysis GoPro Silver Edition HERO4 Assessment</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-itel-a60s-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Itel A60s</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/is-sns-hdr-pro-the-gold-standard-for-hdr-editors-for-2024/"><u>Is SNS HDR Pro the Gold Standard for HDR Editors for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/lg-virtual-reality-innovation-a-detailed-review/"><u>LG Virtual Reality Innovation A Detailed Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/methods-for-overcoming-icloud-lock-screen-hurdles-techniques-with-and-without-apple-account-access/"><u>Methods for Overcoming iCloud Lock Screen Hurdles: Techniques with and without Apple Account Access</u></a></li>
+<li><a href="https://app-tips.techidaily.com/recover-deleted-whatsapp-messages-using-icloud-a-comprehensive-tutorial/"><u>Recover Deleted WhatsApp Messages Using iCloud: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-guides.techidaily.com/upgrading-from-windows-home-to-pro-benefits-and-how-to-guide/"><u>Upgrading From Windows Home to Pro: Benefits & How-To Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-15-pro-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 15 Pro</u></a></li>
 </ul></div>
 

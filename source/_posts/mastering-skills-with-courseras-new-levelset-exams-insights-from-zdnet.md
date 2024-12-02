@@ -1,7 +1,7 @@
 ---
 title: "Mastering Skills with Coursera's New LevelSet Exams: Insights From ZDNet"
-date: 2024-11-09T17:12:10.537Z
-updated: 2024-11-13T16:34:28.335Z
+date: 2024-11-27T17:40:31.370Z
+updated: 2024-12-01T17:35:50.342Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,17 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-record-video-directly-from-webcam-using-vlc-media-player/"><u>[Updated] 2024 Approved Record Video Directly From Webcam Using VLC Media Player</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620197018-expert-tips-for-retrieving-lost-whatsapp-data-on-ios-recover-texts-images-movies-and-sounds-easily/"><u>Expert Tips for Retrieving Lost WhatsApp Data on iOS - Recover Texts, Images, Movies & Sounds Easily!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-note-12-pro-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Xiaomi Redmi Note 12 Pro 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-honor-magic-v2-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Honor Magic V2 Phone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-deleting-cache-easy-methods-for-leading-browsers/"><u>Master the Art of Deleting Cache: Easy Methods for Leading Browsers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205574398-resolving-diagnostics-policy-service-is-offline-heres-what-to-do/"><u>Resolving 'Diagnostics Policy Service Is Offline – Here’s What To Do</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revise-your-mobile-details-easily-the-ultimate-walkthrough-for-switching-numbers-on-whatsapp/"><u>Revise Your Mobile Details Easily: The Ultimate Walkthrough for Switching Numbers on WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-adding-new-contacts-in-whatsapp-across-iphone-and-android-devices/"><u>Step-by-Step Guide: Adding New Contacts in WhatsApp Across iPhone & Android Devices</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209825373-9781797200941-the-rituals/"><u>The Rituals | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-how-to-restore-deleted-whatsapp-conversations-on-android-phones/"><u>Ultimate Guide: How to Restore Deleted WhatsApp Conversations on Android Phones</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/wi-fi-mesh-explained-is-the-upgrade-worth-considering/"><u>Wi-Fi Mesh Explained: Is the Upgrade Worth Considering?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elevate-your-films-with-savvy-b-roll-techniques-for-2024/"><u>[New] Elevate Your Films with Savvy B-Roll Techniques for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-blurface-secrets-clean-up-your-photos-quickly/"><u>[Updated] 2024 Approved Blurface Secrets Clean Up Your Photos Quickly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-stable-diffusions-text-to-image-generative-ai/"><u>Comprehensive Guide: Understanding Stable Diffusion's Text-to-Image Generative AI</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-leading-substitutes-for-voicemyai-your-guide-to-innovative-ai-voice-solutions/"><u>Explore the Leading Substitutes for voicemy.ai: Your Guide to Innovative AI Voice Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/freemake/"><u>Freemakeを使用したビデオ変換: ロゴ除去手順解説</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/goovision-chromium-captures-on-screen/"><u>GooVision Chromium Captures On-Screen</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-accelerate-your-photo-edits-expert-lunapic-techniques/"><u>In 2024, Accelerate Your Photo Edits Expert LunaPic Techniques</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone 11 Pro?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-leading-artificeintelligence-video-makers-for-image-based-production/"><u>In-Depth Analysis of Leading ArtificeIntelligence Video Makers for Image-Based Production</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-insight-on-avclabs-video-improvement-software-features-benefits-and-drawbacks/"><u>In-Depth Insight on AVCLabs Video Improvement Software: Features, Benefits & Drawbacks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mitternachtspreisgabe-im-deutschen/"><u>Mitternachtspreisgabe Im Deutschen</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pixelflame-recorders-for-firefox/"><u>PixelFlame Recorders for Firefox</u></a></li>
 </ul></div>
 

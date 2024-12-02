@@ -1,7 +1,7 @@
 ---
 title: "Buy Ashamapoo's Pro 3D CAD Software Version 11 at a Steal: Just $40 on ZDNet Today!"
-date: 2024-11-02T17:03:47.582Z
-updated: 2024-11-04T16:32:57.384Z
+date: 2024-11-26T20:25:03.458Z
+updated: 2024-12-02T04:51:54.938Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-command-center-conundrums-deciphering-best-cloud-solutions/"><u>[New] Command Center Conundrums Deciphering Best Cloud Solutions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-securely-shutting-down-your-instagram-presence-forever/"><u>[Updated] 2024 Approved Securely Shutting Down Your Instagram Presence Forever</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-t2-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo T2 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-of-picplaypost-revolutionizing-digital-content-with-advanced-editing-features-for-videos-collages-and-more/"><u>Comprehensive Evaluation of PicPlayPost: Revolutionizing Digital Content with Advanced Editing Features for Videos, Collages, and More</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-pinnacle-studio-benefits-drawbacks-and-best-alternatives-explored/"><u>Comprehensive Review of Pinnacle Studio: Benefits, Drawbacks & Best Alternatives Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conquering-the-puzzle-unraveling-and-fixing-livekernel-event-hurdle-error-no-144/"><u>Conquering the Puzzle: Unraveling and Fixing LiveKernel Event Hurdle, Error No. 144</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-12-effortless-typing-solutions-on-ios-and-android-the-ultimate-keyboard-app-selection/"><u>Discover the Top 12 Effortless Typing Solutions on iOS & Android: The Ultimate Keyboard App Selection</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-steelseries-engine-enhanced-features-and-support-for-windows-11/"><u>Download SteelSeries Engine: Enhanced Features and Support for Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-present-vr-innovations-for-2024/"><u>Exploring Present VR Innovations for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-11-pro-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 11 Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-endless-launch-issue-in-far-cry-5-a-step-by-step-guide/"><u>Overcoming the Endless Launch Issue in Far Cry 5 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protecting-your-mobile-data-how-to-set-up-biometric-authentication-and-passwords-for-iphone-security/"><u>Protecting Your Mobile Data: How to Set Up Biometric Authentication & Passwords for iPhone Security</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-guide-top-free-tools-for-speedy-file-removal-on-your-ipad-device/"><u>Quick Guide: Top Free Tools for Speedy File Removal on Your iPad Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723005215563-resolve-league-of-legends-crashes-swiftly-a-step-by-step-guide/"><u>Resolve League of Legends Crashes Swiftly: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-7-leading-emulator-tools-to-use-android-and-ios-apps-on-windowsmac/"><u>The Ultimate List of 7 Leading Emulator Tools to Use Android & iOS Apps on Windows/Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-8-must-have-multi-window-programs-for-android-phones-and-tablets/"><u>The Ultimate List of 8 Must-Have Multi-Window Programs for Android Phones & Tablets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-alternative-podcast-apps-to-replace-player-fm-on-your-android-device/"><u>Top Alternative Podcast Apps to Replace Player FM on Your Android Device</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-gigglegridsguild-funnyframefactory/"><u>[New] 2024 Approved GiggleGridsGuild FunnyFrameFactory</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-radeon-relive-download-and-review/"><u>[New] In 2024, Radeon Relive Download and Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-iphones-and-android-premium-coverage-for-your-ig-highlights/"><u>[New] In 2024, Top iPhones & Android Premium Coverage for Your IG Highlights</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-how-to-innovate-your-tiktok-intro-video-a-mac-perspective/"><u>[Updated] In 2024, How to Innovate Your TikTok Intro Video - A Mac Perspective</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-revolution-in-business-understanding-the-shift-to-hundreds-of-models-for-operational-excellence-perspectives-by-zdnet/"><u>AI Revolution in Business: Understanding the Shift to Hundreds of Models for Operational Excellence - Perspectives by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-at-forefront-non-cash-payments-projected-to-reach-16-trillion/"><u>Asia at Forefront: Non-Cash Payments Projected to Reach $1.6 Trillion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cio-warns-against-complacency-in-ai-development-advocates-for-innovative-thinkers-over-simplistic-ai-prompts-insights-from-zdnet/"><u>CIO Warns Against Complacency in AI Development; Advocates for Innovative Thinkers over Simplistic AI Prompts - Insights From ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-s18-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo S18 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/open-source-as-a-magnet-for-elite-creativity-and-innovation-zdnet/"><u>Open Source as a Magnet for Elite Creativity and Innovation | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-business-intelligence-direct-access-to-corporate-chief-engineers-via-ai-chains-zdnet/"><u>Revolutionizing Business Intelligence: Direct Access to Corporate Chief Engineers via AI Chains | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/swipe-away-the-dirt-embrace-apple-airplay-the-select-hotel-experience-redefined-by-wireless-streaming-technology-zdnet/"><u>Swipe Away the Dirt, Embrace Apple AirPlay – The Select Hotel Experience Redefined by Wireless Streaming Technology | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-next-horizon-in-employment-how-ai-agents-are-set-to-permanently-reshape-our-careers/"><u>The Next Horizon in Employment: How AI Agents Are Set to Permanently Reshape Our Careers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-pinnacle-strategies-for-persuasive-client-centered-videography-for-2024/"><u>The Pinnacle Strategies for Persuasive Client-Centered Videography for 2024</u></a></li>
 </ul></div>
 

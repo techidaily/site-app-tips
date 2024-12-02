@@ -1,7 +1,7 @@
 ---
 title: "The Future of Artificial Intelligence: Projected Breakthroughs in the Coming Years - ZDNet"
-date: 2024-11-19T20:35:18.888Z
-updated: 2024-11-24T09:22:37.344Z
+date: 2024-11-27T22:45:40.784Z
+updated: 2024-12-01T20:41:16.486Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-advanced-tech-the-most-reliable-webcams-for-podcasters/"><u>[New] 2024 Approved Advanced Tech The Most Reliable Webcams for Podcasters</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-ultimate-showdown-bandicams-prowess-against-camtasia/"><u>[New] In 2024, The Ultimate Showdown Bandicam's Prowess Against Camtasia</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-roadmap-to-powerful-instagram-partnerships-and-campaigns/"><u>[Updated] In 2024, The Roadmap to Powerful Instagram Partnerships & Campaigns</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-6-exceptional-contact-widget-apps-for-android-ranked/"><u>Best 6 Exceptional Contact Widget Apps for Android - Ranked!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-15-no-cost-texting-solutions-for-your-android-device/"><u>Discover the Top 15 No-Cost Texting Solutions for Your Android Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-endless-possibilities-access-free-cracked-applications-for-ios-and-android-via-appcake-today/"><u>Experience Endless Possibilities: Access Free, Cracked Applications for iOS & Android via AppCake Today!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidance-on-resolving-windows-software-initiation-flaw-error/"><u>Guidance on Resolving Windows Software Initiation Flaw (Error)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-x-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone X</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nubia-z50s-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Nubia Z50S Pro Phones</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-xs-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XS Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-art-of-producing-attention-grabbing-podcast-openers/"><u>The Art of Producing Attention-Grabbing Podcast Openers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-high-quality-video-players-optimized-for-your-android-tablet/"><u>Top 10 High-Quality Video Players Optimized for Your Android Tablet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-optimization-tools-to-supercharge-your-android-experience/"><u>Top 10 Optimization Tools to Supercharge Your Android Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-beginners-backstage-pass-to-photo-tricks/"><u>[Updated] In 2024, Beginner's Backstage Pass to Photo Tricks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-make-each-second-count-engaging-activities-that-blend-learning-and-multitasking-for-2024/"><u>[Updated] Make Each Second Count Engaging Activities that Blend Learning and Multitasking for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/another-cyber-attack-on-lastpass-revealed-by-zdnets-latest-report/"><u>Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-password-management-tools-of-2022-slash-your-costs-insights-from-zdnet/"><u>Best Password Management Tools of 2022: Slash Your Costs - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-in-class-ultrawide-gaming-monitors-reviewed-2024-edition/"><u>Best-in-Class Ultrawide Gaming Monitors Reviewed: 2024 Edition</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-bitcoin-privacy-myths-the-expose-that-shook-its-secrecy/"><u>Debunking Bitcoin Privacy Myths: The Exposé That Shook Its Secrecy</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/descubre-como-crear-un-imagen-de-sistema-personalizada-para-su-equipo-informatico/"><u>Descubre Cómo Crear Un Imagen De Sistema Personalizada Para Su Equipo Informático</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-techniques-to-preserve-your-windows-11-and-10-drivers-easily/"><u>Essential Techniques to Preserve Your Windows 11 & 10 Drivers Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-firefox-nightly-an-in-depth-guide-on-whether-its-right-for-you/"><u>Exploring Firefox Nightly: An In-Depth Guide on Whether It's Right For You</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-and-secure-password-management-solutions-for-202e-thorough-evaluation-by-industry-experts-techradar/"><u>Free & Secure Password Management Solutions for 202E: Thorough Evaluation by Industry Experts - TechRadar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-your-security-how-dashlanes-passwordless-logins-eliminate-the-hassle-of-remembering-one-overarching-password-insights-from-zdnet/"><u>Master Your Security: How Dashlane's Passwordless Logins Eliminate the Hassle of Remembering One Overarching Password - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-entry-editor-for-diverse-tech-landscape-of-2023/"><u>The Ultimate Entry Editor for Diverse Tech Landscape of 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-iphones-for-gamers-which-one-should-you-choose/"><u>Top iPhones for Gamers: Which One Should You Choose?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-hobby-into-habit-making-money-with-vlogs-for-2024/"><u>Turning Hobby Into Habit Making Money with Vlogs for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-and-activating-the-bitwarden-master-password-reminder-a-step-by-step-guide/"><u>Understanding & Activating the Bitwarden Master Password Reminder: A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-invest-in-1password-exceptional-security-and-features-justify-premium-price-tag-for-users-cyberguardian-review/"><u>Why Invest in 1Password? Exceptional Security and Features Justify Premium Price Tag for Users | CyberGuardian Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-investigates-the-recent-cybersecurity-breach-exposing-30kplus-healthcare-workers-confidential-details-in-florida-database/"><u>ZDNet Investigates the Recent Cybersecurity Breach Exposing 30K+ Healthcare Workers' Confidential Details in Florida Database</u></a></li>
 </ul></div>
 

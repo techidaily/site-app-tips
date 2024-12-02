@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: How Non-Apple Companies Offer More Enjoyable Work Experiences, Confirms Ex-Employee | ZDNET"
-date: 2024-11-09T18:32:51.996Z
-updated: 2024-11-13T16:59:57.542Z
+date: 2024-11-29T23:19:33.269Z
+updated: 2024-12-02T05:52:10.265Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,15 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-instagrams-blueprint-for-building-a-profitable-presence-for-2024/"><u>[New] Instagram's Blueprint for Building a Profitable Presence for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-beginners-primer-on-virtual-reality-concepts/"><u>2024 Approved A Beginner's Primer on Virtual Reality Concepts</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-f23-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo F23 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-syncing-your-chats-with-icloud-via-whatsapp/"><u>Comprehensive Guide: Syncing Your Chats with iCloud via WhatsApp</u></a></li>
-<li><a href="https://win-dash.techidaily.com/comprehensive-logitech-m510-update-manual-ensuring-compatibility-and-performance/"><u>Comprehensive Logitech M510 Update Manual: Ensuring Compatibility and Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-steps-to-save-whatsapp-chat-videos-across-iphone-android-devices-and-laptops/"><u>Effortless Steps to Save WhatsApp Chat Videos Across iPhone, Android Devices, and Laptops</u></a></li>
-<li><a href="https://app-tips.techidaily.com/fixing-your-missing-whatsapp-backups-unveiling-reasons-behind-and-effective-solutions-to-try/"><u>Fixing Your Missing WhatsApp Backups: Unveiling Reasons Behind and Effective Solutions to Try</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/maximizing-impact-livestreaming-360-degree-video-magic-on-youtube/"><u>Maximizing Impact Livestreaming 360-Degree Video Magic on YouTube</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-completely-removing-your-whatsapp-profile-from-ios-devices/"><u>Step-by-Step Guide: Completely Removing Your WhatsApp Profile From iOS Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-lava-blaze-2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Lava Blaze 2 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-open-access-to-the-masters-oeuvre/"><u>[New] 2024 Approved Open Access to the Masters' Oeuvre</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1716069152556-updated-2024-approved-silent-blades-and-righteous-honor-your-next-game-adventure-awaits/"><u>[Updated] 2024 Approved Silent Blades & Righteous Honor Your Next Game Adventure Awaits!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-elevate-entertainment-a-thousand-gaming-channels/"><u>[Updated] Elevate Entertainment A Thousand Gaming Channels</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-beat-a-thon-essential-playlists-for-tiktoks-hot-rappers/"><u>[Updated] In 2024, Beat-a-Thon Essential Playlists for TikTok's Hot Rappers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-speakers-file-extract-and-analysis/"><u>[Updated] Speaker's File Extract & Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-2024-guide-top-5-best-offline-and-online-ai-powered-video-stabilization-tools/"><u>Best 2024 Guide: Top 5 Best Offline & Online AI-Powered Video Stabilization Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-5-artificial-intelligence-applications-for-enhancing-monochrome-footage/"><u>Best Top 5 Artificial Intelligence Applications for Enhancing Monochrome Footage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-ranked-automated-video-editing-tools-discover-the-5-leading-ai-applications/"><u>Best Top-Ranked Automated Video Editing Tools: Discover the 5 Leading AI Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-artificial-intelligence-highlight-videos-essentials-and-software/"><u>Comprehensive Guide to Artificial Intelligence Highlight Videos: Essentials & Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-monicas-artificial-intelligence-powers-and-effective-strategies-for-utilizing-chatgpt/"><u>Discover Monica's Artificial Intelligence Powers and Effective Strategies for Utilizing ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-top-5-alternatives-to-voicemyai-for-crafting-artificial-intelligence-powered-voice-assistants/"><u>Discover Top 5 Alternatives to voicemy.ai for Crafting Artificial Intelligence-Powered Voice Assistants</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-analysis-avclabs-video-boosting-technology-advantages-and-limitations/"><u>Expert Analysis: AVClabs' Video Boosting Technology - Advantages & Limitations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-complexities-behind-controlling-artificial-intelligence-systems/"><u>Exploring the Complexities Behind Controlling Artificial Intelligence Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-apple-iphone-11-location-on-skout-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Apple iPhone 11 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-stable-diffusion-ai-exploring-the-capabilities-of-a-cutting-edge-image-synthesis-tool/"><u>In-Depth Analysis of Stable Diffusion AI - Exploring the Capabilities of a Cutting-Edge Image Synthesis Tool</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210355826-9781644113998-love-in-the-time-of-impermanence/"><u>Love in the Time of Impermanence | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-note-habits-with-mematics-tools-for-2024/"><u>Transform Your Note Habits with Mematic's Tools for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-leading-video-transcription-apps-for-flawless-text-output/"><u>Ultimate Selection of Leading Video Transcription Apps for Flawless Text Output</u></a></li>
 </ul></div>
 

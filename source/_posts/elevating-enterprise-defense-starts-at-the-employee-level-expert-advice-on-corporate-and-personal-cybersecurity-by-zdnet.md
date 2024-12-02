@@ -1,7 +1,7 @@
 ---
 title: Elevating Enterprise Defense Starts at the Employee Level – Expert Advice on Corporate and Personal Cybersecurity by ZDNet
-date: 2024-11-19T05:15:45.181Z
-updated: 2024-11-23T18:14:42.859Z
+date: 2024-11-25T20:22:02.466Z
+updated: 2024-12-02T06:34:47.127Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Corporations aren't doing enough to improve their employees' personal security practices. Credentials remain the highest targeted data type as they are the gateway to ransomware and data theft. 61% of data breaches in 2021 involved the use of stolen and misused credentials. Bad actors took advantage of a global pandemic to increase the number of phishing attacks, the cause of stolen credentials in 36% of breaches -- a 9% increase over last year -- according to the [Verizon 2021 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdfx). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,16 +66,22 @@ Given how connected we all are, the rising demands of working anywhere, and incr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-smartphones-meet-virtual-worlds-top-10-headsets/"><u>[Updated] Smartphones Meet Virtual Worlds - Top 10 Headsets</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-android-videography-6-must-try-music-videos-apps/"><u>2024 Approved Best Android Videography 6 Must-Try Music Videos Apps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-top-10-music-videos-on-facebook/"><u>2024 Approved Top 10 Music Videos on Facebook</u></a></li>
-<li><a href="https://app-tips.techidaily.com/5-advanced-ai-solutions-dominating-the-market-in-automatic-video-editing-technology/"><u>5 Advanced AI Solutions Dominating the Market in Automatic Video Editing Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-elevenlabs-discovering-four-remarkable-alternatives-an-in-depth-analysis-of-their-unique-features/"><u>Beyond ElevenLabs: Discovering Four Remarkable Alternatives - An In-Depth Analysis of Their Unique Features</u></a></li>
-<li><a href="https://fox-access.techidaily.com/chromatic-excellence-program/"><u>Chromatic Excellence Program</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-adobes-full-voice-amplifier-features-and-tips/"><u>Comprehensive Guide to Adobe's Full Voice Amplifier: Features & Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-stable-diffusions-text-to-image-generative-ai/"><u>Comprehensive Guide: Understanding Stable Diffusion's Text-to-Image Generative AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/constructing-fitness-goals-leveraging-ai-insight/"><u>Constructing Fitness Goals: Leveraging AI Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-the-leading-substitutes-for-voicemyai-your-guide-to-innovative-ai-voice-solutions/"><u>Explore the Leading Substitutes for voicemy.ai: Your Guide to Innovative AI Voice Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/voicing-artifice-intelligence-how-chatgpt-revolutionizes-interaction-with-openai/"><u>Voicing Artifice Intelligence: How ChatGPT Revolutionizes Interaction with OpenAI</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-visuals-meet-melodies-audio-visual-magic-for-2024/"><u>[New] Visuals Meet Melodies Audio-Visual Magic for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-mastering-iphone-autofocusing-a-guide-for-users-for-2024/"><u>[Updated] Mastering iPhone Autofocusing A Guide for Users for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-enhanced-functionality-in-windows-11s-most-recent-update-tech-news-zdnet/"><u>Discover the Enhanced Functionality in Windows 11'S Most Recent Update | Tech News - ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-intel-iris-plus-gvt-655-graphics-driver-compatible-with-windows-10-and-11/"><u>Download Intel Iris Plus GVT 655 Graphics Driver - Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-businesses-through-xr-virtual-replicas-and-immersive-computing-for-enhanced-user-experience-zdnet/"><u>Empowering Businesses Through XR, Virtual Replicas, and Immersive Computing for Enhanced User Experience | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-protection-juniper-networks-integrates-advanced-cloud-firewall-into-its-comprehensive-sase-offerings-on-zdnet/"><u>Expanding Protection: Juniper Networks Integrates Advanced Cloud Firewall Into Its Comprehensive SASE Offerings on ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-latest-upgrade-iphone-16s-revolutionary-camera-button-revealed/"><u>Exploring the Latest Upgrade: IPhone 16'S Revolutionary Camera Button Revealed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linux-vendor-kernel-security-compromised-recent-research-confirms-and-suggests-remedies-zdnet/"><u>Linux Vendor Kernel Security Compromised? Recent Research Confirms & Suggests Remedies | ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/maximize-game-time-top-10-ps5-external-hddssd/"><u>Maximize Game Time Top 10 PS5 External HDD/SSD</u></a></li>
+<li><a href="https://app-tips.techidaily.com/polarization/"><u>Polarization</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-leading-8-applications-of-artificer-intellect-essential-tips-for-tech-enthusiasts/"><u>The Leading 8 Applications of Artificer Intellect - Essential Tips for Tech Enthusiasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-customer-relationship-management-crm-systems-optimal-choices-for-small-and-medium-businesses-insights-by-zdnet/"><u>Top Customer Relationship Management (CRM) Systems : Optimal Choices for Small and Medium Businesses - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-power-of-live-view-expert-tips-for-navigating-with-google-maps/"><u>Unlocking the Power of Live View: Expert Tips for Navigating with Google Maps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-booming-growth-of-no-codelow-code-solutions-and-its-impact-on-it-career-paths/"><u>ZDNet Explores the Booming Growth of No-Code/Low-Code Solutions and Its Impact on IT Career Paths</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Snowflake Unveils Advanced LLM Surpassing Meta's LLaMA 3 with Reduced Training Data | Tech News
-date: 2024-11-03T16:30:50.174Z
-updated: 2024-11-04T16:46:05.256Z
+date: 2024-11-28T19:11:52.547Z
+updated: 2024-12-02T00:53:14.465Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-syncing-your-browser-with-auto-play-feature-in-facebook/"><u>[New] 2024 Approved Syncing Your Browser with Auto-Play Feature in Facebook</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-picturecut-pro/"><u>[New] PictureCut Pro</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-harmonys-choice-top-10-songs-that-say-yes/"><u>[Updated] 2024 Approved Harmony's Choice Top 10 Songs That Say 'Yes!'</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ethereal-3-face-off-apparition-4-takes-the-stage/"><u>[Updated] In 2024, Ethereal 3 Face-Off Apparition 4 Takes the Stage</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-windowsmac-tutorials-for-skype-audio-and-video-archive/"><u>[Updated] Windows/Mac Tutorials for Skype Audio & Video Archive</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-21-zedge-mobile-applications-premium-sounds-and-images-for-android-and-ios-devices/"><u>Best 21 Zedge Mobile Applications: Premium Sounds and Images for Android and iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-apple-music-evaluation-cost-analysis-and-features-breakdown-free-download/"><u>Comprehensive Apple Music Evaluation: Cost Analysis & Features Breakdown - Free Download</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-our-selection-of-the-top-8-multi-number-applications-for-smartphones/"><u>Discover Our Selection of the Top 8 Multi-Number Applications for Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-instructions-on-how-to-exit-your-account-in-facebook-messenger/"><u>Easy Instructions on How to Exit Your Account in Facebook Messenger</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-itel-s23plus-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Itel S23+ For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/speed-up-your-experience-top-three-methods-for-swiftly-moving-applications-from-older-iphone-to-newer-model/"><u>Speed Up Your Experience: Top Three Methods for Swiftly Moving Applications From Older iPhone to Newer Model</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-solution-effective-ways-to-repair-your-facebook-messaging-app-when-it-stops-working/"><u>Step-by-Step Solution: Effective Ways to Repair Your Facebook Messaging App When It Stops Working</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/stepwise-strategies-for-high-quality-time-lapse-videos-in-gopro-studio/"><u>Stepwise Strategies for High Quality Time Lapse Videos in GoPro Studio</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-18-most-popular-emoji-apps-for-iphones-and-android-phones/"><u>The Ultimate List of the 18 Most Popular Emoji Apps for iPhones and Android Phones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-audio-management-apps-compatible-with-pc-mac-ios-and-android-devices/"><u>Top 10 Audio Management Apps Compatible with PC, Mac, iOS & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-android-app-locks-essential-guides-and-reviews/"><u>Top-Rated Android App Locks: Essential Guides and Reviews</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-what-are-the-best-site-to-promote-youtube-videos/"><u>[Updated] 2024 Approved What Are the Best Site to Promote YouTube Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-artificial-intelligence-create-an-engaging-radio-experience-for-modern-audiences/"><u>Can Artificial Intelligence Create an Engaging Radio Experience for Modern Audiences?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-t2-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo T2 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726027505313-gif/"><u>GIFカラーアジェンダ: デジタルペインティングツール・オンラインプラットフォームのベスト</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-linking-your-psvr-headset-with-your-computer-a-step-by-step-tutorial/"><u>Guide: Linking Your PSVR Headset with Your Computer - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-streamlined-regulations-are-boosting-aseans-path-to-a-2t-digital-economy-by-2030-featured-on-zdnet/"><u>How Streamlined Regulations Are Boosting ASEAN's Path to a $2T Digital Economy by 2030, Featured on ZDNET</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-realme-narzo-n55-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Realme Narzo N55</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovating-for-sustainability-ais-role-in-developing-next-gen-green-smart-appliances-exclusive-report/"><u>Innovating for Sustainability: AI's Role in Developing Next-Gen Green Smart Appliances | Exclusive Report</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavimpeg-mp4/"><u>Movaviアプリを使ったフリーなMPEG ファイル変換 - MP4形式へ</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-challenges-in-ai-for-profitable-ventures-expert-tips-by-zdnet/"><u>Navigating Challenges in AI for Profitable Ventures | Expert Tips by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-hurdles-of-uncertainty-in-ai-efficiency-and-precision-insights-from-zdnet/"><u>Navigating the Hurdles of Uncertainty in AI Efficiency & Precision - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainties-of-ai-outputs-and-reliability-in-modern-tech-challenges/"><u>Navigating the Uncertainties of AI Outputs & Reliability in Modern Tech Challenges</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-balance-between-ai-advancements-and-job-expansion-within-the-cybersecurity-sector-insights-from-zdnet/"><u>The Balance Between AI Advancements and Job Expansion Within the Cybersecurity Sector: Insights From ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-final-word-on-powerdirector-a-complete-review/"><u>The Final Word on PowerDirector A Complete Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transparency in Tech: Swiss Fed Government Goes Full Open Source for Software Development"
-date: 2024-10-06T11:04:00.441Z
-updated: 2024-10-11T16:19:38.304Z
+date: 2024-11-28T03:26:38.024Z
+updated: 2024-12-01T19:01:05.755Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-best-tiktok-watermark-remover-apps-for-iphone-and-android/"><u>[New] In 2024, Best TikTok Watermark Remover Apps for iPhone and Android</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-dual-platform-dance-posting-vids-with-twitter-and-tumblr-for-2024/"><u>[Updated] The Dual-Platform Dance Posting Vids with Twitter & Tumblr for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/webmmkv-movavi/"><u>無料WebM到MKV同步變更 - 使用Movavi的簡易指南</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-12-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 12 Pro Max/iPad? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/huge-savings-alert-dashlane-premium-passwords-get-cut-in-half-score-a-50-discount/"><u>Huge Savings Alert: Dashlane Premium Passwords Get Cut in Half - Score a 50% Discount!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/malware-distribution-tactics-uncovered-by-proofpoint-leveraging-popular-concerts-like-justin-bieber-and-the-weeknd-as-a-scam-vector/"><u>Malware Distribution Tactics Uncovered by Proofpoint: Leveraging Popular Concerts Like Justin Bieber and The Weeknd as a Scam Vector</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximize-security-for-up-to-10-users-using-1passwords-economical-monthly-plan-of-1995-discover-more-inside-zdnet/"><u>Maximize Security for Up to 10 Users Using 1Password's Economical Monthly Plan of $19.95 | Discover More Inside ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protect-online-passwords-easily-get-a-whopping-3-month-trial-of-dashlane-premium-at-only-1-from-zdnet/"><u>Protect Online Passwords Easily: Get a Whopping 3-Month Trial of Dashlane Premium at Only $1 From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-over-150m-accounts-how-google-activated-two-factor-authentication-by-default/"><u>Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-power-of-compact-phones-a-comprehensive-review-of-the-iphone-n-12-mini/"><u>The Power of Compact Phones: A Comprehensive Review of the iPhone N 12 Mini</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-free-password-managers-comprehensive-reviews-and-comparisons/"><u>Top Rated Free Password Managers - Comprehensive Reviews and Comparisons</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-of-the-best-unlimited-recorders-top12/"><u>[Updated] 2024 Approved Best of the Best Unlimited Recorders, #Top12</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-with-microsoft-a-step-by-step-guide-on-upgrading-to-windows-pro-edition-and-its-advantages/"><u>Advancing with Microsoft: A Step-by-Step Guide on Upgrading to Windows Pro Edition & Its Advantages</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banishing-blur-tackling-monitor-flickering-troubles/"><u>Banishing Blur: Tackling Monitor Flickering Troubles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/continuity-of-microsoft-365-support-for-office-2016-and-2019-what-to-expect-in-the-coming-year-zdnet/"><u>Continuity of Microsoft 365 Support for Office 2016 & 2019: What to Expect in the Coming Year | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/download-xmovies8-free-save-and-enjoy-your-favorite-films-anytime-even-offline/"><u>Download XMovies8 Free: Save & Enjoy Your Favorite Films Anytime, Even Offline!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-last-resort-options-for-your-windows-10-system-as-microsoft-ends-support/"><u>Five Last Resort Options for Your Windows 10 System as Microsoft Ends Support</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-on-converting-videos-for-optimal-playback-on-your-ipad/"><u>Guide on Converting Videos for Optimal Playback on Your iPad</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-design-thinking-bridges-the-gap-between-technology-professionals-and-enhancing-customer-experiences-insights-from-zdnet/"><u>How Design Thinking Bridges the Gap Between Technology Professionals and Enhancing Customer Experiences: Insights From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-note-30-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix Note 30 Lock Screen Password</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-industry-with-xr-the-role-of-digital-twins-in-advanced-user-experience-expert-analysis-by-zdnet/"><u>Revolutionizing Industry with XR: The Role of Digital Twins in Advanced User Experience | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/time-for-an-upgrade-comparing-the-apple-watch-series-10-and-series-8-to-discover-the-ultimate-smartwatch-of-2023-techadvise/"><u>Time for an Upgrade?: Comparing the Apple Watch Series 10 and Series 8 to Discover the Ultimate Smartwatch of 2023 | TechAdvise.</u></a></li>
 </ul></div>
 

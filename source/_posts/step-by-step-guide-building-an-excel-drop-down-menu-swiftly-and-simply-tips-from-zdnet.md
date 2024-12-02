@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Building an Excel Drop-Down Menu Swiftly & Simply - Tips From ZDNet"
-date: 2024-11-21T17:43:41.380Z
-updated: 2024-11-24T08:00:53.721Z
+date: 2024-11-25T09:16:30.079Z
+updated: 2024-12-01T17:52:09.591Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-explore-the-potential-of-photos-through-radial-distortion-techniques-ps/"><u>[New] 2024 Approved Explore the Potential of Photos Through Radial Distortion Techniques PS</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-a-tale-of-two-streamers-twitchs-faceoff-with-youtube/"><u>[Updated] In 2024, A Tale of Two Streamers Twitch's Faceoff with YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-footage-to-frame-crafting-youtube-thumbnails-on-mobile-devices/"><u>[Updated] In 2024, From Footage to Frame Crafting YouTube Thumbnails on Mobile Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-instantize-dynamic-images-in-photoshop/"><u>[Updated] Instantize Dynamic Images in Photoshop</u></a></li>
-<li><a href="https://app-tips.techidaily.com/debunking-common-errors-in-understanding-how-to-earn-from-big-data-a-deep-dive-nextgen-business-trends/"><u>Debunking Common Errors in Understanding How to Earn From Big Data: A Deep Dive | NextGen Business Trends</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-strategies-for-technology-team-management-dive-into-your-business-foundations-expert-advice-from-zdnet/"><u>Effective Strategies for Technology Team Management: Dive Into Your Business Foundations | Expert Advice From ZDNet</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/exclusive-access-to-free-switch-clones/"><u>Exclusive Access to Free Switch Clones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-prove-the-value-of-generative-ai-overcoming-roi-hurdles-explained-expert-analysis-by-zdnet/"><u>How to Prove the Value of Generative AI - Overcoming ROI Hurdles Explained | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-xiaomi-redmi-note-12r-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Redmi Note 12R in Minutes | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-full-insight-guide-to-efficiently-use-google-docs-speech-to-text/"><u>In 2024, Full Insight Guide to Efficiently Use Google Docs Speech-to-Text</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-ai-hurdles-unlocking-significant-commercial-gains-insights-from-zdnet/"><u>Overcoming AI Hurdles: Unlocking Significant Commercial Gains - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-choosing-leading-web-hosts-of-202-expert-evaluations-and-comparisons-zdnet/"><u>Ultimate Guide to Choosing Leading Web Hosts of 202^%: Expert Evaluations and Comparisons | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-future-careers-surprising-new-tech-positions-with-yet-to-be-named-titles-insights-from-zdnet/"><u>Unveiling Future Careers: Surprising New Tech Positions with Yet-to-Be-Named Titles - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dissecting-biggest-fifa-footage-trends-in-graphs/"><u>[New] Dissecting Biggest FIFA Footage Trends in Graphs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-time-traveling-tactics-top-7-historic-battles-reimagined/"><u>[New] In 2024, Time-Traveling Tactics Top 7 Historic Battles Reimagined</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-10-best-video-calling-software-on-phone-and-pc/"><u>[Updated] In 2024, 10 Best Video Calling Software on Phone and PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-ultimate-guide-to-top-video-recorders/"><u>[Updated] In 2024, Ultimate Guide to Top Video Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-expert-analysis-how-showmore-enhances-your-video-capture-techniques/"><u>2024 Approved Expert Analysis How ShowMore Enhances Your Video Capture Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-premium-content-for-free-music-films-and-more-from-the-itunes-store/"><u>Download Premium Content For Free: Music, Films & More From the iTunes Store</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-sparkle-a-comprehensive-console-care-plan/"><u>Effortless Sparkle: A Comprehensive Console Care Plan</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-preferred-version-easy-free-downloads-of-both-old-and-new-itunes-for-windows-and-mac/"><u>Get Your Preferred Version: Easy Free Downloads of Both Old and New iTunes for Windows & Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/getting-started-with-itunes-on-windows-operating-systems-a-step-by-step-guide/"><u>Getting Started with iTunes on Windows Operating Systems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-fix-it-when-your-iphone-is-not-detected-by-itunes/"><u>How to Fix It when Your iPhone Is Not Detected by iTunes</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-15-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone 15 Location | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ipod-add-on-tutorial-placing-tracks-without-using-itunes-aiseesofts-approach/"><u>IPod Add-On Tutorial: Placing Tracks Without Using iTunes (Aiseesoft's Approach)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/no-more-itunes-required-master-the-art-of-seamless-ipod-management-using-modern-alternatives/"><u>No More iTunes Required: Master the Art of Seamless iPod Management Using Modern Alternatives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcome-sluggish-itunes-discover-the-top-10-proven-tips-for-optimal-performance/"><u>Overcome Sluggish iTunes: Discover the Top 10 Proven Tips for Optimal Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/programming-prowess-comparison-can-chatgpt-outshine-gemini-as-an-ai-developer-assistant/"><u>Programming Prowess Comparison: Can ChatGPT Outshine Gemini as an AI Developer Assistant?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ins-and-outs-of-navigating-the-bing-search-engine-efficiently/"><u>The Ins and Outs of Navigating the Bing Search Engine Efficiently</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-selection-elite-iphone-call-alerts-for-2024/"><u>Ultimate Selection Elite iPhone Call Alerts for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-top-3-methods-for-adding-cover-art-to-your-itunes-library/"><u>Unlocking the Secrets: Top 3 Methods for Adding Cover Art to Your iTunes Library</u></a></li>
 </ul></div>
 

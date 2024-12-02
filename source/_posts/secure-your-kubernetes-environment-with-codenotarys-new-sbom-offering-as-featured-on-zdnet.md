@@ -1,7 +1,7 @@
 ---
 title: Secure Your Kubernetes Environment with Codenotary’s New SBOM Offering, as Featured on ZDNet
-date: 2024-11-12T18:49:44.103Z
-updated: 2024-11-13T16:25:11.634Z
+date: 2024-11-29T03:13:10.593Z
+updated: 2024-12-02T08:17:20.400Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-top-stabilizers-choosing-the-best-for-high-res-cameras-for-2024/"><u>[New] Top Stabilizers Choosing the Best for High-Res Cameras for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-mastering-action-an-insight-into-sj-cam-s6/"><u>[Updated] In 2024, Mastering Action An Insight Into SJ-CAM S6</u></a></li>
-<li><a href="https://app-tips.techidaily.com/30-bargain-alert-access-the-groundbreaking-worlds-first-3-dimensional-password-vault-for-three-years-get-yours-today-from-zdnet/"><u>$30 Bargain Alert! Access the Groundbreaking World's First 3-Dimensional Password Vault for Three Years - Get Yours Today From ZDNet!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-assessing-video-streaming-giants-vs-manycam/"><u>2024 Approved Assessing Video Streaming Giants Vs. ManyCam</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-we-depend-on-instagram-an-in-depth-analysis-by-zdnet/"><u>Can We Depend on Instagram? An In-Depth Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discovering-your-macs-secrets-a-guide-to-finding-passwords-in-the-keychain/"><u>Discovering Your Mac's Secrets: A Guide to Finding Passwords in the Keychain</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-camon-20-pro-5g-lock-screen-password-by-drfone-android/"><u>How To Change Tecno Camon 20 Pro 5G Lock Screen Password?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c22-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C22 Phone FRP Lock</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-tecno-camon-20-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Tecno Camon 20 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://app-tips.techidaily.com/instagrams-reliability-questioned-insights-from-a-zdnet-investigation/"><u>Instagram's Reliability Questioned: Insights From a ZDNet Investigation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-brex-how-1password-enhances-user-security-with-new-online-payment-features-insights-from-zdnet/"><u>Integrating Brex: How 1Password Enhances User Security with New Online Payment Features - Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimized-glare-the-top-software-picks-for-windows-multitouch-monitors/"><u>Optimized Glare: The Top Software Picks for Windows Multitouch Monitors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/safeguard-or-simplify-how-to-remove-pin-protection-on-windows-11-easily/"><u>Safeguard or Simplify? How to Remove PIN Protection on Windows 11 Easily</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-phishing-scams-impersonating-leaders-dhl-microsoft-and-whatsapp-in-the-spotlight/"><u>Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unmasking-crypto-illusions-a-revealing-paper-challenges-bitcoins-anonymity-claims/"><u>Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-using-a-password-manager-is-essential-top-5-benefits-explained-by-zdnet/"><u>Why Using a Password Manager Is Essential: Top 5 Benefits Explained by ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-journeying-through-yesteryears-facebook-posts-on-mobilelaptop/"><u>[New] In 2024, Journeying Through Yesteryear's Facebook Posts on Mobile/Laptop</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-cutting-edge-online-methods-for-supercharging-vhs-artifacts/"><u>[Updated] 2024 Approved Cutting-Edge Online Methods for Supercharging VHS Artifacts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-finding-the-right-sound-for-movie-previews/"><u>[Updated] Finding the Right Sound for Movie Previews</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bing-chat-unveiled-leveraging-artificial-intelligence-and-powerful-gpt-4-algorithms/"><u>Bing Chat Unveiled: Leveraging Artificial Intelligence and Powerful GPT-4 Algorithms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-how-microsofts-bing-chat-revolutionizes-communication-through-advanced-gpt-4-technology/"><u>Discover How Microsoft's Bing Chat Revolutionizes Communication Through Advanced GPT-4 Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-power-of-chatsonic-an-in-depth-review-revealing-essential-facts-about-this-advanced-ai-chatbot/"><u>Discover the Power of Chatsonic – An In-Depth Review Revealing Essential Facts About This Advanced AI Chatbot</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-why-chatai-gdt-and-aichat-stand-out-as-top-ranking-ai-chatbot-apps-for-downloads/"><u>Discover Why ChatAi GDT & AiChat Stand Out as Top-Ranking AI Chatbot Apps for Downloads</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-communication-how-nova-chatgpt-is-setting-new-standards-in-ai-chatbot-conversations/"><u>Elevate Communication: How Nova ChatGPT Is Setting New Standards in AI Chatbot Conversations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-chatsonics-capabilities-an-extensive-review-revealing-insights-on-this-sophisticated-ai-communicator/"><u>Exploring Chatsonic's Capabilities: An Extensive Review Revealing Insights on This Sophisticated AI Communicator</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-missing-sounds-in-your-netflix-stream-with-simple-techniques/"><u>Fixing Missing Sounds in Your Netflix Stream with Simple Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-and-the-looming-cybersecurity-crisis/"><u>Generative AI and the Looming Cybersecurity Crisis</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-poco-m6-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Poco M6 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-overview-of-the-newest-ai-powered-chatbots-integrating-gpt-and-astrology/"><u>Top Rated Overview of the Newest AI-Powered Chatbots: Integrating GPT and Astrology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbelievable-savings-alert-iphone-e-15-pro-max-for-only-one-cent-on-amazon-secrets-revealed/"><u>Unbelievable Savings Alert: IPhone E 15 Pro Max for Only One Cent on Amazon - Secrets Revealed!</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-how-to-convert-video-voice-to-text-online-for-free/"><u>Updated 2024 Approved How To Convert Video Voice to Text Online for Free?</u></a></li>
 </ul></div>
 

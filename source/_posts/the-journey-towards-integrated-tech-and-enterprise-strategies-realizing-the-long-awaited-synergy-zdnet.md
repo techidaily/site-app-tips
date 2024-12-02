@@ -1,7 +1,7 @@
 ---
 title: "The Journey Towards Integrated Tech and Enterprise Strategies: Realizing the Long-Awaited Synergy | ZDNET"
-date: 2024-10-31T16:34:05.867Z
-updated: 2024-11-04T16:02:37.419Z
+date: 2024-11-30T12:47:16.022Z
+updated: 2024-12-02T08:06:23.421Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-account-creation-on-youtube/"><u>[Updated] Navigating Account Creation on YouTube</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-vivavideo-unpacked-a-comprehensive-overview/"><u>2024 Approved VivaVideo Unpacked A Comprehensive Overview</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-redmi-a2-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi Redmi A2 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-top-10-iphone-applications-for-creating-stunning-gif-graphics/"><u>Best Top 10 iPhone Applications for Creating Stunning GIF Graphics</u></a></li>
-<li><a href="https://driver-download.techidaily.com/comprehensive-razer-driver-update-tutorial-for-the-blackwidow-series/"><u>Comprehensive Razer Driver Update Tutorial for the BlackWidow Series</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comprehensive-tutorial-for-recording-teamspeak-conversations-on-pcs-and-macs/"><u>Comprehensive Tutorial for Recording TeamSpeak Conversations on PCs and Macs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-11-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme 11 Pro FRP</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-videos-discover-leading-mobile-apps-including-kinemaster-for-superior-editing-tools/"><u>Master Your Videos: Discover Leading Mobile Apps Including KineMaster for Superior Editing Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-emoji-use-in-android-a-step-by-step-tutorial/"><u>Mastering Emoji Use in Android - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/most-effective-iphone-surveillance-software-your-ultimate-guide-to-discreet-monitoring-tools/"><u>Most Effective iPhone Surveillance Software: Your Ultimate Guide to Discreet Monitoring Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-a2-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo A2 Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-choice-affordable-samsung-mp3-players-compatible-with-galaxy-s8-s9-and-pcs-both-free-and-premium-options-available/"><u>Top Choice Affordable Samsung MP3 Players: Compatible with Galaxy S8, S9 & PCs [Both Free & Premium Options Available]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-launching-into-content-creation-account-setup-on-youtube/"><u>[New] Launching Into Content Creation Account Setup on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unite-your-photos-cross-platform-instagram-collage/"><u>[Updated] 2024 Approved Unite Your Photos Cross-Platform Instagram Collage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-powered-eco-friendly-smart-home-innovations-by-company-name-insights-from-zdnet/"><u>AI-Powered Eco-Friendly Smart Home Innovations by [Company Name]: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-shift-how-generative-ai-is-carving-out-unique-leadership-roles-at-tech-giants-zdnet/"><u>Navigating the Shift: How Generative AI Is Carving Out Unique Leadership Roles at Tech Giants | ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-animate-your-text-the-top-10-generators-to-boost-engagement/"><u>New 2024 Approved Animate Your Text The Top 10 Generators to Boost Engagement</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pearson-global-communication-platform/"><u>Pearson Global Communication Platform</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-challenges-of-integrating-agile-and-ai-development-key-findings-revealed-by-new-study-innovationhub/"><u>The Challenges of Integrating Agile and AI Development – Key Findings Revealed by New Study | InnovationHub</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-obsolescence-of-manual-coding-embracing-ais-advanced-role-in-modern-software-creation-zdnet/"><u>The Obsolescence of Manual Coding: Embracing AI's Advanced Role in Modern Software Creation | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-productivity-how-the-hp-copilotplus-notebook-empowers-distance-working-a-real-life-test-by-zdnet/"><u>Unleashing Productivity: How the HP Copilot+ Notebook Empowers Distance Working - A Real-Life Test by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-how-open-source-draws-in-global-tech-pioneers-insights-from-zdnet/"><u>Unveiling How Open Source Draws in Global Tech Pioneers: Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-13t-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi 13T Pro | Dr.fone</u></a></li>
 </ul></div>
 

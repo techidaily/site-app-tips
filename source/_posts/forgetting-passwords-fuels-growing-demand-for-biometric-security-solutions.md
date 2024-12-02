@@ -1,7 +1,7 @@
 ---
 title: Forgetting Passwords Fuels Growing Demand for Biometric Security Solutions
-date: 2024-11-22T16:25:11.819Z
-updated: 2024-11-23T23:18:33.360Z
+date: 2024-11-29T09:18:56.419Z
+updated: 2024-12-02T09:05:18.022Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,14 +99,20 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamlining-the-process-dells-way-to-screen-recording/"><u>[New] Streamlining the Process Dell's Way to Screen Recording</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-elevate-your-content-pc-video-editing-for-effective-youtube-presentations/"><u>[Updated] Elevate Your Content PC Video Editing for Effective YouTube Presentations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-leading-10-image-cataloging-applications-for-both-windows-and-mac-systems-a-comprehensive-ranking-guide/"><u>Discover the Leading 10 Image Cataloging Applications for Both Windows & Mac Systems: A Comprehensive Ranking Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-8-ultimate-free-fax-applications-for-your-android-device/"><u>Discover the Top 8 Ultimate Free Fax Applications for Your Android Device</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oneplus-nord-ce-3-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to OnePlus Nord CE 3 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-future-of-competitive-play-microsoft-upgrades-anti-cheat-and-optimizes-copilot-pc-systems/"><u>The Future of Competitive Play: Microsoft Upgrades Anti-Cheat and Optimizes Copilot PC Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-the-top-6-iphone-apps-to-restore-your-lost-memories/"><u>Ultimate Guide: The Top 6 iPhone Apps to Restore Your Lost Memories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyycro-adrian-jones/"><u>インテリジェント プロセッシングオートメーション産業の成長戦略、ABBYY社CRO Adrian Jonesが推進</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-maximize-gameplay-efficiency-with-top-monitor-extensions/"><u>[New] In 2024, Maximize Gameplay Efficiency With Top Monitor Extensions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treamlined-method-to-track-down-your-voice-in-youtube-threads/"><u>[New] Streamlined Method to Track Down Your Voice in YouTube Threads</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-nine-key-approaches-for-storing-mov-in-windows-environments/"><u>[Updated] 2024 Approved Nine Key Approaches for Storing .mov in Windows Environments</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-photodirector-masterclass-review-for-2024/"><u>[Updated] PhotoDirector Masterclass Review for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-conquering-instagrams-video-challenges-head-on/"><u>2024 Approved Conquering Instagram's Video Challenges Head-On</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-digital-video-capturing-for-professionals-stepwise-process/"><u>2024 Approved Digital Video Capturing for Professionals - Stepwise Process</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anthropic-introduces-the-claude-enterprise-suite-for-enhanced-ai-capabilities-across-large-scale-operations-zdnet-insights/"><u>Anthropic Introduces the Claude Enterprise Suite for Enhanced AI Capabilities Across Large-Scale Operations | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-gap-between-tech-specialists-and-user-experiences-with-innovative-design-strategies/"><u>Bridging the Gap Between Tech Specialists and User Experiences with Innovative Design Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-a-leap-towards-realistic-integration/"><u>Bridging the Tech and Business Divide: A Leap Towards Realistic Integration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-essential-strategies-for-your-windows-10-computer-as-microsoft-support-nears-its-end/"><u>Five Essential Strategies for Your Windows 10 Computer as Microsoft Support Nears Its End</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-past-errors-a-step-by-step-fix-for-a-non-responsive-microsoft-store/"><u>Getting Past Errors: A Step-by-Step Fix for a Non-Responsive Microsoft Store</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-google-pixel-7a-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Google Pixel 7a Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-microsoft-account-protection-strategies-against-cyber-threats-techadvice/"><u>Securing Your Microsoft Account: Protection Strategies Against Cyber Threats - TechAdvice</u></a></li>
+<li><a href="https://app-tips.techidaily.com/six-essential-strategies-for-effective-agile-approach-in-software-design-insights-from-zdnet/"><u>Six Essential Strategies for Effective Agile Approach in Software Design - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-majority-of-ai-projects-falter-predicts-gartner-the-future-of-generative-tech/"><u>ZDNet Exclusive: Majority of AI Projects Falter, Predicts Gartner | The Future of Generative Tech</u></a></li>
 </ul></div>
 

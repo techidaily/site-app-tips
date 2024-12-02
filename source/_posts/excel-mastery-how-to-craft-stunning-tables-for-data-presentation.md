@@ -1,7 +1,7 @@
 ---
 title: "Excel Mastery: How to Craft Stunning Tables for Data Presentation"
-date: 2024-10-31T17:00:05.106Z
-updated: 2024-11-04T17:20:38.636Z
+date: 2024-11-28T22:51:33.994Z
+updated: 2024-12-02T05:04:11.839Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,24 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-youtube-presence-ideal-release-windows/"><u>[New] 2024 Approved Elevate Youtube Presence Ideal Release Windows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-unveiling-the-secrets-to-youtube-comment-insight-for-2024/"><u>[New] Unveiling the Secrets to YouTube Comment Insight for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-expert-guide-to-creating-compact-engaging-youtube-content/"><u>[Updated] Expert Guide to Creating Compact, Engaging YouTube Content</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unleash-potential-with-optimal-hashtags-for-gaming-vids/"><u>[Updated] Unleash Potential with Optimal Hashtags for Gaming Vids</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1-kostenlose-kopie-einer-sd-karte-mit-windows-versionen-11-10-8-und-7/"><u>1: Kostenlose Kopie Einer SD-Karte Mit Windows (Versionen 11, 10, 8 Und 7)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620191219-7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-audio-equalizer-applications-for-android-top-5-picks/"><u>Best FREE Audio Equalizer Applications for Android: Top 5 Picks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-graphically-advanced-game-emulators-high-quality-visuals-and-optimal-frame-rates/"><u>Best Graphically Advanced Game Emulators: High-Quality Visuals & Optimal Frame Rates</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creating-original-ai-art-with-microsoft-copilot-step-by-step-guide/"><u>Creating Original AI Art with Microsoft Copilot: Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-your-corsair-virtuoso-when-it-stops-working/"><u>Diagnosing and Repairing Your Corsair Virtuoso When It Stops Working</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620195426-download-fun-and-trending-facebook-messenger-stickers-now/"><u>Download Fun & Trending Facebook Messenger Stickers Now!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-apples-device-management-insights-into-mdm-and-platform-implementation-strategies/"><u>Explore Apple's Device Management: Insights Into MDM and Platform Implementation Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-airplay-back-on-track-a-comprehensive-fix-when-it-fails/"><u>Getting AirPlay Back on Track: A Comprehensive Fix when It Fails</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-alternatives-to-googles-ar-interactive-graphics/"><u>In 2024, Alternatives to Google's AR Interactive Graphics</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-assessment-of-apple-music-pricing-structure-advantagesdisadvantages-and-how-to-get-started/"><u>In-Depth Assessment of Apple Music: Pricing Structure, Advantages/Disadvantages, and How to Get Started</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-control-a-guide-for-broken-controllers/"><u>Restoring Control: A Guide for Broken Controllers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-best-5-top-rated-free-mobile-tracking-apps-unveiling-the-options/"><u>The Best 5 Top-Rated Free Mobile Tracking Apps: Unveiling the Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-11-cost-free-pdf-editors-the-ultimate-software-and-web-tool-guide/"><u>Top 11 Cost-Free PDF Editors: The Ultimate Software and Web Tool Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-truth-about-vivavideo-expert-insights-on-selecting-the-perfect-video-editing-tool/"><u>Unveiling the Truth About VivaVideo: Expert Insights on Selecting the Perfect Video Editing Tool</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-delving-into-tseries-streaming-revenue-model-on-youtube/"><u>[New] 2024 Approved Delving Into TSeries' Streaming Revenue Model on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-elite-5-fpv-hmds-for-high-speed-aerial-sports/"><u>[Updated] In 2024, Elite 5 FPV HMDs for High-Speed Aerial Sports</u></a></li>
+<li><a href="https://app-tips.techidaily.com/as-the-need-for-data-talent-expands-one-organizations-proactive-approach-to-skill-development-zdnet/"><u>As the Need for Data Talent Expands, One Organization's Proactive Approach to Skill Development | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-for-singaporean-small-businesses-harnessing-genai-for-employee-development-zdnet/"><u>Comprehensive Guide for Singaporean Small Businesses: Harnessing GenAI for Employee Development | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolution-of-innovation-identifying-a-revolutionary-5g-application-surpassing-traditional-connectivity-boundaries-zdnet/"><u>Evolution of Innovation: Identifying a Revolutionary 5G Application Surpassing Traditional Connectivity Boundaries | ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-your-productivity-with-chatgpt-plugin-setup-instructions/"><u>Maximizing Your Productivity with ChatGPT Plugin Setup Instructions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-top-10-cartoonization-apps-for-mobile-devices/"><u>New In 2024, Top 10 Cartoonization Apps for Mobile Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-samsung-televisions-simplified-a-comprehensive-walkthrough/"><u>Resetting Samsung Televisions Simplified - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-the-conexant-smartaudio-hd-silent-problem-on-windows-11/"><u>Troubleshooting Steps: Resolving the Conexant SmartAudio HD Silent Problem on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-using-phrozen-sonic-mega-8k-s-resin-in-your-printer-farm-setup/"><u>Ultimate Guide to Using Phrozen Sonic Mega 8K S Resin in Your Printer Farm Setup</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/visual-studio-code-wiederherstellung-von-geloschten-dateien-die-nicht-im-papierkorb-waren/"><u>Visual Studio Code: Wiederherstellung Von Gelöschten Dateien, Die Nicht Im Papierkorb Waren</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-small-and-medium-sized-businesses-overlook-necessary-cybersecurity-coverage-insights-from-zdnet/"><u>Why Small and Medium-Sized Businesses Overlook Necessary Cybersecurity Coverage: Insights From ZDNet</u></a></li>
 </ul></div>
 

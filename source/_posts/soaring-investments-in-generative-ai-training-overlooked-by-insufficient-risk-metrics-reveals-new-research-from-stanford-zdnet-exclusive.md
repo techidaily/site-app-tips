@@ -1,7 +1,7 @@
 ---
 title: Soaring Investments in Generative AI Training Overlooked by Insufficient Risk Metrics, Reveals New Research From Stanford | ZDNET Exclusive
-date: 2024-10-08T05:45:14.221Z
-updated: 2024-10-12T02:13:20.725Z
+date: 2024-11-28T11:10:42.569Z
+updated: 2024-12-02T09:02:58.962Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-tiktok-files-free-and-unmarked-your-savior/"><u>[Updated] In 2024, TikTok Files, Free and Unmarked Your Savior</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-path-to-higher-engagement-essential-shortcuts-for-youtubers-for-2024/"><u>[Updated] The Path to Higher Engagement Essential Shortcuts for YouTubers for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-syncing-your-chats-with-icloud-via-whatsapp/"><u>Comprehensive Guide: Syncing Your Chats with iCloud via WhatsApp</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/digital-cosmos-display-top-pick-hdr-sky-sites-list-for-2024/"><u>Digital Cosmos Display Top Pick HDR Sky Sites List for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-gigabyte-ethernet-drivers-here-free-download/"><u>Get the Latest Gigabyte Ethernet Drivers Here - Free Download!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expert-analysis-the-best-webcam-videotaping-tools/"><u>In 2024, Expert Analysis The Best WebCam Videotaping Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-hone-your-livestream-skills-on-youtubes-premier-platform/"><u>In 2024, Hone Your Livestream Skills on YouTube's Premier Platform</u></a></li>
-<li><a href="https://article-files.techidaily.com/mastering-the-art-of-photo-color-correction/"><u>Mastering the Art of Photo Color Correction</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-messaging-ultimate-guide-to-whatsapp-passwords-on-ios-and-android-devices/"><u>Secure Your Messaging: Ultimate Guide to WhatsApp Passwords on iOS & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-no-backup-available-errors-in-whatsapp-understanding-the-cause-and-top-5-remediation-strategies/"><u>Solving 'No Backup Available' Errors in WhatsApp: Understanding the Cause & Top 5 Remediation Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-completely-removing-your-whatsapp-profile-from-ios-devices/"><u>Step-by-Step Guide: Completely Removing Your WhatsApp Profile From iOS Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/top-choices-animation-friendly-3d-model-tools/"><u>Top Choices Animation-Friendly 3D Model Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-techniques-for-retrieving-lost-whatsapp-messages-on-android-devices/"><u>Top Techniques for Retrieving Lost WhatsApp Messages on Android Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-nba-game-streaming-a-comprehensive-guide/"><u>[Updated] In 2024, Mastering NBA Game Streaming A Comprehensive Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-ultimate-audio-guide-to-the-top-5-4k-recording-microphones/"><u>[Updated] In 2024, Ultimate Audio Guide to the Top 5 4K Recording Microphones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-youtube-partnership-aim-for-a-10k-views-target/"><u>[Updated] Unlock YouTube Partnership Aim for a 10K Views Target</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ryzen-9000-undercuts-prices-secure-your-unit-today-at-best-buy-below-the-marked-down-ryzen-n7000-rates/"><u>AMD Ryzen 9000 Undercuts Prices: Secure Your Unit Today at Best Buy Below the Marked-Down Ryzen N7000 Rates</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cognitive-network-advancements-from-arista-enter-mainstream-sectors-a-deep-dive-tech-insights/"><u>Cognitive Network Advancements From Arista Enter Mainstream Sectors: A Deep Dive - Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-elite-learning-management-solutions-rated-by-tech-experts-at-zdnet/"><u>Explore Elite Learning Management Solutions Rated by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-find-x6-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo Find X6 Phone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/langchains-revolutionary-approach-to-making-genai-truly-beneficial-as-featured-on-zdnet/"><u>LangChain's Revolutionary Approach to Making GenAI Truly Beneficial, as Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamlining-it-management-with-artificial-intelligence-red-hats-approach-to-simplifying-admin-duties/"><u>Streamlining IT Management with Artificial Intelligence: Red Hat's Approach to Simplifying Admin Duties</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-are-gaining-traction-in-tech-circles-zdnet/"><u>The Rising Popularity: How OpenStack & Kata Containers Are Gaining Traction in Tech Circles | ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-15-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 15 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-latest-features-of-macos-sonoma-your-ultimate-guide-all-tips-and-insights-from-zdnet/"><u>Unveiling the Latest Features of macOS Sonoma: Your Ultimate Guide - All Tips and Insights From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-13t-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi 13T Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

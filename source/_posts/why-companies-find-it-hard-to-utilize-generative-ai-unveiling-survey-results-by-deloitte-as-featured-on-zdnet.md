@@ -1,7 +1,7 @@
 ---
 title: Why Companies Find It Hard to Utilize Generative AI - Unveiling Survey Results by Deloitte as Featured on ZDNet
-date: 2024-11-01T16:15:09.782Z
-updated: 2024-11-04T16:26:08.555Z
+date: 2024-11-30T12:09:10.398Z
+updated: 2024-12-02T10:57:20.992Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-enhance-visibility-essential-youtube-seo-strategies-revealed/"><u>[Updated] 2024 Approved Enhance Visibility Essential YouTube SEO Strategies Revealed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-the-legal-aspects-of-youtube-content-capture/"><u>[Updated] 2024 Approved Exploring the Legal Aspects of YouTube Content Capture</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-resource-for-mac-users-unlocking-preview-capabilities/"><u>[Updated] In 2024, The Ultimate Resource for Mac Users Unlocking Preview Capabilities</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-youtube-short-mastery-from-idea-to-final-product-for-2024/"><u>[Updated] YouTube Short Mastery From Idea to Final Product for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-instant-guide-image-to-thumbnail-magic-for-your-youtube-channel/"><u>2024 Approved Instant Guide Image-To-Thumbnail Magic for Your YouTube Channel</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/a-complete-walkthrough-on-editing-your-videos-covers-on-fb/"><u>A Complete Walkthrough on Editing Your Videos' Covers on FB</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-free-mobile-radio-player-on-apple-devices-iphoneipadipod-touch/"><u>Discover the Ultimate Free Mobile Radio Player on Apple Devices (iPhone/iPad/iPod Touch)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discovering-concealed-ios-applications-a-comprehensive-guide/"><u>Discovering Concealed iOS Applications: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-strategies-for-preventing-spam-messages-in-ios-devices-guide-for-iphone-and-ipad-including-ios-18/"><u>Effective Strategies for Preventing Spam Messages in iOS Devices: Guide for iPhone & iPad (Including iOS 18)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-evaluation-the-picku-application-and-comparable-no-cost-image-editing-solutions/"><u>Expert Evaluation: The PickU Application & Comparable No-Cost Image Editing Solutions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-tips-effective-techniques-to-preserve-all-your-iphone-app-data/"><u>Quick Tips: Effective Techniques to Preserve All Your iPhone App Data</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-secure-android-app-protectors-find-out-which-ones-rank-the-highest/"><u>Ultimate Selection of Secure Android App Protectors – Find Out Which Ones Rank the Highest</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-transform-tales-gratuitous-enhancements-across-platforms/"><u>[New] Transform Tales Gratuitous Enhancements Across Platforms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-becoming-proficient-in-ez-grabber-technology-for-2024/"><u>[Updated] Becoming Proficient in EZ Grabber Technology for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-as-a-savior-for-overworked-it-staff-mitigating-job-burnout-and-alert-fatigue-insights/"><u>AI as a Savior for Overworked IT Staff - Mitigating Job Burnout and Alert Fatigue Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-chatbot-bias-revealed-lingual-limitations-highlighted-by-new-stanford-research-insights-on-googles-language-barrier/"><u>AI Chatbot Bias Revealed: Lingual Limitations Highlighted by New Stanford Research - Insights on Google's Language Barrier</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-revolution-exploring-how-generative-technology-could-increase-the-volume-of-work-tech-insights-on-zdnet/"><u>AI Revolution: Exploring How Generative Technology Could Increase the Volume of Work | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-audacity-over-convenience-bank-cios-call-to-elevate-ai-challenges-dismiss-lazy-prompt-creation-exclusive-on-zdnet/"><u>Embracing Audacity Over Convenience: Bank CIO's Call to Elevate AI Challenges, Dismiss Lazy Prompt Creation - Exclusive on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-opportunities-for-new-players-in-the-ai-model-development-arena-insights-from-zdnet/"><u>Exploring Opportunities for New Players in the AI Model Development Arena - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-generative-ai-could-increase-labor-demand-despite-efficiency-promises-insights-from-zdnet/"><u>How Generative AI Could Increase Labor Demand Despite Efficiency Promises: Insights From ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lava-lock-screen-password-by-drfone-android/"><u>How To Change Lava Lock Screen Password?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-elevate-cinematic-quality-introducing-device-based-filters/"><u>In 2024, Elevate Cinematic Quality Introducing Device-Based Filters</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-f15-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy F15 5G Through Google Earth?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-thriving-on-youtube-universal-studio-techniques-explained/"><u>In 2024, Thriving on YouTube Universal Studio Techniques Explained</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-ai-limitations-an-in-depth-look-at-precision-challenges-by-zdnet/"><u>Mastering AI Limitations: An In-Depth Look at Precision Challenges by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-digital-defense-the-urgent-call-for-enhanced-cybersecurity-expertise-amidst-legacy-system-challenges/"><u>Navigating the Digital Defense: The Urgent Call for Enhanced Cybersecurity Expertise Amidst Legacy System Challenges</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-path-to-becoming-a-chief-artificial-intelligence-officer-insights-and-strategies/"><u>Navigating the Path to Becoming a Chief Artificial Intelligence Officer | Insights & Strategies</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/section-3c-qandas-on-ocular-pathophysiology/"><u>Section 3C: Q&As on Ocular Pathophysiology</u></a></li>
+<li><a href="https://extra-information.techidaily.com/srgb-efficiency-against-basic-rgb/"><u>Srgb Efficiency Against Basic Rgb</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/mline-your-music-library-6-free-ios-apps-for-youtube-conversion/"><u>Streamline Your Music Library 6 Free iOS Apps for YouTube Conversion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unlocking-secrets-the-battle-of-biometric-systems-in-phones-for-2024/"><u>Unlocking Secrets The Battle of Biometric Systems in Phones for 2024</u></a></li>
 </ul></div>
 

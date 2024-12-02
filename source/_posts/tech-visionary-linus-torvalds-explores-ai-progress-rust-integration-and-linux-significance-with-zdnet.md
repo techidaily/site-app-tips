@@ -1,7 +1,7 @@
 ---
 title: Tech Visionary Linus Torvalds Explores AI Progress, Rust Integration, and Linux Significance with ZDNET
-date: 2024-10-28T17:07:57.973Z
-updated: 2024-11-04T16:44:34.468Z
+date: 2024-11-29T03:10:07.769Z
+updated: 2024-12-02T07:57:27.043Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,21 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-easy-peasy-youtube-tutorials-making-content-that-works-for-all/"><u>[New] In 2024, Easy-Peasy YouTube Tutorials Making Content That Works for All</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-top-6-youtube-outros-made-easy-and-free-guide/"><u>[New] In 2024, Top 6 YouTube Outros Made Easy & FREE (Guide)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-tools-for-effortless-recording-of-desktop-screens-on-windows-10/"><u>[New] Top Tools for Effortless Recording of Desktop Screens on Windows 10</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-android-gif-maker-tools-the-ultimate-selection-of-5-funniest-applications/"><u>Best Android GIF Maker Tools: The Ultimate Selection of 5 Funniest Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-complimentary-3ds-emulators-compatible-with-various-devices-including-windowsmaciosandroid-and-web-based-options/"><u>Discover the Ultimate List of Complimentary 3DS Emulators Compatible with Various Devices Including Windows/Mac/iOS/Android and Web-Based Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-android-spying-tools-top-5-selections-for-covert-mobile-monitoring/"><u>Discover the Ultimate List of Free Android Spying Tools - Top 5 Selections for Covert Mobile Monitoring</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-fun-and-trending-facebook-messenger-stickers-now/"><u>Download Fun & Trending Facebook Messenger Stickers Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-efficiently-eliminate-apps-from-your-smartphone-tips-for-ios-and-android-users/"><u>How To Efficiently Eliminate Apps From Your Smartphone: Tips for iOS & Android Users</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oppo-reno-9a-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Oppo Reno 9A to iPod | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/masterpieces-unleashed-a-comprehensive-look-at-the-bestiary-of-8-iphone-drawing-apps-for-2024/"><u>Masterpieces Unleashed A Comprehensive Look at the Bestiary of 8 iPhone Drawing Apps for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mastering-video-import-and-export-in-adobe-premiere-pro/"><u>New In 2024, Mastering Video Import and Export in Adobe Premiere Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-tackle-the-persistent-0x80072efd-problem-in-windows-11/"><u>Step-by-Step Solutions to Tackle the Persistent 0X80072EFD Problem in Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-strategies-to-avoid-ear-damage-from-headphone-use-insights-and-advice/"><u>Top 5 Strategies to Avoid Ear Damage From Headphone Use: Insights and Advice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-emulators-for-running-mobile-apps-on-your-pc-a-comprehensive-guide/"><u>Top 7 Emulators for Running Mobile Apps on Your PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-8-unbeatable-xbox-emulators-for-pc-and-android-an-honest-comparison/"><u>Top 8 Unbeatable Xbox Emulators for PC & Android - An Honest Comparison</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-precision-in-screen-recording-a-comprehensively-reviewed-list/"><u>[New] 2024 Approved Precision in Screen Recording A Comprehensively Reviewed List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-best-approaches-to-non-sound-media/"><u>[Updated] 2024 Approved Best Approaches to Non-Sound Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diy-digital-footprint-creating-youtube-thumbnails-from-mobile-devices/"><u>[Updated] 2024 Approved DIY Digital Footprint Creating YouTube Thumbnails From Mobile Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-discovering-the-ultimate-ai-watermark-techniques-insights-from-zdnet/"><u>1. Discovering the Ultimate AI Watermark Techniques: Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/excellent-hush-helmets-of-the-year-2024/"><u>Excellent Hush Helmets of the Year 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-proof-your-timepiece-know-the-apple-watches-eligible-for-upcoming-watchos-11-update-and-those-that-wont/"><u>Future-Proof Your Timepiece: Know the Apple Watches Eligible for Upcoming WatchOS 11 Update (And Those That Won't)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-huawei-nova-y91-frp-bypass-by-drfone-android/"><u>In 2024, About Huawei Nova Y91 FRP Bypass</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-legacy-systems-lessons-from-a-failed-upgrade-insights-and-strategies/"><u>Navigating Legacy Systems: Lessons From a Failed Upgrade - Insights & Strategies</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/schritt-fur-schritt-anleitung-wie-kannst-du-versehentlich-geloschte-daten-wiederfinden/"><u>Schritt-Für-Schritt-Anleitung: Wie Kannst Du Versehentlich Gelöschte Daten Wiederfinden?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolution-of-coding-from-rote-methods-to-ai-enhanced-software-engineering-insights-from-zdnet/"><u>The Evolution of Coding: From Rote Methods to AI-Enhanced Software Engineering - Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/troubleshooting-failed-windows-system-restore-expert-solutions-and-steps/"><u>Troubleshooting Failed Windows System Restore: Expert Solutions and Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-singapores-2nbillion-commitment-to-supercharge-its-it-infrastructure-and-elevate-digital-solutions-tech-insight/"><u>Unveiling Singapore's $2.nBillion Commitment to Supercharge Its IT Infrastructure and Elevate Digital Solutions | Tech Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-addressing-outdated-technology-is-crucial-a-case-study-on-migration-missteps/"><u>Why Addressing Outdated Technology Is Crucial: A Case Study on Migration Missteps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-pull-of-open-source-for-global-leaders-in-innovation/"><u>ZDNet Explores the Pull of Open Source for Global Leaders in Innovation</u></a></li>
 </ul></div>
 

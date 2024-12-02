@@ -1,7 +1,7 @@
 ---
 title: "Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords"
-date: 2024-11-17T06:02:40.001Z
-updated: 2024-11-24T05:03:24.478Z
+date: 2024-11-25T12:57:37.276Z
+updated: 2024-12-02T11:48:48.649Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Suppose you are in the business of generating passwords, it would probably be a 
 In a [blog post](https://donjon.ledger.com/kaspersky-password-manager/) to cap off an almost two year saga, Ledger Donjon head of security research Jean-Baptiste Bédrune showed KPM was doing just that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,7 +66,7 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -92,17 +92,18 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-camslice-critique/"><u>[New] CamSlice Critique</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fresh-take-on-the-enhanced-sony-s6500-media-device/"><u>[New] Fresh Take on the Enhanced Sony S6500 Media Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sky-eyes-on-the-action-dji-phantom-pro-vs-gopro-fusion/"><u>[New] Sky Eyes on the Action DJi Phantom Pro VS GoPro Fusion</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-top-ranked-automated-video-editing-tools-discover-the-5-leading-ai-applications/"><u>Best Top-Ranked Automated Video Editing Tools: Discover the 5 Leading AI Applications</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/comprehensive-assessment-of-the-advanced-microsoft-surface-studio-2-a-top-tier-all-in-one-machine/"><u>Comprehensive Assessment of the Advanced Microsoft Surface Studio 2 – A Top-Tier All-in-One Machine</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-artificial-intelligence-highlight-videos-essentials-and-software/"><u>Comprehensive Guide to Artificial Intelligence Highlight Videos: Essentials & Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-monicas-artificial-intelligence-powers-and-effective-strategies-for-utilizing-chatgpt/"><u>Discover Monica's Artificial Intelligence Powers and Effective Strategies for Utilizing ChatGPT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-top-5-alternatives-to-voicemyai-for-crafting-artificial-intelligence-powered-voice-assistants/"><u>Discover Top 5 Alternatives to voicemy.ai for Crafting Artificial Intelligence-Powered Voice Assistants</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enlightening-your-iphone-images-through-effective-hdr-methods/"><u>Enlightening Your iPhone Images Through Effective HDR Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-analysis-avclabs-video-boosting-technology-advantages-and-limitations/"><u>Expert Analysis: AVClabs' Video Boosting Technology - Advantages & Limitations</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-blaze-2-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Blaze 2 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-download-setup-and-utilize-ez-grabber-in-no-time-for-2024/"><u>[New] Download, Setup & Utilize EZ Grabber in No Time for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-rated-components-for-smooth-live-transmissions/"><u>[New] In 2024, Top-Rated Components for Smooth Live Transmissions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-leading-least-expensive-stock-images-online/"><u>[Updated] Leading Least Expensive Stock Images Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-your-media-with-these-pro-screenshot-and-video-editors-iphoneandroid/"><u>[Updated] Master Your Media with These Pro Screenshot and Video Editors (iPhone/Android)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-software-development-success-with-agile-awareness-explore-6-key-principles/"><u>Boosting Software Development Success with Agile Awareness: Explore 6 Key Principles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/chrome-os-and-microsoft-unite-seamlessly-running-windows-apps-on-chromebooks-zdnet/"><u>Chrome OS and Microsoft Unite: Seamlessly Running Windows Apps on Chromebooks | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-power-of-ai-introducing-openshift-lightspeed-by-red-hat-the-ultimate-solution-for-kubernetes-administrators/"><u>Discover the Power of AI: Introducing OpenShift Lightspeed by Red Hat – The Ultimate Solution for Kubernetes Administrators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/ideal-extras-for-improving-gopro-experience/"><u>Ideal Extras for Improving GoPro Experience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mimo-systems/"><u>MIMO Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/securing-creativity-nightshades-guide-against-ai-art-replication/"><u>Securing Creativity: Nightshade's Guide Against AI Art Replication</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/5-virtual-classrooms-for-aspiring-scientists/"><u>Top 15 Virtual Classrooms for Aspiring Scientists</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-mind-mapping-tools-and-applications-a-comprehensive-review-by-zdnet/"><u>Top 5 Mind Mapping Tools & Applications : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-or-download-drivers-and-tools-improve-your-hp-deskjet-pert-productivity-with-new-releases/"><u>Update or Download Drivers & Tools: Improve Your HP DeskJet Pert Productivity with New Releases</u></a></li>
 </ul></div>
 

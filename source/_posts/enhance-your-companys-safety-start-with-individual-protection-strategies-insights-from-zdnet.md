@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Company's Safety: Start with Individual Protection Strategies - Insights From ZDNet"
-date: 2024-11-20T01:36:17.848Z
-updated: 2024-11-24T05:24:38.240Z
+date: 2024-11-26T10:18:20.793Z
+updated: 2024-12-02T12:07:28.134Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 Corporations aren't doing enough to improve their employees' personal security practices. Credentials remain the highest targeted data type as they are the gateway to ransomware and data theft. 61% of data breaches in 2021 involved the use of stolen and misused credentials. Bad actors took advantage of a global pandemic to increase the number of phishing attacks, the cause of stolen credentials in 36% of breaches -- a 9% increase over last year -- according to the [Verizon 2021 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdfx). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,17 +66,22 @@ Given how connected we all are, the rising demands of working anywhere, and incr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-pinnacle-actions-recorder-assessment/"><u>[New] 2024 Approved Pinnacle Actions Recorder Assessment</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-get-ahead-in-call-capturing-20plus-techniques-for-windowsmac-users/"><u>[New] Get Ahead in Call Capturing 20+ Techniques for Windows/Mac Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-a-comprehensive-look-at-vrs-strengths-and-weaknesses/"><u>2024 Approved A Comprehensive Look at VR's Strengths and Weaknesses</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-and-seo-synergy-reshaping-online-discoverability-through-intelligent-search-engines/"><u>AI and SEO Synergy: Reshaping Online Discoverability Through Intelligent Search Engines</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-essentials-of-apple-mdm-and-deploying-on-the-ios-ecosystem/"><u>Discover the Essentials of Apple MDM & Deploying on the iOS Ecosystem</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-user-friendly-android-notes-applications-the-best-picks-you-need/"><u>Discover the Ultimate List of FREE, User-Friendly Android Notes Applications: The Best Picks You Need</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-the-mumu-player-a-high-performance-android-simulator-for-desktop-environments/"><u>Experience the MuMu Player: A High-Performance Android Simulator for Desktop Environments</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y28-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y28 5G Phone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-examination-of-nox-player-insights-on-functionality-advantages-and-limitations/"><u>In-Depth Examination of Nox Player: Insights on Functionality, Advantages, and Limitations</u></a></li>
-<li><a href="https://article-tips.techidaily.com/inside-ppros-full-screen-vista-your-handbook-for-2024/"><u>Inside PPro's Full-Screen Vista Your Handbook for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/play-ogg-format-files-at-no-cost-best-cross-platform-ogg-players-for-windows-and-macos/"><u>Play OGG Format Files at No Cost: Best Cross-Platform OGG Players for Windows & macOS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-exploring-remote-desktop-capabilities-within-zoom-on-win11/"><u>[New] In 2024, Exploring Remote Desktop Capabilities Within Zoom on Win11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieve-sql-mastery-with-premier-course-selections-comprehensive-guide-by-zdnet/"><u>Achieve SQL Mastery with Premier Course Selections - Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/antenna-impedance-matching-is-essential-not-only-for-efficient-power-transfer-but-also-because-mismatches-can-distort-the-radiation-pattern-due-to-standing-81/"><u>Antenna Impedance Matching Is Essential Not only for Efficient Power Transfer but Also because Mismatches Can Distort the Radiation Pattern Due to Standing Waves on Transmission Lines.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ciq-gains-support-from-linux-experts-as-main-backer-of-rocks-cluster-os-initiative-techinsight/"><u>CIQ Gains Support From Linux Experts as Main Backer of Rocks Cluster OS Initiative - TechInsight</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-adapter-issue-resolved/"><u>Display Adapter Issue Resolved</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exhaustion-amongst-it-specialists-positive-developments-in-sight/"><u>Exhaustion Amongst IT Specialists - Positive Developments in Sight</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unboxed-talent-the-breakout-females-dominating-youtube/"><u>In 2024, Unboxed Talent The Breakout Females Dominating YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-setups-in-professional-broadcast-equipment/"><u>Leading Setups in Professional Broadcast Equipment</u></a></li>
+<li><a href="https://howto.techidaily.com/realme-narzo-60-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo 60 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-remote-communication-the-emergence-of-an-innovative-lip-reading-challenger-for-microsoft-teams-and-zoom-zdnet/"><u>Revolutionizing Remote Communication: The Emergence of an Innovative Lip-Reading Challenger for Microsoft Teams & Zoom | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-seamlessly-connecting-google-drive-with-slack-tips-from-zdnet/"><u>Step-by-Step Guide: Seamlessly Connecting Google Drive with Slack – Tips From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-premier-linux-learning-experiences-exploring-elite-bootcamps-and-training-opportun-2-engaging-with-the-pioneers-of-tech-a-deep-dive-in82/"><u>The Ultimate Guide to Premier Linux Learning Experiences: Exploring Elite Bootcamps & Training Opportun 2. Engaging with the Pioneers of Tech: A Deep Dive Into Linux Mastery Courses</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ultimate-effortless-giggle-editor/"><u>Ultimate Effortless Giggle Editor</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/sh-the-potential-of-your-video-with-best-thumbnail-fonts/"><u>Unleash the Potential of Your Video with Best Thumbnail Fonts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-enterprise-ai-potential-discover-anthropics-revolutionary-claude-plan-as-featured-on-zdnet/"><u>Unleashing Enterprise AI Potential: Discover Anthropic's Revolutionary Claude Plan as Featured on ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secure-boot-status-a-windows-bios-solution-manual/"><u>Unlocking Secure Boot Status: A Windows BIOS Solution Manual</u></a></li>
 </ul></div>
 

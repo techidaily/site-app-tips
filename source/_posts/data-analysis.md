@@ -1,7 +1,7 @@
 ---
 title: Data Analysis
-date: 2024-11-22T05:27:01.419Z
-updated: 2024-11-24T00:55:14.185Z
+date: 2024-11-28T05:04:46.258Z
+updated: 2024-12-02T03:26:57.323Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effective-visual-branding-crafting-compelling-youtube-logos/"><u>[New] 2024 Approved Effective Visual Branding Crafting Compelling YouTube Logos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mobile-mastery-an-exhaustive-look-at-androids-lightroom/"><u>[New] Mobile Mastery An Exhaustive Look at Android’s Lightroom</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unseen-screenshots-tracking-instagrams-hidden-viewer-list/"><u>[Updated] 2024 Approved Unseen Screenshots Tracking Instagram's Hidden Viewer List</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-dive-into-digital-green-magic-top-4-youtube-sources-for-no-cost-background-workshops/"><u>2024 Approved Dive Into Digital Green Magic Top 4 YouTube Sources for No-Cost Background Workshops</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-insights-ultimate-guide-to-understand-ig-data/"><u>2024 Approved Instagram Insights Ultimate Guide to Understand IG Data</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/blades-blh41n-black-edition-helicopter-detailed-rtf-outdoor-fpv-copter-assessment/"><u>Blade's BLH41n Black Edition Helicopter - Detailed RTF Outdoor FPV Copter Assessment</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-funimate-tips-and-tricks-for-professional-video-editing-and-animation/"><u>Comprehensive Guide to Using Funimate: Tips and Tricks for Professional Video Editing and Animation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortlessly-resolve-freezes-discover-5-steps-to-force-quit-unresponsive-programs-on-your-mac/"><u>Effortlessly Resolve Freezes: Discover 5 Steps to Force Quit Unresponsive Programs on Your Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-get-your-phone-numbers-back-the-best-iphone-apps-reviewed/"><u>How to Get Your Phone Numbers Back: The Best iPhone Apps Reviewed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-infinix-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Infinix Device SIM</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-poco-x6-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Poco X6 Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamless-communication-across-devices-magicapps-cross-platform-calls-and-texting/"><u>Seamless Communication Across Devices: MagicApp's Cross-Platform Calls and Texting</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-disconnecting-from-facebooks-chat-app/"><u>Step-by-Step Guide: Disconnecting From Facebook's Chat App</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-getting-that-trusted-verification-emblem-on-your-profile-in-the-updated-social-sphere-of-formerly-twitter/"><u>The Ultimate Guide to Getting That Trusted Verification Emblem on Your Profile in the Updated Social Sphere of Formerly Twitter</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-top-10-photo-organizing-tools-compatible-with-pcs-and-mac-computers/"><u>The Ultimate List of Top 10 Photo Organizing Tools Compatible with PCs & Mac Computers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/what-is-bluestacks-a-complete-insight-into-this-popular-android-emulator/"><u>What Is BlueStacks? A Complete Insight Into This Popular Android Emulator</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-realtime-replay-recorder/"><u>[New] In 2024, RealTime Replay Recorder</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ransforming-cityscapes-into-sustainable-havens-of-life/"><u>[New] Transforming Cityscapes Into Sustainable Havens of Life</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transform-your-content-game-with-creator-studio-insight/"><u>2024 Approved Transform Your Content Game with Creator Studio Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybersecurity-titans-unite-zerofox-acquires-idx-aligning-with-landf-for-an-impressive-14-billion-powerhouse-revealed-by-zdnet/"><u>Cybersecurity Titans Unite! ZeroFox Acquires IDX, Aligning with L&F for an Impressive $1.4 Billion Powerhouse Revealed by ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/free-vecto-art-and-graphic-sites-compared-whos-the-best/"><u>Free Vecto Art & Graphic Sites Compared – Who's the Best?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-does-the-bitwarden-prompt-for-master-password-work-tips-to-turn-it-on-easily/"><u>How Does the Bitwarden Prompt for Master Password Work? Tips to Turn It On Easily!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-a56s-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo A56s 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-qp-value-enhancing-gradual-movement-vids/"><u>In 2024, Top QP Value Enhancing Gradual Movement Vids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/llama-2-the-next-level-in-automation-tools/"><u>Llama 2: The Next Level in Automation Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/major-new-features-1password-mobile-app-receives-extensive-upgrade-zdnet/"><u>Major New Features: 1Password Mobile App Receives Extensive Upgrade - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/major-revamp-enhanced-security-and-features-in-the-latest-1password-app-for-smartphones/"><u>Major Revamp: Enhanced Security & Features in the Latest 1Password App for Smartphones!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/projectweb-shutdown-announced-fujitsu-reacts-to-japans-government-data-leaks-insights-from-zdnet/"><u>ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-exclusive-offer-on-pioneering-3-year-3d-password-manager-at-just-30-zdnet/"><u>Secure Your Digital Life: Exclusive Offer on Pioneering 3-Year 3D Password Manager at Just $30 | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-streams-why-stronger-passwords-mean-safer-viewing-techdigest/"><u>Secure Your Streams: Why Stronger Passwords Mean Safer Viewing | TechDigest</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-craft-professional-looking-video-invites-with-these-iphone-and-android-apps/"><u>Updated 2024 Approved Craft Professional-Looking Video Invites with These iPhone and Android Apps</u></a></li>
 </ul></div>
 

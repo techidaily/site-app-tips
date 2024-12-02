@@ -1,7 +1,7 @@
 ---
 title: "Section 4B: Five Facts About Advanced Antenna Array Theory"
-date: 2024-10-06T07:24:24.390Z
-updated: 2024-10-11T18:50:36.053Z
+date: 2024-11-24T20:59:41.154Z
+updated: 2024-12-02T03:18:26.755Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,24 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-time-warp-your-snapchat-slideshow-guide/"><u>[New] In 2024, Mastering Time Warp Your Snapchat Slideshow Guide</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-speak-loud-and-clear-on-tiktok-a-comprehensible-guide-for-2024/"><u>[New] Speak Loud and Clear on TikTok - A Comprehensible Guide for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-decoding-the-download-your-guide-to-fb-videography-for-2024/"><u>[Updated] Decoding the Download Your Guide to FB Videography for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-6s-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 6s Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-icloud-backup-essentials/"><u>Comprehensive Guide: Understanding iCloud Backup Essentials</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/conecte-su-unidad-local-a-google-drive-facilmente-con-estos-3-metodos-de-sincronizacion-inteligente/"><u>Conecte Su Unidad Local a Google Drive Fácilmente Con Estos 3 Métodos De Sincronización Inteligente</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-steps-for-reinstating-your-data-from-icloud-backup-without-a-hardware-reset/"><u>Easy Steps for Reinstating Your Data From iCloud Backup without a Hardware Reset</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-guide-to-browse-icloud-pictures-on-the-web/"><u>Effortless Guide to Browse iCloud Pictures on the Web</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-log-out-from-your-icloud-account-safely-top-3-methods-for-iphone-ipad-and-mac-users/"><u>How To Log Out From Your iCloud Account Safely: Top 3 Methods for iPhone, iPad & Mac Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-perform-a-seamless-whatsapp-backup-using-icloud-a-comprehensive-guide/"><u>How To Perform a Seamless WhatsApp Backup Using iCloud: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-remove-icloud-backup-data-from-your-iphone-pc-or-mac-save-storage/"><u>How to Remove iCloud Backup Data From Your iPhone, PC, or Mac: Save Storage</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-inside-polarrs-magic-box-the-ultimate-digital-image-enhancer/"><u>In 2024, Inside Polarr's Magic Box The Ultimate Digital Image Enhancer</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1728498637917-macusb/"><u>MacとUSBメモリ間でのファイル転送問題解決法</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-icloud-security-efficiently-disconnect-across-devices-with-our-3-step-process/"><u>Mastering iCloud Security: Efficiently Disconnect Across Devices with Our 3 Step Process</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-integrating-your-icloud-calendar-on-a-windows-desktop/"><u>Step-by-Step Guide: Integrating Your iCloud Calendar on a Windows Desktop</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-steps-for-removing-your-icloud-email-address-top-strategies-inside/"><u>Ultimate Guide: Steps for Removing Your iCloud Email Address - Top Strategies Inside</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/ultimate-tutorial-simplifying-youtube-subscriptions/"><u>Ultimate Tutorial Simplifying YouTube Subscriptions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-and-pc-parts-at-toms-computer-store/"><u>Unveiling the Latest Gadgets and PC Parts at Tom's Computer Store</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-essentials-in-obtaining-stock-images-for-multimedia-projects-for-2024/"><u>[New] Essentials in Obtaining Stock Images for Multimedia Projects for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-net-selections-personalized-alarm-rhythm-files/"><u>[Updated] Prime Net Selections Personalized Alarm Rhythm Files</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/abbey/"><u>損害賠償申請プロセスの流れを適切にコントロールしている方法 | ABBEYブック</u></a></li>
+<li><a href="https://app-tips.techidaily.com/accidentally-trashed-your-email-learn-how-to-restore-and-forward-with-ease-using-microsoft-outlook-pcmag/"><u>Accidentally Trashed Your Email? Learn How to Restore & Forward with Ease Using Microsoft Outlook - PCMag</u></a></li>
+<li><a href="https://windows11.techidaily.com/correction-of-inaccessible-device-path-issue-in-win/"><u>Correction of Inaccessible Device Path Issue in Win</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/download-vn-video-editor-for-mac-or-explore-mac-friendly-alternatives-for-2024/"><u>Download VN Video Editor for Mac or Explore Mac-Friendly Alternatives for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-chilly-response-of-corporations-to-the-sizzling-potential-of-5g-technology/"><u>Exploring the Chilly Response of Corporations to the Sizzling Potential of 5G Technology</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-lava-yuva-2-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Lava Yuva 2 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/no-internet-no-problem-onedrive-enables-offline-file-access-for-uninterrupted-work-zdnet/"><u>No Internet? No Problem! OneDrive Enables Offline File Access for Uninterrupted Work | ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/post-maintenance-world-what-comes-next-after-windows-781/"><u>Post-Maintenance World: What Comes Next After Windows 7/8.1?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-hci-providers-of-2022-expert-analysis-by-zdnet/"><u>Top-Ranked HCI Providers of 2022 - Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-expert-review-of-superior-pandemic-vaccine-administration-platforms-for-healthcare-providers/"><u>ZDNet's Expert Review of Superior Pandemic Vaccine Administration Platforms for Healthcare Providers</u></a></li>
 </ul></div>
 

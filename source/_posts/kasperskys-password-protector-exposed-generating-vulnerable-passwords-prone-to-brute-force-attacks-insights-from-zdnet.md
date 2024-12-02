@@ -1,7 +1,7 @@
 ---
 title: "Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet"
-date: 2024-11-22T21:45:53.792Z
-updated: 2024-11-24T01:16:58.136Z
+date: 2024-11-26T17:57:31.280Z
+updated: 2024-12-02T11:51:11.565Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Suppose you are in the business of generating passwords, it would probably be a 
 In a [blog post](https://donjon.ledger.com/kaspersky-password-manager/) to cap off an almost two year saga, Ledger Donjon head of security research Jean-Baptiste Bédrune showed KPM was doing just that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,7 +66,7 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -92,16 +92,22 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-your-gateway-to-digital-proficiency-understanding-screen-capture-on-macbook-air/"><u>[New] 2024 Approved Your Gateway to Digital Proficiency Understanding Screen Capture on MacBook Air</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-fast-film-techniques-taking-screens-on-a-dell/"><u>[Updated] In 2024, Fast Film Techniques Taking Screens on a Dell</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-discovering-old-content-on-facebook-via-your-smartphonecomputer/"><u>2024 Approved Discovering Old Content on Facebook via Your Smartphone/Computer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/fujitsu-halted-projectweb-following-cybersecurity-incidents-in-japanese-administration-exclusive-coverage-by-zdnet/"><u>Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-x100-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo X100 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-download-and-make-unique-instagram-ringtone-solo/"><u>In 2024, How to Download & Make Unique Instagram Ringtone Solo</u></a></li>
-<li><a href="https://win-info.techidaily.com/microsofts-surprising-discovery-true-employee-happiness-unveiled/"><u>Microsoft's Surprising Discovery: True Employee Happiness Unveiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/persistent-password-problems-why-we-keep-reusing-compromised-passwords-despite-risks/"><u>Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-expert-analysis-on-1password-high-quality-password-management-solutions-that-deliver-value/"><u>Top-Ranked Expert Analysis on 1Password - High-Quality Password Management Solutions That Deliver Value</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-rip-and-digitize-a-step-by-step-guide-to-converting-dvds-to-digital-files/"><u>Updated Rip and Digitize A Step-by-Step Guide to Converting DVDs to Digital Files</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-protonmails-new-password-tool-promises-unbreakable-end-to-end-security-for-users/"><u>ZDNet Exclusive: ProtonMail's New Password Tool Promises Unbreakable End-to-End Security for Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-stability-essentials-for-online-videography-for-2024/"><u>[Updated] Stability Essentials for Online Videography for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-independent-android-adventures-the-ultimate-list-of-unplugged-titles/"><u>2024 Approved Independent Android Adventures - The Ultimate List of Unplugged Titles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-walkthrough-to-add-second-display-to-a-mac-computer/"><u>A Comprehensive Walkthrough to Add Second Display to a Mac Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-of-gaming-services-psplus-vs-xbox-game-pass/"><u>Battle of Gaming Services: PS+ vs Xbox Game Pass</u></a></li>
+<li><a href="https://app-tips.techidaily.com/devops-engineer-career-navigating-the-pros-cons-and-challenges-insights-from-zdnet/"><u>DevOps Engineer Career: Navigating the Pros, Cons, and Challenges – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-alternatives-to-explore-as-microsofts-support-for-windows-10-concludes-insights-from-zdnet/"><u>Five Alternatives to Explore as Microsoft's Support for Windows 10 Concludes - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-error-locate-and-install-the-missing-media-driver-required-on-your-pc/"><u>Fix Error: Locate and Install the Missing Media Driver Required on Your PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/interference-reduction/"><u>Interference Reduction</u></a></li>
+<li><a href="https://app-tips.techidaily.com/motion-detection/"><u>Motion Detection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-industry-with-xr-the-role-of-digital-twins-in-advanced-user-experience-expert-analysis-by-zdnet/"><u>Revolutionizing Industry with XR: The Role of Digital Twins in Advanced User Experience | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transitioning-from-windows-home-to-professional-key-benefits-unveiled/"><u>Step-by-Step Guide: Transitioning From Windows Home to Professional - Key Benefits Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-converting-your-computer-from-windows-to-linux-mint-for-beginners/"><u>Step-by-Step Tutorial: Converting Your Computer From Windows to Linux Mint for Beginners</u></a></li>
+<li><a href="https://techtrends.techidaily.com/streaming-devices-explained-everything-you-need-to-know/"><u>Streaming Devices Explained: Everything You Need to Know</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-compelling-benefits-of-adopting-aiops-insights-from-zdnet/"><u>Top 7 Compelling Benefits of Adopting AIOps: Insights From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-strategies-for-finding-and-using-a-lost-iphone-x/"><u>Top Strategies for Finding & Using a Lost iPhone X</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808273124-ultimate-tutorial-on-linking-laptop-and-television-through-hdmi-visual-steps-included/"><u>Ultimate Tutorial on Linking Laptop and Television Through HDMI – Visual Steps Included!</u></a></li>
 </ul></div>
 

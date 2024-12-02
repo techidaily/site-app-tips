@@ -1,7 +1,7 @@
 ---
 title: The Rise of Cloud Tech Vs. Current Dominance of On-Site Solutions - A Deep Dive with ZDNet
-date: 2024-11-17T19:34:09.550Z
-updated: 2024-11-24T04:46:59.247Z
+date: 2024-11-29T05:30:02.236Z
+updated: 2024-12-02T10:18:26.886Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-exploring-mobile-youtube-usage-on-different-oses-for-2024/"><u>[New] Exploring Mobile YouTube Usage on Different OSes for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-srt-decoded-core-concepts-simplified-and-explained-for-2024/"><u>[New] SRT Decoded Core Concepts Simplified and Explained for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-break-down-barriers-streaming-google-meet-on-youtube-stepwise/"><u>[Updated] In 2024, Break Down Barriers Streaming Google Meet on YouTube, Stepwise</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-into-a-world-of-eye-catching-imagery-at-pexels/"><u>[Updated] Step Into a World of Eye-Catching Imagery at Pexels</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-compile-and-connect-videos-on-youtv/"><u>2024 Approved Compile and Connect Videos on YouTV</u></a></li>
-<li><a href="https://app-tips.techidaily.com/adapting-cyber-defense-tactics-modernizing-security-expertise-amidst-outdated-infrastructure-challenges/"><u>Adapting Cyber Defense Tactics: Modernizing Security Expertise Amidst Outdated Infrastructure Challenges</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-sgs-green-transition-calls-increase-for-financing-ai-based-carbon-reduction-strategies-insights-from-zdnet/"><u>Boosting SG's Green Transition: Calls Increase for Financing AI-Based Carbon Reduction Strategies - Insights From ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-poco-m6-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Poco M6 5G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/finding-reliable-artificial-intelligence-watermarks-insights-from-zdnet/"><u>Finding Reliable Artificial Intelligence Watermarks: Insights From ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2020-stability-fix-overcoming-the-infamous-game-crashes/"><u>Football Manager 2020 Stability Fix: Overcoming the Infamous Game Crashes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-will-artificial-intelligence-impact-future-careers-in-cybersecurity-challenges-and-opportunities/"><u>How Will Artificial Intelligence Impact Future Careers in Cybersecurity?: Challenges & Opportunities</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainty-of-ai-efficiency-insights-from-zdnet/"><u>Navigating the Uncertainty of AI Efficiency: Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalizing-failure-lockout-period-on-sign-in-errors/"><u>Personalizing Failure Lockout Period on Sign In Errors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/singapore-invests-s24-billion-in-enhancing-ict-infrastructure-and-digital-solutions-insights-for-tech-leaders/"><u>Singapore Invests S$2.4 Billion in Enhancing ICT Infrastructure & Digital Solutions - Insights for Tech Leaders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/singapores-push-investing-in-ai-and-green-tech-transformation-insights-from-zdnet/"><u>Singapore's Push: Investing in AI & Green Tech Transformation - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/top-10-filmora-editing-traits-for-fan-loyalty/"><u>Top 10 Filmora Editing Traits for Fan Loyalty</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-by-tech-gurus-zdnets-exclusive-insights/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews by Tech Gurus | ZDNet's Exclusive Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-data-as-key-ingredient-in-crafting-smart-ai-solutions-strategies-for-completing-your-technological-jigsaw/"><u>Unveiling Data as Key Ingredient in Crafting Smart AI Solutions: Strategies for Completing Your Technological Jigsaw</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-rotate-your-avi-videos-for-free-16-excellent-options-for-windows-mac-android-iphone-and-online/"><u>Updated In 2024, Rotate Your AVI Videos for Free 16 Excellent Options for Windows, MAC, Android, iPhone, and Online</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-camera-control-tips-for-unshakable-images/"><u>[New] 2024 Approved Camera Control Tips for Unshakable Images</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-video-calls-discover-the-top-10-apps-for-your-phone/"><u>[New] 2024 Approved Mastering Video Calls Discover the Top 10 Apps for Your Phone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-capture-and-replay-top-four-strategies-for-gameplay-recording/"><u>[New] In 2024, Capture & Replay Top Four Strategies for Gameplay Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-optimizing-youtube-content-for-instagram-platforms/"><u>[New] Optimizing YouTube Content for Instagram Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-weaving-digital-tapestries-with-loom/"><u>[Updated] In 2024, Weaving Digital Tapestries with Loom</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-proven-steps-to-enhance-your-facetime-call-experience/"><u>[Updated] Proven Steps to Enhance Your FaceTime Call Experience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-steps-to-safely-update-or-fresh-install-itunes-without-data-loss/"><u>Complete Guide: Steps to Safely Update or Fresh Install iTunes without Data Loss</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-senuti-app-evaluation-and-top-alternatives-for-both-windows-and-macos-users/"><u>Comprehensive Guide: Senuti App Evaluation & Top Alternatives for Both Windows & macOS Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620278148-discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-back-online-three-quick-fixes-for-an-unresponsive-ipad-in-itunes-mode/"><u>Get Back Online: Three Quick Fixes for an Unresponsive iPad in iTunes Mode</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-accelerating-vimeo-content-streams/"><u>In 2024, Accelerating Vimeo Content Streams</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-scrutinizing-the-economics-behind-short-video-earnings/"><u>In 2024, Scrutinizing the Economics Behind Short Video Earnings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-itunes-backups-essential-guide-and-step-by-step-tutorials/"><u>Mastering iTunes Backups: Essential Guide & Step-by-Step Tutorials</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/photoshop-and-lightroom-synergy-the-top-10-lut-selections-for-professionals/"><u>Photoshop & Lightroom Synergy The Top 10 LUT Selections for Professionals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-fixes-for-recovering-deleted-itunes-content-on-ios-and-macos/"><u>Quick Fixes for Recovering Deleted iTunes Content on iOS & macOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/retrieve-deleted-contact-information-using-itunes-backup-on-ios-devices/"><u>Retrieve Deleted Contact Information Using iTunes Backup on iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/share-your-creations-from-imovie-directly-to-your-itunes-library/"><u>Share Your Creations From iMovie Directly to Your iTunes Library</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-solutions-seamlessly-transfer-your-itunes-library-to-android-devices/"><u>Top Solutions: Seamlessly Transfer Your iTunes Library to Android Devices</u></a></li>
 </ul></div>
 

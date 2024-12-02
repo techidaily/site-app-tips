@@ -1,7 +1,7 @@
 ---
 title: "Discover the Power of AI: Introducing OpenShift Lightspeed by Red Hat – The Ultimate Solution for Kubernetes Administrators"
-date: 2024-10-11T11:52:20.938Z
-updated: 2024-10-12T10:00:01.103Z
+date: 2024-11-27T02:36:47.920Z
+updated: 2024-12-02T11:17:05.169Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,17 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-pixelshalfed-dissection-for-2024/"><u>[New] PixelsHalfed Dissection for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-revolutionary-rendition-of-recording-link/"><u>[New] Revolutionary Rendition of Recording Link</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-examining-streaming-platform-powerhouses-twitch-and-youtube-comparison/"><u>2024 Approved Examining Streaming Platform Powerhouses Twitch and YouTube Comparison</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check/"><u>2024 Approved How to Preview Off-Facebook Activities and Should I Leave It On? Check</u></a></li>
-<li><a href="https://app-tips.techidaily.com/before-its-too-late-discover-the-top-5-strategies-to-secure-your-windows-11-system-this-year-according-to-experts-at-zdnet/"><u>Before It's Too Late: Discover the Top 5 Strategies to Secure Your Windows 11 System This Year, According to Experts at ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/celebrating-a-milestone-kubernetes-at-10-years-old-a-retrospective-of-its-impact-on-cloud-native-tech-and-future-prospects-zdnet/"><u>Celebrating a Milestone: Kubernetes at 10 Years Old – A Retrospective of Its Impact on Cloud-Native Tech & Future Prospects | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/gartner-reveals-half-of-generative-ai-initiatives-end-in-failure-insights-from-zdnet/"><u>Gartner Reveals Half of Generative AI Initiatives End in Failure - Insights From ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-10-best-classic-family-vacation-movie-for-this-summer/"><u>In 2024, 10 Best Classic Family Vacation Movie for This Summer</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-cutting-edge-tech-for-flawless-4k-recordings/"><u>In 2024, Cutting-Edge Tech for Flawless 4K Recordings</u></a></li>
-<li><a href="https://article-tips.techidaily.com/journey-to-storytelling-gear-selection-guide-for-2024/"><u>Journey to Storytelling Gear Selection Guide for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-the-cloud-key-tech-leaders-anticipate-significant-shifts-in-business-models-exclusive-zdnet-report/"><u>Revolutionizing the Cloud: Key Tech Leaders Anticipate Significant Shifts in Business Models – Exclusive ZDNet Report</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solve-final-era-release-issues-on-pc-essential-updates-and-solutions/"><u>Solve 'Final Era' Release Issues on PC: Essential Updates & Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-craft-movies-on-windows-11-using-the-free-movie-maker-app/"><u>[New] Craft Movies on Windows 11 Using the Free Movie Maker App</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-top-10-security-focused-video-chat-apps-on-mobile-devices/"><u>[New] In 2024, Top 10 Security-Focused Video Chat Apps on Mobile Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-capturing-high-quality-periscope-broadcasts/"><u>[New] Strategies for Capturing High-Quality Periscope Broadcasts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-expertise-essentials-removing-unwanted-backdrops-with-canva/"><u>[Updated] 2024 Approved Expertise Essentials Removing Unwanted Backdrops with Canva</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-data-to-drama-utilizing-google-trends-in-video-planning-for-2024/"><u>[Updated] From Data to Drama Utilizing Google Trends in Video Planning for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-start-smart-free-video-intro-templates/"><u>[Updated] Start Smart Free Video Intro Templates</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-financial-rewards-top-priorities-for-open-source-professionals-seeking-new-opportunities/"><u>Beyond Financial Rewards: Top Priorities for Open-Source Professionals Seeking New Opportunities</u></a></li>
+<li><a href="https://win11.techidaily.com/download-and-maximize-your-mobile-experience-with-factory-pros-hd-video-conversion-guide/"><u>Download & Maximize Your Mobile Experience with Factory Pro's HD Video Conversion Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-alternative-paths-for-your-still-running-windows-10-system-as-microsofts-official-support-nears-its-end/"><u>Five Alternative Paths for Your Still-Running Windows 10 System as Microsoft's Official Support Nears Its End</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/new-microsoft-software-refresh-risks-boosting-office-stress-levels-says-zdnet-analysis/"><u>New Microsoft Software Refresh Risks Boosting Office Stress Levels, Says ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-professionals-drained-yet-hopeful-positive-trends-from-zdnet-analysis/"><u>Tech Professionals Drained Yet Hopeful: Positive Trends From ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-purpose-of-an-artificial-earth-plane-in-antenna-systems-can-be-similar-to-that-of-natural-ground-when-it-comes-to-reflecting-radio-waves-and-improving-s78/"><u>The Purpose of an Artificial Earth Plane in Antenna Systems Can Be Similar to that of Natural Ground when It Comes to Reflecting Radio Waves and Improving Signal Quality.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-professional-screen-recorders-for-2nite-expert-analysis-from-zdnet/"><u>The Ultimate List of Professional Screen Recorders for 2Nite: Expert Analysis From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-ai-servicenows-essential-four-core-tenets-explained-boost-your-enterprise-success/"><u>Unlocking the Power of AI: ServiceNow's Essential Four Core Tenets Explained - Boost Your Enterprise Success!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsofts-window-of-opportunity-shrinks-as-they-race-against-time-on-windows-11-tech-analysis/"><u>Urgent Challenge: Microsoft's Window of Opportunity Shrinks as They Race Against Time on Windows 11 | Tech Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/what-drives-open-source-talent-unveiling-the-essential-non-monetary-wants-in-their-job-quest-zdnet/"><u>What Drives Open-Source Talent? Unveiling the Essential Non-Monetary Wants in Their Job Quest | ZDNET</u></a></li>
+<li><a href="https://win-superb.techidaily.com/windows-defender-vs-malware-is-your-system-truly-secure-against-all-variants/"><u>Windows Defender Vs. Malware: Is Your System Truly Secure Against All Variants?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/youtube-bgm-bgid/"><u>YouTube BGM検出ツール: 効率的な動画BGミュージックID取得方法</u></a></li>
 </ul></div>
 

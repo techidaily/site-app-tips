@@ -1,7 +1,7 @@
 ---
 title: "Sony's AI Initiative Collaborates with AI Singapore on Next-Gen Language Models: Unveiling the Partnership"
-date: 2024-10-09T01:10:48.015Z
-updated: 2024-10-12T07:03:39.459Z
+date: 2024-11-26T13:19:55.331Z
+updated: 2024-12-02T03:12:10.494Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/drevenue-on-youtube-unpacked-average-income-from-1000-viewers-engagement-for-2024/"><u>[New] AdRevenue on YouTube Unpacked Average Income From 1,000 Viewers' Engagement for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-customizing-windows-photos-to-enjoy-music-on-every-picture-for-2024/"><u>[New] Customizing Windows Photos to Enjoy Music on Every Picture for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-dive-into-picsart-comprehensive-analysis-release-for-2024/"><u>[New] Dive Into PicsArt - Comprehensive Analysis Release for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/10-top-tools-for-dynamic-image-background-alterations-for-2024/"><u>10 Top Tools for Dynamic Image Background Alterations for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dreaming-in-color-the-revolutionary-hp-monitor-z32x/"><u>Dreaming in Color The Revolutionary HP Monitor, Z32X</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-ultimate-top-5-to-do-apps-for-boosting-productivity-cnet/"><u>Exploring the Ultimate Top 5 To-Do Apps for Boosting Productivity - CNET</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-leading-camera-brands-the-15-best-selection/"><u>In 2024, Leading Camera Brands – The 15 Best Selection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leveraging-low-code-development-for-enhanced-employer-branding-a-look-at-zdnet-perspectives/"><u>Leveraging Low-Code Development for Enhanced Employer Branding: A Look at ZDnet Perspectives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-obstacles-to-utilize-generative-ai-effectively-reveals-new-study-by-deloitte-featured-on-zdnet/"><u>Overcoming Obstacles to Utilize Generative AI Effectively, Reveals New Study by Deloitte Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/scaling-your-business-with-anthropics-revolutionary-claude-platform-unleash-the-power-of-ai/"><u>Scaling Your Business with Anthropic's Revolutionary Claude Platform: Unleash the Power of AI</u></a></li>
-<li><a href="https://app-tips.techidaily.com/soaring-investments-in-generative-ai-training-overlooked-by-insufficient-risk-metrics-reveals-new-research-from-stanford-zdnet-exclusive/"><u>Soaring Investments in Generative AI Training Overlooked by Insufficient Risk Metrics, Reveals New Research From Stanford | ZDNET Exclusive</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-cinematic-look-a-comprehensive-guide-to-fcpx-video-editing/"><u>Updated 2024 Approved The Cinematic Look A Comprehensive Guide to FCPX Video Editing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/verizon-enhances-enterprise-solutions-with-celonas-innovative-5g-technology/"><u>Verizon Enhances Enterprise Solutions with Celona's Innovative 5G Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-5-main-options-for-continued-use/"><u>Windows 10 End of Life Approaching: Discover Your 5 Main Options for Continued Use</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-expert-methods-for-capturing-and-streaming-sports-gems/"><u>[New] In 2024, Expert Methods for Capturing and Streaming Sports Gems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-switch-to-the-future-capture-cards-guide-for-2024/"><u>[New] Switch to the Future Capture Cards Guide for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-decoding-luts-the-secret-behind-enhanced-photography/"><u>[Updated] Decoding LUTs The Secret Behind Enhanced Photography</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-dell-hp-and-lenovo-introduce-new-1099-pcs-with-snapdragon-x-and-windows-copilotplus-long-lasting-battery-included/"><u>Acer, Dell, HP & Lenovo Introduce New $1,099 PCs with Snapdragon X and Windows Copilot+ - Long-Lasting Battery Included</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-chatbot-bias-revealed-by-stanford-research-the-overlooked-issue-of-language-limitation/"><u>AI Chatbot Bias Revealed by Stanford Research: The Overlooked Issue of Language Limitation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-you-master-artificial-intelligence-without-technical-expertise-understanding-the-need-for-varied-education-in-complex-systems-zdnet/"><u>Can You Master Artificial Intelligence Without Technical Expertise? Understanding the Need for Varied Education in Complex Systems | ZDNET</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversion-de-fichiers-tiff-au-format-bmp-directement-dans-votre-navigateur-sans-frais-movavi/"><u>Conversion De Fichiers TIFF Au Format BMP Directement Dans Votre Navigateur, Sans Frais - Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-clash-between-ai-progress-and-agile-methods-insights-from-recent-research-zdnet/"><u>Exploring the Clash Between AI Progress & Agile Methods: Insights From Recent Research - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/half-of-all-biz-marketers-now-leverage-ai-tools-insights-from-zdnet/"><u>Half of All Biz Marketers Now Leverage AI Tools: Insights From ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-quickly-install-the-latest-scansnap-ix5n-wireless-printer-driver-for-windows-pcs/"><u>How to Quickly Install the Latest ScanSnap iX5n Wireless Printer Driver for Windows PCs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ibm-survey-highlights-growing-skepticism-among-corporate-heads-towards-it-discover-the-factors-zdnet/"><u>IBM Survey Highlights Growing Skepticism Among Corporate Heads Towards IT - Discover the Factors | ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-photo-magic-weaving-text-into-your-imagery-journey/"><u>In 2024, Photo Magic Weaving Text Into Your Imagery Journey</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-robust-ai-watermarks-expert-strategies-revealed-by-zdnet/"><u>Mastering Robust AI Watermarks: Expert Strategies Revealed by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-dive-into-the-business-before-coding-zdnet-insights/"><u>Mastering Tech Team Leadership: Dive Into the Business Before Coding | ZDNet Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/professional-screenshot-and-recorder-win10-edition-for-2024/"><u>Professional Screenshot & Recorder, Win10 Edition for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-itel-p55plus-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Itel P55+ Location | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-stop-dragon-age-origins-from-crashing-on-windows-11/"><u>Troubleshooting Guide: Stop Dragon Age: Origins From Crashing on Windows 11!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-unbreakable-ai-watermarks-the-ultimate-guide-zdnet/"><u>Unlocking Unbreakable AI Watermarks: The Ultimate Guide | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-top-managers-doubt-it-efficacy-unveiling-findings-of-an-in-depth-ibm-analysis-read-more-at-zdnet/"><u>Why Top Managers Doubt IT Efficacy – Unveiling Findings of an In-Depth IBM Analysis | Read More at ZDNet</u></a></li>
 </ul></div>
 

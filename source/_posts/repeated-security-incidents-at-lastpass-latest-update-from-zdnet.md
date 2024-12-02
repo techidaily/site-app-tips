@@ -1,7 +1,7 @@
 ---
 title: Repeated Security Incidents at LastPass - Latest Update From ZDNet
-date: 2024-11-18T03:58:29.931Z
-updated: 2024-11-23T16:15:08.812Z
+date: 2024-11-29T18:40:31.536Z
+updated: 2024-12-02T02:31:36.747Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,16 +81,22 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-concluding-your-digital-identity-on-instagram-for-2024/"><u>[New] Concluding Your Digital Identity on Instagram for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-frolicsome-media-repository/"><u>[New] Frolicsome Media Repository</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-uncluttered-recorder-screen-log-for-win10/"><u>[Updated] In 2024, Uncluttered Recorder Screen Log for Win10</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-8-linux-screenshot-utilities-compared/"><u>[Updated] Top 8 Linux Screenshot Utilities Compared</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-revealing-hidden-pathways-understanding-facebooks-off-activity-tracking/"><u>2024 Approved Revealing Hidden Pathways Understanding Facebook's Off-Activity Tracking</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beware-latest-microsoft-patch-could-escalate-professional-burnout-insights-from-zdnet/"><u>Beware! Latest Microsoft Patch Could Escalate Professional Burnout - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-latest-linux-65-kernel-a-wealth-of-cutting-edge-enhancements-tech-insights/"><u>Exploring the Latest Linux 6.5 Kernel: A Wealth of Cutting-Edge Enhancements - Tech Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-sunset-of-windows-11-here-are-5-alternatives-to-consider-as-support-winds-down-tech-insights-by-zdnet/"><u>Facing the Sunset of Windows 11? Here Are 5 Alternatives to Consider as Support Winds Down | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://media-tips.techidaily.com/revolutionize-your-home-screen-with-this-simple-google-tv-upgrade/"><u>Revolutionize Your Home Screen with This Simple Google TV Upgrade</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ascension-of-cloud-computing-versus-current-on-premises-systems-expert-analysis-by-zdnet/"><u>The Ascension of Cloud Computing Versus Current On-Premises Systems | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-crafting-an-ideal-windows-11-vm-setup-on-any-platform-insights-from-zdnet/"><u>Ultimate Guide: Crafting an Ideal Windows 11 VM Setup on Any Platform - Insights From ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-top-6-economical-action-cams-available-for-99-or-below/"><u>[New] 2024 Approved Top 6 Economical Action Cams Available for $99 or Below</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-easily-erase-identity-blurring-techniques-in-videos/"><u>[New] Easily Erase Identity Blurring Techniques in Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-creators-ultimate-playlist-the-best-free-sound-sources/"><u>[Updated] 2024 Approved YouTube Creators' Ultimate Playlist The Best Free Sound Sources</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-tech-talent-is-highly-sought-after-your-innovative-concepts-can-reshape-industries-insights-from-the-zdnet-perspective/"><u>1. 'Tech Talent Is Highly Sought After: Your Innovative Concepts Can Reshape Industries' - Insights From the ZDNet Perspective</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-harnessing-your-cameras-power-for-live-online-content-on-personal-computers/"><u>2024 Approved Harnessing Your Camera's Power for Live Online Content on Personal Computers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-unfreeze-non-playing-youtube-tweets-chrome/"><u>2024 Approved Unfreeze Non-Playing YouTube Tweets Chrome</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-chatbots-struggle-with-non-english-languages-reveals-new-stanford-research-zdnet/"><u>AI Chatbots Struggle with Non-English Languages, Reveals New Stanford Research | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/delta-airlines-latest-news-lacks-flavor-southwest-enthusiasts-show-interest-tech-insight/"><u>Delta Airline's Latest News Lacks Flavor, Southwest Enthusiasts Show Interest | Tech Insight</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/vering-if-quick-youtube-subscriptions-really-work/"><u>Discovering if Quick YouTube Subscriptions Really Work</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961756386-epson-l3150-printer-driver-download-and-upgrade-guide-for-windows-1087/"><u>Epson L3150 Printer Driver Download & Upgrade Guide for Windows 10/8/7</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-ai-projects-struggle-with-agile-methodology-insights-from-recent-research-techwire/"><u>How AI Projects Struggle with Agile Methodology – Insights From Recent Research | TechWire</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-master-the-art-of-pc-game-memories-with-these-6-steps/"><u>In 2024, Master the Art of PC Game Memories with These 6 Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-script-architect-space/"><u>In 2024, Superior Script Architect Space</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-ais-impact-on-job-markets-the-emergence-of-new-yet-to-be-defined-professional-titles-revealed-zdnet-insights/"><u>Navigating AI's Impact on Job Markets: The Emergence of New, Yet-to-Be-Defined Professional Titles Revealed | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/non-techies-embrace-ai-why-understanding-complicated-networks-requires-diverse-educational-strategies-zdnet/"><u>Non-Techies, Embrace AI: Why Understanding Complicated Networks Requires Diverse Educational Strategies | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolving-landscape-generative-ais-impact-on-workforce-dynamics-and-software-development-roles-tech-analysis-by-zdnet/"><u>The Evolving Landscape: Generative AI's Impact on Workforce Dynamics & Software Development Roles | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-full-spectrum-of-ai-integration-direct-insights-from-your-enterprises-leading-developer-zdnet/"><u>Unveiling the Full Spectrum of AI Integration: Direct Insights From Your Enterprise's Leading Developer | ZDNET</u></a></li>
 </ul></div>
 

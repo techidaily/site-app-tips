@@ -1,7 +1,7 @@
 ---
 title: Easily Transition Your Saved Passwords From LastPass to iCloud for Windows Systems | ZDNet
-date: 2024-11-20T21:46:49.954Z
-updated: 2024-11-24T09:59:55.255Z
+date: 2024-11-27T17:02:02.816Z
+updated: 2024-12-02T04:56:42.115Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Image: Maria Diaz/ZDNET
 An [Apple ID](https://www.zdnet.com/article/your-friends-could-help-stop-you-getting-locked-out-of-your-apple-id/) gives you access to many perks within the Apple software ecosystem, and one of them is [Keychain](https://www.zdnet.com/article/how-to-locate-a-password-with-the-macos-keychain/): iCloud's password manager. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -36,7 +36,7 @@ If you've been around for the past 10 or so years, you know that most services r
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use iCloud as a password manager on Windows
@@ -51,10 +51,6 @@ Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Sign in to your iCloud Passwords
 
 Once you sign in to your account -- if you haven't already -- you can access your account, add another account, and make any necessary changes.
@@ -66,7 +62,7 @@ Sign in with your Apple ID and password.
 Image: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make sure Passwords is on and click Apply
@@ -78,6 +74,10 @@ You can also install browser extensions at this point.
 Make sure Passwords is on and click **Apply**.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Add browser extension
 
@@ -117,15 +117,15 @@ Like LastPass, the browser extension will let you fill in your login information
 
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## How do you get iCloud for Windows?  
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How do I set up iCloud Keychain? 
 
@@ -167,16 +167,24 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-cutting-edge-design-a-look-at-the-newest-monitor-in-town-hp-envy-27-for-2024/"><u>[New] Cutting Edge Design - A Look at the Newest Monitor in Town, HP Envy 27 for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-introduction-to-plot-and-character-dynamics/"><u>[New] Introduction to Plot and Character Dynamics</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-essential-tips-for-great-title-creation/"><u>[Updated] 2024 Approved Essential Tips for Great Title Creation</u></a></li>
-<li><a href="https://fox-that.techidaily.com/9-ways-to-fix-iphone-voicemail-not-working/"><u>9 Ways to Fix iPhone Voicemail Not Working</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-android-file-organizers-expert-opinions-and-comprehensive-reviews/"><u>Best Android File Organizers - Expert Opinions & Comprehensive Reviews</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-platforms-and-tools-for-discreet-message-exchange/"><u>Best Free Platforms & Tools for Discreet Message Exchange</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-tips-to-address-and-fix-amdnvidia-graphics-issues-on-the-sims-4/"><u>Comprehensive Tips to Address and Fix AMD/Nvidia Graphics Issues on The Sims 4</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194092-enhance-your-cinematic-journey-with-the-ultimate-list-of-15-vr-film-apps-for-mobile-devices/"><u>Enhance Your Cinematic Journey with the Ultimate List of 15 VR Film Apps for Mobile Devices!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-galaxy-a34-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Galaxy A34 5G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-time-worn-images-with-these-3-powerful-applications-for-modernizing-classic-photos/"><u>Transform Time-Worn Images with These 3 Powerful Applications for Modernizing Classic Photos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlimited-free-communication-tool-cross-platform-calling-and-text-service-for-smartphones-and-computers/"><u>Unlimited Free Communication Tool: Cross-Platform Calling & Text Service for Smartphones & Computers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/etting-the-most-out-of-live-sports-on-youtube-tv-for-2024/"><u>[New] Getting the Most Out of Live Sports on YouTube TV for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-superb-phone-video-and-photo-capturing-with-best-apps-list/"><u>[New] In 2024, Superb Phone Video & Photo Capturing with Best Apps List</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-photomontage-artisans-blueprint/"><u>[New] The PhotoMontage Artisan's Blueprint</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-an-insiders-guide-to-flawlessly-integrating-tracks-on-youtube/"><u>[Updated] An Insider's Guide to Flawlessly Integrating Tracks on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-dodge-without-disruption-bypassing-edgenuity-courses-effortlessly/"><u>[Updated] How to Dodge Without Disruption Bypassing Edgenuity Courses Effortlessly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-efficiency-with-these-expert-slack-hacks-maximize-workflow-and-collaboration-on-teams/"><u>Boost Your Efficiency with These Expert Slack Hacks: Maximize Workflow & Collaboration on Teams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/choosing-the-right-hosting-platform-github-or-gitlab-a-comparative-guide-by-zdnet/"><u>Choosing the Right Hosting Platform: GitHub or GitLab? - A Comparative Guide by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-do-firms-grapple-with-harnessing-generative-ai-insights-from-a-new-deloitte-study-highlights-challenges-featured-on-zdnet/"><u>How Do Firms Grapple with Harnessing Generative AI: Insights From a New Deloitte Study Highlights Challenges - Featured on ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-iphone-hdr-a-step-by-step-journey-to-perfect-shots/"><u>In 2024, IPhone HDR A Step-by-Step Journey to Perfect Shots</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-google-pixel-8-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Google Pixel 8? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-linus-torvalds-tech-world-discussing-rust-in-linux-daily-routines-and-tips-for-the-ultrabook-a-deep-dive-by-zdnet/"><u>Inside Linus Torvalds' Tech World: Discussing Rust in Linux, Daily Routines & Tips for the Ultrabook - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/is-windows-defender-pre-installed-on-windows-10-learn-from-yl-computing/"><u>Is Windows Defender Pre-Installed on Windows 10? - Learn From YL Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/openstack-and-kata-container-renaissance-exploring-their-renewed-appeal-on-the-tech-scene-analysis-by-zdnet/"><u>OpenStack and Kata Container Renaissance: Exploring Their Renewed Appeal on the Tech Scene - Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-building-an-excel-drop-down-menu-swiftly-and-simply-tips-from-zdnet/"><u>Step-by-Step Guide: Building an Excel Drop-Down Menu Swiftly & Simply - Tips From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tackling-disorder-in-linux-and-open-source-manuals-unveiling-the-ultimate-fix-zdnet/"><u>Tackling Disorder in Linux & Open Source Manuals: Unveiling the Ultimate Fix | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-cloud-tech-vs-current-dominance-of-on-site-solutions-a-deep-dive-with-zdnet/"><u>The Rise of Cloud Tech Vs. Current Dominance of On-Site Solutions - A Deep Dive with ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-ways-apple-can-enhance-ai-capabilities-to-match-rivals-like-openai-and-google-insights/"><u>Top 10 Ways Apple Can Enhance AI Capabilities to Match Rivals Like OpenAI & Google - Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10s-end-of-life-approaches-discover-these-5-alternatives-you-should-consider/"><u>Windows 10'S End-of-Life Approaches: Discover These 5 Alternatives You Should Consider</u></a></li>
 </ul></div>
 

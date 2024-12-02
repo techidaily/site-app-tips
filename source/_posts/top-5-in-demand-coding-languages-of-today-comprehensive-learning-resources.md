@@ -1,7 +1,7 @@
 ---
 title: "Top 5 In-Demand Coding Languages of Today: Comprehensive Learning Resources"
-date: 2024-10-28T16:53:26.511Z
-updated: 2024-11-04T16:41:44.672Z
+date: 2024-11-27T06:52:53.923Z
+updated: 2024-12-02T10:08:48.755Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,16 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,16 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -193,24 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-techniques-to-seamlessly-save-web-based-television-shows-for-2024/"><u>[New] Techniques to Seamlessly Save Web-Based Television Shows for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-cold-games-2022s-ultimate-snowboard-dueling-display/"><u>[Updated] Cold Games 2022'S Ultimate Snowboard Dueling Display</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-cutting-edge-techniques-for-google-meet-aesthetic-enhancement-for-2024/"><u>[Updated] Cutting-Edge Techniques for Google Meet Aesthetic Enhancement for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-full-assessment-hero4-black-capabilities/"><u>[Updated] In 2024, Full Assessment Hero4 Black Capabilities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tomorrows-critique-varied-solutions/"><u>[Updated] Tomorrow’s Critique Varied Solutions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-smirkscribbler-visual-laughter-hub/"><u>2024 Approved SmirkScribbler Visual Laughter Hub</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-budget-friendly-android-block-puzzles-expert-reviews-and-how-to-get-them/"><u>Best Budget-Friendly Android Block Puzzles - Expert Reviews & How to Get Them</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-youcut-tool-insights-and-essential-information/"><u>Comprehensive Guide to YouCut Tool : Insights & Essential Information</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-wifi-code-finder-for-android-devices-unlock-and-organize-your-connections-with-our-password-manager/"><u>Easy WiFi Code Finder for Android Devices: Unlock and Organize Your Connections with Our Password Manager</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-your-photography-skills-iphone-camera-tricks-and-effective-techniques/"><u>Enhancing Your Photography Skills: IPhone Camera Tricks & Effective Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620189235-get-your-favorite-android-games-on-lockdown-the-ultimate-list-of-20-free-full-version-apks-to-download-today/"><u>Get Your Favorite Android Games on Lockdown: The Ultimate List of 20 Free, Full-Version APKs to Download Today</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-redmi-a2-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Redmi A2?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-the-new-lightning-fast-chrome-browser-by-google-a-game-changer-for-windows-users-watch-out-for-hidden-details/"><u>Introducing the New Lightning-Fast Chrome Browser by Google: A Game Changer for Windows Users - Watch Out for Hidden Details!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-6-mobile-text-defense-tools-to-shield-conversations-on-android-smartphones/"><u>Leading 6 Mobile Text Defense Tools to Shield Conversations on Android Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lumafusion-the-ultimate-top-pick-for-ios-video-editing-apps/"><u>LumaFusion: The Ultimate Top Pick for iOS Video Editing Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-fix-top-5-methods-for-forcing-a-close-on-stuck-mac-applications/"><u>Quick Fix: Top 5 Methods for Forcing a Close on Stuck Mac Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-choosing-the-best-app-to-check-if-your-android-is-rooted/"><u>Ultimate Guide: Choosing the Best App to Check if Your Android Is Rooted</u></a></li>
-<li><a href="https://games-able.techidaily.com/unfreezing-devices-correcting-win-10s-dxgierrordevicehung/"><u>Unfreezing Devices: Correcting Win 10'S DXGI_ERROR_DEVICE_HUNG</u></a></li>
+<li><a href="https://app-tips.techidaily.com/24-billion-allocation-for-advanced-ict-systems-and-e-services-by-singapore-expert-analysis-on-zdnet/"><u>$2.4 Billion Allocation for Advanced ICT Systems and E-Services by Singapore | Expert Analysis on ZDNET</u></a></li>
+<li><a href="https://os-tips.techidaily.com/additional-us-state-adopts-iphones-digital-id-system/"><u>Additional US State Adopts iPhone's Digital ID System</u></a></li>
+<li><a href="https://app-tips.techidaily.com/combatting-tech-burnout-how-artificial-intelligence-offers-relief-to-it-professionals/"><u>Combatting Tech Burnout: How Artificial Intelligence Offers Relief to IT Professionals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/equip-your-leaders-with-ai-knowledge-the-essential-step-highlighted-by-zdnet/"><u>Equip Your Leaders with AI Knowledge - The Essential Step Highlighted by ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experiencing-powerhouse-pc-with-customizable-features-from-ibuypower-a-review-for-gamers-seeking-quality-and-value/"><u>Experiencing Powerhouse PC with Customizable Features From IBUYPOWER – A Review for Gamers Seeking Quality and Value</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-xcover-7-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy XCover 7 Easily?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-editing-with-vita-a-complete-review/"><u>In 2024, The Future of Editing with Vita - A Complete Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovative-solutions-how-this-firms-ai-powered-tech-enhances-eco-friendly-smart-home-devices-insights-from-zdnet/"><u>Innovative Solutions: How This Firm's AI-Powered Tech Enhances Eco-Friendly Smart Home Devices - Insights From ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pioneering-professionalism-language-proficiency-in-companies/"><u>Pioneering Professionalism: Language Proficiency in Companies</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/professional-insight-on-logitech-c920-ultra-hd-webcam-experience/"><u>Professional Insight on Logitech C920 Ultra HD Webcam Experience</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tablet-tussle-assessing-which-fits-better-fire-or-samsung/"><u>Tablet Tussle: Assessing Which Fits Better, Fire or Samsung?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-era-of-smart-coding-moving-past-basic-automation-to-ai-enhanced-software-creation-according-to-zdnet-experts/"><u>The Era of Smart Coding: Moving Past Basic Automation to AI-Enhanced Software Creation According to ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/thriving-with-ai-proven-tactics-for-professionals-in-tech-to-excel-at-work-during-an-era-of-automation-guided-by-industry-leaders-on-zdnet/"><u>Thriving with AI: Proven Tactics for Professionals in Tech to Excel at Work During an Era of Automation - Guided by Industry Leaders on ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-f34-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Samsung Galaxy F34 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-ai-potential-insights-into-vector-databases/"><u>Unlocking AI Potential: Insights Into Vector Databases</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Creativity: How Open-Source Projects Draw in Elite Innovators - Insights From ZDNet"
-date: 2024-11-03T16:15:45.531Z
-updated: 2024-11-04T17:03:39.361Z
+date: 2024-12-01T03:35:37.800Z
+updated: 2024-12-01T20:10:41.878Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,16 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,16 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-instavox-the-art-of-adding-music-to-images/"><u>[New] InstaVox The Art of Adding Music to Images</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-charting-the-differences-in-youtubes-ownership-and-cc-models/"><u>[Updated] 2024 Approved Charting the Differences in YouTube's Ownership and CC Models</u></a></li>
-<li><a href="https://app-tips.techidaily.com/create-amazing-gifs-instantly-with-our-choice-of-the-10-best-free-apps-on-smartphones-iphone-and-android/"><u>Create Amazing GIFs Instantly with Our Choice of the 10 Best Free Apps on Smartphones (iPhone & Android)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/creating-anime-sounds-with-uwu-modifiers-top-three-speech-alteration-tools-for-fans/"><u>Creating Anime Sounds with UwU Modifiers: Top Three Speech Alteration Tools for Fans</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/determining-best-video-frames-per-second-fps-rate-for-2024/"><u>Determining Best Video Frames Per Second (FPS) Rate for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-and-installation-guide-how-to-set-up-tango-video-calls-and-chats/"><u>Download & Installation Guide: How To Set Up Tango Video Calls And Chats</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ideal-calendar-solutions-best-complimentary-and-premium-options-for-iphones/"><u>Ideal Calendar Solutions: Best Complimentary and Premium Options for iPhones</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ripping-dvds-efficiently-using-handbrake-and-libdvdcss-for-mac-os-x-and-windows-10-users/"><u>Ripping DVDs Efficiently Using HandBrake & Libdvdcss for Mac OS X and Windows 10 Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/secrets-of-effective-screen-capture-with-dell-devices/"><u>Secrets of Effective Screen Capture with Dell Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-step-by-step-guide-how-to-quickly-unlock-your-android-device-with-easy-hacks/"><u>Simple Step-by-Step Guide: How to Quickly Unlock Your Android Device with Easy Hacks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unveiling-the-ultimate-collection-of-42-premium-free-video-compression-tools/"><u>[New] 2024 Approved Unveiling the Ultimate Collection of 42 Premium Free Video Compression Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-subscribers-guide-to-effective-dialogue-on-youtube/"><u>[Updated] In 2024, The Subscriber's Guide to Effective Dialogue on YouTube</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723809009233-cant-find-that-elusive-document-on-your-pc-master-these-tips-to-easily-locate-any-file/"><u>Can't Find That Elusive Document on Your PC? Master These Tips to Easily Locate Any File</u></a></li>
+<li><a href="https://app-tips.techidaily.com/choosing-the-ideal-search-engine-indexing-strategy-a-guide-tailored-for-you/"><u>Choosing the Ideal Search Engine Indexing Strategy: A Guide Tailored for You</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-robust-ai-watermark-techniques-with-insights-from-zdnet/"><u>Discover Robust AI Watermark Techniques with Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-guide-pathways-to-becoming-an-ai-leadership-executive-in-tech-companies/"><u>Essential Guide: Pathways to Becoming an AI Leadership Executive in Tech Companies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/full-featured-expansion-toggle-effortless-navigation-across-social-media-platforms-like-facebook-linkedin-and-youtube-with-quick-scroll-to-top-option/"><u>Full-Featured Expansion Toggle: Effortless Navigation Across Social Media Platforms Like Facebook, LinkedIn & YouTube with Quick 'Scroll To Top' Option</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-cut-expenses-create-wow-download-high-quality-templates-for-videos/"><u>In 2024, Cut Expenses, Create Wow - Download High-Quality Templates for Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-from-toms-computer-gear-hub/"><u>In-Depth Analysis From Tom's Computer Gear Hub</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-new-horizons-in-business-search-solutions-the-evolution-post-copernic-era/"><u>Navigating New Horizons in Business Search Solutions - The Evolution Post-Copernic Era</u></a></li>
+<li><a href="https://app-tips.techidaily.com/optimize-your-search-with-date-and-file-type-filters-a-guide-to-superior-finds-using-copernic/"><u>Optimize Your Search with Date and File Type Filters: A Guide to Superior Finds Using Copernic</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-role-and-design-of-instagram-story-segments-for-2024/"><u>The Role and Design of Instagram Story Segments for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-pick-for-longest-coverage-2024s-leading-wi-fi-extenders/"><u>Ultimate Pick for Longest Coverage - 2024'S Leading Wi-Fi Extenders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-primary-interface-of-copernic-software-an-in-depth-walkthrough/"><u>Understanding the Primary Interface of Copernic Software: An In-Depth Walkthrough</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-best-live-chat-apps-to-try-with-shopify-for-2024/"><u>Updated Best Live Chat Apps To Try With Shopify for 2024</u></a></li>
 </ul></div>
 

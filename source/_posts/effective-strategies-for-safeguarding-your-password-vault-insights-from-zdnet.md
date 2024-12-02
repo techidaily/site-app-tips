@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Safeguarding Your Password Vault - Insights From ZDNet
-date: 2024-11-22T06:18:49.385Z
-updated: 2024-11-24T08:48:31.082Z
+date: 2024-11-24T19:29:54.863Z
+updated: 2024-12-02T03:21:30.183Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ Creating and remembering a unique and complex password for each of your accounts
 A good password manager will create, store, and apply strong and complex passwords across the board, thereby securing your accounts. I've used a password manager for years and wouldn't be able to juggle all my online accounts without it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -46,7 +46,7 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -66,7 +66,7 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -90,7 +90,7 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -139,21 +139,21 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-unveiling-the-secrets-of-librecam-studio/"><u>[New] Unveiling the Secrets of LibreCam Studio</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-reimagining-team-call-backdrops-beforeafter-chats/"><u>[Updated] 2024 Approved Reimagining Team Call Backdrops Before/After Chats</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-content-protection-can-you-record-playbacks/"><u>[Updated] 2024 Approved YouTube Content Protection Can You Record Playbacks?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-inside-the-engine-room-the-apple-m1-unveiled/"><u>[Updated] Inside the Engine Room The Apple M1 Unveiled</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-11-pro-max-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 11 Pro Max Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/comment-deplacer-sans-effort-vos-titres-steam-sur-un-autre-support-memoire/"><u>Comment Déplacer Sans Effort Vos Titres Steam Sur Un Autre Support Mémoire</u></a></li>
-<li><a href="https://driver-download.techidaily.com/essential-driver-software-downloads-for-the-hp-laserjet-professional-m127fn-multifunction-printer/"><u>Essential Driver Software Downloads for the HP Laserjet Professional M127FN Multifunction Printer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/genuine-insight-into-lightcut-the-ultimate-ai-powered-video-editor-for-your-mobile-devices-android-and-ios/"><u>Genuine Insight Into LightCut: The Ultimate AI-Powered Video Editor for Your Mobile Devices (Android & iOS)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-z-flip-5-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210615747-nba-2k21s-green-error-solved-expert-tips-inside/"><u>NBA 2K21's Green Error Solved - Expert Tips Inside</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revitalize-your-iphone-four-effective-methods-to-recover-data-from-icloud/"><u>Revitalize Your iPhone: Four Effective Methods to Recover Data From iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-creating-and-sharing-video-calls-via-skype-whatsapp/"><u>Step-by-Step Tutorial: Creating & Sharing Video Calls via Skype, WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-25-best-iphone-video-editors-a-comprehensive-guide-from-iphone-x-to-iphone-5/"><u>Top 25 Best iPhone Video Editors: A Comprehensive Guide From iPhone X to iPhone 5</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-4-innovative-loop-video-creators-best-apps-for-android-and-ios/"><u>Top 4 Innovative Loop Video Creators: Best Apps for Android and iOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-proven-methods-to-seamlessly-transform-epub-into-text-files-a-comprehensive-guide/"><u>Top 7 Proven Methods to Seamlessly Transform ePub Into Text Files: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620190018-unlock-free-iphone-and-android-entertainment-with-appcake-get-all-your-favorite-cracked-apps-and-games-now/"><u>Unlock Free iPhone & Android Entertainment with AppCake - Get All Your Favorite Cracked Apps & Games Now</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/arths-richest-digital-content-wizard/"><u>[New] Earth's Richest Digital Content Wizard</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-generating-attention-grabbing-video-teasers-for-2024/"><u>[Updated] Generating Attention-Grabbing Video Teasers for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-enhancing-instagram-stories-by-including-youtube-tracks/"><u>[Updated] In 2024, Enhancing Instagram Stories by Including YouTube Tracks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-revolutionizing-gameplay-a-curated-list-of-stardew-valleys-top-7-mods/"><u>[Updated] Revolutionizing Gameplay A Curated List of Stardew Valley's Top 7 Mods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-strategy-for-posting-srt-content-socially/"><u>2024 Approved The Ultimate Strategy for Posting SRT Content Socially</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expectant-launch-timeline-for-upcoming-macbook-models-soon-exclusive-info-from-a-reliable-report-technewszdnet/"><u>Expectant Launch Timeline for Upcoming MacBook Models Soon! Exclusive Info From a Reliable Report – TechNewsZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/getting-started-with-dashlane-understanding-costs-key-functionalities-and-initial-setup-steps-insights-from-zdnet/"><u>Getting Started with Dashlane: Understanding Costs, Key Functionalities & Initial Setup Steps - Insights From ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/huge-sale-alert-score-50-off-on-nordpass-pro-top-tier-password-security-for-black-friday-2022-techsavvy-news/"><u>Huge Sale Alert: Score 50% Off on NordPass Pro - Top-Tier Password Security for Black Friday 2022 | TechSavvy News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/huge-savings-alert-dashlane-premium-passwords-get-cut-in-half-score-a-50-discount/"><u>Huge Savings Alert: Dashlane Premium Passwords Get Cut in Half - Score a 50% Discount!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/les-dix-meilleurs-correcteurs-videos-bases-sur-lintelligence-artificielle-gratuits-pour-pc-et-mac-selon-les-utilisateurs/"><u>Les Dix Meilleurs Correcteurs Vidéos Basés Sur L'intelligence Artificielle Gratuits Pour PC Et Mac, Selon Les Utilisateurs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/malware-distribution-tactics-uncovered-by-proofpoint-leveraging-popular-concerts-like-justin-bieber-and-the-weeknd-as-a-scam-vector/"><u>Malware Distribution Tactics Uncovered by Proofpoint: Leveraging Popular Concerts Like Justin Bieber and The Weeknd as a Scam Vector</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-security-for-up-to-10-users-using-1passwords-economical-monthly-plan-of-1995-discover-more-inside-zdnet/"><u>Maximize Security for Up to 10 Users Using 1Password's Economical Monthly Plan of $19.95 | Discover More Inside ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-online-passwords-easily-get-a-whopping-3-month-trial-of-dashlane-premium-at-only-1-from-zdnet/"><u>Protect Online Passwords Easily: Get a Whopping 3-Month Trial of Dashlane Premium at Only $1 From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-over-150m-accounts-how-google-activated-two-factor-authentication-by-default/"><u>Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/smartest-value-for-money-tvs-on-the-market-this-year-our-expert-picks/"><u>Smartest Value-for-Money TVs on the Market This Year - Our Expert Picks</u></a></li>
 </ul></div>
 

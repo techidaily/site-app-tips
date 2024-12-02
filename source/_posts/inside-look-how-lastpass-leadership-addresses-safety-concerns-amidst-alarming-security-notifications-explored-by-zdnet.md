@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: How LastPass Leadership Addresses Safety Concerns Amidst Alarming Security Notifications | Explored by ZDNET"
-date: 2024-11-23T07:00:13.753Z
-updated: 2024-11-24T05:33:35.565Z
+date: 2024-11-28T04:26:57.406Z
+updated: 2024-12-02T09:16:00.701Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 Two LastPass vice presidents have released statements about the situation surrounding LastPass security issues that came to light this week. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Two LastPass vice presidents have released statements about the situation surrou
 [![web-browsers.jpg](https://www.zdnet.com/a/img/resize/86d91f7746b92a734c6f4130024638d05fe70bc2/2021/04/22/8feb3e5c-47fc-4cea-be35-4460e9f080ef/web-browsers.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best browsers for privacy Most people use Google Chrome as their default browser. But privacy is another matter for the online ad giant.  Read now](https://www.zdnet.com/article/best-browser-for-privacy/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Two days ago, hundreds of LastPass users took to [Twitter](https://twitter.com/technology%5Fgreg/status/1475600580521381889), [Reddit](https://www.reddit.com/r/Lastpass/comments/rpy0uq/recent%5Fsuccessful%5Flogin%5Fattempts%5Ffrom%5Fodd%5Fips/), [and other sites](https://news.ycombinator.com/item?id=29705957) to complain that they were getting alerts about their master password being used by someone who was not them. [Some reported](https://twitter.com/shift%5Fplusone/status/1475959354742525956) that even after changing their master password, someone tried to access their account again. 
@@ -84,22 +84,20 @@ Parent company LogMeIn announced just two weeks ago that it is [spinning off Las
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-to-full-periscope-mastery/"><u>[New] Step-by-Step Guide to Full Periscope Mastery</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-quintessential-list-of-top-tier-gaming-cams-for-live-viewers/"><u>[New] The Quintessential List of Top-Tier Gaming Cams for Live Viewers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/our-gateway-to-success-with-a-bundle-of-50-free-adornments-for-2024/"><u>[New] Your Gateway to Success with a Bundle of 50 FREE Adornments for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-expertise-unleashed-best-practices-for-ios-audio-broadcasting-for-2024/"><u>[Updated] Expertise Unleashed Best Practices for iOS Audio Broadcasting for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-dissecting-tseries-profit-generation-through-youtube-videos/"><u>[Updated] In 2024, Dissecting TSeries' Profit Generation Through YouTube Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-instagrams-unique-video-display-a-deep-dive/"><u>[Updated] Instagram’s Unique Video Display A Deep Dive</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-windows-11-photo-customization-audio-plus-visuals/"><u>2024 Approved The Ultimate Guide to Windows 11 Photo Customization Audio + Visuals</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-improved-performance-and-new-capabilities-with-the-updated-1password-mobile-version-now-live/"><u>Discover Improved Performance & New Capabilities with the Updated 1Password Mobile Version, Now Live!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easily-transition-your-saved-passwords-from-lastpass-to-icloud-for-windows-systems-zdnet/"><u>Easily Transition Your Saved Passwords From LastPass to iCloud for Windows Systems | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/half-price-savings-on-keeper-password-saver-secure-your-accounts-with-a-50-discount-techtoday/"><u>Half-Price Savings on Keeper Password Saver: Secure Your Accounts with a 50% Discount | TechToday</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-1password-assessment-superior-secure-password-handling-at-an-unbeatable-price-point-tech-insights/"><u>In-Depth 1Password Assessment: Superior, Secure Password Handling at an Unbeatable Price Point | Tech Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-passwords-with-dashlane-pro-exclusive-3-month-free-offer-available-here-via-zdnet/"><u>Secure Your Passwords with Dashlane Pro: Exclusive 3-Month Free Offer Available Here via ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/security-champions-earn-big-bugcrowd-raises-bounty-ceiling-to-1m-what-zdnet-reports-on-cybersecurity-incentives/"><u>Security Champions Earn Big: Bugcrowd Raises Bounty Ceiling to $1M – What ZDNET Reports on Cybersecurity Incentives</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solution-for-missing-text-messages-on-android-a-step-by-step-fix-guide/"><u>Solution for Missing Text Messages on Android: A Step by Step Fix Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-giant-1password-achieves-unprecedented-growth-with-62n-million-funding-round-boost-zdnet-exclusives/"><u>Tech Giant 1Password Achieves Unprecedented Growth with $62N Million Funding Round Boost | ZDNET Exclusives</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-francophiles-checklist-top-103plus-travel-phrases-for-france/"><u>The Francophile's Checklist: Top 103+ Travel Phrases for France</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-password-security-applications-and-how-to-save-on-them-according-to-zdnet/"><u>Top 5 Password Security Applications & How to Save on Them, According to ZDNet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pivotal-insights-into-online-story-crafting/"><u>[New] Pivotal Insights Into Online Story Crafting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-direct-slideshow-content-into-video-realm/"><u>[Updated] Direct Slideshow Content Into Video Realm</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-with-microsoft-a-step-by-step-guide-on-upgrading-to-windows-pro-edition-and-its-advantages/"><u>Advancing with Microsoft: A Step-by-Step Guide on Upgrading to Windows Pro Edition & Its Advantages</u></a></li>
+<li><a href="https://app-tips.techidaily.com/continuity-of-microsoft-365-support-for-office-2016-and-2019-what-to-expect-in-the-coming-year-zdnet/"><u>Continuity of Microsoft 365 Support for Office 2016 & 2019: What to Expect in the Coming Year | ZDNet</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-seipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone SE/iPad? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-last-resort-options-for-your-windows-10-system-as-microsoft-ends-support/"><u>Five Last Resort Options for Your Windows 10 System as Microsoft Ends Support</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-can-i-share-youtube-videos-on-facebook/"><u>How Can I Share YouTube Videos on Facebook?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-design-thinking-bridges-the-gap-between-technology-professionals-and-enhancing-customer-experiences-insights-from-zdnet/"><u>How Design Thinking Bridges the Gap Between Technology Professionals and Enhancing Customer Experiences: Insights From ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-the-value-error-in-excel-2019-by-stellar-guide/"><u>How to Fix the #Value! Error in Excel 2019?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-depth-evaluation-obs-as-an-advanced-recorder/"><u>In-Depth Evaluation OBS as an Advanced Recorder</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revival-in-cloud-tech-understanding-why-openstack-and-kata-containers-are-now-top-choices-for-enterprises-zdnet-analysis/"><u>Revival in Cloud Tech: Understanding Why OpenStack and Kata Containers Are Now Top Choices for Enterprises | ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/superduperdb-your-gateway-to-accessing-top-artificial-intelligence-applications-insights-from-zdnet/"><u>SuperDuperDB: Your Gateway to Accessing Top Artificial Intelligence Applications - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/switzerland-adopts-policy-for-open-source-public-sector-software/"><u>Switzerland Adopts Policy for Open-Source Public Sector Software</u></a></li>
 </ul></div>
 

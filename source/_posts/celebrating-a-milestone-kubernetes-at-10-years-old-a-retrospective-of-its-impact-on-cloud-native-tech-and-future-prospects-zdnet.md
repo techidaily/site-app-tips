@@ -1,7 +1,7 @@
 ---
 title: "Celebrating a Milestone: Kubernetes at 10 Years Old – A Retrospective of Its Impact on Cloud-Native Tech & Future Prospects | ZDNet"
-date: 2024-11-01T16:52:53.543Z
-updated: 2024-11-04T17:06:41.738Z
+date: 2024-11-26T03:55:40.775Z
+updated: 2024-12-02T09:17:41.141Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-three-key-strategies-to-frame-your-insta-films-better/"><u>[New] 2024 Approved Three Key Strategies to Frame Your Insta Films Better</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-sifting-through-the-best-video-hosting-options-with-vimeo-memberships-for-2024/"><u>[Updated] Sifting Through the Best Video Hosting Options with Vimeo Memberships for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-12-mobile-typing-applications-for-ios-and-android-devices-a-comprehensive-guide/"><u>Best 12 Mobile Typing Applications for iOS and Android Devices: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-superior-android-podcasting-solutions-beyond-player-fm/"><u>Discover Superior Android Podcasting Solutions Beyond Player FM</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-top-21-zedge-tools-for-customizing-your-phone-with-free-ringtones-and-wallpapers-on-iphoneandroid/"><u>Discover the Ultimate Top 21 Zedge Tools for Customizing Your Phone with Free Ringtones & Wallpapers on iPhone/Android</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-brother-dcp-l2540dw-printer-software-on-windows-pc/"><u>Download and Install Brother DCP-L2540DW Printer Software on Windows PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-ai-showdown-exploring-the-advantages-of-chatgpt-over-bing-chat/"><u>Generative AI Showdown: Exploring the Advantages of ChatGPT over Bing Chat</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/is-it-illegal-to-screen-capture-youtube-videos/"><u>Is It Illegal to Screen-Capture YouTube Videos?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-google-mdm-and-upcoming-features-an-in-depth-analysis-of-what-to-expect-in-mobile-management-systems-by-2024/"><u>Mastering Google MDM & Upcoming Features: An In-Depth Analysis of What to Expect in ^Mobile Management Systems^ by 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-and-easy-guide-to-rapid-iphone-app-migration-discover-the-fastest-transfer-techniques/"><u>Quick & Easy Guide to Rapid iPhone App Migration: Discover the Fastest Transfer Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/renowned-backdrop-alternatives-pixelpioneers-secret-for-2024/"><u>Renowned Backdrop Alternatives PixelPioneer's Secret for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-wi-fi-messaging-apps-for-seamless-internet-text-communication/"><u>Top 5 Wi-Fi Messaging Apps for Seamless Internet Text Communication</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-iphone-updates-top-issues-and-fixes/"><u>Troubleshooting iPhone Updates: Top Issues & Fixes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-the-secrets-of-high-quality-gopro-vlogging-for-2024/"><u>Unlock the Secrets of High-Quality GoPro Vlogging for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-7-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 7? Fixed | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-guide-to-smooth-youtube-video-documentation/"><u>[Updated] 2024 Approved Guide to Smooth YouTube Video Documentation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-envision-images-with-circular-focus-shift-ps-for-2024/"><u>[Updated] Envision Images with Circular Focus Shift PS for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-heights-with-dji-spark-the-small-drone-selfie-powerhouse/"><u>2024 Approved Capture Heights with DJI Spark The Small Drone Selfie Powerhouse</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitcast-audible-and-mp4-edition/"><u>2024 Approved TwitCast Audible & MP4 Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/directx-for-modern-operating-systems-fast-simple-installation-on-windows-1110/"><u>DirectX for Modern Operating Systems - Fast, Simple Installation on Windows 11/10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-6-mobile-explorer-tools-compatible-with-ios-devices-on-pcmac-systems/"><u>Discover the Top 6 Mobile Explorer Tools Compatible with iOS Devices on PC/Mac Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-10-alternatives-to-app-lock-on-android-devices/"><u>Discover the Ultimate 10 Alternatives to App Lock on Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-insights-the-definitive-guide-to-gopro-quik-a-comprehensive-analysis/"><u>Essential Insights: The Definitive Guide to GoPro Quik - A Comprehensive Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exclusive-guide-to-the-ultimate-magsafe-wallet-selection-testing-and-insights-from-industry-leaders-zdnet/"><u>Exclusive Guide to the Ultimate MagSafe Wallet Selection - Testing & Insights From Industry Leaders | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-mastering-your-android-device-top-free-and-premium-rooting-apps/"><u>Guide: Mastering Your Android Device - Top Free & Premium Rooting Apps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18e-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo S18e Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-3-free-android-block-game-apps-reviews-and-download-links/"><u>Top 3 Free Android Block Game Apps: Reviews & Download Links</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194385-top-ranked-shotcut-video-editor-a-comprehensive-guide-dont-miss-it/"><u>Top-Ranked Shotcut Video Editor: A Comprehensive Guide - Don't Miss It</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194671-transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-does-hyper-scape-keep-crashing-fix-it-now-for-a-smoother-gaming-experience/"><u>Why Does Hyper Scape Keep Crashing? Fix It Now for a Smoother Gaming Experience!</u></a></li>
 </ul></div>
 

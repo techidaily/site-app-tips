@@ -1,7 +1,7 @@
 ---
 title: Gartner Reveals Half of Generative AI Initiatives End in Failure - Insights From ZDNet
-date: 2024-10-28T16:41:28.598Z
-updated: 2024-11-04T17:12:42.623Z
+date: 2024-11-26T20:08:14.612Z
+updated: 2024-12-02T12:27:21.888Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/best-top-5-tools-for-simple-message-access-and-viewing-on-your-pc/"><u>Best Top 5 Tools for Simple Message Access & Viewing on Your PC</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/browse-your-best-photos-in-a-premium-frame/"><u>Browse Your Best Photos in a Premium Frame</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-7-mdm-applications-leading-software-reviews-for-efficient-device-management/"><u>Discover the Ultimate 7 MDM Applications: Leading Software Reviews for Efficient Device Management</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-note-taking-solutions-for-android-phones-our-favorite-5-apps/"><u>Discover the Ultimate List of Note-Taking Solutions for Android Phones: Our Favorite 5 Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-android-lock-screen-widgets-expertly-curated-free-plus-paid-varieties-for-optimal-usage/"><u>Discover the Ultimate Selection of Android Lock Screen Widgets: Expertly Curated Free + Paid Varieties for Optimal Usage</u></a></li>
-<li><a href="https://article-tips.techidaily.com/dissecting-gopro-video-quality-max-360-meets-hero-11-for-2024/"><u>Dissecting GoPro Video Quality Max 360 Meets Hero 11 for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-insights-into-the-vita-video-editing-suite-why-its-a-game-changer/"><u>Essential Insights Into the VITA Video Editing Suite: Why It's a Game-Changer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-locate-hidden-or-missing-events-on-your-ios-event-planner/"><u>How to Locate Hidden or Missing Events on Your iOS Event Planner</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-poco-c51-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Poco C51 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-pathway-to-online-success-building-a-new-youtube-channel-for-2024/"><u>The Pathway to Online Success Building a New YouTube Channel for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-mastering-the-zte-blade-a3ys-impressive-capabilities/"><u>The Ultimate Guide to Mastering the ZTE Blade A^3Y's Impressive Capabilities</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-9plus-secure-unlocking-apps-with-fingerprint-recognition-for-android-smartphones/"><u>The Ultimate List: 9+ Secure Unlocking Apps with Fingerprint Recognition for Android Smartphones</u></a></li>
-<li><a href="https://win-news.techidaily.com/top-35plus-professional-vuejs-template-packages-from-creativetim/"><u>Top 35+ Professional VueJS Template Packages From CreativeTim</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-6-best-free-slots-games-must-have-mobile-apps-for-android-and-ios/"><u>Top 6 Best Free Slots Games: Must-Have Mobile Apps for Android & iOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/winsplit-a-guide-to-overcome-display-split/"><u>WinSplit: A Guide to Overcome Display Split</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hriving-in-a-saturated-market-youtube-and-adsense-strategies/"><u>[New] Thriving in a Saturated Market YouTube and AdSense Strategies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-crafting-yt-masterpieces-for-igtv-showcase-for-2024/"><u>[Updated] Crafting YT Masterpieces for IGTV Showcase for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/all-you-need-to-know-about-pinnacle-studio-proscons-plus-top-software-substitutes-revealed/"><u>All You Need To Know About Pinnacle Studio Pros/Cons + Top Software Substitutes Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-setting-up-your-new-echo-dot-successfully/"><u>Easy Steps: Setting Up Your New Echo Dot Successfully</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-vivo-v30-lock-screen-password-by-drfone-android/"><u>How To Change Vivo V30 Lock Screen Password?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-samsung-galaxy-s23-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Samsung Galaxy S23 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/inside-lexis-audio-editor-critical-perspectives-advanced-tutorials-and-expert-insights-for-2024/"><u>Inside Lexis Audio Editor Critical Perspectives, Advanced Tutorials, and Expert Insights for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-compatible-hd-video-converter-top-tools-for-high-quality-video-format-transformation/"><u>Mac Compatible HD Video Converter: Top Tools for High-Quality Video Format Transformation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/on-the-go-image-and-document-producer-your-iphone-printer-solution/"><u>On-the-Go Image and Document Producer: Your iPhone Printer Solution</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-selection-of-android-screen-casting-apps-discover-the-top-9-options-to-enhance-your-experience/"><u>The Ultimate Selection of Android Screen Casting Apps: Discover the Top 9 Options to Enhance Your Experience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-unbiased-news-apps-the-ultimate-list-for-both-iphone-and-android-users/"><u>Top-Rated, Unbiased News Apps: The Ultimate List for Both iPhone and Android Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-the-best-10-gif-maker-apps-for-your-iphone/"><u>Ultimate Guide: The Best 10 GIF Maker Apps for Your iPhone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Today's IT Landscape: Balancing Cloud Innovation with Current On-Premise Realities | TechInsights"
-date: 2024-10-10T03:10:51.789Z
-updated: 2024-10-11T22:14:24.040Z
+date: 2024-11-26T09:00:01.501Z
+updated: 2024-12-02T04:04:52.463Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,16 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,20 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/onquer-youtubes-realms-a-step-by-step-video-uploading-guidebook-for-2024/"><u>[New] Conquer YouTube's Realms A Step-by-Step Video Uploading Guidebook for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand/"><u>[New] From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-how-to-add-radial-blur-effect-to-photos-in-photoshop-for-2024/"><u>[New] How to Add Radial Blur Effect to Photos in Photoshop for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-video-magic-begins-macbooks-webcam-guide/"><u>[Updated] 2024 Approved Video Magic Begins MacBook's Webcam Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1-facilidade-e-velocidade-como-virar-seu-filme-no-computador-com-metodos-simples-ajuda-de-movavi/"><u>1. 'Facilidade E Velocidade: Como Virar Seu Filme No Computador Com Métodos Simples - Ajuda De Movavi'</u></a></li>
-<li><a href="https://app-tips.techidaily.com/companies-scale-up-genai-strategy-insights-from-a-new-bloombergzdnet-study/"><u>Companies Scale Up GenAI Strategy: Insights From a New Bloomberg/ZDNet Study</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/deciphering-snapchat-expressions-your-complete-emoji-cheat-sheet/"><u>Deciphering Snapchat Expressions: Your Complete Emoji Cheat Sheet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-customer-engagement-through-xr-and-digital-twins-in-business-expert-strategies-unveiled-by-zdnet/"><u>Enhancing Customer Engagement Through XR and Digital Twins in Business - Expert Strategies Unveiled by ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-prime-church-livestreaming-services-for-2024/"><u>Guide to Prime Church Livestreaming Services for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lipsync-the-groundbreaking-new-challenger-in-the-ms-teams-and-zoom-arena-revolutionizing-communication-for-the-hearing-impaired/"><u>LipSync: The Groundbreaking New Challenger in the MS Teams & Zoom Arena - Revolutionizing Communication for the Hearing Impaired</u></a></li>
-<li><a href="https://discover-best.techidaily.com/macxdvd-digiarty/"><u>MacXDVD ショッピングガイド：オフィシャルな商品一覧での入手方法 - Digiartyチェーン</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-task-management-setting-up-timely-alerts-via-slacks-built-in-slackbot-assistant/"><u>Mastering Task Management: Setting Up Timely Alerts via Slack's Built-In Slackbot Assistant</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-4b-five-facts-about-advanced-antenna-array-theory/"><u>Section 4B: Five Facts About Advanced Antenna Array Theory</u></a></li>
-<li><a href="https://app-tips.techidaily.com/set-up-seamless-email-connectivity-in-your-onlyoffice-workspace-tutorial-for-it-professionals/"><u>Set Up Seamless Email Connectivity in Your ONLYOFFICE Workspace – Tutorial for IT Professionals</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-latest-features-of-macos-sonoma-a-comprehensive-guide-insights-from-zdnet/"><u>Unveiling the Latest Features of macOS Sonoma: A Comprehensive Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-best-of-breed-capture-card-for-switch/"><u>[New] 2024 Approved Best of Breed Capture Card for Switch</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unlocking-tiktok-the-ultimate-guide-to-joining-lives-for-2024/"><u>[Updated] Unlocking TikTok The Ultimate Guide to Joining Lives for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-oggwav/"><u>「Movaviで使いやすい無料音声ファイル形式コンバーター - OGGとWAV」</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/11-essential-steps-for-fb-video-showcasing-success/"><u>11 Essential Steps for FB Video Showcasing Success</u></a></li>
+<li><a href="https://app-tips.techidaily.com/as-the-skills-shortage-in-data-analytics-intensifies-discover-how-a-forward-thinking-enterprise-is-addressing-it-zdnet/"><u>As the Skills Shortage in Data Analytics Intensifies, Discover How a Forward-Thinking Enterprise Is Addressing It | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/busting-top-5-fallacies-surrounding-the-profitability-of-data-sharing-techwise-insights/"><u>Busting Top 5 Fallacies Surrounding the Profitability of Data Sharing | TechWise Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/descripcion-completa-de-las-especs-y-funcionalidades-de-la-ia-winxvideo-guia-oficial/"><u>Descripción Completa De Las Especs Y Funcionalidades De La IA Winxvideo: Guía Oficial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Explore Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-final-cut-pro-color-matching-secrets-expert-tips-for-a-cohesive-look-for-2024/"><u>New Final Cut Pro Color Matching Secrets Expert Tips for a Cohesive Look for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-real-deal-on-pursuing-a-career-as-a-devops-professional-pros-cons-and-challenges-techinsights/"><u>The Real Deal on Pursuing a Career as a DevOps Professional – Pros, Cons & Challenges | TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-of-low-codeno-code-development-understanding-whos-ready-to-embrace-it-perspectives-by-zdnet/"><u>The Rising Popularity of Low-Code/No-Code Development: Understanding Who's Ready to Embrace It | Perspectives by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-3-essential-gadgets-to-maintain-your-iphone-13s-flawless-appearance-insights-from-zdnet/"><u>Top 3 Essential Gadgets to Maintain Your iPhone 13'S Flawless Appearance - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-ui-interactions-the-rise-of-generative-ai-and-the-end-of-traditional-cursor-controls-insights-from-zdnet/"><u>Transforming UI Interactions: The Rise of Generative AI and the End of Traditional Cursor Controls - Insights From ZDNet</u></a></li>
 </ul></div>
 

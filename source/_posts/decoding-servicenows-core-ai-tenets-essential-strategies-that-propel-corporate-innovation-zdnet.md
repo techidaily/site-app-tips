@@ -1,7 +1,7 @@
 ---
 title: "Decoding ServiceNow’s Core AI Tenets: Essential Strategies That Propel Corporate Innovation | ZDNET"
-date: 2024-10-30T16:04:26.117Z
-updated: 2024-11-04T16:17:43.894Z
+date: 2024-11-26T04:47:55.378Z
+updated: 2024-12-01T21:01:43.992Z
 tags:
   - enterprise-software
 categories:
@@ -29,6 +29,10 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
 
 Like every version of Windows in the modern era, Windows 10 adheres to a 10-year support lifecycle. That means that most Windows 10 editions -- Home, Pro, Pro Workstation, Enterprise, and Education -- reach their end-of support date on October 14, 2025\. (For the nerdy details on how that date is calculated, see ["When will Microsoft end support for your version of Windows or Office?"](https://www.zdnet.com/article/when-will-microsoft-pull-the-plug-on-your-version-of-windows-or-office/))
@@ -44,10 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-premium-virtual-playstation-simulators-for-modern-computers/"><u>[New] In 2024, Premium Virtual PlayStation Simulators for Modern Computers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-ultimate-snapchat-boomerang-handbook/"><u>[Updated] In 2024, The Ultimate Snapchat Boomerang Handbook</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-inside-the-magic-box-how-does-vr-function/"><u>[Updated] Inside the Magic Box How Does VR Function?</u></a></li>
-<li><a href="https://solve-news.techidaily.com/abbyy-checklist/"><u>「ABBYY Checklist: 金融セクターにおける競争上のアドバンテージを向上させる方法」</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-thorough-examination-adobe-lightroom-for-android-users/"><u>A Thorough Examination Adobe Lightroom for Android Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/all-you-need-to-know-about-pinnacle-studio-proscons-plus-top-software-substitutes-revealed/"><u>All You Need To Know About Pinnacle Studio Pros/Cons + Top Software Substitutes Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-preview-enhanced-features-of-the-latest-samsung-copilotplus-ai-powered-desktops-unveiled-by-zdnet/"><u>Exclusive Preview: Enhanced Features of the Latest Samsung Copilot+ AI-Powered Desktops Unveiled by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-take-on-iphone-15-top-picks-and-pro-tips-for-seasoned-tech-enthusiasts/"><u>Expert Take on iPhone 15: Top Picks and Pro Tips for Seasoned Tech Enthusiasts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-excel-2007-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to Excel 2007 files</u></a></li>
-<li><a href="https://app-tips.techidaily.com/on-the-go-image-and-document-producer-your-iphone-printer-solution/"><u>On-the-Go Image and Document Producer: Your iPhone Printer Solution</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-realm-of-ring-vs-reality-stream-for-2024/"><u>The Realm of Ring vs Reality Stream for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-selection-of-android-screen-casting-apps-discover-the-top-9-options-to-enhance-your-experience/"><u>The Ultimate Selection of Android Screen Casting Apps: Discover the Top 9 Options to Enhance Your Experience</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-mobile-apps-for-stunning-photo-capture-on-android-devices/"><u>Top 10 Mobile Apps for Stunning Photo Capture on Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-unbiased-news-apps-the-ultimate-list-for-both-iphone-and-android-users/"><u>Top-Rated, Unbiased News Apps: The Ultimate List for Both iPhone and Android Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-the-best-10-gif-maker-apps-for-your-iphone/"><u>Ultimate Guide: The Best 10 GIF Maker Apps for Your iPhone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-m1-mastery-seamless-editing-with-video-tools/"><u>[New] 2024 Approved M1 Mastery Seamless Editing with Video Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-public-access-zen-beats/"><u>[New] Public Access Zen Beats</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-ultimate-list-templates-for-youtube-previews/"><u>[New] Ultimate List Templates for YouTube Previews</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/complete-tutorial-for-file-recovery-using-testdisk-across-various-windows-versions/"><u>Complete Tutorial for File Recovery Using TestDisk Across Various Windows Versions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevate-your-social-media-presence-insta-videography/"><u>Elevate Your Social Media Presence Insta-Videography</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/essential-mac-6-video-grabber-apps-for-2024/"><u>Essential Mac 6 Video Grabber Apps for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/finding-reliable-artificial-intelligence-watermarks-insights-from-zdnet/"><u>Finding Reliable Artificial Intelligence Watermarks: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-will-artificial-intelligence-impact-future-careers-in-cybersecurity-challenges-and-opportunities/"><u>How Will Artificial Intelligence Impact Future Careers in Cybersecurity?: Challenges & Opportunities</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-xr-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone XR Lock Screen with Notifications?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-guide-to-populating-powerpoint-decks-with-youtube-videos/"><u>In 2024, The Essential Guide to Populating PowerPoint Decks With YouTube Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapores-push-investing-in-ai-and-green-tech-transformation-insights-from-zdnet/"><u>Singapore's Push: Investing in AI & Green Tech Transformation - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-by-tech-gurus-zdnets-exclusive-insights/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews by Tech Gurus | ZDNet's Exclusive Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-why-isnt-utorrent-connecting-or-downloading-solutions-inside/"><u>Troubleshooting: Why Isn't uTorrent Connecting or Downloading? Solutions Inside</u></a></li>
 </ul></div>
 
