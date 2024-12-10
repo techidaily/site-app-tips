@@ -1,7 +1,7 @@
 ---
 title: "Newly Launched Full-Featured 1Password App for Linux Enthusiasts: A Closer Look - Tech News"
-date: 2024-11-28T02:46:36.497Z
-updated: 2024-12-02T01:32:20.544Z
+date: 2024-12-03T21:27:45.615Z
+updated: 2024-12-10T01:21:16.841Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/988b0aa2e48e125d13283fa19f222d53a696ba967
 I used to pride myself on being able to remember dozens of complex passwords. But, now I need to remember hundreds of passwords and I just can't do it. That's why password managers, such as [1Password](https://1password.com/), [Keeper](https://keepersecurity.com/), and [LastPass](https://www.lastpass.com/), are so important. All of which is fine and good… unless you're running Linux. Now, Agilebits' 1Password has finally given their customers what they've been [asking for: A Linux version](https://discussions.agilebits.com/discussion/2846/new-product-request-1password-for-linux). After a long beta, the [company has released its first Linux edition](https://www.prnewswire.com/news-releases/1password-unveils-application-to-protect-linux-users-and-developers-301293641.html).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** recommends
@@ -78,24 +78,17 @@ Sound good to you? Give [Linux 1Password a try with a 30-day free trial](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-authenticity-matters-selecting-reliable-tiktok-followers/"><u>[New] 2024 Approved Authenticity Matters Selecting Reliable TikTok Followers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-picture-perfection-choosing-the-best-camera-positions-on-iphone-for-2024/"><u>[New] Picture Perfection Choosing the Best Camera Positions on iPhone for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tep-by-step-solution-for-non-shown-shorts-thumbnails-on-youtube/"><u>[New] Step-by-Step Solution for Non-Shown Shorts Thumbnails on YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-strategies-to-eliminate-frames-loss-in-obs-recordings/"><u>[Updated] 2024 Approved Strategies to Eliminate Frames Loss in OBS Recordings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/camera-surveillance/"><u>Camera Surveillance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cutting-edge-5g-expansion-verizon-partners-with-emerging-startup-celona-for-business-growth/"><u>Cutting-Edge 5G Expansion: Verizon Partners with Emerging Startup Celona for Business Growth</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-tech-squads-amplifying-their-role-in-enhancing-customer-journey-insights-from-zdnet/"><u>Empowering Tech Squads: Amplifying Their Role in Enhancing Customer Journey – Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-customer-engagement-through-advanced-technologies-exploring-xr-digital-twins-and-spatial-computing-for-businesses-guided-by-experts-at-zdnet/"><u>Enhancing Customer Engagement Through Advanced Technologies: Exploring XR, Digital Twins, and Spatial Computing for Businesses | Guided by Experts at ZDNET</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-13-pro-max-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone 13 Pro Max Safe and Legal</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-techniques-for-enhancing-obs-studio-edits/"><u>In 2024, Essential Techniques for Enhancing OBS Studio Edits</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-googles-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Googles Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mainstream-market-entry-with-aristas-new-cognitive-network-solutions-for-mid-sized-businesses-industry-analysis/"><u>Mainstream Market Entry with Arista's New Cognitive Network Solutions for Mid-Sized Businesses | Industry Analysis</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movavimp43gp/"><u>Movaviのような無償で使えるオンラインMP4と3GPファイル変換ツール</u></a></li>
-<li><a href="https://app-tips.techidaily.com/stability/"><u>Stability</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-chaos-in-linux-and-open-source-manuals-a-revolutionary-fix-zdnet-insight/"><u>Taming Chaos in Linux & Open Source Manuals: A Revolutionary Fix | ZDNet Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-workers-tired-yet-relieved-heres-the-silver-lining-insights-from-zdnet/"><u>Tech Workers Tired Yet Relieved? Here's the Silver Lining! - Insights From ZDNet</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unleashing-the-full-capabilities-of-macoss-screen-recording-feature/"><u>Unleashing the Full Capabilities of macOS's Screen Recording Feature</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-artificer-adobes-revolutionary-ai-tool-for-enhancing-business-teams-explained-by-zdnet/"><u>Unleashing the Power of Artificer: Adobe's Revolutionary AI Tool for Enhancing Business Teams, Explained by ZDNet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/visual-cohesion-through-simple-fading-techniques/"><u>Visual Cohesion Through Simple Fading Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-understanding-asmrs-potential-benefits-for-you/"><u>[Updated] 2024 Approved Understanding ASMR's Potential Benefits for You</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-accelerate-your-retro-play-with-best-ps2-android-emulators/"><u>[Updated] In 2024, Accelerate Your Retro Play with Best Ps2 Android Emulators</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/backward-glance-decoding-youtube-video-reversals/"><u>Backward Glance Decoding YouTube Video Reversals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/efficient-methods-to-unlink-your-iphone-device-from-icloud-accounts/"><u>Efficient Methods to Unlink Your iPhone Device From iCloud Accounts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/essential-guide-to-comparing-4k-youtube-converter-tools/"><u>Essential Guide to Comparing 4K YouTube Converter Tools</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/mastering-multilingual-setup-easily-change-language-settings-in-windows-11-with-yl-computing-expertise/"><u>Mastering Multilingual Setup: Easily Change Language Settings in Windows 11 with YL Computing Expertise</u></a></li>
+<li><a href="https://app-tips.techidaily.com/resolving-authorization-and-connection-errors-on-itunes-platforms-a-comprehastern-guide/"><u>Resolving Authorization and Connection Errors on iTunes Platforms – A Comprehastern Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-solution-getting-your-itunes-home-sharing-back-on-track/"><u>Step-by-Step Solution: Getting Your iTunes Home Sharing Back on Track</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-combat-license-ends-soon-alert-on-windows-11/"><u>Strategies to Combat License Ends Soon Alert on Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-90-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor 90 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-strategies-to-resolve-persistent-icloud-sign-in-prompts-for-password/"><u>Top 7 Strategies to Resolve Persistent iCloud Sign-In Prompts for Password</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-xcover-7-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy XCover 7 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Superior Plus, Top Billion-Dollar Natural Gas Provider, Targeted by Cyber Attack: Insights From ZDNet"
-date: 2024-12-01T02:27:14.637Z
-updated: 2024-12-01T20:08:44.465Z
+date: 2024-12-03T01:42:35.204Z
+updated: 2024-12-09T23:09:25.767Z
 tags:
   - password-manager
 categories:
@@ -72,20 +72,20 @@ Deputy Attorney General Lisa Monaco [said during a press conference](https://twi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-setting-up-a-professional-grade-stream-setup/"><u>[New] 2024 Approved Setting Up a Professional-Grade Stream Setup</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-flavor-leaders-must-watch-culinary-youtube-stars/"><u>[Updated] Flavor Leaders Must-Watch Culinary YouTube Stars</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snap-your-way-unique-discover-over-120-private-story-creation-tips-and-tricks/"><u>[Updated] Snap Your Way Unique Discover over 120 Private Story Creation Tips and Tricks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dont-let-your-windows-1-be-left-in-the-lurch-discover-your-five-options-before-support-concludes-zdnet-insight/"><u>Don't Let Your Windows 지정 1 컴퓨터 Be Left in the Lurch - Discover Your Five Options Before Support Concludes | ZDNet Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-picks-for-the-ultimate-to-do-list-software-of-2023-features-and-comparisons/"><u>Expert Picks for the Ultimate To-Do List Software of 2023 – Features and Comparisons</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-can-you-capture-your-favorite-content-from-peacock-on-any-device/"><u>How Can You Capture Your Favorite Content From Peacock on Any Device?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-apple-iphone-15-pro-imei-checker-by-drfone-ios/"><u>In 2024, Best Free Apple iPhone 15 Pro IMEI Checker</u></a></li>
-<li><a href="https://app-tips.techidaily.com/switching-to-linux-mint-from-windows-a-comprehensive-guide-techrepublic/"><u>Switching to Linux Mint From Windows: A Comprehensive Guide | TechRepublic</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-discovering-why-steam-dominates-games/"><u>The Ultimate Guide to Discovering Why Steam Dominates Games</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-antivirus-protection-a-comprehensive-guide-by-zdnet/"><u>Top Rated Antivirus Protection : A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-ultimate-list-of-free-green-screen-apps-for-mobile-creators/"><u>Updated 2024 Approved The Ultimate List of Free Green Screen Apps for Mobile Creators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-digital-pixels-at-your-command-curve-artfully/"><u>[New] 2024 Approved Digital Pixels at Your Command Curve Artfully</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-procuring-unlocked-picture-frame-videos/"><u>[Updated] Expert Tips for Procuring Unlocked Picture Frame Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-securing-the-best-presentation-of-subtitles-through-srt-uploads/"><u>[Updated] Securing the Best Presentation of Subtitles Through SRT Uploads</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-no-cost-android-tracking-programs-top-5-picks-for-smartphone-surveillance/"><u>Best No-Cost Android Tracking Programs: Top 5 Picks for Smartphone Surveillance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193851-discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964468515-exclusive-toms-hardware-ama-event-featuring-amd-insights-join-us-this-april-6th/"><u>Exclusive 'Tom's Hardware' AMA Event Featuring AMD Insights – Join Us This April 6Th!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-y02t-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo Y02T</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-20c-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark 20C Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-must-have-mdm-solutions-expert-picks-for-optimal-mobile-control/"><u>Top 7 Must-Have MDM Solutions: Expert Picks for Optimal Mobile Control</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194494-ultimate-selection-of-secure-android-app-protectors-find-out-which-ones-rank-the-highest/"><u>Ultimate Selection of Secure Android App Protectors – Find Out Which Ones Rank the Highest!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/what-exactly-is-instant-messaging-an-in-depth-guide/"><u>What Exactly Is Instant Messaging? An In-Depth Guide</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

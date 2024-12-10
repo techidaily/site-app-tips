@@ -1,7 +1,7 @@
 ---
 title: Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet
-date: 2024-11-26T19:09:42.103Z
-updated: 2024-12-01T20:36:16.864Z
+date: 2024-12-08T20:15:05.350Z
+updated: 2024-12-09T21:17:30.508Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,14 +99,20 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-achieve-peak-performance-enhancing-gameplay-using-switch-pro-controller-in-steam/"><u>[New] In 2024, Achieve Peak Performance Enhancing Gameplay Using Switch Pro Controller in Steam</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-x-audio-capture-pc-version-for-2024/"><u>[Updated] X-Audio Capture PC Version for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mirth-machines-zombie-comedy-constructors/"><u>2024 Approved Mirth Machines Zombie Comedy Constructors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/accelerate-your-coding-speed-using-generative-ai-benefits-and-pitfalls-to-consider/"><u>Accelerate Your Coding Speed Using Generative AI: Benefits and Pitfalls to Consider</u></a></li>
-<li><a href="https://app-tips.techidaily.com/creating-an-impressive-table-with-excel-a-step-by-step-guide/"><u>Creating an Impressive Table with Excel: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/regular-audits-and-tests/"><u>Regular Audits and Tests</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/social-media-impact-tiktoks-viral-tweets-at-the-forefront/"><u>Social Media Impact TikTok's Viral Tweets at the Forefront</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-rated-universal-video-transcoder-the-ultimate-tool-for-seamless-format-switching/"><u>Top Rated Universal Video Transcoder: The Ultimate Tool for Seamless Format Switching</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-ad-strategies-with-adobes-innovative-generative-ai-campaign-solutions-tech-news/"><u>Transform Your Ad Strategies with Adobe's Innovative Generative AI Campaign Solutions - Tech News</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-elevate-farming-fun-with-these-top-7-stardew-valley-enhancements/"><u>[New] 2024 Approved Elevate Farming Fun with These Top 7 Stardew Valley Enhancements</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-blueprint-for-stellar-tiktok-campaigns-and-social-media-conquests-for-2024/"><u>[New] Blueprint for Stellar TikTok Campaigns and Social Media Conquests for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-privacy-centric-explore-instagram-stories-anon-on-your-devices/"><u>[New] Privacy-Centric Explore Instagram Stories Anon on Your Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-pursuit-for-perfection-exploring-4k-with-hps-z32x/"><u>[Updated] 2024 Approved Pursuit for Perfection Exploring 4K with HP's Z32X</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-15-android-compatible-free-messaging-apps-a-comprehensive-guide/"><u>Best 15 Android-Compatible Free Messaging Apps: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-sms-automation-tools-top-10-applications-for-android-and-ios-devices/"><u>Best SMS Automation Tools: Top 10 Applications for Android & iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-10-iphone-applications-for-creating-stunning-gif-graphics/"><u>Best Top 10 iPhone Applications for Creating Stunning GIF Graphics</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-samsung-galaxy-a05s-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Samsung Galaxy A05s To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/strategies-for-effective-storage-of-chats-and-calls-on-facebook/"><u>Strategies for Effective Storage of Chats and Calls on Facebook</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/successful-sms-marketing-a-step-by-step-guide-using-massmail-tools/"><u>Successful SMS Marketing: A Step-by-Step Guide Using MassMail Tools</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-alternatives-to-cydia-downloaders-the-ultimate-guide-for-mac-and-windows-users/"><u>Top Alternatives to Cydia Downloaders: The Ultimate Guide for Mac & Windows Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-the-non-functioning-facebook-messenger-application/"><u>Troubleshooting Guide: Resolving Issues with the Non-Functioning Facebook Messenger Application</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-performance-secrets-with-toms-hardware-guides/"><u>Unlocking Performance Secrets with Tom's Hardware Guides</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Gartner Reveals Half of Generative AI Initiatives End in Failure - Insights From ZDNet
-date: 2024-11-26T20:08:14.612Z
-updated: 2024-12-02T12:27:21.888Z
+date: 2024-12-07T22:01:49.597Z
+updated: 2024-12-10T04:04:24.006Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/hriving-in-a-saturated-market-youtube-and-adsense-strategies/"><u>[New] Thriving in a Saturated Market YouTube and AdSense Strategies</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-crafting-yt-masterpieces-for-igtv-showcase-for-2024/"><u>[Updated] Crafting YT Masterpieces for IGTV Showcase for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/all-you-need-to-know-about-pinnacle-studio-proscons-plus-top-software-substitutes-revealed/"><u>All You Need To Know About Pinnacle Studio Pros/Cons + Top Software Substitutes Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-setting-up-your-new-echo-dot-successfully/"><u>Easy Steps: Setting Up Your New Echo Dot Successfully</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-vivo-v30-lock-screen-password-by-drfone-android/"><u>How To Change Vivo V30 Lock Screen Password?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-samsung-galaxy-s23-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Samsung Galaxy S23 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/inside-lexis-audio-editor-critical-perspectives-advanced-tutorials-and-expert-insights-for-2024/"><u>Inside Lexis Audio Editor Critical Perspectives, Advanced Tutorials, and Expert Insights for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mac-compatible-hd-video-converter-top-tools-for-high-quality-video-format-transformation/"><u>Mac Compatible HD Video Converter: Top Tools for High-Quality Video Format Transformation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/on-the-go-image-and-document-producer-your-iphone-printer-solution/"><u>On-the-Go Image and Document Producer: Your iPhone Printer Solution</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-selection-of-android-screen-casting-apps-discover-the-top-9-options-to-enhance-your-experience/"><u>The Ultimate Selection of Android Screen Casting Apps: Discover the Top 9 Options to Enhance Your Experience</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-unbiased-news-apps-the-ultimate-list-for-both-iphone-and-android-users/"><u>Top-Rated, Unbiased News Apps: The Ultimate List for Both iPhone and Android Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-the-best-10-gif-maker-apps-for-your-iphone/"><u>Ultimate Guide: The Best 10 GIF Maker Apps for Your iPhone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-youtubers-playbook-achieving-content-stardom/"><u>[Updated] In 2024, The YouTuber's Playbook Achieving Content Stardom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-elite-compilation-9-online-mic-recorders-ranked/"><u>2024 Approved The Elite Compilation 9 Online Mic Recorders Ranked</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-steam-remote-play-up-and-running-again-top-tips-and-fixes/"><u>How To Get Steam Remote Play Up and Running Again - Top Tips & Fixes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/identifying-the-leading-internet-browser-insights-from-zdnet/"><u>Identifying the Leading Internet Browser: Insights From ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-12-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus 12 to Protect Your Individual Information</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-stop-unsolicited-youtube-suggestion-rollouts/"><u>In 2024, Stop Unsolicited YouTube Suggestion Rollouts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/office-chaos-when-displeasure-over-communication-app-etiquette-spirals-out-of-control-insights-from-zdnet/"><u>Office Chaos: When Displeasure Over Communication App Etiquette Spirals Out of Control - Insights From ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/social-media-writing-tips-boosting-quality-with-ai-assisted-tools-like-chatgpt/"><u>Social Media Writing Tips: Boosting Quality with AI-Assisted Tools Like ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/startup-celona-selected-by-verizon-business-for-exclusive-private-5g-implementation/"><u>Startup Celona Selected by Verizon Business for Exclusive Private 5G Implementation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/stream-like-a-pro-setting-up-your-dslr-on-personal-computers/"><u>Stream Like a Pro Setting Up Your DSLR on Personal Computers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-5-alternatives-to-ensure-continued-security/"><u>Windows 10 End of Life Approaching: Discover Your 5 Alternatives to Ensure Continued Security</u></a></li>
+<li><a href="https://article-tips.techidaily.com/zenith-project-hub-analysis-for-2024/"><u>Zenith Project Hub Analysis for 2024</u></a></li>
 </ul></div>
 

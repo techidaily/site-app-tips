@@ -1,7 +1,7 @@
 ---
 title: Why People Favor Biometrics Over Passwords Due to Memory Challenges | ZDNet Analysis
-date: 2024-11-28T07:34:38.102Z
-updated: 2024-12-02T12:31:05.847Z
+date: 2024-12-02T21:22:08.480Z
+updated: 2024-12-09T23:26:24.865Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,20 +99,24 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-quick-tips-making-high-quality-recordings-on-iphone-for-2024/"><u>[New] Quick Tips Making High-Quality Recordings on iPhone for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-decoding-virtual-realm-must-know-phrases-for-2024/"><u>[Updated] Decoding Virtual Realm Must-Know Phrases for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-how-adobes-enterprise-level-ai-feature-transforms-team-collaboration-insights-from-zdnet/"><u>1. How Adobe's Enterprise-Level AI Feature Transforms Team Collaboration: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-transforming-business-the-effects-of-decentralization-and-web3-on-corporations-insights-from-zdnet/"><u>1. Transforming Business: The Effects of Decentralization & Web3 on Corporations - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-boosting-youtube-traffic-outsmarting-automated-viewers/"><u>2024 Approved Boosting YouTube Traffic Outsmarting Automated Viewers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/agnes-ro-reveals-the-transformation-in-modern-development-roles-at-atlassian-insights-from-tech-visionary/"><u>Agnes Ro Reveals the Transformation in Modern Development Roles at Atlassian - Insights From Tech Visionary</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/are-there-issues-with-playstation-network-or-could-the-problem-be-on-your-end/"><u>Are There Issues with PlayStation Network, or Could the Problem Be on Your End?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-streamlining-gdpr-compliance-and-user-tracking/"><u>Cookiebot: Streamlining GDPR Compliance and User Tracking</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-deadline-approaching-for-microsofts-windows-11-issues-only-a-year-remains-to-fix-them/"><u>Critical Deadline Approaching for Microsoft's Windows 11 Issues – Only a Year Remains to Fix Them!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-new-frontiers-in-coding-efficiency-the-impact-of-github-copilot-as-revealed-by-zdnet/"><u>Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-machine-learning-is-revolutionizing-game-production-and-transforming-player-experiences-in-the-video-games-sector/"><u>How Machine Learning Is Revolutionizing Game Production and Transforming Player Experiences in the Video Games Sector</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-capture-screens-in-windows-8-4-methods/"><u>In 2024, Capture Screens in Windows 8 4 Methods</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-motorola-moto-g23-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Motorola Moto G23 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/inside-look-how-non-apple-companies-offer-more-enjoyable-work-experiences-confirms-ex-employee-zdnet/"><u>Inside Look: How Non-Apple Companies Offer More Enjoyable Work Experiences, Confirms Ex-Employee | ZDNET</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Review: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-troubleshooting-obs-frame-loss/"><u>[Updated] 2024 Approved Troubleshooting OBS Frame Loss</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-expert-methods-for-weaving-in-live-streaming-content-online/"><u>[Updated] Expert Methods for Weaving in Live Streaming Content Online</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-transcending-visual-limits-with-hdr-technology/"><u>[Updated] Transcending Visual Limits with HDR Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-to-the-rescue-shielding-it-specialists-from-overwork-and-alert-exhaustion-with-cutting-edge-solutions-zdnet/"><u>AI to the Rescue! Shielding IT Specialists From Overwork and Alert Exhaustion with Cutting-Edge Solutions | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-artificial-intelligence-slow-down-expansion-in-cybersecurity-careers-zdnet-insights/"><u>Can Artificial Intelligence Slow Down Expansion in Cybersecurity Careers? | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/combining-ai-innovation-with-agile-practices-faces-challenges-insights-from-recent-research/"><u>Combining AI Innovation with Agile Practices Faces Challenges: Insights From Recent Research</u></a></li>
+<li><a href="https://app-tips.techidaily.com/emerging-management-positions-in-the-era-of-generative-ai-the-future-landscape-zdnet/"><u>Emerging Management Positions in the Era of Generative AI: The Future Landscape | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/future-ready-mastering-the-rise-of-agent-ecosystems-in-next-gen-ai-service-platforms-insights-from-zdnet/"><u>Future Ready: Mastering the Rise of Agent Ecosystems in Next-Gen AI Service Platforms - Insights From ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/guida-passo-passo-per-eseguire-il-backup-dei-file-su-un-disco-rigido-esterno-in-windows-11/"><u>Guida Passo-Passo per Eseguire Il Backup Dei File Su Un Disco Rigido Esterno in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-overcome-common-directx-errors-in-the-classic-strategy-of-anno-1800/"><u>How to Overcome Common DirectX Errors in the Classic Strategy of Anno 1800</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-honor-70-lite-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Honor 70 Lite 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/interchangeable-connection-tips-for-logitech-mice-and-non-original-receivers/"><u>Interchangeable Connection Tips for Logitech Mice and Non-Original Receivers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-open-source-to-draw-global-tech-pioneers-insights-from-zdnet/"><u>Leveraging Open Source to Draw Global Tech Pioneers - Insights From ZDNet</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-split-screen-video-makers-the-best-ios-and-android-apps/"><u>New 2024 Approved Split Screen Video Makers The Best iOS and Android Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-tech-talent-how-artificial-intelligence-combats-job-burnout-and-warning-tiredness-for-it-professionals-zdnet/"><u>Reviving Tech Talent: How Artificial Intelligence Combats Job Burnout & Warning Tiredness for IT Professionals | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-ai-synthesis-realized-engage-with-your-organizations-chief-tech-architect-zdnet/"><u>Seamless AI Synthesis Realized - Engage with Your Organization’s Chief Tech Architect | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-now-16-t-trillion-non-cash-deals-dominated-by-asia-insights-from-zdnet/"><u>The Future Is Now: 1.6 T Trillion Non-Cash Deals Dominated by Asia | Insights From ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
 </ul></div>
 

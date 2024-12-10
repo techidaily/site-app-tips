@@ -1,7 +1,7 @@
 ---
 title: Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report
-date: 2024-11-28T22:52:24.137Z
-updated: 2024-12-02T10:21:55.255Z
+date: 2024-12-08T17:35:39.748Z
+updated: 2024-12-10T00:24:39.188Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,19 +81,18 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-enhance-visual-appeal-edit-videos-for-instagram-success/"><u>[New] In 2024, Enhance Visual Appeal Edit Videos for Instagram Success</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mac-video-excellence-the-creme-de-la-liste-for-sierra-users/"><u>[Updated] 2024 Approved Mac Video Excellence The Crème De La Liste for Sierra Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-secrets-revealed-how-to-boost-facebook-rankings-in-under-a-minute/"><u>[Updated] 2024 Approved Secrets Revealed How to Boost Facebook Rankings in Under a Minute</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-otter-team-edition-unveiled-revolutionize-remote-collaboration-with-adaptive-live-meeting-transcriptions-zdnet-insights/"><u>1. Otter Team Edition Unveiled: Revolutionize Remote Collaboration with Adaptive Live Meeting Transcriptions - ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-coding-skills-the-impact-of-github-copilot-on-developer-workflow-a-zdnet-perspective/"><u>Boost Your Coding Skills: The Impact of GitHub Copilot on Developer Workflow - A ZDNet Perspective</u></a></li>
-<li><a href="https://app-tips.techidaily.com/crowdstrikes-cto-warns-generative-ai-emerges-as-a-major-threat-to-business-security/"><u>CrowdStrike's CTO Warns: Generative AI Emerges as a Major Threat to Business Security</u></a></li>
-<li><a href="https://app-tips.techidaily.com/excel-expert-advice-crafting-a-user-friendly-drop-down-list-in-minutes-with-zdnets-strategies/"><u>Excel Expert Advice: Crafting a User-Friendly Drop-Down List in Minutes with ZDNet's Strategies</u></a></li>
-<li><a href="https://video-capture.techidaily.com/instagram-live-with-professional-obs-for-2024/"><u>Instagram Live with Professional OBS for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-steep-path-to-update-ubuntu-2404-insights-from-zdnet/"><u>Navigating the Steep Path to Update Ubuntu 24.04 - Insights From ZDNet</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/stop-losing-your-data-on-usb-sticks-learn-how-to-retrieve-deleted-files-effectively/"><u>Stop Losing Your Data on USB Sticks! Learn How to Retrieve Deleted Files Effectively</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-cutting-edge-of-connectivity-a-look-at-the-best-new-developments-in-5g-and-edge-computing-zdnet/"><u>The Cutting-Edge of Connectivity: A Look at the Best New Developments in 5G and Edge Computing (ZDNET)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-obs-tutorial-for-youtube-and-twitch-broadcasts-for-2024/"><u>The Ultimate OBS Tutorial for YouTube & Twitch Broadcasts for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tools-that-enhance-your-travel-videos/"><u>Tools That Enhance Your Travel Videos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-7-affordable-mobile-phone-tariffs-a-comprehensive-guide/"><u>Top 7 Affordable Mobile Phone Tariffs : A Comprehensive Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-becoming-a-visionary-in-depth-guide-to-hdr-photography-for-2024/"><u>[New] Becoming a Visionary In-Depth Guide to HDR Photography for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-experts-insight-into-morphvox-for-professional-sound-alteration/"><u>[New] In 2024, Expert's Insight Into MorphVOX for Professional Sound Alteration</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-beginners-guide-top-10-easy-to-fly-drones-for-2024/"><u>[Updated] Beginner's Guide Top 10 Easy-to-Fly Drones for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-guide-to-early-success-on-youtube-steer-clear-of-these-top-8-pitfalls/"><u>[Updated] The Essential Guide to Early Success on YouTube Steer Clear of These Top 8 Pitfalls</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/effective-ways-to-archive-and-record-youtube-events/"><u>Effective Ways to Archive and Record Youtube Events</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-effortlessly-backup-and-restore-whatsapp-messages-from-one-android-phone-to-another/"><u>How to Effortlessly Backup and Restore WhatsApp Messages From One Android Phone to Another</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximizing-your-media-sharing-on-whatsapp-ultimate-guide-to-reducing-video-file-size-without-quality-loss/"><u>Maximizing Your Media Sharing on WhatsApp: Ultimate Guide to Reducing Video File Size Without Quality Loss</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcome-whatsapp-backup-freeze-on-android-with-these-5-effective-methods/"><u>Overcome WhatsApp Backup Freeze on Android with These 5 Effective Methods</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/reel-in-the-future-top-5-ps-vr-games-on-the-brink-of-launch-for-2024/"><u>Reel in the Future Top 5 PS VR Games on The Brink of Launch for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-guide-capturing-your-whatsapp-video-calls-on-ios-android-and-pc/"><u>Simple Guide: Capturing Your WhatsApp Video Calls on iOS, Android, and PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-steps-to-seamlessly-download-audio-messages-from-whatsapp/"><u>Simple Steps to Seamlessly Download Audio Messages From WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-whatsapp-video-conversion-apps-for-perfect-quality/"><u>The Ultimate Guide: Top WhatsApp Video Conversion Apps for Perfect Quality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-free-video-call-apps-versatile-use-on-windows-and-macos-for-2024/"><u>Top Free Video Call Apps Versatile Use on Windows & MacOS for 2024</u></a></li>
 </ul></div>
 

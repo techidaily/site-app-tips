@@ -1,7 +1,7 @@
 ---
 title: "LastPass Executives Assure Users of No Breached Accounts Following Recent Security Warnings: Insights From ZDNet"
-date: 2024-11-26T21:15:20.258Z
-updated: 2024-12-02T13:19:36.126Z
+date: 2024-12-07T02:11:46.631Z
+updated: 2024-12-09T21:09:50.787Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/03aa98ead41db04bf63114eadc16ec748777a4353
 Two LastPass vice presidents have released statements about the situation surrounding LastPass security issues that came to light this week. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Two LastPass vice presidents have released statements about the situation surrou
 [![web-browsers.jpg](https://www.zdnet.com/a/img/resize/86d91f7746b92a734c6f4130024638d05fe70bc2/2021/04/22/8feb3e5c-47fc-4cea-be35-4460e9f080ef/web-browsers.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best browsers for privacy Most people use Google Chrome as their default browser. But privacy is another matter for the online ad giant.  Read now](https://www.zdnet.com/article/best-browser-for-privacy/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Two days ago, hundreds of LastPass users took to [Twitter](https://twitter.com/technology%5Fgreg/status/1475600580521381889), [Reddit](https://www.reddit.com/r/Lastpass/comments/rpy0uq/recent%5Fsuccessful%5Flogin%5Fattempts%5Ffrom%5Fodd%5Fips/), [and other sites](https://news.ycombinator.com/item?id=29705957) to complain that they were getting alerts about their master password being used by someone who was not them. [Some reported](https://twitter.com/shift%5Fplusone/status/1475959354742525956) that even after changing their master password, someone tried to access their account again. 
@@ -84,19 +84,22 @@ Parent company LogMeIn announced just two weeks ago that it is [spinning off Las
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-eliminating-odd-shades-a-step-by-step-guide-to-flawless-greenscreens/"><u>[New] 2024 Approved Eliminating Odd Shades A Step-by-Step Guide to Flawless Greenscreens</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-enhancing-virtual-collaboration-recording-techniques-for-gotomeet/"><u>[Updated] 2024 Approved Enhancing Virtual Collaboration Recording Techniques for GoToMeet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-slug-lines-an-essential-guide/"><u>2024 Approved Understanding Slug Lines An Essential Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-setup-of-hp-840-g3-device-with-newest-driver-installation-tutorials/"><u>Effortless Setup of HP 840 G3 Device with Newest Driver Installation Tutorials</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-business-with-low-code-solutions-how-they-boost-employer-appeal/"><u>Elevate Your Business with Low-Code Solutions: How They Boost Employer Appeal</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-how-to-correctly-establish-a-directx-rendering-device/"><u>Fixed: How to Correctly Establish a DirectX Rendering Device</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-se-2020-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone SE (2020) without Password</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-list-5-premium-live-stream-recorders/"><u>In 2024, The Ultimate List 5 Premium Live Stream Recorders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-ubuntu-2404-enhancements-with-expert-tips-from-zdnets-guide/"><u>Mastering Ubuntu 24.04 Enhancements with Expert Tips From ZDNet's Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-turmoil-unpacking-russias-invasion-effects-on-ukraines-it-landscape-analysis-by-zdnet/"><u>Tech Turmoil: Unpacking Russia's Invasion Effects on Ukraine's IT Landscape | Analysis by ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/techniques-to-access-restricted-videos-on-fb-without-issues/"><u>Techniques to Access Restricted Videos on FB Without Issues</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-tech-executive-forecasts-major-evolution-in-cloud-computing-strategies-insights-from-zdnet/"><u>Top Tech Executive Forecasts Major Evolution in Cloud Computing Strategies – Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-identity-management-solutions-of-2022-expert-reviews-and-comparisons/"><u>Top-Rated Identity Management Solutions of 2022: Expert Reviews & Comparisons</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-open-source-expertise-and-linux-mastery-remain-highly-sought-after-despite-challenging-financial-climates-insights-from-zdnet/"><u>Why Open-Source Expertise & Linux Mastery Remain Highly Sought After, Despite Challenging Financial Climates - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-curating-capsules-of-gratitude-paidfree-options/"><u>[New] Curating Capsules of Gratitude Paid/Free Options</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-live-stream-audio-effective-recording-methods-for-the-digital-age/"><u>[New] In 2024, Live Stream Audio Effective Recording Methods for the Digital Age</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mastering-snapchat-share-tweets-via-video-for-2024/"><u>[New] Mastering Snapchat Share Tweets via Video for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-visualize-vibes-tips-and-techniques-for-iconic-gif-humor-for-2024/"><u>[Updated] Visualize Vibes Tips & Techniques for Iconic GIF Humor for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/betas-launch-kodi-21-omega-reaches-milestone-with-initial-public-testing-phase/"><u>Betas Launch: Kodi 21 OMEGA Reaches Milestone with Initial Public Testing Phase</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-root-management-suite-powerful-app-control-and-uninstallation-tool/"><u>Complete Root Management Suite: Powerful App Control & Uninstallation Tool</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-8-leading-projector-apps-for-effortless-wi-fi-hookup-on-your-android-device/"><u>Discover the Ultimate List of 8 Leading Projector Apps for Effortless Wi-Fi Hookup on Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-top-20-best-free-android-games-play-the-complete-versions-with-no-cost/"><u>Download Top 20 Best Free Android Games: Play the Complete Versions with No Cost</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-tricks-for-bypassing-android-restrictions-in-just-a-few-taps/"><u>Effortless Tricks for Bypassing Android Restrictions in Just a Few Taps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elevate-engagement-4-steps-to-add-fb-story-link-for-2024/"><u>Elevate Engagement 4 Steps to Add FB Story Link for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/explore-these-14-fascinating-text-based-animations/"><u>Explore These 14 Fascinating Text-Based Animations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-panorama-pixels-cutting-edge-photo-assembler/"><u>In 2024, Panorama Pixels Cutting-Edge Photo Assembler</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rescue-your-precious-moments-a-list-of-the-best-6-iphone-photography-recovery-tools/"><u>Rescue Your Precious Moments: A List of the Best 6 iPhone Photography Recovery Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/save-everything-the-ultimate-list-of-the-top-8-itunes-alternatives-for-iphone-backups/"><u>Save Everything! The Ultimate List of the Top 8 iTunes Alternatives for iPhone Backups</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-auto-gpt-integration-into-your-ubuntu-step-by-step-walkthrough/"><u>Seamless Auto-GPT Integration Into Your Ubuntu - Step by Step Walkthrough</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-12-hilarious-mobile-faces-you-can-try-on-any-phone/"><u>The Ultimate Guide: 12 Hilarious Mobile Faces You Can Try on Any Phone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-top-10-best-mobile-slow-motion-video-tools-compatible-with-ios-and-android-devices/"><u>Ultimate Top 10 Best Mobile Slow Motion Video Tools Compatible with iOS & Android Devices</u></a></li>
 </ul></div>
 

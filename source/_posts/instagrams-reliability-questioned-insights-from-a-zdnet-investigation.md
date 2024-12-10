@@ -1,7 +1,7 @@
 ---
 title: "Instagram's Reliability Questioned: Insights From a ZDNet Investigation"
-date: 2024-12-01T12:13:59.683Z
-updated: 2024-12-02T01:18:15.120Z
+date: 2024-12-08T03:16:43.026Z
+updated: 2024-12-10T01:17:31.033Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ I wish I did, but I don't.
 Instagram hasn't done one blessed thing to [fix my hacked account](https://www.zdnet.com/article/my-instagram-account-was-hacked-and-two-factor-authentication-didnt-help/). Six weeks into this, and neither Instagram tech support -- if there even is such a department -- nor public relations have said a word to me. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -46,7 +46,7 @@ Yet Instagram has remained silent about this trend.
 What can you do? First, dump Instagram. It doesn't matter how popular it is if you can't count on it. Other services and apps offer similar features, including [Flickr](https://www.flickr.com/), with its emphasis on high-end photos; [Imgur](https://imgur.com/), another photographic-centric service; [Pinterest](https://www.pinterest.com/), an image-oriented social network; and [Retrica](https://retrica.co/), another photo-oriented service with many filters. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Social Media
@@ -106,19 +106,22 @@ Instagram simply isn't trustworthy.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-transform-vimeo-videos-top-techniques-to-trim-and-tailor-online-sequences/"><u>[New] Transform Vimeo Videos Top Techniques to Trim and Tailor Online Sequences</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-steps-for-iphone-7-screen-capture/"><u>[Updated] In 2024, Essential Steps for iPhone 7 Screen Capture</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-the-veil-insta-story-exploration-without-trace-for-2024/"><u>[Updated] Unveiling the Veil Insta Story Exploration without Trace for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-insiders-handbook-to-crafting-shareable-meme-gifs/"><u>2024 Approved The Insider's Handbook to Crafting Shareable Meme GIFs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-widening-chasm-of-data-expertise-innovative-strategies-from-a-leading-tech-firm-zdnet/"><u>Bridging the Widening Chasm of Data Expertise: Innovative Strategies From a Leading Tech Firm | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/devops-engineer-career-path-unveiling-the-pros-cons-and-realities-insights-from-zdnet/"><u>DevOps Engineer Career Path: Unveiling The Pros, Cons & Realities - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/guide-transforming-images-into-youtube-desktop-thumbnails-for-2024/"><u>Fast Guide Transforming Images Into YouTube Desktop Thumbnails for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-blueprint-to-buzzing-video-success-on-insta/"><u>In 2024, The Blueprint to Buzzing Video Success on Insta</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-future-of-ai-in-business-essential-read-for-singapores-smb-workforce-training-expert-advice-by-zdnet/"><u>Mastering the Future of AI in Business: Essential Read for Singapore's SMB Workforce Training – Expert Advice by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-jobs-with-ai-unveiling-the-endless-possibilities-and-changes-by-zdnet-experts/"><u>The Future of Jobs with AI: Unveiling the Endless Possibilities & Changes by ZDNet Experts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-revolutionary-iphone-os-18-innovations-unveiled-at-apples-wwdc-keynote-the-beginning-of-an-ai-era-techinsights/"><u>Top 5 Revolutionary iPhone OS 18 Innovations Unveiled at Apple's WWDC Keynote: The Beginning of an AI Era | TechInsights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transferir-conteudo-dvd-para-pen-drive-tecnicas-faceis-em-sistemas-operacionais-windows-e-macos-x/"><u>Transferir Conteúdo DVD Para Pen Drive: Técnicas Fáceis Em Sistemas Operacionais Windows E MacOS X</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-work-the-revolutionary-impact-of-ai-agents-on-future-jobs/"><u>Transforming Work: The Revolutionary Impact of AI Agents on Future Jobs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-addressing-obsolete-technologies-is-crucial-insights-from-a-recent-mismanaged-upgrade-zdnet/"><u>Why Addressing Obsolete Technologies Is Crucial - Insights From a Recent Mismanaged Upgrade | ZDNet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-complete-guide-to-iphone-speech-recordings/"><u>[New] The Complete Guide to iPhone Speech Recordings</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-a-trailblazers-guide-youtube-studio-location-unveiled/"><u>[Updated] 2024 Approved A Trailblazer’s Guide YouTube Studio Location Unveiled</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-top-10-must-try-tiktok-challenges/"><u>[Updated] In 2024, Top 10 Must-Try TikTok Challenges</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bringing-history-alive-old-images-in-new-video-formats/"><u>2024 Approved Bringing History Alive Old Images in New Video Formats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/another-cybersecurity-breach-lastpass-compromised-once-more/"><u>Another Cybersecurity Breach: LastPass Compromised Once More</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210533603-9781398814486-aries/"><u>Aries | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-patch-update-to-log4j-library-available-with-apache-2170-release-cybersecurity-breakthrough-on-zdnet/"><u>Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/defend-your-online-privacy-with-our-exclusive-offer-exceptional-vpn-and-password-management-services-for-a-limited-time-just-30-learn-how-on-zdnet/"><u>Defend Your Online Privacy with Our Exclusive Offer: Exceptional VPN and Password Management Services for a Limited Time, Just $30! Learn How on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-security-transform-your-digital-life-using-the-awarded-30-password-manager-by-zdnet-for-ultimate-protection/"><u>Effortless Security: Transform Your Digital Life Using the Awarded $30 Password Manager by ZDNET for Ultimate Protection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-password-manager-security-expert-tips-and-techniques-zdnet/"><u>Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/harness-unparalleled-efficiency-boost-your-windows/"><u>Harness Unparalleled Efficiency: Boost Your Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-tune-treasure-trove-save-and-study-sound-files/"><u>In 2024, Tune Treasure Trove Save & Study Sound Files</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/maximize-gaming-eliminate-lags/"><u>Maximize Gaming: Eliminate Lags</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-user-memory-lapses-with-biometric-authentication-insights-from-zdnet/"><u>Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-your-data-avoid-these-common-mistakes-in-cloud-security-that-attract-cyber-thieves-zdnet/"><u>Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-sensitive-information-under-20month-using-robust-encryption-techniques-insights-from-zdnet/"><u>Secure Your Sensitive Information Under $20/Month Using Robust Encryption Techniques – Insights From ZDNet</u></a></li>
 </ul></div>
 

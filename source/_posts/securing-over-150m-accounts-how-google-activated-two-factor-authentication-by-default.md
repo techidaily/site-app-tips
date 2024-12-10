@@ -1,7 +1,7 @@
 ---
 title: "Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default"
-date: 2024-11-24T19:17:42.172Z
-updated: 2024-12-02T00:45:17.835Z
+date: 2024-12-03T21:57:28.915Z
+updated: 2024-12-10T02:21:28.445Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ Google [has auto enrolled](https://blog.google/technology/safety-security/reduci
 The initiative also involved requiring 2 million YouTube users to enable it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google
@@ -79,18 +79,17 @@ Google [announced](https://www.zdnet.com/article/by-end-of-2021-google-plans-to-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-blueprints-for-success-top-10-insights-into-instagram-video-marketing-for-2024/"><u>[New] Blueprints for Success Top 10 Insights Into Instagram Video Marketing for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-hulu-on-all-platforms-winmacmobile-for-2024/"><u>[New] How To Record Hulu On All Platforms - Win/Mac/Mobile for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-mastering-temporal-and-spatial-shifts-in-filmmaking-for-2024/"><u>[New] Mastering Temporal & Spatial Shifts in Filmmaking for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-perfecting-zoom-on-snapchat-for-better-snaps/"><u>[New] Perfecting Zoom on Snapchat for Better Snaps</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-youtube-video-trailers-with-filmoras-guide/"><u>2024 Approved Crafting YouTube Video Trailers with Filmora's Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-online-alter-ego-artistry-drawing-a-fancy-profile/"><u>2024 Approved Online Alter-Ego Artistry Drawing a Fancy Profile</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-security-while-watching-the-hidden-dangers-of-weak-passwords-in-streaming-platforms-cyberwatchers-blog/"><u>Enhance Security While Watching: The Hidden Dangers of Weak Passwords in Streaming Platforms | CyberWatchers Blog</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exclusive-offer-on-jem-authenticator-and-password-manager-enhance-login-security-with-ease-dive-into-zdnet/"><u>Exclusive Offer on JEM Authenticator & Password Manager: Enhance Login Security with Ease - Dive Into ZDNet!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-cryptocom-ceo-tackles-login-challenges-post-31-million-hack-incident-covered-by-zdnet/"><u>How Crypto.com CEO Tackles Login Challenges Post $31 Million Hack Incident Covered by ZDNet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/how-to-screen-record-on-ipad-more-easily-for-2024/"><u>How to Screen Record on iPad More Easily for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-movies-imovie-music-essentials/"><u>In 2024, Harmonizing Movies IMovie Music Essentials</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-examination-of-1password-maximizing-security-with-high-value-for-your-dollar-a-comprehensive-review-by-zdnets-experts/"><u>In-Depth Examination of 1Password: Maximizing Security with High Value for Your Dollar - A Comprehensive Review by ZDNet's Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-dashlanes-offerings-price-breakdown-features-unveiled-and-step-by-step-setup-tutorial-cyberwisezine/"><u>Navigating Dashlane's Offerings: Price Breakdown, Features Unveiled & Step-by-Step Setup Tutorial | CyberWiseZine</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-perfect-picture-creation-discover-these-top-5-android-editors/"><u>[New] 2024 Approved Perfect Picture Creation Discover These Top 5 Android Editors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-advanced-strategies-for-quiet-capturing-for-2024/"><u>[New] Advanced Strategies for Quiet Capturing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-insiders-handbook-to-crafting-shareable-meme-gifs/"><u>[New] The Insider's Handbook to Crafting Shareable Meme GIFs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-manager-training-essential-before-introducing-artificial-intelligence-in-business-insights-from-zdnet/"><u>1. Manager Training Essential Before Introducing Artificial Intelligence in Business: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-quick-guide-transforming-amr-audio-files-into-wav-format-in-just-7-steps/"><u>1. Quick Guide: Transforming AMR Audio Files Into WAV Format in Just 7 Steps!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-effortless-screen-saving-on-android-devices/"><u>In 2024, Effortless Screen Saving on Android Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-wmp-techniques-for-efficient-cd-handling-and-recordings-for-2024/"><u>Master WMP Techniques for Efficient CD Handling and Recordings for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-age-of-artificial-intelligence-strategies-for-tech-experts-to-excel-in-their-careers-zdnet/"><u>Navigating the Age of Artificial Intelligence: Strategies for Tech Experts to Excel in Their Careers | ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-complete-guide-to-expressing-hello-in-spanish-top-10-ways/"><u>The Complete Guide to Expressing 'Hello' In Spanish - Top 10 Ways</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-ai-how-multiple-machine-learning-models-will-power-your-business-according-to-zdnet/"><u>The Future Is AI: How Multiple Machine Learning Models Will Power Your Business, According to ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-singapore-advocates-for-financial-backing-of-ai-integration-and-carbon-neutral-goals/"><u>ZDNet Exclusive: Singapore Advocates for Financial Backing of AI Integration and Carbon-Neutral Goals</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Phishers' Favorite Targets Revealed: How DHL, Microsoft & WhatsApp Top SEO Lists for Brand Fraud | ZDNet Insights"
-date: 2024-11-26T19:59:40.521Z
-updated: 2024-12-01T20:59:30.134Z
+date: 2024-12-02T19:43:21.740Z
+updated: 2024-12-09T19:23:23.247Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 ## Phishers' Favorite Targets Revealed: How DHL, Microsoft & WhatsApp Top SEO Lists for Brand Fraud | ZDNet Insights
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,20 +77,22 @@ Check Point Research
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-lg-redefines-reality-with-its-latest-virtual-gaming-device/"><u>[Updated] 2024 Approved LG Redefines Reality with Its Latest Virtual Gaming Device</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-simplify-storytelling-transform-vimeo-into-captivating-gifs/"><u>[Updated] 2024 Approved Simplify Storytelling Transform Vimeo Into Captivating GIFs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-laughter-lane-navigating-to-the-top-15-funny-youtubers/"><u>[Updated] In 2024, Laughter Lane Navigating to the Top 15 Funny YouTubers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-steps-to-resolve-stuck-obs-camera-feed-for-2024/"><u>[Updated] Steps to Resolve Stuck OBS Camera Feed for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-exploring-essential-screen-recording-software-for-educators/"><u>2024 Approved Exploring Essential Screen Recording Software for Educators</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-learn-to-cut-out-the-unwanted-a-guide-to-erasing-background/"><u>2024 Approved Learn to Cut Out the Unwanted A Guide to Erasing Background</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-security-transform-your-digital-life-using-the-awarded-30-password-manager-by-zdnet-for-ultimate-protection/"><u>Effortless Security: Transform Your Digital Life Using the Awarded $30 Password Manager by ZDNET for Ultimate Protection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-password-manager-security-expert-tips-and-techniques-zdnet/"><u>Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-dll-not-found-issues-with-comctl32dll-on-windows-computers/"><u>Fixing 'DLL Not Found' Issues with Comctl32.dll on Windows Computers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-13-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 13 Pro without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-user-memory-lapses-with-biometric-authentication-insights-from-zdnet/"><u>Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protect-your-data-avoid-these-common-mistakes-in-cloud-security-that-attract-cyber-thieves-zdnet/"><u>Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-sensitive-information-under-20month-using-robust-encryption-techniques-insights-from-zdnet/"><u>Secure Your Sensitive Information Under $20/Month Using Robust Encryption Techniques – Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-myth-of-untraceable-transactions-shattered-bitcoins-anonymity-revealed-in-recent-paper/"><u>The Myth of Untraceable Transactions Shattered: Bitcoin's Anonymity Revealed in Recent Paper</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-password-security-tools-comprehensive-reviews-and-comparisons-cnet/"><u>Top Rated Password Security Tools : Comprehensive Reviews and Comparisons - CNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-captivate-your-imagery-with-illustrators-motion-blur-tricks/"><u>[New] Captivate Your Imagery with Illustrator's Motion Blur Tricks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/implifying-slide-creations-with-youtube-content-for-2024/"><u>[New] Simplifying Slide Creations with YouTube Content for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-conceptualists-engineering-marvel-online-worlds/"><u>[Updated] Conceptualists Engineering Marvel Online Worlds</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-expert-tips-for-snapchats-magic-invisible-hands-make-the-picture-pop/"><u>[Updated] In 2024, Expert Tips for Snapchat's Magic Invisible Hands Make the Picture Pop</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-seamless-process-of-streaming-on-facebook-live/"><u>[Updated] In 2024, Seamless Process of Streaming on Facebook Live</u></a></li>
+<li><a href="https://app-tips.techidaily.com/challenges-for-ai-communication-in-multilingual-contexts-revealed-by-stanford-study-featured-on-zdnet/"><u>Challenges for AI Communication in Multilingual Contexts Revealed by Stanford Study, Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/edge-computing-boom-unpacking-how-this-trend-shapes-future-careers-insights-from-zdnet/"><u>Edge Computing Boom: Unpacking How This Trend Shapes Future Careers - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721952860178-go-mobile-bings-intelligent-search-for-your-devices-now/"><u>Go Mobile: Bing’s Intelligent Search for Your Devices Now.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-generative-ai-enhances-productivity-and-reshapes-the-role-of-software-developers-zdnet-insights/"><u>How Generative AI Enhances Productivity and Reshapes the Role of Software Developers | ZDNet Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-nord-3-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus Nord 3 5G Device</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and Apple iPhone 6s</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-installation-of-movie-maker-6-for-2024/"><u>Mastering the Installation of Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-bulletproof-ai-watermarks-insights-from-zdnet/"><u>The Ultimate Guide to Bulletproof AI Watermarks: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-plans-of-2024-comprehensive-reviews-and-comparisons-techradar/"><u>Top-Ranked Web Hosting Plans of 2024: Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-choosing-leading-web-hosts-of-202-expert-evaluations-and-comparisons-zdnet/"><u>Ultimate Guide to Choosing Leading Web Hosts of 202^%: Expert Evaluations and Comparisons | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-profitability-with-generative-ai-understanding-roi-challenges-and-strategies-featured-in-zdnet/"><u>Unlocking Profitability with Generative AI: Understanding ROI Challenges and Strategies | Featured in ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-future-careers-surprising-new-tech-positions-with-yet-to-be-named-titles-insights-from-zdnet/"><u>Unveiling Future Careers: Surprising New Tech Positions with Yet-to-Be-Named Titles - Insights From ZDNet</u></a></li>
 </ul></div>
 
