@@ -1,7 +1,7 @@
 ---
 title: Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet
-date: 2024-12-03T19:30:06.602Z
-updated: 2024-12-09T17:43:45.834Z
+date: 2024-12-11T19:45:54.418Z
+updated: 2024-12-15T21:55:06.079Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Crypto.com CEO Kris Marszalek responded to complaints from thousands of users about issues logging back into their accounts after the company was [forced](https://crypto.com/product-news/crypto-com-security-report-next-steps) to change security settings following [a hack last week](https://www.zdnet.com/article/fortune-favours-the-breached-crypto-com-admits-400-users-hit-in-hack/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Crypto.com CEO Kris Marszalek responded to complaints from thousands of users ab
 [![cybersecurity-lock-resized.jpg](https://www.zdnet.com/a/img/resize/5871b5ae5b589728bdc8064555d12823acf4b63e/2020/10/27/db3c0325-2b86-435b-8efa-93828deb6b56/cybersecurity-lock-resized.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best cyber insurance The cyber insurance industry is likely to go mainstream and is a simple cost of doing business. Here are a few options to consider.  Read now](https://www.zdnet.com/article/best-cyber-insurance/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On Monday, the company [admitted](https://www.zdnet.com/article/crypto-com-confirms-483-users-hit-in-attack-that-saw-over-31m-in-coins-withdrawn/) that 483 users were affected by unauthorized cryptocurrency withdrawals on their accounts, costing a total of "4,836.26 ETH, 443.93 BTC, and approximately US$66,200 in other cryptocurrencies." At the time of the attack, that amounted to about $31 million. 
@@ -80,20 +80,17 @@ Crypto.com created a program designed to refund users who were affected by the h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-best-data-buffering-option-for-sony-a7c/"><u>[Updated] Best Data Buffering Option for Sony A7C</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-hotcapture-firefox-add-ons-for-2024/"><u>[Updated] HotCapture FireFox Add-Ons for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-selective-engagement-on-ig/"><u>[Updated] The Art of Selective Engagement on IG</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-mac-visual-seize-methods-reviewed-limit-156-chars/"><u>[Updated] Top Mac Visual Seize Methods Reviewed (Limit 156 Chars)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-examining-ffmpegs-commitment-to-authentic-audio-formats/"><u>2024 Approved Examining FFmpeg’s Commitment to Authentic Audio Formats</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-15-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 15 to iPad | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/inside-look-how-lastpass-leadership-addresses-safety-concerns-amidst-alarming-security-notifications-explored-by-zdnet/"><u>Inside Look: How LastPass Leadership Addresses Safety Concerns Amidst Alarming Security Notifications | Explored by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/kasperskys-password-protector-exposed-generating-vulnerable-passwords-prone-to-brute-force-attacks-insights-from-zdnet/"><u>Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/major-ransomware-incident-strikes-leading-firm-superior-plus-in-natural-gas-industry-exclusive-details-on-zdnet/"><u>Major Ransomware Incident Strikes Leading Firm Superior Plus in Natural Gas Industry - Exclusive Details on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/newly-launched-full-featured-1password-app-for-linux-enthusiasts-a-closer-look-tech-news/"><u>Newly Launched Full-Featured 1Password App for Linux Enthusiasts: A Closer Look - Tech News</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-wsl-hurdles-in-new-windows-11-version/"><u>Overcoming WSL Hurdles in New Windows 11 Version</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-security-how-1passwords-new-feature-replaces-master-passwords-with-passkeys-insights-from-zdnet/"><u>Revolutionizing Security: How 1Password's New Feature Replaces Master Passwords with Passkeys - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-top-rated-vpn-and-password-manager-bundle-at-an-unbeatable-price-of-only-30-find-out-more-zdnet/"><u>Secure Your Digital Life: Top-Rated VPN & Password Manager Bundle at an Unbeatable Price of Only $30 - Find Out More [ZDNET]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-entire-staff-with-1password-unlock-ultimate-protection-for-only-1995-monthly-it-business-solutions/"><u>Securing Your Entire Staff with 1Password - Unlock Ultimate Protection for Only $19.95 Monthly | IT Business Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/thriving-on-the-grid-maximizing-your-telegram-impact/"><u>Thriving on the Grid Maximizing Your Telegram Impact</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-browser-capture-tools-top-picks/"><u>[Updated] 2024 Approved Best Browser Capture Tools Top Picks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-turning-insta-vids-into-songs-for-2024/"><u>[Updated] The Ultimate Guide to Turning Insta Vids Into Songs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-technology-behind-vr-goggles/"><u>[Updated] Understanding the Technology Behind VR Goggles</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/cutting-edge-screens-the-7-top-choices-pixel-artists/"><u>Cutting-Edge Screens The 7 Top Choices Pixel Artists</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-security-transform-your-digital-life-using-the-awarded-30-password-manager-by-zdnet-for-ultimate-protection/"><u>Effortless Security: Transform Your Digital Life Using the Awarded $30 Password Manager by ZDNET for Ultimate Protection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-password-manager-security-expert-tips-and-techniques-zdnet/"><u>Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-tips-for-using-switch-pro-controller-with-steam-for-2024/"><u>Essential Tips for Using Switch Pro Controller with Steam for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-leading-talents-top-instagram-hlv-constructors/"><u>In 2024, Leading Talents Top Instagram HLV Constructors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-user-memory-lapses-with-biometric-authentication-insights-from-zdnet/"><u>Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-your-data-avoid-these-common-mistakes-in-cloud-security-that-attract-cyber-thieves-zdnet/"><u>Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-in-home-connectivity-apple-improves-content-sharing-with-airplay-for-homes-and-beyond-zdnet/"><u>Revolutionizing In-Home Connectivity: Apple Improves Content Sharing with AirPlay for Homes and Beyond | ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/top-8-red-flags-before-resetting-windows/"><u>Top 8 Red Flags Before Resetting Windows</u></a></li>
 </ul></div>
 

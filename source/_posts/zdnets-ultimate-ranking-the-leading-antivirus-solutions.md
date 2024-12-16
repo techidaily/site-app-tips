@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Ultimate Ranking: The Leading Antivirus Solutions"
-date: 2024-12-08T16:29:50.073Z
-updated: 2024-12-10T01:59:04.189Z
+date: 2024-12-11T03:54:32.174Z
+updated: 2024-12-15T20:56:46.671Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/xplore-the-top-10-youtube-to-mp3-services/"><u>[New] Explore the Top 10 YouTube-to-MP3 Services</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-orchestrating-originality-top-8-schools-for-story-innovation-for-2024/"><u>[New] Orchestrating Originality Top 8 Schools for Story Innovation for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-explore-the-best-ios-options-to-simulate-your-favorite-psp-classics-for-2024/"><u>[Updated] Explore the Best iOS Options to Simulate Your Favorite PSP Classics for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bavarias-transition-adopting-open-source-with-linux-and-libreoffice-instead-of-microsoft-insights-from-zdnet/"><u>Bavaria's Transition: Adopting Open-Source with Linux and LibreOffice Instead of Microsoft - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/before-making-a-decision-the-9-most-important-things-to-consider-for-optimal-dash-cam-purchase/"><u>Before Making a Decision: The 9 Most Important Things to Consider for Optimal Dash Cam Purchase</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-software-picks-for-your-computer-the-ultimate-guide-to-windowsmac-tools-recommended-by-zdnet/"><u>Essential Software Picks for Your Computer: The Ultimate Guide to Windows/Mac Tools Recommended by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expanding-horizons-arista-introduces-advanced-cognitive-networking-in-the-middle-market-segment-insights-from-zdnet/"><u>Expanding Horizons: Arista Introduces Advanced Cognitive Networking in the Middle Market Segment - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-increased-demand-for-openstack-and-kata-containers-in-modern-tech-ecosystems/"><u>Exploring the Increased Demand for OpenStack and Kata Containers in Modern Tech Ecosystems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-activating-your-new-echo-dot-by-placing-it-into-pairing-mode/"><u>Guide: Activating Your New Echo Dot by Placing It Into Pairing Mode</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-revolutionizing-smartphone-photography-iphone-xs-features-explored/"><u>In 2024, Revolutionizing Smartphone Photography IPhone X's Features Explored</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-which-is-superior-ring-or-nest-doorbells/"><u>In Depth Review: Which Is Superior - Ring or Nest Doorbells?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/inside-look-at-nvidias-open-sourced-gpu-drivers-demystifying-what-powers-your-graphics-performance/"><u>Inside Look at Nvidia's Open Sourced GPU Drivers – Demystifying What Powers Your Graphics Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-ubuntu-2n04-a-revolutionary-fusion-of-speed-and-safety-in-the-world-of-linux-operating-systems-zdnet/"><u>Introducing Ubuntu 2N.04 - A Revolutionary Fusion of Speed and Safety in the World of Linux Operating Systems | ZDnet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-motorola-moto-g04-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Motorola Moto G04? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unlocking-facebooks-hidden-vault-of-high-def-media/"><u>Unlocking Facebook's Hidden Vault of High-Def Media</u></a></li>
-<li><a href="https://app-tips.techidaily.com/vulnerability-detected-in-curl-utility-for-linux-systems-prompt-mitigation-measures-implemented-tech-news-blog/"><u>Vulnerability Detected in Curl Utility for Linux Systems: Prompt Mitigation Measures Implemented | Tech News Blog</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-swiss-government-leads-by-example-mandates-open-source-sharing-for-official-software-a-new-era-of-public-tech/"><u>ZDNet Exclusive: Swiss Government Leads by Example, Mandates Open Source Sharing for Official Software | A New Era of Public Tech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-15-best-gopro-alternatives-for-all-your-needs/"><u>[Updated] 15 Best GoPro Alternatives for All Your Needs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-flv-file-symphony-creating-a-single-youtube-playlist/"><u>[Updated] In 2024, FLV File Symphony Creating a Single YouTube Playlist</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-expert-insights-into-synchronizing-desktops-in-google-meet/"><u>2024 Approved Expert Insights Into Synchronizing Desktops in Google Meet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-microsoft-recall-as-a-privacy-catastrophe-here-are-7-compelling-reasons-you-shouldnt-worry-zdnet/"><u>Debunking Microsoft Recall as a Privacy Catastrophe? Here Are 7 Compelling Reasons You Shouldn't Worry | ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/delving-deep-how-to-record-high-quality-slow-motion-on-hero-10/"><u>Delving Deep How to Record High-Quality Slow Motion on Hero 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harnessing-the-full-potential-of-luts-in-adobe-premiere-pro-for-2024/"><u>Harnessing the Full Potential of LUTs in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-essential-is-devops-for-staying-ahead-in-business-ensuring-safety-through-top-strategies-insights-from-zdnet/"><u>How Essential Is DevOps for Staying Ahead in Business: Ensuring Safety Through Top Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-major-cloud-services-aws-azure-and-google-cloud-for-a-hybrid-and-saas-strategy-insights-by-zdnet/"><u>In-Depth Analysis of Major Cloud Services: AWS, Azure, and Google Cloud for a Hybrid and SaaS Strategy | Insights by ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012864979-league-of-legends-connectivity-fixes-no-more-disconnects/"><u>League of Legends Connectivity Fixes - No More Disconnects!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-process-of-upgrading-your-system-to-ubuntu-2404-tips-and-tricks-from-zdnet/"><u>Mastering the Process of Upgrading Your System to Ubuntu 24.04: Tips and Tricks From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-corporate-drama-unveiled-by-zdnet/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown – Corporate Drama Unveiled by ZDNet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/recording-made-easy-tips-for-youtube-vids/"><u>Recording Made Easy Tips for YouTube Vids</u></a></li>
+<li><a href="https://app-tips.techidaily.com/setting-up-libreoffice-preferences-seamlessly-convert-to-microsoft-office-formats/"><u>Setting Up LibreOffice Preferences: Seamlessly Convert to Microsoft Office Formats</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tips-for-successfully-interacting-with-trustedinstaller-on-your-windows-11-system/"><u>Tips for Successfully Interacting with TrustedInstaller on Your Windows 11 System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-full-potential-of-github-desktop-on-windows-11-os/"><u>Unlocking the Full Potential of Github Desktop on Windows 11 OS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-linus-torvalds-use-of-rust-for-linux-development-and-life-routines-with-m2-macbook-air-insights-from-zdnet-interview/"><u>Unveiling Linus Torvalds' Use of Rust for Linux Development and Life Routines with M2 MacBook Air | Insights From ZDNet Interview</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrade-mastery-overcoming-challenges-in-migrating-to-ubuntu-linux-2404-tips-featured-on-zdnet/"><u>Upgrade Mastery: Overcoming Challenges in Migrating to Ubuntu Linux 24.04 – Tips Featured on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-woes-intensify-for-microsoft-as-launch-deadline-looms-expert-analysis-by-zdnet/"><u>Windows 11 Woes Intensify for Microsoft as Launch Deadline Looms – Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/be-thumbnail-mastery-size-and-ratio-tactics-for-2024/"><u>Youtube Thumbnail Mastery Size & Ratio Tactics for 2024</u></a></li>
 </ul></div>
 

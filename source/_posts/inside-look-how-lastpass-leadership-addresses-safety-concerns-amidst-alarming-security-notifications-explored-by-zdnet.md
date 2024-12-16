@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: How LastPass Leadership Addresses Safety Concerns Amidst Alarming Security Notifications | Explored by ZDNET"
-date: 2024-12-04T21:44:32.665Z
-updated: 2024-12-10T04:32:39.690Z
+date: 2024-12-10T19:19:00.577Z
+updated: 2024-12-16T04:23:21.707Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 Two LastPass vice presidents have released statements about the situation surrounding LastPass security issues that came to light this week. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Two LastPass vice presidents have released statements about the situation surrou
 [![web-browsers.jpg](https://www.zdnet.com/a/img/resize/86d91f7746b92a734c6f4130024638d05fe70bc2/2021/04/22/8feb3e5c-47fc-4cea-be35-4460e9f080ef/web-browsers.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best browsers for privacy Most people use Google Chrome as their default browser. But privacy is another matter for the online ad giant.  Read now](https://www.zdnet.com/article/best-browser-for-privacy/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Two days ago, hundreds of LastPass users took to [Twitter](https://twitter.com/technology%5Fgreg/status/1475600580521381889), [Reddit](https://www.reddit.com/r/Lastpass/comments/rpy0uq/recent%5Fsuccessful%5Flogin%5Fattempts%5Ffrom%5Fodd%5Fips/), [and other sites](https://news.ycombinator.com/item?id=29705957) to complain that they were getting alerts about their master password being used by someone who was not them. [Some reported](https://twitter.com/shift%5Fplusone/status/1475959354742525956) that even after changing their master password, someone tried to access their account again. 
@@ -84,20 +84,24 @@ Parent company LogMeIn announced just two weeks ago that it is [spinning off Las
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-mobile-and-desktop-techniques-for-youtube-short-video-submission/"><u>[Updated] 2024 Approved Mobile & Desktop Techniques for YouTube Short Video Submission</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-edge-it-right-a-list-of-top-borders-in-social-media-photography/"><u>2024 Approved Edge It Right A List of Top Borders in Social Media Photography</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-ordinary-to-epic-iphones-best-landscape-tricks/"><u>2024 Approved From Ordinary to Epic IPhone's Best Landscape Tricks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-fixes-for-the-recurring-issue-icloud-login-continually-asks-for-password/"><u>Essential Fixes for the Recurring Issue: ICloud Login Continually Asks for Password</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-successfully-download-images-from-icloud-on-ios-1211-ultimate-guide-with-7-pro-tips/"><u>How to Successfully Download Images From iCloud on iOS 12/11 – Ultimate Guide with 7 Pro Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-s17-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo S17 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-understanding-viewers-preferences-in-thumbnail-sizes/"><u>In 2024, Understanding Viewers' Preferences in Thumbnail Sizes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/recover-deleted-whatsapp-messages-using-icloud-a-comprehensive-tutorial/"><u>Recover Deleted WhatsApp Messages Using iCloud: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/resolving-the-icloud-messages-disabled-issue-step-by-step-guide-to-restore-your-apple-id/"><u>Resolving the 'iCloud Messages Disabled' Issue: Step-by-Step Guide to Restore Your Apple ID</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-changing-your-icloud-email-address/"><u>Step-by-Step Guide: Changing Your iCloud Email Address</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-strategies-for-disassociating-your-iphone-from-apples-icloud-service/"><u>Top Strategies for Disassociating Your iPhone From Apple's iCloud Service</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unleash-music-from-the-cloud-youtube-downloader-tips-for-2024/"><u>Unleash Music From the Cloud YouTube Downloader Tips for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726026770951-windows-1011/"><u>ベストなフリーソフト統合ツールWindows 10/11用: あなたの選択肢を見直せ!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-transforming-your-youtube-profile-descriptions/"><u>[Updated] 2024 Approved Transforming Your YouTube Profile Descriptions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-secrets-for-effective-youtube-screen-recording/"><u>[Updated] Secrets for Effective YouTube Screen Recording</u></a></li>
+<li><a href="https://windows11.techidaily.com/10-tips-to-restore-bluetooth-functionality-on-windows-11/"><u>10 Tips to Restore Bluetooth Functionality on Windows 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-ranking-the-best-most-innovative-pc-vr-headsets/"><u>2024 Approved Ranking the Best, Most Innovative PC VR Headsets</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-display-woes-effective-tricks-for-devices-not-connecting-via-cast-on-windows-11/"><u>Fix Your Display Woes: Effective Tricks for Devices Not Connecting via Cast on Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-to-eliminating-the-icloud-security-code-without-using-your-apple-id/"><u>Guide to Eliminating the iCloud Security Code Without Using Your Apple ID</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-13-pro-max-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone 13 Pro Max Display? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-portrait-retouching-conceal-dont-deceive/"><u>In 2024, Perfect Portrait Retouching Conceal, Don't Deceive</u></a></li>
+<li><a href="https://app-tips.techidaily.com/locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620263951-locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/retrieve-deleted-items-from-your-icloud-a-comprehensive-guide-to-icloud-file-restoration/"><u>Retrieve Deleted Items From Your iCloud: A Comprehensive Guide to iCloud File Restoration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-your-ipad-from-an-icloud-backup-complete-instructions-including-non-reset-options/"><u>Reviving Your iPad From an iCloud Backup: Complete Instructions Including Non-Reset Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-iphone-photo-syncing-strategies-with-icloud-discover-these-4-effective-techniques/"><u>Seamless iPhone Photo Syncing Strategies with iCloud - Discover These 4 Effective Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-steps-access-your-icloud-images-from-anywhere/"><u>Simple Steps: Access Your iCloud Images From Anywhere</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-icloud-photo-sharing-issues-on-iphone-ipad-and-mac-a-comprehensive-guide/"><u>Solving iCloud Photo Sharing Issues on iPhone, iPad & Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-viewing-icloud-saved-passwords-on-ios-devices-and-computers/"><u>Step-by-Step Tutorial: Viewing iCloud Saved Passwords on iOS Devices & Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformation-gratuite-de-fichiers-flv-en-vob-guide-complet-videomouvavi/"><u>Transformation Gratuite De Fichiers FLV en VOB : Guide Complet - VidéoMouvavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winx-mediatrans-libre-de-descargar-transferencia-sin-problemas-entre-dispositivos-ios-y-iphone-control-total-sobre-archivos-ios/"><u>WinX MediaTrans Libre De Descargar - Transferencia Sin Problemas Entre Dispositivos iOS Y iPhone, Control Total Sobre Archivos iOS</u></a></li>
 </ul></div>
 

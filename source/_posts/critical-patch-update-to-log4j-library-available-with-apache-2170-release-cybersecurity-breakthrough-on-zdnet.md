@@ -1,7 +1,7 @@
 ---
 title: Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET
-date: 2024-12-02T23:32:23.664Z
-updated: 2024-12-10T03:07:03.563Z
+date: 2024-12-12T18:24:39.438Z
+updated: 2024-12-16T01:33:06.238Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -112,7 +112,7 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -190,18 +190,21 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-filmmaking-for-social-media-imovie-tips-for-crafting-square-content/"><u>[New] Filmmaking for Social Media IMovie Tips for Crafting Square Content</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/earn-to-film-great-content-on-your-mac-for-youtube-beginners/"><u>[New] Learn to Film Great Content on Your Mac for YouTube Beginners</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-elevate-your-influence-with-masterful-facebook-story-techniques/"><u>[Updated] 2024 Approved Elevate Your Influence with Masterful Facebook Story Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-peaceful-playtimes-best-idle-gaming-choices/"><u>[Updated] 2024 Approved Peaceful Playtimes Best Idle Gaming Choices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-architectural-marvels-for-your-blocky-oasis-for-2024/"><u>[Updated] Architectural Marvels for Your Blocky Oasis for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-cleansing-apps-for-iphone-top-free-options-for-enhanced-performance/"><u>Best Cleansing Apps for iPhone: Top Free Options for Enhanced Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expertly-curated-list-the-ultimate-9plus1-video-streaming-solutions-for-android-devices/"><u>Expertly Curated List: The Ultimate 9+1 Video Streaming Solutions for Android Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g84-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G84 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oneplus-12r-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How OnePlus 12R Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-vn-video-editor-benefits-drawbacks-and-top-substitutes/"><u>In-Depth Analysis: VN Video Editor - Benefits, Drawbacks & Top Substitutes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-moving-your-iphone-applications-seamlessly-between-iphones/"><u>Step-by-Step Guide: Moving Your iPhone Applications Seamlessly Between iPhones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-everyone-needs-to-try-the-newly-updated-factual-inshot-editor-unleash-your-creativity/"><u>Why Everyone Needs to Try the Newly Updated Factual InShot Editor - Unleash Your Creativity!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-earn-on-tiktok-explore-8-effective-money-making-techniques/"><u>[Updated] 2024 Approved Earn on TikTok Explore 8 Effective Money-Making Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-high-quality-streaming-choice-go-with-obs-or-fraps-for-2024/"><u>[Updated] High-Quality Streaming Choice Go With OBS or Fraps for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/5lih5lia5peg5osp5lit5yi75b2v56gs55uy6kplusl5aac5l2v5ase55cg77yf57kplus6ycj5lij56en566a5y2v5pyj5pwi55qe5pa55bypiq/"><u>万一无意中刻录硬盘该如何处理？精选三种简单有效的方式!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-5-tools-for-simple-message-access-and-viewing-on-your-pc/"><u>Best Top 5 Tools for Simple Message Access & Viewing on Your PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-yet-reliable-the-omoton-t1-tablet-support-reviewed/"><u>Budget-Friendly Yet Reliable: The Omoton T1 Tablet Support Reviewed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-most-effective-cross-platform-chat-applications-for-ios-and-android-devices/"><u>Discover the Most Effective Cross-Platform Chat Applications for iOS and Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-7-mdm-applications-leading-software-reviews-for-efficient-device-management/"><u>Discover the Ultimate 7 MDM Applications: Leading Software Reviews for Efficient Device Management</u></a></li>
+<li><a href="https://fox-http.techidaily.com/entering-filmmaking-with-smart-camera-choices-23-update-for-2024/"><u>Entering Filmmaking with Smart Camera Choices '23 Update for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-insights-into-the-vita-video-editing-suite-why-its-a-game-changer/"><u>Essential Insights Into the VITA Video Editing Suite: Why It's a Game-Changer</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-redmi-note-12-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi Redmi Note 12 Pro 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-play-8t-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor Play 8T.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-great-android-camera-apps-for-amazing-shots/"><u>The Ultimate List of Great Android Camera Apps for Amazing Shots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-9plus-secure-unlocking-apps-with-fingerprint-recognition-for-android-smartphones/"><u>The Ultimate List: 9+ Secure Unlocking Apps with Fingerprint Recognition for Android Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-review-of-the-shotcut-app-unveil-its-features-and-benefits-now/"><u>Ultimate Review of the Shotcut App: Unveil Its Features and Benefits Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-se-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone SE Passcode without a Computer</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-kinemaster-for-mac-a-step-by-step-installation-tutorial/"><u>Updated In 2024, KineMaster for Mac A Step-by-Step Installation Tutorial</u></a></li>
 </ul></div>
 

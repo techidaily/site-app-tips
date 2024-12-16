@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Next Move: The Development of an Enhanced Security Operating System for AI Infrastructure"
-date: 2024-12-04T04:12:12.307Z
-updated: 2024-12-10T04:10:32.403Z
+date: 2024-12-14T01:54:25.623Z
+updated: 2024-12-16T00:17:58.216Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,14 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-deciphering-your-social-media-shadows-privacy-on-facebook/"><u>[Updated] 2024 Approved Deciphering Your Social Media Shadows Privacy on Facebook</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-explore-better-than-sharex-a-guide/"><u>[Updated] Explore Better Than ShareX - A Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-put-a-stay-to-unsolicited-youtube-trails/"><u>2024 Approved Put a Stay to Unsolicited YouTube Trails</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-oppo-reno-8t-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Oppo Reno 8T?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-why-many-tech-professionals-feel-drained-yet-hopeful/"><u>Navigating the Challenges: Why Many Tech Professionals Feel Drained Yet Hopeful</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-learning-management-systems-reviewed-by-zdnet-find-the-ideal-lms/"><u>Top-Ranked Learning Management Systems Reviewed by ZDNet: Find the Ideal LMS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-linux-foundation-workshops-and-training-programs-find-the-perfect-bootcamp/"><u>Top-Rated Linux Foundation Workshops & Training Programs: Find the Perfect Bootcamp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/upcoming-innovations-from-ai-over-the-next-ten-years-as-explored-by-zdnet/"><u>Upcoming Innovations From AI over the Next Ten Years as Explored by ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expertise-in-film-perfecting-the-art-of-chroma-key-for-2024/"><u>[New] Expertise in Film Perfecting the Art of Chroma Key for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unlock-potential-expert-tips-for-youtube-video-trimming-for-2024/"><u>[Updated] Unlock Potential Expert Tips for YouTube Video Trimming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerating-windows-printer-speedy-solutions/"><u>Accelerating Windows Printer: Speedy Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/accidentally-trashed-your-email-learn-how-to-restore-and-forward-with-ease-using-microsoft-outlook-pcmag/"><u>Accidentally Trashed Your Email? Learn How to Restore & Forward with Ease Using Microsoft Outlook - PCMag</u></a></li>
+<li><a href="https://fox-info.techidaily.com/advanced-techniques-in-aerial-cinematography/"><u>Advanced Techniques in Aerial Cinematography</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-itel-s23-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Itel S23.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/digital-privacy-essentials-how-anonymity-empowers-remote-teams-zdnet/"><u>Digital Privacy Essentials: How Anonymity Empowers Remote Teams | ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95783115-9781594778384-el-codigo-maya/"><u>El código maya | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-privacy-in-firefox-how-to-safeguard-stored-usernames-and-passwords-using-a-primary-key/"><u>Enhance Privacy in Firefox: How to Safeguard Stored Usernames and Passwords Using a Primary Key</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-chilly-response-of-corporations-to-the-sizzling-potential-of-5g-technology/"><u>Exploring the Chilly Response of Corporations to the Sizzling Potential of 5G Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/has-microsoft-retracted-its-promises-of-a-complimentary-windows-11-update-insights-from-zdnet/"><u>Has Microsoft Retracted Its Promises of a Complimentary Windows 11 Update? - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-aws-expert-guide-on-navigating-and-thriving-with-amazons-premier-cloud-platform-zdnet-perspectives/"><u>Mastering AWS: Expert Guide on Navigating and Thriving with Amazon's Premier Cloud Platform | ZDNet Perspectives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/no-internet-no-problem-onedrive-enables-offline-file-access-for-uninterrupted-work-zdnet/"><u>No Internet? No Problem! OneDrive Enables Offline File Access for Uninterrupted Work | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/repair-guide-reviving-your-xbox-sx/"><u>Repair Guide: Reviving Your Xbox S/X</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/showcasing-elegance-and-performance-the-all-new-apple-iphone-12-mini-reviewed/"><u>Showcasing Elegance and Performance: The All-New Apple iPhone 12 Mini Reviewed</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-definitive-ranking-of-mini-pcs-tailored-for-the-modern-gamer/"><u>The Definitive Ranking of Mini PCs Tailored for the Modern Gamer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-hci-providers-of-2022-expert-analysis-by-zdnet/"><u>Top-Ranked HCI Providers of 2022 - Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-magic-behind-shooting-images-with-iphones-hdr-for-2024/"><u>Unveiling the Magic Behind Shooting Images with iPhone’s HDR for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-expert-review-of-superior-pandemic-vaccine-administration-platforms-for-healthcare-providers/"><u>ZDNet's Expert Review of Superior Pandemic Vaccine Administration Platforms for Healthcare Providers</u></a></li>
 </ul></div>
 

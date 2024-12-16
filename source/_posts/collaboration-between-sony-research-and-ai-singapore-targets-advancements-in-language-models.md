@@ -1,7 +1,7 @@
 ---
 title: Collaboration Between Sony Research and AI Singapore Targets Advancements in Language Models
-date: 2024-12-02T20:56:09.990Z
-updated: 2024-12-09T19:25:10.658Z
+date: 2024-12-13T17:13:57.669Z
+updated: 2024-12-15T22:48:38.757Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-comprehensive-3d-lut-development-course/"><u>[New] 2024 Approved Comprehensive 3D LUT Development Course</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-unlocking-realistic-movement-motion-blur-in-facial-images-with-picsart-for-2024/"><u>[New] Unlocking Realistic Movement Motion Blur in Facial Images with Picsart for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-otter-team-edition-unveiled-revolutionize-remote-collaboration-with-adaptive-live-meeting-transcriptions-zdnet-insights/"><u>1. Otter Team Edition Unveiled: Revolutionize Remote Collaboration with Adaptive Live Meeting Transcriptions - ZDNet Insights</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/boost-clicks-and-conversions-the-top-15-powerful-tools-for-fb-data-analysis/"><u>Boost Clicks & Conversions The Top 15 Powerful Tools for FB Data Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-coding-skills-the-impact-of-github-copilot-on-developer-workflow-a-zdnet-perspective/"><u>Boost Your Coding Skills: The Impact of GitHub Copilot on Developer Workflow - A ZDNet Perspective</u></a></li>
-<li><a href="https://app-tips.techidaily.com/crowdstrikes-cto-warns-generative-ai-emerges-as-a-major-threat-to-business-security/"><u>CrowdStrike's CTO Warns: Generative AI Emerges as a Major Threat to Business Security</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-upload-videos-to-igtv-for-2024/"><u>How to Upload Videos to IGTV for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-xiaomi-redmi-note-12-pro-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Xiaomi Redmi Note 12 Pro 5G Phone Screen?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-v29e-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo V29e Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-5-lite-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 5 Lite Phone without Google Account?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-steep-path-to-update-ubuntu-2404-insights-from-zdnet/"><u>Navigating the Steep Path to Update Ubuntu 24.04 - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-microsoft-account-essential-steps-to-protect-against-cyber-threats-tips-from-zdnet/"><u>Securing Your Microsoft Account: Essential Steps to Protect Against Cyber Threats - Tips From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocketing-performance-with-just-six-simple-steps-in-windows/"><u>Skyrocketing Performance with Just Six Simple Steps in Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-competitive-edge-of-devops-in-modern-enterprptions-ensuring-safety-and-efficiency-as-recommended-by-zdnet/"><u>The Competitive Edge of DevOps in Modern Enterprptions: Ensuring Safety and Efficiency as Recommended by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-cutting-edge-of-connectivity-a-look-at-the-best-new-developments-in-5g-and-edge-computing-zdnet/"><u>The Cutting-Edge of Connectivity: A Look at the Best New Developments in 5G and Edge Computing (ZDNET)</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/ultimate-list-of-windows-data-restoration-tools-simple-step-by-step-instructions/"><u>Ultimate List of Windows Data Restoration Tools: Simple Step-by-Step Instructions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-screen-selection-simplified-find-the-best-display-for-xbox-series-x/"><u>[New] Screen Selection Simplified - Find the Best Display for Xbox Series X</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-chromebooks-free-screen-capture-leaders-reviewed/"><u>[Updated] Chromebook's Free Screen Capture Leaders Reviewed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audience-grade-sound-recording-with-audacity/"><u>2024 Approved Audience-Grade Sound Recording with Audacity</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-free-full-version-software-for-copying-dvds-on-windows-10-or-11-top-picks-of-2/"><u>Best Free Full-Version Software for Copying DVDs on Windows 10 or 11 - Top Picks of 2</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-future-your-top-5-choices-as-microsofts-mainstream-windows-1/"><u>Facing the Future: Your Top 5 Choices as Microsoft's Mainstream Windows 1</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-novice-to-leader-mastering-social-media-marketing-smm-in-10-steps/"><u>From Novice to Leader Mastering Social Media Marketing (SMM) in 10 Steps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-video-luster-the-top-5-brilliant-enhancers/"><u>In 2024, Video Luster The Top 5 Brilliant Enhancers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linux-defenses-tighten-with-oins-latest-patent-protection-boost-ai-remains-uncovered-zdnet-expands/"><u>LINUX DEFENSES TIGHTEN WITH OIN'S LATEST PATENT PROTECTION BOOST (AI REMAINS UNCOVERED) | ZDNET EXPANDS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/save-big-get-your-hands-on-ashampoos-3d-cad-pro-software-at-a-steal-just-40-today/"><u>Save Big: Get Your Hands on Ashampoo's 3D CAD Pro Software at a Steal - Just $40 Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-3a-antenna-radiation-patterns-and-design-principles/"><u>Section 3A: Antenna Radiation Patterns and Design Principles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-crafting-a-reliable-recovery-drive-for-your-pc-expert-advice-from-zdnet/"><u>Step-by-Step Guide: Crafting a Reliable Recovery Drive for Your PC - Expert Advice From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-complexities-of-implementing-generative-ai-in-corporations-revealed-by-deloitte-survey-zdnet/"><u>The Complexities of Implementing Generative AI in Corporations Revealed by Deloitte Survey | ZDNET</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-ultimate-list-best-fb-videos-to-watch-for-2024/"><u>The Ultimate List Best FB Videos To Watch for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-no-cost-software-for-streaming-ultra-hd-content-on-your-imac/"><u>Top No-Cost Software for Streaming Ultra HD Content on Your iMac</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-review-for-premium-quality-in-tech-dissecting-the-features-of-the-samsung-galaxy-tab-ssamsung-galaxy-tab-s7plus-an-elite-android-experience-detailed-rev114/"><u>Top Review for Premium Quality in Tech: Dissecting the Features of the Samsung Galaxy Tab SSamsung Galaxy Tab S7+: An Elite Android Experience Detailed Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-secure-encryption-apps-of-2022-to-safeguard-your-information-insights-by-zdnet/"><u>Top Secure Encryption Apps of 2022 to Safeguard Your Information - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-crucial-impact-of-tech-experts-on-businesses-embracing-a-no-tech-approach-insights-from-zdnet/"><u>Unveiling the Crucial Impact of Tech Experts on Businesses Embracing a No-Tech Approach: Insights From ZDNet</u></a></li>
 </ul></div>
 

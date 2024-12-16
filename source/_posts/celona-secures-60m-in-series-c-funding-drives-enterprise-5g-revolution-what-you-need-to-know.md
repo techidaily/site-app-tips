@@ -1,7 +1,7 @@
 ---
 title: "Celona Secures $60M in Series C Funding, Drives Enterprise 5G Revolution: What You Need to Know"
-date: 2024-12-04T21:01:26.568Z
-updated: 2024-12-10T01:56:07.869Z
+date: 2024-12-14T05:15:10.761Z
+updated: 2024-12-16T03:16:51.344Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unleashing-potential-a-guide-to-setting-up-and-analyzing-instream-ads-in-fb/"><u>[New] 2024 Approved Unleashing Potential A Guide to Setting Up & Analyzing Instream Ads in FB</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-vid-tribute-the-power-in-customer-endorsements/"><u>[New] In 2024, Vid Tribute The Power in Customer Endorsements</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-social-media-elite-writes-back-six-essential-tips-to-elevate-your-instagram-presence/"><u>[Updated] 2024 Approved The Social Media Elite' Writes Back Six Essential Tips to Elevate Your Instagram Presence</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-elite-playlist-compiler-android-edition/"><u>2024 Approved Elite Playlist Compiler Android Edition</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-interactive-dimensions-understanding-ar-mr-and-vr/"><u>2024 Approved Interactive Dimensions Understanding AR, MR & VR</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-mastery-without-coding-knowledge-tackling-intricate-systems-through-varied-education-strategies-zdnet/"><u>AI Mastery Without Coding Knowledge - Tackling Intricate Systems Through Varied Education Strategies | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-how-technological-advancements-contribute-to-staff-burnout-and-strategies-for-improvement-zdnet/"><u>Exploring How Technological Advancements Contribute to Staff Burnout and Strategies for Improvement | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-unexpected-how-ai-is-shaping-unprecedented-job-roles-and-their-mysterious-titles-zdnet-analysis/"><u>Exploring the Unexpected: How AI Is Shaping Unprecedented Job Roles and Their Mysterious Titles | ZDNET Analysis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-list-highest-calibre-ds-emulation-on-pc/"><u>Master List: Highest Calibre DS Emulation on PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-future-of-ai-in-business-essential-read-for-singapores-smb-workforce-training-expert-advice-by-zdnet/"><u>Mastering the Future of AI in Business: Essential Read for Singapore's SMB Workforce Training – Expert Advice by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-jobs-with-ai-unveiling-the-endless-possibilities-and-changes-by-zdnet-experts/"><u>The Future of Jobs with AI: Unveiling the Endless Possibilities & Changes by ZDNet Experts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-creativity-of-2013s-sound-blaster-zxr-a-detailed-review/"><u>Unveiling the Creativity of 2013'S Sound Blaster ZxR: A Detailed Review</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/verbesserung-der-iphone-performance-auf-ios-1516-top-7-tipps-fur-den-schnellen-neustart/"><u>Verbesserung Der iPhone-Performance Auf iOS 15/16: Top 7 Tipps Für Den Schnellen Neustart</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-10-expert-choices-for-terraria/"><u>[New] 2024 Approved Top 10 Expert Choices for Terraria</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-ultimate-meme-list-social-media-giants-clash/"><u>[New] In 2024, The Ultimate Meme List Social Media Giants Clash</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-keeping-the-memories-efficiently-taking-screenshots-on-xbox-one/"><u>[New] Keeping the Memories Efficiently Taking Screenshots on Xbox One</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-the-art-of-viral-instagram-cinematography/"><u>[New] Mastering the Art of Viral Instagram Cinematography</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-quickly-snag-and-store-gifs-from-your-favorite-social-networks/"><u>[New] Quickly Snag and Store GIFs From Your Favorite Social Networks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-elite-selection-of-instagram-image-boosters/"><u>[Updated] 2024 Approved The Elite Selection of Instagram Image Boosters</u></a></li>
+<li><a href="https://app-tips.techidaily.com/banking-on-innovation-cio-demands-visionary-thinkers-over-easy-prompt-compositions-for-advancing-ai/"><u>Banking on Innovation: CIO Demands Visionary Thinkers Over Easy Prompt Compositions for Advancing AI</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-you-master-artificial-intelligence-without-technical-expertise-the-need-for-multidisciplinary-approaches-in-tackling-complex-systems-insights-from-zdnet53/"><u>Can You Master Artificial Intelligence Without Technical Expertise? The Need for Multidisciplinary Approaches in Tackling Complex Systems - Insights From ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effective-techniques-to-refresh-your-asus-maximus-x-hero-drives-quickly-and-safely/"><u>Effective Techniques to Refresh Your ASUS Maximus X Hero Drives Quickly and Safely</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-paradox-how-generative-ai-could-increase-labor-demand-despite-efficiency-goals/"><u>Exploring the Paradox: How Generative AI Could Increase Labor Demand Despite Efficiency Goals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-root-of-tech-industry-burnout-causes-and-solutions/"><u>Exploring the Root of Tech Industry Burnout: Causes & Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-comprehensive-insights-into-imovie-techniques-for-youtube-creators/"><u>In 2024, Comprehensive Insights Into iMovie Techniques for YouTube Creators</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrading-singapores-digital-landscape-24b-allocation-for-ict-improvements-and-online-services-expansion-infotech-insights/"><u>Upgrading Singapore's Digital Landscape: $2.4B Allocation for ICT Improvements and Online Services Expansion | InfoTech Insights</u></a></li>
 </ul></div>
 

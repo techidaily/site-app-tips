@@ -1,7 +1,7 @@
 ---
 title: "How Hackers Are Capitalizing on the Pandemic: A Deep Dive Into Attacks Against US Universities Amidst Omicron Concerns | Reported by ZDNET"
-date: 2024-12-03T02:05:21.608Z
-updated: 2024-12-09T17:19:51.296Z
+date: 2024-12-08T21:28:39.144Z
+updated: 2024-12-16T07:20:45.982Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 Researchers with cybersecurity firm Proofpoint have [discovered](https://www.proofpoint.com/us/blog/threat-insight/university-targeted-credential-phishing-campaigns-use-covid-19-omicron-themes) a new phishing attack leveraging concern about the spread of the Omicron strain of COVID-19 to steal credentials and gain access to accounts at several prominent universities in the US. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### latest developments
@@ -22,7 +22,7 @@ Researchers with cybersecurity firm Proofpoint have [discovered](https://www.pro
 [![microscopic magnification of coronavirus that causes flu and chronic pneumonia leading to death](https://www.zdnet.com/a/img/resize/29eb42cb18bf682179393fd5caa23f5e78bec28e/2020/02/03/bd4a5b33-2cca-4ff8-9753-12d1bfd10a1d/istock-12015454421.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) Coronavirus: Business and technology in a pandemic From cancelled conferences to disrupted supply chains, not a corner of the global economy is immune to the spread of COVID-19.  Read now](https://www.zdnet.com/collection/coronavirus-business-and-technology-in-a-pandemic/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The emails -- part of an attack that Proofpoint researchers said began in October but increased in November -- generally contain information about COVID-19 testing and the new Omicron variant.
@@ -96,20 +96,24 @@ By entering under the guise of a legitimate user, the attacker has a greater cha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-adding-clear-timestamps-to-your-youtube-channels-live-streams/"><u>[New] In 2024, Adding Clear Timestamps to Your YouTube Channel's Live Streams</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-avoiding-obscured-games-fixes-for-obs-black-screen-issues/"><u>[Updated] Avoiding Obscured Games Fixes for OBS Black Screen Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pc-10-windows-and-mac/"><u>最も優れたPC画面録画ソフト 10推薦 - Windows & Mac用</u></a></li>
-<li><a href="https://driver-install.techidaily.com/activate-surface-with-marvell-avastar-ac-acpi-controller/"><u>Activate Surface with Marvell Avastar-AC ACPI Controller</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-12-mobile-typing-applications-for-ios-and-android-devices-a-comprehensive-guide/"><u>Best 12 Mobile Typing Applications for iOS and Android Devices: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-how-apples-visual-look-up-function-can-enhance-your-iphone-experience-a-comprehensive-guide/"><u>Discover How Apple's Visual Look-Up Function Can Enhance Your iPhone Experience: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-superior-android-podcasting-solutions-beyond-player-fm/"><u>Discover Superior Android Podcasting Solutions Beyond Player FM</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-top-21-zedge-tools-for-customizing-your-phone-with-free-ringtones-and-wallpapers-on-iphoneandroid/"><u>Discover the Ultimate Top 21 Zedge Tools for Customizing Your Phone with Free Ringtones & Wallpapers on iPhone/Android</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-ways-to-keep-your-apps-private-on-smartphones-and-tablets-android-and-apple/"><u>Effective Ways to Keep Your Apps Private on Smartphones & Tablets (Android & Apple)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193676-get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-thaw-a-chromebook-top-8-solutions/"><u>How to Thaw a Chromebook: Top 8 Solutions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-a34-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy A34 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723009009440-tackle-your-naraka-gameplay-disruptions-with-effective-solutions/"><u>Tackle Your Naraka Gameplay Disruptions with Effective Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-applications-for-seamlessly-casting-your-iphone-display-onto-tv-or-computer/"><u>Top-Rated Applications for Seamlessly Casting Your iPhone Display Onto TV or Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-choose-wisely-the-ultimate-list-of-mac-gif-tools-for-2024/"><u>[New] Choose Wisely The Ultimate List of Mac GIF Tools for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-art-of-freezing-the-action-in-win-os/"><u>[Updated] In 2024, The Art of Freezing the Action in Win OS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-most-popular-firefox-screenshots-and-recorders-for-2024/"><u>[Updated] Most Popular Firefox Screenshots & Recorders for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-leading-10-image-cataloging-applications-for-both-windows-and-mac-systems-a-comprehensive-ranking-guide/"><u>Discover the Leading 10 Image Cataloging Applications for Both Windows & Mac Systems: A Comprehensive Ranking Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-20-most-popular-bluetooth-enabled-multiplayer-games-on-phones-and-tablets/"><u>Discover the Top 20 Most Popular Bluetooth-Enabled Multiplayer Games on Phones & Tablets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-8-ultimate-free-fax-applications-for-your-android-device/"><u>Discover the Top 8 Ultimate Free Fax Applications for Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-6-imovie-substitutes-for-your-android-smartphones-video-edits/"><u>Discover the Ultimate 6 iMovie Substitutes for Your Android Smartphone's Video Edits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-started-with-tango-step-by-step-instructions-for-downloading-video-chatting-app/"><u>Get Started With Tango - Step-by-Step Instructions For Downloading Video Chatting App</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-seamlessly-back-up-and-synchronize-your-external-hard-drives-using-google-drive/"><u>How to Seamlessly Back Up & Synchronize Your External Hard Drives Using Google Drive</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminate-photos-10-premium-luts-revealed-for-2024/"><u>Illuminate Photos 10 Premium LUTs Revealed for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-fitbit-charge-6-wearable-tracker/"><u>In-Depth Analysis: Fitbit Charge 6 Wearable Tracker</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-the-dark-a-users-manual-for-fixing-windows/"><u>Navigating Through the Dark: A User's Manual for Fixing Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-incompatible-volume-driver-error-on-windows/"><u>Resolving Incompatible Volume Driver Error on Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-idevice-software-challenges-tips-for-successful-ios-upgrades/"><u>Solving iDevice Software Challenges: Tips for Successful iOS Upgrades</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-6-essential-iphone-apps-for-restoring-lost-contact-information/"><u>Top 6 Essential iPhone Apps for Restoring Lost Contact Information</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-the-top-6-iphone-apps-to-restore-your-lost-memories/"><u>Ultimate Guide: The Top 6 iPhone Apps to Restore Your Lost Memories</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/sh-more-views-on-youtube-with-pro-tag-optimization/"><u>Unleash More Views on YouTube with Pro Tag Optimization</u></a></li>
 </ul></div>
 

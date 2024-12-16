@@ -1,7 +1,7 @@
 ---
 title: Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet
-date: 2024-12-04T19:49:01.892Z
-updated: 2024-12-09T16:09:57.339Z
+date: 2024-12-12T23:41:59.822Z
+updated: 2024-12-15T22:46:10.567Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 ## Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Executive guide
@@ -20,7 +20,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 [![phishing-header.jpg](https://www.zdnet.com/a/img/resize/ac019af4c6d0d000921065b0769387a86a4afe61/2017/09/04/fc1528a9-ecf2-4e2a-b743-91f06206a23e/phishing-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) What is phishing? Everything you need to know to protect yourself from scam emails and more Don't click on that email! Find everything you need to know in this phishing guide including how to protect yourself from one of the most common forms of cyber attack.  Read now](https://www.zdnet.com/article/what-is-phishing-how-to-protect-yourself-from-scam-emails-and-more/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A hospital system in West Virginia has [suffered](https://www.prnewswire.com/news-releases/monongalia-health-system-inc-investigates-and-addresses-data-security-incident-301449436.html) a data breach resulting from a phishing attack, which gave hackers access to several email accounts. 
@@ -74,18 +74,22 @@ Mon Health started sending breach notification letters to victims on December 21
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capturing-motion-with-precision-how-to-choose-between-30-and-60fps/"><u>[New] 2024 Approved Capturing Motion with Precision How to Choose Between 30 and 60Fps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-say-no-to-unsolicited-content-on-insta/"><u>[New] Say No to Unsolicited Content on Insta</u></a></li>
-<li><a href="https://article-helps.techidaily.com/can-adobe-shake-control-enhance-creative-process-in-photoshop/"><u>Can Adobe Shake Control Enhance Creative Process in Photoshop?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-artificial-intelligence-highlight-videos-essentials-and-software/"><u>Comprehensive Guide to Artificial Intelligence Highlight Videos: Essentials & Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-monicas-artificial-intelligence-powers-and-effective-strategies-for-utilizing-chatgpt/"><u>Discover Monica's Artificial Intelligence Powers and Effective Strategies for Utilizing ChatGPT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-top-5-alternatives-to-voicemyai-for-crafting-artificial-intelligence-powered-voice-assistants/"><u>Discover Top 5 Alternatives to voicemy.ai for Crafting Artificial Intelligence-Powered Voice Assistants</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/easy-tutorial-how-to-make-a-talking-cartoon-video-step-by-step-for-2024/"><u>Easy Tutorial How To Make a Talking Cartoon Video Step-by-Step for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-detail-in-warped-internet-media-content/"><u>Enhancing Detail in Warped Internet Media Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-analysis-avclabs-video-boosting-technology-advantages-and-limitations/"><u>Expert Analysis: AVClabs' Video Boosting Technology - Advantages & Limitations</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-transitions-3-essential-methods-for-pro-editors/"><u>Final Cut Pro Transitions 3 Essential Methods for Pro Editors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/optimize-task-management-with-these-5-outstanding-zapier-replacements/"><u>Optimize Task Management with These 5 Outstanding Zapier Replacements</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-durable-ultrabooks-expert-reviews-and-picks-by-zdnet/"><u>Top Durable Ultrabooks : Expert Reviews & Picks by ZDNet</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unplayable-files-defeat-error-224003/"><u>Unplayable Files? Defeat Error 224003</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-tiktok-video-potential-with-zoom/"><u>[New] Unlocking TikTok Video Potential with Zoom</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-best-flv-video-player-apps-for-macos-how-to-enjoy-f4v-files-seamlessly/"><u>1. Best FLV Video Player Apps for macOS: How to Enjoy F4V Files Seamlessly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-eva-formerly-ex-journey-ai-chatbot-overview-essential-insights/"><u>Comprehensive EVA (Formerly Ex Journey) AI Chatbot Overview - Essential Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/decoding-eva-ai-a-deep-dive-into-the-transformed-ex-journey-conversational-agent/"><u>Decoding EVA AI - A Deep Dive Into the Transformed Ex Journey Conversational Agent</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-bing-chat-how-to-converse-using-cutting-edge-gpt-language-models-by-microsoft/"><u>Exploring Bing Chat: How to Converse Using Cutting-Edge GPT Language Models by Microsoft</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-6-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 6 without Security Questions?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-simplified-approaches-to-insta-photovideo-resharing/"><u>In 2024, Simplified Approaches to Insta Photo/Video Resharing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-x-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone X</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-through-the-best-of-ai-conversational-agents-in-depth-review-of-chatgpt/"><u>Navigating Through The Best of AI Conversational Agents: In-Depth Review Of ChatGPT</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-11-pro-max-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 11 Pro Max Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-gtx-cups-and-windows-10-troubleshooting-guide/"><u>Resolving the GTX Cups and Windows 10 [Troubleshooting Guide]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-advanced-chatbot-innovations-combining-gpt-tech-with-astrological-insights/"><u>The Ultimate Guide to Advanced Chatbot Innovations Combining GPT Tech with Astrological Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-expert-assessment-and-key-features-of-the-revolutionary-ai-chatbot-chatsoner/"><u>The Ultimate Walkthrough: Expert Assessment and Key Features of the Revolutionary AI Chatbot, Chatsoner</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-choosing-a-leading-ai-companion-spotlight-on-chatgpts-excellence/"><u>Ultimate Guide to Choosing a Leading AI Companion: Spotlight on ChatGPT's Excellence</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-professional-color-in-fcp-tips-and-tricks/"><u>Unlock Professional Color in FCP Tips and Tricks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-eva-the-ultimate-guide-to-the-former-ex-journey-ai-bot/"><u>Unveiling the Power of EVA: The Ultimate Guide to the Former Ex Journey AI Bot</u></a></li>
 </ul></div>
 

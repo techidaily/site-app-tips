@@ -1,7 +1,7 @@
 ---
 title: Celona Secures $60M in Funding, Drives Enterprise-Level 5G Innovation - Tech News
-date: 2024-12-03T20:48:51.615Z
-updated: 2024-12-10T04:42:41.454Z
+date: 2024-12-12T23:46:39.392Z
+updated: 2024-12-15T23:41:36.688Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-master-the-sphere-ultimate-guide-to-live-broadcast-cameras-for-2024/"><u>[New] Master the Sphere Ultimate Guide to Live Broadcast Cameras for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-asus-mg28uq-screen-a-4k-odyssey-of-immersion-and-fidelity/"><u>2024 Approved ASUS MG28UQ Screen - A 4K Odyssey of Immersion and Fidelity</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-finding-the-perfect-video-dimensions-on-facebook/"><u>2024 Approved Finding the Perfect Video Dimensions on Facebook</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-access-to-the-top-soundscape-archives-for-2024/"><u>Exclusive Access to the Top Soundscape Archives for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-change-your-libreoffice-settings-for-native-ms-word-excel-file-compatibility/"><u>Guide: Change Your LibreOffice Settings for Native MS Word, Excel File Compatibility</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-word-2003-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to Word 2003</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-suse-dominates-with-an-unprecedented-19-years-of-support-for-its-linux-distros-no-rivals-nearby-computerworld/"><u>How SUSE Dominates with an Unprecedented 19 Years of Support for Its Linux Distros – No Rivals Nearby | ComputerWorld</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-sql-with-expertly-curated-online-lessons-discover-why-our-picks-are-top-tech-education-sites-zdnet/"><u>Master SQL with Expertly Curated Online Lessons: Discover Why Our Picks Are Top Tech Education Sites - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-latest-release-an-irritant-or-a-game-changer-unveiled-by-zdnet/"><u>Microsoft's Latest Release: An Irritant or a Game Changer? Unveiled by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamlessly-combining-google-drive-with-slack-a-step-by-step-guide/"><u>Seamlessly Combining Google Drive with Slack: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-transforming-ogg-audio-tracks-into-high-quality-aiff-files-quickly-and-easily/"><u>Step-by-Step Tutorial: Transforming OGG Audio Tracks Into High-Quality AIFF Files Quickly and Easily</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/stepping-into-the-world-of-prompt-engineering-a-beginners-guide/"><u>Stepping Into the World of Prompt Engineering: A Beginner's Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/switching-from-microsoft-how-a-german-state-embraces-linux-and-libreoffice-as-spotted-by-zdnet/"><u>Switching From Microsoft: How a German State Embraces Linux & LibreOffice, as Spotted by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-the-chaos-streamlining-linux-and-open-source-documentation/"><u>Taming the Chaos: Streamlining Linux & Open Source Documentation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-4-free-video-editing-tools-expert-picks-techradar/"><u>Top 4 Free Video Editing Tools : Expert Picks | TechRadar</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/vocal-variations-a-curated-list-of-the-best-15-youtube-vocals-tutorials/"><u>Vocal Variations A Curated List of the Best 15 YouTube Vocals Tutorials</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-tool-reigns-supreme-in-translations-analyzing-chatgpt-against-google-translate/"><u>Which Tool Reigns Supreme in Translations? Analyzing ChatGPT Against Google Translate</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-essentials-a-comprehensive-update-and-installation-manual-insights-from-zdnet/"><u>Windows 11 Essentials: A Comprehensive Update & Installation Manual - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/hdd4-2024/"><u>データ損失に対処する：最新ガイド、外付けHDDから情報を復元する4つの手順 [2024年度]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-best-ways-to-record-video-without-sound/"><u>[New] In 2024, Best Ways to Record Video Without Sound</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-charting-your-financial-course-the-3-step-methodology-for-estimating-youtube-income/"><u>[Updated] In 2024, Charting Your Financial Course The 3-Step Methodology for Estimating YouTube Income</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-elevate-your-online-presence-making-exceptional-facebook-reels/"><u>[Updated] In 2024, Elevate Your Online Presence Making Exceptional Facebook Reels</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-set-up-smooth-transitions-youtube-content-playback-on-facebook/"><u>[Updated] In 2024, How to Set Up Smooth Transitions YouTube Content Playback on Facebook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/approach/"><u>Approach</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/boosting-speakers-loudness-on-windows-11-a-step-by-step-guide/"><u>Boosting Speakers' Loudness on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/engineers-innovative-tool-challenges-the-giant-unveiling-how-it-continuously-shames-mcdonalds-strategies/"><u>Engineer's Innovative Tool Challenges the Giant - Unveiling How It Continuously Shames McDonald's Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/future-of-ai-innovations-in-the-coming-years-insights-and-predictions-zdnet/"><u>Future of AI Innovations in the Coming Years - Insights & Predictions | ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-amplify-igtv-audiences-5-effective-ways-for-a-larger-following/"><u>In 2024, Amplify IGTV Audiences 5 Effective Ways for a Larger Following</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-find-x7-ultra-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo Find X7 Ultra FRP</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-tips-on-how-to-edit-youtube-channel-description/"><u>In 2024, Tips on How to Edit YouTube Channel Description</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovating-nlp-how-sony-research-is-joining-forces-with-ai-singapore-spotlighted-by-zdnet/"><u>Innovating NLP: How Sony Research Is Joining Forces with AI Singapore, Spotlighted by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/joint-venture-between-sony-research-and-ai-singapore-accelerates-creation-of-next-gen-language-ai-systems/"><u>Joint Venture Between Sony Research and AI Singapore Accelerates Creation of Next-Gen Language AI Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-inverted-screen-problem-in-windows-10/"><u>Solving Inverted Screen Problem in Windows 10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-electronic-signature-solutions-insights-from-zdnet/"><u>Top Rated Electronic Signature Solutions - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-a-world-of-visual-conversations-with-lipsync-a-game-changing-rival-to-microsoft-teams-and-zoom-on-zdnet/"><u>Unlock a World of Visual Conversations with LipSync: A Game-Changing Rival to Microsoft Teams and Zoom on ZDNet</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-webm-video-optimization-best-online-compression-software/"><u>Updated WebM Video Optimization Best Online Compression Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-microsoft-faces-critical-challenge-with-windows-11-just-one-year-left-zdnet-exclusive/"><u>Urgent: Microsoft Faces Critical Challenge with Windows 11 - Just One Year Left! [ZDNet Exclusive]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-embracing-low-code-tech-boosts-employer-branding-zdnet-analysis/"><u>Why Embracing Low-Code Tech Boosts Employer Branding - ZDNet Analysis</u></a></li>
 </ul></div>
 

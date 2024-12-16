@@ -1,7 +1,7 @@
 ---
 title: "Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet"
-date: 2024-12-03T22:39:18.623Z
-updated: 2024-12-10T01:44:47.801Z
+date: 2024-12-11T02:26:06.613Z
+updated: 2024-12-16T03:11:44.226Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-blur-proof-iphones-achieving-flawless-budget-friendly-edits/"><u>[New] In 2024, Blur-Proof iPhones Achieving Flawless, Budget-Friendly Edits</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-capturing-your-device-a-comprehensive-screen-recording-guide/"><u>[New] In 2024, Capturing Your Device A Comprehensive Screen Recording Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-step-into-the-future-microsofts-hololens-breakthrough/"><u>[New] Step Into the Future Microsoft's HoloLens Breakthrough</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-high-definition-screens-selecting-your-optimal-4k-display/"><u>[Updated] High Definition Screens Selecting Your Optimal 4K Display</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-seamless-integration-setting-up-email-in-your-onlyoffice-environment-tips-and-tricks/"><u>1. Seamless Integration: Setting Up Email in Your ONLYOFFICE Environment - Tips & Tricks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-bridging-the-gap-an-introduction-to-av1/"><u>2024 Approved Bridging the Gap An Introduction to AV1</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ais-forefront-top-8-trends-shaping-technology-this-year-and-how-professionals-can-adapt-zdnet/"><u>AI's Forefront: Top 8 Trends Shaping Technology This Year & How Professionals Can Adapt | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-hottest-tech-skills-best-platforms-for-mastering-key-programming-languages-now/"><u>Discover the Hottest Tech Skills: Best Platforms for Mastering Key Programming Languages Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expanding-business-horizons-with-anthropics-claude-the-enterprise-level-ai-transformation/"><u>Expanding Business Horizons with Anthropic's Claude - The Enterprise-Level AI Transformation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-challenges-of-leveraging-generative-ai-insights-from-a-recent-deloitte-survey-zdnet/"><u>Exploring the Challenges of Leveraging Generative AI: Insights From a Recent Deloitte Survey - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-windows-11-upgrade-availability-is-it-over/"><u>Free Windows 11 Upgrade Availability: Is It Over?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Infinix Hot 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-expanding-viewership-tweeting-to-fb-effectively/"><u>In 2024, Expanding Viewership Tweeting to FB Effectively</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-how-to-record-a-podcast-on-iphone-or-ipad-best-for-interviews-and-trave/"><u>In 2024, How To Record a Podcast on iPhone or iPad (Best for Interviews & Trave</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-live-concert-streamers-for-2024/"><u>Premier Live Concert Streamers for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamlessly-share-your-iphone-pictures-with-your-windows-computer-a-comprehensive-tutorial/"><u>Seamlessly Share Your iPhone Pictures with Your Windows Computer: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-dolby-advanced-audio-unable-to-start-the-dolby-audio-driver-in-windows-11/"><u>Solved Dolby Advanced Audio: Unable to Start the Dolby Audio Driver in Windows 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-network-monitoring-solutions-of-2023-industry-experts-recommendations-gurupick/"><u>Top Network Monitoring Solutions of 2023: Industry Experts' Recommendations - GuruPick</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-servicenows-four-fundamental-ai-concepts-impactful-insights-for-modern-enterprises/"><u>Understanding ServiceNow's Four Fundamental AI Concepts: Impactful Insights for Modern Enterprises</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-expert-picked-screen-capturers-of-movies/"><u>[New] Expert-Picked Screen Capturers of Movies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevating-live-play-with-professional-gear-lists/"><u>[Updated] 2024 Approved Elevating Live Play with Professional Gear Lists</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-defeating-error-code-0x80246007-in-w10w11-os/"><u>Decoding and Defeating Error Code 0X80246007 in W10/W11 OS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-leading-mac-applications-of-202amoeba-the-intriguing-life-cycle-of-paramecia-by-dr-emily-waters/"><u>Discover the Leading Mac Applications of 202Amoeba: The Intriguing Life Cycle of Paramecia by Dr. Emily Waters</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-pc-with-windows-home-to-pro-a-step-by-step-guide-and-benefits-techexplorer/"><u>Elevate Your PC with Windows Home to Pro: A Step-by-Step Guide and Benefits | TechExplorer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/eminent-linux-professionals-support-ciq-in-launch-of-new-rocky-linux-distribution/"><u>Eminent Linux Professionals Support CIQ in Launch of New Rocky Linux Distribution</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-enhanced-ai-workload-management-in-recent-kubernetes-update-key-features-unveiled/"><u>Exploring Enhanced AI Workload Management in Recent Kubernetes Update: Key Features Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-notch-graphic-retouches/"><u>In 2024, Top-Notch Graphic Retouches</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-future-in-tech-lessons-and-strategies-from-the-aerospace-giant-boeing-zdnet-exclusive-interview/"><u>Securing Your Future in Tech: Lessons and Strategies From the Aerospace Giant, Boeing | ZDNET Exclusive Interview</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/spk10-037-lights-up-scenes-with-brightness-and-adaptability/"><u>SPK10-037 Lights Up Scenes with Brightness & Adaptability</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/two-methods-of-crafting-a-windows-11-installation-media-on-a-usb-drive-a-step-by-step-guide/"><u>Two Methods of Crafting a Windows 11 Installation Media on a USB Drive: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

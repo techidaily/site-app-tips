@@ -1,7 +1,7 @@
 ---
 title: "Debunking Bitcoin Privacy Myths: The Exposé That Shook Its Secrecy"
-date: 2024-12-05T16:12:29.658Z
-updated: 2024-12-09T16:04:04.007Z
+date: 2024-12-10T00:24:52.436Z
+updated: 2024-12-16T02:26:06.998Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,20 +119,18 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-tips-recording-every-moment-of-skype-on-obs/"><u>[New] 2024 Approved Essential Tips Recording Every Moment of Skype on OBS</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-guide-to-fetching-superior-quality-fb-videos/"><u>[New] 2024 Approved Guide to Fetching Superior Quality FB Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ltimate-list-best-asmr-on-smartphones/"><u>[New] Ultimate List Best ASMR on Smartphones</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-5-pro-tips-to-perfectly-tag-videos-and-maximize-views/"><u>[Updated] 2024 Approved 5 Pro Tips to Perfectly Tag Videos and Maximize Views</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-crafting-professional-images-using-photoshops-powerful-luts/"><u>2024 Approved Crafting Professional Images Using Photoshop's Powerful LUTs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-complete-guide-restoring-lost-messages-in-whatsapp/"><u>A Complete Guide: Restoring Lost Messages in WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-methods-to-move-your-whatsapp-chats-between-android-devices/"><u>Best Methods to Move Your WhatsApp Chats Between Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/efficient-methods-for-downloading-and-sending-high-resolution-videos-on-whatsapp-compression-techniques-revealed/"><u>Efficient Methods for Downloading and Sending High-Resolution Videos on WhatsApp: Compression Techniques Revealed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-saving-your-whatsapp-pdfs-on-an-iphone-with-ease/"><u>Guide: Saving Your WhatsApp PDFs on an iPhone with Ease</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-do-martian-clouds-differ-visually-from-those-on-earth-in-terms-of-appearance-and-structure/"><u>How Do Martian Clouds Differ Visually From Those on Earth in Terms of Appearance and Structure?</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/identifying-faulty-ram-modules-a-step-by-step-guide-for-your-pc-tech-insights-by-yl/"><u>Identifying Faulty RAM Modules: A Step-by-Step Guide for Your PC - Tech Insights by YL</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-universe-explorer-top-ranking-of-best-free-mmorpg-games/"><u>In 2024, Universe Explorer Top Ranking of Best Free MMORPG Games</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamlessly-shifting-conversations-moving-whatsapp-information-from-android-devices-to-iphones/"><u>Seamlessly Shifting Conversations: Moving WhatsApp Information From Android Devices to iPhones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-4-simple-methods-for-securing-your-whatsapp-chats-on-ios-devices/"><u>Top 4 Simple Methods for Securing Your WhatsApp Chats on iOS Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-exclusive-list-the-premier-gb-emulators-android/"><u>[New] Exclusive List The Premier GB Emulators, Android</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exploring-the-magic-behind-color-grading-with-luts-for-2024/"><u>[Updated] Exploring the Magic Behind Color Grading with LUTs for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-expert-picks-for-drone-pilots-vr-eyewear/"><u>[Updated] In 2024, Expert Picks for Drone Pilots’ VR Eyewear</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-comprehensive-guide-understanding-the-delete-for-everyone-option-in-whatsapp/"><u>A Comprehensive Guide: Understanding the 'Delete for Everyone' Option in WhatsApp</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dragon-training-watch-the-how-to-train-your-dragon-series-the-complete-sequential-guide/"><u>Dragon Training: Watch the How to Train Your Dragon Series - The Complete Sequential Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/honing-skills-for-hiring-best-filmmakers/"><u>Honing Skills for Hiring Best Filmmakers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-fixes-how-to-securely-restore-deleted-whatsapp-conversations-on-iphone-devices/"><u>Quick Fixes: How to Securely Restore Deleted WhatsApp Conversations on iPhone Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/repeated-security-incidents-at-lastpass-latest-update-from-zdnet/"><u>Repeated Security Incidents at LastPass - Latest Update From ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/rev-up-your-parties-with-new-tracks-get-into-the-groove-with-this-weeks-fresh-selection-from-dj-marshmello-to-iron-butterfly-at-partytyme/"><u>Rev Up Your Parties with New Tracks: Get Into the Groove with This Week's Fresh Selection From DJ Marshmello to Iron Butterfly at PartyTyme!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-accounts-now-unbeatable-jem-authenticator-and-password-management-solution-insights-from-zdnet/"><u>Secure Your Accounts Now! Unbeatable JEM Authenticator & Password Management Solution | Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ongoing-issue-of-reused-passwords-in-the-face-of-security-breaches-cybersecurity-insights/"><u>The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights</u></a></li>
 </ul></div>
 

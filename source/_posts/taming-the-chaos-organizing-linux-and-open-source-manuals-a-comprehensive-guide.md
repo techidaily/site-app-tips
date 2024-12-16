@@ -1,7 +1,7 @@
 ---
 title: "Taming the Chaos: Organizing Linux & Open Source Manuals - A Comprehensive Guide"
-date: 2024-12-06T01:34:49.422Z
-updated: 2024-12-09T19:03:07.666Z
+date: 2024-12-13T01:13:07.729Z
+updated: 2024-12-16T04:39:21.566Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-bring-your-text-to-life-techniques-for-3d-design-in-ps/"><u>[New] 2024 Approved Bring Your Text to Life Techniques for 3D Design in PS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-chucklechisel-designing-memes-in-adobe/"><u>[New] ChuckleChisel Designing Memes in Adobe</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-insightful-analysis-unveiling-the-challenges-of-leveraging-generative-ai-in-business-key-findings-from-deloittes-latest-study/"><u>1. Insightful Analysis: Unveiling the Challenges of Leveraging Generative AI in Business - Key Findings From Deloitte's Latest Study</u></a></li>
-<li><a href="https://app-tips.techidaily.com/amazon-introduces-innovative-ai-metric-for-response-accuracy-and-grounding/"><u>Amazon Introduces Innovative AI Metric for Response Accuracy and Grounding</u></a></li>
-<li><a href="https://techtrends.techidaily.com/electric-vehicle-mythbuster-how-green-are-they-in-practice/"><u>Electric Vehicle Mythbuster: How 'Green' Are They in Practice?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-amazon-is-redefining-ai-assessment-with-a-novel-rag-metric-insights-from-recent-zdnet-analysis/"><u>How Amazon Is Redefining AI Assessment with a Novel RAG Metric – Insights From Recent ZDNET Analysis</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-insider-written-by-an-experienced-video-editor/"><u>In 2024, Exclusive Insider' Written by an Experienced Video Editor</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-10-steps-to-design-free-youtube-video-ads/"><u>In 2024, Top 10 Steps to Design Free YouTube Video Ads</u></a></li>
-<li><a href="https://app-tips.techidaily.com/intrusion-detection-systems/"><u>Intrusion Detection Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximize-efficiency-on-chromebooks-discover-essential-navigation-tricks-and-performance-boosters-zdnet/"><u>Maximize Efficiency on Chromebooks: Discover Essential Navigation Tricks & Performance Boosters | ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-hot-40i-by-fonelab-android-recover-data/"><u>Recover lost data from Hot 40i</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-call-of-duty-vanguard-stability-improvements-for-desktop-users/"><u>Resolved: Call of Duty Vanguard Stability Improvements for Desktop Users</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oppo-a78-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo A78 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-innovators-flocking-to-open-source-projects-a-deep-dive-zdnet/"><u>Top Innovators Flocking to Open Source Projects - A Deep Dive | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-chatgpts-new-beta-features-for-web-exploration-and-plugin-integration-a-step-by-step-guide/"><u>Unlocking ChatGPT's New Beta Features for Web Exploration and Plugin Integration: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-navigating-the-roadmap-to-financial-growth-through-video-ads-on-youtube/"><u>[New] In 2024, Navigating the Roadmap to Financial Growth Through Video Ads on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-3d-home-theaters-top-blu-ray-player-reviews/"><u>[Updated] Ideal 3D Home Theaters Top Blu-Ray Player Reviews</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ultimate-series-exceptional-5-slow-mo-tech/"><u>[Updated] In 2024, Ultimate Series Exceptional 5 Slow Mo Tech</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-journey-to-mastery-discovering-the-quintessential-5-online-title-makers/"><u>[Updated] Journey to Mastery Discovering the Quintessential 5 Online Title Makers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-navigating-through-the-best-pc-vr-headset-lineup-of-2023-for-2024/"><u>[Updated] Navigating Through the Best PC VR Headset Lineup of 2023 for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creating-timely-alerts-a-step-by-step-guide-to-setting-up-slackbot-reminders/"><u>Creating Timely Alerts: A Step-by-Step Guide to Setting Up Slackbot Reminders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-hurdles-ahead-microsofts-race-against-time-to-fix-windows-11-issues-insights-from-zdnet/"><u>Critical Hurdles Ahead: Microsoft's Race Against Time to Fix Windows 11 Issues - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-new-features-in-the-updated-web-based-microsoft-excel-suite/"><u>Discover New Features in the Updated Web-Based Microsoft Excel Suite!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-citizen-devs-the-rising-influence-in-crafting-business-software-solutions-zdnet/"><u>Empowering Citizen Devs: The Rising Influence in Crafting Business Software Solutions | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-successfully-upgrade-to-ubuntu-linux-2404-a-step-by-step-guide/"><u>How to Successfully Upgrade to Ubuntu Linux 24.04: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-power-of-speech-recognition-for-effective-office-documentation-in-microsoft-word/"><u>In 2024, Unlock the Power of Speech Recognition for Effective Office Documentation in Microsoft Word</u></a></li>
+<li><a href="https://app-tips.techidaily.com/juniper-networks-expands-security-offerings-with-new-cloud-based-firewall-feature-in-unified-secure-access-service-sezn-architecture/"><u>Juniper Networks Expands Security Offerings with New Cloud-Based Firewall Feature in Unified Secure Access Service (SEZN) Architecture</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/nightshades-arsenal-to-outmaneuver-generative-ai-copycats/"><u>Nightshade's Arsenal to Outmaneuver Generative AI Copycats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-transition-ahead-how-office-users-can-stay-connected-with-new-microsoft-365-services-in-the-coming-year-zdnet/"><u>Seamless Transition Ahead: How Office Users Can Stay Connected With New Microsoft 365 Services in the Coming Year | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-to-make-unsupported-graphics-driver-compatible-with-miracast-technology/"><u>Solution to Make Unsupported Graphics Driver Compatible with Miracast Technology</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-t5s-action-footage/"><u>The Ultimate Guide to T5's Action Footage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-unveiling-of-microsofts-latest-innovation-a-game-changer-or-annoyance/"><u>The Unveiling of Microsoft's Latest Innovation - A Game Changer or Annoyance?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-security-alert-critical-vulnerability-found-and-patched-in-popular-curl-tool-for-linux-systems-read-the-full-story-on-zdnet/"><u>Urgent Security Alert: Critical Vulnerability Found & Patched in Popular Curl Tool for Linux Systems - Read the Full Story on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-why-it-departments-must-step-up-for-superior-customer-interactions/"><u>ZDNet Exclusive: Why IT Departments Must Step Up for Superior Customer Interactions</u></a></li>
 </ul></div>
 

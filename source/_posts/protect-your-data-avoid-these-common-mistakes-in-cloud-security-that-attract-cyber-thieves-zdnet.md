@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet"
-date: 2024-12-03T23:38:56.366Z
-updated: 2024-12-09T18:12:14.813Z
+date: 2024-12-10T19:12:14.500Z
+updated: 2024-12-16T06:24:20.223Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -116,7 +116,7 @@ Analysis of identity and access management (IAM) polices taking into account hun
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -137,7 +137,7 @@ Another practice that isn't helping IT departments is [poor password security](h
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### special feature
@@ -157,7 +157,7 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -183,15 +183,24 @@ IT departments should also consider whether regular accounts need administrator 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-twists-that-tell-stories-mastering-the-art-and-technique-of-spinning-visuals-for-maximum-impact-on-social-media-platforms-for-2024/"><u>[Updated] Twists That Tell Stories Mastering the Art and Technique of Spinning Visuals for Maximum Impact on Social Media Platforms for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/best-free-wma-audio-editing-software-top-5-picks-for-your-pc-and-online-use/"><u>Best Free WMA Audio Editing Software: Top 5 Picks for Your PC and Online Use</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-videos-discover-leading-mobile-apps-including-kinemaster-for-superior-editing-tools/"><u>Master Your Videos: Discover Leading Mobile Apps Including KineMaster for Superior Editing Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-emoji-use-in-android-a-step-by-step-tutorial/"><u>Mastering Emoji Use in Android - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/most-effective-iphone-surveillance-software-your-ultimate-guide-to-discreet-monitoring-tools/"><u>Most Effective iPhone Surveillance Software: Your Ultimate Guide to Discreet Monitoring Tools</u></a></li>
-<li><a href="https://win-superb.techidaily.com/repair-your-windows-10-system-easily-without-any-physical-media-top-6-methods-explored/"><u>Repair Your Windows 10 System Easily Without Any Physical Media - Top 6 Methods Explored</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ase-excellence-with-these-essential-thumbnail-fonts/"><u>Showcase Excellence with These Essential Thumbnail Fonts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-choice-affordable-samsung-mp3-players-compatible-with-galaxy-s8-s9-and-pcs-both-free-and-premium-options-available/"><u>Top Choice Affordable Samsung MP3 Players: Compatible with Galaxy S8, S9 & PCs [Both Free & Premium Options Available]</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-sony-xperia-10-v-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Sony Xperia 10 V Device</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-inside-look-key-aspects-of-srt-mastery-for-2024/"><u>[New] Inside Look Key Aspects of SRT Mastery for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-craft-of-loom-seamless-screen-recording-guide/"><u>[Updated] 2024 Approved The Craft of Loom Seamless Screen Recording Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-maximize-video-quality-top-8-youtube-to-avi-converters/"><u>[Updated] In 2024, Maximize Video Quality Top 8 YouTube to AVI Converters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-conversion-tracking-with-cookiebot-technology/"><u>Automated Conversion Tracking with Cookiebot Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-cleansing-apps-for-iphone-top-free-options-for-enhanced-performance/"><u>Best Cleansing Apps for iPhone: Top Free Options for Enhanced Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-the-framework-for-managing-ai-development-who-steps-in-as-the-guardian/"><u>Demystifying the Framework for Managing AI Development: Who Steps In as The Guardian?</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/essential-malware-inspection-instruments-leading-solutions-for-effective-cybersecurity-defense/"><u>Essential Malware Inspection Instruments: Leading Solutions for Effective Cybersecurity Defense</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expertly-curated-list-the-ultimate-9plus1-video-streaming-solutions-for-android-devices/"><u>Expertly Curated List: The Ultimate 9+1 Video Streaming Solutions for Android Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-xs-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone XS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-find-n3-flip-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Find N3 Flip</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-vn-video-editor-benefits-drawbacks-and-top-substitutes/"><u>In-Depth Analysis: VN Video Editor - Benefits, Drawbacks & Top Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ios-10-updates-unveiled-explore-the-enhanced-lockscreen-features/"><u>IOS 10 Updates Unveiled: Explore the Enhanced Lockscreen Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
+<li><a href="https://win-able.techidaily.com/speeding-up-your-chrome-experience-in-minutes/"><u>Speeding Up Your Chrome Experience in Minutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-moving-your-iphone-applications-seamlessly-between-iphones/"><u>Step-by-Step Guide: Moving Your iPhone Applications Seamlessly Between iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-free-gba-emulators-your-ultimate-guide-to-playing-game-boy-advance-titles-on-pc/"><u>Top 5 Free GBA Emulators: Your Ultimate Guide to Playing Game Boy Advance Titles on PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-file-management-apps-for-android-user-reviews-and-comparisons/"><u>Top-Rated File Management Apps for Android: User Reviews and Comparisons</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/ultimate-guide-to-top-race-rc-rock-crawlers-mastering-off-road-adventures/"><u>Ultimate Guide to Top Race RC Rock Crawlers: Mastering Off-Road Adventures</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-everyone-needs-to-try-the-newly-updated-factual-inshot-editor-unleash-your-creativity/"><u>Why Everyone Needs to Try the Newly Updated Factual InShot Editor - Unleash Your Creativity!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tenfold Surge in Artifice Intelligence Initiatives This Year, Confirms ZDNet Insight Survey
-date: 2024-12-04T18:05:32.059Z
-updated: 2024-12-09T20:58:48.660Z
+date: 2024-12-13T04:12:53.785Z
+updated: 2024-12-15T23:28:52.108Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creating-captivating-thumbnails-for-youtube/"><u>[New] 2024 Approved Creating Captivating Thumbnails for YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dissecting-the-hidden-mechanics-behind-youtubes-popularity-index/"><u>[New] 2024 Approved Dissecting the Hidden Mechanics Behind YouTube's Popularity Index</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-iobit-screen-recorder-review/"><u>[New] 2024 Approved IObit Screen Recorder Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-full-review-of-cutspace-suite-with-visualfx-tools-2023/"><u>A Full Review of CutSpace Suite with VisualFX Tools, 2023</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-takes-center-stage-the-transformation-of-low-codeno-code-tools-in-modern-tech-strategies-insights-from-zdnet/"><u>AI Takes Center Stage: The Transformation of Low-Code/No-Code Tools in Modern Tech Strategies - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-rote-learning-how-ai-is-revolutionizing-software-development-with-advanced-intelligence-insights-from-zdnet/"><u>Beyond Rote Learning: How AI Is Revolutionizing Software Development with Advanced Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-strategies-for-high-quality-mp4-file-size-reduction/"><u>Effective Strategies for High-Quality MP4 File Size Reduction</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-12-miniipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 12 mini/iPad? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-paradox-of-productivity-can-generative-ai-actually-boost-your-workload-find-out-with-zdnets-latest-analysis/"><u>The Paradox of Productivity: Can Generative AI Actually Boost Your Workload? Find Out with ZDNet's Latest Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/training-your-staff-in-ai-revolution-essential-manual-for-smbs-in-singapore-zdnet/"><u>Training Your Staff in AI Revolution: Essential Manual for SMBs in Singapore | ZDnet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-truth-about-becoming-a-devops-expert-opportunities-and-pitfalls-awaiting-you-siliconvalleynews/"><u>Unveiling the Truth About Becoming a DevOps Expert: Opportunities and Pitfalls Awaiting You | SiliconValleyNews</u></a></li>
-<li><a href="https://app-tips.techidaily.com/your-journey-to-devops-mastery-exploring-benefits-challenges-and-truths-zdnets-comprehensive-guide/"><u>Your Journey to DevOps Mastery: Exploring Benefits, Challenges, and Truths | ZDNET's Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-governance-matters-ceo-of-openai-speaks-out/"><u>AI Governance Matters: CEO of OpenAI Speaks Out</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-solutions-combating-it-professional-burnout-and-alert-overload-with-technology-insights-from-zdnet/"><u>AI Solutions: Combating IT Professional Burnout & Alert Overload with Technology Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-spearheads-the-surge-in-non-cash-payments-anticipated-global-reach-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Cash Payments: Anticipated Global Reach of $1.6 Trillion</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/boost-your-computers-speed-essential-adjustments-guided-by-experts-at-yl-computing/"><u>Boost Your Computer's Speed: Essential Adjustments Guided by Experts at YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-download-of-xbox-controller-wireless-adapter-drivers/"><u>Effortless Download of Xbox Controller Wireless Adapter Drivers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-leaders-top-6-strategies-for-enhancing-executive-technological-proficiency-zdnet/"><u>Empowering Leaders: Top 6 Strategies for Enhancing Executive Technological Proficiency | ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722961112506-get-the-latest-dell-audio-driver-with-these-easy-steps/"><u>Get the Latest Dell Audio Driver with These Easy Steps!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syncopating-youtube-melodies-with-visuals/"><u>In 2024, Syncopating YouTube Melodies with Visuals</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-influence-without-compromise-for-2024/"><u>Instagram Influence Without Compromise for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-rise-of-agent-ecosystems-in-artificial-intelligence-future-service-domination/"><u>Navigating the Rise of Agent Ecosystems in Artificial Intelligence: Future Service Domination</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prioritize-manager-training-before-ai-deployment-insights-from-zdnet/"><u>Prioritize Manager Training Before AI Deployment: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-work-how-ai-agents-forge-a-new-era-in-employment-insights-from-zdnet/"><u>Revolutionizing Work: How AI Agents Forge a New Era in Employment - Insights From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-google-pixel-7a-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Google Pixel 7a Device</u></a></li>
 </ul></div>
 

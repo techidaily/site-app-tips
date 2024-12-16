@@ -1,7 +1,7 @@
 ---
 title: "From LastPass to iCloud: Transition Your Passwords Securely on PC - Expert Tips From ZDNet"
-date: 2024-12-02T23:08:03.178Z
-updated: 2024-12-09T17:07:49.573Z
+date: 2024-12-11T17:09:38.972Z
+updated: 2024-12-15T22:35:22.211Z
 tags:
   - password-manager
 categories:
@@ -19,10 +19,6 @@ Image: Maria Diaz/ZDNET
 
 An [Apple ID](https://www.zdnet.com/article/your-friends-could-help-stop-you-getting-locked-out-of-your-apple-id/) gives you access to many perks within the Apple software ecosystem, and one of them is [Keychain](https://www.zdnet.com/article/how-to-locate-a-password-with-the-macos-keychain/): iCloud's password manager. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
@@ -34,6 +30,10 @@ If you've been around for the past 10 or so years, you know that most services r
 **Also:** [**The 10 best Windows laptops, 2-in-1s, and ultraportables**](https://www.zdnet.com/article/best-windows-laptop/)
 
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to use iCloud as a password manager on Windows
 
@@ -57,6 +57,10 @@ Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Make sure Passwords is on and click Apply
 
 Make sure Passwords is selected on the iCloud window, then click on **Apply** to make the changes. 
@@ -67,10 +71,6 @@ Make sure Passwords is on and click **Apply**.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Add browser extension
 
 At this point, you can also add a browser extension to [Google Chrome](https://www.zdnet.com/article/malicious-google-chrome-extensions-affect-1-4-million-users/) or [Microsoft Edge](https://www.zdnet.com/article/beef-up-microsoft-edge-with-my-favorite-add-ons/) by following the instructions in the iCloud for Windows app. 
@@ -80,6 +80,10 @@ Once you click **Install Extension** in iCloud, you'll be able to add the **iClo
 Maria Diaz/ZDNET
 
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
 
@@ -98,7 +102,7 @@ Enter the verification code.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Try out the password manager
@@ -113,11 +117,11 @@ Like LastPass, the browser extension will let you fill in your login information
 
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ## How do you get iCloud for Windows?  
 
@@ -128,10 +132,6 @@ To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ
 iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/article/how-to-update-all-of-your-apple-devices/): [iPhone](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fipad%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [Mac](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). To set it up, go to your iPhone's Settings and tap on your name at the top of the screen to access your iCloud settings. Then, choose iCloud. Find Passwords and Keychain and select that, then tap on Sync this iPhone to turn it on. 
 
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
 
@@ -167,17 +167,19 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-eliminate-storage-woes-exclusive-list-of-20-best-1tbplus-free-clouds/"><u>[Updated] In 2024, Eliminate Storage Woes Exclusive List of 20 Best 1TB+ Free Clouds</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>[Updated] In 2024, From Video Views to Vault Closure Income Insights for Youtubers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-secrets-revealed-mastering-minecraft-recordings-on-a-macbook-pro/"><u>2024 Approved Secrets Revealed Mastering Minecraft Recordings on a MacBook Pro</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Lava Blaze 2? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-boost-your-media-creation-skills-a-detailed-walkthrough-of-movie-maker-on-windows-8/"><u>In 2024, Boost Your Media Creation Skills A Detailed Walkthrough of Movie Maker on Windows 8</u></a></li>
-<li><a href="https://app-tips.techidaily.com/redesigning-interaction-how-generative-ai-is-shaping-the-future-of-user-interface-innovations-zdnet/"><u>Redesigning Interaction: How Generative AI Is Shaping the Future of User Interface Innovations | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/shifting-away-from-quick-fixes-to-pioneering-intellects-for-advancing-ai-says-renowned-banking-chief-zdnet/"><u>Shifting Away From Quick Fixes to Pioneering Intellects for Advancing AI, Says Renowned Banking Chief | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-role-of-a-chief-artificial-intelligence-officer-steps-to-achieve-the-position/"><u>The Role of a Chief Artificial Intelligence Officer – Steps to Achieve the Position</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722803147618-ultimate-guide-the-leading-exterior-discs-drives-of-236/"><u>Ultimate Guide: The Leading Exterior Discs Drives of 2#36;</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-future-social-spaces-the-potential-of-facebooks-metaverse/"><u>Unveiling Future Social Spaces: The Potential of Facebook's Metaverse</u></a></li>
-<li><a href="https://win-dash.techidaily.com/windows-10-webcam-troubles-learn-how-to-update-the-drivers-easily/"><u>Windows 10 Webcam Troubles? Learn How to Update the Drivers Easily!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-unveils-comprehensive-ai-skills-handbook-for-singapore-smb-employees/"><u>ZDNet Unveils Comprehensive AI Skills Handbook for Singapore SMB Employees</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fast-forward-memories-samsung-timelapse-basics/"><u>[New] Fast-Forward Memories Samsung Timelapse Basics</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-clearing-the-path-free-facebook-videos-from-interruptions/"><u>[Updated] 2024 Approved Clearing the Path Free Facebook Videos From Interruptions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-iphone-motion-blur-effects-in-images/"><u>[Updated] Master iPhone Motion-Blur Effects in Images</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-apples-next-innovation-affordable-ar-glasses-and-vision-tech-underway-insights-from-zdnet/"><u>1. Apple's Next Innovation: Affordable AR Glasses & Vision Tech Underway - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-best-ios-camera-apps-to-elevate-your-iphone-imagery/"><u>2024 Approved The Best iOS Camera Apps to Elevate Your iPhone Imagery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/batch-processing-closure-for-busy-windows-users/"><u>Batch-Processing Closure for Busy Windows Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/busting-top-5-fallacies-on-profiting-from-your-data-insights-zdnet/"><u>Busting Top 5 Fallacies on Profiting From Your Data Insights - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-might-machine-learning-impact-future-opportunities-in-the-field-of-cybersecurity/"><u>How Might Machine Learning Impact Future Opportunities in the Field of Cybersecurity?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-smooth-narrative-flow-mastering-inshots-seamless-segments/"><u>In 2024, A Smooth Narrative Flow Mastering Inshot's Seamless Segments</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-challenges-in-leveraging-ai-for-significant-commercial-gains-insights-from-zdnet/"><u>Overcoming Challenges in Leveraging AI for Significant Commercial Gains - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-challenges-to-unlock-the-economic-potential-of-ai-in-business-insights-from-zdnet/"><u>Overcoming Challenges to Unlock the Economic Potential of AI in Business - Insights From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-honor-90-lite-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Honor 90 Lite</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-end-of-point-and-click-era-exploring-ais-role-in-transforming-user-interfaces-zdnet/"><u>The End of Point-and-Click Era: Exploring AI's Role in Transforming User Interfaces | ZDNet</u></a></li>
 </ul></div>
 

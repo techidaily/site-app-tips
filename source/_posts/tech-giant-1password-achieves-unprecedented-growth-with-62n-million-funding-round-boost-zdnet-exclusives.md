@@ -1,7 +1,7 @@
 ---
 title: Tech Giant 1Password Achieves Unprecedented Growth with $62N Million Funding Round Boost | ZDNET Exclusives
-date: 2024-12-08T20:00:34.694Z
-updated: 2024-12-09T19:41:12.089Z
+date: 2024-12-08T23:44:12.944Z
+updated: 2024-12-15T21:25:54.786Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Password manager 1Password said it closed its latest funding round on Wednesday, raising $620 million and boosting its valuation to $6.8 billion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Password manager 1Password said it closed its latest funding round on Wednesday,
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Series C funding round included the participation of ICONIQ Growth, Tiger Global, Lightspeed Venture Partners, Backbone Angels, and Accel, which led the Canadian company's series A and B rounds. 
@@ -83,17 +83,22 @@ Will Griffith, a founding partner at ICONIQ Growth, said more than one hundred C
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-the-animators-guide-to-elite-3d-design-and-rendering-applications/"><u>[New] The Animator's Guide to Elite 3D Design and Rendering Applications</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-revolutionize-your-online-presence-with-live-screenshares/"><u>[Updated] 2024 Approved Revolutionize Your Online Presence with Live Screenshares</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-sound-capture-device-audit-for-2024/"><u>[Updated] Sound Capture Device Audit for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-drags-the-revolution-of-uis-with-generative-ai-insights-for-tomorrows-tech/"><u>Beyond Clicks and Drags: The Revolution of UIs with Generative AI – Insights for Tomorrow's Tech</u></a></li>
-<li><a href="https://win-bits.techidaily.com/chkdsk-error-volume-not-accessible-for-direct-reading-and-writing-top-11-methods-to-resolve-it/"><u>CHKDSK Error: Volume Not Accessible for Direct Reading & Writing – Top 11 Methods to Resolve It</u></a></li>
-<li><a href="https://app-tips.techidaily.com/devops-engineering-career-the-complete-picture-pros-cons-and-challenges/"><u>DevOps Engineering Career: The Complete Picture - Pros, Cons & Challenges</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-y100i-power-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo Y100i Power 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-smooth-shifts-audio-transition-wisdom-from-sonar-by-platinum/"><u>In 2024, Smooth Shifts Audio Transition Wisdom From Sonar by Platinum</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-ai-expertise-for-non-programmers-the-need-for-multifaceted-learning-in-complex-environments-zdnet/"><u>Navigating AI Expertise for Non-Programmers - The Need for Multifaceted Learning in Complex Environments | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolution-of-code-how-artificnial-intelligence-surpasses-traditional-methods-exploring-modern-trends-with-zdnet/"><u>The Evolution of Code: How Artificnial Intelligence Surpasses Traditional Methods - Exploring Modern Trends with ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-journey-to-becoming-a-chief-artificial-intelligence-officer-insights-and-strategies-for-success/"><u>The Journey to Becoming a Chief Artificial Intelligence Officer - Insights and Strategies for Success</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncover-the-signs-of-being-blocked-on-imessage-a-comprehensive-guide/"><u>Uncover the Signs of Being Blocked on iMessage - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-economical-choice-for-superior-asmr-sound-experiencing/"><u>[New] 2024 Approved Economical Choice for Superior ASMR Sound Experiencing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-how-to-edit-youtube-videos-in-finalcut-pro/"><u>[Updated] 2024 Approved How to Edit YouTube Videos in Finalcut Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-winning-tools-the-top-five-windows-screen-cutters-for-2024/"><u>[Updated] Winning Tools The Top Five Windows Screen Cutters for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726030034225-dvdbdiso/"><u>独自制作や店頭購入のDVD/BDからISOフォーマットへの変換ガイド</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advance-your-career-with-cutting-edge-tech-more-than-ai-at-the-forefront-lessons-from-zdnet/"><u>Advance Your Career with Cutting-Edge Tech: More Than AI at the Forefront | Lessons From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-artificebotics-how-modern-ai-experts-merge-innovation-with-business-acumen-to-shape-future-technologies/"><u>Beyond Artificebotics: How Modern AI Experts Merge Innovation with Business Acumen to Shape Future Technologies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-digital-gestures-understanding-what-swipe-left-and-swipe-right-really-signify/"><u>Decoding Digital Gestures: Understanding What 'Swipe Left' And 'Swipe Right' Really Signify</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-ai-in-developer-tools-why-rote-automation-is-a-thing-of-the-past-insights-from-zdnet/"><u>Embracing AI in Developer Tools: Why Rote Automation Is a Thing of the Past - Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-step-by-step-guide-becoming-a-reel-star-on-instagram/"><u>In 2024, Step-by-Step Guide Becoming a Reel Star on Instagram</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-open-source-to-draw-global-tech-pioneers-insights-from-zdnet/"><u>Leveraging Open Source to Draw Global Tech Pioneers - Insights From ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/m2-ssd-kopieren-ohne-kosten-expertenanleitung-zur-effizienten-klonierung-von-m2-speichermedien/"><u>M.2 SSD Kopieren Ohne Kosten - Expertenanleitung Zur Effizienten Klonierung Von M.2 Speichermedien</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-how-ai-growth-clashes-with-agile-practices-according-to-recent-research-by-zdnet/"><u>Navigating the Complexities: How AI Growth Clashes with Agile Practices, According to Recent Research by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-inconsistencies-in-artificial-intelligence-expert-analysis-on-reliability-issues-zdnet/"><u>Overcoming Inconsistencies in Artificial Intelligence: Expert Analysis on Reliability Issues | ZDNET</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/perfecting-zoom-captures-top-equipment-list-for-2024/"><u>Perfecting Zoom Captures Top Equipment List for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-tech-talent-how-artificial-intelligence-combats-job-burnout-and-warning-tiredness-for-it-professionals-zdnet/"><u>Reviving Tech Talent: How Artificial Intelligence Combats Job Burnout & Warning Tiredness for IT Professionals | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-gt-neo-5-se-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-workplaces-how-ai-agents-shape-the-future-of-employment-zdnet/"><u>Transforming Workplaces: How AI Agents Shape the Future of Employment | ZDNet</u></a></li>
 </ul></div>
 

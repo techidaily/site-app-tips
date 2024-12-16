@@ -1,7 +1,7 @@
 ---
 title: Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models
-date: 2024-12-04T19:25:44.008Z
-updated: 2024-12-10T03:28:05.362Z
+date: 2024-12-08T23:34:28.689Z
+updated: 2024-12-15T16:43:19.208Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,16 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-will-your-tv-screen-showcase-fb-feeds-soon/"><u>[Updated] Will Your TV Screen Showcase FB Feeds Soon?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-iphone-filming-software-list/"><u>2024 Approved Exclusive iPhone Filming Software List</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-framework-developing-transformative-lifestyle-broadcasts/"><u>2024 Approved Framework Developing Transformative Lifestyle Broadcasts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-chatbot-bias-revealed-by-stanford-research-the-overlooked-issue-of-language-limitation/"><u>AI Chatbot Bias Revealed by Stanford Research: The Overlooked Issue of Language Limitation</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-blandness-in-your-vids-top-recommended-youtube-thumbnail-heights-for-2024/"><u>Avoid Blandness in Your Vids Top Recommended YouTube Thumbnail Heights for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-8-plus-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 8 Plus or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-perfect-purity-extract-background-from-your-photos-at-home/"><u>In 2024, Perfect Purity Extract Background From Your Photos at Home</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-dive-into-the-business-before-coding-zdnet-insights/"><u>Mastering Tech Team Leadership: Dive Into the Business Before Coding | ZDNet Insights</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/solucion-para-el-problema-de-la-sincronizacion-fallida-del-backup-scheduled-en-windows-server/"><u>Solución Para El Problema De La Sincronización Fallida Del Backup Scheduled en Windows Server</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-unbreakable-ai-watermarks-the-ultimate-guide-zdnet/"><u>Unlocking Unbreakable AI Watermarks: The Ultimate Guide | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-top-managers-doubt-it-efficacy-unveiling-findings-of-an-in-depth-ibm-analysis-read-more-at-zdnet/"><u>Why Top Managers Doubt IT Efficacy – Unveiling Findings of an In-Depth IBM Analysis | Read More at ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2024s-premier-web-host-services-in-depth-analysis-and-ratings-from-seasoned-professionals-network-world/"><u>2024'S Premier Web Host Services: In-Depth Analysis and Ratings From Seasoned Professionals | Network World</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-hp-officejet-3830-drivers-on-your-windows-pc/"><u>Download & Install HP OfficeJet 3830 Drivers on Your Windows PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-timeless-design-of-lgs-wear-os-20-smartwatch-series/"><u>Expert Insights on the Timeless Design of LG's Wear OS 2.0 Smartwatch Series</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experts-choose-the-superior-web-host-services-of-2024-in-depth-analysis-and-ratings-discover-with-zdnet/"><u>Experts Choose the Superior Web Host Services of 2024: In-Depth Analysis and Ratings | Discover with ZDNET</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-the-persistent-pc-crash-in-latest-game-release-a-comprehensive-guide/"><u>Fixes for the Persistent PC Crash in Latest Game Release: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-z-fold-5-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy Z Fold 5 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-x-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone X?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preparing-management-skills-is-key-prior-to-deploying-ai-technology-discover-strategies-with-zdnet/"><u>Preparing Management Skills Is Key Prior to Deploying AI Technology - Discover Strategies with ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/revisiting-microsoft-store-error-code-0x80073cf3/"><u>Revisiting Microsoft Store Error Code: 0X80073CF3</u></a></li>
+<li><a href="https://app-tips.techidaily.com/riding-the-wave-of-pervasive-device-expansion-in-edge-investments-boost-your-career-with-insights-from-zdnet/"><u>Riding the Wave of Pervasive Device Expansion in Edge Investments: Boost Your Career with Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-honor-90-gt-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Honor 90 GT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-digital-how-non-cash-transactions-are-set-to-soar-to-1nt-led-by-asian-markets-zdnet-insights/"><u>The Future Is Digital: How Non-Cash Transactions Are Set to Soar to $1.nT, Led by Asian Markets | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-and-comparisons-by-tech-experts-ciodigest/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews & Comparisons by Tech Experts | CIODIGEST</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unleashing-your-content-going-live-on-instagram/"><u>Unleashing Your Content Going Live on Instagram</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Mac's Secrets: A Guide to Finding Passwords in the Keychain"
-date: 2024-12-05T03:26:17.986Z
-updated: 2024-12-09T19:53:52.838Z
+date: 2024-12-13T20:00:26.132Z
+updated: 2024-12-16T01:12:26.147Z
 tags:
   - password-manager
 categories:
@@ -14,16 +14,12 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 I will start this out by reminding everyone that you should be using a password manager to store and protect all of your passwords. We've reached a point where password managers should be considered an absolute must to help with privacy and security.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
 
@@ -32,6 +28,10 @@ I'm going to show you how to open the Keychain Access tool and how to use it to 
 The only thing you'll need to follow along is an Apple laptop or desktop. I'll demonstrate it on a MacBook Pro running macOS Monterey (version 12.2.1). 
 
 With that said, let's get to work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
 
@@ -44,7 +44,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -62,7 +62,7 @@ As you can see, the password is hidden from sight. To view the password for the 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating a password entry
@@ -74,7 +74,7 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -108,17 +108,21 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-critical-steps-in-logging-live-youtube-videos/"><u>[New] 2024 Approved Critical Steps in Logging Live YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-ajeys-youtube-earnings-insight-2023/"><u>[New] In 2024, Ajey's YouTube Earnings Insight - 2023</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-5-underwater-gopro-accessories/"><u>[New] Top 5 Underwater Gopro Accessories</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-personalized-vocal-elements-on-instagram/"><u>[Updated] Unlocking Personalized Vocal Elements on Instagram</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-6-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 6 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-supercharging-instagram-videos-on-the-go-mobile/"><u>In 2024, Supercharging Instagram Videos on the Go (Mobile)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/kensun-portable-tire-inflator-review-sturdy-reliable-and-portable/"><u>Kensun Portable Tire Inflator Review: Sturdy, Reliable, and Portable</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-connectivity-with-the-best-in-depth-insights-into-the-linksys-wrt3200acm-router/"><u>Mastering Connectivity with the Best: In-Depth Insights Into the Linksys WRT3200ACM Router</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-dashlanes-offerings-price-breakdown-features-unveiled-and-step-by-step-setup-tutorial-cyberwisezine/"><u>Navigating Dashlane's Offerings: Price Breakdown, Features Unveiled & Step-by-Step Setup Tutorial | CyberWiseZine</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-account-with-2fa-integrating-githubs-new-feature-using-iphone-and-android-devices/"><u>Secure Your Account with 2FA: Integrating GitHub's New Feature Using iPhone & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-digital-keykeeper-essential-steps-for-safer-password-management-zdnet/"><u>Securing Your Digital Keykeeper: Essential Steps for Safer Password Management | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-turning-on-the-bitwarden-security-prompt-for-your-master-key/"><u>Step-by-Step: Turning On the Bitwarden Security Prompt for Your Master Key</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-understanding-the-impact-of-youtubes-creative-commons-on-videos/"><u>[New] In 2024, Understanding the Impact of YouTube's Creative Commons on Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-precisionsync-analyst-perspectives/"><u>[Updated] 2024 Approved PrecisionSync Analyst Perspectives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-basic-gamers-guide-to-outstanding-video-editing-software-for-2024/"><u>[Updated] Basic Gamers' Guide to Outstanding Video Editing Software for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-turbo-charge-your-playlist-exposure-youtube-style/"><u>[Updated] In 2024, Turbo-Charge Your Playlist Exposure, YouTube Style</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-revealing-the-best-screen-grabbers-for-web-use/"><u>2024 Approved Revealing the Best Screen Grabbers for Web Use</u></a></li>
+<li><a href="https://app-tips.techidaily.com/black-friday-exclusive-offer-save-big-with-a-50-discount-on-nordpass-premium-password-manager-zdnet-news/"><u>Black Friday Exclusive Offer: Save Big with a 50% Discount on NordPass Premium Password Manager | ZDNet News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-improved-performance-and-new-capabilities-with-the-updated-1password-mobile-version-now-live/"><u>Discover Improved Performance & New Capabilities with the Updated 1Password Mobile Version, Now Live!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easily-transition-your-saved-passwords-from-lastpass-to-icloud-for-windows-systems-zdnet/"><u>Easily Transition Your Saved Passwords From LastPass to iCloud for Windows Systems | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/half-price-savings-on-keeper-password-saver-secure-your-accounts-with-a-50-discount-techtoday/"><u>Half-Price Savings on Keeper Password Saver: Secure Your Accounts with a 50% Discount | TechToday</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-embrace-innovation-the-art-of-photo-video-making-with-pixiz/"><u>In 2024, Embrace Innovation The Art of Photo-Video Making with Pixiz</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-1password-assessment-superior-secure-password-handling-at-an-unbeatable-price-point-tech-insights/"><u>In-Depth 1Password Assessment: Superior, Secure Password Handling at an Unbeatable Price Point | Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-over-150m-accounts-how-google-activated-two-factor-authentication-by-default/"><u>Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-best-time-to-post-on-ig-for-maximum-reach-for-2024/"><u>The Best Time to Post on IG for Maximum Reach for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/top-3-livres-de-extracao-de-dvd-para-windows-1111-software-gratuitos-e-completos-baixe-agora/"><u>Top 3 Livres De Extração De DVD Para Windows 11/11: Software Gratuitos E Completos – Baixe Agora!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-free-password-managers-comprehensive-reviews-and-comparisons/"><u>Top Rated Free Password Managers - Comprehensive Reviews and Comparisons</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-rated-free-iphone-video-flipper-tools-updated-2023-for-2024/"><u>Updated Top-Rated Free iPhone Video Flipper Tools (Updated 2023) for 2024</u></a></li>
 </ul></div>
 

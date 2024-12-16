@@ -1,7 +1,7 @@
 ---
 title: Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet
-date: 2024-12-07T23:05:12.757Z
-updated: 2024-12-09T18:58:35.920Z
+date: 2024-12-11T22:33:41.603Z
+updated: 2024-12-16T00:47:32.684Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -112,7 +112,7 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -190,19 +190,18 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-polished-perfection-an-essential-youtube-video-editing-guide/"><u>[New] 2024 Approved From Raw Footage to Polished Perfection An Essential Youtube Video Editing Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-gamers-top-picks-1-ranked-4k-laptops/"><u>2024 Approved Gamers' Top Picks #1 Ranked 4K Laptops</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificial-intelligences-impact-on-distinguishing-fact-from-fiction-top-8-examples/"><u>Artificial Intelligence's Impact on Distinguishing Fact From Fiction: Top 8 Examples</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-how-microsofts-bing-chat-revolutionizes-communication-through-advanced-gpt-4-technology/"><u>Discover How Microsoft's Bing Chat Revolutionizes Communication Through Advanced GPT-4 Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-power-of-chatsonic-an-in-depth-review-revealing-essential-facts-about-this-advanced-ai-chatbot/"><u>Discover the Power of Chatsonic – An In-Depth Review Revealing Essential Facts About This Advanced AI Chatbot</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-why-chatai-gdt-and-aichat-stand-out-as-top-ranking-ai-chatbot-apps-for-downloads/"><u>Discover Why ChatAi GDT & AiChat Stand Out as Top-Ranking AI Chatbot Apps for Downloads</u></a></li>
-<li><a href="https://win-popular.techidaily.com/easy-steps-migrate-from-windows-7-or-81-to-windows-10-while-preserving-your-data/"><u>Easy Steps: Migrate From Windows 7 or 8.1 to Windows 10 While Preserving Your Data</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-communication-how-nova-chatgpt-is-setting-new-standards-in-ai-chatbot-conversations/"><u>Elevate Communication: How Nova ChatGPT Is Setting New Standards in AI Chatbot Conversations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-creating-accessible-content-with-captions-on-instagram-stories/"><u>Expert Advice: Creating Accessible Content with Captions on Instagram Stories</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-chatsonics-capabilities-an-extensive-review-revealing-insights-on-this-sophisticated-ai-communicator/"><u>Exploring Chatsonic's Capabilities: An Extensive Review Revealing Insights on This Sophisticated AI Communicator</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-mastering-youtube-views-secrets-for-a-million-followers/"><u>In 2024, Mastering Youtube Views Secrets for a Million Followers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-motorola-moto-g13-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Motorola Moto G13 Black and White | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-a24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy A24 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-overview-of-the-newest-ai-powered-chatbots-integrating-gpt-and-astrology/"><u>Top Rated Overview of the Newest AI-Powered Chatbots: Integrating GPT and Astrology</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-youtube-cameras-a-guide-for-novices-and-pros/"><u>[New] In 2024, Top YouTube Cameras A Guide for Novices & Pros</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-innovative-image-editing-on-ios-best-tools-to-erase-objects-from-photos/"><u>[New] Innovative Image Editing on iOS Best Tools to Erase Objects From Photos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-proven-methods-for-youtube-success-top-8-tools/"><u>[Updated] Proven Methods for YouTube Success - Top 8 Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-beat-a-thon-essential-playlists-for-tiktoks-hot-rappers/"><u>2024 Approved Beat-a-Thon Essential Playlists for TikTok's Hot Rappers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-exploring-how-youtube-picks-most-engaging-comments/"><u>2024 Approved Exploring How YouTube Picks Most Engaging Comments</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-senuti-app-evaluation-and-top-alternatives-for-both-windows-and-macos-users/"><u>Comprehensive Guide: Senuti App Evaluation & Top Alternatives for Both Windows & macOS Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-activating-an-itunes-gift-card-for-apples-ios-and-macos-platforms/"><u>Guide: Activating An iTunes Gift Card For Apple's iOS & macOS Platforms</u></a></li>
+<li><a href="https://discover-community.techidaily.com/high-definition-cartoon-dreams-float-away-with-our-balloon-wallpaper-by-yl-computing/"><u>High-Definition Cartoon Dreams: Float Away with Our Balloon Wallpaper by YL Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/need-help-resetting-your-itunes-login-details-explore-proven-strategies-for-recovery/"><u>Need Help Resetting Your iTunes Login Details? Explore Proven Strategies for Recovery</u></a></li>
+<li><a href="https://app-tips.techidaily.com/recover-your-missed-texts-and-voicemails-tips-for-retrieving-accidentally-erased-data-on-itunes/"><u>Recover Your Missed Texts and Voicemails: Tips for Retrieving Accidentally Erased Data on iTunes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-steps-to-take-if-itunes-fails-to-identify-your-iphone/"><u>Troubleshooting: Steps to Take if iTunes Fails to Identify Your iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-move-and-enjoy-your-itunes-collection-on-android-phones-and-tablets/"><u>Ultimate Guide to Move and Enjoy Your iTunes Collection on Android Phones & Tablets</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-how-to-enhance-your-digital-audio-experience-top-5-mp3-editor-reviews-for-2024/"><u>Updated How to Enhance Your Digital Audio Experience – Top 5 MP3 Editor Reviews for 2024</u></a></li>
 </ul></div>
 

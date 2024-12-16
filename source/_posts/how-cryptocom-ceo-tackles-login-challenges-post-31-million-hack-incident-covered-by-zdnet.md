@@ -1,7 +1,7 @@
 ---
 title: How Crypto.com CEO Tackles Login Challenges Post $31 Million Hack Incident Covered by ZDNet
-date: 2024-12-07T02:32:02.016Z
-updated: 2024-12-10T04:58:16.831Z
+date: 2024-12-15T06:39:35.254Z
+updated: 2024-12-16T07:35:15.759Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Crypto.com CEO Kris Marszalek responded to complaints from thousands of users about issues logging back into their accounts after the company was [forced](https://crypto.com/product-news/crypto-com-security-report-next-steps) to change security settings following [a hack last week](https://www.zdnet.com/article/fortune-favours-the-breached-crypto-com-admits-400-users-hit-in-hack/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Crypto.com CEO Kris Marszalek responded to complaints from thousands of users ab
 [![cybersecurity-lock-resized.jpg](https://www.zdnet.com/a/img/resize/5871b5ae5b589728bdc8064555d12823acf4b63e/2020/10/27/db3c0325-2b86-435b-8efa-93828deb6b56/cybersecurity-lock-resized.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best cyber insurance The cyber insurance industry is likely to go mainstream and is a simple cost of doing business. Here are a few options to consider.  Read now](https://www.zdnet.com/article/best-cyber-insurance/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On Monday, the company [admitted](https://www.zdnet.com/article/crypto-com-confirms-483-users-hit-in-attack-that-saw-over-31m-in-coins-withdrawn/) that 483 users were affected by unauthorized cryptocurrency withdrawals on their accounts, costing a total of "4,836.26 ETH, 443.93 BTC, and approximately US$66,200 in other cryptocurrencies." At the time of the attack, that amounted to about $31 million. 
@@ -80,24 +80,22 @@ Crypto.com created a program designed to refund users who were affected by the h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-screenplay-foundations-a-guide/"><u>[New] 2024 Approved Screenplay Foundations A Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unlocking-premiere-pros-lut-potential/"><u>[New] Unlocking Premiere Pro's LUT Potential</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elite-listings-easy-purchases-of-startup-youtube-revenue-streams-for-2024/"><u>[Updated] Elite Listings Easy Purchases of Startup YouTube Revenue Streams for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-memory-map-maker/"><u>[Updated] In 2024, Memory Map Maker</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revamp-your-chat-audio-experience-with-a-personalized-whatsapp-ringtone/"><u>2024 Approved Revamp Your Chat Audio Experience with a Personalized WhatsApp Ringtone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-and-fair-evaluation-of-airwatch-your-ultimate-guide/"><u>Comprehensive and Fair Evaluation of AirWatch - Your Ultimate Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-20-most-exceptional-lock-screen-utilities-tailored-for-android-smartphones/"><u>Discover the 20 Most Exceptional Lock Screen Utilities Tailored for Android Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-factual-inshot-video-editing-tool-of-2024-a-must-see/"><u>Discover the Top Factual InShot Video Editing Tool of 2024 - A MUST-SEE!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-and-use-the-free-ogg-media-player-compatible-with-pc-and-mac/"><u>Download & Use the Free OGG Media Player Compatible with PC & Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-photography-skills-discover-5-remarkable-tools-for-upgrading-and-perfecting-images-beyond-remini/"><u>Elevate Your Photography Skills: Discover 5 Remarkable Tools for Upgrading and Perfecting Images Beyond Remini</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-cross-platform-zoom-meeting-setup-guide/"><u>In 2024, Cross-Platform Zoom Meeting Setup Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-12-pro-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your iPhone 12 Pro Apple ID on MacBook</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-tecno-spark-go-2023-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Tecno Spark Go (2023) Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-dying-light-the-ultimate-guide-to-parkour-and-teamwork-in-a-post-apocalyptic-setting/"><u>Mastering Dying Light: The Ultimate Guide to Parkour and Teamwork in a Post-Apocalyptic Setting</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mumu-player-the-ultimate-powerful-android-emulation-tool-for-your-computer/"><u>MuMu Player: The Ultimate Powerful Android Emulation Tool for Your Computer</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/navigate-through-prime-virtual-bike-selections/"><u>Navigate Through Prime Virtual Bike Selections</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-iphone-a-comprehensive-guide-to-enabling-touch-id-and-passcode-protection/"><u>Securing Your iPhone: A Comprehensive Guide to Enabling Touch ID and Passcode Protection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193647-unlock-ultimate-convenience-and-safety-on-ios-discover-the-premier-password-protector-app/"><u>Unlock Ultimate Convenience & Safety on iOS - Discover the Premier Password Protector App!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-digital-visuals-8-creative-color-grading-ideas-for-2024/"><u>[New] Digital Visuals 8 Creative Color Grading Ideas for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-methods-to-flip-video-content-in-android/"><u>[New] Methods to Flip Video Content in Android</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-windows-based-podcast-options/"><u>[New] Premium Windows-Based Podcast Options</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-decoding-the-language-of-asmr-videos/"><u>[Updated] 2024 Approved Decoding the Language of ASMR Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-android-file-organizers-expert-opinions-and-comprehensive-reviews/"><u>Best Android File Organizers - Expert Opinions & Comprehensive Reviews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-platforms-and-tools-for-discreet-message-exchange/"><u>Best Free Platforms & Tools for Discreet Message Exchange</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-adding-emojis-on-your-android-device/"><u>Complete Guide: Adding Emojis on Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194092-enhance-your-cinematic-journey-with-the-ultimate-list-of-15-vr-film-apps-for-mobile-devices/"><u>Enhance Your Cinematic Journey with the Ultimate List of 15 VR Film Apps for Mobile Devices!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-how-to-add-edit-and-optimize-youtube-tagstitledescription-for-more-views/"><u>In 2024, How to Add, Edit and Optimize YouTube Tags/Title/Description for More Views</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-power-of-free-copyright-free-image-repositories/"><u>In 2024, Unleashing the Power of Free, Copyright-Free Image Repositories</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-fix-top-5-methods-for-forcing-a-close-on-stuck-mac-applications/"><u>Quick Fix: Top 5 Methods for Forcing a Close on Stuck Mac Applications</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalizing-your-ps5-gaming-credentials/"><u>Revitalizing Your PS5 Gaming Credentials</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-simplifying-the-setup-of-multiple-bluetooth-audio-devices-to-one-main-source/"><u>Step by Step: Simplifying the Setup of Multiple Bluetooth Audio Devices to One Main Source</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-on-android-rooting-using-elite-root-applications-both-gratis-and-subscription/"><u>Step-by-Step Tutorial on Android Rooting Using Elite ROOT Applications (Both Gratis and Subscription)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-social-image-saver-stealing-and-storing-gif-images-from-twitter/"><u>The Social Image Saver Stealing and Storing GIF Images From Twitter</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-time-worn-images-with-these-3-powerful-applications-for-modernizing-classic-photos/"><u>Transform Time-Worn Images with These 3 Powerful Applications for Modernizing Classic Photos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlimited-free-communication-tool-cross-platform-calling-and-text-service-for-smartphones-and-computers/"><u>Unlimited Free Communication Tool: Cross-Platform Calling & Text Service for Smartphones & Computers</u></a></li>
 </ul></div>
 

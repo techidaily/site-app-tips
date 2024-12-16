@@ -1,7 +1,7 @@
 ---
 title: Agnes Ro Reveals the Transformation in Modern Development Roles at Atlassian - Insights From Tech Visionary
-date: 2024-12-09T01:23:21.598Z
-updated: 2024-12-09T23:01:03.234Z
+date: 2024-12-09T01:38:30.397Z
+updated: 2024-12-15T22:14:40.050Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-premium-content-at-a-low-price-the-ultimate-list-of-free-intros-makers/"><u>[New] Premium Content at a Low Price The Ultimate List of Free Intros Makers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-samurais-shadowed-path-other-epic-warrior-games/"><u>[New] Samurai's Shadowed Path - Other Epic Warrior Games</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-lead-with-originality-10-tips-to-make-your-yt-shorts-shine/"><u>[Updated] 2024 Approved Lead With Originality 10 Tips to Make Your YT Shorts Shine</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-green-screen-landscape-for-webcam-enthusiasts/"><u>[Updated] Navigating the Green Screen Landscape for Webcam Enthusiasts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/approach/"><u>Approach</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ting-your-youtube-shorts-presence-with-impactful-strategies/"><u>Elevating Your YouTube Shorts Presence with Impactful Strategies</u></a></li>
-<li><a href="https://extra-information.techidaily.com/finding-the-right-sound-top-asmrists-advice/"><u>Finding the Right Sound Top ASMRists Advice</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-nokia-150-2023-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Nokia 150 (2023) lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://app-tips.techidaily.com/future-of-ai-innovations-in-the-coming-years-insights-and-predictions-zdnet/"><u>Future of AI Innovations in the Coming Years - Insights & Predictions | ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-itel-a60s-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Itel A60s Face Lock?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/innovating-nlp-how-sony-research-is-joining-forces-with-ai-singapore-spotlighted-by-zdnet/"><u>Innovating NLP: How Sony Research Is Joining Forces with AI Singapore, Spotlighted by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/square-and-cash-app-downtime-essential-info-for-entrepreneurs-tech-news/"><u>Square and Cash App Downtime: Essential Info for Entrepreneurs | Tech News</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-switching-from-windows-to-linux-mint-on-your-computer-tips-and-tricks/"><u>Step-by-Step Guide: Switching From Windows to Linux Mint on Your Computer - Tips & Tricks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-the-tangled-web-of-linuxopen-source-documentation-solutions-for-clarity/"><u>Taming the Tangled Web of Linux/Open Source Documentation: Solutions for Clarity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-now-how-cloud-services-are-evolving-according-to-industrys-premier-technology-visionaries/"><u>The Future Is Now: How Cloud Services Are Evolving According to Industry's Premier Technology Visionaries</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-a-world-of-visual-conversations-with-lipsync-a-game-changing-rival-to-microsoft-teams-and-zoom-on-zdnet/"><u>Unlock a World of Visual Conversations with LipSync: A Game-Changing Rival to Microsoft Teams and Zoom on ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-capturing-perfection-a-deep-dive-into-apeaksofts-technology/"><u>[New] 2024 Approved Capturing Perfection A Deep Dive Into Apeaksoft's Technology</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-step-1-to-50-building-a-foundation-for-mukbang-creation/"><u>[New] 2024 Approved Step 1 to 50 Building a Foundation for Mukbang Creation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-switch-installation-of-windows-11/"><u>[Updated] Navigating the Switch Installation of Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-overcoming-common-pitfalls-in-job-interviews/"><u>2024 Approved Overcoming Common Pitfalls in Job Interviews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/assess-your-expertise-on-coursera-discover-the-latest-from-zdnets-coverage-of-levelset-proficiency-exams/"><u>Assess Your Expertise on Coursera – Discover the Latest From ZDNet's Coverage of LevelSet Proficiency Exams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-workflow-embrace-the-developer-mindset-for-unmatched-efficiency-zdnet/"><u>Boost Your Workflow: Embrace the Developer Mindset for Unmatched Efficiency | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-essential-strategies-for-maximizing-your-windows-10-experience-pre-end-of-support-insights-from-zdnet/"><u>Five Essential Strategies for Maximizing Your Windows 10 Experience Pre-End of Support - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-anthrop-through-the-new-claude-plan-equips-companies-for-success-by-harnessing-large-scale-ai-superpowers-techzine/"><u>How Anthrop, Through the New Claude Plan, Equips Companies for Success by Harnessing Large-Scale AI Superpowers | TechZine</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-short-film-script-example/"><u>In 2024, Short Film Script Example</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-syncing-images-and-footage-on-iphone/"><u>In 2024, Syncing Images and Footage on iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-delayed-delivery-features-into-mozilla-thunderbird-a-comprehensive-guide/"><u>Integrating Delayed Delivery Features Into Mozilla Thunderbird: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/latest-breakthroughs-in-5g-networking-and-edge-tech-trends-top-picks-from-todays-market-zdnet/"><u>Latest Breakthroughs in 5G Networking & Edge Tech Trends: Top Picks From Today's Market (ZDNet)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-audio-change-apps-for-virtual-performers/"><u>Leading Audio Change Apps for Virtual Performers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-stealthy-update-ignites-consumer-backlash-an-in-depth-analysis/"><u>Microsoft's Stealthy Update Ignites Consumer Backlash - An In-Depth Analysis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-initialization-issue-with-vanguard-weapon-in-valorant-game/"><u>Resolved: Initialization Issue with Vanguard Weapon in Valorant Game</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-7-compelling-advantages-of-implementing-aiops-in-your-it-strategy/"><u>The Definitive Guide to 7 Compelling Advantages of Implementing AIOps in Your IT Strategy</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-prime-cloud-storage-options/"><u>Unveiling Prime Cloud Storage Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-ai-ventures-skyrocket-by-a-factor-of-ten-in-the-last-year-industry-report/"><u>ZDNet Reveals AI Ventures Skyrocket by a Factor of Ten in the Last Year - Industry Report</u></a></li>
 </ul></div>
 

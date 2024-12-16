@@ -1,7 +1,7 @@
 ---
 title: "Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet"
-date: 2024-12-03T18:37:55.020Z
-updated: 2024-12-09T23:02:15.709Z
+date: 2024-12-14T18:27:44.578Z
+updated: 2024-12-15T16:36:59.922Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-strategizing-the-open-door-to-market-success/"><u>[New] 2024 Approved Strategizing the Open Door to Market Success</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-innovative-gb-recorder-for-games-on-fbx/"><u>[New] Innovative GB Recorder for Games on FBX</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-essential-new-features-in-facebooks-repertoire-for-2024/"><u>[New] The Essential New Features in Facebook's Repertoire for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-valorant-screenshots-transformed-by-rapid-skilled-designers-for-2024/"><u>[Updated] Valorant Screenshots Transformed by Rapid, Skilled Designers for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-mastering-youtube-video-replays-your-comprehensive-tutorial/"><u>2024 Approved Mastering YouTube Video Replays Your Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-great.techidaily.com/copilot-pro-vs-chatgpt-plus-showdown-is-20-a-month-worth-it-for-advanced-ai-chatting-zdnet/"><u>Copilot Pro Vs. ChatGPT Plus Showdown: Is $20 a Month Worth It for Advanced AI Chatting? | ZDNET</u></a></li>
-<li><a href="https://win-dash.techidaily.com/epson-wf-2650-printer-driver-download-for-windows/"><u>Epson WF-2650 Printer Driver Download for Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-the-best-elearning-software-of-2023-detailed-comparisons-and-insights-zdnet/"><u>Explore the Best eLearning Software of 2023 - Detailed Comparisons and Insights | ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-does-open-source-shape-ethical-ai-development-exploring-perspectives-on-zdnet/"><u>How Does Open Source Shape Ethical AI Development? Exploring Perspectives on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/kubernetes-enhanced-with-codenotarys-new-software-bill-of-materials-service-the-latest-update-featured-by-zdnet/"><u>Kubernetes Enhanced with Codenotary’s New Software Bill of Materials Service - The Latest Update Featured by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-xr-and-spatial-tech-how-digital-twins-enhance-ux-for-businesses-insights-from-zdnet/"><u>Navigating XR & Spatial Tech: How Digital Twins Enhance UX for Businesses - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/regulatory-compliance/"><u>Regulatory Compliance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/streamline-your-files-management-on-windows-11-a-comprehensive-file-explorer-tutorial/"><u>Streamline Your Files Management on Windows 11 - A Comprehensive File Explorer Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-changing-landscape-for-software-engineers-perspectives-by-atlassians-agnes-ro-on-zdnet/"><u>The Changing Landscape for Software Engineers: Perspectives by Atlassian's Agnes Ro on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-roadmap-for-integrating-artificial-intelligence-in-businesses-intels-forecast-featuring-zdnet-report/"><u>The Roadmap for Integrating Artificial Intelligence in Businesses: Intel's Forecast [Featuring ZDNet Report]</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-battle-evaluating-streaming-prowess-between-chromecast-and-roku-devices/"><u>The Ultimate Battle: Evaluating Streaming Prowess Between Chromecast and Roku Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-6-must-have-task-management-tools-reviews-by-tech-experts/"><u>Top 6 Must-Have Task Management Tools : Reviews by Tech Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranking-screen-capture-tools-and-applications-a-comprehensive-review-by-zdnet/"><u>Top-Ranking Screen Capture Tools & Applications - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-playlist-tweaking-on-youtube/"><u>[New] The Ultimate Playlist Tweaking on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-vlcs-potential-for-mpeg-4-and-diverse-file-alterations/"><u>[New] Unlocking VLC's Potential for MPEG-4 and Diverse File Alterations</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-a-convenient-approach-to-changing-the-main-image-of-your-fb-page/"><u>[Updated] In 2024, A Convenient Approach to Changing the Main Image of Your FB Page</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigate-instagram-video-problems-with-ease-for-2024/"><u>[Updated] Navigate Instagram Video Problems with Ease for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-your-fcp-potential-with-these-10-plugs/"><u>[Updated] Unlock Your FCP Potential with These 10 Plugs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-magic5-ultimate-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-widening-chasm-of-data-expertise-innovative-strategies-from-a-leading-tech-firm-zdnet/"><u>Bridging the Widening Chasm of Data Expertise: Innovative Strategies From a Leading Tech Firm | ZDNET</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/build-a-custom-facebook-coverage-for-2024/"><u>Build a Custom Facebook Coverage for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/como-crear-una-copia-de-seguridad-en-vhd-de-la-imagen-del-sistema-para-windows-11-8-o-7/"><u>Cómo Crear Una Copia De Seguridad en VHD De La Imagen Del Sistema Para Windows 11, 8 O 7</u></a></li>
+<li><a href="https://app-tips.techidaily.com/devops-engineer-career-path-unveiling-the-pros-cons-and-realities-insights-from-zdnet/"><u>DevOps Engineer Career Path: Unveiling The Pros, Cons & Realities - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-artificial-intelligence-impacts-future-trends-in-cybersecurity-employment-opportunities-insights-from-zdnet/"><u>How Artificial Intelligence Impacts Future Trends in Cybersecurity Employment Opportunities: Insights From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/live-streaming-basics-tips-and-tricks-for-2024/"><u>Live Streaming Basics Tips and Tricks for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-tech-leadership-start-with-business-insight-zdnets-guide/"><u>Mastering Tech Leadership: Start with Business Insight | ZDNet's Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-generative-ai-hurdles-demonstrating-tangible-returns-on-investment-insights-from-zdnet/"><u>Overcoming Generative AI Hurdles: Demonstrating Tangible Returns on Investment - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-jobs-with-ai-unveiling-the-endless-possibilities-and-changes-by-zdnet-experts/"><u>The Future of Jobs with AI: Unveiling the Endless Possibilities & Changes by ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-work-the-revolutionary-impact-of-ai-agents-on-future-jobs/"><u>Transforming Work: The Revolutionary Impact of AI Agents on Future Jobs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-addressing-obsolete-technologies-is-crucial-insights-from-a-recent-mismanaged-upgrade-zdnet/"><u>Why Addressing Obsolete Technologies Is Crucial - Insights From a Recent Mismanaged Upgrade | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-top-innovators-are-embracing-open-source-strategies-according-to-zdnet/"><u>Why Top Innovators Are Embracing Open Source Strategies, According to ZDNet</u></a></li>
 </ul></div>
 

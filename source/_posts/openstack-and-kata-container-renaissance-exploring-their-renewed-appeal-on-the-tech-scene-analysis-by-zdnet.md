@@ -1,7 +1,7 @@
 ---
 title: "OpenStack and Kata Container Renaissance: Exploring Their Renewed Appeal on the Tech Scene - Analysis by ZDNET"
-date: 2024-12-07T04:33:36.734Z
-updated: 2024-12-09T18:24:09.477Z
+date: 2024-12-14T17:39:27.396Z
+updated: 2024-12-16T05:08:35.041Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-balancing-width-and-height-for-ultimate-videography/"><u>[New] In 2024, Balancing Width and Height for Ultimate Videography</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-best-webcam-recorders-for-windows-11/"><u>[New] In 2024, The Best Webcam Recorders for Windows 11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-master-your-screen-time-top-10-in-depth-guide-to-excellent-offline-ios-gaming/"><u>[New] Master Your Screen Time - Top 10 In-Depth Guide to Excellent Offline iOS Gaming</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-podcast-rss-feed-development/"><u>[New] Mastering Podcast RSS Feed Development</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beamforming-techniques-enable-antenna-arrays-to-direct-energy-towards-specific-users-or-locations-enhancing-signal-strength-and-reducing-interference-in-tho83/"><u>Beamforming Techniques Enable Antenna Arrays to Direct Energy Towards Specific Users or Locations, Enhancing Signal Strength and Reducing Interference in Those Areas.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/celona-partners-with-verizon-business-to-deliver-bespo-grok-private-5g-solutions-zdnet-coverage/"><u>Celona Partners with Verizon Business to Deliver Bespo Grok Private 5G Solutions - ZDNet Coverage</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-comprehensive-directory-for-got-ringtones-download/"><u>In 2024, The Comprehensive Directory for GoT Ringtones Download</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-twitch-broadcast-excellence-the-ultimate-5-guide/"><u>In 2024, Twitch Broadcast Excellence The Ultimate 5 Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-stealthy-update-ignites-consumer-backlash-an-in-depth-analysis/"><u>Microsoft's Stealthy Update Ignites Consumer Backlash - An In-Depth Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-upcoming-release-a-blessing-or-a-curse-unveiled-insights-from-zdnet/"><u>Microsoft's Upcoming Release: A Blessing or a Curse? Unveiled Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/open-sources-role-in-advancing-responsible-ai-development-expert-analysis-by-zdnet/"><u>Open Source's Role in Advancing Responsible AI Development | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/securing-streams-of-cash-from-content-creation/"><u>Securing Streams of Cash From Content Creation</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/soundscapes-for-success-the-art-of-music-on-tiktok-for-2024/"><u>Soundscapes for Success The Art of Music on TikTok for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-mastering-the-art-of-freezing-rows-and-columns-in-microsoft-excel/"><u>Step-by-Step Guide: Mastering the Art of Freezing Rows & Columns in Microsoft Excel</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-perfecting-your-video-game-broadcast-the-obs-way/"><u>[New] In 2024, Perfecting Your Video Game Broadcast The OBS Way</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ecrets-revealed-6-strategies-to-keep-your-youtube-audience-hooked-and-returning-for-2024/"><u>[New] Secrets Revealed 6 Strategies to Keep Your YouTube Audience Hooked and Returning for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-expert-suggestions-prime-frame-addition-software-2023-update/"><u>[Updated] In 2024, Expert Suggestions - Prime Frame Addition Software, 2023 Update</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-engagement-with-dual-screen-broadcasting-techniques-in-facebook/"><u>[Updated] Maximizing Engagement with Dual-Screen Broadcasting Techniques in Facebook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-financial-rewards-top-priorities-for-open-source-professionals-seeking-new-opportunities/"><u>Beyond Financial Rewards: Top Priorities for Open-Source Professionals Seeking New Opportunities</u></a></li>
+<li><a href="https://app-tips.techidaily.com/fortify-your-digital-space-safeguarding-homesme-pcs-with-microsofts-security-solutions/"><u>Fortify Your Digital Space: Safeguarding Home/SME PCs with Microsoft's Security Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-driver-for-your-brother-hl-l2380d-color-laser-multifunction-printer-on-windows/"><u>Get the Latest Driver for Your Brother HL-L2380D Color Laser Multifunction Printer on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-machine-expert-reviews-from-toms-hardware/"><u>Mastering Your Machine: Expert Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issues-with-sifu-games-frame-rate-and-smoothness-on-pc-systems/"><u>Resolved: Issues with Sifu Game's Frame Rate and Smoothness on PC Systems</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/step-by-step-guide-repairing-a-duplicated-ssd-that-fails-to-start-video-lesson/"><u>Step-by-Step Guide: Repairing a Duplicated SSD That Fails to Start - Video Lesson</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-professionals-drained-yet-hopeful-positive-trends-from-zdnet-analysis/"><u>Tech Professionals Drained Yet Hopeful: Positive Trends From ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-purpose-of-an-artificial-earth-plane-in-antenna-systems-can-be-similar-to-that-of-natural-ground-when-it-comes-to-reflecting-radio-waves-and-improving-s78/"><u>The Purpose of an Artificial Earth Plane in Antenna Systems Can Be Similar to that of Natural Ground when It Comes to Reflecting Radio Waves and Improving Signal Quality.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-professional-screen-recorders-for-2nite-expert-analysis-from-zdnet/"><u>The Ultimate List of Professional Screen Recorders for 2Nite: Expert Analysis From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-and-correcting-javascript-issues-in-your-discord-bot-code/"><u>Troubleshooting and Correcting JavaScript Issues in Your Discord Bot Code</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-windows-essential-tips-for-upgrading-to-a-pro-edition-with-zdnets-expert-advice/"><u>Unlocking the Power of Windows: Essential Tips for Upgrading to a Pro Edition with ZDNet's Expert Advice</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsofts-window-of-opportunity-shrinks-as-they-race-against-time-on-windows-11-tech-analysis/"><u>Urgent Challenge: Microsoft's Window of Opportunity Shrinks as They Race Against Time on Windows 11 | Tech Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/what-drives-open-source-talent-unveiling-the-essential-non-monetary-wants-in-their-job-quest-zdnet/"><u>What Drives Open-Source Talent? Unveiling the Essential Non-Monetary Wants in Their Job Quest | ZDNET</u></a></li>
 </ul></div>
 

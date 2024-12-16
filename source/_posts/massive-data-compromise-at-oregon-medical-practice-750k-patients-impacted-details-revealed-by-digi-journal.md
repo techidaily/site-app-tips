@@ -1,7 +1,7 @@
 ---
 title: "Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal"
-date: 2024-12-03T18:00:29.810Z
-updated: 2024-12-09T18:08:40.181Z
+date: 2024-12-12T00:32:17.776Z
+updated: 2024-12-16T05:51:18.700Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/0a9719ddcbae5c52ddb9477f8674bda6f7443fbaa
 The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it suffered a ransomware attack in July that led to the breach of sensitive employee and patient information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it
 [![2020-03-18-at-12-23-32-pm.jpg](https://www.zdnet.com/a/img/resize/3c34ebf72342b1f0704550e1e2edf445f0628572/2020/03/18/7c2e2258-7566-4e66-9059-a1a8aedf00b4/2020-03-18-at-12-23-32-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best security key While robust passwords help you secure your valuable online accounts, hardware-based two-factor authentication takes that security to the next level.  Read now](https://www.zdnet.com/article/best-security-key/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The breach involves the information of 750,000 patients and 522 current and former OAG employees. 
@@ -90,19 +90,20 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-step-by-step-for-entering-google-meet-via-devices/"><u>[New] 2024 Approved Step-by-Step for Entering Google Meet via Devices</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-capture-your-best-moments-top-8-mirrorless-cameras-for-you/"><u>[New] In 2024, Capture Your Best Moments Top 8 Mirrorless Cameras For You</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-harnessing-the-potential-of-quantum-hdr-imaging/"><u>[Updated] Harnessing the Potential of Quantum HDR Imaging</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620191219-7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-graphically-advanced-game-emulators-high-quality-visuals-and-optimal-frame-rates/"><u>Best Graphically Advanced Game Emulators: High-Quality Visuals & Optimal Frame Rates</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-uwu-text-to-speech-apps-mastering-anime-character-vocalization-techniques/"><u>Best UwU Text-to-Speech Apps: Mastering Anime Character Vocalization Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boosting-facebook-video-performance-for-2024/"><u>Boosting Facebook Video Performance for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/concealing-applications-a-step-by-step-guide-for-android-ios-devices/"><u>Concealing Applications: A Step-by-Step Guide for Android, iOS Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862785823-game-monitors-reimagined-the-all-new-gen-2-samsung-55-odyssey-at-record-low-prices/"><u>Game Monitors Reimagined: The All-New Gen 2 Samsung 55 Odyssey at Record Low Prices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-audio-discontinuity-problems-with-logitech-g930-headset/"><u>How to Fix Audio Discontinuity Problems with Logitech G930 Headset</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-zte-nubia-flip-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track ZTE Nubia Flip 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-t-series-youtube-revenue-an-overview/"><u>In 2024, T-Series YouTube Revenue An Overview</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-redownload-or-restore-your-bought-apps-and-in-app-items-on-ios/"><u>Step-by-Step Guide: Redownload or Restore Your Bought Apps & In-App Items on iOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-xvid-media-player-compatible-with-windows-macos-android-and-iphone/"><u>Top Rated Xvid Media Player: Compatible with Windows, MacOS, Android & iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-freelancers-guide-to-affordable-animation-methods/"><u>[New] In 2024, The Freelancer's Guide to Affordable Animation Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-drawing-characters-with-snaps/"><u>[Updated] In 2024, The Ultimate Guide to Drawing Characters with Snaps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-optimal-viewing-experience-for-facebook-video-playback-for-2024/"><u>[Updated] Optimal Viewing Experience for Facebook Video Playback for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-transformative-editing-mastering-blend-mode-applications/"><u>[Updated] Transformative Editing Mastering Blend Mode Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-full-simplemdm-essential-insights-for-ios-and-macos-users/"><u>Comprehensive Evaluation: Full SimpleMDM - Essential Insights for iOS and macOS Users</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-strategies-for-moving-music-files-to-your-samsung-galaxy-note-2/"><u>Effective Strategies for Moving Music Files to Your Samsung Galaxy Note 2</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-phantoms-reverse-video-capabilities/"><u>In 2024, Navigating Phantom's Reverse Video Capabilities</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-compre-point-guide-to-instagrams-inquiry-tool/"><u>In 2024, The Compre Point Guide to Instagram's Inquiry Tool</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-cyberlinks-actiondirector-features-benefits-and-competitors/"><u>In-Depth Analysis of CyberLink's ActionDirector: Features, Benefits & Competitors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-magisto-video-software-advantages-limitations-and-comparative-assessment/"><u>In-Depth Analysis of Magisto Video Software: Advantages, Limitations & Comparative Assessment</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-messaging-schedulers-reviewed-discover-the-top-10-picks-for-smartphones/"><u>Leading Messaging Schedulers Reviewed: Discover the Top 10 Picks for Smartphones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-angular-adjustments-in-vlc-player-for-2024/"><u>Mastering Angular Adjustments in VLC Player for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/shadow-spectators-on-ig-uncover-the-ultimate-list-of-incognito-gazers-for-content-sneak-peeks/"><u>Shadow Spectators on IG: Uncover the Ultimate List of Incognito Gazers for Content Sneak Peeks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simplified-approach-to-retrieve-lost-apps-from-your-ios-device/"><u>Simplified Approach to Retrieve Lost Apps From Your iOS Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-youcut-software-for-your-business-needs-the-complete-analysis/"><u>Unveiling the Power of YouCut Software for Your Business Needs - The Complete Analysis</u></a></li>
 </ul></div>
 

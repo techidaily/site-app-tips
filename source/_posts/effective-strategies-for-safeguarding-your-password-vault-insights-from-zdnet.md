@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Safeguarding Your Password Vault - Insights From ZDNet
-date: 2024-12-02T20:03:59.181Z
-updated: 2024-12-09T21:43:02.665Z
+date: 2024-12-13T20:15:46.675Z
+updated: 2024-12-16T06:33:52.844Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ Creating and remembering a unique and complex password for each of your accounts
 A good password manager will create, store, and apply strong and complex passwords across the board, thereby securing your accounts. I've used a password manager for years and wouldn't be able to juggle all my online accounts without it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -46,7 +46,7 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -66,7 +66,7 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -90,7 +90,7 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -139,18 +139,19 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-detailed-guide-to-optimal-full-screen-displaying/"><u>[New] 2024 Approved Detailed Guide to Optimal Full Screen Displaying</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-elevate-your-stream-with-these-5-top-tier-cams/"><u>[New] Elevate Your Stream with These 5 Top-Tier Cams</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-curating-youtube-music-experiences/"><u>[Updated] In 2024, Curating YouTube Music Experiences</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-quest-for-thrills-a-chronicle-of-action-adventures-best-ten/"><u>[Updated] In 2024, Quest for Thrills A Chronicle of Action-Adventures' Best Ten</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-polity-playlists-the-premier-gamified-elections/"><u>2024 Approved Polity Playlists The Premier Gamified Elections</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-revolution-in-business-understanding-the-shift-to-hundreds-of-models-for-operational-excellence-perspectives-by-zdnet/"><u>AI Revolution in Business: Understanding the Shift to Hundreds of Models for Operational Excellence - Perspectives by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asia-at-forefront-non-cash-payments-projected-to-reach-16-trillion/"><u>Asia at Forefront: Non-Cash Payments Projected to Reach $1.6 Trillion</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cio-warns-against-complacency-in-ai-development-advocates-for-innovative-thinkers-over-simplistic-ai-prompts-insights-from-zdnet/"><u>CIO Warns Against Complacency in AI Development; Advocates for Innovative Thinkers over Simplistic AI Prompts - Insights From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/correct-the-dimmed-extend-option-on-windows-explorer/"><u>Correct the Dimmed Extend Option on Windows Explorer</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/open-source-as-a-magnet-for-elite-creativity-and-innovation-zdnet/"><u>Open Source as a Magnet for Elite Creativity and Innovation | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-business-intelligence-direct-access-to-corporate-chief-engineers-via-ai-chains-zdnet/"><u>Revolutionizing Business Intelligence: Direct Access to Corporate Chief Engineers via AI Chains | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-next-horizon-in-employment-how-ai-agents-are-set-to-permanently-reshape-our-careers/"><u>The Next Horizon in Employment: How AI Agents Are Set to Permanently Reshape Our Careers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-adventure-awaits-in-these-top-5-samsung-gear-vr-titles/"><u>[New] Adventure Awaits in These Top 5 Samsung Gear VR Titles</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-open-source-video-tools-for-every-desktop-environment/"><u>[New] Top Open Source Video Tools for Every Desktop Environment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/original-winxdvd-master-edition-seamless-dvd-ripping-ai-powered-enhancement-and-cross-platform-media-conversion/"><u>[Original] WinXDVD Master Edition: Seamless DVD Ripping, AI-Powered Enhancement, and Cross-Platform Media Conversion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leveraging-extra-footage-a-guide-to-b-roll-utilization/"><u>2024 Approved Leveraging Extra Footage A Guide to B Roll Utilization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-black-battery-setups-for-gopro-hero5-genuine-and-imitators/"><u>2024 Approved Ultimate Black Battery Setups for GoPro Hero5 – Genuine & Imitators</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-dj-how-does-machine-curated-music-stack-up-against-human-selection/"><u>AI DJ: How Does Machine-Curated Music Stack Up Against Human Selection?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-biz-marketers-now-utilizing-artificial-intelligence-insights-from-zdnet/"><u>AI Integration: One-Third of Biz Marketers Now Utilizing Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-brilliance-with-the-q500-drone-for-2024/"><u>Capturing Brilliance with the Q500 Drone for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-chinas-leap-into-the-future-with-advanced-supercomputing-strategies/"><u>Empowering China's Leap Into the Future with Advanced Supercomputing Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolving-threats-demand-modern-cyber-skills-as-security-professionals-grapple-with-outdated-infrastructures/"><u>Evolving Threats Demand Modern Cyber Skills as Security Professionals Grapple with Outdated Infrastructures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-lag-stable-playthrough-of-assassins-creed-odyssey-on-windows/"><u>No More Lag - Stable Playthrough of Assassin's Creed Odyssey on Windows!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-singapores-2nbillion-commitment-to-supercharge-its-it-infrastructure-and-elevate-digital-solutions-tech-insight/"><u>Unveiling Singapore's $2.nBillion Commitment to Supercharge Its IT Infrastructure and Elevate Digital Solutions | Tech Insight</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-x-controller-assembly-disassembled/"><u>Xbox Series X Controller Assembly Disassembled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-pull-of-open-source-for-global-leaders-in-innovation/"><u>ZDNet Explores the Pull of Open Source for Global Leaders in Innovation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Fortifying Your Password Vault Against Threats | ZDNet"
-date: 2024-12-04T16:09:15.517Z
-updated: 2024-12-10T02:38:47.575Z
+date: 2024-12-12T00:10:22.760Z
+updated: 2024-12-15T16:10:31.719Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ Creating and remembering a unique and complex password for each of your accounts
 A good password manager will create, store, and apply strong and complex passwords across the board, thereby securing your accounts. I've used a password manager for years and wouldn't be able to juggle all my online accounts without it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -46,7 +46,7 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -66,7 +66,7 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -90,7 +90,7 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -139,14 +139,21 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-conquer-youtube-searches-with-these-top-11-seo-strategies/"><u>[New] Conquer YouTube Searches with These Top 11 SEO Strategies</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-integrating-facebook-livestream-into-your-roku-setup/"><u>[New] Integrating Facebook Livestream Into Your Roku Setup</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278148-discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-back-online-three-quick-fixes-for-an-unresponsive-ipad-in-itunes-mode/"><u>Get Back Online: Three Quick Fixes for an Unresponsive iPad in iTunes Mode</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-6s-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone 6s Plus and iPad?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-tecno-spark-10-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Tecno Spark 10 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/reviving-lost-conversations-a-step-by-step-guide-to-recovering-deleted-messages-in-itunes/"><u>Reviving Lost Conversations: A Step-by-Step Guide to Recovering Deleted Messages in iTunes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/share-your-creations-from-imovie-directly-to-your-itunes-library/"><u>Share Your Creations From iMovie Directly to Your iTunes Library</u></a></li>
-<li><a href="https://fox-access.techidaily.com/simplifying-mixers-interface-for-macos-streamers-for-2024/"><u>Simplifying Mixer's Interface for macOS Streamers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-easy-steps-to-record-your-snapchat-screen/"><u>[New] 2024 Approved Easy Steps to Record Your Snapchat Screen</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-twitch-livestream-hacks-to-boost-engagement-and-followers/"><u>[New] In 2024, Twitch Livestream Hacks to Boost Engagement and Followers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-simplify-collaboration-with-mematics-cloud-notes/"><u>[New] Simplify Collaboration with Mematic’s Cloud Notes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-efficient-gaming-footage-with-camcapture/"><u>[Updated] Efficient Gaming Footage with CamCapture</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-slow-motion-photography-in-phantom-cameras/"><u>2024 Approved Mastering Slow-Motion Photography in Phantom Cameras</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1728508710032-windows-11/"><u>在Windows 11上如何找回被移除的照片</u></a></li>
+<li><a href="https://app-tips.techidaily.com/avoid-music-chaos-a-detailed-walkthrough-on-updatingreinstalling-itunes-while-preserving-your-library/"><u>Avoid Music Chaos: A Detailed Walkthrough on Updating/Reinstalling iTunes While Preserving Your Library</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620278966-discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-steps-removing-redundant-songs-from-your-itunes-library/"><u>Easy Steps: Removing Redundant Songs From Your iTunes Library</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-favorite-songs-and-movies-for-free-directly-from-itunes-no-cost-at-all/"><u>Get Your Favorite Songs and Movies for Free Directly From iTunes – No Cost at All</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-xr-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone XR to Mac? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/resolving-authorization-and-connection-errors-on-itunes-platforms-a-comprehastern-guide/"><u>Resolving Authorization and Connection Errors on iTunes Platforms – A Comprehastern Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-solution-getting-your-itunes-home-sharing-back-on-track/"><u>Step-by-Step Solution: Getting Your iTunes Home Sharing Back on Track</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-on-capturing-your-screen-using-obs-and-saving-it-as-an-mp4-file/"><u>Step-by-Step Tutorial on Capturing Your Screen Using OBS and Saving It as an MP4 File</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-rebuilding-and-refreshing-your-itunes-library-with-3-successful-strategies/"><u>Ultimate Tutorial: Rebuilding and Refreshing Your iTunes Library with 3 Successful Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/worth-the-extra-bucks-unveiling-5-compelling-reasons-to-choose-chatgpt-plus/"><u>Worth the Extra Bucks? Unveiling 5 Compelling Reasons to Choose ChatGPT Plus</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Rise of Cloud Tech Vs. Current Dominance of On-Site Solutions - A Deep Dive with ZDNet
-date: 2024-12-09T04:54:51.858Z
-updated: 2024-12-10T00:57:13.743Z
+date: 2024-12-08T19:07:44.907Z
+updated: 2024-12-15T20:54:24.292Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-streaming-soundscapes-on-your-iphone-for-2024/"><u>[New] Streaming Soundscapes on Your iPhone for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-virtual-speedway-selection-top-5-picks-revealed-for-2024/"><u>[Updated] Virtual Speedway Selection Top 5 Picks Revealed for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-platforms-for-virtual-shows/"><u>2024 Approved Premium Platforms for Virtual Shows</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-science-behind-time-warp-visuals/"><u>2024 Approved The Science Behind Time Warp Visuals</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/best-disney-dvd-converter-simple-and-effective-ways-to-digitize-your-favorite-films/"><u>Best Disney DVD Converter - Simple & Effective Ways to Digitize Your Favorite Films</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-project-outcomes-using-agile-methodology-learn-the-6-essential-strategies-for-effective-software-design-zdnet/"><u>Elevate Your Project Outcomes Using Agile Methodology: Learn the 6 Essential Strategies for Effective Software Design | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-microsoft-edge-experience-discover-premier-add-ons-endorsed-by-zdnet/"><u>Enhance Microsoft Edge Experience: Discover Premier Add-Ons Endorsed by ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-the-persistent-steam-not-loading-problem-top-7-strategies/"><u>How to Resolve the Persistent Steam Not Loading Problem: Top 7 Strategies</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-asus-rog-phone-7-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Asus ROG Phone 7 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-excel-cell-consolidation-techniques-with-expert-advice-from-zdnet/"><u>Master Excel Cell Consolidation Techniques with Expert Advice From ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-a58-4g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from A58 4G</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-troubleshooting-guide-for-a-smooth-roblox-experience-on-desktop-update-2024/"><u>Quick Troubleshooting Guide for a Smooth Roblox Experience on Desktop - Update 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/safety/"><u>Safety</u></a></li>
-<li><a href="https://app-tips.techidaily.com/silent-release-sparks-fury-unveiling-the-controversial-feature-from-microsoft-on-zdnet/"><u>Silent Release Sparks Fury: Unveiling the Controversial Feature From Microsoft on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/surpassing-all-others-in-performance-and-user-friendliness-the-unrivaled-excellence-of-linux-mint-asterisk-22-zdnet-insight/"><u>Surpassing All Others in Performance and User-Friendliness: The Unrivaled Excellence of Linux Mint Asterisk 22 | ZDNET Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-mastering-linux-skills-through-elite-foundation-courses-and-intensive-bootcamps/"><u>Ultimate Guide to Mastering Linux Skills Through Elite Foundation Courses & Intensive Bootcamps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-codenotarys-sbom-software-bill-of-materials-platform-innovative-solutions-for-managing-dependencies-in-kubernetes-environments-zdnet/"><u>Unveiling Codenotary's SBOM (Software Bill of Materials) Platform: Innovative Solutions for Managing Dependencies in Kubernetes Environments - ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-community-builders-gamer-youtubers/"><u>[New] 2024 Approved Community Builders Gamer YouTubers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-exploring-the-full-potential-of-obs-screen-capture/"><u>[New] 2024 Approved Exploring the Full Potential of OBS Screen Capture</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-step-into-tomorrow-installation-guide-for-windows-11/"><u>[New] A Step Into Tomorrow Installation Guide for Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-best-8-screenshot-and-video-editing-tools-for-phones/"><u>[New] The Best 8 Screenshot & Video Editing Tools for Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-clear-black-boards-in-your-youtube-videos/"><u>[Updated] 2024 Approved How to Clear Black Boards in Your YouTube Videos?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unmatched-playwrights-arena/"><u>[Updated] Unmatched Playwright's Arena</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-nvidia-unveils-new-accelerated-instruction-modules-aims-for-enhanced-gen-ai-performance-tech-news-on-zdnet/"><u>1. NVIDIA Unveils New Accelerated Instruction Modules (AIMs) for Enhanced GEN AI Performance - Tech News on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/all-in-one-microsoft-experience-bridging-work-life-and-study-with-the-latest-teams-update-on-zdnet/"><u>All-in-One Microsoft Experience: Bridging Work, Life, and Study with the Latest Teams Update on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-recent-patch-might-escalate-evening-tech-woes-experts-at-zdnet-caution/"><u>Microsoft's Recent Patch Might Escalate Evening Tech Woes, Experts at ZDNet Caution</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prepare-for-windows-11-end-of-life-your-top-5-solutions-to-keep-your-pc-running-smoothly/"><u>Prepare for Windows 11 End of Life: Your Top 5 Solutions to Keep Your PC Running Smoothly</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/quick-guide-easy-entry-into-windows-11-advanced-setup-menu/"><u>Quick Guide: Easy Entry Into Windows 11 Advanced Setup Menu</u></a></li>
+<li><a href="https://app-tips.techidaily.com/raising-the-profile-of-it-in-cx-initiatives-strategies-for-success-a-deep-dive-by-zdnet/"><u>Raising the Profile of IT in CX Initiatives: Strategies for Success - A Deep Dive by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simplifying-systems-management-red-hats-strategic-use-of-ai-to-support-administrators-zdnet/"><u>Simplifying Systems Management: Red Hat's Strategic Use of AI to Support Administrators | ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-instagram-savvy-strategists-guide-to-understanding-engagement-figures/"><u>The Instagram Savvy Strategist’s Guide to Understanding Engagement Figures</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-leading-iam-tools-as-ranked-by-industry-experts/"><u>The Ultimate Guide to Leading IAM Tools , as Ranked by Industry Experts</u></a></li>
 </ul></div>
 

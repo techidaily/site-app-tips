@@ -1,7 +1,7 @@
 ---
 title: "Unlocking a Safer Digital Life: A Detailed Review of Two Revolutionary Passwordless Managers"
-date: 2024-12-08T22:14:19.303Z
-updated: 2024-12-09T17:48:47.165Z
+date: 2024-12-13T04:06:01.272Z
+updated: 2024-12-16T00:55:55.565Z
 tags:
   - password-manager
 categories:
@@ -34,7 +34,7 @@ Should you ditch your master password completely? I took the plunge with both [D
 My conclusion: There's a passwordless password manager in your future, but only technically sophisticated customers should plunge in today.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting up a passwordless account
@@ -54,7 +54,7 @@ Screenshot by Ed Bott/ZDNET
 With those tasks out of the way, you can import your existing passwords and add new ones. More importantly, you now have a device that you can use to set up access to the password vault on other devices, with no master password required.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting up additional devices
@@ -98,7 +98,7 @@ The dealbreaker for me, though, came when I tried to export my passwords from th
 Given those beta headaches, I decided to delete my passwordless 1Password account and try again in a few months. But Dashlane was impressive enough to make me seriously consider switching.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the risk?
@@ -112,7 +112,7 @@ So, what happens if you can't access any of those trusted devices? You're locked
 Both Dashlane and 1Password offer an alternative in the form of a recovery key. That's a randomly generated alphanumeric code (Dashlane's key is 28 characters long; 1Password uses a 56- character recovery key) that you print out and store in a safe place. If you're ever in a situation where you don't have a PC or mobile device that's signed in to your account, you can break the glass and use that recovery key as a last resort. But you'll never need to type it under normal circumstances, meaning it's resistant to phishing, keyloggers, and other hacking tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should you switch to a passwordless account?
@@ -151,24 +151,14 @@ I was impressed enough by [Dashlane](https://www.tkqlhce.com/click-9041660-15578
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-photography-revolution-toolwizs-2023-app-insights/"><u>[New] Photography Revolution Toolwiz's 2023 App Insights</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-terraria-modifications-guide/"><u>[Updated] 2024 Approved Advanced Terraria Modifications Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1password-goes-mobile-with-significant-enhancement-see-whats-changed-zdnet/"><u>1Password Goes Mobile with Significant Enhancement, See What's Changed - ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/camera-essentials-for-adventure-videographers-for-2024/"><u>Camera Essentials for Adventure Videographers for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cut-costs-and-boost-security-grab-keeper-password-manager-for-half-price-shop-at-zdnet-today/"><u>Cut Costs and Boost Security! Grab Keeper Password Manager for Half Price - Shop at ZDNET Today!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/download-and-install-stellar-photo-pro-v8-secure-your-software-now/"><u>Download and Install Stellar Photo Pro v8 - Secure Your Software Now!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-1password-why-this-top-tier-password-safe-is-a-smart-investment-tech-insights-from-zdnet/"><u>In-Depth Analysis of 1Password: Why This Top-Tier Password Safe Is a Smart Investment - Tech Insights From ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-guide-to-automatic-text-generation-with-google-docs-voice-recognition-for-2024/"><u>In-Depth Guide to Automatic Text Generation with Google Docs Voice Recognition for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-password-manager-solutions-for-2cy2024-thoroughly-reviewed-by-tech-gurus-at-zdnet/"><u>Leading Password Manager Solutions for 2CY2024: Thoroughly Reviewed by Tech Gurus at ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/security-breach-lastpass-compromised-once-more-critical-update-from-zdnet/"><u>Security Breach: LastPass Compromised Once More - Critical Update From ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-for-effortless-updating-of-microsoft-surface-drivers/"><u>Step-by-Step Tutorial for Effortless Updating of Microsoft Surface Drivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-viewing-of-taylor-swifts-movie-collection/"><u>Step-by-Step Viewing of Taylor Swift's Movie Collection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/switch-from-lastpass-to-icloud-passwords-on-windows-a-step-by-step-guide-zdnet/"><u>Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-s24plus-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy S24+ for Streaming | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-zdnets-2024-ranking-of-leading-lastpass-replacements/"><u>Ultimate Guide: ZDNet's 2024 Ranking of Leading LastPass Replacements</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-huge-savings-with-dashlanes-password-manager-snipe-premium-at-just-50-off-today/"><u>Unlock Huge Savings with Dashlane's Password Manager - Snipe Premium at Just 50% Off Today!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-security-a-detailed-analysis-and-user-assessment-of-premium-password-manager-1password-authoritative-review-by-cryptosafe-zdnet/"><u>Unlocking Security: A Detailed Analysis & User Assessment of Premium Password Manager, 1Password | Authoritative Review by CryptoSafe ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-computer-hardware-with-toms-technology-insights/"><u>Unveiling the Latest in Computer Hardware with Tom's Technology Insights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-tailored-solutions-for-high-quality-iptv-capture/"><u>[New] Tailored Solutions for High-Quality IPTV Capture</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-charting-success-top-15-investment-educational-videos/"><u>[Updated] Charting Success Top 15 Investment Educational Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-unlocking-secure-vaults-a-guide-to-activating-bitwardens-master-password-prompt-feature/"><u>1. Unlocking Secure Vaults: A Guide to Activating Bitwarden's Master Password Prompt Feature</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-at-wwdc-2022-a-new-era-of-authentication-begins-tech-news/"><u>Apple Unveils Revolutionary Passkey at WWDC 2022 - A New Era of Authentication Begins | Tech News</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3s-latest-update-enhanced-with-new-editing-features-awaiting-improvement/"><u>DALL-E 3'S Latest Update: Enhanced with New Editing Features Awaiting Improvement</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-security-while-watching-the-hidden-dangers-of-weak-passwords-in-streaming-platforms-cyberwatchers-blog/"><u>Enhance Security While Watching: The Hidden Dangers of Weak Passwords in Streaming Platforms | CyberWatchers Blog</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exclusive-offer-on-jem-authenticator-and-password-manager-enhance-login-security-with-ease-dive-into-zdnet/"><u>Exclusive Offer on JEM Authenticator & Password Manager: Enhance Login Security with Ease - Dive Into ZDNet!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-menace-black-ops-cold-war-pc-troubleshooting-guide/"><u>Fixing the Silent Menace: Black Ops Cold War PC Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/user-confidentiality-in-ai-driven-interactions/"><u>User Confidentiality in AI-Driven Interactions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ditching LastPass? Master Managing Passwords with iCloud on Windows - A Complete Guide by ZDNet
-date: 2024-12-04T03:19:50.278Z
-updated: 2024-12-09T19:14:29.383Z
+date: 2024-12-12T22:31:19.106Z
+updated: 2024-12-16T03:15:32.334Z
 tags:
   - password-manager
 categories:
@@ -19,6 +19,10 @@ Image: Maria Diaz/ZDNET
 
 An [Apple ID](https://www.zdnet.com/article/your-friends-could-help-stop-you-getting-locked-out-of-your-apple-id/) gives you access to many perks within the Apple software ecosystem, and one of them is [Keychain](https://www.zdnet.com/article/how-to-locate-a-password-with-the-macos-keychain/): iCloud's password manager. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
@@ -32,14 +36,10 @@ If you've been around for the past 10 or so years, you know that most services r
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use iCloud as a password manager on Windows
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open iCloud for Windows
 
@@ -51,6 +51,10 @@ Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your iCloud Passwords
 
 Once you sign in to your account -- if you haven't already -- you can access your account, add another account, and make any necessary changes.
@@ -60,10 +64,6 @@ Go to Passwords, and click Apply.
 Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Make sure Passwords is on and click Apply
 
@@ -86,7 +86,7 @@ Maria Diaz/ZDNET
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
@@ -105,6 +105,10 @@ Enter the verification code.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Try out the password manager
 
 After you set up iCloud for [Windows](https://www.zdnet.com/article/windows-11-22h2-how-to-get-microsofts-latest-os-update-and-whats-coming-next/) as a password manager and your browser extension, you can try it out by going to a website and trying to log in.
@@ -116,10 +120,6 @@ Maria Diaz/ZDNET
 Like LastPass, the browser extension will let you fill in your login information. 
 
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -167,16 +167,19 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-how-to-stream-videos-on-twitter-using-your-smartphone/"><u>[New] How To Stream Videos on Twitter Using Your Smartphone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-mastery-in-maintaining-a-clean-feed-best-twitter-tools-for-2024/"><u>[New] Mastery in Maintaining a Clean Feed Best Twitter Tools for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-comprehensive-guide-understanding-the-delete-for-everyone-option-in-whatsapp/"><u>A Comprehensive Guide: Understanding the 'Delete for Everyone' Option in WhatsApp</u></a></li>
-<li><a href="https://common-error.techidaily.com/defeating-the-ps4-error-code-ce-34878-0-with-simple-fixes/"><u>Defeating the PS4 Error Code CE-34878-0 with Simple Fixes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevating-dialogue-and-storytelling-in-filmmaking/"><u>Elevating Dialogue and Storytelling in Filmmaking</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-iphone-call-clarity-expert-tips/"><u>Enhancing iPhone Call Clarity: Expert Tips</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/fast-und-sicher-wiederherstellen-sie-ihre-playstation-4-daten-expertenanleitung-fur-den-perfekten-neustart/"><u>Fast Und Sicher Wiederherstellen Sie Ihre PlayStation 4 Daten – Expertenanleitung Für Den Perfekten Neustart!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/repeated-security-incidents-at-lastpass-latest-update-from-zdnet/"><u>Repeated Security Incidents at LastPass - Latest Update From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-accounts-now-unbeatable-jem-authenticator-and-password-management-solution-insights-from-zdnet/"><u>Secure Your Accounts Now! Unbeatable JEM Authenticator & Password Management Solution | Insights From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ongoing-issue-of-reused-passwords-in-the-face-of-security-breaches-cybersecurity-insights/"><u>The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-top-techniques-for-mastering-srt-file-generation/"><u>Unveiling Top Techniques for Mastering SRT File Generation</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-comparative-analysis-is-pickup-the-best-editor-for-your-android-device/"><u>[New] Comparative Analysis Is PickUp The Best Editor for Your Android Device?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-gain-popularity-power-secrets-to-staff-picked-videos-on-vimeo/"><u>[Updated] Gain Popularity Power Secrets to Staff-Picked Videos on Vimeo</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-why-isnt-the-video-display-on-sony-a6400/"><u>[Updated] In 2024, Why Isn't the Video Display on Sony A6400?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-premium-peak-predictor-unveil-top-8-rankings/"><u>[Updated] Premium Peak Predictor Unveil Top 8 Rankings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-prevent-freezing-of-streamed-videos-in-chrome/"><u>2024 Approved Prevent Freezing of Streamed Videos in Chrome</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2024s-ultimate-guide-to-free-password-management-tools-professional-insights-and-ratings/"><u>2024'S Ultimate Guide to Free Password Management Tools: Professional Insights & Ratings</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/boosting-chromes-velocity-a-guide-to-accelerating-your-web-browser-in-5-steps/"><u>Boosting Chrome's Velocity: A Guide to Accelerating Your Web Browser in 5 Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-protons-latest-innovation-a-fully-secured-password-safe-with-unbreakable-end-to-end-encryption/"><u>Introducing Proton's Latest Innovation: A Fully Secured Password Safe With Unbreakable End-to-End Encryption</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protonmail-unveils-new-secure-password-management-tool-featuring-military-grade-encryption/"><u>ProtonMail Unveils New Secure Password Management Tool Featuring Military-Grade Encryption</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-entire-staff-with-1password-unlock-ultimate-protection-for-only-1995-monthly-it-business-solutions/"><u>Securing Your Entire Staff with 1Password - Unlock Ultimate Protection for Only $19.95 Monthly | IT Business Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tier-voice-to-text-applications-for-2024/"><u>Top Tier Voice to Text Applications for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-ranking-mirrorless-camera-models/"><u>Top-Ranking Mirrorless Camera Models</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-macos-privacy-easy-steps-to-retrieve-stored-passwords-from-apples-keychain/"><u>Unlocking macOS Privacy: Easy Steps to Retrieve Stored Passwords From Apple’s Keychain</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unraveling-whatsapps-voice-transmission-techniques-for-2024/"><u>Unraveling WhatsApp's Voice Transmission Techniques for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Securing the Cloud: Don’t Fall Victim to Hacking - Spot and Fix These Flaws Now! | ZDNet"
-date: 2024-12-08T02:18:38.142Z
-updated: 2024-12-10T00:17:46.458Z
+date: 2024-12-13T00:45:28.832Z
+updated: 2024-12-15T17:56:06.520Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -116,7 +116,7 @@ Analysis of identity and access management (IAM) polices taking into account hun
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -137,7 +137,7 @@ Another practice that isn't helping IT departments is [poor password security](h
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### special feature
@@ -157,7 +157,7 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -183,24 +183,22 @@ IT departments should also consider whether regular accounts need administrator 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-youtube-fundamentals-made-simple-top-8-learning-resources/"><u>[Updated] 2024 Approved YouTube Fundamentals Made Simple Top 8 Learning Resources</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>5 Easy Ways to Change Location on YouTube TV On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-as-a-savior-for-overworked-it-staff-mitigating-job-burnout-and-alert-fatigue-insights/"><u>AI as a Savior for Overworked IT Staff - Mitigating Job Burnout and Alert Fatigue Insights</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-google-pixel-7a-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-points-exploring-how-generative-artificial-intelligence-is-revolutionizing-user-interface-design-featured-on-zdnet/"><u>Beyond Clicks & Points: Exploring How Generative Artificial Intelligence Is Revolutionizing User Interface Design | Featured on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-audacity-over-convenience-bank-cios-call-to-elevate-ai-challenges-dismiss-lazy-prompt-creation-exclusive-on-zdnet/"><u>Embracing Audacity Over Convenience: Bank CIO's Call to Elevate AI Challenges, Dismiss Lazy Prompt Creation - Exclusive on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-opportunities-for-new-players-in-the-ai-model-development-arena-insights-from-zdnet/"><u>Exploring Opportunities for New Players in the AI Model Development Arena - Insights From ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/guaranteeing-the-safety-of-your-assets-top-strategies-on-exchanges-insights-from-yl-computing-experts/"><u>Guaranteeing the Safety of Your Assets: Top Strategies on Exchanges - Insights From YL Computing Experts</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-huawei-nova-y71-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Huawei Nova Y71 phone? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-structuring-stimulating-podcast-sneak-peeks/"><u>In 2024, Structuring Stimulating Podcast Sneak Peeks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-where-is-youtube-video-manager-all-you-need-to-know/"><u>In 2024, Where Is Youtube Video Manager? [All You Need to Know]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-web-hosting-providers-in-depth-analysis-by-professionals-pcmag/"><u>Leading Web Hosting Providers : In-Depth Analysis by Professionals | PCMag</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-ai-limitations-an-in-depth-look-at-precision-challenges-by-zdnet/"><u>Mastering AI Limitations: An In-Depth Look at Precision Challenges by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-digital-defense-the-urgent-call-for-enhanced-cybersecurity-expertise-amidst-legacy-system-challenges/"><u>Navigating the Digital Defense: The Urgent Call for Enhanced Cybersecurity Expertise Amidst Legacy System Challenges</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-path-to-becoming-a-chief-artificial-intelligence-officer-insights-and-strategies/"><u>Navigating the Path to Becoming a Chief Artificial Intelligence Officer | Insights & Strategies</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-professional-results-without-the-professionals-diy-movie-making-for-beginners-for-2024/"><u>New Professional Results Without the Professionals DIY Movie Making for Beginners for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-reviving-an-unresponsive-hp-display-unit-solved/"><u>Step-by-Step Guide to Reviving an Unresponsive HP Display Unit [SOLVED]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-growth-of-edge-devices-and-its-impact-on-job-prospects-an-exploration-by-zdnet/"><u>The Growth of Edge Devices and Its Impact on Job Prospects - An Exploration by ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bridging-soundscapes-and-visuals-essentials-for-innovative-asmr-videos/"><u>[Updated] 2024 Approved Bridging Soundscapes & Visuals – Essentials for Innovative ASMR Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-sponsoring-made-simple-boosting-your-channel-budget-efficiently/"><u>[Updated] 2024 Approved Sponsoring Made Simple Boosting Your Channel Budget Efficiently</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-optimizing-your-brands-presence-in-spotify-advertising/"><u>[Updated] Optimizing Your Brand's Presence in Spotify Advertising</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-6-exceptional-contact-widget-apps-for-android-ranked/"><u>Best 6 Exceptional Contact Widget Apps for Android - Ranked!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-cyberlink-actiondirector-advantages-disadvantages-and-top-substitutes/"><u>Complete Guide to CyberLink ActionDirector: Advantages, Disadvantages & Top Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-15-no-cost-texting-solutions-for-your-android-device/"><u>Discover the Top 15 No-Cost Texting Solutions for Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620191079-discover-the-ultimate-list-of-free-user-friendly-android-notes-applications-the-best-picks-you-need/"><u>Discover the Ultimate List of FREE, User-Friendly Android Notes Applications: The Best Picks You Need!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-endless-possibilities-access-free-cracked-applications-for-ios-and-android-via-appcake-today/"><u>Experience Endless Possibilities: Access Free, Cracked Applications for iOS & Android via AppCake Today!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-oppo-find-n3-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo Find N3 Phone Screen?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-6-plus-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 6 Plus With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-7-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 7 Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/periscope-insights-accessibility-costs-and-signup-guide-for-2024/"><u>Periscope Insights Accessibility, Costs & Signup Guide for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2603842-9781782792543-shamanic-plant-medicine-san-pedro/"><u>Shamanic Plant Medicine - San Pedro | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-high-quality-video-players-optimized-for-your-android-tablet/"><u>Top 10 High-Quality Video Players Optimized for Your Android Tablet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-optimization-tools-to-supercharge-your-android-experience/"><u>Top 10 Optimization Tools to Supercharge Your Android Experience</u></a></li>
+<li><a href="https://win-updates.techidaily.com/understanding-and-fixing-display-driver-has-stopped-responding-mistakes-on-your-pc-insights-from-yl-computing/"><u>Understanding and Fixing 'Display Driver Has Stopped Responding' Mistakes on Your PC - Insights From YL Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/whatsapp-secrets-revealed-how-to-join-and-chat-with-others-even-if-you-dont-want-to-share-your-mobile-number/"><u>WhatsApp Secrets Revealed: How to Join and Chat with Others Even If You Don't Want to Share Your Mobile Number</u></a></li>
 </ul></div>
 

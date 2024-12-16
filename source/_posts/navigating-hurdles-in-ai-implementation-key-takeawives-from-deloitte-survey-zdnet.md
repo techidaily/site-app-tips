@@ -1,7 +1,7 @@
 ---
 title: "Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET"
-date: 2024-12-07T21:56:06.107Z
-updated: 2024-12-10T03:21:04.061Z
+date: 2024-12-09T21:02:23.387Z
+updated: 2024-12-16T06:20:55.060Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-noworrycapture-quick-and-easy-win11-recordings-for-2024/"><u>[New] NoWorryCapture - Quick and Easy Win11 Recordings for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-timeless-media-capturing-device-for-2024/"><u>[New] Timeless Media Capturing Device for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/as-the-skills-shortage-in-data-analytics-intensifies-discover-how-a-forward-thinking-enterprise-is-addressing-it-zdnet/"><u>As the Skills Shortage in Data Analytics Intensifies, Discover How a Forward-Thinking Enterprise Is Addressing It | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/busting-top-5-fallacies-surrounding-the-profitability-of-data-sharing-techwise-insights/"><u>Busting Top 5 Fallacies Surrounding the Profitability of Data Sharing | TechWise Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-you-master-artificial-intelligence-without-technical-expertise-understanding-the-need-for-varied-education-in-complex-systems-zdnet/"><u>Can You Master Artificial Intelligence Without Technical Expertise? Understanding the Need for Varied Education in Complex Systems | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/half-of-all-biz-marketers-now-leverage-ai-tools-insights-from-zdnet/"><u>Half of All Biz Marketers Now Leverage AI Tools: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ibm-survey-highlights-growing-skepticism-among-corporate-heads-towards-it-discover-the-factors-zdnet/"><u>IBM Survey Highlights Growing Skepticism Among Corporate Heads Towards IT - Discover the Factors | ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo Y78t? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-mastering-srt-editing-on-macos-a-comprehensive-guide/"><u>In 2024, Mastering SRT Editing on macOS A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-robust-ai-watermarks-expert-strategies-revealed-by-zdnet/"><u>Mastering Robust AI Watermarks: Expert Strategies Revealed by ZDNet</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/prime-video-strategies-selecting-perfect-format-for-youtube/"><u>Prime Video Strategies – Selecting Perfect Format for YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quantum-hdrs-role-in-modern-photography-trends-for-2024/"><u>Quantum HDR's Role in Modern Photography Trends for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721202719515-stellar-secure-file-destruction-wizard-for-windows-automated-regular-purge-settings/"><u>Stellar Secure File Destruction Wizard for Windows - Automated Regular Purge Settings</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/447115-9781101133255-the-complete-idiots-guide-to-connecting-with-your-angels/"><u>The Complete Idiot's Guide to Connecting with Your Angels | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rising-popularity-of-low-codeno-code-development-understanding-whos-ready-to-embrace-it-perspectives-by-zdnet/"><u>The Rising Popularity of Low-Code/No-Code Development: Understanding Who's Ready to Embrace It | Perspectives by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-ui-interactions-the-rise-of-generative-ai-and-the-end-of-traditional-cursor-controls-insights-from-zdnet/"><u>Transforming UI Interactions: The Rise of Generative AI and the End of Traditional Cursor Controls - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/windows-10-fixed-how-to-overcome-critical-process-dieded-error-with-7-effective-methods-and-a-pro-tip/"><u>Windows 10 FIXED: How to Overcome 'CRITICAL PROCESS DIEDED' Error with 7 Effective Methods and a Pro Tip</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-complete-pathway-to-success-with-your-first-facebook-live/"><u>[New] 2024 Approved The Complete Pathway to Success with Your First Facebook Live</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-insiders-guide-to-on-screen-text-in-youtube-media/"><u>[New] The Insider's Guide to On-Screen Text in YouTube Media</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-propel-your-youtube-presence-upwards-by-thousands/"><u>[Updated] In 2024, Propel Your YouTube Presence Upwards by Thousands</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-ai-horizons-decoding-the-titles-and-responsibilities-of-tomorrows-job-roles-defined-by-tech-progress/"><u>Beyond AI Horizons: Decoding the Titles and Responsibilities of Tomorrow's Job Roles Defined by Tech Progress</u></a></li>
+<li><a href="https://app-tips.techidaily.com/closing-the-gap-between-desire-and-effort-in-building-responsible-ai-unpacked-by-zdnets-latest-analysis/"><u>Closing the Gap Between Desire and Effort in Building Responsible AI - Unpacked by ZDNET's Latest Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-learn-how-to-download-and-use-apps-on-your-samsung-smart-tv/"><u>Comprehensive Guide: Learn How To Download & Use Apps On Your Samsung Smart TV</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-up-space-5-best-video-compression-apps-for-iphone-and-ipad-for-2024/"><u>Free Up Space 5 Best Video Compression Apps for iPhone and iPad for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/gsl-innovation-unveiled-the-pearson-and-mondly-duo/"><u>GSL Innovation Unveiled - The Pearson & Mondly Duo</u></a></li>
+<li><a href="https://app-tips.techidaily.com/non-techies-embrace-ai-why-understanding-complicated-networks-requires-diverse-educational-strategies-zdnet/"><u>Non-Techies, Embrace AI: Why Understanding Complicated Networks Requires Diverse Educational Strategies | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preparing-leaders-for-ai-integration-essential-steps-recommended-by-zdnet/"><u>Preparing Leaders for AI Integration: Essential Steps Recommended by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-emergence-of-immediate-innovation-a-disparate-spread-across-industries/"><u>The Emergence of Immediate Innovation - A Disparate Spread Across Industries.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-quest-for-ethical-artificial-intelligence-why-more-action-needed-despite-universal-agreement-insights-from-zdnet/"><u>The Quest for Ethical Artificial Intelligence: Why More Action Needed Despite Universal Agreement? Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-secret-behind-open-source-magnetism-for-elite-innovators-a-deep-dive-with-zdnets-perspective/"><u>The Secret Behind Open Source Magnetism for Elite Innovators - A Deep Dive with ZDNet's Perspective</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-pause-in-windows-gpsvc-errors/"><u>Troubleshooting Pause in Windows GPSVC Errors</u></a></li>
 </ul></div>
 

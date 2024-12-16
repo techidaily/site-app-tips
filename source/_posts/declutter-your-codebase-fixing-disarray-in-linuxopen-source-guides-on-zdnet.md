@@ -1,7 +1,7 @@
 ---
 title: "Declutter Your Codebase: Fixing Disarray in Linux/Open Source Guides on ZDNet."
-date: 2024-12-04T04:53:31.815Z
-updated: 2024-12-09T19:31:01.828Z
+date: 2024-12-09T04:27:38.639Z
+updated: 2024-12-15T17:26:08.489Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-captivating-imagery-with-these-20-top-video-thumbnail-fonts/"><u>[New] Captivating Imagery with These 20 Top Video Thumbnail Fonts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-speedy-steps-scribbling-down-slides-in-ppt/"><u>[New] In 2024, Speedy Steps Scribbling Down Slides in PPT</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-quickclip-artisan/"><u>[Updated] QuickClip Artisan</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-artisans-approach-to-archiving-facebook-discussions-for-2024/"><u>[Updated] The Artisan's Approach to Archiving Facebook Discussions for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advancing-c-suite-digital-literacy-a-guide-to-tech-education-in-six-steps-zdnet/"><u>Advancing C-Suite Digital Literacy: A Guide to Tech Education in Six Steps | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asia-dominates-the-surge-in-non-cash-payments-expected-to-reach-16-trillion-zdnet-insights/"><u>Asia Dominates the Surge in Non-Cash Payments Expected to Reach $1.6 Trillion | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/debunking-common-false-beliefs-in-monetizing-data-assets-the-zdnet-perspective/"><u>Debunking Common False Beliefs in Monetizing Data Assets - The ZDNet Perspective</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-6s-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dive-into-business-before-technology-to-excel-as-a-tech-team-leader-strategies-by-zdnet/"><u>Dive Into Business Before Technology to Excel as a Tech Team Leader | Strategies by ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-editing-skills-switch-to-our-pro-grade-video-converter-for-advanced-features/"><u>Elevate Your Editing Skills: Switch to Our Pro-Grade Video Converter for Advanced Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illusory-motion-capture-guide/"><u>In 2024, Illusory Motion Capture Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-samsung-galaxy-f14-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Samsung Galaxy F14 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-your-career-trajectory-with-ai-strategies-for-tech-professionals-on-zdnet/"><u>Mastering Your Career Trajectory with AI: Strategies for Tech Professionals on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-balance-between-ai-advancements-and-job-expansion-within-the-cybersecurity-sector-insights-from-zdnet/"><u>The Balance Between AI Advancements and Job Expansion Within the Cybersecurity Sector: Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-strategies-for-declining-useless-meeting-invites-tech-insights/"><u>Top 5 Strategies for Declining Useless Meeting Invites | Tech Insights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-8-best-practices-in-pc-and-microphone-sounds-logging/"><u>[Updated] 2024 Approved 8 Best Practices in PC and Microphone Sounds Logging</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-maximizing-revenue-a-complete-framework-for-tracking-youtube-views-and-income/"><u>[Updated] In 2024, Maximizing Revenue A Complete Framework for Tracking YouTube Views & Income</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-essential-techniques-for-funimate-video-extraction/"><u>2024 Approved Essential Techniques for Funimate Video Extraction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-filter-guide-to-superior-zoom-quality/"><u>2024 Approved The Ultimate Filter Guide to Superior Zoom Quality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-pointing-exploring-the-impact-of-generative-ai-on-ux-zdnet-analysis/"><u>Beyond Clicks and Pointing: Exploring the Impact of Generative AI on UX | ZDNet Analysis</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comment-recuperer-vos-donnees-guides-experts-et-reponses-completes-sur-la-restauration-de-fichiers-perdus/"><u>Comment Récupérer Vos Données? Guides Experts Et Réponses Complètes Sur La Restauration De Fichiers Perdus</u></a></li>
+<li><a href="https://app-tips.techidaily.com/from-citizens-to-coders-how-low-code-and-no-code-is-revolutionizing-development-in-it/"><u>From Citizens to Coders: How Low-Code and No-Code Is Revolutionizing Development in IT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-conversione-da-mp4-ad-avi-come-usare-il-servizio-di-convertitore-online-di-movavi/"><u>Gratis Conversione Da MP4 Ad AVI: Come Usare Il Servizio Di Convertitore OnLine Di Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-tracked-fine-arts-edits-made-easy-with-windows-10-paint-application/"><u>In 2024, Fast-Tracked Fine Arts Edits Made Easy with Windows 10 Paint Application</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-nokia-c12-plus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Nokia C12 Plus to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-challenges-unlocking-the-full-potential-of-ai-in-your-business-strategy-zdnet/"><u>Navigating Challenges: Unlocking the Full Potential of AI in Your Business Strategy | ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pioneering-time-lapse-mastery-full-slomo-app-evaluation-2024/"><u>Pioneering Time-Lapse Mastery Full SloMo App Evaluation, 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapore-invests-24-billion-in-enhancing-ict-frameworks-and-digital-service-offerings-a-deep-dive-into-the-national-strategy/"><u>Singapore Invests $2.4 Billion in Enhancing ICT Frameworks & Digital Service Offerings: A Deep Dive Into the National Strategy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolution-of-creativity-and-commerce-introducing-the-next-generation-ai-developers-unlocking-new-potential-in-tech/"><u>The Evolution of Creativity & Commerce: Introducing the Next Generation AI Developers - Unlocking New Potential in Tech</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-overlooked-foundation-of-ai-success-enhancing-machine-learning-with-essential-data-insights/"><u>The Overlooked Foundation of AI Success: Enhancing Machine Learning with Essential Data Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-complete-ai-workflow-engaging-with-organizations-leading-tech-expertise-zdnet/"><u>Unveiling the Complete AI Workflow: Engaging with Organization's Leading Tech Expertise | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/utilizing-artificial-intelligence-the-key-strategy-to-alleviate-job-burnout-and-combat-alert-overload-for-it-professionals-insights-from-zdnet/"><u>Utilizing Artificial Intelligence: The Key Strategy to Alleviate Job Burnout & Combat Alert Overload for IT Professionals | Insights From ZDNet</u></a></li>
 </ul></div>
 

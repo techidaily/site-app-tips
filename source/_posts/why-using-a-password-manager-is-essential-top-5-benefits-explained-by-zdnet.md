@@ -1,7 +1,7 @@
 ---
 title: "Why Using a Password Manager Is Essential: Top 5 Benefits Explained by ZDNet"
-date: 2024-12-07T04:36:36.337Z
-updated: 2024-12-09T21:32:43.966Z
+date: 2024-12-15T00:52:08.484Z
+updated: 2024-12-15T16:55:35.578Z
 tags:
   - password-manager
 categories:
@@ -97,10 +97,6 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fshould-you-use-your-browsers-built-in-password-manager%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fshould-you-use-your-browsers-built-in-password-manager%2F "Twitter") 
@@ -108,10 +104,6 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 Direct LinkEmbed Code
 
 Close Modal Dialog
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** recommends
 
@@ -169,6 +161,10 @@ In this article, I explain why I consider a password manager essential. I also t
 
 * **See: [Best password manager in 2021](https://www.zdnet.com/article/best-password-manager/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The case for password managers 
 
 You can choose from dozens of third-party password manager apps and services, both commercial and open source. Despite some differences in user experience, they are all similar in their core features. On a PC running Windows or Linux, on a Mac running MacOS, or on a mobile device, you install an app that manages a database containing sets of credentials (usernames, passwords, and other required details). The contents of the database are protected with AES-256 encryption. To unlock the password database, you enter a decryption key (your master password) that only you know, and then allow the program to fill in the saved credentials so you can sign in on a webpage or app. 
@@ -205,7 +201,7 @@ Most password managers also allow you to customize the length and complexity of 
 With the possible exceptions of [John Forbes Nash, Jr.](https://en.wikipedia.org/wiki/A%5FBeautiful%5FMind%5F%28film%29), and [Raymond Babbitt](https://en.wikipedia.org/wiki/Rain%5FMan), mere mortals are not capable of such feats of randomization. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3) Phishing Protection 
@@ -243,6 +239,10 @@ And so you wind up keeping an encrypted list of passwords that are not exactly u
 **"If someone steals my password file, they have all my passwords."**
 
 No, they don't. They have an AES-256 encrypted blob that is, for all intents and purposes, useless gibberish. The only way to extract its secrets is with the decryption key, which you and you alone know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Security
 
@@ -285,7 +285,7 @@ Any password manager solution is better than none.
 The simplest solution is to use the password management tools built into your default browser or operating system. That option works especially well for anyone who is technically unsophisticated, has a limited number of credentials to store, and uses hardware and services from a single ecosystem. If you're setting things up for a friend or relative who has a Mac and an iPhone, for example, Apple's Keychain will suffice. Those who live in Google's ecosystem can probably get by with Chrome's password manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### read this
@@ -305,7 +305,7 @@ We've put together a list of the best free and paid options here: [Best Password
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Related stories:
@@ -330,18 +330,24 @@ We've put together a list of the best free and paid options here: [Best Password
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfect-playtime-toy-cars-and-games/"><u>[Updated] Perfect Playtime Toy Cars & Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-techniques-for-deciphering-meaning-in-youtube-snippets/"><u>2024 Approved Expert Techniques for Deciphering Meaning in YouTube Snippets</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-share-worthiness-creator/"><u>2024 Approved Ultimate Share Worthiness Creator</u></a></li>
-<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-technology-at-wwdc-2022-zdnets-exclusive-coverage/"><u>Apple Unveils Revolutionary Passkey Technology at WWDC 2022 - ZDNet's Exclusive Coverage</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cryptocom-executive-addresses-user-concerns-following-major-31m-security-breach-insights-from-zdnet/"><u>Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/easy-conversion-guide-transforming-avi-files-into-popular-formats-such-as-mp4-mov-and-more/"><u>Easy Conversion Guide: Transforming AVI Files Into Popular Formats Such as MP4, MOV & More</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/enhance-dji-flight-aesthetics-start-with-free-trial-lutts/"><u>Enhance DJI Flight Aesthetics – Start With Free Trial LUTTs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/huge-black-friday-blowout-get-nordpass-premium-at-half-price-secure-your-passwords-now/"><u>Huge Black Friday Blowout! Get NordPass Premium at Half Price - Secure Your Passwords Now!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-refining-zoom-visuals-proactive-measures/"><u>In 2024, Refining Zoom Visuals Proactive Measures</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-wallets-1password-joins-forces-with-brex-to-simplify-secure-transactions-according-to-zdnet-coverage/"><u>Revolutionizing Digital Wallets: 1Password Joins Forces with Brex to Simplify Secure Transactions, According to ZDNet Coverage</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-phishing-scams-impersonating-leaders-dhl-microsoft-and-whatsapp-in-the-spotlight/"><u>Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unmasking-crypto-illusions-a-revealing-paper-challenges-bitcoins-anonymity-claims/"><u>Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-bring-a-chuckle-to-life-generating-text-memes/"><u>[New] Bring a Chuckle to Life Generating Text Memes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-get-creative-effortlessly-top-10-sticker-enhancing-apps-for-smartphones-for-2024/"><u>[New] Get Creative, Effortlessly Top 10 Sticker-Enhancing Apps for Smartphones for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastering-camera-roll-sharing-in-just-a-few-steps/"><u>[New] Mastering Camera Roll Sharing in Just a Few Steps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-clipmaster-software/"><u>[Updated] 2024 Approved ClipMaster Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-prime-dialogue-draft-directory/"><u>[Updated] In 2024, Prime Dialogue Draft Directory</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1password-goes-mobile-with-significant-enhancement-see-whats-changed-zdnet/"><u>1Password Goes Mobile with Significant Enhancement, See What's Changed - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apache-introduces-security-fix-in-version-2170-for-log4js-dos-issue-tech-news-by-zdnet/"><u>Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-zte-nubia-flip-5g-by-drfone-android/"><u>How to Bypass FRP from ZTE Nubia Flip 5G?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-1password-why-this-top-tier-password-safe-is-a-smart-investment-tech-insights-from-zdnet/"><u>In-Depth Analysis of 1Password: Why This Top-Tier Password Safe Is a Smart Investment - Tech Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-password-manager-solutions-for-2cy2024-thoroughly-reviewed-by-tech-gurus-at-zdnet/"><u>Leading Password Manager Solutions for 2CY2024: Thoroughly Reviewed by Tech Gurus at ZDNET</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximize-your-intel-imacs-potential-with-our-in-depth-upgrade-guide/"><u>Maximize Your Intel iMac's Potential with Our In-Depth Upgrade Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/picsart-in-detail-the-ultimate-guide-to-2024-updates/"><u>PicsArt in Detail The Ultimate Guide to 2024 Updates</u></a></li>
+<li><a href="https://win-info.techidaily.com/schnelles-starten-mit-einer-doppelsteckplatz-nvme-ssd-perfekt-klonen/"><u>Schnelles Starten Mit Einer Doppelsteckplatz-NVMe SSD - Perfekt Klonen!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/security-breach-lastpass-compromised-once-more-critical-update-from-zdnet/"><u>Security Breach: LastPass Compromised Once More - Critical Update From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/switch-from-lastpass-to-icloud-passwords-on-windows-a-step-by-step-guide-zdnet/"><u>Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-4-ways-for-apple-iphone-8-to-mac-mirroring-drfone-by-drfone-ios/"><u>Top 4 Ways for Apple iPhone 8 to Mac Mirroring | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-zdnets-2024-ranking-of-leading-lastpass-replacements/"><u>Ultimate Guide: ZDNet's 2024 Ranking of Leading LastPass Replacements</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-huge-savings-with-dashlanes-password-manager-snipe-premium-at-just-50-off-today/"><u>Unlock Huge Savings with Dashlane's Password Manager - Snipe Premium at Just 50% Off Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-security-a-detailed-analysis-and-user-assessment-of-premium-password-manager-1password-authoritative-review-by-cryptosafe-zdnet/"><u>Unlocking Security: A Detailed Analysis & User Assessment of Premium Password Manager, 1Password | Authoritative Review by CryptoSafe ZDNET</u></a></li>
 </ul></div>
 

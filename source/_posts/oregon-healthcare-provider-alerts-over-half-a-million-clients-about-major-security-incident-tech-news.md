@@ -1,7 +1,7 @@
 ---
 title: Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News
-date: 2024-12-08T17:47:24.415Z
-updated: 2024-12-10T02:24:28.715Z
+date: 2024-12-14T17:01:32.322Z
+updated: 2024-12-16T07:52:13.473Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it suffered a ransomware attack in July that led to the breach of sensitive employee and patient information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it
 [![2020-03-18-at-12-23-32-pm.jpg](https://www.zdnet.com/a/img/resize/3c34ebf72342b1f0704550e1e2edf445f0628572/2020/03/18/7c2e2258-7566-4e66-9059-a1a8aedf00b4/2020-03-18-at-12-23-32-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best security key While robust passwords help you secure your valuable online accounts, hardware-based two-factor authentication takes that security to the next level.  Read now](https://www.zdnet.com/article/best-security-key/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The breach involves the information of 750,000 patients and 522 current and former OAG employees. 
@@ -90,22 +90,21 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-boosting-vimeo-videos-accelerating-playback/"><u>[New] Boosting Vimeo Videos Accelerating Playback</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-key-tips-for-locating-your-preferred-discord-server-for-2024/"><u>[New] Key Tips for Locating Your Preferred Discord Server for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-ultimate-video-mastery-for-professional-vimeo-users-for-2024/"><u>[Updated] Ultimate Video Mastery for Professional Vimeo Users for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-tips-to-handle-unintended-self-presence-in-video-conversations/"><u>2024 Approved Tips to Handle Unintended Self-Presence in Video Conversations</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-your-pathway-to-successful-youtube-beginnings-techniques-1-and-2/"><u>2024 Approved Your Pathway to Successful YouTube Beginnings (Techniques 1 & 2)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-methods-for-sharing-big-videos-via-whatsapp-on-your-iphone/"><u>Effective Methods for Sharing Big Videos via WhatsApp on Your iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-strategies-managing-your-visibility-and-last-seen-timestamp-on-whatsapp/"><u>Expert Strategies: Managing Your Visibility and Last Seen Timestamp on WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-intricacies-of-whatsapps-delete-for-all-functionality/"><u>Exploring the Intricacies of WhatsApp's 'Delete for All' Functionality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuit-avi-videos-naar-flv-konvertereen-onlinelastige-mobavivi-losungen/"><u>Gratuit AVI-Video's Naar FLV Konvertereen - Onlinelastige Mobavivi Lösungen</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guaranteed-methods-restore-deleted-whatsapp-content-on-your-iphone-including-messages-photos-videos-and-audio/"><u>Guaranteed Methods: Restore Deleted WhatsApp Content on Your iPhone Including Messages, Photos, Videos & Audio</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-discreetly-adjust-and-verify-whatsapps-last-seen-feature-with-proven-tips/"><u>How to Discreetly Adjust and Verify WhatsApp's 'Last Seen' Feature with Proven Tips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/swift-solutions-retrieving-your-lost-whatsapp-messages-on-iphone-with-simple-techniques/"><u>Swift Solutions: Retrieving Your Lost WhatsApp Messages on iPhone with Simple Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-skyborne-duo-faceoff-dji-mavic-pro-and-gopro-karma/"><u>The Skyborne Duo Faceoff DJI Mavic Pro & GoPro Karma</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-on-restoring-past-whatsapp-dialogues-and-mastering-the-art-of-unarchiving-texts/"><u>The Ultimate Tutorial on Restoring Past WhatsApp Dialogues & Mastering the Art of Unarchiving Texts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/update-your-contact-info-a-step-by-step-guide-to-changing-your-phone-number-on-whatsapp/"><u>Update Your Contact Info: A Step-by-Step Guide to Changing Your Phone Number on WhatsApp</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treaming-tunes-quick-methods-for-youtube-videos-in-imovie-for-2024/"><u>[New] Streaming Tunes Quick Methods for Youtube Videos in iMovie for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-explore-creative-boundaries-with-high-quality-affects-plug-ins/"><u>[Updated] In 2024, Explore Creative Boundaries with High-Quality Affects Plug-Ins</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1password-analysis-is-this-top-tier-password-solution-a-smart-investment-insights-from-tech-experts/"><u>1Password Analysis: Is This Top-Tier Password Solution a Smart Investment? - Insights From Tech Experts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-transforming-personal-snaps-into-motion-stories/"><u>2024 Approved Transforming Personal Snaps Into Motion Stories</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-magic5-ultimate-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor Magic5 Ultimate? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-technology-at-wwdc-2022-zdnets-exclusive-coverage/"><u>Apple Unveils Revolutionary Passkey Technology at WWDC 2022 - ZDNet's Exclusive Coverage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-googles-latest-gemini-ai-superior-alternative-to-chatgpt/"><u>Assessing Google's Latest Gemini AI: Superior Alternative to ChatGPT?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cryptocom-executive-addresses-user-concerns-following-major-31m-security-breach-insights-from-zdnet/"><u>Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/exceptional-film-repair-with-impressive-feedback/"><u>Exceptional Film Repair with Impressive Feedback</u></a></li>
+<li><a href="https://app-tips.techidaily.com/huge-black-friday-blowout-get-nordpass-premium-at-half-price-secure-your-passwords-now/"><u>Huge Black Friday Blowout! Get NordPass Premium at Half Price - Secure Your Passwords Now!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-navigate-past-edgenuity-stealthy-study-strategies/"><u>In 2024, Navigate Past Edgenuity Stealthy Study Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/key-technique-to-integrate-gopro-content-within-cohesive-spherical-videography-for-2024/"><u>Key Technique to Integrate GoPro Content Within Cohesive Spherical Videography for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-security-my-experience-with-top-passwordless-password-manager-tools-the-clear-winner/"><u>Mastering Security: My Experience with Top Passwordless Password Manager Tools – The Clear Winner!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/west-virginia-hospital-data-compromised-following-phishing-scheme-insights-by-zdnet/"><u>West Virginia Hospital Data Compromised Following Phishing Scheme - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zerofoxs-strategic-acquisition-of-idx-and-merger-with-landf-forms-a-mega-14b-cybersecurity-giant-insights-from-zdnet/"><u>ZeroFox's Strategic Acquisition of IDX and Merger with L&F Forms a Mega $1.4B Cybersecurity Giant - Insights From ZDNet</u></a></li>
 </ul></div>
 

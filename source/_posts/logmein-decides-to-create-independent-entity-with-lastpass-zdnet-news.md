@@ -1,7 +1,7 @@
 ---
 title: LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News
-date: 2024-12-02T20:23:11.349Z
-updated: 2024-12-09T17:14:50.908Z
+date: 2024-12-13T19:44:44.157Z
+updated: 2024-12-16T06:04:36.962Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ LogMeIn [announced](https://www.logmein.com/newsroom/press-release/2021/logmein-
 The cloud-based solutions company explained that the move allows LastPass to invest heavily in "customer experience, go-to-market functions and engineering" as a way to improve its "organic growth in password management," Single Sign-On (SSO) and multi-factor authentication (MFA). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -86,18 +86,18 @@ In a message to users, LastPass reiterated that it could "strategically increase
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-explore-virtual-worlds-pcs-1-list-of-vr-360-game-streamers-for-2024/"><u>[New] Explore Virtual Worlds PC's #1 List of VR 360 Game Streamers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-many-viewers-to-target-for-a-youtube-earning-journey-for-2024/"><u>[New] How Many Viewers to Target for a YouTube Earning Journey for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-innovators-crafting-marvels-digital-realm/"><u>[Updated] 2024 Approved Innovators Crafting Marvel's Digital Realm</u></a></li>
-<li><a href="https://win-studio.techidaily.com/best-methods-for-transforming-gif-files-into-swf-format-both-online-and-offline/"><u>Best Methods for Transforming GIF Files Into SWF Format - Both Online and Offline</u></a></li>
-<li><a href="https://facebook.techidaily.com/decoding-the-rapid-growth-of-telegram-post-facebook-outage/"><u>Decoding the Rapid Growth of Telegram Post-Facebook Outage</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-free-trial-of-dashlanes-premium-password-safe-save-now-at-a-bargain-price-on-zdnet/"><u>Download Free Trial of Dashlane's Premium Password Safe - Save Now at a Bargain Price on ZDNet!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expertly-vetted-leading-password-management-apps-for-2nny4-a-comprehensive-list-zdnet/"><u>Expertly Vetted Leading Password Management Apps for 2Nny4: A Comprehensive List | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-hackers-are-capitalizing-on-the-pandemic-a-deep-dive-into-attacks-against-us-universities-amidst-omicron-concerns-reported-by-zdnet/"><u>How Hackers Are Capitalizing on the Pandemic: A Deep Dive Into Attacks Against US Universities Amidst Omicron Concerns | Reported by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-1password-top-tier-value-packed-secure-password-solution-techadvisor/"><u>In-Depth Analysis of 1Password - Top Tier, Value-Packed Secure Password Solution | TechAdvisor</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-the-complete-1password-suite-on-linux-platforms-key-features-and-reviews-zdnet-exclusive/"><u>Introducing the Complete 1Password Suite on Linux Platforms: Key Features and Reviews | ZDNet Exclusive</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lastpass-executives-assure-users-of-no-breached-accounts-following-recent-security-warnings-insights-from-zdnet/"><u>LastPass Executives Assure Users of No Breached Accounts Following Recent Security Warnings: Insights From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-multi-gpu-configurations-a-step-by-step-tutorial-on-nvidia-sli-setup/"><u>Mastering Multi-GPU Configurations: A Step-by-Step Tutorial on Nvidia SLI Setup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/trouble-connecting-to-oculus-runtime-step-by-step-guide-to-resolve-issues-with-your-vr-headset/"><u>Trouble Connecting to Oculus Runtime? Step-by-Step Guide to Resolve Issues with Your VR Headset</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-maximize-your-payload-top-10-drone-giants/"><u>[New] 2024 Approved Maximize Your Payload Top 10 Drone Giants</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ideal-approaches-transforming-pinner-video-links-into-audios-for-2024/"><u>[Updated] Ideal Approaches Transforming Pinner Video Links Into Audios for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamlining-visual-storytelling-with-youtube-videos/"><u>2024 Approved Streamlining Visual Storytelling with YouTube Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-your-companys-safety-start-with-individual-protection-strategies-insights-from-zdnet/"><u>Enhance Your Company's Safety: Start with Individual Protection Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-truth-behind-crypto-anonymity-a-deep-dive-into-a-groundbreaking-study/"><u>Exploring the Truth Behind Crypto Anonymity – A Deep Dive Into a Groundbreaking Study</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-t2-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/forgetting-passwords-fuels-growing-demand-for-biometric-security-solutions/"><u>Forgetting Passwords Fuels Growing Demand for Biometric Security Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guarding-againnst-stealthy-cryptocurrency-miners-safe-torrenting-tips-for-spider-man-no-way-home-with-advice-by-zdnet-experts/"><u>Guarding Againnst Stealthy Cryptocurrency Miners: Safe Torrenting Tips for 'Spider-Man: No Way Home' With Advice by ZDNet Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-to-zero-clutter-windows-auto-delete-feature/"><u>Navigate to Zero Clutter: Windows' Auto-Delete Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/practical-chatgpt-use-cases-for-job-hunters/"><u>Practical ChatGPT Use-Cases for Job Hunters</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/mlining-video-features-youtube-annotations-guide-for-2024/"><u>Streamlining Video Features YouTube Annotations Guide for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/swift-playback-on-instagram-videos-mobiledesktop/"><u>Swift Playback on Instagram Videos (Mobile/Desktop)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-protection-solution-from-security-expert-targets-log4j-exploits-in-hardware-locked-out-of-updates-zdnet/"><u>Urgent Protection Solution From Security Expert Targets Log4j Exploits in Hardware Locked Out of Updates | ZDNet</u></a></li>
 </ul></div>
 

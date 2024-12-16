@@ -1,7 +1,7 @@
 ---
 title: Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET
-date: 2024-12-07T02:07:00.237Z
-updated: 2024-12-09T20:58:14.596Z
+date: 2024-12-14T08:11:19.913Z
+updated: 2024-12-15T16:04:37.003Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,17 +68,22 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-making-funny-photos-no-fees-involved/"><u>[New] 2024 Approved Making Funny Photos No Fees Involved</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/astering-subscriber-identification-on-youtube-for-2024/"><u>[New] Mastering Subscriber Identification on YouTube for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-pro-pilots-choice-the-top-5-drone-picks-of-the-year/"><u>[Updated] In 2024, Pro Pilot's Choice The Top 5 Drone Picks of the Year</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-best-of-the-best-exciting-windows-10-apps-and-games/"><u>[Updated] The Best of the Best Exciting Windows 10 Apps & Games</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-unrivaled-speed-with-apples-latest-innovation-the-imac-with-m1-chip/"><u>Experience Unrivaled Speed with Apple's Latest Innovation: The iMac with M1 Chip</u></a></li>
-<li><a href="https://app-tips.techidaily.com/harnessing-the-power-of-full-stack-ai-conversations-with-your-enterprises-leading-tech-guru-zdnet-insights/"><u>Harnessing the Power of Full-Stack AI: Conversations with Your Enterprise's Leading Tech Guru | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-rapid-expansion-in-tech-fuels-employee-burnout-strategies-for-change/"><u>How Rapid Expansion in Tech Fuels Employee Burnout - Strategies for Change</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-90-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor 90? Try These Fixes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-mobile-live-stream-apps-essentials-for-smartphones/"><u>In 2024, Free Mobile Live Stream Apps Essentials for Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-new-frontier-the-rise-of-specialized-ai-oversight-positions-for-next-gen-software-teams-zdnet/"><u>Navigating the New Frontier: The Rise of Specialized AI Oversight Positions for Next-Gen Software Teams | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/pushing-boundaries-the-rise-of-lowno-code-platforms-and-their-impact-on-traditional-it-support/"><u>Pushing Boundaries: The Rise of Low/No-Code Platforms & Their Impact on Traditional IT Support</u></a></li>
-<li><a href="https://app-tips.techidaily.com/thriving-with-ai-proven-tactics-for-professionals-in-tech-to-excel-at-work-during-an-era-of-automation-guided-by-industry-leaders-on-zdnet/"><u>Thriving with AI: Proven Tactics for Professionals in Tech to Excel at Work During an Era of Automation - Guided by Industry Leaders on ZDNET</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-immersive-escapades-documented-the-experts-guide-to-capturing-vr-games/"><u>[New] Immersive Escapades Documented The Expert's Guide to Capturing VR Games</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-navigating-spotifys-ad-marketplace-successfully-for-2024/"><u>[New] Navigating Spotify's Ad Marketplace Successfully for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlocking-high-quality-videos-youtubes-enhancement-secrets-revealed/"><u>[New] Unlocking High-Quality Videos YouTube's Enhancement Secrets Revealed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-ios-and-android-asmr-experience-leaders/"><u>[Updated] 2024 Approved IOS and Android ASMR Experience Leaders</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-x-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone X? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-mobile-messaging-platforms-top-picks-for-ios-and-android-devices/"><u>Best 10 Mobile Messaging Platforms: Top Picks for iOS and Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-apple-music-evaluation-cost-analysis-and-features-breakdown-free-download/"><u>Comprehensive Apple Music Evaluation: Cost Analysis & Features Breakdown - Free Download</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722960668461-geforce-rtx-3080-ti-drivers-new-release-for-windows-11-8-and-7-download-free-today/"><u>GeForce RTX 3080 Ti Drivers: New Release for Windows 11, 8, and 7 – Download Free Today!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/speed-up-your-experience-top-three-methods-for-swiftly-moving-applications-from-older-iphone-to-newer-model/"><u>Speed Up Your Experience: Top Three Methods for Swiftly Moving Applications From Older iPhone to Newer Model</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stay-secure-and-connected-top-11-mobile-apps-for-hands-free-text-reading/"><u>Stay Secure and Connected: Top 11 Mobile Apps for Hands-Free Text Reading</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-seamless-interweaving-of-folders-and-files/"><u>The Seamless Interweaving of Folders & Files</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-8-xbox-console-emulators-on-pcandroid-reviewed-objectively/"><u>The Ultimate Guide: Top 8 Xbox Console Emulators on PC/Android, Reviewed Objectively</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-audio-management-apps-compatible-with-pc-mac-ios-and-android-devices/"><u>Top 10 Audio Management Apps Compatible with PC, Mac, iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-swf-player-apps-compatible-with-pc-mac-android-and-iphone-devices/"><u>Top Rated SWF Player Apps Compatible with PC, Mac, Android & iPhone Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-apple-m-series-chip-enhanced-ai-capabilities-set-to-transform-the-full-range-of-macbooks-and-desktops-release-timeline-revealed/"><u>Upcoming Apple M-Series Chip: Enhanced AI Capabilities Set to Transform the Full Range of MacBooks & Desktops – Release Timeline Revealed</u></a></li>
 </ul></div>
 

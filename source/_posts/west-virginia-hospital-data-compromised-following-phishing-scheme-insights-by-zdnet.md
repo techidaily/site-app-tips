@@ -1,7 +1,7 @@
 ---
 title: West Virginia Hospital Data Compromised Following Phishing Scheme - Insights by ZDNet
-date: 2024-12-06T22:14:30.623Z
-updated: 2024-12-09T20:47:18.146Z
+date: 2024-12-15T03:47:01.891Z
+updated: 2024-12-16T01:04:01.233Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 ## West Virginia Hospital Data Compromised Following Phishing Scheme - Insights by ZDNet
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Executive guide
@@ -20,7 +20,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 [![phishing-header.jpg](https://www.zdnet.com/a/img/resize/ac019af4c6d0d000921065b0769387a86a4afe61/2017/09/04/fc1528a9-ecf2-4e2a-b743-91f06206a23e/phishing-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) What is phishing? Everything you need to know to protect yourself from scam emails and more Don't click on that email! Find everything you need to know in this phishing guide including how to protect yourself from one of the most common forms of cyber attack.  Read now](https://www.zdnet.com/article/what-is-phishing-how-to-protect-yourself-from-scam-emails-and-more/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A hospital system in West Virginia has [suffered](https://www.prnewswire.com/news-releases/monongalia-health-system-inc-investigates-and-addresses-data-security-incident-301449436.html) a data breach resulting from a phishing attack, which gave hackers access to several email accounts. 
@@ -74,18 +74,14 @@ Mon Health started sending breach notification letters to victims on December 21
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-guide-to-mobile-image-mastery-for-2024/"><u>[Updated] The Ultimate Guide to Mobile Image Mastery for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-steps-to-accessing-whatsapp-anonymously-no-phone-required/"><u>Comprehensive Steps to Accessing WhatsApp Anonymously: No Phone Required</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elevate-your-digital-space-with-dells-vivid-monitor-advanced-anc-audio-experience-and-ultrasharp-video-capture-device/"><u>Elevate Your Digital Space with Dell's Vivid Monitor, Advanced ANC Audio Experience, and UltraSharp Video Capture Device</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-11-pro-max-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 11 Pro Max? Complete Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-retrieve-older-whatsapp-messages-a-guide-to-accessing-deleted-or-archived-conversations/"><u>How to Retrieve Older WhatsApp Messages: A Guide to Accessing Deleted or Archived Conversations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-securely-transfer-whatsapp-pictures-from-ios-and-android-devices-without-losing-a-bit-explore-these-3-effective-strategies/"><u>How to Securely Transfer WhatsApp Pictures From iOS and Android Devices without Losing a Bit - Explore These 3 Effective Strategies</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Itel A05s? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-edge-40-neo-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Edge 40 Neo for Free? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-adding-a-link-in-your-tiktok-bio/"><u>In 2024, The Ultimate Guide to Adding a Link in Your TikTok Bio</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-nokia-c32-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Nokia C32 Phones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamless-preservation-of-your-messages-syncing-whatsapp-chats-with-google-drive-tips-for-smartphones-and-tablets/"><u>Seamless Preservation of Your Messages: Syncing WhatsApp Chats with Google Drive - Tips for Smartphones and Tablets</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-ios-most-innovative-vr-game-apps/"><u>The Ultimate Guide to iOS' Most Innovative VR Game Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-insightful-approaches-to-recognizing-genuine-facebook-advocates/"><u>[New] In 2024, Insightful Approaches to Recognizing Genuine Facebook Advocates</u></a></li>
+<li><a href="https://win-top.techidaily.com/boosting-click-through-rates-mastering-email-list-segmentation-with-massmail/"><u>Boosting Click-Through Rates: Mastering Email List Segmentation with MassMail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-right-voice-ai-alexa-vs-google-assistant/"><u>Choosing the Right Voice AI: Alexa Vs. Google Assistant</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/descargue-y-transforme-sus-ficheros-mp4-a-linea-online-por-nada-usando-movavi/"><u>Descargue Y Transforme Sus Ficheros MP4 a Línea Online Por Nada, Usando Movavi.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-code-synthesis-a-tutorial-on-deploying-codegpt-in-vs-code/"><u>Mastering Code Synthesis: A Tutorial on Deploying CodeGPT in VS Code</u></a></li>
+<li><a href="https://app-tips.techidaily.com/oregon-healthcare-provider-alerts-over-half-a-million-clients-about-major-security-incident-tech-news/"><u>Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-wallets-1password-joins-forces-with-brex-to-simplify-secure-transactions-according-to-zdnet-coverage/"><u>Revolutionizing Digital Wallets: 1Password Joins Forces with Brex to Simplify Secure Transactions, According to ZDNet Coverage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-phishing-scams-impersonating-leaders-dhl-microsoft-and-whatsapp-in-the-spotlight/"><u>Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unmasking-crypto-illusions-a-revealing-paper-challenges-bitcoins-anonymity-claims/"><u>Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims</u></a></li>
 </ul></div>
 

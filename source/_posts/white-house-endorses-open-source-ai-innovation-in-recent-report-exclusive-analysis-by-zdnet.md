@@ -1,7 +1,7 @@
 ---
 title: White House Endorses Open Source AI Innovation in Recent Report – Exclusive Analysis by ZDNet
-date: 2024-12-06T20:07:42.472Z
-updated: 2024-12-09T17:55:55.873Z
+date: 2024-12-12T05:58:19.153Z
+updated: 2024-12-16T02:17:47.990Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-effortless-snaptweet-videos-from-twitter-for-2024/"><u>[New] Effortless SnapTweet Videos From Twitter for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-techniques-to-extract-sound-from-vimeo-videos/"><u>[New] Techniques to Extract Sound From Vimeo Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-unlocking-windows-8-movie-maker-an-easy-introduction-for-2024/"><u>[Updated] Unlocking Windows 8 Movie Maker An Easy Introduction for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-channel-elevation-reach-youtube-affiliate-level-with-10k-views/"><u>2024 Approved Channel Elevation Reach YouTube Affiliate Level with 10K Views</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-to-combining-excel-cells-tips-and-tricks-from-zdnet/"><u>Complete Guide to Combining Excel Cells: Tips & Tricks From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/digital-privacy-empowerment-unlocking-anonymity-as-a-key-asset-for-modern-remote-teams-zdnet/"><u>Digital Privacy Empowerment: Unlocking Anonymity as a Key Asset for Modern Remote Teams | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enterprise-tech-adopts-ops-approach-amidst-growing-pains-and-opportunities-for-innovation/"><u>Enterprise Tech Adopts 'Ops' Approach Amidst Growing Pains and Opportunities for Innovation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-end-of-windows-10-support-explore-your-five-last-options-now/"><u>Facing the End of Windows 10 Support? Explore Your Five Last Options Now!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-smiles-and-snickers-7-hilarious-video-concepts-for-content-creators/"><u>In 2024, Smiles & Snickers 7 Hilarious Video Concepts for Content Creators</u></a></li>
-<li><a href="https://win-blog.techidaily.com/push-your-frames-per-second-fps-up-with-these-pro-techniques-for-escape-from-tarkov/"><u>Push Your Frames Per Second (FPS) Up With These Pro Techniques for 'Escape From Tarkov'</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-marketing-adobes-new-generation-of-ai-powered-creative-tools-unveiled/"><u>Revolutionizing Marketing: Adobe's New Generation of AI-Powered Creative Tools Unveiled</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sony-hdrcx405-examined-affordable-stabilized-videos/"><u>Sony HDRCX405 Examined: Affordable, Stabilized Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-on-implementing-send-later-option-in-thunderbird-mail-clients-zdnet/"><u>Step-by-Step Tutorial on Implementing 'Send Later' Option in Thunderbird Mail Clients (ZDNet)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209844842-9781945026188-the-gateways/"><u>The Gateways | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-sql-programming-classes-expert-reviews-of-the-best-online-learning-options/"><u>Top-Rated SQL Programming Classes: Expert Reviews of the Best Online Learning Options</u></a></li>
-<li><a href="https://win-community.techidaily.com/ultimate-instructional-resource-optimal-strategies-for-secure-cloud-storage-on-your-laptop/"><u>Ultimate Instructional Resource: Optimal Strategies for Secure Cloud Storage on Your Laptop</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-coursera-unveils-new-skill-level-evaluation-with-proficiency-testing/"><u>ZDNet: Coursera Unveils New Skill-Level Evaluation with Proficiency Testing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-blueprinting-engaging-content-layouts-on-youtube/"><u>[Updated] In 2024, Blueprinting Engaging Content Layouts on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-continuous-viewing-setup-your-youtube-clips-for-tv-repetition/"><u>[Updated] In 2024, Continuous Viewing Setup Your YouTube Clips for TV Repetition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-war-thunder-game-top-strategies-for-overcoming-lag-and-improving-frames-per-second-fps/"><u>Boost Your War Thunder Game: Top Strategies for Overcoming Lag and Improving Frames Per Second (FPS)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-workplace-productivity-with-these-4-free-slack-replacements-embrace-opensource-collaborative-tools-as-featured-by-zdnet/"><u>Boost Your Workplace Productivity with These 4 Free Slack Replacements: Embrace Opensource Collaborative Tools, as Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dual-cpu-mastery-discover-the-power-of-silverstones-revolutionary-xe360-dual-aio-cooler/"><u>Dual-CPU Mastery: Discover the Power of SilverStone's Revolutionary XE360-Dual AIO Cooler</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-downsides-of-artifice-intelligence-in-code-creation-with-zdnets-analysis/"><u>Exploring the Downsides of Artifice Intelligence in Code Creation with ZDNet's Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-persistent-xerox-update-issue-error-code-0x800f020b/"><u>How to Fix the Persistent Xerox Update Issue (Error Code: 0X800F020B)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-anonymity-the-underestimated-edge-in-managing-todays-digital-workforce-zdnet/"><u>Leveraging Anonymity: The Underestimated Edge in Managing Today's Digital Workforce | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-order-in-the-world-of-linuxopen-source-resources-strategies-for-clarity-and-efficiency/"><u>Mastering Order in the World of Linux/Open Source Resources: Strategies for Clarity and Efficiency</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mimo-systems-leverage-antenna-arrays-to-multiply-the-capacity-of-wireless-channels-by-transmitting-different-data-streams-over-multiple-spatial-paths-simult77/"><u>MIMO Systems Leverage Antenna Arrays to Multiply the Capacity of Wireless Channels by Transmitting Different Data Streams over Multiple Spatial Paths Simultaneously.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/record-your-favorite-moments-8-methods-to-capture-tiktok-videos-using-various-devices-with-ease/"><u>Record Your Favorite Moments: 8 Methods to Capture TikTok Videos Using Various Devices with Ease</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solution/"><u>Solution</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-covid-19-immunization-control-systems-a-comprehensive-guide-by-zdnet/"><u>Top Rated COVID-19 Immunization Control Systems: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-the-trend-of-purchasing-damaged-macbook-pros-insights/"><u>Understanding the Trend of Purchasing Damaged MacBook Pros – Insights</u></a></li>
 </ul></div>
 

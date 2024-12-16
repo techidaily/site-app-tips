@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Right Hosting Platform: GitHub or GitLab? - A Comparative Guide by ZDNet"
-date: 2024-12-07T22:54:17.973Z
-updated: 2024-12-09T17:48:13.288Z
+date: 2024-12-09T22:02:49.499Z
+updated: 2024-12-15T17:32:23.110Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/rafting-compelling-thumbnails-for-your-youtube-content/"><u>[New] Crafting Compelling Thumbnails for Your YouTube Content</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-mastery-in-simulating-chrono-displacement-for-2024/"><u>[New] Mastery in Simulating Chrono-Displacement for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-minecraft-recording-on-mac-a-step-by-step-guide/"><u>[Updated] Mastering Minecraft Recording on Mac A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-essential-strategies-for-effective-use-of-luts-in-video-edits/"><u>2024 Approved Essential Strategies for Effective Use of LUTs in Video Edits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-edge-no-8-online-photomontage-toolkit/"><u>2024 Approved Leading Edge No. 8 Online Photomontage Toolkit</u></a></li>
-<li><a href="https://app-tips.techidaily.com/amplifying-the-role-of-it-professionals-in-shaping-customer-satisfaction-expert-analysis-by-zdnet/"><u>Amplifying the Role of IT Professionals in Shaping Customer Satisfaction | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-tech-departments-elevating-your-brand-through-enhanced-customer-experiences-insights-from-zdnet/"><u>Empowering Tech Departments: Elevating Your Brand Through Enhanced Customer Experiences - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expanding-security-juniper-networks-integrates-cloud-firewall-into-sase-solutions-zdnet-insight/"><u>Expanding Security: Juniper Networks Integrates Cloud Firewall Into SASE Solutions - ZDNet Insight</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-and-repair-a-missing-msstdfmtdll-file-on-your-computer/"><u>How To Correctly Address and Repair a Missing msstdfmt.dll File on Your Computer</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-13-pro-max-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 13 Pro Max From Your Apple ID</u></a></li>
-<li><a href="https://app-tips.techidaily.com/nvidia-leads-with-blackwell-jensen-huang-reveals-revolutionary-chip-series-during-gtc-keynote-insights-for-tech-enthusiasts-zdnet/"><u>Nvidia Leads with Blackwell: Jensen Huang Reveals Revolutionary Chip Series During GTC Keynote - Insights for Tech Enthusiasts | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-industry-handbook-zdnet-insights/"><u>Revolutionizing UX with XR, Digital Twins & Spatial Tech: A Comprehensive Industry Handbook | ZDNet Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-truth-behind-fraudgpt-strategies-for-avoiding-harmful-bot-interactions/"><u>The Truth Behind FraudGPT: Strategies for Avoiding Harmful Bot Interactions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-the-cloud-industry-key-forecasts-by-renowned-tech-cto-on-evolving-business-strategies-wired/"><u>Transforming the Cloud Industry: Key Forecasts by Renowned Tech CTO on Evolving Business Strategies - Wired</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-linux-65-revolutionary-updates-and-improvements-detailed-digital-trends/"><u>Unveiling Linux 6.5: Revolutionary Updates and Improvements Detailed | Digital Trends</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-toolwiz-demystified-detailed-app-evaluation-for-photo-experts/"><u>[New] 2024 Approved Toolwiz Demystified Detailed App Evaluation for Photo Experts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-simple-win-11-recorders/"><u>[New] Cutting-Edge Simple Win 11 Recorders</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-from-thread-to-thrill-sewing-secrets-on-tiktok/"><u>[New] From Thread to Thrill Sewing Secrets on TikTok</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-beyond-ai-boundaries-the-call-of-an-ai-scientist-on-thinking-differently/"><u>Exploring Beyond AI Boundaries - The Call of an AI Scientist on Thinking Differently</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-f54-5g-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-does-open-source-shape-ethical-ai-development-exploring-perspectives-on-zdnet/"><u>How Does Open Source Shape Ethical AI Development? Exploring Perspectives on ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-infinix-hot-30-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Infinix Hot 30 5G FRP</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-enhanced-with-codenotarys-new-software-bill-of-materials-service-the-latest-update-featured-by-zdnet/"><u>Kubernetes Enhanced with Codenotary’s New Software Bill of Materials Service - The Latest Update Featured by ZDNet</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-most-chromebook-owners-will-find-themselves-wondering-which-online-video-editor-is-the-best-one-lets-have-a-look-at-some-of-the-best-onlin/"><u>New 2024 Approved Most Chromebook Owners Will Find Themselves Wondering, Which Online Video Editor Is the Best One. Lets Have a Look at some of the Best Online Video Editors that Will Help You Create Visually Engaging</u></a></li>
+<li><a href="https://app-tips.techidaily.com/regulatory-compliance/"><u>Regulatory Compliance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/status-of-microsofts-previous-promotion-for-a-complimentary-windows-10-installation/"><u>Status of Microsoft's Previous Promotion for a Complimentary Windows 10 Installation!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-changing-landscape-for-software-engineers-perspectives-by-atlassians-agnes-ro-on-zdnet/"><u>The Changing Landscape for Software Engineers: Perspectives by Atlassian's Agnes Ro on ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-complete-guide-to-using-the-high-capacity-maxoak-battery-bank-185wh-with-50000mah-revealed/"><u>The Complete Guide to Using the High-Capacity MaxOak Battery Bank - 185Wh with 50,000mAh Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Data Analysis
-date: 2024-12-04T01:58:17.581Z
-updated: 2024-12-10T01:30:35.976Z
+date: 2024-12-15T02:31:53.205Z
+updated: 2024-12-15T18:01:11.660Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-enhancing-content-strategy-with-targeted-tagging/"><u>[New] 2024 Approved Enhancing Content Strategy with Targeted Tagging</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-unlocking-creative-potential-the-artful-application-of-luts-in-premiere-pro/"><u>[New] 2024 Approved Unlocking Creative Potential The Artful Application of LUTs in Premiere Pro</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-independent-analysis-unveiling-the-mysteries-of-3dr/"><u>[New] Independent Analysis Unveiling the Mysteries of '3DR'</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-tips-for-procuring-high-quality-background-imagery/"><u>[New] Top Tips for Procuring High-Quality Background Imagery</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-new-light-on-the-sony-s3700-blu-ray-reader-review-for-2024/"><u>[Updated] New Light on the Sony S3700 Blu-Ray Reader Review for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-executive-technology-literacy-top-six-strategies-for-upskilling-leaders/"><u>Boosting Executive Technology Literacy: Top Six Strategies for Upskilling Leaders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/global-shift-towards-digital-wallets-anticipated-growth-to-16t-asia-paving-the-way-zdnet/"><u>Global Shift Towards Digital Wallets - Anticipated Growth to $1.6T, Asia Paving the Way | ZDNET</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-new-normal-essential-strategies-for-tech-experts-amidst-the-rise-of-artificial-intelligence-insights-from-zdnet/"><u>Navigating the New Normal: Essential Strategies for Tech Experts Amidst the Rise of Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-and-easy-tricks-to-bring-back-your-oculus-rift-s-microphone-no-hassle-fixes-of-the-year-2024/"><u>Quick & Easy Tricks to Bring Back Your Oculus Rift S Microphone - No Hassle Fixes of the Year 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ready-for-upskilling-explore-non-ai-edge-tech-trends-and-tips-learn-more-on-zdnet/"><u>Ready for Upskilling? Explore Non-AI Edge Tech Trends and Tips - Learn More on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/reviving-human-connections-why-tech-experts-should-engage-in-meaningful-dialogue-beyond-datasets/"><u>Reviving Human Connections: Why Tech Experts Should Engage in Meaningful Dialogue Beyond Datasets</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-rated-no-cost-hd-dvd-ripper-and-creator-software-for-pc-optimized-for-windows-10/"><u>Top Rated No-Cost HD DVD Ripper & Creator Software for PC : Optimized for Windows 10</u></a></li>
-<li><a href="https://app-tips.techidaily.com/training-leaders-before-deploying-artificial-intelligence-insights-from-zdnet/"><u>Training Leaders Before Deploying Artificial Intelligence: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-potential-of-artificial-intelligence-strategies-for-new-entrants-in-todays-markets-zdnet-analysis/"><u>Unlocking the Potential of Artificial Intelligence: Strategies for New Entrants in Today's Markets | ZDNet Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-audio-tech-review-exploring-the-top-6-stream-ready-mics/"><u>2024 Approved Pro Audio Tech Review Exploring the Top 6 Stream-Ready Mics</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-artificial-intelligence-create-an-engaging-radio-experience-for-modern-audiences/"><u>Can Artificial Intelligence Create an Engaging Radio Experience for Modern Audiences?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-streamlined-regulations-are-boosting-aseans-path-to-a-2t-digital-economy-by-2030-featured-on-zdnet/"><u>How Streamlined Regulations Are Boosting ASEAN's Path to a $2T Digital Economy by 2030, Featured on ZDNET</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-14-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 14 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-master-the-art-of-live-streaming-snapchat-videos/"><u>In 2024, Master the Art of Live Streaming Snapchat Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-sony-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Sony? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-hurdles-of-uncertainty-in-ai-efficiency-and-precision-insights-from-zdnet/"><u>Navigating the Hurdles of Uncertainty in AI Efficiency & Precision - Insights From ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-y17s-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo Y17s Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-it-work-life-how-ai-solutions-prevent-burnout-and-reduce-fatigue-among-tech-experts-expert-analysis-on-zdnet/"><u>Revolutionizing IT Work Life: How AI Solutions Prevent Burnout and Reduce Fatigue Among Tech Experts | Expert Analysis on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/shifting-away-from-quick-fixes-to-pioneering-intellects-for-advancing-ai-says-renowned-banking-chief-zdnet/"><u>Shifting Away From Quick Fixes to Pioneering Intellects for Advancing AI, Says Renowned Banking Chief | ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-a78-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo A78 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-role-of-a-chief-artificial-intelligence-officer-steps-to-achieve-the-position/"><u>The Role of a Chief Artificial Intelligence Officer – Steps to Achieve the Position</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-pc-gaming-on-steam-deck-remote-play-essentials/"><u>Unlock PC Gaming on Steam Deck: Remote Play Essentials</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/wise-wrapping-choice-expert-assessment-of-procases-economical-macbook-pro-13-case/"><u>Wise Wrapping Choice: Expert Assessment of ProCase's Economical MacBook Pro 13 Case</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-unveils-comprehensive-ai-skills-handbook-for-singapore-smb-employees/"><u>ZDNet Unveils Comprehensive AI Skills Handbook for Singapore SMB Employees</u></a></li>
 </ul></div>
 

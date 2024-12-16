@@ -1,7 +1,7 @@
 ---
 title: "ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet"
-date: 2024-12-07T04:40:35.534Z
-updated: 2024-12-09T20:05:17.199Z
+date: 2024-12-14T06:13:36.026Z
+updated: 2024-12-15T20:27:36.716Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,21 +68,24 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quick-start-video-recording-on-logitech-webcam/"><u>[New] 2024 Approved Quick Start Video Recording on Logitech Webcam</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-acethinker-screen-recorder-review/"><u>[New] In 2024, AceThinker Screen Recorder Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-capture-curiosity-with-these-6-video-categories/"><u>[Updated] Capture Curiosity with These 6 Video Categories</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-elevate-your-ig-videos-tips-and-templates/"><u>[Updated] In 2024, Elevate Your IG Videos Tips & Templates</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-methods-for-rolling-macos-sierra-back-to-el-capitan/"><u>[Updated] In 2024, Methods for Rolling MacOS Sierra Back to El Capitan</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-original-visual-documentation-evaluation-and-alternatives/"><u>2024 Approved Original Visual Documentation Evaluation & Alternatives</u></a></li>
-<li><a href="https://win-tips.techidaily.com/advanced-malicious-software-scrutiny-kits-expert-choices-for-rapid-attack-counteraction-and-security-reinforcement/"><u>Advanced Malicious Software Scrutiny Kits: Expert Choices for Rapid Attack Counteraction and Security Reinforcement</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-truth-behind-crypto-anonymity-a-deep-dive-into-a-groundbreaking-study/"><u>Exploring the Truth Behind Crypto Anonymity – A Deep Dive Into a Groundbreaking Study</u></a></li>
-<li><a href="https://app-tips.techidaily.com/forgetting-passwords-fuels-growing-demand-for-biometric-security-solutions/"><u>Forgetting Passwords Fuels Growing Demand for Biometric Security Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guarding-againnst-stealthy-cryptocurrency-miners-safe-torrenting-tips-for-spider-man-no-way-home-with-advice-by-zdnet-experts/"><u>Guarding Againnst Stealthy Cryptocurrency Miners: Safe Torrenting Tips for 'Spider-Man: No Way Home' With Advice by ZDNet Experts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-unplugged-step-by-step-for-a-lasting-goodbye/"><u>In 2024, Instagram Unplugged Step-by-Step for a Lasting Goodbye</u></a></li>
-<li><a href="https://app-tips.techidaily.com/instagram-examining-the-questions-of-trust-and-authenticity/"><u>Instagram: Examining the Questions of Trust and Authenticity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/proofpoint-reveals-how-cybercriminals-exploit-fans-desire-for-justin-bieber-and-the-weeknd-events-to-propagate-malware/"><u>Proofpoint Reveals How Cybercriminals Exploit Fans' Desire for Justin Bieber & The Weeknd Events to Propagate Malware</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/rip-and-convert-with-wonderfox-dvd-to-ipad-app-update-v11-launched/"><u>Rip & Convert with WonderFox DVD to iPad App, Update v1.1 Launched</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-devices-with-ease-apples-new-passkey-revealed-at-wwdc-zdnet-insights/"><u>Secure Your Devices with Ease: Apple's New Passkey Revealed at WWDC | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-biometrics-as-users-struggle-with-password-fatigue-insights-from-zdnet-analysis/"><u>The Rise of Biometrics as Users Struggle with Password Fatigue: Insights From ZDNet Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-decoding-the-language-of-asmr-videos/"><u>[Updated] 2024 Approved Decoding the Language of ASMR Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-30-tag-strategies-for-boosting-views-in-freefire-gaming/"><u>[Updated] 2024 Approved Top 30 Tag Strategies for Boosting Views in FreeFire Gaming</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-zenith-of-races-olympic-x-snow-highlights/"><u>[Updated] 2024 Approved Zenith of Races - Olympic X-Snow Highlights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lg-27ud88-w-4k-usb-type-c-monitor-complete-review/"><u>2024 Approved LG 27UD88-W 4K USB Type-C Monitor Complete Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-efficiency-with-these-proven-strategies-in-daily-project-management-tips-shared-on-zdnet/"><u>Boost Efficiency with These Proven Strategies in Daily Project Management – Tips Shared on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/career-advancement-in-tech-with-top-strategies-used-by-the-worlds-biggest-aerospace-enterprises-zdnet/"><u>Career Advancement in Tech with Top Strategies Used by the World's Biggest Aerospace Enterprises | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cerebras-releases-revolutionary-wse-section-1-advanced-problem-on-antenna-ground-systems/"><u>Cerebras Releases Revolutionary WSE- # Section 1: Advanced Problem on Antenna Ground Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dark-souls-evocative-sibling-a-detailed-look-at-bloodborne/"><u>Dark Souls' Evocative Sibling - A Detailed Look at Bloodborne</u></a></li>
+<li><a href="https://app-tips.techidaily.com/data-analysis/"><u>Data Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-panic-windows-11-users-discover-5-effective-strategies-before-official-end-of-service-zdnet/"><u>Don't Panic, Windows 11 Users! Discover 5 Effective Strategies Before Official End of Service | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-expertise-for-a-secure-transition-to-next-gen-cloud-native-ecosystems-a-deep-dive-with-zdnet/"><u>Harnessing Expertise for a Secure Transition to Next-Gen Cloud-Native Ecosystems: A Deep Dive with ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20-proplus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20 Pro+ to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-artificial-intelligence-and-embracing-rust-in-computing-tech-insights-on-zdnet/"><u>Linus Torvalds Discusses Artificial Intelligence & Embracing Rust in Computing | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-tecno-camon-20-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Tecno Camon 20? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-hurdles-in-ai-implementation-key-takeawives-from-deloitte-survey-zdnet/"><u>Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-home-showdown-evaluating-features-of-ring-vs-nest-doorbells/"><u>Smart Home Showdown: Evaluating Features of Ring vs Nest Doorbells</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tenfold-surge-in-artifice-intelligence-initiatives-this-year-confirms-zdnet-insight-survey/"><u>Tenfold Surge in Artifice Intelligence Initiatives This Year, Confirms ZDNet Insight Survey</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nokia-c210-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nokia C210 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uniting-cloud-storage-seamless-onedrive-plus-microsoft-login/"><u>Uniting Cloud Storage: Seamless OneDrive + Microsoft Login</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Instagram's Reliability Questioned: Insights From a ZDNet Investigation"
-date: 2024-12-08T03:16:43.026Z
-updated: 2024-12-10T01:17:31.033Z
+date: 2024-12-11T20:07:18.983Z
+updated: 2024-12-15T19:56:41.551Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ I wish I did, but I don't.
 Instagram hasn't done one blessed thing to [fix my hacked account](https://www.zdnet.com/article/my-instagram-account-was-hacked-and-two-factor-authentication-didnt-help/). Six weeks into this, and neither Instagram tech support -- if there even is such a department -- nor public relations have said a word to me. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -46,7 +46,7 @@ Yet Instagram has remained silent about this trend.
 What can you do? First, dump Instagram. It doesn't matter how popular it is if you can't count on it. Other services and apps offer similar features, including [Flickr](https://www.flickr.com/), with its emphasis on high-end photos; [Imgur](https://imgur.com/), another photographic-centric service; [Pinterest](https://www.pinterest.com/), an image-oriented social network; and [Retrica](https://retrica.co/), another photo-oriented service with many filters. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Social Media
@@ -106,22 +106,22 @@ Instagram simply isn't trustworthy.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-complete-guide-to-iphone-speech-recordings/"><u>[New] The Complete Guide to iPhone Speech Recordings</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-a-trailblazers-guide-youtube-studio-location-unveiled/"><u>[Updated] 2024 Approved A Trailblazer’s Guide YouTube Studio Location Unveiled</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-top-10-must-try-tiktok-challenges/"><u>[Updated] In 2024, Top 10 Must-Try TikTok Challenges</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-bringing-history-alive-old-images-in-new-video-formats/"><u>2024 Approved Bringing History Alive Old Images in New Video Formats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/another-cybersecurity-breach-lastpass-compromised-once-more/"><u>Another Cybersecurity Breach: LastPass Compromised Once More</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210533603-9781398814486-aries/"><u>Aries | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-patch-update-to-log4j-library-available-with-apache-2170-release-cybersecurity-breakthrough-on-zdnet/"><u>Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/defend-your-online-privacy-with-our-exclusive-offer-exceptional-vpn-and-password-management-services-for-a-limited-time-just-30-learn-how-on-zdnet/"><u>Defend Your Online Privacy with Our Exclusive Offer: Exceptional VPN and Password Management Services for a Limited Time, Just $30! Learn How on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-security-transform-your-digital-life-using-the-awarded-30-password-manager-by-zdnet-for-ultimate-protection/"><u>Effortless Security: Transform Your Digital Life Using the Awarded $30 Password Manager by ZDNET for Ultimate Protection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-password-manager-security-expert-tips-and-techniques-zdnet/"><u>Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/harness-unparalleled-efficiency-boost-your-windows/"><u>Harness Unparalleled Efficiency: Boost Your Windows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-tune-treasure-trove-save-and-study-sound-files/"><u>In 2024, Tune Treasure Trove Save & Study Sound Files</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/maximize-gaming-eliminate-lags/"><u>Maximize Gaming: Eliminate Lags</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-user-memory-lapses-with-biometric-authentication-insights-from-zdnet/"><u>Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protect-your-data-avoid-these-common-mistakes-in-cloud-security-that-attract-cyber-thieves-zdnet/"><u>Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-sensitive-information-under-20month-using-robust-encryption-techniques-insights-from-zdnet/"><u>Secure Your Sensitive Information Under $20/Month Using Robust Encryption Techniques – Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unlocking-the-power-of-memes-a-guide-to-creating-funny-videos/"><u>[Updated] In 2024, Unlocking the Power of Memes A Guide to Creating Funny Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snap-your-way-unique-discover-over-120-private-story-creation-tips-and-tricks-for-2024/"><u>[Updated] Snap Your Way Unique Discover over 120 Private Story Creation Tips and Tricks for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-art-of-the-end-scene-tutorials-and-templates-for-youtube/"><u>[Updated] The Art of the End Scene Tutorials & Templates for YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-viewer-friendly-approach-implementing-commentary-and-alerts-on-youtube/"><u>2024 Approved A Viewer-Friendly Approach Implementing Commentary and Alerts on YouTube</u></a></li>
+<li><a href="https://app-tips.techidaily.com/fujitsu-halted-projectweb-following-cybersecurity-incidents-in-japanese-administration-exclusive-coverage-by-zdnet/"><u>Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-c67-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme C67 4G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-itel-a60s-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Itel A60s</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-expert-guide-to-a-lasting-goodbye-deleting-tiktok-effectively/"><u>In 2024, Expert Guide to a Lasting Goodbye Deleting TikTok Effectively</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavimp4flac/"><u>Movaviで簡単にフリーオンラインMP4からFLACへの高品質変換</u></a></li>
+<li><a href="https://app-tips.techidaily.com/persistent-password-problems-why-we-keep-reusing-compromised-passwords-despite-risks/"><u>Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-passwords-with-dashlane-pro-exclusive-3-month-free-offer-available-here-via-zdnet/"><u>Secure Your Passwords with Dashlane Pro: Exclusive 3-Month Free Offer Available Here via ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/security-champions-earn-big-bugcrowd-raises-bounty-ceiling-to-1m-what-zdnet-reports-on-cybersecurity-incentives/"><u>Security Champions Earn Big: Bugcrowd Raises Bounty Ceiling to $1M – What ZDNET Reports on Cybersecurity Incentives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-giant-1password-achieves-unprecedented-growth-with-62n-million-funding-round-boost-zdnet-exclusives/"><u>Tech Giant 1Password Achieves Unprecedented Growth with $62N Million Funding Round Boost | ZDNET Exclusives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-password-security-applications-and-how-to-save-on-them-according-to-zdnet/"><u>Top 5 Password Security Applications & How to Save on Them, According to ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-essential-conversations-with-chatgpt-for-a-focused-distraction-free-tech-life/"><u>Top 8 Essential Conversations with ChatGPT for a Focused, Distraction-Free Tech Life</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-expert-analysis-on-1password-high-quality-password-management-solutions-that-deliver-value/"><u>Top-Ranked Expert Analysis on 1Password - High-Quality Password Management Solutions That Deliver Value</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-protonmails-new-password-tool-promises-unbreakable-end-to-end-security-for-users/"><u>ZDNet Exclusive: ProtonMail's New Password Tool Promises Unbreakable End-to-End Security for Users</u></a></li>
 </ul></div>
 

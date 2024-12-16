@@ -1,7 +1,7 @@
 ---
 title: "Security Breach: LastPass Compromised Once More - Critical Update From ZDNet"
-date: 2024-12-05T22:47:45.202Z
-updated: 2024-12-10T02:37:01.422Z
+date: 2024-12-12T05:52:28.317Z
+updated: 2024-12-16T00:39:02.572Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,17 +81,22 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-vivid-visuals-selecting-the-best-11-tutorials/"><u>[New] Crafting Vivid Visuals Selecting the Best 11 Tutorials</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unleashing-creativity-quick-lens-building-on-snapchat-for-2024/"><u>[New] Unleashing Creativity Quick Lens Building on Snapchat for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-modify-mac-screen-shot-storage-path/"><u>2024 Approved Modify Mac Screen Shot Storage Path</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-chatgpt-2erview-insights-on-capabilities-updates-and-handling-server-issues/"><u>Comprehensive ChatGPT 2Erview: Insights on Capabilities, Updates, and Handling Server Issues</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-chatgpt-2024-complete-analysis-of-functionality-characteristics-and-server-hiccups/"><u>Exploring ChatGPT 2024: Complete Analysis of Functionality, Characteristics & Server Hiccups</u></a></li>
-<li><a href="https://fox-that.techidaily.com/improving-smartphone-use-essential-iphone-adaptations-for-individuals-experiencing-visual-challenges/"><u>Improving Smartphone Use: Essential iPhone Adaptations for Individuals Experiencing Visual Challenges</u></a></li>
-<li><a href="https://common-error.techidaily.com/minecraft-multiplayer-woes-heres-how-to-get-your-lan-up-and-running/"><u>Minecraft Multiplayer Woes? Here's How to Get Your LAN Up and Running</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-poco-c55-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Poco C55</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionize-conversations-with-these-top-10-artificial-intelligence-chatbot-tools/"><u>Revolutionize Conversations with These Top 10 Artificial Intelligence Chatbot Tools</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-avatar-frontiers-of-pandora-performance-issues-a-step-by-step-guide/"><u>Solving 'Avatar: Frontiers of Pandora' Performance Issues – A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-eva-the-ultimate-guide-to-the-former-ex-journey-ai-bot/"><u>Unveiling the Power of EVA: The Ultimate Guide to the Former Ex Journey AI Bot</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastery-of-microscopic-minecraft-mapping/"><u>[Updated] In 2024, Mastery of Microscopic Minecraft Mapping</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-top-30-windows-10-utilities-you-cant-ignore/"><u>[Updated] In 2024, Top 30 Windows 10 Utilities You Can't Ignore</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1-reviving-lost-images-a-step-by-step-guide-to-restore-photos-from-damaged-sd-cards/"><u>1. Reviving Lost Images: A Step-by-Step Guide to Restore Photos From Damaged SD Cards</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-importance-of-understanding-asmr-media/"><u>2024 Approved The Importance of Understanding ASMR Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-toolwiz-unveiled-the-full-scope-photo-software-review/"><u>2024 Approved Toolwiz Unveiled - The Full Scope Photo Software Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-chatsonic-the-complete-guide-to-understanding-this-innovative-ai-chatbot/"><u>Comprehensive Analysis of Chatsonic: The Complete Guide to Understanding This Innovative AI Chatbot</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-elevenlabs-generative-voice-ai-and-comparable-options/"><u>Comprehensive Analysis: ElevenLabs' Generative Voice AI & Comparable Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-bing-chat-and-its-synergy-with-gpt-n-language-models/"><u>Comprehensive Guide to Bing Chat & Its Synergy with GPT-N Language Models</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620185282-comprehensive-guide-to-the-eva-ai-chatbot-from-ex-journey-dont-miss-this/"><u>Comprehensive Guide to the EVA AI Chatbot From Ex Journey – Don't Miss This</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-top-10-innovative-ai-chatbots-for-superior-conversations/"><u>Experience Next-Level Interaction: Top 10 Innovative AI Chatbots for Superior Conversations</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oneplus-ace-2v-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your OnePlus Ace 2V FRP Locks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-xr-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone XR</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/identifying-common-problems-is-your-sound-card-malfunctioning/"><u>Identifying Common Problems: Is Your Sound Card Malfunctioning?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-microsofts-bing-chat-feature-using-advanced-ai-and-gpt-4/"><u>In-Depth Analysis of Microsoft's Bing Chat Feature Using Advanced AI & GPT-4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-for-fixing-d3dx939dll-errors-in-windows/"><u>Troubleshooting Techniques for Fixing d3dx9_39.dll Errors in Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-champion-of-ai-bots-in-depth-review-of-chatgpt-for-next-level-conversations/"><u>Unveiling the Champion of AI Bots: In-Depth Review of ChatGPT for Next-Level Conversations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-facets-of-chatgpt-2024-detailed-examination-of-features-and-strategies-for-server-glitches/"><u>Unveiling the Facets of ChatGPT 2024: Detailed Examination of Features and Strategies for Server Glitches</u></a></li>
 </ul></div>
 

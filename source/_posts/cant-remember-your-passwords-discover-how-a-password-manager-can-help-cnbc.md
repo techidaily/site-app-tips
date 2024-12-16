@@ -1,7 +1,7 @@
 ---
 title: Can't Remember Your Passwords? Discover How a Password Manager Can Help | CNBC
-date: 2024-12-06T23:43:47.621Z
-updated: 2024-12-09T22:54:39.538Z
+date: 2024-12-15T04:42:45.674Z
+updated: 2024-12-16T00:27:01.370Z
 tags:
   - password-manager
 categories:
@@ -97,6 +97,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fshould-you-use-your-browsers-built-in-password-manager%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fshould-you-use-your-browsers-built-in-password-manager%2F "Twitter") 
@@ -104,10 +108,6 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 Direct LinkEmbed Code
 
 Close Modal Dialog
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** recommends
 
@@ -166,7 +166,7 @@ In this article, I explain why I consider a password manager essential. I also t
 * **See: [Best password manager in 2021](https://www.zdnet.com/article/best-password-manager/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The case for password managers 
@@ -182,10 +182,6 @@ Password managers that sync your password database to the cloud use end-to-end e
 The companies that manage and sync those saved files don't have access to the decryption keys. In fact, if the developers have done their job properly, your master password isn't stored anywhere. It's your job to safeguard that secret, and if you forget the decryption key, you're out of luck. Even with the most powerful computing resources, there's [no practical way to crack an AES-256 encrypted file](https://crypto.stackexchange.com/questions/52633/is-there-a-practical-way-to-crack-an-aes-encryption-password) that's protected with a strong personal key. 
 
 That architecture offers five distinct advantages over a DIY solution. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -222,6 +218,10 @@ Password managers work across devices, including PCs, Macs, and mobile devices, 
 
 By contrast, if you manage passwords in an encrypted file that's saved locally, you have to manually copy that file to other devices (or keep it in the cloud in a location under your personal control), and then make sure the contents of each copy stay in sync. More friction. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  5) Surveillance Safeguard 
 
 Password managers generally offer good protection against "shoulder surfing." An attacker who's able to watch you type, either live or with the help of a surveillance camera, can steal your login credentials with ease. Password managers never expose those details. 
@@ -243,10 +243,6 @@ And so you wind up keeping an encrypted list of passwords that are not exactly u
 **"If someone steals my password file, they have all my passwords."**
 
 No, they don't. They have an AES-256 encrypted blob that is, for all intents and purposes, useless gibberish. The only way to extract its secrets is with the decryption key, which you and you alone know. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Security
 
@@ -282,11 +278,19 @@ If you're a journalist working on security issues, or an activist in a country w
 
 But even if you're not an obvious candidate for targeted attacks, you can be swept up in a website breach. That's why [Have I Been Pwned?](https://haveibeenpwned.com/) exists. It's easy enough for a compromised website to force you to reset your password, minimizing the risk of that breach, but if you've used that same combination of credentials elsewhere, you're at serious risk. And no matter how careful you are, you're always at risk of being fooled into handing over your credentials in a well-designed phishing attack.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Which password manager is right for you?
 
 Any password manager solution is better than none.
 
 The simplest solution is to use the password management tools built into your default browser or operating system. That option works especially well for anyone who is technically unsophisticated, has a limited number of credentials to store, and uses hardware and services from a single ecosystem. If you're setting things up for a friend or relative who has a Mac and an iPhone, for example, Apple's Keychain will suffice. Those who live in Google's ecosystem can probably get by with Chrome's password manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### read this
 
@@ -303,10 +307,6 @@ Finally, most commercial password managers include business plans that allow cen
 We've put together a list of the best free and paid options here: [Best Password Manager in 2021](https://www.zdnet.com/article/best-password-manager/). Each entry in this list includes pricing details as well as a link to security information. Every paid program offers a free trial, and we strongly recommend taking advantage of those trials to see if a program is right for you.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Related stories:
 
@@ -330,24 +330,20 @@ We've put together a list of the best free and paid options here: [Best Password
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-tackling-legal-differences-youtubes-restrictions-and-creative-commons-licensing/"><u>[New] Tackling Legal Differences YouTube's Restrictions & Creative Commons Licensing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-top-10-tips-recording-your-youtube-livestreams/"><u>[New] Top 10 Tips Recording Your Youtube Livestreams</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-efficiently-generating-clear-and-concise-images-thumbnails/"><u>2024 Approved Efficiently Generating Clear and Concise Images Thumbnails</u></a></li>
-<li><a href="https://app-tips.techidaily.com/alternative-media-players-similar-to-itunes-for-windows-vista-xp-or-7-users/"><u>Alternative Media Players Similar to iTunes for Windows Vista, XP, or 7 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-error-while-opening-sound-device-in-audacity-for-windows/"><u>Bypassing Error While Opening Sound Device in Audacity for Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278038-cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix</u></a></li>
-<li><a href="https://win-blog.techidaily.com/footie-fans-rejoice-football-manager-2022s-release-hiccups-resolved-here/"><u>Footie Fans Rejoice: Football Manager 2022'S Release Hiccups Resolved Here!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-your-preferred-version-easy-free-downloads-of-both-old-and-new-itunes-for-windows-and-mac/"><u>Get Your Preferred Version: Easy Free Downloads of Both Old and New iTunes for Windows & Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/getting-started-with-itunes-on-windows-operating-systems-a-step-by-step-guide/"><u>Getting Started with iTunes on Windows Operating Systems: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/hand-held-balance-for-sharp-images-for-2024/"><u>Hand-Held Balance for Sharp Images for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-8-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-fix-it-when-your-iphone-is-not-detected-by-itunes/"><u>How to Fix It when Your iPhone Is Not Detected by iTunes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-captivating-customer-revelation/"><u>In 2024, Captivating Customer Revelation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ipod-add-on-tutorial-placing-tracks-without-using-itunes-aiseesofts-approach/"><u>IPod Add-On Tutorial: Placing Tracks Without Using iTunes (Aiseesoft's Approach)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/m-audio-fast-track-driver-update-for-windows-operating-systems-win-1078-and-81/"><u>M-Audio Fast Track Driver Update for Windows Operating Systems (Win 10/7/8 & 8.1)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/no-more-itunes-required-master-the-art-of-seamless-ipod-management-using-modern-alternatives/"><u>No More iTunes Required: Master the Art of Seamless iPod Management Using Modern Alternatives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcome-sluggish-itunes-discover-the-top-10-proven-tips-for-optimal-performance/"><u>Overcome Sluggish iTunes: Discover the Top 10 Proven Tips for Optimal Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transferring-your-playlist-to-ipod-sans-itunes-with-aiseesoft/"><u>Step-by-Step Guide: Transferring Your Playlist to iPod Sans iTunes with Aiseesoft</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-unveiling-the-best-strategies-how-to-boost-engagement-and-growth-on-youtube/"><u>[New] 2024 Approved Unveiling the Best Strategies How to Boost Engagement and Growth on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-essential-guide-to-best-10-gratis-srt-transformers/"><u>[New] The Essential Guide to Best 10 Gratis SRT Transformers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-breakthrough-social-media-moves-sharing-youtube-videos-to-fb/"><u>2024 Approved Breakthrough Social Media Moves Sharing YouTube Videos to FB</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-fixes-for-the-recurring-issue-icloud-login-continually-asks-for-password/"><u>Essential Fixes for the Recurring Issue: ICloud Login Continually Asks for Password</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-successfully-download-images-from-icloud-on-ios-1211-ultimate-guide-with-7-pro-tips/"><u>How to Successfully Download Images From iCloud on iOS 12/11 – Ultimate Guide with 7 Pro Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-creating-an-impactful-film-short-summary/"><u>In 2024, Creating an Impactful Film Short Summary</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-c51-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Realme C51 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/recovering-lost-apple-id-credentials-for-itunes-backups-on-ios-devices/"><u>Recovering Lost Apple ID Credentials for iTunes Backups on iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/resolving-the-icloud-messages-disabled-issue-step-by-step-guide-to-restore-your-apple-id/"><u>Resolving the 'iCloud Messages Disabled' Issue: Step-by-Step Guide to Restore Your Apple ID</u></a></li>
+<li><a href="https://fox-access.techidaily.com/step-up-your-photography-game-with-these-top-8-tablets/"><u>Step Up Your Photography Game With These Top 8 Tablets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-strategies-for-disassociating-your-iphone-from-apples-icloud-service/"><u>Top Strategies for Disassociating Your iPhone From Apple's iCloud Service</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/unleash-the-full-potential-of-your-games-with-a-fresh-update-on-geforce-rtx-2080-ti-graphics-card/"><u>Unleash the Full Potential of Your Games with a Fresh Update on GeForce RTX 2080 Ti Graphics Card</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-v29-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo V29 Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

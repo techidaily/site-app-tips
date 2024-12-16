@@ -1,7 +1,7 @@
 ---
 title: "Open-Source Mandate: Switzerland's Federal Govt. Moves All Software Public"
-date: 2024-12-03T17:56:15.840Z
-updated: 2024-12-09T20:17:12.350Z
+date: 2024-12-12T19:45:17.876Z
+updated: 2024-12-16T01:27:12.156Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-mind-matters-top-educational-youtube-picks/"><u>[Updated] 2024 Approved Mind Matters Top Educational YouTube Picks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-auditory-artistry-access-to-excellent-dj-video-samples-for-2024/"><u>[Updated] Auditory Artistry Access to Excellent DJ Video Samples for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-visual-treats-free-video-to-gif-transformation/"><u>[Updated] In 2024, Twitter's Visual Treats Free Video to Gif Transformation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-social-connectivity-from-instagram-to-tiktoks-playground/"><u>[Updated] Mastering Social Connectivity From Instagram to TikTok's Playground</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/activate-and-configure-your-firewall-windows-10-tutorial-from-the-experts-at-yl-software/"><u>Activate and Configure Your Firewall: Windows 10 Tutorial From the Experts at YL Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-resolving-windows-service-response-errors/"><u>Guide to Resolving Windows Service Response Errors</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-a59-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/mastering-content-creation-essential-tips-for-snapchat-success-for-2024/"><u>Mastering Content Creation Essential Tips for Snapchat Success for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pop-culture-with-a-click-using-kinemaster/"><u>Pop Culture with a Click Using KineMaster</u></a></li>
-<li><a href="https://app-tips.techidaily.com/redefining-development-the-role-of-generative-ai-in-transforming-low-code-into-a-seamless-no-code-experience-zdnet-insights/"><u>Redefining Development: The Role of Generative AI in Transforming Low Code Into a Seamless No Code Experience | ZDNET Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-key-software-tools-for-your-pc-or-mac-according-to-zdnet-experts/"><u>The Ultimate List of Key Software Tools for Your PC or Mac, According to ZDNet Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-recommended-web-hosts-of-2024-comprehensive-expert-analysis-and-rankings-techradar/"><u>Top Recommended Web Hosts of 2024: Comprehensive Expert Analysis & Rankings - TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-crisis-looms-for-microsoft-only-a-year-remaining-to-address-major-issues-insights-from-zdnet/"><u>Windows 11 Crisis Looms for Microsoft - Only a Year Remaining to Address Major Issues | Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/iving-deep-into-youtube-launching-and-earning-your-way-for-2024/"><u>[New] Diving Deep Into Youtube Launching and Earning Your Way for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-watching-social-network-vids-through-the-television-glass/"><u>[New] In 2024, Watching Social Network Vids Through the Television Glass?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-thoroughly-assessing-the-performance-of-theta-s/"><u>[Updated] 2024 Approved Thoroughly Assessing the Performance of Theta S</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-best-free-srt-translator-tools-expert-insight/"><u>2024 Approved Navigating the Best Free SRT Translator Tools – Expert Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-rust-with-linux-creator-linus-torvalds-insights-on-his-work-habits-and-life-with-macbook-air-exclusive-coverage-from-zdnet/"><u>Exploring Rust with Linux Creator Linus Torvalds: Insights on His Work Habits and Life with MacBook Air | Exclusive Coverage From ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-inactive-windows-key-in-os-11/"><u>Fixing Inactive Windows Key in OS 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/grounding-is-especially-critical-for-transmitting-antennas-due-to-the-high-power-involved-which-increases-the-risk-of-lightning-strikes-and-electrical-hazar80/"><u>Grounding Is Especially Critical for Transmitting Antennas Due to the High Power Involved, Which Increases the Risk of Lightning Strikes and Electrical Hazards.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-the-digital-shift-how-enterprise-architects-are-steering-change-zdnet/"><u>Leading the Digital Shift: How Enterprise Architects Are Steering Change | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issue-century-age-of-ashes-now-runs-smoothly-on-windows-mac-and-linux/"><u>Resolved Issue: Century: Age of Ashes Now Runs Smoothly on Windows, Mac, & Linux</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-using-videos-in-education-for-2024/"><u>The Art of Using Videos in Education for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-hottest-developer-positions-and-rising-programming-languages-predictions-for-the-tech-industry-insights-from-zdnet/"><u>The Hottest Developer Positions & Rising Programming Languages: Predictions for the Tech Industry | Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-polarization-shown-by-the-radiation-pattern-should-match-that-of-the-receiving-antenna-to-maximize-signal-reception-and-minimize-losses/"><u>The Polarization Shown by the Radiation Pattern Should Match that of the Receiving Antenna to Maximize Signal Reception and Minimize Losses.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-mastery-in-quick-writer-with-these-latest-copilot-updates-for-microsoft-365-expert-insights-from-zdnet/"><u>Unlocking Mastery in Quick Writer with These Latest Copilot Updates for Microsoft 365 - Expert Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-potential-of-ai-in-business-with-servicenow-understanding-the-four-critical-guiding-principles-insights-from-zdnet/"><u>Unlocking the Potential of AI in Business with ServiceNow: Understanding the Four Critical Guiding Principles - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-to-merge-clips-in-davinci-resolve-simple-steps/"><u>Updated In 2024, Learn to Merge Clips in DaVinci Resolve Simple Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsoft-must-fix-windows-10-issues-within-just-one-year-insights-from-zdnet/"><u>Urgent Challenge: Microsoft Must Fix Windows 10 Issues Within Just One Year - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-companies-face-difficulty-in-harnessing-generative-ai-key-findings-from-deloittes-research-zdnet/"><u>Why Companies Face Difficulty in Harnessing Generative AI: Key Findings From Deloitte's Research | ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-purchasing-pc-games-from-microsoft-remains-a-superior-choice/"><u>Why Purchasing PC Games From Microsoft Remains a Superior Choice</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 1Password Secures Massive $620M Investment - Recent Financing News Covered by Tech Industry Leaders
-date: 2024-12-05T18:28:04.798Z
-updated: 2024-12-10T01:12:33.001Z
+date: 2024-12-14T01:21:35.223Z
+updated: 2024-12-15T21:40:30.136Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Password manager 1Password said it closed its latest funding round on Wednesday, raising $620 million and boosting its valuation to $6.8 billion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Password manager 1Password said it closed its latest funding round on Wednesday,
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Series C funding round included the participation of ICONIQ Growth, Tiger Global, Lightspeed Venture Partners, Backbone Angels, and Accel, which led the Canadian company's series A and B rounds. 
@@ -83,21 +83,18 @@ Will Griffith, a founding partner at ICONIQ Growth, said more than one hundred C
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-innovating-messaging-sounds-a-guide-to-downloading-and-personalizing-whatsapp-ringtones-for-2024/"><u>[New] Innovating Messaging Sounds A Guide to Downloading & Personalizing WhatsApp Ringtones for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-ultimate-list-of-ios-camera-apps-for-the-iphone-xplus-series-for-2024/"><u>[New] The Ultimate List of iOS Camera Apps for the iPhone X+ Series for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-video-speed-boosting-for-smooth-playbacks-mobiledesktop/"><u>[Updated] 2024 Approved Instagram Video Speed Boosting for Smooth Playbacks (Mobile/Desktop)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-strategic-planning-for-effective-virtual-meetings-on-win11/"><u>[Updated] 2024 Approved Strategic Planning for Effective Virtual Meetings on Win11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-microscreenmugger-assessment-report/"><u>[Updated] MicroScreenMugger Assessment Report</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/automatische-datensicherung-mit-windows-10-durchfuhren-zwei-einfache-methoden/"><u>Automatische Datensicherung Mit Windows 10 Durchführen: Zwei Einfache Methoden</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-writing-with-these-innovative-5-ai-companions/"><u>Boost Your Writing with These Innovative 5 AI Companions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-imovie-review-features-assessment-and-top-editing-software-substitutes/"><u>Comprehensive IMovie Review: Features, Assessment & Top Editing Software Substitutes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-leading-10-image-cataloging-applications-for-both-windows-and-mac-systems-a-comprehensive-ranking-guide/"><u>Discover the Leading 10 Image Cataloging Applications for Both Windows & Mac Systems: A Comprehensive Ranking Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-8-ultimate-free-fax-applications-for-your-android-device/"><u>Discover the Top 8 Ultimate Free Fax Applications for Your Android Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortlessly-explore-inbox-the-best-five-apps-for-computer-based-message-management/"><u>Effortlessly Explore Inbox: The Best Five Apps for Computer-Based Message Management</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-choices-a-comprehensive-guide-to-ipad-pro-and-macbook-air-features/"><u>Navigating the Choices: A Comprehensive Guide to IPad Pro and MacBook Air Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-idevice-software-challenges-tips-for-successful-ios-upgrades/"><u>Solving iDevice Software Challenges: Tips for Successful iOS Upgrades</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-the-top-6-iphone-apps-to-restore-your-lost-memories/"><u>Ultimate Guide: The Top 6 iPhone Apps to Restore Your Lost Memories</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-hardware-picks-expert-guidance-from-toms-gear-testing/"><u>Unveiling Top Hardware Picks: Expert Guidance From Tom's Gear Testing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unleashing-the-best-video-footage-with-gopro/"><u>[New] 2024 Approved Unleashing the Best Video Footage with GoPro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-instagram-virtuosos-playbook-for-widespread-popularity-for-2024/"><u>[New] The Instagram Virtuoso's Playbook for Widespread Popularity for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-8-best-free-video-editing-software-for-youtube/"><u>[Updated] 2024 Approved 8 Best Free Video Editing Software for YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-harmonizing-background-sounds-with-film-trailers/"><u>[Updated] 2024 Approved Harmonizing Background Sounds with Film Trailers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mastery-guide-swiftly-switching-facebook-profile-pictures-for-2024/"><u>[Updated] Mastery Guide Swiftly Switching Facebook Profile Pictures for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-2024-guide-top-5-best-offline-and-online-ai-powered-video-stabilization-tools/"><u>Best 2024 Guide: Top 5 Best Offline & Online AI-Powered Video Stabilization Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/cant-open-the-credential-manager-on-windows-try-these-fixes/"><u>Can’t Open the Credential Manager on Windows? Try These Fixes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/hugging-face-community-advanced-text-to-video-transformation-techniques/"><u>Hugging Face Community: Advanced Text-to-Video Transformation Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-future-of-online-gaming-earnings/"><u>In 2024, Future of Online Gaming Earnings</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-x-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone X without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-stable-diffusion-ai-exploring-the-capabilities-of-a-cutting-edge-image-synthesis-tool/"><u>In-Depth Analysis of Stable Diffusion AI - Exploring the Capabilities of a Cutting-Edge Image Synthesis Tool</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/introduction-to-digiarty-software-inc-winxdvd-corporate-information-and-insights/"><u>Introduction to Digiarty Software, Inc. (WinXDVD): Corporate Information and Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-leading-video-transcription-apps-for-flawless-text-output/"><u>Ultimate Selection of Leading Video Transcription Apps for Flawless Text Output</u></a></li>
 </ul></div>
 

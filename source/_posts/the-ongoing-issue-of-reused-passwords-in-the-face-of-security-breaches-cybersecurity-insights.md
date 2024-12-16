@@ -1,7 +1,7 @@
 ---
 title: The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights
-date: 2024-12-07T04:16:40.517Z
-updated: 2024-12-09T21:53:11.708Z
+date: 2024-12-12T07:19:36.981Z
+updated: 2024-12-16T02:26:27.414Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -114,7 +114,7 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -141,7 +141,7 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -189,22 +189,22 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-illustrate-images-select-caption-apps-for-your-photos-iosandroid/"><u>[New] 2024 Approved Illustrate Images Select Caption Apps for Your Photos (iOS/Android)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-beatback-bungalow-recordings-downloads-and-reviews/"><u>[New] Beatback Bungalow Recordings Downloads & Reviews</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-artistic-awareness-accelerate-editing-in-the-photos-app-win10-style/"><u>[Updated] Artistic Awareness Accelerate Editing in the Photos App, WIN10 Style</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-audio-alchemy-selecting-melodies-that-enhance-boxings/"><u>[Updated] In 2024, Audio Alchemy Selecting Melodies that Enhance Boxings</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/achieving-reliable-internet-with-tp-links-deco-p9-in-depth-review-for-optimal-wi-fi-experience/"><u>Achieving Reliable Internet with TP-Link's Deco P9: In-Depth Review for Optimal Wi-Fi Experience</u></a></li>
-<li><a href="https://app-tips.techidaily.com/buy-dashlane-premium-at-half-price-exclusive-sale-alert-from-zdnet/"><u>Buy Dashlane Premium at Half Price! Exclusive Sale Alert From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/counteracting-overcapacity-alerts-for-gpt-service/"><u>Counteracting Overcapacity Alerts for GPT Service</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cybersecurity-firm-provides-rapid-defense-against-log4j-vulnerability-for-non-updatable-systems-zdnet/"><u>Cybersecurity Firm Provides Rapid Defense Against Log4j Vulnerability for Non-Updatable Systems - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-strategies-for-safeguarding-your-password-vault-insights-from-zdnet/"><u>Effective Strategies for Safeguarding Your Password Vault - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/from-lastpass-to-icloud-transition-your-passwords-securely-on-pc-expert-tips-from-zdnet/"><u>From LastPass to iCloud: Transition Your Passwords Securely on PC - Expert Tips From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/getting-started-with-dashlane-understanding-costs-key-functionalities-and-initial-setup-steps-insights-from-zdnet/"><u>Getting Started with Dashlane: Understanding Costs, Key Functionalities & Initial Setup Steps - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-action-cam-showdown-which-holds-the-crown-gopro-or-yi/"><u>In 2024, Action Cam Showdown Which Holds the Crown - GoPro or Yi?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-asus-rog-phone-8-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Asus ROG Phone 8 Phone?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/phishers-favorite-targets-revealed-how-dhl-microsoft-and-whatsapp-top-seo-lists-for-brand-fraud-zdnet-insights/"><u>Phishers' Favorite Targets Revealed: How DHL, Microsoft & WhatsApp Top SEO Lists for Brand Fraud | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-truth-behind-instagram-why-it-may-not-be-as-reliable-as-you-think/"><u>The Truth Behind Instagram: Why It May Not Be as Reliable as You Think</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-lastpass-substitutes-a-comprehensive-guide-zdnet/"><u>Top LastPass Substitutes : A Comprehensive Guide - ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-metaverse-humor-creation/"><u>[Updated] Harnessing the Power of Metaverse Humor Creation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-cutting-edge-top-8-free-online-video-tools/"><u>[Updated] In 2024, Cutting Edge Top 8 Free Online Video Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-discover-instagrams-free-filter-options-with-smart-searching-techniques/"><u>[Updated] In 2024, Discover Instagram's FREE Filter Options with Smart Searching Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-proper-techniques-for-streaming-from-gopro-camera-to-social-networks-for-2024/"><u>[Updated] Proper Techniques for Streaming From GoPro Camera to Social Networks for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-how-adobes-enterprise-level-ai-feature-transforms-team-collaboration-insights-from-zdnet/"><u>1. How Adobe's Enterprise-Level AI Feature Transforms Team Collaboration: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-transforming-business-the-effects-of-decentralization-and-web3-on-corporations-insights-from-zdnet/"><u>1. Transforming Business: The Effects of Decentralization & Web3 on Corporations - Insights From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-illustration-insights-elevating-text-in-three-dimensions/"><u>2024 Approved Illustration Insights Elevating Text in Three Dimensions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/agnes-ro-reveals-the-transformation-in-modern-development-roles-at-atlassian-insights-from-tech-visionary/"><u>Agnes Ro Reveals the Transformation in Modern Development Roles at Atlassian - Insights From Tech Visionary</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-deadline-approaching-for-microsofts-windows-11-issues-only-a-year-remains-to-fix-them/"><u>Critical Deadline Approaching for Microsoft's Windows 11 Issues – Only a Year Remains to Fix Them!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-new-frontiers-in-coding-efficiency-the-impact-of-github-copilot-as-revealed-by-zdnet/"><u>Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-transform-your-photos-into-animations-with-these-7-essential-tools/"><u>In 2024, Transform Your Photos Into Animations with These 7 Essential Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-skills-with-courseras-new-levelset-exams-insights-from-zdnet/"><u>Mastering Skills with Coursera's New LevelSet Exams: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-output-with-expert-tips-and-tools-mastering-daily-workflow-management-zdnet/"><u>Maximize Output with Expert Tips and Tools: Mastering Daily Workflow Management | ZDNET</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-best-free-online-video-editors-a-comprehensive-guide/"><u>New The Best Free Online Video Editors A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-ps4-nat-troubles-expert-step-by-step-strategies-that-work/"><u>Overcome PS4 NAT Troubles: Expert Step-by-Step Strategies That Work</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-upgrading-your-system-from-linux-mint-to-the-latest-version/"><u>Step-by-Step Guide: Upgrading Your System From Linux Mint to the Latest Version</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-how-to-guide-on-unfreezing-your-ps4-step-by-detailed-step/"><u>The Ultimate How-To Guide on Unfreezing Your PS4 - Step by Detailed Step</u></a></li>
 </ul></div>
 

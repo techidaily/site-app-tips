@@ -1,7 +1,7 @@
 ---
 title: Elevating Enterprise Defense Starts at the Employee Level – Expert Advice on Corporate and Personal Cybersecurity by ZDNet
-date: 2024-12-05T20:27:01.958Z
-updated: 2024-12-09T22:16:59.874Z
+date: 2024-12-12T02:16:10.149Z
+updated: 2024-12-16T06:55:29.883Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Corporations aren't doing enough to improve their employees' personal security practices. Credentials remain the highest targeted data type as they are the gateway to ransomware and data theft. 61% of data breaches in 2021 involved the use of stolen and misused credentials. Bad actors took advantage of a global pandemic to increase the number of phishing attacks, the cause of stolen credentials in 36% of breaches -- a 9% increase over last year -- according to the [Verizon 2021 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdfx). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,21 +66,16 @@ Given how connected we all are, the rising demands of working anywhere, and incr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-flourishing-in-virtual-dialogue-top-strategies-to-master-zoom-chats/"><u>[New] Flourishing in Virtual Dialogue Top Strategies to Master ZOOM Chats</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-navigating-mac-screenshot-file-type-changes-for-2024/"><u>[New] Navigating Mac Screenshot File Type Changes for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-a-comprehensive-look-at-youtube-to-facebook-file-transfers-for-2024/"><u>[Updated] A Comprehensive Look at YouTube-to-Facebook File Transfers for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pro-video-practice-screen-record-on-various-devices/"><u>2024 Approved Pro Video Practice Screen Record on Various Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-android-projector-applications-top-8-picks-for-seamless-wireless-connection/"><u>Best Android Projector Applications: Top 8 Picks for Seamless Wireless Connection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-pinnacle-studio-benefits-drawbacks-and-best-alternatives-explored/"><u>Comprehensive Review of Pinnacle Studio: Benefits, Drawbacks & Best Alternatives Explored</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-12-effortless-typing-solutions-on-ios-and-android-the-ultimate-keyboard-app-selection/"><u>Discover the Top 12 Effortless Typing Solutions on iOS & Android: The Ultimate Keyboard App Selection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193990-experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-x100-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo X100 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-guide-top-free-tools-for-speedy-file-removal-on-your-ipad-device/"><u>Quick Guide: Top Free Tools for Speedy File Removal on Your iPad Device</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/razer-laptop-mini-beast-unleashed-a-comprehensive-book-13-assessment/"><u>Razer Laptop Mini Beast Unleashed: A Comprehensive Book 13 Assessment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simplify-painting-tasks-at-home-using-our-recommended-4-mobile-tools/"><u>Simplify Painting Tasks at Home Using Our Recommended 4 Mobile Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-8-must-have-multi-window-programs-for-android-phones-and-tablets/"><u>The Ultimate List of 8 Must-Have Multi-Window Programs for Android Phones & Tablets</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/top-rated-screen-capture-software-for-windows-1087-users-full-or-portion-screen-recording-options/"><u>Top-Rated Screen Capture Software for Windows 10/8/7 Users: Full or Portion Screen Recording Options</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unleashing-potential-top-8-efficiency-boosters-for-social-media-tasks-for-2024/"><u>Unleashing Potential Top 8 Efficiency Boosters for Social Media Tasks for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-vita-your-ultimate-guide-to-mastering-the-cutting-edge-video-editor/"><u>Unveiling the Power of VITA: Your Ultimate Guide to Mastering the Cutting-Edge Video Editor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-youtube-a-step-by-step-process-unveiled/"><u>[New] In 2024, From Raw Footage to YouTube A Step-by-Step Process Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/detailed-insight-into-twistedwave-exploring-benefits-limitations-premier-qualities-and-usage-scenarios/"><u>Detailed Insight Into TwistedWave: Exploring Benefits, Limitations, Premier Qualities, and Usage Scenarios</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/download-your-favorite-izlesene-videos-as-high-quality-mp4-or-avi-files/"><u>Download Your Favorite Izlesene Videos as High-Quality MP4 or AVI Files</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-cooling-gadget-every-tech-enthusiast-requires-unlock-the-secret-to-a-chillier-laptop-with-brand-name/"><u>Essential Cooling Gadget Every Tech Enthusiast Requires: Unlock the Secret to a Chillier Laptop with [Brand Name]!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-dell-xps-13-9310-laptop-ultra-thin-design-meets-powerful-performance/"><u>Exploring the Dell XPS 13 (9310) Laptop: Ultra-Thin Design Meets Powerful Performance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/imovie-editor-guide-detailed-analysis-reviews-and-alternative-solutions-for-video-editing/"><u>IMovie Editor Guide: Detailed Analysis, Reviews & Alternative Solutions for Video Editing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-insights-on-the-bnsf-simulation-a-complete-examination/"><u>In-Depth Insights on the BNSF Simulation: A Complete Examination</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-poco-x5-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Poco X5</u></a></li>
+<li><a href="https://app-tips.techidaily.com/say-goodbye-to-nuisance-phonecalls-effective-strategies-for-call-blocking-on-ios-and-android-devices/"><u>Say Goodbye to Nuisance Phonecalls: Effective Strategies for Call-Blocking on iOS & Android Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-for-managing-gpu-fails-in-running-systems/"><u>Strategies for Managing GPU Fails in Running Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity Titans Unite! ZeroFox Acquires IDX, Aligning with L&F for an Impressive $1.4 Billion Powerhouse Revealed by ZDNet
-date: 2024-12-07T04:30:37.506Z
-updated: 2024-12-09T22:11:24.411Z
+date: 2024-12-14T22:38:14.249Z
+updated: 2024-12-16T00:34:36.258Z
 tags:
   - password-manager
 categories:
@@ -18,7 +18,7 @@ The company will be renamed ZeroFox Holdings once the deal goes through and will
 Monarch Alternative Capital LP and several other firms are also investing $170 million in the deal to merge the companies. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -87,17 +87,18 @@ Adam Gerchen, CEO of LNFA and a new ZeroFox board member, noted that the company
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-taste-titans-must-follow-culinary-creators-online/"><u>[New] 2024 Approved Taste Titans Must-Follow Culinary Creators Online</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-ideal-internet-spots-curated-custom-tones-downloads-for-2024/"><u>[Updated] Ideal Internet Spots Curated Custom Tones Downloads for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/black-friday-exclusive-offer-save-big-with-a-50-discount-on-nordpass-premium-password-manager-zdnet-news/"><u>Black Friday Exclusive Offer: Save Big with a 50% Discount on NordPass Premium Password Manager | ZDNet News</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-improved-performance-and-new-capabilities-with-the-updated-1password-mobile-version-now-live/"><u>Discover Improved Performance & New Capabilities with the Updated 1Password Mobile Version, Now Live!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easily-transition-your-saved-passwords-from-lastpass-to-icloud-for-windows-systems-zdnet/"><u>Easily Transition Your Saved Passwords From LastPass to iCloud for Windows Systems | ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-100-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 100 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-expert-selection-the-top-11-kid-friendly-waterproof-camcorders/"><u>In 2024, Expert Selection The Top 11 Kid-Friendly, Waterproof Camcorders</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-telegrams-launchpad-for-aspiring-advertisers-a-starters-handbook/"><u>In 2024, Telegram's Launchpad for Aspiring Advertisers A Starter's Handbook</u></a></li>
-<li><a href="https://extra-support.techidaily.com/precision-filmmaking-high-definition-lens-recommendations-for-2024/"><u>Precision Filmmaking High-Definition Lens Recommendations for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/precision-gameplay-with-proximity-focus-in-roblox-for-2024/"><u>Precision Gameplay with Proximity Focus in Roblox for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-free-password-managers-comprehensive-reviews-and-comparisons/"><u>Top Rated Free Password Managers - Comprehensive Reviews and Comparisons</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elite-picks-advanced-webcam-stands/"><u>[Updated] 2024 Approved Elite Picks Advanced Webcam Stands</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-netflix-archive-the-complete-guide-to-screencapturing-your-views/"><u>[Updated] Netflix Archive The Complete Guide to ScreenCapturing Your Views</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-depicting-facial-dynamics-blur-effects-in-picsart/"><u>2024 Approved Depicting Facial Dynamics Blur Effects in Picsart</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-how-to-add-featured-channels-on-youtube-an-ultimate-guide/"><u>2024 Approved How to Add Featured Channels on YouTube An Ultimate Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-efficiency-with-these-expert-slack-hacks-maximize-workflow-and-collaboration-on-teams/"><u>Boost Your Efficiency with These Expert Slack Hacks: Maximize Workflow & Collaboration on Teams</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bust-the-specter-fingers-plaguing-your-iphone-screen-try-these-10-fixes-now/"><u>Bust the Specter Fingers Plaguing Your iPhone Screen? Try These 10 Fixes Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/choosing-the-right-hosting-platform-github-or-gitlab-a-comparative-guide-by-zdnet/"><u>Choosing the Right Hosting Platform: GitHub or GitLab? - A Comparative Guide by ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-business-with-the-latest-update-of-abbyy-flexicapture-cloud/"><u>Enhance Your Business with the Latest Update of ABBYY FlexiCapture Cloud</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-itel-p55t-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Itel P55T Quickly | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/video-embedding-for-dynamic-online-articles/"><u>Free Video Embedding for Dynamic Online Articles</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-phantom-v-foldfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Phantom V FoldFRP Lock</u></a></li>
+<li><a href="https://app-tips.techidaily.com/openstack-and-kata-container-renaissance-exploring-their-renewed-appeal-on-the-tech-scene-analysis-by-zdnet/"><u>OpenStack and Kata Container Renaissance: Exploring Their Renewed Appeal on the Tech Scene - Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10s-end-of-life-approaches-discover-these-5-alternatives-you-should-consider/"><u>Windows 10'S End-of-Life Approaches: Discover These 5 Alternatives You Should Consider</u></a></li>
 </ul></div>
 

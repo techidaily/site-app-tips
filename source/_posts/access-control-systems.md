@@ -1,7 +1,7 @@
 ---
 title: Access Control Systems
-date: 2024-12-04T17:24:22.433Z
-updated: 2024-12-10T01:18:12.983Z
+date: 2024-12-14T22:16:54.467Z
+updated: 2024-12-15T19:32:11.036Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-foremost-virtual-environments-providers/"><u>[New] 2024 Approved Foremost Virtual Environments Providers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-instagram-videos-size-and-format-tips/"><u>[New] In 2024, Mastering Instagram Videos Size and Format Tips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-beyond-beats-8-free-mp3-downloaders-transforming-android-into-a-spiritual-haven/"><u>2024 Approved Beyond Beats 8 Free MP3 Downloaders Transforming Android Into a Spiritual Haven</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boost-your-visuals-direct-link-to-the-newest-geforce-gtx-1660-super-drivers-free-update-available/"><u>Boost Your Visuals: Direct Link to the Newest GeForce GTX 1660 Super Drivers - Free Update Available</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-samsung-galaxy-a71-5g-the-smart-choice-beyond-premium-phones/"><u>Comprehensive Review of the Samsung Galaxy A71 5G - The Smart Choice Beyond Premium Phones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/debunking-microsoft-recall-as-a-privacy-catastrophe-here-are-7-compelling-reasons-you-shouldnt-worry-zdnet/"><u>Debunking Microsoft Recall as a Privacy Catastrophe? Here Are 7 Compelling Reasons You Shouldn't Worry | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-essential-is-devops-for-staying-ahead-in-business-ensuring-safety-through-top-strategies-insights-from-zdnet/"><u>How Essential Is DevOps for Staying Ahead in Business: Ensuring Safety Through Top Strategies - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-major-cloud-services-aws-azure-and-google-cloud-for-a-hybrid-and-saas-strategy-insights-by-zdnet/"><u>In-Depth Analysis of Major Cloud Services: AWS, Azure, and Google Cloud for a Hybrid and SaaS Strategy | Insights by ZDNET</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317512-9781848505995-life-among-the-dead/"><u>Life Among the Dead | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-process-of-upgrading-your-system-to-ubuntu-2404-tips-and-tricks-from-zdnet/"><u>Mastering the Process of Upgrading Your System to Ubuntu 24.04: Tips and Tricks From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-corporate-drama-unveiled-by-zdnet/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown – Corporate Drama Unveiled by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/setting-up-libreoffice-preferences-seamlessly-convert-to-microsoft-office-formats/"><u>Setting Up LibreOffice Preferences: Seamlessly Convert to Microsoft Office Formats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-linus-torvalds-use-of-rust-for-linux-development-and-life-routines-with-m2-macbook-air-insights-from-zdnet-interview/"><u>Unveiling Linus Torvalds' Use of Rust for Linux Development and Life Routines with M2 MacBook Air | Insights From ZDNet Interview</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-6-video-mergers-without-watermark/"><u>Updated In 2024, 6 Video Mergers Without Watermark</u></a></li>
-<li><a href="https://some-skills.techidaily.com/venture-beyond-reality-with-our-top-1-cookies-in-mobile-vr-technology-for-2024/"><u>Venture Beyond Reality with Our Top 1 Cookies in Mobile VR Technology for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-10-youtube-music-rippers-for-android-and-ios/"><u>2024 Approved 10 YouTube Music Rippers for Android and iOS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-immerse-audiences-integrating-sound-effectively-in-canva-films/"><u>2024 Approved Immerse Audiences Integrating Sound Effectively in Canva Films</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-subtlety-garagebands-audio-softening/"><u>2024 Approved The Art of Subtlety Garageband's Audio Softening</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amazons-innovative-approach-introducing-an-advanced-ai-benchmark-for-ranking-annotation-gaps-spotlight-on-the-latest-zdnet-report/"><u>Amazon's Innovative Approach: Introducing an Advanced AI Benchmark for Ranking Annotation Gaps - Spotlight on the Latest ZDNet Report</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-progress-in-strategic-convergence-zdnet/"><u>Bridging the Tech and Business Divide: Progress in Strategic Convergence | ZDNet</u></a></li>
+<li><a href="https://win-web3.techidaily.com/diagnosing-gpu-issues-interpreting-symptoms-of-video-card-failure-by-experts-at-yl-software/"><u>Diagnosing GPU Issues: Interpreting Symptoms of Video Card Failure by Experts at YL Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro with a Mask On</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-live-videos-with-the-best-video-translator/"><u>In 2024, Translate Live Videos With The Best Video Translator</u></a></li>
+<li><a href="https://app-tips.techidaily.com/intel-predicts-enterprise-adoption-of-ai-over-next-three-to-five-years-insights-from-zdnet/"><u>Intel Predicts Enterprise Adoption of AI Over Next Three to Five Years: Insights From ZDNet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/step-up-to-stardom-10-pro-tips-for-pixlr-excellence/"><u>Step up to Stardom 10 Pro Tips for Pixlr Excellence</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-kubernetes-its-critical-role-in-modern-software-deployment/"><u>Unveiling Kubernetes: Its Critical Role in Modern Software Deployment</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-career-fulfillment-surpasses-tech-giants-the-joy-of-working-outside-the-apple-orchard/"><u>Why Career Fulfillment Surpasses Tech Giants: The Joy of Working Outside the Apple Orchard</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-expert-picks-leading-crm-solutions-of-2022-tailored-for-smb-efficiency-and-growth/"><u>ZDNet's Expert Picks: Leading CRM Solutions of 2022 Tailored for SMB Efficiency and Growth</u></a></li>
 </ul></div>
 

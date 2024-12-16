@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Turning On the Bitwarden Security Prompt for Your Master Key"
-date: 2024-12-05T19:03:02.169Z
-updated: 2024-12-09T23:07:39.399Z
+date: 2024-12-09T00:32:40.367Z
+updated: 2024-12-15T22:47:29.202Z
 tags:
   - password-manager
 categories:
@@ -63,7 +63,7 @@ Because the password re-prompt doesn't prevent copying the password, it's not a 
 With that said, how do you enable the password re-prompt? Let me show you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable the Bitwarden password re-prompt
@@ -71,7 +71,7 @@ With that said, how do you enable the password re-prompt? Let me show you.
 **What you'll need:** The only things you need for this are a working instance of Bitwarded, either on a desktop or mobile device. The process also works on the web-based version. I'll demonstrate this on the desktop app, but the process is the same on all platforms.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Bitwarden and unlock your vault
@@ -79,7 +79,7 @@ With that said, how do you enable the password re-prompt? Let me show you.
 The first thing to do is open the Bitwarden app and unlock your vault.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open a vault item for editing
@@ -91,7 +91,7 @@ The edit button is the pencil directly to the right of the + button.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable the password re-prompt
@@ -109,7 +109,7 @@ Now, any time you want to view that password, you'll be prompted to type your Bi
 Keep going and add the re-prompt feature to any/all vault entries you believe need the extra layer of security. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A couple of extra steps
@@ -149,15 +149,16 @@ This may not stop unwanted users from copying and pasting your passwords, but it
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-directly-connecting-tvs-to-fb-video-streaming-for-2024/"><u>[New] Directly Connecting TVs to Fb Video Streaming for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-audio-capture-system-testing-guide/"><u>[Updated] 2024 Approved Audio Capture System Testing Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-self-balancing-snap-shots-without-supports/"><u>[Updated] 2024 Approved Self-Balancing Snap Shots Without Supports</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-spark-interest-and-boost-views-on-instagram-videos-for-2024/"><u>[Updated] How to Spark Interest & Boost Views on Instagram Videos for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/easy-guide-to-resolving-continuous-valorant-crashing-issues-on-windowsmacos/"><u>Easy Guide to Resolving Continuous Valorant Crashing Issues on Windows/MacOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-cyberlinks-actiondirector-features-benefits-and-competitors/"><u>In-Depth Analysis of CyberLink's ActionDirector: Features, Benefits & Competitors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-magisto-video-software-advantages-limitations-and-comparative-assessment/"><u>In-Depth Analysis of Magisto Video Software: Advantages, Limitations & Comparative Assessment</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-messaging-schedulers-reviewed-discover-the-top-10-picks-for-smartphones/"><u>Leading Messaging Schedulers Reviewed: Discover the Top 10 Picks for Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/shadow-spectators-on-ig-uncover-the-ultimate-list-of-incognito-gazers-for-content-sneak-peeks/"><u>Shadow Spectators on IG: Uncover the Ultimate List of Incognito Gazers for Content Sneak Peeks</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/the-ultimate-list-of-the-worlds-most-menacing-hackers-ever-insights-from-malwarefox/"><u>The Ultimate List of the World's Most Menacing Hackers Ever - Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-excellence-in-video-selecting-peak-frame-rates-for-slow-motion-effects/"><u>[Updated] Excellence in Video Selecting Peak Frame Rates for Slow-Motion Effects</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ice-chase-top-moments-captured-s-olympic-snowboard-race-events/"><u>[Updated] Ice Chase Top Moments Captured 'S Olympic Snowboard Race Events</u></a></li>
+<li><a href="https://app-tips.techidaily.com/7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-productivity-utilizing-gmails-tools-to-filter-messages-and-expand-contact-list-efficiently/"><u>Boost Productivity: Utilizing Gmail's Tools to Filter Messages & Expand Contact List Efficiently</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-20-most-exceptional-lock-screen-utilities-tailored-for-android-smartphones/"><u>Discover the 20 Most Exceptional Lock Screen Utilities Tailored for Android Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-photography-skills-discover-5-remarkable-tools-for-upgrading-and-perfecting-images-beyond-remini/"><u>Elevate Your Photography Skills: Discover 5 Remarkable Tools for Upgrading and Perfecting Images Beyond Remini</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/enhancing-your-ig-presence-the-ultimate-tool-list/"><u>Enhancing Your IG Presence The Ultimate Tool List</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-discover-creative-ways-to-enhance-your-fb-video-ads/"><u>In 2024, Discover Creative Ways to Enhance Your FB Video Ads</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mumu-player-the-ultimate-powerful-android-emulation-tool-for-your-computer/"><u>MuMu Player: The Ultimate Powerful Android Emulation Tool for Your Computer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193647-unlock-ultimate-convenience-and-safety-on-ios-discover-the-premier-password-protector-app/"><u>Unlock Ultimate Convenience & Safety on iOS - Discover the Premier Password Protector App!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-verdict-on-hitman-3s-epic-endgame/"><u>Unveiling the Verdict on Hitman 3'S Epic Endgame</u></a></li>
 </ul></div>
 

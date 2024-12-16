@@ -1,7 +1,7 @@
 ---
 title: Easily Transition Your Saved Passwords From LastPass to iCloud for Windows Systems | ZDNet
-date: 2024-12-07T00:08:04.804Z
-updated: 2024-12-10T03:24:21.885Z
+date: 2024-12-11T21:44:54.728Z
+updated: 2024-12-15T18:22:53.975Z
 tags:
   - password-manager
 categories:
@@ -19,6 +19,10 @@ Image: Maria Diaz/ZDNET
 
 An [Apple ID](https://www.zdnet.com/article/your-friends-could-help-stop-you-getting-locked-out-of-your-apple-id/) gives you access to many perks within the Apple software ecosystem, and one of them is [Keychain](https://www.zdnet.com/article/how-to-locate-a-password-with-the-macos-keychain/): iCloud's password manager. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
@@ -31,15 +35,7 @@ If you've been around for the past 10 or so years, you know that most services r
 
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use iCloud as a password manager on Windows
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open iCloud for Windows
 
@@ -51,10 +47,6 @@ Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Sign in to your iCloud Passwords
 
 Once you sign in to your account -- if you haven't already -- you can access your account, add another account, and make any necessary changes.
@@ -64,6 +56,10 @@ Go to Passwords, and click Apply.
 Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Make sure Passwords is on and click Apply
 
@@ -75,10 +71,6 @@ Make sure Passwords is on and click **Apply**.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Add browser extension
 
 At this point, you can also add a browser extension to [Google Chrome](https://www.zdnet.com/article/malicious-google-chrome-extensions-affect-1-4-million-users/) or [Microsoft Edge](https://www.zdnet.com/article/beef-up-microsoft-edge-with-my-favorite-add-ons/) by following the instructions in the iCloud for Windows app. 
@@ -88,6 +80,10 @@ Once you click **Install Extension** in iCloud, you'll be able to add the **iClo
 Maria Diaz/ZDNET
 
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
 
@@ -104,6 +100,10 @@ Maria Diaz/ZDNET
 Enter the verification code. 
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Try out the password manager
 
@@ -130,7 +130,7 @@ iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/arti
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
@@ -167,24 +167,20 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-next-level-thrills-with-samsungs-leading-vr-games/"><u>[Updated] In 2024, Next-Level Thrills with Samsung's Leading VR Games</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-empowering-skill-advancement-beyond-artificial-intelligence-on-the-digital-frontier-insights-from-zdnet/"><u>1. Empowering Skill Advancement: Beyond Artificial Intelligence on the Digital Frontier - Insights From ZDNet</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-top-10-economical-platforms-for-seamless-online-video-meetings/"><u>2024 Approved The Top 10 Economical Platforms for Seamless Online Video Meetings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-free-tool-the-essential-add-on-missing-from-all-new-macs-zdnet/"><u>Discover the Ultimate Free Tool: The Essential Add-On Missing From All New Macs | ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-y100i-power-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo Y100i Power 5G Device SIM</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/elevate-your-online-presence-discover-manycams-best-live-video-and-virtual-camera-features/"><u>Elevate Your Online Presence: Discover ManyCam's Best Live Video and Virtual Camera Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-the-future-how-your-enterprise-will-depend-on-numerous-ai-solutions-insights-from-zdnet/"><u>Embracing the Future: How Your Enterprise Will Depend on Numerous AI Solutions - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-chinas-leap-into-the-future-with-advanced-supercomputing-strategies/"><u>Empowering China's Leap Into the Future with Advanced Supercomputing Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/evolving-threats-demand-modern-cyber-skills-as-security-professionals-grapple-with-outdated-infrastructures/"><u>Evolving Threats Demand Modern Cyber Skills as Security Professionals Grapple with Outdated Infrastructures</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-realme-c51-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Realme C51 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/is-ai-a-threat-to-future-opportunities-in-the-cybersecurity-workforce-expert-analysis-by-zdnet/"><u>Is AI a Threat to Future Opportunities in the Cybersecurity Workforce? | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-present-wave-of-instantaneous-change-an-unbalanced-distribution/"><u>Navigating the Present Wave of Instantaneous Change: An Unbalanced Distribution</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-a-laptop-battery-that-wont-charge/"><u>Quick Solutions for a Laptop Battery That Won't Charge</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/stay-safe-the-premier-storm-monitoring-apps-to-watch/"><u>Stay Safe: The Premier Storm Monitoring Apps to Watch</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-quest-for-superior-video-playback-software/"><u>The Quest for Superior Video Playback Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-web-hosting-providers-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Web Hosting Providers : In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-ais-potential-overcoming-challenges-to-harness-significant-commercial-advantages/"><u>Unlocking AI's Potential: Overcoming Challenges to Harness Significant Commercial Advantages</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-innovation-with-open-source-a-pathway-chosen-by-leading-global-minds-insights-from-zdnet/"><u>Unlocking Innovation with Open Source: A Pathway Chosen by Leading Global Minds - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-rapid-visual-repository-w-audio-walkthrough-guide/"><u>[New] Rapid Visual Repository W/ Audio Walkthrough Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-easy-guide-to-rectify-ios-and-android-videos-not-sent-by-messenger/"><u>2024 Approved Easy Guide to Rectify iOS and Android Videos Not Sent by Messenger</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-exceptional-hd-video-capturing-options-compiled-here/"><u>2024 Approved Exceptional HD Video Capturing Options Compiled Here</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-picks-15-innovative-mounts-to-elevate-your-gopro/"><u>2024 Approved Expert Picks 15 Innovative Mounts to Elevate Your GoPro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-swift-and-smooth-ipad-recordings/"><u>2024 Approved The Ultimate Guide to Swift and Smooth iPad Recordings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-chatbot-bias-revealed-lingual-limitations-highlighted-by-new-stanford-research-insights-on-googles-language-barrier/"><u>AI Chatbot Bias Revealed: Lingual Limitations Highlighted by New Stanford Research - Insights on Google's Language Barrier</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asean-countries-set-to-boost-digital-market-with-stronger-regulations-reaching-2t-growth-by-2030-insights-from-zdnet/"><u>ASEAN Countries Set to Boost Digital Market with Stronger Regulations, Reaching $2T Growth by 2030 - Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/banking-industry-leader-urges-innovative-thinking-over-easy-solutions-in-artificial-intelligence-insights-from-a-top-cio-zdnet/"><u>Banking Industry Leader Urges Innovative Thinking Over Easy Solutions in Artificial Intelligence - Insights From a Top CIO | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-point-and-click-the-transformation-of-ui-with-generative-artificial-intelligence/"><u>Beyond Point-and-Click: The Transformation of UI with Generative Artificial Intelligence</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-to-fix-mtp-usb-device-driver-failed-problem/"><u>Easy to Fix MTP USB Device Driver Failed Problem</u></a></li>
+<li><a href="https://app-tips.techidaily.com/future-of-service-delivery-mastering-agent-ecosystems-in-the-age-of-ai/"><u>Future of Service Delivery: Mastering Agent Ecosystems in the Age of AI</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-generative-ai-could-increase-labor-demand-despite-efficiency-promises-insights-from-zdnet/"><u>How Generative AI Could Increase Labor Demand Despite Efficiency Promises: Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/54608117-in-2024-direct-youtube-tunes-to-mp3s-online-and-offline-options/"><u>In 2024, Direct YouTube Tunes to MP3s Online & Offline Options!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-shift-how-generative-ai-is-carving-out-unique-leadership-roles-at-tech-giants-zdnet/"><u>Navigating the Shift: How Generative AI Is Carving Out Unique Leadership Roles at Tech Giants | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-sonos-roam-2-a-fresh-look-inside-and-initial-thoughts/"><u>Unveiling the Sonos Roam 2: A Fresh Look Inside and Initial Thoughts</u></a></li>
 </ul></div>
 

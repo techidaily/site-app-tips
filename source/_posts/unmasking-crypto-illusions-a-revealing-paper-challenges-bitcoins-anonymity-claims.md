@@ -1,7 +1,7 @@
 ---
 title: "Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims"
-date: 2024-12-04T20:52:33.494Z
-updated: 2024-12-10T00:00:07.554Z
+date: 2024-12-14T07:46:54.158Z
+updated: 2024-12-15T19:28:20.072Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,22 +119,18 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-devising-a-personalized-tiktok-alphanumeric-marker/"><u>[Updated] 2024 Approved Devising a Personalized TikTok Alphanumeric Marker</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-from-basics-to-advanced-crafting-powerful-instagram-hashtags-for-2024/"><u>[Updated] From Basics to Advanced Crafting Powerful Instagram Hashtags for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-the-secrets-of-snapchat-boomerang-tricks-for-2024/"><u>[Updated] Unlocking the Secrets of Snapchat Boomerang Tricks for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1password-analysis-is-this-top-tier-password-solution-a-smart-investment-insights-from-tech-experts/"><u>1Password Analysis: Is This Top-Tier Password Solution a Smart Investment? - Insights From Tech Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bypassing-master-passwords-with-ease-discover-how-dashlane-enables-seamless-sign-ins-according-to-zdnet-analysis/"><u>Bypassing Master Passwords with Ease: Discover How Dashlane Enables Seamless Sign-Ins, According to ZDNet Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-usage-balancing-progress-and-security/"><u>ChatGPT Usage: Balancing Progress and Security</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ditching-lastpass-master-managing-passwords-with-icloud-on-windows-a-complete-guide-by-zdnet/"><u>Ditching LastPass? Master Managing Passwords with iCloud on Windows - A Complete Guide by ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-address-and-prevent-edge-browser-failures-on-windows-10/"><u>How to Address and Prevent Edge Browser Failures on Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-15-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone 15?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-itel-a70-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Itel A70 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-protons-latest-feature-a-secure-password-vault-with-advanced-end-to-end-encryption-comprehensive-review-on-zdnet/"><u>Introducing Proton's Latest Feature: A Secure Password Vault with Advanced End-to-End Encryption - Comprehensive Review on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-security-my-experience-with-top-passwordless-password-manager-tools-the-clear-winner/"><u>Mastering Security: My Experience with Top Passwordless Password Manager Tools – The Clear Winner!</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-top-picks-the-most-advanced-mp3-tags-organizers-for-mac-users/"><u>New In 2024, Top Picks The Most Advanced MP3 Tags Organizers for Mac Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/oregon-healthcare-provider-alerts-over-half-a-million-clients-about-major-security-incident-tech-news/"><u>Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-sound-problems-during-your-powerpoint-show/"><u>Solving Sound Problems During Your PowerPoint Show</u></a></li>
-<li><a href="https://app-tips.techidaily.com/west-virginia-hospital-data-compromised-following-phishing-scheme-insights-by-zdnet/"><u>West Virginia Hospital Data Compromised Following Phishing Scheme - Insights by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zerofoxs-strategic-acquisition-of-idx-and-merger-with-landf-forms-a-mega-14b-cybersecurity-giant-insights-from-zdnet/"><u>ZeroFox's Strategic Acquisition of IDX and Merger with L&F Forms a Mega $1.4B Cybersecurity Giant - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ailored-guide-for-selective-youtube-content-download/"><u>[New] Tailored Guide for Selective YouTube Content Download</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-leverage-netflixs-picture-in-picture-functionality/"><u>[Updated] Leverage Netflix's Picture-in-Picture Functionality</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-seamless-film-documentation-on-windowsmacos-and-ios-gadgets-for-2024/"><u>[Updated] Seamless Film Documentation on Windows/MacOS & iOS Gadgets for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210711286-9781911159131-a-comprehensive-guide-to-usui-reiki-2-the-second-degree-of-reiki-energy-healing/"><u>A Comprehensive Guide To Usui Reiki 2. The Second Degree Of Reiki Energy Healing | Free Book</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/alternative-secrets-to-sharing-files-efficiently/"><u>Alternative Secrets to Sharing Files Efficiently</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-sound-blaster-z-drivers-quick-guide-for-windows-11-users/"><u>Download Sound Blaster Z Drivers: Quick Guide for Windows 11 Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-protonpass-the-latest-innovation-in-privacy-focused-password-storage-with-full-end-to-end-security/"><u>Introducing ProtonPass: The Latest Innovation in Privacy-Focused Password Storage with Full End-to-End Security</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-1password-leading-the-pack-expert-evaluation-of-premium-digital-key-management-solutions-by-zdnet/"><u>Is 1Password Leading the Pack? Expert Evaluation of Premium Digital Key Management Solutions by ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-reno-8t-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo Reno 8T 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-your-privacy-avoid-hidden-crypto-mining-risks-while-downloading-spider-man-no-way-home-using-bittorrent-insights-from-zdnet/"><u>Protect Your Privacy: Avoid Hidden Crypto Mining Risks While Downloading Spider-Man: No Way Home Using BitTorrent - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/slash-your-costs-secure-a-whopping-50-discount-on-dashlanes-elite-password-manager-now/"><u>Slash Your Costs: Secure a Whopping 50% Discount on Dashlane's Elite Password Manager - Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-audio-distortions-and-hiccups-on-windows-11-and-windows-7/"><u>Troubleshooting and Fixing Audio Distortions and Hiccups on Windows 11 and Windows 7</u></a></li>
 </ul></div>
 

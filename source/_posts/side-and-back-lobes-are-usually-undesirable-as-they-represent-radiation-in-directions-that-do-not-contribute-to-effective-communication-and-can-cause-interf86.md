@@ -1,7 +1,7 @@
 ---
 title: Side and Back Lobes Are Usually Undesirable as They Represent Radiation in Directions that Do Not Contribute to Effective Communication and Can Cause Interference.
-date: 2024-12-07T20:53:19.219Z
-updated: 2024-12-09T20:05:37.548Z
+date: 2024-12-13T23:58:36.090Z
+updated: 2024-12-15T19:15:47.519Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-dive-into-group-chats-joining-zoom-meetings-on-phone/"><u>[New] In 2024, Dive Into Group Chats Joining Zoom Meetings on Phone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-roblox-lagging-on-pc-2024/"><u>[SOLVED] Roblox Lagging on PC 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-navigating-obs-livestream-integration-for-maximum-facebook-reach/"><u>[Updated] In 2024, Navigating OBS Livestream Integration for Maximum Facebook Reach</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-mastering-desktopmobile-adjust-youtube-video-pace/"><u>2024 Approved Mastering Desktop/Mobile Adjust YouTube Video Pace</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-progress-toward-a-unified-vision-insights-from-zdnet/"><u>Bridging the Tech & Business Divide: Progress Toward a Unified Vision - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-universal-streams-for-youtube-and-beyond-networks/"><u>Crafting Universal Streams for YouTube & Beyond Networks</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/from-long-to-short-a-beginners-guide-to-splitting-videos-in-windows-live-movie-maker/"><u>From Long to Short A Beginners Guide to Splitting Videos in Windows Live Movie Maker</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-protecting-privacy-top-10-webcam-covers/"><u>In 2024, Protecting Privacy Top 10 Webcam Covers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-recent-payment-platform-failures-impacts-on-smbs-business-insights/"><u>Navigating Recent Payment Platform Failures: Impacts on SMBs | Business Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-challenge-of-upgrading-from-ubuntu-2404-a-step-by-step-guide/"><u>Navigating the Challenge of Upgrading From Ubuntu 24.04 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-rise-of-cloud-technologies-amidst-dominant-on-premise-infrastructures-insights-from-zdnet/"><u>Navigating the Rise of Cloud Technologies Amidst Dominant On-Premise Infrastructures - Insights From ZDNet</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-online-video-editing-101-from-download-to-final-cut-for-2024/"><u>New Online Video Editing 101 From Download to Final Cut for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-immutable-linux-benefits-of-using-a-non-modifiable-os-distribution-tech-insights/"><u>Understanding Immutable Linux: Benefits of Using a Non-Modifiable OS Distribution | Tech Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-frontier-gadgets-galore-top-10-vr-accessories-for-2024/"><u>[New] Frontier Gadgets Galore Top 10 VR Accessories for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-apex-productions-audit-studio-25-breakdown-2023/"><u>[New] In 2024, Apex Productions Audit Studio 25 Breakdown, 2023</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-harmonic-hits-top-rated-dj-template-downloads/"><u>[New] In 2024, Harmonic Hits Top-Rated DJ Template Downloads</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-visual-vault-saving-windows-imagery/"><u>[New] Visual Vault Saving Windows Imagery</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cognitive-network-advancements-from-arista-enter-mainstream-sectors-a-deep-dive-tech-insights/"><u>Cognitive Network Advancements From Arista Enter Mainstream Sectors: A Deep Dive - Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-increased-demand-for-openstack-and-kata-containers-in-modern-tech-ecosystems/"><u>Exploring the Increased Demand for OpenStack and Kata Containers in Modern Tech Ecosystems</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guida-passo-passo-alla-correzione-di-issue-elenco-ricercatore-word-non-mostrato/"><u>Guida Passo-Passo Alla Correzione Di Issue: Elenco Ricercatore Word Non Mostrato</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-at-nvidias-open-sourced-gpu-drivers-demystifying-what-powers-your-graphics-performance/"><u>Inside Look at Nvidia's Open Sourced GPU Drivers – Demystifying What Powers Your Graphics Performance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/langchains-revolutionary-approach-to-making-genai-truly-beneficial-as-featured-on-zdnet/"><u>LangChain's Revolutionary Approach to Making GenAI Truly Beneficial, as Featured on ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-xiaomi-redmi-k70-converter-convert-mov-files-for-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Xiaomi Redmi K70 converter-convert .mov files for Xiaomi Redmi K70</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/splurge-smarter-unveiling-top-quality-tech-treasures-at-wallet-friendly-rates/"><u>Splurge Smarter: Unveiling Top Quality Tech Treasures at Wallet-Friendly Rates</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/streamline-your-workflow-with-leading-tts-apps-for-mac-users/"><u>Streamline Your Workflow with Leading TTS Apps for Mac Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamlining-it-management-with-artificial-intelligence-red-hats-approach-to-simplifying-admin-duties/"><u>Streamlining IT Management with Artificial Intelligence: Red Hat's Approach to Simplifying Admin Duties</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-are-gaining-traction-in-tech-circles-zdnet/"><u>The Rising Popularity: How OpenStack & Kata Containers Are Gaining Traction in Tech Circles | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-latest-features-of-macos-sonoma-your-ultimate-guide-all-tips-and-insights-from-zdnet/"><u>Unveiling the Latest Features of macOS Sonoma: Your Ultimate Guide - All Tips and Insights From ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/whats-hidden-steps-for-spotting-seagate-drive-on-win10/"><u>What's Hidden? Steps for Spotting Seagate Drive on Win10</u></a></li>
 </ul></div>
 

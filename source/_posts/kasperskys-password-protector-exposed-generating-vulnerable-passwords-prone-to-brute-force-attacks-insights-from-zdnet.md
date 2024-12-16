@@ -1,7 +1,7 @@
 ---
 title: "Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet"
-date: 2024-12-05T20:30:26.263Z
-updated: 2024-12-09T22:49:11.781Z
+date: 2024-12-14T22:44:42.904Z
+updated: 2024-12-16T00:59:42.353Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Suppose you are in the business of generating passwords, it would probably be a 
 In a [blog post](https://donjon.ledger.com/kaspersky-password-manager/) to cap off an almost two year saga, Ledger Donjon head of security research Jean-Baptiste Bédrune showed KPM was doing just that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,7 +66,7 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -92,14 +92,24 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/chromebook-shutter-mastery-in-four-steps-only/"><u>Chromebook Shutter Mastery in Four Steps Only</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-recover-deleted-files-via-icloud-without-performing-a-device-factory-reset/"><u>How to Recover Deleted Files via iCloud Without Performing a Device Factory Reset</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-15-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 15 Pro Max When You Forget the Passcode?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lost-something-in-your-icloud-storage-master-the-art-of-icloud-backup-data-retrieval/"><u>Lost Something in Your iCloud Storage? Master the Art of iCloud Backup Data Retrieval</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximize-your-network-proven-strategies-to-recover-contacts-from-icloud-without-compromise/"><u>Maximize Your Network: Proven Strategies to Recover Contacts From iCloud Without Compromise</u></a></li>
-<li><a href="https://app-tips.techidaily.com/recovering-lost-apple-id-credentials-for-itunes-backups-on-ios-devices/"><u>Recovering Lost Apple ID Credentials for iTunes Backups on iOS Devices</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-methods-to-enhance-video-quality-and-flow/"><u>Top Methods to Enhance Video Quality and Flow</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-comedy-classics-a-curated-15-channel-collection-for-humor/"><u>[New] 2024 Approved Comedy Classics A Curated 15-Channel Collection for Humor</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/picurean-elites-top-food-vloggers-you-cant-miss/"><u>[New] Epicurean Elites Top Food Vloggers You Can't Miss</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hero5-black-vs-yis-new-tech-action-cam-showdown-update/"><u>[New] Hero5 Black Vs. Yi's New Tech Action Cam Showdown Update</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-your-guide-to-premium-metaverse-goggles-and-headsets-for-2024/"><u>[New] Your Guide to Premium Metaverse Goggles & Headsets for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-echoes-of-entertainment-adding-sound-to-snapchat-vids/"><u>[Updated] 2024 Approved Echoes of Entertainment Adding Sound to Snapchat Vids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-inaudible-audio-assemblers-6-low-profile-recorders-for-smartphones/"><u>[Updated] Inaudible Audio Assemblers 6 Low-Profile Recorders for Smartphones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-fresh-perspective-on-sony-blu-ray-s6500-features/"><u>2024 Approved A Fresh Perspective on Sony Blu-Ray S6500 Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-icloud-backup-essentials/"><u>Comprehensive Guide: Understanding iCloud Backup Essentials</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-setup-tutorial-using-icloud-on-windows-with-the-icloud-control-panel-app/"><u>Easy Setup Tutorial: Using iCloud on Windows with the iCloud Control Panel App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-steps-for-reinstating-your-data-from-icloud-backup-without-a-hardware-reset/"><u>Easy Steps for Reinstating Your Data From iCloud Backup without a Hardware Reset</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-guide-to-browse-icloud-pictures-on-the-web/"><u>Effortless Guide to Browse iCloud Pictures on the Web</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-8-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 8 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-log-out-from-your-icloud-account-safely-top-3-methods-for-iphone-ipad-and-mac-users/"><u>How To Log Out From Your iCloud Account Safely: Top 3 Methods for iPhone, iPad & Mac Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/peakrecorder-a-comprehensive-screen-capture-analysis-for-2024/"><u>PeakRecorder A Comprehensive Screen Capture Analysis for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-integrating-your-icloud-calendar-on-a-windows-desktop/"><u>Step-by-Step Guide: Integrating Your iCloud Calendar on a Windows Desktop</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-securely-syncing-your-ipad-pro-mini-and-air-with-icloud-backups/"><u>Step-by-Step Guide: Securely Syncing Your iPad Pro, Mini & Air with iCloud Backups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264574-struggling-with-a-forgotten-icloud-login-discover-these-6-effective-remedies/"><u>Struggling with a Forgotten iCloud Login? Discover These 6 Effective Remedies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-steps-for-removing-your-icloud-email-address-top-strategies-inside/"><u>Ultimate Guide: Steps for Removing Your iCloud Email Address - Top Strategies Inside</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209675527-9781452176741-witch-please/"><u>Witch, Please | Free Book</u></a></li>
 </ul></div>
 

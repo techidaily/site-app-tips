@@ -1,7 +1,7 @@
 ---
 title: "Another Cybersecurity Breach: LastPass Compromised Once More"
-date: 2024-12-07T04:32:49.405Z
-updated: 2024-12-10T02:32:28.089Z
+date: 2024-12-09T06:33:21.473Z
+updated: 2024-12-16T03:15:06.435Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,16 +81,22 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-complete-story-on-dji-phantom-4s-performance/"><u>[New] The Complete Story on DJI Phantom 4'S Performance</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-decades-best-list-of-budget-friendly-desktop-recorders/"><u>2024 Approved Decade's Best List of Budget-Friendly Desktop Recorders</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-top-8-proven-techniques-to-amplify-content/"><u>2024 Approved Top 8 Proven Techniques to Amplify Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-twistedwave-advantages-disadvantages-top-attributes-and-applications/"><u>Comprehensive Guide to TwistedWave: Advantages, Disadvantages, Top Attributes, and Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ensure-every-important-call-is-heard-uninterrupted-connectivity-even-in-silence-and-chaos-with-our-innovative-10-call-flash-applications/"><u>Ensure Every Important Call Is Heard: Uninterrupted Connectivity Even in Silence and Chaos with Our Innovative 10-Call Flash Applications</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-8-plus-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 8 Plus The Right Way</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oneplus-open-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your OnePlus Open to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ios-10-updates-unveiled-explore-the-enhanced-lockscreen-features/"><u>IOS 10 Updates Unveiled: Explore the Enhanced Lockscreen Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-free-gba-emulators-your-ultimate-guide-to-playing-game-boy-advance-titles-on-pc/"><u>Top 5 Free GBA Emulators: Your Ultimate Guide to Playing Game Boy Advance Titles on PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-file-management-apps-for-android-user-reviews-and-comparisons/"><u>Top-Rated File Management Apps for Android: User Reviews and Comparisons</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-12-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 12 without a computer</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-best-instant-windows-photograph-gazing-tool/"><u>[New] 2024 Approved Best Instant Windows Photograph Gazing Tool</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-choreographing-photography-and-filming-in-one-sweep/"><u>[Updated] Choreographing Photography and Filming in One Sweep</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-on-a-personal-social-media-platform-tiktok-or-youtubes-shorts/"><u>Deciding on a Personal Social Media Platform TikTok or YouTubes' Shorts?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-note-taking-solutions-for-android-phones-our-favorite-5-apps/"><u>Discover the Ultimate List of Note-Taking Solutions for Android Phones: Our Favorite 5 Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-android-lock-screen-widgets-expertly-curated-free-plus-paid-varieties-for-optimal-usage/"><u>Discover the Ultimate Selection of Android Lock Screen Widgets: Expertly Curated Free + Paid Varieties for Optimal Usage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-top-21-zedge-tools-for-customizing-your-phone-with-free-ringtones-and-wallpapers-on-iphoneandroid/"><u>Discover the Ultimate Top 21 Zedge Tools for Customizing Your Phone with Free Ringtones & Wallpapers on iPhone/Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/essential-ios-virtual-reality-gaming-must-play-iphone-apps-for-2024/"><u>Essential iOS Virtual Reality Gaming Must-Play IPhone Apps for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-netgears-nighthawk-x6-the-ultimate-guide-to-wi-fi-mesh-technology/"><u>In-Depth Analysis of Netgear's Nighthawk X6 - The Ultimate Guide to Wi-Fi Mesh Technology</u></a></li>
+<li><a href="https://article-tips.techidaily.com/leveraging-viewership-the-mechanics-of-product-sponsored-youtube-videos-for-2024/"><u>Leveraging Viewership The Mechanics of Product-Sponsored YouTube Videos for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-google-mdm-and-upcoming-features-an-in-depth-analysis-of-what-to-expect-in-mobile-management-systems-by-2024/"><u>Mastering Google MDM & Upcoming Features: An In-Depth Analysis of What to Expect in ^Mobile Management Systems^ by 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-with-precision-and-endurance-the-mobvoi-ticwatch-pro-3s-gps-mastery-and-extended-battery-longevity/"><u>Navigating with Precision and Endurance: The Mobvoi TicWatch Pro 3'S GPS Mastery and Extended Battery Longevity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-and-easy-guide-to-rapid-iphone-app-migration-discover-the-fastest-transfer-techniques/"><u>Quick & Easy Guide to Rapid iPhone App Migration: Discover the Fastest Transfer Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-wi-fi-messaging-apps-for-seamless-internet-text-communication/"><u>Top 5 Wi-Fi Messaging Apps for Seamless Internet Text Communication</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-6-best-free-slots-games-must-have-mobile-apps-for-android-and-ios/"><u>Top 6 Best Free Slots Games: Must-Have Mobile Apps for Android & iOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-iphone-updates-top-issues-and-fixes/"><u>Troubleshooting iPhone Updates: Top Issues & Fixes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unleash-your-potential-on-telegram-a-comprehensive-marketing-guide-for-2024/"><u>Unleash Your Potential on Telegram A Comprehensive Marketing Guide for 2024</u></a></li>
 </ul></div>
 

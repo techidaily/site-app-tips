@@ -1,7 +1,7 @@
 ---
 title: "Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight"
-date: 2024-12-02T16:06:57.022Z
-updated: 2024-12-10T02:57:37.579Z
+date: 2024-12-12T19:39:01.498Z
+updated: 2024-12-16T02:08:37.236Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 ## Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,18 +77,16 @@ Check Point Research
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-accessible-visual-aids-for-youtube-videos/"><u>[New] In 2024, Accessible Visual Aids for YouTube Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-economical-cloud-shelves-for-hefty-files/"><u>[Updated] Economical Cloud Shelves for Hefty Files</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-hero5-vs-yi-evaluating-cutting-edge-cameras-for-2024/"><u>[Updated] Hero5 Vs. YI Evaluating Cutting-Edge Cameras for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-million-prize-the-latest-boost-in-bugcrowds-premium-vulnerability-reporting-insight-for-security-experts/"><u>$1 Million Prize: The Latest Boost in Bugcrowd's Premium Vulnerability Reporting - Insight for Security Experts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-thrill-seekers-challenge-hero5b-vs-hero5-session-in-action/"><u>2024 Approved Thrill Seekers Challenge Hero5B Vs Hero5 Session in Action</u></a></li>
-<li><a href="https://app-tips.techidaily.com/black-friday-exclusive-deal-unlock-savings-with-nordpass-premium-at-half-price-get-secure-passwords-now-zdnet-insider-tips/"><u>Black Friday Exclusive Deal: Unlock Savings with NordPass Premium at Half Price! Get Secure Passwords Now - ZDNet Insider Tips</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enjoy-apple-music-on-a-pc-unveiling-three-methods-for-playback-and-lyrics-viewing/"><u>Enjoy Apple Music on a PC: Unveiling Three Methods for Playback and Lyrics Viewing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/explore-the-best-free-after-effects-resources/"><u>Explore the Best FREE After Effects Resources</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x50-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Honor X50 Phone with Broken Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-infinix-smart-7-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Smart 7 Device</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-pc-graphics-efficiency-with-hp-driver/"><u>Upgrade PC Graphics Efficiency with HP Driver</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-invest-in-1password-exceptional-security-and-features-justify-premium-price-tag-for-users-cyberguardian-review/"><u>Why Invest in 1Password? Exceptional Security and Features Justify Premium Price Tag for Users | CyberGuardian Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-investigates-the-recent-cybersecurity-breach-exposing-30kplus-healthcare-workers-confidential-details-in-florida-database/"><u>ZDNet Investigates the Recent Cybersecurity Breach Exposing 30K+ Healthcare Workers' Confidential Details in Florida Database</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beginning-a-successful-item-evaluation-video-series/"><u>[Updated] Beginning a Successful Item Evaluation Video Series</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insta-likes-and-video-powerhouse-get-noticed-and-grow-your-instagram-fast/"><u>[Updated] In 2024, Insta Likes & Video Powerhouse Get Noticed & Grow Your Instagram [Fast!]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-chrome-performance-with-easy-tricks/"><u>Accelerate Chrome Performance with Easy Tricks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/auto-enabled-security-for-half-a-billion-googles-bold-move-to-protect-users-with-mandatory-2fa/"><u>Auto-Enabled Security for Half a Billion: Google's Bold Move to Protect Users with Mandatory 2FA</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cyber-attack-alert-hackers-leverage-covid-19-omicron-strain-fears-with-redline-malware-campaign-fortinet-insights/"><u>Cyber Attack Alert: Hackers Leverage COVID-19 Omicron Strain Fears with RedLine Malware Campaign – Fortinet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/data-leak-strikes-wv-medical-facilities-due-to-cyberattack-in-depth-analysis-on-zdnet/"><u>Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-secrets-of-apples-latest-innovation-the-passkey-announcement-at-worldwide-developers-conference-2022-insider-report/"><u>Exploring the Secrets of Apple's Latest Innovation: The Passkey Announcement at Worldwide Developers Conference 2022 | Insider Report</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-password-replaced-by-passkeys-with-1password-the-latest-update-from-zdnet/"><u>Master Password Replaced by Passkeys with 1Password - The Latest Update From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/youtube-boundaries-with-creative-studio-expertise-and-tactics/"><u>Push Youtube Boundaries with Creative Studio Expertise and Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/studio-2-analysis-almost-ideal-device-for-creative-professionals/"><u>Studio 2 Analysis: Almost Ideal Device for Creative Professionals</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate List: Leading Antivirus Programs , According to ZDNet"
-date: 2024-12-07T21:30:30.646Z
-updated: 2024-12-09T22:55:36.633Z
+date: 2024-12-08T22:25:02.475Z
+updated: 2024-12-16T08:04:09.393Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-tailor-your-insta-experience-no-more-suggestions/"><u>[Updated] In 2024, Tailor Your Insta Experience No More Suggestions</u></a></li>
-<li><a href="https://win-best.techidaily.com/complete-tutorial-capturing-stunning-raw-images-with-your-iphone-11-12-13-and-14/"><u>Complete Tutorial: Capturing Stunning RAW Images with Your iPhone 11, 12, 13 & 14</u></a></li>
-<li><a href="https://facebook.techidaily.com/comprehensive-guide-to-facebooks-platform-clarity-with-its-open-center/"><u>Comprehensive Guide to Facebook's Platform Clarity with Its Open Center</u></a></li>
-<li><a href="https://some-skills.techidaily.com/expert-review-of-moto-g-play-impressive-battery-life-meets-solid-performance/"><u>Expert Review of Moto G Play: Impressive Battery Life Meets Solid Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-advantages-of-wi-fi-6-the-next-generation-wireless-protocol-80211ax-explained/"><u>Exploring the Advantages of Wi-Fi 6 - The Next Generation Wireless Protocol, 802.11AX Explained</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-future-your-top-5-choices-as-microsofts-mainstream-windows-1/"><u>Facing the Future: Your Top 5 Choices as Microsoft's Mainstream Windows 1</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-crashing-problems-within-naraka-bladepoint-gaming-experience/"><u>Fixing the Crashing Problems Within Naraka: Bladepoint Gaming Experience</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-12-mini-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 12 mini</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linux-defenses-tighten-with-oins-latest-patent-protection-boost-ai-remains-uncovered-zdnet-expands/"><u>LINUX DEFENSES TIGHTEN WITH OIN'S LATEST PATENT PROTECTION BOOST (AI REMAINS UNCOVERED) | ZDNET EXPANDS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-itel-a70-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Itel A70</u></a></li>
-<li><a href="https://app-tips.techidaily.com/save-big-get-your-hands-on-ashampoos-3d-cad-pro-software-at-a-steal-just-40-today/"><u>Save Big: Get Your Hands on Ashampoo's 3D CAD Pro Software at a Steal - Just $40 Today!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-3a-antenna-radiation-patterns-and-design-principles/"><u>Section 3A: Antenna Radiation Patterns and Design Principles</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-crafting-a-reliable-recovery-drive-for-your-pc-expert-advice-from-zdnet/"><u>Step-by-Step Guide: Crafting a Reliable Recovery Drive for Your PC - Expert Advice From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-complexities-of-implementing-generative-ai-in-corporations-revealed-by-deloitte-survey-zdnet/"><u>The Complexities of Implementing Generative AI in Corporations Revealed by Deloitte Survey | ZDNET</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001157288-the-unavailability-of-football-manager-2n-workarounds-to-kick-start-your-game-today/"><u>The Unavailability of Football Manager 2N: Workarounds to Kick-Start Your Game Today</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-secure-encryption-apps-of-2022-to-safeguard-your-information-insights-by-zdnet/"><u>Top Secure Encryption Apps of 2022 to Safeguard Your Information - Insights by ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-music-composition-techniques/"><u>[New] YouTube Music Composition Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-first-impressions-a-deep-dive-into-3d-printing-alone/"><u>[Updated] 2024 Approved First Impressions A Deep Dive Into 3D Printing Alone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-simply-your-way-of-capturing-igtv-on-devices/"><u>2024 Approved Simply Your Way of Capturing IGTV on Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1355752-9781780997957-a-modern-celt/"><u>A Modern Celt | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/android-workflow-boosted-transforming-google-docs-into-compatible-ms-word-formats-effortlessly/"><u>Android Workflow Boosted: Transforming Google Docs Into Compatible MS Word Formats Effortlessly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/best-20-free-public-license-pubg-gallery-mixes/"><u>Best 20 Free Public License PUBG Gallery Mixes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-security-at-risk-with-generative-ai-crowdstrike-cto-alerts-in-latest-analysis-for-zdnet/"><u>Enterprise Security at Risk with Generative AI, CrowdStrike CTO Alerts in Latest Analysis for ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/highlight-heroes-iosandroid-covers-that-shine-bright-for-2024/"><u>Highlight Heroes IOS/Android Covers That Shine Bright for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-recent-payment-service-interruptions-affect-your-store-an-in-depth-analysis-by-zdnet/"><u>How Recent Payment Service Interruptions Affect Your Store: An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-ideapad-duet-(80-discount-get-chromebook-savings-exclusive/"><u>Lenovo IdeaPad Duet <$80 Discount - Get Chromebook Savings Exclusive!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-programming-in-rust-and-balancing-work-life-on-his-macbook-air-exclusive-qanda-featured-by-zdnet/"><u>Linus Torvalds Discusses Programming in Rust & Balancing Work-Life on His MacBook Air - Exclusive Q&A Featured by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-future-the-pivotal-role-of-enterprise-architects-in-todays-tech-evolution-zdnet/"><u>Mastering the Future: The Pivotal Role of Enterprise Architects in Today's Tech Evolution | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-new-era-of-work-a-deep-dive-into-enterprise-transformation-through-decentralized-technologies-and-web3/"><u>Navigating the New Era of Work: A Deep Dive Into Enterprise Transformation Through Decentralized Technologies and Web3</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-home-movie-magic-creating-professional-looking-dvds-with-ease/"><u>New 2024 Approved Home Movie Magic Creating Professional-Looking DVDs with Ease</u></a></li>
+<li><a href="https://win-latest.techidaily.com/recuperation-rapide-et-facile-apres-un-incident-pour-votre-serveur-windows-server-201/"><u>Récupération Rapide Et Facile Après Un Incident Pour Votre Serveur Windows Server 201</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-most-efficient-to-do-list-applications-techradar/"><u>Top 10 Most Efficient To-Do List Applications - TechRadar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-screen-capture-tools-comprehensive-guide-pcmag/"><u>Top-Rated Screen Capture Tools: Comprehensive Guide - PCMag</u></a></li>
+<li><a href="https://app-tips.techidaily.com/veteran-linus-developers-endorse-ciq-the-principal-patron-for-rocky-linuxs-launch-computing-world/"><u>Veteran Linus Developers Endorse CIQ: The Principal Patron for Rocky Linux's Launch | Computing World</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-audio-configuration-exclusive-for-headphones/"><u>Xbox Audio Configuration: Exclusive for Headphones</u></a></li>
 </ul></div>
 

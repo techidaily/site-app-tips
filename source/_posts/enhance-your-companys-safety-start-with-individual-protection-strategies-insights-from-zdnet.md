@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Company's Safety: Start with Individual Protection Strategies - Insights From ZDNet"
-date: 2024-12-03T04:11:41.412Z
-updated: 2024-12-09T17:05:37.041Z
+date: 2024-12-09T01:05:51.707Z
+updated: 2024-12-15T22:57:35.521Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 Corporations aren't doing enough to improve their employees' personal security practices. Credentials remain the highest targeted data type as they are the gateway to ransomware and data theft. 61% of data breaches in 2021 involved the use of stolen and misused credentials. Bad actors took advantage of a global pandemic to increase the number of phishing attacks, the cause of stolen credentials in 36% of breaches -- a 9% increase over last year -- according to the [Verizon 2021 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdfx). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,24 +66,18 @@ Given how connected we all are, the rising demands of working anywhere, and incr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-expert-tips-for-post-upload-video-improvement/"><u>[Updated] In 2024, Expert Tips for Post-Upload Video Improvement</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-affordable-art-of-youtube-introsends/"><u>[Updated] The Affordable Art of YouTube Intros/Ends</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlock-clear-shots-instagram-storys-in-and-out-tactics/"><u>[Updated] Unlock Clear Shots Instagram Story's In and Out Tactics</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-videoleap-zoom-hacks-for-detailed-video-insight-for-2024/"><u>[Updated] Videoleap Zoom Hacks for Detailed Video Insight for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-income-comparison-exercise-monetizing-videos-on-dailymovement-and-youtube/"><u>2024 Approved Income Comparison Exercise Monetizing Videos on DailyMovement & YouTube</u></a></li>
-<li><a href="https://fox-place.techidaily.com/2024usb/"><u>2024年針對可開機USB製作數位存取化實現方法：深入解析</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-apple-clips-in-depth-analysis-and-tips/"><u>Comprehensive Guide to Using Apple Clips: In-Depth Analysis and Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-communication-avoid-missing-calls-amidst-noise-or-muting-with-advanced-flash-tech-for-up-to-10-contacts/"><u>Master Your Communication: Avoid Missing Calls Amidst Noise or Muting with Advanced Flash Tech for Up to 10 Contacts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-automated-photography-setting-timers-on-iphones-and-android-devices/"><u>Mastering the Art of Automated Photography: Setting Timers on iPhones & Android Devices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/precision-in-reducing-image-size-the-essential-guide-to-thumbnails/"><u>Precision in Reducing Image Size The Essential Guide to Thumbnails</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-3-key-technological-advancements-of-the-decade/"><u>The 3 Key Technological Advancements of the Decade</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-best-multiplayer-bluetooth-games-for-android-and-ios-devices/"><u>The Ultimate List of Best Multiplayer Bluetooth Games for Android & iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-11-audio-enhancement-applications-for-video-editing-on-mobile-devices-and-desktop-systems/"><u>Top 11 Audio Enhancement Applications for Video Editing on Mobile Devices and Desktop Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-6-must-have-android-contact-widget-apps-of-2024-a-comprehensive-guide/"><u>Top 6 Must-Have Android Contact Widget Apps of 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-shotcut-video-editor-a-comprehensive-guide-dont-miss-it/"><u>Top-Ranked Shotcut Video Editor: A Comprehensive Guide - Don't Miss It!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193118-ultimate-summary-and-expert-take-on-gopro-quik-your-essential-reading-for-this-year/"><u>Ultimate Summary and Expert Take on GoPro Quik – Your Essential Reading for This Year!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-lumafusion-reigns-supreme-in-the-world-of-ios-video-editors-a-detailed-review/"><u>Why LumaFusion Reigns Supreme in the World of iOS Video Editors – A Detailed Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winxvideo-ai-faq-ai/"><u>WinXvideo AI 기술에 관한 FAQ 및 응답 : 빠른 특징, 작동 방식, 사용자가 보다 효과적인 AI 기술을 즐겼는지에 대한 문의와 답변</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-complete-guide-to-cashing-in-on-tiktok-in-8-steps/"><u>[New] 2024 Approved The Complete Guide to Cashing In on TikTok in 8 Steps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-full-facetune-experience-from-novice-to-expert-photographer/"><u>[New] 2024 Approved The Full Facetune Experience From Novice to Expert Photographer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-telegram-edge-advanced-tactics-for-effective-promotion/"><u>[New] 2024 Approved The Telegram Edge Advanced Tactics for Effective Promotion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-decoding-the-meaning-behind-fbs-blue-status-indicator/"><u>[New] In 2024, Decoding the Meaning Behind FB's Blue Status Indicator</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-complete-walkthrough-to-grab-youtube-playlists/"><u>[Updated] Complete Walkthrough to Grab YouTube Playlists</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplified-ratio-changes-on-web-dev-platforms/"><u>[Updated] Simplified Ratio Changes on Web Dev Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-youtube-subtitles-a-guide-with-3-efficient-techniques/"><u>[Updated] Unlocking YouTube Subtitles A Guide with 3 Efficient Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-audio-equalizer-applications-for-android-top-5-picks/"><u>Best FREE Audio Equalizer Applications for Android: Top 5 Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-apples-device-management-insights-into-mdm-and-platform-implementation-strategies/"><u>Explore Apple's Device Management: Insights Into MDM and Platform Implementation Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-assessment-of-apple-music-pricing-structure-advantagesdisadvantages-and-how-to-get-started/"><u>In-Depth Assessment of Apple Music: Pricing Structure, Advantages/Disadvantages, and How to Get Started</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/losung-fur-das-problem-mit-dem-volume-shadow-copy-dienst-in-windows-betriebssystemen-windows-111087/"><u>Lösung Für Das Problem Mit Dem Volume Shadow Copy-Dienst in Windows-Betriebssystemen (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/share-it-all-video-watchlist/"><u>Share-It-All Video Watchlist</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-best-5-top-rated-free-mobile-tracking-apps-unveiling-the-options/"><u>The Best 5 Top-Rated Free Mobile Tracking Apps: Unveiling the Options</u></a></li>
 </ul></div>
 

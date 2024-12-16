@@ -1,7 +1,7 @@
 ---
 title: "Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords"
-date: 2024-12-05T23:51:19.682Z
-updated: 2024-12-09T21:12:08.352Z
+date: 2024-12-13T06:57:58.967Z
+updated: 2024-12-16T03:36:48.331Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Suppose you are in the business of generating passwords, it would probably be a 
 In a [blog post](https://donjon.ledger.com/kaspersky-password-manager/) to cap off an almost two year saga, Ledger Donjon head of security research Jean-Baptiste Bédrune showed KPM was doing just that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,7 +66,7 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -92,24 +92,20 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-the-ultimate-guide-to-enhancing-videos-with-online-filters-for-2024/"><u>[New] The Ultimate Guide to Enhancing Videos with Online Filters for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-uncapped-screenshot-savior-app/"><u>[Updated] In 2024, Uncapped Screenshot Savior App</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-framing-character-arcs-on-screen/"><u>2024 Approved Framing Character Arcs on Screen</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-using-google-analytics-for-growth/"><u>2024 Approved The Ultimate Guide to Using Google Analytics for Growth</u></a></li>
-<li><a href="https://app-tips.techidaily.com/accelerate-androids-speed-optimize-with-advanced-task-management-tools/"><u>Accelerate Android's Speed: Optimize with Advanced Task Management Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-and-paid-screen-mirroring-solutions-for-android-devices-top-9-app-picks/"><u>Best Free & Paid Screen Mirroring Solutions for Android Devices: Top 9 App Picks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-output-impedance-an-essential-electrical-concept/"><u>Demystifying Output Impedance - An Essential Electrical Concept</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-apples-latest-innovation-with-the-redesigned-ios-1erlockunlock-interface/"><u>Discover Apple's Latest Innovation with the Redesigned iOS 1erLock/Unlock Interface</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-wifi-passcode-retrieval-app-manage-and-discover-your-androids-network-credentials-effortlessly/"><u>Free WiFi Passcode Retrieval App: Manage & Discover Your Android's Network Credentials Effortlessly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-your-favorite-android-games-on-lockdown-the-ultimate-list-of-20-free-full-version-apks-to-download-today/"><u>Get Your Favorite Android Games on Lockdown: The Ultimate List of 20 Free, Full-Version APKs to Download Today!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-velvet-vaults-2022-olympic-skaters/"><u>In 2024, Velvet Vaults 2022 Olympic Skaters</u></a></li>
-<li><a href="https://discover-data.techidaily.com/passwortlosen-zurucksetzen-fur-windows-367-tipps-und-tricks/"><u>Passwortlosen Zurücksetzen Für Windows #367 - Tipps Und Tricks</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revitalizing-databases-stellars-new-dawn/"><u>Revitalizing Databases: Stellar's New Dawn</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-vn-video-editor-advantages-disadvantages-and-best-replacement-options/"><u>The Ultimate Guide to VN Video Editor: Advantages, Disadvantages, and Best Replacement Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-clips-with-this-exceptional-android-video-editing-software/"><u>Transform Your Clips with This Exceptional Android Video Editing Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-admin-utility-remove-disable-and-manage-rooted-device-applications-easily/"><u>Ultimate Admin Utility: Remove, Disable, and Manage Rooted Device Applications Easily</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unified-chat-and-call-features-on-magicapp-compatible-with-iphone-android-and-pc/"><u>Unified Chat & Call Features on MagicApp - Compatible with iPhone, Android & PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-new-in-powerpoint-learn-simple-techniques-for-updating-your-slides/"><u>What's New in PowerPoint? Learn Simple Techniques for Updating Your Slides</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/esigning-a-memorable-youtube-sign-off-for-2024/"><u>[New] Designing a Memorable YouTube Sign-Off for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-your-guide-to-the-best-igtv-virtuosos/"><u>[Updated] 2024 Approved Your Guide to the Best IGTV Virtuosos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-android-projector-applications-top-8-picks-for-seamless-wireless-connection/"><u>Best Android Projector Applications: Top 8 Picks for Seamless Wireless Connection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-analyzing-the-features-of-picku-app-and-its-affordable-photoshop-substitutes/"><u>Comprehensive Guide: Analyzing the Features of PickU App and Its Affordable Photoshop Substitutes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-common-problems-with-the-logitech-g733-microphone/"><u>Diagnosing and Solving Common Problems with the Logitech G733 Microphone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-huawei-nova-y91-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Huawei Nova Y91.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/evaluating-color-accuracy-the-srgb-alternative-to-rgb/"><u>Evaluating Color Accuracy The Srgb Alternative to Rgb</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193990-experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-ultimate-5-choices-of-wi-fi-based-chat-applications-for-effortless-texting-online/"><u>Exploring the Ultimate 5 Choices of Wi-Fi Based Chat Applications for Effortless Texting Online</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-6-premier-linkedin-video-downloader-tools/"><u>The Ultimate Guide to 6 Premier LinkedIn Video Downloader Tools</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/top-3-simple-techniques-to-build-a-compact-and-functional-windows-11-bootable-usb-drive/"><u>Top 3 Simple Techniques to Build a Compact & Functional Windows 11 Bootable USB Drive</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlicensed-yet-lawful-music-repositories-games-for-2024/"><u>Unlicensed, Yet Lawful Music Repositories (Games) for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-full-simplemdm-must-know-reviews-for-your-ios-and-mac-experience/"><u>Unveiling Full SimpleMDM: Must-Know Reviews for Your iOS and Mac Experience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-vita-your-ultimate-guide-to-mastering-the-cutting-edge-video-editor/"><u>Unveiling the Power of VITA: Your Ultimate Guide to Mastering the Cutting-Edge Video Editor</u></a></li>
 </ul></div>
 

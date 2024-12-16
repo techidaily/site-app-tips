@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Biometrics as Users Struggle with Password Fatigue: Insights From ZDNet Analysis"
-date: 2024-12-08T23:13:15.767Z
-updated: 2024-12-09T16:18:22.575Z
+date: 2024-12-08T18:33:44.775Z
+updated: 2024-12-15T22:36:40.421Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,20 +99,20 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-daily-movie-storage-gb-explained/"><u>[New] Daily Movie Storage GB Explained</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-refresh-your-digital-realm-selecting-splendid-windows-11-walls/"><u>[New] Refresh Your Digital Realm Selecting Splendid Windows 11 Walls</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-navigating-the-nuances-of-mukbang-filmmaking-techniques/"><u>[Updated] In 2024, Navigating the Nuances of Mukbang Filmmaking Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-comprehensive-guide-to-io-screen-capture-capabilities/"><u>2024 Approved Comprehensive Guide to IO Screen Capture Capabilities</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-fading-audio-tracks-with-ease-in-adobe-premiere-pro/"><u>2024 Approved Fading Audio Tracks with Ease in Adobe Premiere Pro</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-apple-music-evaluation-cost-analysis-and-features-breakdown-free-download/"><u>Comprehensive Apple Music Evaluation: Cost Analysis & Features Breakdown - Free Download</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easily-create-a-password-reset-disk-in-windows-11-step-by-step/"><u>Easily Create a Password Reset Disk in Windows 11 [Step by Step]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-vivo-y100i-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y100i Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/speed-up-your-experience-top-three-methods-for-swiftly-moving-applications-from-older-iphone-to-newer-model/"><u>Speed Up Your Experience: Top Three Methods for Swiftly Moving Applications From Older iPhone to Newer Model</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-solution-effective-ways-to-repair-your-facebook-messaging-app-when-it-stops-working/"><u>Step-by-Step Solution: Effective Ways to Repair Your Facebook Messaging App When It Stops Working</u></a></li>
-<li><a href="https://common-error.techidaily.com/tango-evdo-rev-a-6-mbits-download/"><u>Tango – EVDO Rev A, 6 Mbit/S Download</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-18-most-popular-emoji-apps-for-iphones-and-android-phones/"><u>The Ultimate List of the 18 Most Popular Emoji Apps for iPhones and Android Phones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-audio-management-apps-compatible-with-pc-mac-ios-and-android-devices/"><u>Top 10 Audio Management Apps Compatible with PC, Mac, iOS & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-android-app-locks-essential-guides-and-reviews/"><u>Top-Rated Android App Locks: Essential Guides and Reviews</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725290506857-winxvideo-ai/"><u>WinxVideo AI: 高效的影片增强与编辑教程 - 用户指南</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-quick-guide-saving-screen-share-dialogue-for-2024/"><u>[Updated] Quick Guide Saving Screen Share Dialogue for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-quickmemes-your-meme-toolkit-for-2024/"><u>[Updated] QuickMemes Your Meme Toolkit for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-guide-integrating-instagram-with-tiktok/"><u>2024 Approved Seamless Guide Integrating Instagram with TikTok</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-y78plus-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo Y78+?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-apple-clips-in-depth-analysis-and-tips/"><u>Comprehensive Guide to Using Apple Clips: In-Depth Analysis and Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-filmoras-secrets-to-captivating-youtube-trailers/"><u>In 2024, Filmora's Secrets to Captivating YouTube Trailers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-c33-2023-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme C33 2023 Lock Screen Password?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-mastering-mp4-downloading-vimeo-videos-easily/"><u>In 2024, Mastering MP4 Downloading Vimeo Videos Easily</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-your-communication-avoid-missing-calls-amidst-noise-or-muting-with-advanced-flash-tech-for-up-to-10-contacts/"><u>Master Your Communication: Avoid Missing Calls Amidst Noise or Muting with Advanced Flash Tech for Up to 10 Contacts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-automated-photography-setting-timers-on-iphones-and-android-devices/"><u>Mastering the Art of Automated Photography: Setting Timers on iPhones & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-best-multiplayer-bluetooth-games-for-android-and-ios-devices/"><u>The Ultimate List of Best Multiplayer Bluetooth Games for Android & iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-11-audio-enhancement-applications-for-video-editing-on-mobile-devices-and-desktop-systems/"><u>Top 11 Audio Enhancement Applications for Video Editing on Mobile Devices and Desktop Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-6-must-have-android-contact-widget-apps-of-2024-a-comprehensive-guide/"><u>Top 6 Must-Have Android Contact Widget Apps of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-diy-endeavors-with-advanced-ai-discover-whats-new-with-gpt-4/"><u>Transform Your DIY Endeavors with Advanced AI: Discover What's New with GPT-4</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-10-leading-music-organizers-for-all-your-platform-needs-windows-mac-iphone-and-android/"><u>Ultimate Selection of 10 Leading Music Organizers for All Your Platform Needs: Windows, Mac, iPhone & Android</u></a></li>
 </ul></div>
 

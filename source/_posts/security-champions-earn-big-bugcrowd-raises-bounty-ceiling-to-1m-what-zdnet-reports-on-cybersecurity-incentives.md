@@ -1,7 +1,7 @@
 ---
 title: "Security Champions Earn Big: Bugcrowd Raises Bounty Ceiling to $1M – What ZDNET Reports on Cybersecurity Incentives"
-date: 2024-12-03T02:57:39.066Z
-updated: 2024-12-09T18:04:04.547Z
+date: 2024-12-11T17:01:38.141Z
+updated: 2024-12-16T01:16:52.973Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 The company averages about $900 per reward, but 1Password CEO Jeff Shiner said the company hopes to "attract another layer of outside expertise to make sure our systems are as secure as possible." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -70,19 +70,20 @@ The company also has an internal "Eyes of the Month program" for their employees
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/onthly-income-for-content-creators-on-youtube-in-2024/"><u>[New] Monthly Income for Content Creators on YouTube, In 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-asus-proart-pa32u-4k-hdr-professional-monitor-review/"><u>[Updated] 2024 Approved ASUS ProArt PA32U 4K HDR Professional Monitor Review</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-essential-camera-toolkit-for-yt-enthusiasts/"><u>[Updated] 2024 Approved The Essential Camera Toolkit for YT Enthusiasts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-video-editing-mastery-leveraging-youtube-then-expanding-beyond/"><u>2024 Approved Video Editing Mastery Leveraging YouTube, Then Expanding Beyond</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-integration-by-one-third-of-marketing-teams-explored-insights-from-zdnet/"><u>AI Integration by One-Third of Marketing Teams Explored: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/aseans-transformative-digital-policies-propel-towards-a-2-trillion-tech-market-by-2030-insights-from-zdnet/"><u>ASEAN's Transformative Digital Policies Propel Towards a $2 Trillion Tech Market by 2030 - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/becoming-an-effective-tech-team-leader-by-understanding-the-core-business-strategies-for-success-on-zdnet/"><u>Becoming an Effective Tech Team Leader by Understanding the Core Business | Strategies for Success on ZDNet</u></a></li>
-<li><a href="https://fox-making.techidaily.com/effective-database-management-solutions/"><u>Effective Database Management Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-7-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 7 Plus? | Stellar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/marketing-strategies-evolve-with-ai-how-many-are-on-board-an-analysis-by-zdnet/"><u>Marketing Strategies Evolve with AI: How Many Are on Board? An Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-start-with-understanding-your-companys-core-goals-insights-from-zdnet/"><u>Mastering Tech Team Leadership: Start with Understanding Your Company's Core Goals | Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/speedy-setup-for-your-elgato-hardware-get-the-right-drivers-fast/"><u>Speedy Setup for Your Elgato Hardware - Get the Right Drivers Fast</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unveiling-the-process-of-new-driver-setup/"><u>Unveiling the Process of New Driver Setup</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-business-executives-doubt-it-reliability-insights-from-a-new-ibm-research-revealed-on-zdnet/"><u>Why Business Executives Doubt IT Reliability: Insights From a New IBM Research Revealed on ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-elite-photo-repository-solutions/"><u>[Updated] 2024 Approved Elite Photo Repository Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-embracing-the-edge-how-surge-in-edge-computing-devices-shapes-future-careers-techworld/"><u>1. Embracing the Edge: How Surge in Edge Computing Devices Shapes Future Careers | TechWorld</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-disparities-shape-our-progress-in-real-time-technology-breakthroughs-zdnet/"><u>How Disparities Shape Our Progress in Real-Time Technology Breakthroughs | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y78plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-rapid-routines-to-rearrange-youtube-playlists-effectively/"><u>In 2024, Rapid Routines to Rearrange YouTube Playlists Effectively</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-trends-that-make-your-meme-epidemic/"><u>In 2024, Trends That Make Your Meme Epidemic</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-through-video-editing-delight-filmoras-core-traits-for-2024/"><u>Navigating Through Video Editing Delight Filmora's Core Traits for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/peak-creative-synopsis-thorough-studio-review-for-the-year-2023-for-2024/"><u>Peak Creative Synopsis Thorough Studio Review for the Year 2023 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-pc-performance-set-active-hours-prevent-sudden-updates-on-windows-11/"><u>Perfecting PC Performance: Set Active Hours, Prevent Sudden Updates on Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tackling-the-accountability-gap-in-artificial-intelligence-development/"><u>Tackling the Accountability Gap in Artificial Intelligence Development</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-ai-watermarking-solutions-revealed-on-zdnet/"><u>The Definitive Guide to AI Watermarking Solutions - Revealed on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-work-how-ai-agents-define-the-new-era-and-transform-employment-landscape-permanently-insights-from-zdnet/"><u>The Future of Work: How AI Agents Define the New Era and Transform Employment Landscape Permanently - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-work-how-ai-agents-mark-a-new-era-of-innovation-and-permanent-shifts-in-employment-landscape/"><u>Transforming Work: How AI Agents Mark a New Era of Innovation and Permanent Shifts in Employment Landscape</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-capturing-desktop-audio-via-obs-heres-how-you-can-fix-it/"><u>Trouble with Capturing Desktop Audio via OBS? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unpacking-the-irony-of-automation-when-artificnial-intelligence-spurs-more-work-not-less-zdnet-insights/"><u>Unpacking the Irony of Automation: When Artificnial Intelligence Spurs More Work, Not Less | ZDNET Insights</u></a></li>
 </ul></div>
 

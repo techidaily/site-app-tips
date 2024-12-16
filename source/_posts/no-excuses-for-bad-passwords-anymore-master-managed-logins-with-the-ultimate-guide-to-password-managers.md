@@ -1,7 +1,7 @@
 ---
 title: No Excuses for Bad Passwords Anymore - Master Managed Logins with the Ultimate Guide to Password Managers
-date: 2024-12-08T23:14:21.035Z
-updated: 2024-12-10T02:16:41.810Z
+date: 2024-12-12T07:36:02.477Z
+updated: 2024-12-15T19:25:54.947Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Tell me, what is the password for your bank account? If you can rattle off that password without thinking, chances are pretty good it's not nearly strong enough. Any password you can memorize (unless you have an amazing memory) is probably weak. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -38,7 +38,7 @@ Of course, at this point, you're thinking, "I don't want to have to memorize a b
 Let's step back a bit.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does this even work?
@@ -113,19 +113,17 @@ You've been warned.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-whispering-through-screens-a-private-story-journey/"><u>2024 Approved Whispering Through Screens A Private Story Journey</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-why-chatgpt-stands-out-amongst-advanced-ai-chat-bots/"><u>Comprehensive Analysis: Why ChatGPT Stands Out Amongst Advanced AI Chat Bots</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-of-chatsonic-an-in-depth-guide-to-understanding-this-advanced-ai-chatbot/"><u>Comprehensive Evaluation of Chatsonic: An In-Depth Guide to Understanding This Advanced AI Chatbot</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-how-these-10-cutting-edge-ai-chatbots-can-elevate-your-communication-game/"><u>Discover How These 10 Cutting-Edge AI Chatbots Can Elevate Your Communication Game</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620184703-discover-the-full-potential-of-eva-ai-by-ex-journey-your-essential-chatbot-review-compiled/"><u>Discover the Full Potential of EVA AI by Ex Journey – Your Essential Chatbot Review Compiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-guide-activating-bluetooth-connectivity-in-windows-7-solutions-inside/"><u>Easy Guide: Activating Bluetooth Connectivity in Windows 7 - Solutions Inside</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-with-ais-best-kept-secret-an-in-depth-analysis-of-the-apo-assistant-chatbot-app/"><u>Experience Next-Level Interaction with AI's Best Kept Secret - An In-Depth Analysis of the Apo Assistant Chatbot App</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-the-future-10-revolutionary-ai-chatbots-to-upgrade-your-conversations/"><u>Experience the Future: 10 Revolutionary AI Chatbots to Upgrade Your Conversations</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-and-costs-promoting-videos-effectively/"><u>In 2024, Strategies and Costs Promoting Videos Effectively</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-dark-art-of-night-photography-best-practices-revealed/"><u>In 2024, The Dark Art of Night Photography Best Practices Revealed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-new-era-of-framing-life-with-nikon-d500-for-2024/"><u>The New Era of Framing Life with Nikon D500 for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/troubleshooting-guide-for-faulty-graphics-cards-insights-by-yl-software-experts/"><u>Troubleshooting Guide for Faulty Graphics Cards - Insights by YL Software Experts</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/understanding-risks-key-disadvantages-when-diving-into-crypto-investment-insights-by-yl-computing/"><u>Understanding Risks: Key Disadvantages When Diving Into Crypto Investment - Insights by YL Computing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlock-image-potential-10plus-lut-samples-some-at-zero-cost/"><u>Unlock Image Potential 10+ LUT Samples, Some at Zero Cost</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-transform-your-online-image-top-9-insights-for-insta-stardom-for-2024/"><u>[New] Transform Your Online Image Top 9 Insights for Insta Stardom for 2024</u></a></li>
+<li><a href="https://ai-video.techidaily.com/a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/diagnosing-graphics-card-malfunctions-common-reasons-behind-system-crashes-on-windows-by-yl-computing-experts/"><u>Diagnosing Graphics Card Malfunctions: Common Reasons Behind System Crashes on Windows by YL Computing Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-preferred-version-easy-free-downloads-of-both-old-and-new-itunes-for-windows-and-mac/"><u>Get Your Preferred Version: Easy Free Downloads of Both Old and New iTunes for Windows & Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/getting-started-with-itunes-on-windows-operating-systems-a-step-by-step-guide/"><u>Getting Started with iTunes on Windows Operating Systems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-fix-it-when-your-iphone-is-not-detected-by-itunes/"><u>How to Fix It when Your iPhone Is Not Detected by iTunes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/igfx-fault-recovered-and-running-smoothly/"><u>IGFX Fault: Recovered and Running Smoothly</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-streamline-creative-filmmaking-with-instagrams-background-swap/"><u>In 2024, Streamline Creative Filmmaking with Instagram's Background Swap</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ipod-add-on-tutorial-placing-tracks-without-using-itunes-aiseesofts-approach/"><u>IPod Add-On Tutorial: Placing Tracks Without Using iTunes (Aiseesoft's Approach)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-itel-p55plus-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Itel P55+ Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revolutionize-your-broadcasting-with-manycam-the-top-live-video-and-simulated-camera-tech/"><u>Revolutionize Your Broadcasting with ManyCam - The Top Live Video and Simulated Camera Tech</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/social-media-supremacy-top-10-youtube-influencers-for-2024/"><u>Social Media Supremacy Top 10 YouTube Influencers for 2024</u></a></li>
 </ul></div>
 

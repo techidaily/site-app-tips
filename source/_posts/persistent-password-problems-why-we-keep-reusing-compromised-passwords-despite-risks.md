@@ -1,7 +1,7 @@
 ---
 title: "Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks"
-date: 2024-12-04T23:14:58.547Z
-updated: 2024-12-09T20:14:38.093Z
+date: 2024-12-12T19:54:43.008Z
+updated: 2024-12-15T17:54:15.303Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -114,7 +114,7 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -141,7 +141,7 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -189,17 +189,22 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-enhance-your-instagram-stories-with-a-blend-of-pictures-a-beginners-guide/"><u>[Updated] 2024 Approved Enhance Your Instagram Stories with a Blend of Pictures A Beginner's Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-best-of-breed-premium-4k-camera-mounts-for-pros-for-2024/"><u>[Updated] Best of Breed Premium 4K Camera Mounts for Pros for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-bridging-visuals-and-audio-instagram-content-to-mp3-magic-for-2024/"><u>[Updated] Bridging Visuals & Audio Instagram Content to Mp3 Magic for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-embracing-the-edge-how-surge-in-edge-computing-devices-shapes-future-careers-techworld/"><u>1. Embracing the Edge: How Surge in Edge Computing Devices Shapes Future Careers | TechWorld</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722970250518-effective-solutions-for-startech-drivers-errors-on-windows-11-8-and-7-resolved/"><u>Effective Solutions for StarTech Drivers Errors on Windows 11, 8 & 7 - Resolved</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/gamings-finest-bike-battles-compiled/"><u>Gaming's Finest Bike Battles Compiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-counterfeit-corner-of-creative-writing-ai-detection-tips/"><u>The Counterfeit Corner of Creative Writing: AI Detection Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-incoming-wave-of-ai-enabled-agent-ecosystems-transforming-tomorrows-market-services/"><u>The Incoming Wave of AI-Enabled 'Agent Ecosystems': Transforming Tomorrow's Market Services</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-role-of-multiple-ai-systems-in-business-success-understanding-the-trends-with-zdnets-analysis/"><u>The Role of Multiple AI Systems in Business Success: Understanding the Trends with ZDNET's Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-unseen-challenge-in-conversational-ai-stanford-highlights-english-centric-flaws-in-modern-chatbots-zdnet/"><u>The Unseen Challenge in Conversational AI: Stanford Highlights English-Centric Flaws in Modern Chatbots | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-work-how-ai-agents-mark-a-new-era-of-innovation-and-permanent-shifts-in-employment-landscape/"><u>Transforming Work: How AI Agents Mark a New Era of Innovation and Permanent Shifts in Employment Landscape</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-final-cut-pro-guide-integrating-waveform-graphics-and-animated-sounds-for-enhanced-editing/"><u>Updated 2024 Approved Final Cut Pro Guide Integrating Waveform Graphics and Animated Sounds for Enhanced Editing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-how-to-get-more-video-views-on-youtube/"><u>[New] 2024 Approved How To Get More Video Views on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ranking-the-best-ios-videography-tech/"><u>[New] 2024 Approved Ranking the Best iOS Videography Tech</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-vanguard-visions-ultimate-laptop-choices-for-uhd-content-creators/"><u>[New] In 2024, Vanguard Visions Ultimate Laptop Choices for UHD Content Creators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-success-with-effective-video-praise-techniques/"><u>[New] Unlocking Success with Effective Video Praise Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-boundless-adventures-exploring-vr-in-games/"><u>[Updated] Boundless Adventures Exploring VR in Games</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-economical-growth-methodology-subscribe-now/"><u>[Updated] In 2024, Economical Growth Methodology - Subscribe Now!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-advice-on-free-youtube-events-without-extra-cost/"><u>2024 Approved Expert Advice on Free Youtube Events without Extra Cost</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-and-premium-note-taking-apps-for-android-top-5-picks/"><u>Best Free and Premium Note-Taking Apps for Android: Top 5 Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-adobe-premiere-rush-evaluation-advantages-disadvantages-and-viable-substitutes/"><u>Comprehensive Adobe Premiere Rush Evaluation: Advantages, Disadvantages & Viable Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creative-loops-made-easy-with-the-top-4-mobile-apps-for-android-and-ios-users/"><u>Creative Loops Made Easy with the Top 4 Mobile Apps for Android and iOS Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-guide-sending-video-messages-on-skype-and-whatsapp/"><u>Easy Guide: Sending Video Messages on Skype and WhatsApp</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-lava-storm-5g-frp-by-drfone-android/"><u>How Can We Bypass Lava Storm 5G FRP?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-syncopating-success-key-points-to-music-short-videos-on-youtube/"><u>In 2024, Syncopating Success Key Points to Music Short Videos on YouTube</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-iphone-maintenance-programs-unlock-premium-features-without-cost/"><u>Leading iPhone Maintenance Programs: Unlock Premium Features without Cost</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-accessing-whatsapp-anonymously-without-providing-your-phone-number/"><u>Step-by-Step Instructions: Accessing WhatsApp Anonymously Without Providing Your Phone Number</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-20-parent-monitoring-software-ensuring-child-internet-safety/"><u>Top 20 Parent Monitoring Software: Ensuring Child Internet Safety</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-instant-messaging-a-comprehensive-overview/"><u>Understanding Instant Messaging: A Comprehensive Overview</u></a></li>
 </ul></div>
 

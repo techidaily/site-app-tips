@@ -1,7 +1,7 @@
 ---
 title: "Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default"
-date: 2024-12-03T21:57:28.915Z
-updated: 2024-12-10T02:21:28.445Z
+date: 2024-12-13T16:04:50.449Z
+updated: 2024-12-16T06:59:59.179Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ Google [has auto enrolled](https://blog.google/technology/safety-security/reduci
 The initiative also involved requiring 2 million YouTube users to enable it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google
@@ -79,17 +79,17 @@ Google [announced](https://www.zdnet.com/article/by-end-of-2021-google-plans-to-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-perfect-picture-creation-discover-these-top-5-android-editors/"><u>[New] 2024 Approved Perfect Picture Creation Discover These Top 5 Android Editors</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-advanced-strategies-for-quiet-capturing-for-2024/"><u>[New] Advanced Strategies for Quiet Capturing for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-insiders-handbook-to-crafting-shareable-meme-gifs/"><u>[New] The Insider's Handbook to Crafting Shareable Meme GIFs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-manager-training-essential-before-introducing-artificial-intelligence-in-business-insights-from-zdnet/"><u>1. Manager Training Essential Before Introducing Artificial Intelligence in Business: Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1-quick-guide-transforming-amr-audio-files-into-wav-format-in-just-7-steps/"><u>1. Quick Guide: Transforming AMR Audio Files Into WAV Format in Just 7 Steps!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-effortless-screen-saving-on-android-devices/"><u>In 2024, Effortless Screen Saving on Android Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-wmp-techniques-for-efficient-cd-handling-and-recordings-for-2024/"><u>Master WMP Techniques for Efficient CD Handling and Recordings for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-age-of-artificial-intelligence-strategies-for-tech-experts-to-excel-in-their-careers-zdnet/"><u>Navigating the Age of Artificial Intelligence: Strategies for Tech Experts to Excel in Their Careers | ZDNet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-complete-guide-to-expressing-hello-in-spanish-top-10-ways/"><u>The Complete Guide to Expressing 'Hello' In Spanish - Top 10 Ways</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-ai-how-multiple-machine-learning-models-will-power-your-business-according-to-zdnet/"><u>The Future Is AI: How Multiple Machine Learning Models Will Power Your Business, According to ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-singapore-advocates-for-financial-backing-of-ai-integration-and-carbon-neutral-goals/"><u>ZDNet Exclusive: Singapore Advocates for Financial Backing of AI Integration and Carbon-Neutral Goals</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-nightly-serenity-with-asmr-top-choices-to-listen-to/"><u>[New] Nightly Serenity with ASMR Top Choices to Listen To</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726226954188-movavim4amp3/"><u>使用Movavi免费在线将M4A格式转换为MP3 - 免费移动设备支持</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/climates-cozy-cinematics-selecting-winter-backgrounds-for-2024/"><u>Cool Climates, Cozy Cinematics Selecting Winter Backgrounds for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/devops-engineering-career-the-complete-picture-pros-cons-and-challenges/"><u>DevOps Engineering Career: The Complete Picture - Pros, Cons & Challenges</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/excel-skill-boost-learn-how-to-efficiently-perform-time-summation-and-reduction-using-microsoft-excel-tools/"><u>Excel Skill Boost: Learn How To Efficiently Perform Time Summation and Reduction Using Microsoft Excel Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-f23-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo F23 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-analyzing-peak-engagement-for-podcast-drops/"><u>In 2024, Analyzing Peak Engagement for Podcast Drops</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-iphone-6s-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On iPhone 6s?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-ai-expertise-for-non-programmers-the-need-for-multifaceted-learning-in-complex-environments-zdnet/"><u>Navigating AI Expertise for Non-Programmers - The Need for Multifaceted Learning in Complex Environments | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-old-school-it-systems-key-insights-for-managing-outdated-technologies-and-avoiding-migration-pitfalls/"><u>Navigating Old-School IT Systems: Key Insights for Managing Outdated Technologies and Avoiding Migration Pitfalls</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-pitfalls-of-outdated-systems-a-lesson-from-a-failed-technology-migration-zdnet/"><u>Navigating the Pitfalls of Outdated Systems: A Lesson From a Failed Technology Migration | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-journey-to-becoming-a-chief-artificial-intelligence-officer-insights-and-strategies-for-success/"><u>The Journey to Becoming a Chief Artificial Intelligence Officer - Insights and Strategies for Success</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report
-date: 2024-12-08T17:35:39.748Z
-updated: 2024-12-10T00:24:39.188Z
+date: 2024-12-13T02:19:03.859Z
+updated: 2024-12-16T01:22:42.338Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,18 +81,16 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-becoming-a-visionary-in-depth-guide-to-hdr-photography-for-2024/"><u>[New] Becoming a Visionary In-Depth Guide to HDR Photography for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-experts-insight-into-morphvox-for-professional-sound-alteration/"><u>[New] In 2024, Expert's Insight Into MorphVOX for Professional Sound Alteration</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-beginners-guide-top-10-easy-to-fly-drones-for-2024/"><u>[Updated] Beginner's Guide Top 10 Easy-to-Fly Drones for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-guide-to-early-success-on-youtube-steer-clear-of-these-top-8-pitfalls/"><u>[Updated] The Essential Guide to Early Success on YouTube Steer Clear of These Top 8 Pitfalls</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/effective-ways-to-archive-and-record-youtube-events/"><u>Effective Ways to Archive and Record Youtube Events</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-effortlessly-backup-and-restore-whatsapp-messages-from-one-android-phone-to-another/"><u>How to Effortlessly Backup and Restore WhatsApp Messages From One Android Phone to Another</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximizing-your-media-sharing-on-whatsapp-ultimate-guide-to-reducing-video-file-size-without-quality-loss/"><u>Maximizing Your Media Sharing on WhatsApp: Ultimate Guide to Reducing Video File Size Without Quality Loss</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcome-whatsapp-backup-freeze-on-android-with-these-5-effective-methods/"><u>Overcome WhatsApp Backup Freeze on Android with These 5 Effective Methods</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/reel-in-the-future-top-5-ps-vr-games-on-the-brink-of-launch-for-2024/"><u>Reel in the Future Top 5 PS VR Games on The Brink of Launch for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-guide-capturing-your-whatsapp-video-calls-on-ios-android-and-pc/"><u>Simple Guide: Capturing Your WhatsApp Video Calls on iOS, Android, and PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-steps-to-seamlessly-download-audio-messages-from-whatsapp/"><u>Simple Steps to Seamlessly Download Audio Messages From WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-whatsapp-video-conversion-apps-for-perfect-quality/"><u>The Ultimate Guide: Top WhatsApp Video Conversion Apps for Perfect Quality</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-free-video-call-apps-versatile-use-on-windows-and-macos-for-2024/"><u>Top Free Video Call Apps Versatile Use on Windows & MacOS for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-clear-water-footage-pro-techniques-for-gopro-underwater-scenes/"><u>[New] 2024 Approved Clear Water Footage Pro Techniques for GoPro Underwater Scenes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unveiling-top-2023-vr-engine-innovations/"><u>[New] In 2024, Unveiling Top 2023 VR Engine Innovations</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-visual-wit-workshop-make-memes-with-kapwing/"><u>[New] In 2024, Visual Wit Workshop Make Memes with Kapwing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-quick-and-easy-conducting-instagram-stories-polls-today/"><u>[New] Quick & Easy Conducting Instagram Stories Polls Today</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-best-in-class-iphone-and-android-video-enhancers-for-2024/"><u>[Updated] Best-In-Class iPhone and Android Video Enhancers for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybersecurity-titans-unite-zerofox-acquires-idx-aligning-with-landf-for-an-impressive-14-billion-powerhouse-revealed-by-zdnet/"><u>Cybersecurity Titans Unite! ZeroFox Acquires IDX, Aligning with L&F for an Impressive $1.4 Billion Powerhouse Revealed by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-does-the-bitwarden-prompt-for-master-password-work-tips-to-turn-it-on-easily/"><u>How Does the Bitwarden Prompt for Master Password Work? Tips to Turn It On Easily!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-ai-smarts-into-your-androids-bing-use/"><u>Integrating AI Smarts Into Your Android's Bing Use</u></a></li>
+<li><a href="https://app-tips.techidaily.com/proton-launches-advanced-password-protector-ensuring-total-privacy-with-robust-end-to-end-cryptography-zdnet/"><u>Proton Launches Advanced Password Protector, Ensuring Total Privacy with Robust End-to-End Cryptography | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-password-security-tools-of-2024-professional-reviews-zdnet/"><u>Top-Ranked Password Security Tools of 2024: Professional Reviews | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-a-safer-digital-life-a-detailed-review-of-two-revolutionary-passwordless-managers/"><u>Unlocking a Safer Digital Life: A Detailed Review of Two Revolutionary Passwordless Managers</u></a></li>
 </ul></div>
 

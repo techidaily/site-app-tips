@@ -1,7 +1,7 @@
 ---
 title: Understanding the Short Window of Success in AI Implementations - Lessons From a ZDNet Perspective
-date: 2024-12-06T18:33:05.235Z
-updated: 2024-12-09T17:26:25.470Z
+date: 2024-12-10T16:20:40.646Z
+updated: 2024-12-15T16:40:38.583Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,14 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-initiatives-to-enhance-your-podcasts-rss-feeds/"><u>[New] 2024 Approved Initiatives to Enhance Your Podcast's RSS Feeds</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-exclusive-roundup-leading-fb-video-content/"><u>[New] In 2024, Exclusive Roundup Leading FB Video Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-stunning-pixel-perfect-combinations/"><u>[New] The Ultimate Guide to Stunning Pixel-Perfect Combinations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-nvidia-unveils-new-accelerated-instruction-modules-aims-for-enhanced-gen-ai-performance-tech-news-on-zdnet/"><u>1. NVIDIA Unveils New Accelerated Instruction Modules (AIMs) for Enhanced GEN AI Performance - Tech News on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/all-in-one-microsoft-experience-bridging-work-life-and-study-with-the-latest-teams-update-on-zdnet/"><u>All-in-One Microsoft Experience: Bridging Work, Life, and Study with the Latest Teams Update on ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/eveo-bluetooth-adapter-software-free-download/"><u>EVEO Bluetooth Adapter Software - Free Download</u></a></li>
-<li><a href="https://games-able.techidaily.com/leading-edge-joy-cons-and-controllers-the-best-of-2024/"><u>Leading-Edge Joy-Cons and Controllers: The Best of 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-recent-patch-might-escalate-evening-tech-woes-experts-at-zdnet-caution/"><u>Microsoft's Recent Patch Might Escalate Evening Tech Woes, Experts at ZDNet Caution</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-leading-iam-tools-as-ranked-by-industry-experts/"><u>The Ultimate Guide to Leading IAM Tools , as Ranked by Industry Experts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-designing-customized-instagram-feed-narratives/"><u>[New] In 2024, Designing Customized Instagram Feed Narratives</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-sequential-image-storytelling-on-ig-for-2024/"><u>[New] Sequential Image Storytelling on IG for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-step-by-step-methods-for-amassing-tiktok-videos/"><u>[Updated] Step-by-Step Methods for Amassing TikTok Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anthropic-introduces-complimentary-ios-claude-app-expands-to-enterprise-market-latest-from-zdnet/"><u>Anthropic Introduces Complimentary iOS Claude App, Expands to Enterprise Market | Latest From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-download-of-asus-vg2ebe-19x70mm-tube-filled-with-nitrogen-gas-for-use-in-welding-applications-industrial-specification/"><u>Hassle-Free Download of Asus VG2ebe 19X70mm Tube Filled with Nitrogen Gas for Use in Welding Applications - Industrial Specification</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-xcover-6-pro-tactical-edition-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy XCover 6 Pro Tactical Edition to Mac? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-repost-photos-and-video-on-instagram/"><u>How to Repost Photos and Video on Instagram</u></a></li>
+<li><a href="https://app-tips.techidaily.com/latest-features-in-libreoffice-and-easy-macos-installation-guide-insights-from-zdnet/"><u>Latest Features in LibreOffice & Easy macOS Installation Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-deploy-powertoys-in-win11-environments/"><u>Securely Deploy PowerToys in Win11 Environments</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-providers-of-hyperconverged-infrastructure-solutions-expert-rankings-by-zdnet/"><u>Top Rated Providers of Hyperconverged Infrastructure Solutions - Expert Rankings by ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/understanding-different-spanish-greeting-phrases-a-must-know-list-of-10/"><u>Understanding Different Spanish Greeting Phrases - A Must Know List Of 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-bert-ai-key-differences-from-gpts-approach-to-nlp/"><u>Understanding the BERT AI: Key Differences From GPT's Approach to NLP</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-the-mystery-is-the-no-cost-windows-11-upgrade-still-available-analysis-by-zdnet/"><u>Unraveling the Mystery: Is the No-Cost Windows 11 Upgrade Still Available? - Analysis by ZDNET</u></a></li>
 </ul></div>
 
