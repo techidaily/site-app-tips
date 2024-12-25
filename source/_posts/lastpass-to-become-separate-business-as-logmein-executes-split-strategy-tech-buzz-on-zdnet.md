@@ -1,7 +1,7 @@
 ---
 title: LastPass to Become Separate Business as LogMeIn Executes Split Strategy | Tech Buzz on ZDNet
-date: 2024-12-10T06:52:41.400Z
-updated: 2024-12-16T04:41:46.053Z
+date: 2024-12-20T17:55:03.470Z
+updated: 2024-12-24T20:56:14.125Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ LogMeIn [announced](https://www.logmein.com/newsroom/press-release/2021/logmein-
 The cloud-based solutions company explained that the move allows LastPass to invest heavily in "customer experience, go-to-market functions and engineering" as a way to improve its "organic growth in password management," Single Sign-On (SSO) and multi-factor authentication (MFA). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -86,21 +86,18 @@ In a message to users, LastPass reiterated that it could "strategically increase
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-fish-out-the-frame-underwater-shooting-secrets-with-a-gopro/"><u>[New] Fish Out the Frame Underwater Shooting Secrets with a GoPro</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-optimal-typographic-animations-compiled/"><u>[Updated] In 2024, Optimal Typographic Animations Compiled</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-cutting-edge-techniques-for-excellent-sound-no-mic-included/"><u>2024 Approved Cutting-Edge Techniques for Excellent Sound, No Mic Included</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-art-of-background-blur-in-modern-photography/"><u>2024 Approved The Art of Background Blur in Modern Photography</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-10-mobile-chat-applications-the-ultimate-list-for-ios-and-android-devices/"><u>Best 10 Mobile Chat Applications: The Ultimate List for iOS & Android Devices</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/crossing-into-a-shared-tiktok-space-easy-ways-for-2024/"><u>Crossing Into a Shared TikTok Space Easy Ways for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/decouvrez-le-monde-des-fichiers-bmp-comment-ils-agissent-et-retrouver-vos-images-perdues-en-toute-securite/"><u>Découvrez Le Monde Des Fichiers BMP : Comment Ils Agissent Et Retrouver Vos Images Perdues en Toute Sécurité</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-ways-to-keep-your-apps-private-on-smartphones-and-tablets-android-and-apple/"><u>Effective Ways to Keep Your Apps Private on Smartphones & Tablets (Android & Apple)</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-13t-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193676-get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ios-tracker-application-monitor-your-iphone-with-ease/"><u>IOS Tracker Application: Monitor Your iPhone with Ease</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-most-effective-android-management-software-from-pc-updated-top-picks/"><u>The Most Effective Android Management Software From PC - Updated Top Picks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-free-online-and-mobile-apps-for-crafting-hilarious-memes-effortlessly/"><u>Top Free Online & Mobile Apps for Crafting Hilarious Memes Effortlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-tech-industry-openai-debuts-advanced-gpt-4-artificial-intelligence-platform/"><u>Transforming Tech Industry, OpenAI Debuts Advanced GPT-4 Artificial Intelligence Platform</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-summary-and-expert-take-on-gopro-quik-your-essential-reading-for-this-year/"><u>Ultimate Summary and Expert Take on GoPro Quik – Your Essential Reading for This Year</u></a></li>
-<li><a href="https://games-able.techidaily.com/undoing-fortnites-financial-commitment-easy-steps-for-refund/"><u>Undoing Fortnite's Financial Commitment - Easy Steps for Refund</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pro-vlc-top-10-hidden-player-powers/"><u>[Updated] Pro-VLC Top 10 Hidden Player Powers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-skyrocket-views-with-smartly-chosen-video-release-times/"><u>2024 Approved Skyrocket Views with Smartly Chosen Video Release Times</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-in-making-the-most-of-snap-camera-in-microsoft-teams/"><u>2024 Approved Step-In Making the Most of Snap Camera in Microsoft Teams</u></a></li>
+<li><a href="https://blog-min.techidaily.com/fixing-handbrake-compatibility-issues-with-vob-files-step-by-step-guide/"><u>Fixing HandBrake Compatibility Issues with VOB Files – Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mirror-your-media-how-to-flip-a-clip-in-final-cut-pro-quickly/"><u>Mirror Your Media How to Flip a Clip in Final Cut Pro Quickly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-steps-access-your-icloud-images-from-anywhere/"><u>Simple Steps: Access Your iCloud Images From Anywhere</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-icloud-photo-sharing-issues-on-iphone-ipad-and-mac-a-comprehensive-guide/"><u>Solving iCloud Photo Sharing Issues on iPhone, iPad & Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-securely-syncing-your-ipad-pro-mini-and-air-with-icloud-backups/"><u>Step-by-Step Guide: Securely Syncing Your iPad Pro, Mini & Air with iCloud Backups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-viewing-icloud-saved-passwords-on-ios-devices-and-computers/"><u>Step-by-Step Tutorial: Viewing iCloud Saved Passwords on iOS Devices & Computers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264574-struggling-with-a-forgotten-icloud-login-discover-these-6-effective-remedies/"><u>Struggling with a Forgotten iCloud Login? Discover These 6 Effective Remedies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surpassing-windows-internet-speed-ceiling-with-ease/"><u>Surpassing Windows Internet Speed Ceiling with Ease</u></a></li>
 </ul></div>
 

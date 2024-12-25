@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Cyber Defense: How Juniper Networks Strengthens Its SASE Offerings with a New Cloud Firewall Feature - Tech Analysis by ZDNET"
-date: 2024-12-01T12:04:37.354Z
-updated: 2024-12-01T18:39:05.538Z
+date: 2024-12-23T19:29:25.961Z
+updated: 2024-12-25T01:18:38.328Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-boost-your-channel-top-14-gaming-vids-for-youtube-success/"><u>[New] Boost Your Channel Top 14 Gaming Vids for YouTube Success</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-smartcapture-hd-v2/"><u>[New] SmartCapture HD V2</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-import-audio-tracks-in-premiere-pro/"><u>[Updated] In 2024, Import Audio Tracks in Premiere Pro</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-servicenow-embraces-ai-fundamentals-for-competitive-advantage-insights-and-implications-for-business-growth-zdnet/"><u>How ServiceNow Embraces AI Fundamentals for Competitive Advantage – Insights & Implications for Business Growth | ZDNET</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-optimal-no-audio-recording-practices/"><u>In 2024, Optimal No-Audio Recording Practices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-unveiling-secret-youtube-clips-a-step-by-step-guide/"><u>In 2024, Unveiling Secret YouTube Clips A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/jotunheim-raid-the-war-of-the-worlds/"><u>Jotunheim Raid The War of the Worlds</u></a></li>
-<li><a href="https://app-tips.techidaily.com/juniper-networks-enhances-security-with-new-cloud-based-firewall-in-unified-secure-access-service-edge-portfolio/"><u>Juniper Networks Enhances Security with New Cloud-Based Firewall in Unified Secure Access Service Edge Portfolio</u></a></li>
-<li><a href="https://app-tips.techidaily.com/latest-features-in-libreoffice-and-easy-macos-installation-guide-insights-from-zdnet/"><u>Latest Features in LibreOffice & Easy macOS Installation Guide - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-faces-time-sensitive-dilemma-over-windows-10-in-just-one-year-insights-from-zdnet-coverage/"><u>Microsoft Faces Time-Sensitive Dilemma Over Windows 10 in Just One Year - Insights From ZDNET Coverage</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/social-media-mastery-surpassing-the-competition-in-popularity-rankings/"><u>Social Media Mastery Surpassing the Competition in Popularity Rankings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-impact-of-the-russian-ukrainian-conflict-on-global-tech-sector-insights-from-zdnet/"><u>The Impact of the Russian-Ukrainian Conflict on Global Tech Sector | Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-text-from-speech-software/"><u>Top Rated Text From Speech Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultra-stable-linux-kernel-the-long-haul-solution-released-insights-from-zdnet/"><u>Ultra-Stable Linux Kernel: The Long-Haul Solution Released - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleashing-potential-with-artificial-intelligence-learn-how-81-increase-in-workforce-productivity-can-be-achieved-expert-tips-by-zdnet/"><u>Unleashing Potential with Artificial Intelligence: Learn How 81% Increase in Workforce Productivity Can Be Achieved | Expert Tips by ZDNet</u></a></li>
-<li><a href="https://fox-search.techidaily.com/unlock-the-potential-of-your-data-which-formats-are-compatible-for-conversion-with-flip-office/"><u>Unlock the Potential of Your Data: Which Formats Are Compatible for Conversion with Flip Office?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unraveling-the-mystery-is-the-no-cost-windows-11-upgrade-still-available-analysis-by-zdnet/"><u>Unraveling the Mystery: Is the No-Cost Windows 11 Upgrade Still Available? - Analysis by ZDNET</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-uncomplicated-video-logging-tool-w10/"><u>2024 Approved Uncomplicated Video Logging Tool W10</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211113059-error-0xc1900208-on-windows-11-updates-heres-how-you-can-fix-it/"><u>Error 0xC1900208 on Windows 11 Updates? Here’s How You Can Fix It!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/flickvista-app-performance-index-for-2024/"><u>FlickVista App Performance Index for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-artificer-intelligence-the-next-gen-kubernetes-update-revealed-infotech-today/"><u>Leveraging Artificer Intelligence: The Next-Gen Kubernetes Update Revealed | InfoTech Today</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-recall-understanding-why-it-isnt-the-ultimate-privacy-disaster-top-7-insights-to-ease-your-concerns-zdnet/"><u>Microsoft Recall: Understanding Why It Isn't the 'Ultimate Privacy Disaster' – Top 7 Insights to Ease Your Concerns | ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-persistent-gameloop-disruptions-in-windows-11-and-windows-10-devices/"><u>Resolving Persistent Gameloop Disruptions in Windows 11 and Windows 10 Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-big-screen-displays-issue-for-windows-10/"><u>Solved Big-Screen Displays Issue for Windows 10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stay-organized-with-slackbot-your-ultimate-tutorial-for-setting-effective-reminders-in-slack/"><u>Stay Organized with Slackbot: Your Ultimate Tutorial for Setting Effective Reminders in Slack</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-zero-code-development-how-generative-ai-is-transforming-the-future-beyond-low-code/"><u>The Rise of Zero-Code Development: How Generative AI Is Transforming the Future Beyond Low-Code</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/top-7-effective-methods-to-repair-srctracetxt-errors-on-windows-11/"><u>Top 7 Effective Methods to Repair srctrace.txt Errors on Windows 11</u></a></li>
 </ul></div>
 

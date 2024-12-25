@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses Artificial Intelligence & Embracing Rust in Computing | Tech Insights on ZDNet
-date: 2024-12-11T03:18:56.764Z
-updated: 2024-12-15T22:28:12.927Z
+date: 2024-12-24T04:04:18.261Z
+updated: 2024-12-24T21:49:08.745Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-animated-text-that-jumps-master-class-with-easy-steps/"><u>[New] In 2024, Animated Text That Jumps Master Class with Easy Steps</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-techniques-for-steadying-your-motion-sensitive-gopro-for-2024/"><u>[Updated] Techniques for Steadying Your Motion-Sensitive GoPro for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-an-in-depth-examination-of-vivavideo-app/"><u>2024 Approved An In-Depth Examination of VivaVideo App</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-seamless-system-sharing-quick-and-effective-techniques-for-transferring-files/"><u>2024 Approved Seamless System Sharing Quick and Effective Techniques for Transferring Files</u></a></li>
-<li><a href="https://app-tips.techidaily.com/agile-methods-clash-with-ai-projects-insights-from-a-new-study-zdnet/"><u>Agile Methods Clash with AI Projects: Insights From a New Study | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/banking-innovation-at-risk-cio-warns-against-reliance-on-easy-prompt-tech-in-favour-of-creative-geniuses/"><u>Banking Innovation at Risk: CIO Warns Against Reliance on Easy-Prompt Tech in Favour of Creative Geniuses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cpu-generation-inquiry-on-windows-8-efficient-approaches/"><u>CPU Generation Inquiry on Windows – 8 Efficient Approaches</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-professional-edge-without-solely-focusing-on-ai-insights-for-todays-workforce/"><u>Elevate Your Professional Edge Without Solely Focusing on AI | Insights for Today's Workforce</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-synergy-how-ai-empowers-developers-and-business-teams-insights-from-zdnet/"><u>Enhancing Synergy: How AI Empowers Developers & Business Teams - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-emerging-companies-can-leverage-ai-models-to-capture-market-share-insights-from-zdnet/"><u>How Emerging Companies Can Leverage AI Models to Capture Market Share: Insights From ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2021-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2021 files</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-tweeting-tiktoks-made-easy/"><u>In 2024, Tweeting TikToks Made Easy</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-of-integrating-artificasternotext-ai-and-agile-methodologies-zdnet-reported-findings/"><u>Navigating the Complexities of Integrating Artificasternotext AI and Agile Methodologies - ZDNET Reported Findings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/potential-issues-with-ai-in-detecting-plagiarized-texts-and-possible-fixes/"><u>Potential Issues with AI in Detecting Plagiarized Texts and Possible Fixes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975602361-resolving-intels-dynamic-platform-and-thermal-framework-driver-setup-issues-tips-and-tricks/"><u>Resolving Intel's Dynamic Platform and Thermal Framework Driver Setup Issues - Tips & Tricks!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-building-a-vimeo-portfolio-from-the-ground-up/"><u>[New] In 2024, Building a Vimeo Portfolio From the Ground Up</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-sustainable-mobile-devices-of-2024-our-expert-picks-zdnet-insights/"><u>Discover the Finest Sustainable Mobile Devices of 2024: Our Expert Picks | ZDNet Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dragon-ball-fighterz-error-troubleshooting-network-initialization-failures/"><u>Dragon Ball FighterZ Error: Troubleshooting Network Initialization Failures</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-history-on-your-flip-watching-old-fb-stories/"><u>In 2024, History on Your Flip Watching Old FB Stories</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-zero-dollar-mp3-recorders-skype-call-edition/"><u>In 2024, Zero Dollar MP3 Recorders Skype Call Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterful-mobile-titles-with-controller-use/"><u>Masterful Mobile Titles With Controller Use</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-and-expert-insights/"><u>Tom's Tech Review: In-Depth Analysis & Expert Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-free-messaging-apps-as-great-substitutes-for-whatsapp/"><u>Top 10 Free Messaging Apps as Great Substitutes for WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-iphones-file-recovery-apps-restore-your-lost-data-easily/"><u>Top 5 iPhones File Recovery Apps: Restore Your Lost Data Easily</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-remote-control-applications-for-your-android-device-via-pc-the-ultimate-2024-guide/"><u>Top 5 Remote Control Applications for Your Android Device via PC: The Ultimate 2024 Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-trusted-ipad-video-player-apps-of-2024-install-now/"><u>Top 5 Trusted iPad Video Player Apps of 2024 - Install Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-shotcut-video-editor-a-comprehensive-guide-dont-miss-it/"><u>Top-Ranked Shotcut Video Editor: A Comprehensive Guide - Don't Miss It!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-lumafusion-reigns-supreme-in-the-world-of-ios-video-editors-a-detailed-review/"><u>Why LumaFusion Reigns Supreme in the World of iOS Video Editors – A Detailed Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET
-date: 2024-12-14T08:11:19.913Z
-updated: 2024-12-15T16:04:37.003Z
+date: 2024-12-21T00:42:01.135Z
+updated: 2024-12-25T04:54:35.533Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,22 +68,24 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-immersive-escapades-documented-the-experts-guide-to-capturing-vr-games/"><u>[New] Immersive Escapades Documented The Expert's Guide to Capturing VR Games</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-navigating-spotifys-ad-marketplace-successfully-for-2024/"><u>[New] Navigating Spotify's Ad Marketplace Successfully for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nlocking-high-quality-videos-youtubes-enhancement-secrets-revealed/"><u>[New] Unlocking High-Quality Videos YouTube's Enhancement Secrets Revealed</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-ios-and-android-asmr-experience-leaders/"><u>[Updated] 2024 Approved IOS and Android ASMR Experience Leaders</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-x-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone X? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-10-mobile-messaging-platforms-top-picks-for-ios-and-android-devices/"><u>Best 10 Mobile Messaging Platforms: Top Picks for iOS and Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-apple-music-evaluation-cost-analysis-and-features-breakdown-free-download/"><u>Comprehensive Apple Music Evaluation: Cost Analysis & Features Breakdown - Free Download</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722960668461-geforce-rtx-3080-ti-drivers-new-release-for-windows-11-8-and-7-download-free-today/"><u>GeForce RTX 3080 Ti Drivers: New Release for Windows 11, 8, and 7 – Download Free Today!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Google Pixel 7a? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/speed-up-your-experience-top-three-methods-for-swiftly-moving-applications-from-older-iphone-to-newer-model/"><u>Speed Up Your Experience: Top Three Methods for Swiftly Moving Applications From Older iPhone to Newer Model</u></a></li>
-<li><a href="https://app-tips.techidaily.com/stay-secure-and-connected-top-11-mobile-apps-for-hands-free-text-reading/"><u>Stay Secure and Connected: Top 11 Mobile Apps for Hands-Free Text Reading</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-seamless-interweaving-of-folders-and-files/"><u>The Seamless Interweaving of Folders & Files</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-8-xbox-console-emulators-on-pcandroid-reviewed-objectively/"><u>The Ultimate Guide: Top 8 Xbox Console Emulators on PC/Android, Reviewed Objectively</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-audio-management-apps-compatible-with-pc-mac-ios-and-android-devices/"><u>Top 10 Audio Management Apps Compatible with PC, Mac, iOS & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-swf-player-apps-compatible-with-pc-mac-android-and-iphone-devices/"><u>Top Rated SWF Player Apps Compatible with PC, Mac, Android & iPhone Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upcoming-apple-m-series-chip-enhanced-ai-capabilities-set-to-transform-the-full-range-of-macbooks-and-desktops-release-timeline-revealed/"><u>Upcoming Apple M-Series Chip: Enhanced AI Capabilities Set to Transform the Full Range of MacBooks & Desktops – Release Timeline Revealed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-launching-a-vlog-essential-equipmentapps/"><u>[New] 2024 Approved Launching a Vlog Essential Equipment/Apps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-essential-guide-to-best-10-no-cost-srt-converters-for-2024/"><u>[New] Essential Guide to Best 10 No-Cost Srt Converters for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-video-anonymity-tips-for-blurring-private-data-for-2024/"><u>[Updated] Video Anonymity Tips for Blurring Private Data for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-pioneering-role-in-prompt-creation-and-its-career-sustainability/"><u>AI's Pioneering Role in Prompt Creation & Its Career Sustainability</u></a></li>
+<li><a href="https://app-tips.techidaily.com/awaken-with-joy-discover-the-10-most-engaging-free-alarm-clock-applications-for-a-playful-routine/"><u>Awaken with Joy: Discover the 10 Most Engaging Free Alarm Clock Applications for a Playful Routine</u></a></li>
+<li><a href="https://app-tips.techidaily.com/capturing-perfect-moments-with-auto-timer-features-for-iphone-and-android-cameras/"><u>Capturing Perfect Moments with Auto-Timer Features for iPhone and Android Cameras</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-black-ops-cold-war-launch-problems-for-pc-users-solved/"><u>Cod: Black Ops Cold War Launch Problems for PC Users Solved</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-steps-to-remove-or-uninstall-applications-from-iphone-and-android-devices/"><u>Complete Guide: Steps to Remove or Uninstall Applications From iPhone and Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-imovie-review-features-assessment-and-top-editing-software-substitutes/"><u>Comprehensive IMovie Review: Features, Assessment & Top Editing Software Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-6-free-online-casino-slots-for-android-phones-and-iphones/"><u>Discover the Ultimate Selection of 6 Free Online Casino Slots for Android Phones and iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/efficient-ipad-locator-tool-keep-an-eye-on-your-apple-tablet-anywhere/"><u>Efficient iPad Locator Tool: Keep an Eye on Your Apple Tablet Anywhere</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-methods-for-transferring-all-your-apps-from-one-iphone-to-another/"><u>Effortless Methods for Transferring All Your Apps From One iPhone to Another</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-to-completely-erase-data-on-iphone-14-pro-to-avoid-privacy-leak-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Guide to Completely Erase Data on iPhone 14 Pro to Avoid Privacy Leak | Stellar</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-11-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/master-videography-with-movavi-video-suite-comprehensive-recording-and-editing-tools/"><u>Master Videography with Movavi Video Suite - Comprehensive Recording and Editing Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-your-children-online-a-guide-to-the-20-best-parental-control-tools-available-today/"><u>Protect Your Children Online: A Guide to the 20 Best Parental Control Tools Available Today</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-ebook-with-confidence-the-ultimate-7-step-process-for-converting-epub-to-txt-now-working-flawlessly/"><u>Transform Your eBook with Confidence: The Ultimate 7-Step Process for Converting ePub to TXT - Now Working Flawlessly</u></a></li>
 </ul></div>
 

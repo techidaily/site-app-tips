@@ -1,7 +1,7 @@
 ---
 title: "The Rising Popularity: How OpenStack & Kata Containers Gain Renewed Interest - Insights From ZDNet"
-date: 2024-11-30T06:47:33.676Z
-updated: 2024-12-01T21:09:13.399Z
+date: 2024-12-22T16:23:40.452Z
+updated: 2024-12-24T17:34:04.597Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-abletons-precision-in-sound-reduction/"><u>[New] 2024 Approved Ableton's Precision in Sound Reduction</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-text-transformation-tricks-for-media/"><u>[New] Text Transformation Tricks for Media</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-elevate-videography-quality-top-7-sound-effects-pick/"><u>[Updated] In 2024, Elevate Videography Quality Top 7 Sound Effects Pick</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-survivors-guide-top-6-mc-house-plans/"><u>2024 Approved Survivor's Guide Top 6 MC House Plans</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/6kej5p6q5lin5zcm5pmc56m66lu45lik5zcm5q2l6yyv572u55qe5b6u5bcp5beu5yil/"><u>解析不同時空軸上同步錯置的微小差別</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-workflow-embrace-the-developer-mindset-for-unmatched-efficiency-zdnet/"><u>Boost Your Workflow: Embrace the Developer Mindset for Unmatched Efficiency | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-premier-5-rdp-solutions-for-telecommuting-as-featured-by-zdnet/"><u>Discover the Premier 5 RDP Solutions for Telecommuting , as Featured by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/five-essential-strategies-for-maximizing-your-windows-10-experience-pre-end-of-support-insights-from-zdnet/"><u>Five Essential Strategies for Maximizing Your Windows 10 Experience Pre-End of Support - Insights From ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-oppo-find-n3-flip-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Oppo Find N3 Flip</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-maximizing-b-roll-effective-techniques-for-enhancing-videos/"><u>In 2024, Maximizing B-Roll Effective Techniques for Enhancing Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-guide-10-prime-video-communication-apps-on-smartphones/"><u>In 2024, Ultimate Guide 10 Prime Video Communication Apps on Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-delayed-delivery-features-into-mozilla-thunderbird-a-comprehensive-guide/"><u>Integrating Delayed Delivery Features Into Mozilla Thunderbird: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/latest-breakthroughs-in-5g-networking-and-edge-tech-trends-top-picks-from-todays-market-zdnet/"><u>Latest Breakthroughs in 5G Networking & Edge Tech Trends: Top Picks From Today's Market (ZDNet)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-7-compelling-advantages-of-implementing-aiops-in-your-it-strategy/"><u>The Definitive Guide to 7 Compelling Advantages of Implementing AIOps in Your IT Strategy</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-reveals-ai-ventures-skyrocket-by-a-factor-of-ten-in-the-last-year-industry-report/"><u>ZDNet Reveals AI Ventures Skyrocket by a Factor of Ten in the Last Year - Industry Report</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726219476854-wavmp3-movavi/"><u>オンラインでも簡単な無料WAVファイルをMP3に変換 - Movavi</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-realms-intersecting-delving-into-vr-augmented-and-mixed-immersion-for-2024/"><u>[New] Realms Intersecting Delving Into VR, Augmented & Mixed Immersion for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-12-ideal-video-cameras-for-aspiring-and-seasoned-vloggers-for-2024/"><u>[Updated] 12 Ideal Video Cameras for Aspiring and Seasoned Vloggers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beat-the-standard-a-complete-tutorial-for-adding-ringtones-and-sounds-to-android/"><u>[Updated] Beat the Standard A Complete Tutorial for Adding Ringtones & Sounds to Android</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-pitch-preservation-recording-sounds-and-voices/"><u>[Updated] Pitch Preservation Recording Sounds & Voices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/act-fast-upgrade-or-transition-from-your-windows-11-pc-top-5-strategies-as-support-concludes-in-a-year/"><u>Act Fast: Upgrade or Transition From Your Windows 11 PC - Top 5 Strategies as Support Concludes in a Year!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/adjusting-flipbook-timing-settings-on-flipbuilder-for-optimal-user-experience/"><u>Adjusting Flipbook Timing Settings on FlipBuilder for Optimal User Experience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/agnes-ro-discusses-the-transformation-in-developer-responsibilities-at-atlassian-insights-from-zdnet/"><u>Agnes Ro Discusses the Transformation in Developer Responsibilities at Atlassian - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-programming-speed-securely-with-generative-ai-insights-and-cautions-from-zdnet/"><u>Boost Your Programming Speed Securely with Generative AI - Insights and Cautions From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-ai-embracing-rust-and-the-critical-role-of-linux-kernel-with-linus-torvalds-tech-insights/"><u>Exploring AI, Embracing Rust, and the Critical Role of Linux Kernel with Linus Torvalds | Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-canonicals-revolutionary-distroless-images-transform-enterprise-security-a-deep-dive-techinsights/"><u>How Canonical's Revolutionary 'Distroless' Images Transform Enterprise Security: A Deep Dive - TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-it-specialists-shape-success-for-companangs-going-beyond-technology-relying-perspectives-by-zdnet/"><u>How IT Specialists Shape Success for Companangs Going Beyond Technology Relying - Perspectives by ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-manual-how-to-turn-off-igtv/"><u>In 2024, Manual How to Turn Off IGTV</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/overcoming-virtual-reality-discomfort/"><u>Overcoming Virtual Reality Discomfort</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-tips-for-successfully-configuring-google-one-vpn-services-on-macos-systems/"><u>Quick Tips for Successfully Configuring Google One VPN Services on macOS Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-visionary-linus-torvalds-explores-ai-progress-rust-integration-and-linux-significance-with-zdnet/"><u>Tech Visionary Linus Torvalds Explores AI Progress, Rust Integration, and Linux Significance with ZDNET</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-entrepreneurial-journey-of-launching-a-review-channel-for-clothing/"><u>The Entrepreneurial Journey of Launching a Review Channel for Clothing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-huawei-nova-y71-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Huawei Nova Y71 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-issues-when-the-function-keys-arent-responding/"><u>Troubleshooting Steps: Resolving Issues When The Function Keys Aren't Responding</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrade-journey-for-ubuntu-linux-2404-demystified-by-zdnet-experts/"><u>Upgrade Journey for Ubuntu Linux 24.04 Demystified by ZDNet Experts</u></a></li>
 </ul></div>
 

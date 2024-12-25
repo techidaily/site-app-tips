@@ -1,7 +1,7 @@
 ---
 title: "Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET"
-date: 2024-12-09T21:02:23.387Z
-updated: 2024-12-16T06:20:55.060Z
+date: 2024-12-19T16:43:44.528Z
+updated: 2024-12-24T17:48:28.107Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-complete-pathway-to-success-with-your-first-facebook-live/"><u>[New] 2024 Approved The Complete Pathway to Success with Your First Facebook Live</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-insiders-guide-to-on-screen-text-in-youtube-media/"><u>[New] The Insider's Guide to On-Screen Text in YouTube Media</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-propel-your-youtube-presence-upwards-by-thousands/"><u>[Updated] In 2024, Propel Your YouTube Presence Upwards by Thousands</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-ai-horizons-decoding-the-titles-and-responsibilities-of-tomorrows-job-roles-defined-by-tech-progress/"><u>Beyond AI Horizons: Decoding the Titles and Responsibilities of Tomorrow's Job Roles Defined by Tech Progress</u></a></li>
-<li><a href="https://app-tips.techidaily.com/closing-the-gap-between-desire-and-effort-in-building-responsible-ai-unpacked-by-zdnets-latest-analysis/"><u>Closing the Gap Between Desire and Effort in Building Responsible AI - Unpacked by ZDNET's Latest Analysis</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-learn-how-to-download-and-use-apps-on-your-samsung-smart-tv/"><u>Comprehensive Guide: Learn How To Download & Use Apps On Your Samsung Smart TV</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-up-space-5-best-video-compression-apps-for-iphone-and-ipad-for-2024/"><u>Free Up Space 5 Best Video Compression Apps for iPhone and iPad for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/gsl-innovation-unveiled-the-pearson-and-mondly-duo/"><u>GSL Innovation Unveiled - The Pearson & Mondly Duo</u></a></li>
-<li><a href="https://app-tips.techidaily.com/non-techies-embrace-ai-why-understanding-complicated-networks-requires-diverse-educational-strategies-zdnet/"><u>Non-Techies, Embrace AI: Why Understanding Complicated Networks Requires Diverse Educational Strategies | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preparing-leaders-for-ai-integration-essential-steps-recommended-by-zdnet/"><u>Preparing Leaders for AI Integration: Essential Steps Recommended by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-emergence-of-immediate-innovation-a-disparate-spread-across-industries/"><u>The Emergence of Immediate Innovation - A Disparate Spread Across Industries.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-quest-for-ethical-artificial-intelligence-why-more-action-needed-despite-universal-agreement-insights-from-zdnet/"><u>The Quest for Ethical Artificial Intelligence: Why More Action Needed Despite Universal Agreement? Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-secret-behind-open-source-magnetism-for-elite-innovators-a-deep-dive-with-zdnets-perspective/"><u>The Secret Behind Open Source Magnetism for Elite Innovators - A Deep Dive with ZDNet's Perspective</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-pause-in-windows-gpsvc-errors/"><u>Troubleshooting Pause in Windows GPSVC Errors</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-skydrives-frugal-option-minimal-price-maximum-space/"><u>[New] 2024 Approved Skydrive's Frugal Option Minimal Price, Maximum Space</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-a-new-era-in-iptv-recording-technology-exploration/"><u>[New] A New Era in IPTV Recording Technology Exploration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2024-windows-11dvdblu-ray/"><u>2024 最新版: Windows 11対応、無料で使えるプロのDVD＆Blu-Rayオーサリングツールをお勧め</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-chucklechisel-app/"><u>2024 Approved ChuckleChisel App</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ways-to-fix-the-local-device-name-is-already-in-use-error-on-windows/"><u>5 Ways to Fix the Local Device Name Is Already in Use Error on Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-and-critique-of-the-vizmato-application/"><u>Comprehensive Analysis & Critique of the Vizmato Application</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extensive-appraisal-a-look-into-bublcam-360/"><u>In 2024, Extensive Appraisal A Look Into Bublcam 360</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-soundtrack-your-life-a-complete-guide-to-adding-personalized-ringtones-and-sounds/"><u>In 2024, Soundtrack Your Life A Complete Guide to Adding Personalized Ringtones & Sounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-synergy-of-content-and-platform-for-peak-performance/"><u>In 2024, The Synergy of Content and Platform for Peak Performance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-guide-5-methods-to-securely-backup-your-iphone-applications/"><u>Simple Guide: 5 Methods to Securely Backup Your iPhone Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-top-5-utilities-for-efficiently-organizing-and-handling-android-phone-storage-via-sd-cards/"><u>The Top 5 Utilities for Efficiently Organizing and Handling Android Phone Storage via SD Cards</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-highly-rated-and-free-notetaking-tools-for-android-devices-simplified-usage-guide/"><u>Top 10 Highly Rated & Free Notetaking Tools for Android Devices - Simplified Usage Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-3-free-android-block-game-apps-reviews-and-download-links/"><u>Top 3 Free Android Block Game Apps: Reviews & Download Links</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194385-top-ranked-shotcut-video-editor-a-comprehensive-guide-dont-miss-it/"><u>Top-Ranked Shotcut Video Editor: A Comprehensive Guide - Don't Miss It</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-of-free-tools-create-and-share-laugh-out-loud-memes-anywhere-anytime/"><u>Ultimate List of Free Tools: Create and Share Laugh-Out-Loud Memes Anywhere, Anytime</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-mysteries-of-artificial-intelligence-made-easy/"><u>Unraveling the Mysteries of Artificial Intelligence Made Easy</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ZeroFox's Strategic Acquisition of IDX and Merger with L&F Forms a Mega $1.4B Cybersecurity Giant - Insights From ZDNet
-date: 2024-12-10T02:25:55.616Z
-updated: 2024-12-15T17:45:49.334Z
+date: 2024-12-20T17:30:02.476Z
+updated: 2024-12-25T02:59:40.152Z
 tags:
   - password-manager
 categories:
@@ -18,7 +18,7 @@ The company will be renamed ZeroFox Holdings once the deal goes through and will
 Monarch Alternative Capital LP and several other firms are also investing $170 million in the deal to merge the companies. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -87,21 +87,18 @@ Adam Gerchen, CEO of LNFA and a new ZeroFox board member, noted that the company
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-boosting-earnings-in-cosmetic-videography/"><u>[New] Boosting Earnings in Cosmetic Videography</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-facebook-video-submission-pc-and-android-users-blueprint/"><u>[New] In 2024, Facebook Video Submission PC and Android Users' Blueprint</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-reimagined-analysis-new-developments-in-sonys-s6500-bdhd/"><u>[Updated] Reimagined Analysis New Developments in Sony's S6500 BD/HD</u></a></li>
-<li><a href="https://app-tips.techidaily.com/30-bargain-alert-access-the-groundbreaking-worlds-first-3-dimensional-password-vault-for-three-years-get-yours-today-from-zdnet/"><u>$30 Bargain Alert! Access the Groundbreaking World's First 3-Dimensional Password Vault for Three Years - Get Yours Today From ZDNet!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-dissecting-the-syma-x5c-why-its-prime-for-first-time-flyers/"><u>2024 Approved Dissecting the Syma X5C Why It’s Prime for First-Time Flyers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-we-depend-on-instagram-an-in-depth-analysis-by-zdnet/"><u>Can We Depend on Instagram? An In-Depth Analysis by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-tutorial-getting-xbox-360-controller-working-on-pc-via-driver-download/"><u>Complete Tutorial: Getting Xbox 360 Controller Working on PC via Driver Download</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discovering-your-macs-secrets-a-guide-to-finding-passwords-in-the-keychain/"><u>Discovering Your Mac's Secrets: A Guide to Finding Passwords in the Keychain</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/essential-enhancements-and-gadgets-for-the-oculus-quest-2-2023-edition/"><u>Essential Enhancements & Gadgets for the Oculus Quest 2 - 2023 Edition</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-v30-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo V30 Pro FRP?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-navigating-the-maze-of-tiktoks-bulk-video-transfer/"><u>In 2024, Navigating the Maze of TikTok's Bulk Video Transfer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/instagrams-reliability-questioned-insights-from-a-zdnet-investigation/"><u>Instagram's Reliability Questioned: Insights From a ZDNet Investigation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-brex-how-1password-enhances-user-security-with-new-online-payment-features-insights-from-zdnet/"><u>Integrating Brex: How 1Password Enhances User Security with New Online Payment Features - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/logmein-decides-to-create-independent-entity-with-lastpass-zdnet-news/"><u>LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/maximizing-facebook-favorites-perfecting-square-video-crafting-for-2024/"><u>Maximizing Facebook Favorites Perfecting Square Video Crafting for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-using-a-password-manager-is-essential-top-5-benefits-explained-by-zdnet/"><u>Why Using a Password Manager Is Essential: Top 5 Benefits Explained by ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-crafting-videos-youtube-tools-and-more/"><u>[Updated] Crafting Videos YouTube Tools and More</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-engagement-imovie-techniques-for-youtube-intros-for-2024/"><u>[Updated] Enhancing Engagement IMovie Techniques for YouTube Intros for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amazon-introduces-revolutionary-ai-performance-metric-the-next-gen-rag-system-unveiled-by-zdnet/"><u>Amazon Introduces Revolutionary AI Performance Metric: The Next-Gen RAG System Unveiled by ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/decoding-servicenows-core-ai-tenets-essential-strategies-that-propel-corporate-innovation-zdnet/"><u>Decoding ServiceNow’s Core AI Tenets: Essential Strategies That Propel Corporate Innovation | ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oneplus-nord-ce-3-lite-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead OnePlus Nord CE 3 Lite 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-itunesfinder-failing-to-detect-iphone-a-comprehensive-guide/"><u>How To Resolve iTunes/Finder Failing to Detect iPhone – A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-combining-images-for-an-engaging-picture-panorama/"><u>In 2024, Combining Images for an Engaging Picture Panorama</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inside-windows-10-a-snapshot-of-its-transformation-for-2024/"><u>Inside Windows 10 A Snapshot of Its Transformation for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-path-to-elevate-your-ubuntu-2404-system-insights-from-zdnet/"><u>Navigating the Path to Elevate Your Ubuntu 24.04 System – Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidias-best-in-class-gaming-drivers-now-available-free-download-for-windows/"><u>NVIDIA's Best-in-Class Gaming Drivers Now Available: Free Download for Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/redefining-the-future-of-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-handbook-insights-from-zdnet/"><u>Redefining the Future of UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Handbook - Insights From ZDNet</u></a></li>
 </ul></div>
 

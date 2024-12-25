@@ -1,7 +1,7 @@
 ---
 title: Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models
-date: 2024-12-08T23:34:28.689Z
-updated: 2024-12-15T16:43:19.208Z
+date: 2024-12-23T17:18:16.486Z
+updated: 2024-12-24T21:34:49.464Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/2024s-premier-web-host-services-in-depth-analysis-and-ratings-from-seasoned-professionals-network-world/"><u>2024'S Premier Web Host Services: In-Depth Analysis and Ratings From Seasoned Professionals | Network World</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-hp-officejet-3830-drivers-on-your-windows-pc/"><u>Download & Install HP OfficeJet 3830 Drivers on Your Windows PC</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-timeless-design-of-lgs-wear-os-20-smartwatch-series/"><u>Expert Insights on the Timeless Design of LG's Wear OS 2.0 Smartwatch Series</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experts-choose-the-superior-web-host-services-of-2024-in-depth-analysis-and-ratings-discover-with-zdnet/"><u>Experts Choose the Superior Web Host Services of 2024: In-Depth Analysis and Ratings | Discover with ZDNET</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-for-the-persistent-pc-crash-in-latest-game-release-a-comprehensive-guide/"><u>Fixes for the Persistent PC Crash in Latest Game Release: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-z-fold-5-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy Z Fold 5 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-x-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone X?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preparing-management-skills-is-key-prior-to-deploying-ai-technology-discover-strategies-with-zdnet/"><u>Preparing Management Skills Is Key Prior to Deploying AI Technology - Discover Strategies with ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/revisiting-microsoft-store-error-code-0x80073cf3/"><u>Revisiting Microsoft Store Error Code: 0X80073CF3</u></a></li>
-<li><a href="https://app-tips.techidaily.com/riding-the-wave-of-pervasive-device-expansion-in-edge-investments-boost-your-career-with-insights-from-zdnet/"><u>Riding the Wave of Pervasive Device Expansion in Edge Investments: Boost Your Career with Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-honor-90-gt-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Honor 90 GT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-digital-how-non-cash-transactions-are-set-to-soar-to-1nt-led-by-asian-markets-zdnet-insights/"><u>The Future Is Digital: How Non-Cash Transactions Are Set to Soar to $1.nT, Led by Asian Markets | ZDNET Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-and-comparisons-by-tech-experts-ciodigest/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews & Comparisons by Tech Experts | CIODIGEST</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unleashing-your-content-going-live-on-instagram/"><u>Unleashing Your Content Going Live on Instagram</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-3ip-top-audio-capture-apps/"><u>[New] 2024 Approved Best 3iP Top Audio Capture Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-neptune-display-premium-4k-all-in-one-screens/"><u>[New] Neptune Display Premium 4K All-in-One Screens</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-securely-download-vimeo-videos-a-comprehensive-softwares-approach-for-2024/"><u>[Updated] Securely Download Vimeo Videos A Comprehensive Softwares Approach for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-z-fold-5-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy Z Fold 5 by Name | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-6-mobile-explorer-tools-compatible-with-ios-devices-on-pcmac-systems/"><u>Discover the Top 6 Mobile Explorer Tools Compatible with iOS Devices on PC/Mac Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-insights-the-definitive-guide-to-gopro-quik-a-comprehensive-analysis/"><u>Essential Insights: The Definitive Guide to GoPro Quik - A Comprehensive Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-audio-converter-convert-files-to-w64-and-wav-formats-with-ease-movavi/"><u>Free Online Audio Converter: Convert Files to W64 and WAV Formats with Ease - Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-mastering-your-android-device-top-free-and-premium-rooting-apps/"><u>Guide: Mastering Your Android Device - Top Free & Premium Rooting Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-x-fold-2-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on X Fold 2</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194671-transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks</u></a></li>
 </ul></div>
 

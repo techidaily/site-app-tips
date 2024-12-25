@@ -1,7 +1,7 @@
 ---
 title: Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet
-date: 2024-12-14T17:53:49.724Z
-updated: 2024-12-16T06:06:01.608Z
+date: 2024-12-20T23:17:46.866Z
+updated: 2024-12-24T21:37:12.194Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,22 +99,19 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ffordable-acoustic-amps-and-mics-for-video-voyagers-for-2024/"><u>[New] Affordable Acoustic Amps and Mics for Video Voyagers for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-unveiling-new-dimensions-past-manycams-scope/"><u>[New] In 2024, Unveiling New Dimensions Past ManyCam's Scope</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-best-practices-in-cds-ripping-and-burning-with-win-media/"><u>[New] Unveiling the Best Practices in Cds Ripping & Burning with Win, Media</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-snap-it-all-complimentary-android-recordings/"><u>[Updated] 2024 Approved Snap It All Complimentary Android Recordings</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-tonal-transition-triumphs-for-creative-virtuosos/"><u>[Updated] Tonal Transition Triumphs for Creative Virtuosos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-6-cross-platform-explorers-navigating-iphones-on-windows-and-macos/"><u>Best 6 Cross-Platform Explorers: Navigating iPhones on Windows & macOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-virtual-reality-movie-experiences-top-15-vr-apps-for-iphone-and-android/"><u>Best Virtual Reality Movie Experiences: Top 15 VR Apps for iPhone and Android</u></a></li>
-<li><a href="https://app-tips.techidaily.com/budget-friendly-samsung-music-players-ideal-for-samsung-s8s9-users-and-pc-enthusiasts-free-and-paid-models-included/"><u>Budget-Friendly Samsung Music Players: Ideal for Samsung S8/S9 Users and PC Enthusiasts - Free and Paid Models Included</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-twistedwave-advantages-disadvantages-top-attributes-and-applications/"><u>Comprehensive Guide to TwistedWave: Advantages, Disadvantages, Top Attributes, and Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ensure-every-important-call-is-heard-uninterrupted-connectivity-even-in-silence-and-chaos-with-our-innovative-10-call-flash-applications/"><u>Ensure Every Important Call Is Heard: Uninterrupted Connectivity Even in Silence and Chaos with Our Innovative 10-Call Flash Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-guide-unveiling-the-power-of-videoleap-in-2/"><u>Essential Guide: Unveiling the Power of Videoleap in 2</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-unbiased-insight-a-complete-airwatch-reviews-for-informed-decision-making/"><u>Essential Unbiased Insight: A Complete AirWatch Reviews for Informed Decision Making</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gratuite-de-la-conversion-entre-pdf-et-image-jpeg-convertisseur-en-ligne-de-qualite-professionnelle-chez-movavi/"><u>Gratuité De La Conversion Entre PDF Et Image JPEG - Convertisseur en Ligne De Qualité Professionnelle Chez Movavi</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/how-to-use-a-whiteboard-in-google-meet/"><u>How to Use a Whiteboard in Google Meet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/optimize-your-business-with-cutting-edge-android-mdm-options-and-features/"><u>Optimize Your Business With Cutting-Edge Android MDM Options and Features</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-nokia-xr21-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Nokia XR21</u></a></li>
-<li><a href="https://fox-http.techidaily.com/step-by-step-inserting-times-on-youtube-videos-for-2024/"><u>Step-by-Step Inserting Times on YouTube Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-dynamic-windows-top-9-essential-gif-recorder-programs/"><u>[New] In 2024, Dynamic Windows Top 9 Essential GIF Recorder Programs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-curated-selection-of-top-10-luts-for-lightroom/"><u>[Updated] A Curated Selection of Top 10 LUTs for LightRoom</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-13-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 13 Pro Max When Its Locked Within Seconds</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-xs-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone XS screen turns black? | Stellar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-transferring-your-icloud-password-vault-on-and-off-macos/"><u>Comprehensive Guide: Transferring Your iCloud Password Vault on and Off macOS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-2021-stuck-at-opening-file-0-resolve-performance-issues-by-stellar-guide/"><u>Excel 2021 Stuck at Opening File 0 - Resolve Performance Issues</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-email-update-tutorial-how-to-easily-alter-your-current-icloud-id/"><u>ICloud Email Update Tutorial: How To Easily Alter Your Current iCloud ID</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-photo-sharing-a-beginners-complete-step-by-step-tutorial/"><u>ICloud Photo Sharing: A Beginner's Complete Step-by-Step Tutorial</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-realme-narzo-n55-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Realme Narzo N55 Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-sticker-setup-challenges-resolving-top-6-problems-quickly/"><u>Simplifying Sticker Setup Challenges: Resolving Top 6 Problems Quickly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-methods-for-transferring-icloud-tunes-to-ios-and-mac-a-comprehensive-guide/"><u>Top 5 Methods for Transferring iCloud Tunes to iOS and Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-icloud-message-accessibility-a-comprehensive-approach-for-enabling-your-emails/"><u>Troubleshooting iCloud Message Accessibility: A Comprehensive Approach for Enabling Your Emails</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-free-contact-acquisition-top-4-methods-for-seamless-retrieval-from-icloud/"><u>Unlocking the Power of Free Contact Acquisition: Top 4 Methods for Seamless Retrieval From iCloud</u></a></li>
 </ul></div>
 

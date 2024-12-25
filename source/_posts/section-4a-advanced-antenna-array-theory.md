@@ -1,7 +1,7 @@
 ---
 title: "Section 4A: Advanced Antenna Array Theory"
-date: 2024-11-30T06:25:29.817Z
-updated: 2024-12-01T22:24:44.252Z
+date: 2024-12-22T00:43:42.357Z
+updated: 2024-12-24T19:51:09.701Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-charting-a-course-to-your-signature-sphere-for-2024/"><u>[New] Charting a Course to Your Signature Sphere for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-free-to-mix-unveiling-two-dji-devices-with-20-luts-complimentary/"><u>[New] In 2024, Free to Mix - Unveiling Two DJI Devices with 20 LUTS Complimentary</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-selecting-premier-sound-editors-for-youtube-producers/"><u>[Updated] In 2024, Selecting Premier Sound Editors for YouTube Producers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-reviving-the-full-screen-in-obs/"><u>[Updated] Reviving the Full Screen in OBS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beware-latest-microsoft-upgrade-could-worsen-after-hours-stress-insights-from-zdnet/"><u>Beware: Latest Microsoft Upgrade Could Worsen After-Hours Stress - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/cut-the-price-by-half-get-the-samsung-odyssey-neo-g8-monitor-for-just-550-at-best-buys-blackout-day-insider-tips/"><u>Cut the Price by Half: Get the Samsung Odyssey Neo G8 Monitor for Just $550 at Best Buy's Blackout Day Insider Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-lightspeed-on-openshift-the-intelligent-ai-companion-for-your-kubernetes-clusters-zdnet/"><u>Discover Lightspeed on OpenShift – The Intelligent AI Companion for Your Kubernetes Clusters | ZDNet</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/efficient-tactics-for-viewing-subscribers-on-yt-for-2024/"><u>Efficient Tactics for Viewing Subscribers on YT for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experts-choose-the-leading-network-surveillance-software-comprehensive-review-and-selection-guide-techinsight/"><u>Experts Choose the Leading Network Surveillance Software : Comprehensive Review and Selection Guide | TechInsight</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-htc-u23-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your HTC U23 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-vivo-t2-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo T2 Pro 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-in-depth-tips-to-revolutionize-youtube-summary-writing/"><u>In 2024, In-Depth Tips to Revolutionize YouTube Summary Writing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-rising-popularity-of-rust-and-importance-of-linux-kernel-in-modern-computing/"><u>Linus Torvalds Discusses Rising Popularity of Rust & Importance of Linux Kernel in Modern Computing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/prepare-for-windows-10-eol-explore-five-essential-upgrades-or-migrations-options-now-zdnet-insights/"><u>Prepare for Windows 10 EOL: Explore Five Essential Upgrades or Migrations Options Now | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-mozilla-firefox-login-credentials-mastering-the-use-of-main-passwords/"><u>Securing Your Mozilla Firefox Login Credentials: Mastering the Use of Main Passwords</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/selecting-an-effective-ai-chatbot-the-7-key-criteria-you-shouldnt-ignore/"><u>Selecting an Effective AI Chatbot: The 7 Key Criteria You Shouldn't Ignore</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-recommended-mac-software-insights-from-zdnet/"><u>Top Recommended Mac Software - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-red-hats-lightspeed-an-advanced-ai-solution-tailored-for-kubernetes-admins-with-openshift-zdnet/"><u>Unveiling Red Hat’s Lightspeed: An Advanced AI Solution Tailored for Kubernetes Admins with OpenShift | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/where-is-microsofts-promised-free-windows-10-update-now/"><u>Where Is Microsoft's Promised Free Windows 10 Update Now?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-snapshot-showdown-youtube-shorts-challenge-to-the-titans-of-tiktok/"><u>[New] In 2024, Snapshot Showdown YouTube Shorts Challenge to the Titans of TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-virtual-meetings-integrating-zoom-with-skype-effortlessly/"><u>[Updated] Streamlining Virtual Meetings Integrating Zoom with SKYPE Effortlessly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-frustration-with-microsoft-exploring-alternatives-for-a-better-tech-ecosystem/"><u>Beyond Frustration with Microsoft? Exploring Alternatives for a Better Tech Ecosystem</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95708594-9780008256272-cancer-2018-your-personal-horoscope/"><u>Cancer 2018: Your Personal Horoscope | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-virtualization-at-no-cost-discover-the-steps-to-downloading-vmwares-latest-free-personal-edition-for-fusion-pro-and-workstation-pro-insights-from88/"><u>Experience Virtualization at No Cost: Discover the Steps to Downloading VMware's Latest Free Personal Edition for Fusion Pro and Workstation Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-compatibility-problems-between-your-astro-a50-and-command-center-interface/"><u>Fixing Compatibility Problems Between Your Astro A50 and Command Center Interface</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-m34-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy M34 5G Phone?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-photoshop-tutorial-for-novices-essential-methods-to-enhance-your-images/"><u>Step-by-Step Photoshop Tutorial for Novices: Essential Methods to Enhance Your Images</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamline-your-kubernetes-management-with-red-hats-latest-innovation-openshift-lightspeed-a-smart-ai-tool-tailored-for-admins/"><u>Streamline Your Kubernetes Management with Red Hat's Latest Innovation - OpenShift Lightspeed, a Smart AI Tool Tailored for Admins</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/twitch-basics-understanding-the-ins-and-outs-of-live-streaming-conversations/"><u>Twitch Basics: Understanding the Ins and Outs of Live Streaming Conversations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-business-growth-with-anthropics-claude-platform-the-future-of-scalable-ai-solutions/"><u>Unlocking Business Growth with Anthropic's Claude Platform - The Future of Scalable AI Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-a-deep-dive-into-toms-hardware-reviews/"><u>Unlocking Performance: A Deep Dive Into Tom's Hardware Reviews</u></a></li>
 </ul></div>
 

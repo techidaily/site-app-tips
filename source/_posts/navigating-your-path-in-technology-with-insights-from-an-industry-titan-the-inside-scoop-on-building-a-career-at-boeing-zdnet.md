@@ -1,7 +1,7 @@
 ---
 title: Navigating Your Path in Technology with Insights From an Industry Titan - The Inside Scoop on Building a Career at Boeing [ZDNet]
-date: 2024-12-12T07:04:45.966Z
-updated: 2024-12-16T07:04:48.901Z
+date: 2024-12-19T01:42:14.666Z
+updated: 2024-12-24T21:20:02.689Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-avoid-shaky-footage-proper-tripod-usage-techniques-in-vlog-creation-for-2024/"><u>[New] Avoid Shaky Footage Proper Tripod Usage Techniques in Vlog Creation for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/levating-your-earning-game-with-youtube-monetization-strategies-for-2024/"><u>[New] Elevating Your Earning Game with YouTube Monetization Strategies for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-revamping-your-mobile-melodies-an-expert-iphone-ringtone-guide/"><u>[New] Revamping Your Mobile Melodies An Expert iPhone Ringtone Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-seamless-integration-setting-up-email-in-your-onlyoffice-environment-tips-and-tricks/"><u>1. Seamless Integration: Setting Up Email in Your ONLYOFFICE Environment - Tips & Tricks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expanding-business-horizons-with-anthropics-claude-the-enterprise-level-ai-transformation/"><u>Expanding Business Horizons with Anthropic's Claude - The Enterprise-Level AI Transformation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-challenges-of-leveraging-generative-ai-insights-from-a-recent-deloitte-survey-zdnet/"><u>Exploring the Challenges of Leveraging Generative AI: Insights From a Recent Deloitte Survey - ZDNet</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-tecno-spark-20c-frp-by-drfone-android/"><u>Full Guide to Bypass Tecno Spark 20C FRP</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-servicenows-core-ai-concepts-can-transform-your-enterprise-strategy-key-takeaways-from-experts-at-zdnet/"><u>How ServiceNow's Core AI Concepts Can Transform Your Enterprise Strategy: Key Takeaways From Experts at ZDNet</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/how-to-implement-parental-management-tools-on-windows-step-by-step-from-yl-software/"><u>How to Implement Parental Management Tools on Windows: Step-by-Step From YL Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-optimize-your-content-for-higher-views-and-more-likes/"><u>How to Optimize Your Content for Higher Views and More 'Likes'</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Lava Yuva 3? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/key-challenges-in-harnessing-generative-ai-insights-from-the-latest-deloitte-research-highlighted-by-zdnet/"><u>Key Challenges in Harnessing Generative AI: Insights From the Latest Deloitte Research Highlighted by ZDNet</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leveraging-daylight-in-home-interiors-for-2024/"><u>Leveraging Daylight in Home Interiors for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamlessly-share-your-iphone-pictures-with-your-windows-computer-a-comprehensive-tutorial/"><u>Seamlessly Share Your iPhone Pictures with Your Windows Computer: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/stay-active-with-fitbit-versa-3-enhanced-motivation-through-inbuilt-gps-and-health-tracking/"><u>Stay Active with Fitbit Versa 3: Enhanced Motivation Through Inbuilt GPS & Health Tracking</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-servicenows-four-fundamental-ai-concepts-impactful-insights-for-modern-enterprises/"><u>Understanding ServiceNow's Four Fundamental AI Concepts: Impactful Insights for Modern Enterprises</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-exploring-instagrams-max-video-length/"><u>[Updated] 2024 Approved Exploring Instagram's Max Video Length</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-navigate-to-visibility-a-compreayer-of-youtube-live-imagery-standards/"><u>[Updated] 2024 Approved Navigate to Visibility A Compreayer of YouTube Live Imagery Standards</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-is-max-360-superior-to-hero-11-in-video-quality-in-2024/"><u>[Updated] Is Max 360 Superior to Hero 11 in Video Quality, In 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-examining-the-efficacy-of-dji-mavic-mini-fpv-technology/"><u>2024 Approved Examining the Efficacy of DJi Mavic Mini FPV Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-ai-horizons-decoding-the-titles-and-responsibilities-of-tomorrows-job-roles-defined-by-tech-progress/"><u>Beyond AI Horizons: Decoding the Titles and Responsibilities of Tomorrow's Job Roles Defined by Tech Progress</u></a></li>
+<li><a href="https://app-tips.techidaily.com/closing-the-gap-between-desire-and-effort-in-building-responsible-ai-unpacked-by-zdnets-latest-analysis/"><u>Closing the Gap Between Desire and Effort in Building Responsible AI - Unpacked by ZDNET's Latest Analysis</u></a></li>
+<li><a href="https://fox-http.techidaily.com/guide-to-use-luts-in-premiere-pro-for-2024/"><u>Guide to Use LUTs in Premiere Pro for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-ai-projects-struggle-with-agile-methodology-insights-from-recent-research-techwire/"><u>How AI Projects Struggle with Agile Methodology – Insights From Recent Research | TechWire</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-7-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone 7 Apple ID on MacBook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-ais-impact-on-job-markets-the-emergence-of-new-yet-to-be-defined-professional-titles-revealed-zdnet-insights/"><u>Navigating AI's Impact on Job Markets: The Emergence of New, Yet-to-Be-Defined Professional Titles Revealed | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/non-techies-embrace-ai-why-understanding-complicated-networks-requires-diverse-educational-strategies-zdnet/"><u>Non-Techies, Embrace AI: Why Understanding Complicated Networks Requires Diverse Educational Strategies | ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preparing-leaders-for-ai-integration-essential-steps-recommended-by-zdnet/"><u>Preparing Leaders for AI Integration: Essential Steps Recommended by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-system-upkeep-automatic-driver-replacement-for-amd/"><u>Simplify System Upkeep: Automatic Driver Replacement for AMD</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/skills-for-photo-manipulation-mastery/"><u>Skills for Photo Manipulation Mastery</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-emergence-of-immediate-innovation-a-disparate-spread-across-industries/"><u>The Emergence of Immediate Innovation - A Disparate Spread Across Industries.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-quest-for-ethical-artificial-intelligence-why-more-action-needed-despite-universal-agreement-insights-from-zdnet/"><u>The Quest for Ethical Artificial Intelligence: Why More Action Needed Despite Universal Agreement? Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-secret-behind-open-source-magnetism-for-elite-innovators-a-deep-dive-with-zdnets-perspective/"><u>The Secret Behind Open Source Magnetism for Elite Innovators - A Deep Dive with ZDNet's Perspective</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-narzo-n55-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme Narzo N55? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

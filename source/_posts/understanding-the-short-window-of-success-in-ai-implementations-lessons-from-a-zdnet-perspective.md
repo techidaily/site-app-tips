@@ -1,7 +1,7 @@
 ---
 title: Understanding the Short Window of Success in AI Implementations - Lessons From a ZDNet Perspective
-date: 2024-12-10T16:20:40.646Z
-updated: 2024-12-15T16:40:38.583Z
+date: 2024-12-22T18:02:14.395Z
+updated: 2024-12-24T20:21:03.829Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-designing-customized-instagram-feed-narratives/"><u>[New] In 2024, Designing Customized Instagram Feed Narratives</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-sequential-image-storytelling-on-ig-for-2024/"><u>[New] Sequential Image Storytelling on IG for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-step-by-step-methods-for-amassing-tiktok-videos/"><u>[Updated] Step-by-Step Methods for Amassing TikTok Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/anthropic-introduces-complimentary-ios-claude-app-expands-to-enterprise-market-latest-from-zdnet/"><u>Anthropic Introduces Complimentary iOS Claude App, Expands to Enterprise Market | Latest From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hassle-free-download-of-asus-vg2ebe-19x70mm-tube-filled-with-nitrogen-gas-for-use-in-welding-applications-industrial-specification/"><u>Hassle-Free Download of Asus VG2ebe 19X70mm Tube Filled with Nitrogen Gas for Use in Welding Applications - Industrial Specification</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-xcover-6-pro-tactical-edition-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy XCover 6 Pro Tactical Edition to Mac? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/how-to-repost-photos-and-video-on-instagram/"><u>How to Repost Photos and Video on Instagram</u></a></li>
-<li><a href="https://app-tips.techidaily.com/latest-features-in-libreoffice-and-easy-macos-installation-guide-insights-from-zdnet/"><u>Latest Features in LibreOffice & Easy macOS Installation Guide - Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securely-deploy-powertoys-in-win11-environments/"><u>Securely Deploy PowerToys in Win11 Environments</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-providers-of-hyperconverged-infrastructure-solutions-expert-rankings-by-zdnet/"><u>Top Rated Providers of Hyperconverged Infrastructure Solutions - Expert Rankings by ZDNet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/understanding-different-spanish-greeting-phrases-a-must-know-list-of-10/"><u>Understanding Different Spanish Greeting Phrases - A Must Know List Of 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-bert-ai-key-differences-from-gpts-approach-to-nlp/"><u>Understanding the BERT AI: Key Differences From GPT's Approach to NLP</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unraveling-the-mystery-is-the-no-cost-windows-11-upgrade-still-available-analysis-by-zdnet/"><u>Unraveling the Mystery: Is the No-Cost Windows 11 Upgrade Still Available? - Analysis by ZDNET</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-adding-value-to-visuals-implementing-watermarks-in-instagram/"><u>[New] 2024 Approved Adding Value to Visuals Implementing Watermarks in Instagram</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mastering-aerial-footage-a-guide-to-drone-video-editing/"><u>[Updated] In 2024, Mastering Aerial Footage A Guide to Drone Video Editing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-zenith-of-the-slopes-x-racing-highlights-22/"><u>[Updated] In 2024, Zenith of the Slopes - X-Racing Highlights, '22</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-pursuit-of-detail-zoom-tactics-for-videoleap-enthusiasts/"><u>[Updated] In Pursuit of Detail Zoom Tactics for VideoLeap Enthusiasts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-5-revelatory-tactics-for-novices-in-digital-advertising/"><u>[Updated] Top 5 Revelatory Tactics for Novices in Digital Advertising</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-ai-in-developer-tools-why-rote-automation-is-a-thing-of-the-past-insights-from-zdnet/"><u>Embracing AI in Developer Tools: Why Rote Automation Is a Thing of the Past - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-misconceptions-why-macs-dont-rule-in-pc-games/"><u>Exploring Misconceptions: Why Macs Don't Rule in PC Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-authentic-is-the-gaming-with-am08-pro/"><u>How Authentic Is the Gaming with AM08 Pro?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-v30-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme V30</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-open-source-to-draw-global-tech-pioneers-insights-from-zdnet/"><u>Leveraging Open Source to Draw Global Tech Pioneers - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-how-ai-growth-clashes-with-agile-practices-according-to-recent-research-by-zdnet/"><u>Navigating the Complexities: How AI Growth Clashes with Agile Practices, According to Recent Research by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-tech-talent-how-artificial-intelligence-combats-job-burnout-and-warning-tiredness-for-it-professionals-zdnet/"><u>Reviving Tech Talent: How Artificial Intelligence Combats Job Burnout & Warning Tiredness for IT Professionals | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-ai-synthesis-realized-engage-with-your-organizations-chief-tech-architect-zdnet/"><u>Seamless AI Synthesis Realized - Engage with Your Organization’s Chief Tech Architect | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-now-16-t-trillion-non-cash-deals-dominated-by-asia-insights-from-zdnet/"><u>The Future Is Now: 1.6 T Trillion Non-Cash Deals Dominated by Asia | Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-workplaces-how-ai-agents-shape-the-future-of-employment-zdnet/"><u>Transforming Workplaces: How AI Agents Shape the Future of Employment | ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unlocking-the-secrets-to-reddit-success-in-business-promotions/"><u>Unlocking the Secrets to Reddit Success in Business Promotions</u></a></li>
 </ul></div>
 

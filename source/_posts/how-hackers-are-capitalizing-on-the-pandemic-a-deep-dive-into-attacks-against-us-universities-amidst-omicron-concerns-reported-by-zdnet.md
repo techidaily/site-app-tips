@@ -1,7 +1,7 @@
 ---
 title: "How Hackers Are Capitalizing on the Pandemic: A Deep Dive Into Attacks Against US Universities Amidst Omicron Concerns | Reported by ZDNET"
-date: 2024-12-08T21:28:39.144Z
-updated: 2024-12-16T07:20:45.982Z
+date: 2024-12-20T20:59:52.351Z
+updated: 2024-12-24T19:13:13.854Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 Researchers with cybersecurity firm Proofpoint have [discovered](https://www.proofpoint.com/us/blog/threat-insight/university-targeted-credential-phishing-campaigns-use-covid-19-omicron-themes) a new phishing attack leveraging concern about the spread of the Omicron strain of COVID-19 to steal credentials and gain access to accounts at several prominent universities in the US. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### latest developments
@@ -22,7 +22,7 @@ Researchers with cybersecurity firm Proofpoint have [discovered](https://www.pro
 [![microscopic magnification of coronavirus that causes flu and chronic pneumonia leading to death](https://www.zdnet.com/a/img/resize/29eb42cb18bf682179393fd5caa23f5e78bec28e/2020/02/03/bd4a5b33-2cca-4ff8-9753-12d1bfd10a1d/istock-12015454421.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) Coronavirus: Business and technology in a pandemic From cancelled conferences to disrupted supply chains, not a corner of the global economy is immune to the spread of COVID-19.  Read now](https://www.zdnet.com/collection/coronavirus-business-and-technology-in-a-pandemic/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The emails -- part of an attack that Proofpoint researchers said began in October but increased in November -- generally contain information about COVID-19 testing and the new Omicron variant.
@@ -96,24 +96,24 @@ By entering under the guise of a legitimate user, the attacker has a greater cha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-choose-wisely-the-ultimate-list-of-mac-gif-tools-for-2024/"><u>[New] Choose Wisely The Ultimate List of Mac GIF Tools for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-art-of-freezing-the-action-in-win-os/"><u>[Updated] In 2024, The Art of Freezing the Action in Win OS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-most-popular-firefox-screenshots-and-recorders-for-2024/"><u>[Updated] Most Popular Firefox Screenshots & Recorders for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-leading-10-image-cataloging-applications-for-both-windows-and-mac-systems-a-comprehensive-ranking-guide/"><u>Discover the Leading 10 Image Cataloging Applications for Both Windows & Mac Systems: A Comprehensive Ranking Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-20-most-popular-bluetooth-enabled-multiplayer-games-on-phones-and-tablets/"><u>Discover the Top 20 Most Popular Bluetooth-Enabled Multiplayer Games on Phones & Tablets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-8-ultimate-free-fax-applications-for-your-android-device/"><u>Discover the Top 8 Ultimate Free Fax Applications for Your Android Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-6-imovie-substitutes-for-your-android-smartphones-video-edits/"><u>Discover the Ultimate 6 iMovie Substitutes for Your Android Smartphone's Video Edits</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-started-with-tango-step-by-step-instructions-for-downloading-video-chatting-app/"><u>Get Started With Tango - Step-by-Step Instructions For Downloading Video Chatting App</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-seamlessly-back-up-and-synchronize-your-external-hard-drives-using-google-drive/"><u>How to Seamlessly Back Up & Synchronize Your External Hard Drives Using Google Drive</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illuminate-photos-10-premium-luts-revealed-for-2024/"><u>Illuminate Photos 10 Premium LUTs Revealed for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-fitbit-charge-6-wearable-tracker/"><u>In-Depth Analysis: Fitbit Charge 6 Wearable Tracker</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-the-dark-a-users-manual-for-fixing-windows/"><u>Navigating Through the Dark: A User's Manual for Fixing Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-incompatible-volume-driver-error-on-windows/"><u>Resolving Incompatible Volume Driver Error on Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-idevice-software-challenges-tips-for-successful-ios-upgrades/"><u>Solving iDevice Software Challenges: Tips for Successful iOS Upgrades</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-6-essential-iphone-apps-for-restoring-lost-contact-information/"><u>Top 6 Essential iPhone Apps for Restoring Lost Contact Information</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-the-top-6-iphone-apps-to-restore-your-lost-memories/"><u>Ultimate Guide: The Top 6 iPhone Apps to Restore Your Lost Memories</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/sh-more-views-on-youtube-with-pro-tag-optimization/"><u>Unleash More Views on YouTube with Pro Tag Optimization</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-comprehensible-techniques-for-effective-classroom-recordings-on-mac/"><u>[New] 2024 Approved Comprehensible Techniques for Effective Classroom Recordings on Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-10-innovative-gloves-for-virtual-immersion/"><u>[New] 2024 Approved Top 10 Innovative Gloves for Virtual Immersion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nhancing-video-content-iphoneipad-screen-capture-basics-for-2024/"><u>[New] Enhancing Video Content IPhone/iPad Screen Capture Basics for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-innovative-techniques-to-elevate-your-gopro-work-for-2024/"><u>[New] Innovative Techniques to Elevate Your GoPro Work for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-quickest-windowed-image-analyzer/"><u>[Updated] Quickest Windowed Image Analyzer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-revolutionize-your-editing-approach-with-these-top-methods-in-obs-studio/"><u>2024 Approved Revolutionize Your Editing Approach with These Top Methods in OBS Studio</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-step-forward-with-borders-on-instagram-videos/"><u>2024 Approved Step Forward with Borders on Instagram Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-complete-guide-restoring-lost-messages-in-whatsapp/"><u>A Complete Guide: Restoring Lost Messages in WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-methods-to-move-your-whatsapp-chats-between-android-devices/"><u>Best Methods to Move Your WhatsApp Chats Between Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/efficient-methods-for-downloading-and-sending-high-resolution-videos-on-whatsapp-compression-techniques-revealed/"><u>Efficient Methods for Downloading and Sending High-Resolution Videos on WhatsApp: Compression Techniques Revealed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-saving-your-whatsapp-pdfs-on-an-iphone-with-ease/"><u>Guide: Saving Your WhatsApp PDFs on an iPhone with Ease</u></a></li>
+<li><a href="https://app-tips.techidaily.com/migrating-your-chats-and-media-a-step-by-step-guide-from-androids-whatsapp-to-ios/"><u>Migrating Your Chats and Media: A Step-by-Step Guide From Android's WhatsApp to iOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamlessly-shifting-conversations-moving-whatsapp-information-from-android-devices-to-iphones/"><u>Seamlessly Shifting Conversations: Moving WhatsApp Information From Android Devices to iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-messaging-ultimate-guide-to-whatsapp-passwords-on-ios-and-android-devices/"><u>Secure Your Messaging: Ultimate Guide to WhatsApp Passwords on iOS & Android Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722986342797-solving-sony-vegas-stability-issues-no-more-unwanted-shutdowns/"><u>Solving Sony Vegas Stability Issues - No More Unwanted Shutdowns</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-10-fundamental-windows-terminal-commands-for-novices/"><u>Top 10 Fundamental Windows Terminal Commands for Novices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-4-simple-methods-for-securing-your-whatsapp-chats-on-ios-devices/"><u>Top 4 Simple Methods for Securing Your WhatsApp Chats on iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-techniques-for-retrieving-lost-whatsapp-messages-on-android-devices/"><u>Top Techniques for Retrieving Lost WhatsApp Messages on Android Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-the-apple-iphone-12-mini-proving-that-size-doesnt-determine-power/"><u>Unboxing the Apple iPhone 12 Mini: Proving That Size Doesn't Determine Power</u></a></li>
 </ul></div>
 

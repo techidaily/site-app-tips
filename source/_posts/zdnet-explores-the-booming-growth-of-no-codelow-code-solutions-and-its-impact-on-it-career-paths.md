@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores the Booming Growth of No-Code/Low-Code Solutions and Its Impact on IT Career Paths
-date: 2024-12-01T11:19:39.456Z
-updated: 2024-12-01T22:37:07.172Z
+date: 2024-12-21T00:00:44.373Z
+updated: 2024-12-24T16:26:28.365Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,14 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-top-picks-for-traditional-japanese-huts-in-mc-worlds-for-2024/"><u>[New] Top Picks for Traditional Japanese Huts in MC Worlds for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-seamless-integration-of-obs-studio-with-android-tech/"><u>[Updated] Seamless Integration of OBS Studio with Android Tech</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-videoleap-zoom-hacks-for-detailed-video-insight-for-2024/"><u>[Updated] Videoleap Zoom Hacks for Detailed Video Insight for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/audiovisual-standards-for-success-on-youtube-top-format-choices/"><u>Audiovisual Standards for Success on YouTube – Top Format Choices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/high-staking-habitats-critical-commentary/"><u>HIGH-STAKING HABITATS Critical Commentary</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-agile-journey-six-pivotal-principles-for-triumphant-software-design-from-zdnet/"><u>Navigating the Agile Journey: Six Pivotal Principles for Triumphant Software Design From ZDnet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-todays-challenges-overcoming-uncertainty-in-ai-output-and-doubts-on-precision-insights-from-zdnet/"><u>Navigating Today's Challenges: Overcoming Uncertainty in AI Output & Doubts on Precision - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-polarization-shown-by-the-radiation-pattern-should-match-that-of-the-receiving-antenna-to-maximize-signal-reception-and-minimize-losses/"><u>The Polarization Shown by the Radiation Pattern Should Match that of the Receiving Antenna to Maximize Signal Reception and Minimize Losses.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-mastery-in-quick-writer-with-these-latest-copilot-updates-for-microsoft-365-expert-insights-from-zdnet/"><u>Unlocking Mastery in Quick Writer with These Latest Copilot Updates for Microsoft 365 - Expert Insights From ZDNet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-which-m1-model-suits-you-best-air-vs-pro-analysis/"><u>[New] 2024 Approved Which M1 Model Suits You Best? Air Vs. Pro Analysis</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-creating-a-professional-periscope-presence/"><u>[New] In 2024, Creating a Professional Periscope Presence</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-essential-tutorial-infusing-motion-blur-into-faces-using-picsart-for-2024/"><u>[Updated] The Essential Tutorial Infusing Motion Blur Into Faces Using Picsart for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-10-professional-grade-microphones-for-podcasters-for-2024/"><u>[Updated] Top 10 Professional-Grade Microphones for Podcasters for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-creators-fusing-photography-plus-video-with-captivating-musical-sounds/"><u>2024 Approved Top Creators Fusing Photography + Video with Captivating Musical Sounds</u></a></li>
+<li><a href="https://app-tips.techidaily.com/auto-enabled-security-for-half-a-billion-googles-bold-move-to-protect-users-with-mandatory-2fa/"><u>Auto-Enabled Security for Half a Billion: Google's Bold Move to Protect Users with Mandatory 2FA</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cyber-attack-alert-hackers-leverage-covid-19-omicron-strain-fears-with-redline-malware-campaign-fortinet-insights/"><u>Cyber Attack Alert: Hackers Leverage COVID-19 Omicron Strain Fears with RedLine Malware Campaign – Fortinet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/data-leak-strikes-wv-medical-facilities-due-to-cyberattack-in-depth-analysis-on-zdnet/"><u>Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-secrets-of-apples-latest-innovation-the-passkey-announcement-at-worldwide-developers-conference-2022-insider-report/"><u>Exploring the Secrets of Apple's Latest Innovation: The Passkey Announcement at Worldwide Developers Conference 2022 | Insider Report</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-f54-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy F54 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-boosting-engagement-learning-to-modify-account-numbers/"><u>In 2024, Boosting Engagement Learning to Modify Account Numbers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-v-purse-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Honor V Purse Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-protonpass-the-latest-innovation-in-privacy-focused-password-storage-with-full-end-to-end-security/"><u>Introducing ProtonPass: The Latest Innovation in Privacy-Focused Password Storage with Full End-to-End Security</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-the-complete-1password-suite-on-linux-platforms-key-features-and-reviews-zdnet-exclusive/"><u>Introducing the Complete 1Password Suite on Linux Platforms: Key Features and Reviews | ZDNet Exclusive</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lastpass-executives-assure-users-of-no-breached-accounts-following-recent-security-warnings-insights-from-zdnet/"><u>LastPass Executives Assure Users of No Breached Accounts Following Recent Security Warnings: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lastpass-to-become-separate-business-as-logmein-executes-split-strategy-tech-buzz-on-zdnet/"><u>LastPass to Become Separate Business as LogMeIn Executes Split Strategy | Tech Buzz on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-password-replaced-by-passkeys-with-1password-the-latest-update-from-zdnet/"><u>Master Password Replaced by Passkeys with 1Password - The Latest Update From ZDNet</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-cut-edit-share-the-10-best-free-and-paid-android-video-editors/"><u>Updated In 2024, Cut, Edit, Share The 10 Best Free and Paid Android Video Editors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Security Breach: LastPass Compromised Once More - Critical Update From ZDNet"
-date: 2024-12-12T05:52:28.317Z
-updated: 2024-12-16T00:39:02.572Z
+date: 2024-12-22T02:56:31.528Z
+updated: 2024-12-24T22:33:31.426Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,22 +81,22 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastery-of-microscopic-minecraft-mapping/"><u>[Updated] In 2024, Mastery of Microscopic Minecraft Mapping</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-top-30-windows-10-utilities-you-cant-ignore/"><u>[Updated] In 2024, Top 30 Windows 10 Utilities You Can't Ignore</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1-reviving-lost-images-a-step-by-step-guide-to-restore-photos-from-damaged-sd-cards/"><u>1. Reviving Lost Images: A Step-by-Step Guide to Restore Photos From Damaged SD Cards</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-the-importance-of-understanding-asmr-media/"><u>2024 Approved The Importance of Understanding ASMR Media</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-toolwiz-unveiled-the-full-scope-photo-software-review/"><u>2024 Approved Toolwiz Unveiled - The Full Scope Photo Software Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-chatsonic-the-complete-guide-to-understanding-this-innovative-ai-chatbot/"><u>Comprehensive Analysis of Chatsonic: The Complete Guide to Understanding This Innovative AI Chatbot</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-elevenlabs-generative-voice-ai-and-comparable-options/"><u>Comprehensive Analysis: ElevenLabs' Generative Voice AI & Comparable Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-bing-chat-and-its-synergy-with-gpt-n-language-models/"><u>Comprehensive Guide to Bing Chat & Its Synergy with GPT-N Language Models</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620185282-comprehensive-guide-to-the-eva-ai-chatbot-from-ex-journey-dont-miss-this/"><u>Comprehensive Guide to the EVA AI Chatbot From Ex Journey – Don't Miss This</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-top-10-innovative-ai-chatbots-for-superior-conversations/"><u>Experience Next-Level Interaction: Top 10 Innovative AI Chatbots for Superior Conversations</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oneplus-ace-2v-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your OnePlus Ace 2V FRP Locks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-xr-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone XR</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/identifying-common-problems-is-your-sound-card-malfunctioning/"><u>Identifying Common Problems: Is Your Sound Card Malfunctioning?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-microsofts-bing-chat-feature-using-advanced-ai-and-gpt-4/"><u>In-Depth Analysis of Microsoft's Bing Chat Feature Using Advanced AI & GPT-4</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-for-fixing-d3dx939dll-errors-in-windows/"><u>Troubleshooting Techniques for Fixing d3dx9_39.dll Errors in Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-champion-of-ai-bots-in-depth-review-of-chatgpt-for-next-level-conversations/"><u>Unveiling the Champion of AI Bots: In-Depth Review of ChatGPT for Next-Level Conversations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-facets-of-chatgpt-2024-detailed-examination-of-features-and-strategies-for-server-glitches/"><u>Unveiling the Facets of ChatGPT 2024: Detailed Examination of Features and Strategies for Server Glitches</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-pros-picks-top-10-mic-technology-for-podcasters/"><u>[New] In 2024, The Pros' Picks Top 10 Mic Technology for Podcasters</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-top-10-sci-fi-vr-adventures-new-realms-unveiled-for-2024/"><u>[New] Top 10 Sci-Fi VR Adventures New Realms Unveiled for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastery-of-storing-snaps-on-devices-post-snapchat-use/"><u>[Updated] Mastery of Storing Snaps on Devices Post-Snapchat Use</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1password-goes-mobile-with-significant-enhancement-see-whats-changed-zdnet/"><u>1Password Goes Mobile with Significant Enhancement, See What's Changed - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apache-introduces-security-fix-in-version-2170-for-log4js-dos-issue-tech-news-by-zdnet/"><u>Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-13-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone 13 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-a-non-responsive-start-menu-on-your-windows-11-pc/"><u>Effective Fixes for a Non-Responsive Start Menu on Your Windows 11 PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-redmi-k70-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi Redmi K70 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-introducing-the-essence-of-motion-blur-techniques-on-iphone/"><u>In 2024, Introducing the Essence of Motion-Blur Techniques on iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-1password-why-this-top-tier-password-safe-is-a-smart-investment-tech-insights-from-zdnet/"><u>In-Depth Analysis of 1Password: Why This Top-Tier Password Safe Is a Smart Investment - Tech Insights From ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-3-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-password-manager-solutions-for-2cy2024-thoroughly-reviewed-by-tech-gurus-at-zdnet/"><u>Leading Password Manager Solutions for 2CY2024: Thoroughly Reviewed by Tech Gurus at ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/switch-from-lastpass-to-icloud-passwords-on-windows-a-step-by-step-guide-zdnet/"><u>Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-zdnets-2024-ranking-of-leading-lastpass-replacements/"><u>Ultimate Guide: ZDNet's 2024 Ranking of Leading LastPass Replacements</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-huge-savings-with-dashlanes-password-manager-snipe-premium-at-just-50-off-today/"><u>Unlock Huge Savings with Dashlane's Password Manager - Snipe Premium at Just 50% Off Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-security-a-detailed-analysis-and-user-assessment-of-premium-password-manager-1password-authoritative-review-by-cryptosafe-zdnet/"><u>Unlocking Security: A Detailed Analysis & User Assessment of Premium Password Manager, 1Password | Authoritative Review by CryptoSafe ZDNET</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-power-of-photoscape-a-comprehensive-guide-to-its-free-editing-capabilities/"><u>Unveiling the Power of PhotoScape: A Comprehensive Guide to Its Free Editing Capabilities</u></a></li>
 </ul></div>
 

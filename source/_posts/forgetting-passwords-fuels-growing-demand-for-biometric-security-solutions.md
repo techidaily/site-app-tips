@@ -1,7 +1,7 @@
 ---
 title: Forgetting Passwords Fuels Growing Demand for Biometric Security Solutions
-date: 2024-12-12T06:10:22.028Z
-updated: 2024-12-15T16:01:13.072Z
+date: 2024-12-21T18:57:34.615Z
+updated: 2024-12-25T03:52:09.769Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,24 +99,16 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-surging-through-the-noise-supercharging-telegram-campaigns-for-2024/"><u>[New] Surging Through the Noise Supercharging Telegram Campaigns for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-unveiling-the-ultimate-secret-amplifying-gaming-vids-with-hashes/"><u>2024 Approved Unveiling the Ultimate Secret Amplifying Gaming Vids with Hashes</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/5-innovative-apps-to-design-stunning-openings-for-2024/"><u>5 Innovative Apps to Design Stunning Openings for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/accelerate-androids-speed-optimize-with-advanced-task-management-tools/"><u>Accelerate Android's Speed: Optimize with Advanced Task Management Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-5-sd-card-apps-for-optimal-file-management-on-your-android-device/"><u>Best 5 SD Card Apps for Optimal File Management on Your Android Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-and-paid-screen-mirroring-solutions-for-android-devices-top-9-app-picks/"><u>Best Free & Paid Screen Mirroring Solutions for Android Devices: Top 9 App Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-browsing-every-listing-on-craigslist-efficiently/"><u>Complete Guide: Browsing Every Listing on Craigslist Efficiently</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-walkthrough-for-recovering-purchased-applications-and-unlocking-in-game-purchases-in-android-systems/"><u>Complete Walkthrough for Recovering Purchased Applications & Unlocking In-Game Purchases in Android Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensible-list-best-games-music-found-online/"><u>Comprehensible List Best Games’ Music Found Online</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-apples-latest-innovation-with-the-redesigned-ios-1erlockunlock-interface/"><u>Discover Apple's Latest Innovation with the Redesigned iOS 1erLock/Unlock Interface</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-excellent-gps-software-for-android-devices-a-comprehensive-guide/"><u>Free Excellent GPS Software for Android Devices - A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y100a-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y100A Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oneplus-12r-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From OnePlus 12R to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-download-kinemaster-pro-for-mac-a-detailed-installation-process/"><u>New Download KineMaster Pro for Mac A Detailed Installation Process</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-passcode-no-problem-keeping-games-offline/"><u>No Passcode, No Problem: Keeping Games Offline</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-enjoying-queer-inclusive-series-on-netflix-in-july/"><u>The Ultimate Guide to Enjoying Queer-Inclusive Series on Netflix in July</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-insights-on-videoleap-dont-miss-whats-next/"><u>Top Insights on Videoleap - Don't Miss What's Next</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-video-editing-tool-master-color-grading-with-ioss-top-application/"><u>Top Rated Video Editing Tool: Master Color Grading with iOS's Top Application</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-downloading-and-evaluating-apks-for-gaming-audio-content-and-device-rooting/"><u>Ultimate Guide to Downloading & Evaluating APKs for Gaming, Audio Content, and Device Rooting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-of-vr-filmmaking-with-advanced-techniques-using-adobe-premiere-pro/"><u>[New] Unveiling the Secrets of VR Filmmaking with Advanced Techniques Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-how-to-seamlessly-incorporate-premium-visuals-at-zero-expense/"><u>[Updated] How to Seamlessly Incorporate Premium Visuals at Zero Expense</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breath-of-ice-the-winter-olympics-in-china-2022-for-2024/"><u>Breath of Ice The Winter Olympics in China 2022 for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-chatgpt-2erview-insights-on-capabilities-updates-and-handling-server-issues/"><u>Comprehensive ChatGPT 2Erview: Insights on Capabilities, Updates, and Handling Server Issues</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-eva-formerly-ex-journey-ai-chatbot-overview-essential-insights/"><u>Comprehensive EVA (Formerly Ex Journey) AI Chatbot Overview - Essential Insights</u></a></li>
+<li><a href="https://techidaily.com/court-verdict-impacts-cryptocurrency-holders-could-your-ethereum-lose-its-legal-status/"><u>Court Verdict Impacts Cryptocurrency Holders: Could Your Ethereum Lose Its Legal Status?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/decoding-eva-ai-a-deep-dive-into-the-transformed-ex-journey-conversational-agent/"><u>Decoding EVA AI - A Deep Dive Into the Transformed Ex Journey Conversational Agent</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-chatgpt-2024-complete-analysis-of-functionality-characteristics-and-server-hiccups/"><u>Exploring ChatGPT 2024: Complete Analysis of Functionality, Characteristics & Server Hiccups</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/periscope-footage-lifesaving-tips-and-tricks-for-2024/"><u>Periscope Footage Lifesaving Tips & Tricks for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-eva-the-ultimate-guide-to-the-former-ex-journey-ai-bot/"><u>Unveiling the Power of EVA: The Ultimate Guide to the Former Ex Journey AI Bot</u></a></li>
 </ul></div>
 

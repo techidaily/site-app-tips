@@ -1,7 +1,7 @@
 ---
 title: Six Essential Strategies for Effective Agile Approach in Software Design - Insights From ZDNet
-date: 2024-11-26T00:11:41.308Z
-updated: 2024-12-02T02:47:06.544Z
+date: 2024-12-23T17:49:17.407Z
+updated: 2024-12-24T21:16:32.647Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-premier-5-online-communities-ascending-beyond-twitter/"><u>[Updated] Premier 5 Online Communities Ascending Beyond Twitter</u></a></li>
-<li><a href="https://win-blog.techidaily.com/crusader-kings-ii-troubleshooting-how-to-fix-unsuccessful-boot-issues/"><u>Crusader Kings II Troubleshooting - How to Fix Unsuccessful Boot Issues</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-capture-and-share-adventures-with-gopro-tips-for-livestreams-and-social-media/"><u>In 2024, Capture and Share Adventures with GoPro Tips for Livestreams & Social Media</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g-stylus-5g-2023-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G Stylus 5G (2023) Phone without Google Account?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-summit-of-synergy-for-vr-sensations/"><u>In 2024, Summit of Synergy for VR Sensations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainty-overcoming-ai-challenges-with-inaccurate-results-insights-from-zdnet/"><u>Navigating the Uncertainty: Overcoming AI Challenges with Inaccurate Results - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-barriers-for-significant-profit-with-artificeinvestment-an-essential-guide-for-entrepreneurs-zdnet/"><u>Overcoming Barriers for Significant Profit with Artificeinvestment: An Essential Guide for Entrepreneurs | ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-liberating-your-digital-library-by-removing-drm-from-mobipocket-ebooks/"><u>Step-by-Step Guide: Liberating Your Digital Library by Removing DRM From Mobipocket eBooks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-artificial-intelligence-success-the-critical-role-of-data-integration-strategies-and-insights-zdnet/"><u>Unlocking Artificial Intelligence Success: The Critical Role of Data Integration - Strategies & Insights | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-trustworthy-ai-watermarking-strategies-with-expert-advice-on-zdnet/"><u>Unveiling Trustworthy AI Watermarking Strategies with Expert Advice on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/upgrading-singapores-digital-landscape-24b-allocation-for-ict-improvements-and-online-services-expansion-infotech-insights/"><u>Upgrading Singapore's Digital Landscape: $2.4B Allocation for ICT Improvements and Online Services Expansion | InfoTech Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-dev-home-for-windows-11/"><u>What Is Dev Home for Windows 11?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-learn-from-the-greats-strategies-for-confident-online-sharing/"><u>[New] In 2024, Learn From the Greats Strategies for Confident Online Sharing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-the-mysteries-high-quality-minecraft-capture-on-macos/"><u>[Updated] Unveiling the Mysteries High-Quality Minecraft Capture on MacOS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/gasp-and-guffaw-10-instagram-pages-where-laughter-meets-tears-for-2024/"><u>Gasp & Guffaw 10 Instagram Pages Where Laughter Meets Tears for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nubia-red-magic-9-proplusfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nubia Red Magic 9 Pro+FRP Lock</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/optimize-print-performance-dells-latest-aio-upgrades-in-win7/"><u>Optimize Print Performance: Dell's Latest AIO Upgrades in Win7</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-14-pro-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 14 Pro Max Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-system-administration-how-red-hat-integrates-ai-for-enhanced-efficiency/"><u>Revolutionizing System Administration: How Red Hat Integrates AI for Enhanced Efficiency</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-elevating-your-windows-home-edition-to-pro-benefits-unveiled/"><u>Step-by-Step Guide: Elevating Your Windows Home Edition to Pro - Benefits Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-current-state-of-cloud-computing-and-persisting-challenges-with-on-premise-systems/"><u>The Current State of Cloud Computing & Persisting Challenges with On-Premise Systems.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-shift-to-non-techies-leading-enterprise-tech-revolution-insights-from-zdnet/"><u>The Shift to Non-Techies Leading Enterprise Tech Revolution – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-tools-for-analyzing-and-conversing-on-text-files/"><u>Top 6 Tools for Analyzing and Conversing on Text Files</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-amazons-cutting-edge-ai-benchmark-assessing-relevance-answers-and-contextual-groundings/"><u>Unveiling Amazon's Cutting-Edge AI Benchmark: Assessing Relevance, Answers & Contextual Groundings</u></a></li>
 </ul></div>
 

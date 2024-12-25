@@ -1,7 +1,7 @@
 ---
 title: Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET
-date: 2024-12-12T18:24:39.438Z
-updated: 2024-12-16T01:33:06.238Z
+date: 2024-12-18T21:30:44.787Z
+updated: 2024-12-24T18:57:29.440Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -112,7 +112,7 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -190,21 +190,22 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-earn-on-tiktok-explore-8-effective-money-making-techniques/"><u>[Updated] 2024 Approved Earn on TikTok Explore 8 Effective Money-Making Techniques</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-high-quality-streaming-choice-go-with-obs-or-fraps-for-2024/"><u>[Updated] High-Quality Streaming Choice Go With OBS or Fraps for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/5lih5lia5peg5osp5lit5yi75b2v56gs55uy6kplusl5aac5l2v5ase55cg77yf57kplus6ycj5lij56en566a5y2v5pyj5pwi55qe5pa55bypiq/"><u>万一无意中刻录硬盘该如何处理？精选三种简单有效的方式!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-top-5-tools-for-simple-message-access-and-viewing-on-your-pc/"><u>Best Top 5 Tools for Simple Message Access & Viewing on Your PC</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-yet-reliable-the-omoton-t1-tablet-support-reviewed/"><u>Budget-Friendly Yet Reliable: The Omoton T1 Tablet Support Reviewed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-most-effective-cross-platform-chat-applications-for-ios-and-android-devices/"><u>Discover the Most Effective Cross-Platform Chat Applications for iOS and Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-7-mdm-applications-leading-software-reviews-for-efficient-device-management/"><u>Discover the Ultimate 7 MDM Applications: Leading Software Reviews for Efficient Device Management</u></a></li>
-<li><a href="https://fox-http.techidaily.com/entering-filmmaking-with-smart-camera-choices-23-update-for-2024/"><u>Entering Filmmaking with Smart Camera Choices '23 Update for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-insights-into-the-vita-video-editing-suite-why-its-a-game-changer/"><u>Essential Insights Into the VITA Video Editing Suite: Why It's a Game-Changer</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-redmi-note-12-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi Redmi Note 12 Pro 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-play-8t-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor Play 8T.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-great-android-camera-apps-for-amazing-shots/"><u>The Ultimate List of Great Android Camera Apps for Amazing Shots</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-9plus-secure-unlocking-apps-with-fingerprint-recognition-for-android-smartphones/"><u>The Ultimate List: 9+ Secure Unlocking Apps with Fingerprint Recognition for Android Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-review-of-the-shotcut-app-unveil-its-features-and-benefits-now/"><u>Ultimate Review of the Shotcut App: Unveil Its Features and Benefits Now</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-se-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone SE Passcode without a Computer</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-kinemaster-for-mac-a-step-by-step-installation-tutorial/"><u>Updated In 2024, KineMaster for Mac A Step-by-Step Installation Tutorial</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-fast-and-free-strategies-for-authenticity-in-insta-circles/"><u>[New] In 2024, Fast & Free Strategies for Authenticity in Insta Circles</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-revolutionize-online-speech-discover-the-best-chrome-extensions-for-change/"><u>[Updated] 2024 Approved Revolutionize Online Speech Discover the Best Chrome Extensions for Change</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-determining-the-best-action-camera-gopro-max-or-hero-11/"><u>[Updated] Determining the Best Action Camera GoPro Max or Hero 11?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-on-cloud-storage-protecting-data-for-ipads-pro-mini-and-air-via-icloud/"><u>Complete Tutorial on Cloud Storage: Protecting Data for iPads (Pro, Mini, and Air) via iCloud</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-kooteks-laptop-cooling-pad-an-exceptional-choice/"><u>Expert Analysis of Kootek's Laptop Cooling Pad – An Exceptional Choice</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264535-how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-retrieve-your-forgotten-iphone-itunes-backup-passcode/"><u>How to Retrieve Your Forgotten iPhone iTunes Backup Passcode</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-14-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 14 Plus to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/improving-sound-speeds-a-guide-for-safe-spotify-use-for-2024/"><u>Improving Sound Speeds A Guide for Safe Spotify Use for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-apples-icloud-family-sharing-an-in-depth-tutorial-for-seamless-collaboration/"><u>Mastering Apple's iCloud Family Sharing - An In-Depth Tutorial for Seamless Collaboration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-and-simple-methods-accessing-your-icloud-photos-without-an-iphone/"><u>Quick & Simple Methods: Accessing Your iCloud Photos Without an iPhone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-access-to-essential-drivers-for-your-lenovo-ideapad-x230/"><u>Quick Access to Essential Drivers for Your Lenovo IdeaPad X230</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-detailed-review-comparing-amds-rx-7800xt-with-7700xt-series/"><u>The Detailed Review: Comparing AMD's RX 7800XT with 7700XT Series</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-of-icloud-keychain-functionality-and-retrieving-your-data-on-iphone/"><u>The Ultimate Walkthrough of iCloud Keychain Functionality & Retrieving Your Data on iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-4-methods-for-effortlessly-transferring-your-iphone-photos-to-icloud-a-complete-guide/"><u>Top 4 Methods for Effortlessly Transferring Your iPhone Photos to iCloud: A Complete Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-icloud-keychain-a-complete-guide-to-unlocking-your-iphones-secure-storage/"><u>Understanding iCloud Keychain: A Complete Guide to Unlocking Your iPhone's Secure Storage</u></a></li>
 </ul></div>
 

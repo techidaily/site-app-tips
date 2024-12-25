@@ -1,7 +1,7 @@
 ---
 title: "Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default"
-date: 2024-12-13T16:04:50.449Z
-updated: 2024-12-16T06:59:59.179Z
+date: 2024-12-22T03:34:08.813Z
+updated: 2024-12-24T19:08:47.723Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ Google [has auto enrolled](https://blog.google/technology/safety-security/reduci
 The initiative also involved requiring 2 million YouTube users to enable it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google
@@ -79,17 +79,19 @@ Google [announced](https://www.zdnet.com/article/by-end-of-2021-google-plans-to-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-nightly-serenity-with-asmr-top-choices-to-listen-to/"><u>[New] Nightly Serenity with ASMR Top Choices to Listen To</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726226954188-movavim4amp3/"><u>使用Movavi免费在线将M4A格式转换为MP3 - 免费移动设备支持</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/climates-cozy-cinematics-selecting-winter-backgrounds-for-2024/"><u>Cool Climates, Cozy Cinematics Selecting Winter Backgrounds for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/devops-engineering-career-the-complete-picture-pros-cons-and-challenges/"><u>DevOps Engineering Career: The Complete Picture - Pros, Cons & Challenges</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/excel-skill-boost-learn-how-to-efficiently-perform-time-summation-and-reduction-using-microsoft-excel-tools/"><u>Excel Skill Boost: Learn How To Efficiently Perform Time Summation and Reduction Using Microsoft Excel Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-f23-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo F23 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-analyzing-peak-engagement-for-podcast-drops/"><u>In 2024, Analyzing Peak Engagement for Podcast Drops</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-iphone-6s-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On iPhone 6s?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-ai-expertise-for-non-programmers-the-need-for-multifaceted-learning-in-complex-environments-zdnet/"><u>Navigating AI Expertise for Non-Programmers - The Need for Multifaceted Learning in Complex Environments | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-old-school-it-systems-key-insights-for-managing-outdated-technologies-and-avoiding-migration-pitfalls/"><u>Navigating Old-School IT Systems: Key Insights for Managing Outdated Technologies and Avoiding Migration Pitfalls</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-pitfalls-of-outdated-systems-a-lesson-from-a-failed-technology-migration-zdnet/"><u>Navigating the Pitfalls of Outdated Systems: A Lesson From a Failed Technology Migration | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-journey-to-becoming-a-chief-artificial-intelligence-officer-insights-and-strategies-for-success/"><u>The Journey to Becoming a Chief Artificial Intelligence Officer - Insights and Strategies for Success</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-examining-the-performance-of-recmeister-for-screen-recording/"><u>[New] In 2024, Examining the Performance of Recmeister for Screen Recording</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-online-monetization-with-universal-studio-use-for-2024/"><u>[Updated] Mastering Online Monetization with Universal Studio Use for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-cutting-edge-techniques-to-upgrade-channel-descriptions/"><u>2024 Approved Cutting-Edge Techniques to Upgrade Channel Descriptions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-everlasting-capture-no-limit-savings-available/"><u>2024 Approved Everlasting Capture, No Limit Savings Available</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-peering-into-triller-its-distinctive-features-and-identity/"><u>2024 Approved Peering Into Triller Its Distinctive Features and Identity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-iphone-data-rescue-tools-how-to-get-back-deleted-files-securely/"><u>Best iPhone Data Rescue Tools: How to Get Back Deleted Files Securely</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-fun-and-trending-facebook-messenger-stickers-now/"><u>Download Fun & Trending Facebook Messenger Stickers Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-taking-flight-hubsans-latest-aerial-marvel-reviewed/"><u>In 2024, Taking Flight Hubsan's Latest Aerial Marvel Reviewed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-iphone-spyware-apps-unbeatable-options-for-covert-tracking/"><u>Top Rated iPhone Spyware Apps: Unbeatable Options for Covert Tracking</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-navigation-apps-on-android-discover-the-best-free-options/"><u>Top-Ranked Navigation Apps on Android: Discover the Best Free Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-vsco-a-detailed-review-with-benefits-drawbacks-comparisons-and-best-alternatives/"><u>Unraveling VSCO: A Detailed Review with Benefits, Drawbacks, Comparisons, and Best Alternatives</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-from-free-to-pro-the-top-10-fcpx-plugins-to-take-your-videos-to-the-next-level/"><u>Updated In 2024, From Free to Pro The Top 10 FCPX Plugins to Take Your Videos to the Next Level</u></a></li>
 </ul></div>
 

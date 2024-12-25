@@ -1,7 +1,7 @@
 ---
 title: "ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet"
-date: 2024-12-14T06:13:36.026Z
-updated: 2024-12-15T20:27:36.716Z
+date: 2024-12-22T03:39:24.112Z
+updated: 2024-12-24T17:50:23.805Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,24 +68,18 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-decoding-the-language-of-asmr-videos/"><u>[Updated] 2024 Approved Decoding the Language of ASMR Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-30-tag-strategies-for-boosting-views-in-freefire-gaming/"><u>[Updated] 2024 Approved Top 30 Tag Strategies for Boosting Views in FreeFire Gaming</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-zenith-of-races-olympic-x-snow-highlights/"><u>[Updated] 2024 Approved Zenith of Races - Olympic X-Snow Highlights</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-lg-27ud88-w-4k-usb-type-c-monitor-complete-review/"><u>2024 Approved LG 27UD88-W 4K USB Type-C Monitor Complete Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-efficiency-with-these-proven-strategies-in-daily-project-management-tips-shared-on-zdnet/"><u>Boost Efficiency with These Proven Strategies in Daily Project Management – Tips Shared on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/career-advancement-in-tech-with-top-strategies-used-by-the-worlds-biggest-aerospace-enterprises-zdnet/"><u>Career Advancement in Tech with Top Strategies Used by the World's Biggest Aerospace Enterprises | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cerebras-releases-revolutionary-wse-section-1-advanced-problem-on-antenna-ground-systems/"><u>Cerebras Releases Revolutionary WSE- # Section 1: Advanced Problem on Antenna Ground Systems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/dark-souls-evocative-sibling-a-detailed-look-at-bloodborne/"><u>Dark Souls' Evocative Sibling - A Detailed Look at Bloodborne</u></a></li>
-<li><a href="https://app-tips.techidaily.com/data-analysis/"><u>Data Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dont-panic-windows-11-users-discover-5-effective-strategies-before-official-end-of-service-zdnet/"><u>Don't Panic, Windows 11 Users! Discover 5 Effective Strategies Before Official End of Service | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/harnessing-expertise-for-a-secure-transition-to-next-gen-cloud-native-ecosystems-a-deep-dive-with-zdnet/"><u>Harnessing Expertise for a Secure Transition to Next-Gen Cloud-Native Ecosystems: A Deep Dive with ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20-proplus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20 Pro+ to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-artificial-intelligence-and-embracing-rust-in-computing-tech-insights-on-zdnet/"><u>Linus Torvalds Discusses Artificial Intelligence & Embracing Rust in Computing | Tech Insights on ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-tecno-camon-20-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Tecno Camon 20? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-hurdles-in-ai-implementation-key-takeawives-from-deloitte-survey-zdnet/"><u>Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/smart-home-showdown-evaluating-features-of-ring-vs-nest-doorbells/"><u>Smart Home Showdown: Evaluating Features of Ring vs Nest Doorbells</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tenfold-surge-in-artifice-intelligence-initiatives-this-year-confirms-zdnet-insight-survey/"><u>Tenfold Surge in Artifice Intelligence Initiatives This Year, Confirms ZDNet Insight Survey</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nokia-c210-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nokia C210 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uniting-cloud-storage-seamless-onedrive-plus-microsoft-login/"><u>Uniting Cloud Storage: Seamless OneDrive + Microsoft Login</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-advanced-card-selections-uhd-video-perfection/"><u>[New] 2024 Approved Advanced Card Selections UHD Video Perfection</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-a-practical-guide-to-managing-twitter-archives-for-2024/"><u>[New] A Practical Guide to Managing Twitter Archives for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-the-world-of-social-networking-facebook-basics/"><u>[New] Navigating the World of Social Networking Facebook Basics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-optimizing-final-viewers-interactions-on-yt/"><u>2024 Approved Optimizing Final Viewers' Interactions on YT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creating-an-impressive-table-with-excel-a-step-by-step-guide/"><u>Creating an Impressive Table with Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-studio.techidaily.com/errores-desastrosos-en-los-ordenadores-como-recuperar-documentos-eliminados-tras-un-reinicio-paso-a-paso/"><u>Errores Desastrosos en Los Ordenadores: Cómo Recuperar Documentos Eliminados Tras Un Reinicio, Paso a Paso</u></a></li>
+<li><a href="https://win-blog.techidaily.com/immortal-launch-hurdles-cleared-why-did-immortals-fenynix-rising-take-longer-to-hit-stores/"><u>Immortal Launch Hurdles Cleared: Why Did Immortals Fenynix Rising Take Longer to Hit Stores?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-peak-of-youtubes-monetization-wonders/"><u>In 2024, The Peak of YouTube's Monetization Wonders</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-ultimate-seal-on-cyberspace-expeditions/"><u>In 2024, Ultimate Seal on Cyberspace Expeditions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revival-in-the-clouds-the-converging-success-stories-of-openstack-and-kata-containers-analyzing-market-trends-on-zdnet/"><u>Revival in the Clouds: The Converging Success Stories of OpenStack and Kata Containers | Analyzing Market Trends on ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/surface-charger-malfunction-solved-a-step-by-step-guide/"><u>Surface Charger Malfunction Solved: A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-the-disarray-in-linuxopen-source-manuals-expert-fixes-on-zdnet/"><u>Taming the Disarray in Linux/Open Source Manuals: Expert Fixes on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-ad-strategies-with-adobes-innovative-generative-ai-campaign-solutions-tech-news/"><u>Transform Your Ad Strategies with Adobe's Innovative Generative AI Campaign Solutions - Tech News</u></a></li>
 </ul></div>
 

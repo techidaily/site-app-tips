@@ -1,7 +1,7 @@
 ---
 title: "Newly Launched Full-Featured 1Password App for Linux Enthusiasts: A Closer Look - Tech News"
-date: 2024-12-10T21:42:39.882Z
-updated: 2024-12-15T19:58:07.757Z
+date: 2024-12-22T04:53:49.602Z
+updated: 2024-12-24T23:39:52.085Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/988b0aa2e48e125d13283fa19f222d53a696ba967
 I used to pride myself on being able to remember dozens of complex passwords. But, now I need to remember hundreds of passwords and I just can't do it. That's why password managers, such as [1Password](https://1password.com/), [Keeper](https://keepersecurity.com/), and [LastPass](https://www.lastpass.com/), are so important. All of which is fine and good… unless you're running Linux. Now, Agilebits' 1Password has finally given their customers what they've been [asking for: A Linux version](https://discussions.agilebits.com/discussion/2846/new-product-request-1password-for-linux). After a long beta, the [company has released its first Linux edition](https://www.prnewswire.com/news-releases/1password-unveils-application-to-protect-linux-users-and-developers-301293641.html).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** recommends
@@ -78,18 +78,18 @@ Sound good to you? Give [Linux 1Password a try with a 30-day free trial](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-tailoring-audio-in-youtube-video-editors-for-enhanced-content-for-2024/"><u>[Updated] Tailoring Audio in YouTube Video Editors for Enhanced Content for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y55s-5g-2023-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y55s 5G (2023) Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620264535-how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-devices-discover-top-picks-at-toms-hardware-hub/"><u>Mastering Your Devices? Discover Top Picks at Tom's Hardware Hub</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ist-embedding-on-sites-using-youtube/"><u>Playlist Embedding on Sites Using YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps4-gamepad-troubles-solve-common-glitches-in-minutes/"><u>PS4 Gamepad Troubles? Solve Common Glitches in Minutes</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-for-disconnected-spotify-streaming/"><u>Quick-Fix Guide for Disconnected Spotify Streaming</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revolutionize-digital-marketing-using-cookiebot-solutions/"><u>Revolutionize Digital Marketing Using Cookiebot Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-of-icloud-keychain-functionality-and-retrieving-your-data-on-iphone/"><u>The Ultimate Walkthrough of iCloud Keychain Functionality & Retrieving Your Data on iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-4-methods-for-effortlessly-transferring-your-iphone-photos-to-icloud-a-complete-guide/"><u>Top 4 Methods for Effortlessly Transferring Your iPhone Photos to iCloud: A Complete Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-step-by-step-guide-how-to-effortlessly-backup-and-sync-your-iphone-with-icloud/"><u>Ultimate Step-by-Step Guide: How to Effortlessly Backup and Sync Your iPhone with iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-icloud-keychain-a-complete-guide-to-unlocking-your-iphones-secure-storage/"><u>Understanding iCloud Keychain: A Complete Guide to Unlocking Your iPhone's Secure Storage</u></a></li>
-<li><a href="https://discover-data.techidaily.com/update-your-windows-navigating-preferences-with-ease-changing-the-default-search-engine-digitalwizardry/"><u>Update Your Windows Navigating Preferences with Ease: Changing the Default Search Engine - DigitalWizardry</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-xchange-your-mind-with-non-sharex-insights-for-2024/"><u>[New] XChange Your Mind with Non-ShareX Insights for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/collaboration-between-sony-research-and-ai-singapore-targets-advancements-in-language-models/"><u>Collaboration Between Sony Research and AI Singapore Targets Advancements in Language Models</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-security-flaw-found-in-popular-linux-tool-curl-fixes-deployed-by-developers/"><u>Critical Security Flaw Found in Popular Linux Tool Curl - Fixes Deployed by Developers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/educators-summit-in-london-uk-bett-2022/"><u>Educators' Summit in London, UK: BETT 2022</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-tutorial-features-and-usage/"><u>Guide, Tutorial, Features, and Usage.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-13-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 13</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-ace-2-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Ace 2 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/navigating-next-gen-webinar-software-for-2024/"><u>Navigating Next-Gen Webinar Software for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-kubernetes-environment-with-codenotarys-new-sbom-offering-as-featured-on-zdnet/"><u>Secure Your Kubernetes Environment with Codenotary’s New SBOM Offering, as Featured on ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-poco-f5-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Poco F5 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-free-substitutes-for-openais-sora-explore-your-options/"><u>Top 6 Free Substitutes for OpenAI's Sora: Explore Your Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-on-transitioning-from-windows-home-edition-to-the-advanced-pro-variant/"><u>Ultimate Tutorial on Transitioning From Windows Home Edition to the Advanced Pro Variant</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/urgent-alert-apple-warns-iphones-of-increased-threats-from-private-military-cyber-espionage-are-your-devices-at-risk/"><u>Urgent Alert: Apple Warns iPhones of Increased Threats From Private Military Cyber Espionage - Are Your Devices at Risk?</u></a></li>
 </ul></div>
 

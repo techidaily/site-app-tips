@@ -1,7 +1,7 @@
 ---
 title: "Debunking Bitcoin Privacy Myths: The Exposé That Shook Its Secrecy"
-date: 2024-12-10T00:24:52.436Z
-updated: 2024-12-16T02:26:06.998Z
+date: 2024-12-23T01:16:09.688Z
+updated: 2024-12-25T02:00:01.626Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,18 +119,22 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-exclusive-list-the-premier-gb-emulators-android/"><u>[New] Exclusive List The Premier GB Emulators, Android</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-exploring-the-magic-behind-color-grading-with-luts-for-2024/"><u>[Updated] Exploring the Magic Behind Color Grading with LUTs for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-expert-picks-for-drone-pilots-vr-eyewear/"><u>[Updated] In 2024, Expert Picks for Drone Pilots’ VR Eyewear</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-comprehensive-guide-understanding-the-delete-for-everyone-option-in-whatsapp/"><u>A Comprehensive Guide: Understanding the 'Delete for Everyone' Option in WhatsApp</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dragon-training-watch-the-how-to-train-your-dragon-series-the-complete-sequential-guide/"><u>Dragon Training: Watch the How to Train Your Dragon Series - The Complete Sequential Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/honing-skills-for-hiring-best-filmmakers/"><u>Honing Skills for Hiring Best Filmmakers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-fixes-how-to-securely-restore-deleted-whatsapp-conversations-on-iphone-devices/"><u>Quick Fixes: How to Securely Restore Deleted WhatsApp Conversations on iPhone Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/repeated-security-incidents-at-lastpass-latest-update-from-zdnet/"><u>Repeated Security Incidents at LastPass - Latest Update From ZDNet</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/rev-up-your-parties-with-new-tracks-get-into-the-groove-with-this-weeks-fresh-selection-from-dj-marshmello-to-iron-butterfly-at-partytyme/"><u>Rev Up Your Parties with New Tracks: Get Into the Groove with This Week's Fresh Selection From DJ Marshmello to Iron Butterfly at PartyTyme!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-accounts-now-unbeatable-jem-authenticator-and-password-management-solution-insights-from-zdnet/"><u>Secure Your Accounts Now! Unbeatable JEM Authenticator & Password Management Solution | Insights From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ongoing-issue-of-reused-passwords-in-the-face-of-security-breaches-cybersecurity-insights/"><u>The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-hassle-free-hd-video-on-your-device-for-2024/"><u>[New] Hassle-Free HD Video on Your Device for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-precision-and-perfection-applying-luts-in-video-post-production/"><u>[New] Precision and Perfection Applying LUTs in Video Post-Production</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-craft-professional-episodes-a-comprehensive-guide-to-editing-in-garageband/"><u>2024 Approved Craft Professional Episodes A Comprehensive Guide to Editing in GarageBand</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-winx-dvd/"><u>公式版 DVDバックアップ用 - WinX DVDコピープログラムの無料ダウンロード</u></a></li>
+<li><a href="https://app-tips.techidaily.com/act-fast-upgrade-or-transition-from-your-windows-11-pc-top-5-strategies-as-support-concludes-in-a-year/"><u>Act Fast: Upgrade or Transition From Your Windows 11 PC - Top 5 Strategies as Support Concludes in a Year!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/agnes-ro-discusses-the-transformation-in-developer-responsibilities-at-atlassian-insights-from-zdnet/"><u>Agnes Ro Discusses the Transformation in Developer Responsibilities at Atlassian - Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-free-internet-fax-applications-a-comprehensive-guide/"><u>Best Free Internet Fax Applications: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-programming-speed-securely-with-generative-ai-insights-and-cautions-from-zdnet/"><u>Boost Your Programming Speed Securely with Generative AI - Insights and Cautions From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-ai-embracing-rust-and-the-critical-role-of-linux-kernel-with-linus-torvalds-tech-insights/"><u>Exploring AI, Embracing Rust, and the Critical Role of Linux Kernel with Linus Torvalds | Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-canonicals-revolutionary-distroless-images-transform-enterprise-security-a-deep-dive-techinsights/"><u>How Canonical's Revolutionary 'Distroless' Images Transform Enterprise Security: A Deep Dive - TechInsights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-mix-fold-3-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Mix Fold 3 Phone without PIN</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-tips-for-successfully-configuring-google-one-vpn-services-on-macos-systems/"><u>Quick Tips for Successfully Configuring Google One VPN Services on macOS Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-integration-connect-and-use-remote-features-for-your-samsung-smart-set-top-box/"><u>Seamless Integration: Connect and Use Remote Features for Your Samsung Smart Set-Top Box</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/664347-9781846946516-spirit-release/"><u>Spirit Release | Free Book</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/tech-triad-analysis-understanding-the-intersection-of-vr-ar-and-mr-for-2024/"><u>Tech Triad Analysis Understanding the Intersection of VR, AR & MR for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-visionary-linus-torvalds-explores-ai-progress-rust-integration-and-linux-significance-with-zdnet/"><u>Tech Visionary Linus Torvalds Explores AI Progress, Rust Integration, and Linux Significance with ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrade-journey-for-ubuntu-linux-2404-demystified-by-zdnet-experts/"><u>Upgrade Journey for Ubuntu Linux 24.04 Demystified by ZDNet Experts</u></a></li>
 </ul></div>
 

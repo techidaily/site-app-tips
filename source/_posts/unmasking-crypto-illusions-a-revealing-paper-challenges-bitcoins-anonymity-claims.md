@@ -1,7 +1,7 @@
 ---
 title: "Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims"
-date: 2024-12-14T07:46:54.158Z
-updated: 2024-12-15T19:28:20.072Z
+date: 2024-12-20T00:30:40.885Z
+updated: 2024-12-24T19:02:11.736Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,18 +119,18 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ailored-guide-for-selective-youtube-content-download/"><u>[New] Tailored Guide for Selective YouTube Content Download</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-leverage-netflixs-picture-in-picture-functionality/"><u>[Updated] Leverage Netflix's Picture-in-Picture Functionality</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-seamless-film-documentation-on-windowsmacos-and-ios-gadgets-for-2024/"><u>[Updated] Seamless Film Documentation on Windows/MacOS & iOS Gadgets for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210711286-9781911159131-a-comprehensive-guide-to-usui-reiki-2-the-second-degree-of-reiki-energy-healing/"><u>A Comprehensive Guide To Usui Reiki 2. The Second Degree Of Reiki Energy Healing | Free Book</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/alternative-secrets-to-sharing-files-efficiently/"><u>Alternative Secrets to Sharing Files Efficiently</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-sound-blaster-z-drivers-quick-guide-for-windows-11-users/"><u>Download Sound Blaster Z Drivers: Quick Guide for Windows 11 Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-protonpass-the-latest-innovation-in-privacy-focused-password-storage-with-full-end-to-end-security/"><u>Introducing ProtonPass: The Latest Innovation in Privacy-Focused Password Storage with Full End-to-End Security</u></a></li>
-<li><a href="https://app-tips.techidaily.com/is-1password-leading-the-pack-expert-evaluation-of-premium-digital-key-management-solutions-by-zdnet/"><u>Is 1Password Leading the Pack? Expert Evaluation of Premium Digital Key Management Solutions by ZDNET</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-reno-8t-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo Reno 8T 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protect-your-privacy-avoid-hidden-crypto-mining-risks-while-downloading-spider-man-no-way-home-using-bittorrent-insights-from-zdnet/"><u>Protect Your Privacy: Avoid Hidden Crypto Mining Risks While Downloading Spider-Man: No Way Home Using BitTorrent - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/slash-your-costs-secure-a-whopping-50-discount-on-dashlanes-elite-password-manager-now/"><u>Slash Your Costs: Secure a Whopping 50% Discount on Dashlane's Elite Password Manager - Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-audio-distortions-and-hiccups-on-windows-11-and-windows-7/"><u>Troubleshooting and Fixing Audio Distortions and Hiccups on Windows 11 and Windows 7</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-video-selfie-verfication-is-it-really-useful-for-2024/"><u>[New] Instagram Video Selfie Verfication - Is It Really Useful for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-ultimate-tutorial-on-designing-dynamic-facebook-slides/"><u>[New] The Ultimate Tutorial on Designing Dynamic Facebook Slides</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unveiling-the-secrets-to-successful-instant-sharing-online/"><u>[Updated] 2024 Approved Unveiling the Secrets to Successful Instant Sharing Online</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/effective-strategies-for-building-a-recovery-disk-on-windows-server-201n9-the-top-2-methods/"><u>Effective Strategies for Building a Recovery Disk on Windows Server 201N9: The Top 2 Methods</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effortlessly-record-time-lapses-on-apple-devices-for-2024/"><u>Effortlessly Record Time-Lapses on Apple Devices for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-citizen-developers-in-modern-business-workflows/"><u>Empowering Citizen Developers in Modern Business Workflows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-low-code-solutions-can-boost-your-companys-appeal-insights-from-zdnet/"><u>How Low-Code Solutions Can Boost Your Company's Appeal: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-streamline-your-linuxopen-source-knowledge-base-for-clarity-and-efficiency-expert-insights-and-solutions/"><u>How to Streamline Your Linux/Open-Source Knowledge Base for Clarity & Efficiency: Expert Insights and Solutions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-leading-macos-mkv-players-exposed/"><u>In 2024, Leading macOS MKV Players Exposed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/llm-unleashed-the-powerhouse-of-language-processing/"><u>LLM Unleashed: The Powerhouse of Language Processing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-preserve-your-memories-burning-videos-to-dvd-on-windows-and-mac/"><u>New Preserve Your Memories Burning Videos to DVD on Windows and Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-to-elevate-your-system-from-windows-home-to-professional-the-ultimate-benefits-explained/"><u>Step-by-Step Guide to Elevate Your System From Windows Home to Professional – The Ultimate Benefits Explained</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-ai-how-langchain-revolutionizes-generative-assistance/"><u>Unleashing the Power of AI: How LangChain Revolutionizes Generative Assistance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "LastPass Executives Assure Users of No Breached Accounts Following Recent Security Warnings: Insights From ZDNet"
-date: 2024-12-10T05:03:30.942Z
-updated: 2024-12-16T07:04:12.894Z
+date: 2024-12-17T19:00:11.019Z
+updated: 2024-12-24T19:56:06.016Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/03aa98ead41db04bf63114eadc16ec748777a4353
 Two LastPass vice presidents have released statements about the situation surrounding LastPass security issues that came to light this week. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Two LastPass vice presidents have released statements about the situation surrou
 [![web-browsers.jpg](https://www.zdnet.com/a/img/resize/86d91f7746b92a734c6f4130024638d05fe70bc2/2021/04/22/8feb3e5c-47fc-4cea-be35-4460e9f080ef/web-browsers.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best browsers for privacy Most people use Google Chrome as their default browser. But privacy is another matter for the online ad giant.  Read now](https://www.zdnet.com/article/best-browser-for-privacy/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Two days ago, hundreds of LastPass users took to [Twitter](https://twitter.com/technology%5Fgreg/status/1475600580521381889), [Reddit](https://www.reddit.com/r/Lastpass/comments/rpy0uq/recent%5Fsuccessful%5Flogin%5Fattempts%5Ffrom%5Fodd%5Fips/), [and other sites](https://news.ycombinator.com/item?id=29705957) to complain that they were getting alerts about their master password being used by someone who was not them. [Some reported](https://twitter.com/shift%5Fplusone/status/1475959354742525956) that even after changing their master password, someone tried to access their account again. 
@@ -84,16 +84,18 @@ Parent company LogMeIn announced just two weeks ago that it is [spinning off Las
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/approved-10-top-must-have-gear-items-for-youtubers/"><u>2024 Approved 10 Top Must-Have Gear Items for YouTubers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-poco-c65-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Poco C65 without App | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620191401-comprehensive-evaluation-of-picplaypost-revolutionizing-digital-content-with-advanced-editing-features-for-videos-collages-and-more/"><u>Comprehensive Evaluation of PicPlayPost: Revolutionizing Digital Content with Advanced Editing Features for Videos, Collages, and More!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/die-effektivsten-video-konvertierungstools-fur-windows-ihre-wahl-unter-den-besten-10-optionen/"><u>Die Effektivsten Video-Konvertierungstools Für Windows: Ihre Wahl Unter Den Besten 10 Optionen</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-your-cinematic-journey-with-the-ultimate-list-of-15-vr-film-apps-for-mobile-devices/"><u>Enhance Your Cinematic Journey with the Ultimate List of 15 VR Film Apps for Mobile Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-infinix-smart-8-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Infinix Smart 8 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone X</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-anonymized-messaging-services-the-leading-choices-for-private-communication/"><u>Top Anonymized Messaging Services: The Leading Choices for Private Communication</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-no-cost-ios-radio-application-best-choice-for-iphone-ipad-and-ipod-touch/"><u>Top No-Cost iOS Radio Application: Best Choice for iPhone, iPad & iPod Touch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-rectifying-frequent-crashes-of-the-finals-application-on-pc-systems/"><u>Ultimate Guide: Rectifying Frequent Crashes of 'The Finals' Application on PC Systems</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-easily-craft-engaging-videos-on-your-mac-with-our-guide/"><u>Updated In 2024, Easily Craft Engaging Videos on Your Mac with Our Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-streamline-your-browsing-eliminate-youtube-ads-in-chrome-firefox-ios/"><u>[New] In 2024, Streamline Your Browsing Eliminate YouTube Ads in Chrome, Firefox, iOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-selecting-the-prime-sky-vault-for-firms/"><u>[New] Selecting the Prime Sky Vault for Firms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-share-screen-on-google-meet/"><u>2024 Approved How to Share Screen on Google Meet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bokeh-magic-the-best-ios-and-android-apps-for-creative-blur-effects/"><u>Bokeh Magic The Best iOS and Android Apps for Creative Blur Effects</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-the-best-value-in-tablets-the-2020-lenovo-tab-m10s-lush-high-definition-view/"><u>Discovering the Best Value in Tablets: The 2020 Lenovo Tab M10's Lush High-Definition View</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-to-eliminating-the-icloud-security-code-without-using-your-apple-id/"><u>Guide to Eliminating the iCloud Security Code Without Using Your Apple ID</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Oppo Reno 10 Pro+ 5G?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/retrieve-deleted-items-from-your-icloud-a-comprehensive-guide-to-icloud-file-restoration/"><u>Retrieve Deleted Items From Your iCloud: A Comprehensive Guide to iCloud File Restoration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-your-ipad-from-an-icloud-backup-complete-instructions-including-non-reset-options/"><u>Reviving Your iPad From an iCloud Backup: Complete Instructions Including Non-Reset Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-iphone-photo-syncing-strategies-with-icloud-discover-these-4-effective-techniques/"><u>Seamless iPhone Photo Syncing Strategies with iCloud - Discover These 4 Effective Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/street-fighter-the-sixth-eliminating-pc-malfunctions-and-stability-issues-revamped/"><u>Street Fighter The Sixth: Eliminating PC Malfunctions & Stability Issues (Revamped)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resetting-your-linksys-router-official-credentials-for-july-202/"><u>Ultimate Guide: Resetting Your Linksys Router - Official Credentials for July 202</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-xiaomi-redmi-k70-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Redmi K70 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

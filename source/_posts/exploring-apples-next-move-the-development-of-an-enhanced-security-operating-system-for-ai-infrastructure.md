@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Next Move: The Development of an Enhanced Security Operating System for AI Infrastructure"
-date: 2024-12-14T01:54:25.623Z
-updated: 2024-12-16T00:17:58.216Z
+date: 2024-12-23T00:43:21.121Z
+updated: 2024-12-24T21:51:40.423Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-expertise-in-film-perfecting-the-art-of-chroma-key-for-2024/"><u>[New] Expertise in Film Perfecting the Art of Chroma Key for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-unlock-potential-expert-tips-for-youtube-video-trimming-for-2024/"><u>[Updated] Unlock Potential Expert Tips for YouTube Video Trimming for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerating-windows-printer-speedy-solutions/"><u>Accelerating Windows Printer: Speedy Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/accidentally-trashed-your-email-learn-how-to-restore-and-forward-with-ease-using-microsoft-outlook-pcmag/"><u>Accidentally Trashed Your Email? Learn How to Restore & Forward with Ease Using Microsoft Outlook - PCMag</u></a></li>
-<li><a href="https://fox-info.techidaily.com/advanced-techniques-in-aerial-cinematography/"><u>Advanced Techniques in Aerial Cinematography</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-itel-s23-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Itel S23.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/digital-privacy-essentials-how-anonymity-empowers-remote-teams-zdnet/"><u>Digital Privacy Essentials: How Anonymity Empowers Remote Teams | ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95783115-9781594778384-el-codigo-maya/"><u>El código maya | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-privacy-in-firefox-how-to-safeguard-stored-usernames-and-passwords-using-a-primary-key/"><u>Enhance Privacy in Firefox: How to Safeguard Stored Usernames and Passwords Using a Primary Key</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-chilly-response-of-corporations-to-the-sizzling-potential-of-5g-technology/"><u>Exploring the Chilly Response of Corporations to the Sizzling Potential of 5G Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/has-microsoft-retracted-its-promises-of-a-complimentary-windows-11-update-insights-from-zdnet/"><u>Has Microsoft Retracted Its Promises of a Complimentary Windows 11 Update? - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-aws-expert-guide-on-navigating-and-thriving-with-amazons-premier-cloud-platform-zdnet-perspectives/"><u>Mastering AWS: Expert Guide on Navigating and Thriving with Amazon's Premier Cloud Platform | ZDNet Perspectives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/no-internet-no-problem-onedrive-enables-offline-file-access-for-uninterrupted-work-zdnet/"><u>No Internet? No Problem! OneDrive Enables Offline File Access for Uninterrupted Work | ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/repair-guide-reviving-your-xbox-sx/"><u>Repair Guide: Reviving Your Xbox S/X</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/showcasing-elegance-and-performance-the-all-new-apple-iphone-12-mini-reviewed/"><u>Showcasing Elegance and Performance: The All-New Apple iPhone 12 Mini Reviewed</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-definitive-ranking-of-mini-pcs-tailored-for-the-modern-gamer/"><u>The Definitive Ranking of Mini PCs Tailored for the Modern Gamer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-hci-providers-of-2022-expert-analysis-by-zdnet/"><u>Top-Ranked HCI Providers of 2022 - Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-magic-behind-shooting-images-with-iphones-hdr-for-2024/"><u>Unveiling the Magic Behind Shooting Images with iPhone’s HDR for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-expert-review-of-superior-pandemic-vaccine-administration-platforms-for-healthcare-providers/"><u>ZDNet's Expert Review of Superior Pandemic Vaccine Administration Platforms for Healthcare Providers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-minimizing-motion-blur-with-obs-adjustments/"><u>[New] In 2024, Minimizing Motion Blur with OBS Adjustments</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-financial-rewards-top-priorities-for-open-source-professionals-seeking-new-opportunities/"><u>Beyond Financial Rewards: Top Priorities for Open-Source Professionals Seeking New Opportunities</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/diagnosing-power-issues-in-your-printer-expert-tips-from-yl-software-experts/"><u>Diagnosing Power Issues in Your Printer - Expert Tips From YL Software Experts</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-democracy-decisions-valid-banning-of-trump-short-term-strategy/"><u>Digital Democracy Decisions: Valid Banning of Trump, Short-Term Strategy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/live-streaming-made-easy-discover-the-power-of-manycam-your-ultimate-virtual-webcam-solution/"><u>Live Streaming Made Easy: Discover the Power of ManyCam - Your Ultimate Virtual Webcam Solution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-resolving-problems-with-epic-games-launcher-access/"><u>Step-by-Step Guide: Resolving Problems with Epic Games Launcher Access</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-professionals-drained-yet-hopeful-positive-trends-from-zdnet-analysis/"><u>Tech Professionals Drained Yet Hopeful: Positive Trends From ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-professional-screen-recorders-for-2nite-expert-analysis-from-zdnet/"><u>The Ultimate List of Professional Screen Recorders for 2Nite: Expert Analysis From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreezing-frozen-windows-run-logs/"><u>Unfreezing Frozen Windows Run Logs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-windows-essential-tips-for-upgrading-to-a-pro-edition-with-zdnets-expert-advice/"><u>Unlocking the Power of Windows: Essential Tips for Upgrading to a Pro Edition with ZDNet's Expert Advice</u></a></li>
+<li><a href="https://app-tips.techidaily.com/what-drives-open-source-talent-unveiling-the-essential-non-monetary-wants-in-their-job-quest-zdnet/"><u>What Drives Open-Source Talent? Unveiling the Essential Non-Monetary Wants in Their Job Quest | ZDNET</u></a></li>
 </ul></div>
 

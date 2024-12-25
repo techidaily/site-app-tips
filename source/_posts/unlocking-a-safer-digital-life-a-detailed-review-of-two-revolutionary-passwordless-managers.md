@@ -1,7 +1,7 @@
 ---
 title: "Unlocking a Safer Digital Life: A Detailed Review of Two Revolutionary Passwordless Managers"
-date: 2024-12-13T04:06:01.272Z
-updated: 2024-12-16T00:55:55.565Z
+date: 2024-12-18T18:55:43.511Z
+updated: 2024-12-24T21:43:27.187Z
 tags:
   - password-manager
 categories:
@@ -34,7 +34,7 @@ Should you ditch your master password completely? I took the plunge with both [D
 My conclusion: There's a passwordless password manager in your future, but only technically sophisticated customers should plunge in today.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting up a passwordless account
@@ -54,7 +54,7 @@ Screenshot by Ed Bott/ZDNET
 With those tasks out of the way, you can import your existing passwords and add new ones. More importantly, you now have a device that you can use to set up access to the password vault on other devices, with no master password required.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting up additional devices
@@ -98,7 +98,7 @@ The dealbreaker for me, though, came when I tried to export my passwords from th
 Given those beta headaches, I decided to delete my passwordless 1Password account and try again in a few months. But Dashlane was impressive enough to make me seriously consider switching.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the risk?
@@ -112,7 +112,7 @@ So, what happens if you can't access any of those trusted devices? You're locked
 Both Dashlane and 1Password offer an alternative in the form of a recovery key. That's a randomly generated alphanumeric code (Dashlane's key is 28 characters long; 1Password uses a 56- character recovery key) that you print out and store in a safe place. If you're ever in a situation where you don't have a PC or mobile device that's signed in to your account, you can break the glass and use that recovery key as a last resort. But you'll never need to type it under normal circumstances, meaning it's resistant to phishing, keyloggers, and other hacking tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should you switch to a passwordless account?
@@ -151,14 +151,24 @@ I was impressed enough by [Dashlane](https://www.tkqlhce.com/click-9041660-15578
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-tailored-solutions-for-high-quality-iptv-capture/"><u>[New] Tailored Solutions for High-Quality IPTV Capture</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-charting-success-top-15-investment-educational-videos/"><u>[Updated] Charting Success Top 15 Investment Educational Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-unlocking-secure-vaults-a-guide-to-activating-bitwardens-master-password-prompt-feature/"><u>1. Unlocking Secure Vaults: A Guide to Activating Bitwarden's Master Password Prompt Feature</u></a></li>
-<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-at-wwdc-2022-a-new-era-of-authentication-begins-tech-news/"><u>Apple Unveils Revolutionary Passkey at WWDC 2022 - A New Era of Authentication Begins | Tech News</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dall-e-3s-latest-update-enhanced-with-new-editing-features-awaiting-improvement/"><u>DALL-E 3'S Latest Update: Enhanced with New Editing Features Awaiting Improvement</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-security-while-watching-the-hidden-dangers-of-weak-passwords-in-streaming-platforms-cyberwatchers-blog/"><u>Enhance Security While Watching: The Hidden Dangers of Weak Passwords in Streaming Platforms | CyberWatchers Blog</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exclusive-offer-on-jem-authenticator-and-password-manager-enhance-login-security-with-ease-dive-into-zdnet/"><u>Exclusive Offer on JEM Authenticator & Password Manager: Enhance Login Security with Ease - Dive Into ZDNet!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-menace-black-ops-cold-war-pc-troubleshooting-guide/"><u>Fixing the Silent Menace: Black Ops Cold War PC Troubleshooting Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/user-confidentiality-in-ai-driven-interactions/"><u>User Confidentiality in AI-Driven Interactions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-enhance-your-clients-work-10plus-luts-freepaid-offerings/"><u>2024 Approved Enhance Your Clients' Work 10+ LUTs - FREE/Paid Offerings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieving-tangible-synergy-between-technology-innovations-and-business-strategy/"><u>Achieving Tangible Synergy Between Technology Innovations and Business Strategy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-skillsets-and-enhancing-security-through-cloud-native-solutions-on-emerging-platforms/"><u>Advancing Skillsets & Enhancing Security Through Cloud-Native Solutions on Emerging Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-3-updates-in-the-latest-version-of-linux-kernel-v69-technews/"><u>Best 3 Updates in the Latest Version of Linux Kernel v6.9 | TechNews</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/comparing-easy-flexible-recording-tools-for-mac-users-for-2024/"><u>Comparing Easy, Flexible Recording Tools for Mac Users for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/could-microsofts-new-innovation-drive-you-crazy-or-will-it-surprise-and-delight-insights-from-zdnet/"><u>Could Microsoft's New Innovation Drive You Crazy, or Will It Surprise and Delight? Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-the-ops-movement-in-corporate-tech-landscapes-amidst-emerging-challenges-insights-from-zdnet/"><u>Embracing the 'Ops' Movement in Corporate Tech Landscapes Amidst Emerging Challenges - Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-12-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 12? Learn All 4 Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-the-charge-how-enterprise-architects-are-driving-the-digital-transformation/"><u>Leading the Charge: How Enterprise Architects Are Driving the Digital Transformation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-self-cloning-craft-a-customized-ai-persona-for-enhanced-communication-learn-how-to-make-it-happen-today/"><u>Mastering Self-Cloning: Craft a Customized AI Persona for Enhanced Communication - Learn How to Make It Happen Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-windows-11-vm-setup-on-any-platform-step-by-step-instructions/"><u>Mastering Windows 11 VM Setup on Any Platform - Step-by-Step Instructions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-introduces-unified-teamwork-solution-combining-work-personality-and-learning-into-one-platform/"><u>Microsoft Introduces Unified Teamwork Solution: Combining Work, Personality, and Learning Into One Platform</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/precision-in-speech-an-early-step-toward-fluency/"><u>Precision in Speech: An Early Step Toward Fluency</u></a></li>
+<li><a href="https://review-topics.techidaily.com/step-by-step-troubleshooting-for-a-broken-mic-on-your-oculus-quest/"><u>Step-by-Step Troubleshooting for a Broken Mic on Your Oculus Quest Ⅱ</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-audio-in-your-pcs-zoom-app/"><u>Troubleshooting Guide: How to Restore Audio in Your PC's Zoom App</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/unveiling-vimeo-subscription-perks-for-every-user-type/"><u>Unveiling Vimeo Subscription Perks for Every User Type</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/web-wonders-weekly-review-for-2024/"><u>Web Wonders Weekly Review for 2024</u></a></li>
 </ul></div>
 

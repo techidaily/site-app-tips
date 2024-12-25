@@ -1,7 +1,7 @@
 ---
 title: Arista Expands Into Mid-Range Sector with Advanced Cognitive Network Solutions
-date: 2024-12-12T00:47:04.215Z
-updated: 2024-12-15T21:18:18.002Z
+date: 2024-12-21T22:06:36.930Z
+updated: 2024-12-24T18:04:09.537Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-best-webcams-for-podcast-for-2024/"><u>[New] Best Webcams for Podcast for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-speedy-to-steady-on-iphone-a-compreomed-guide-for-slowed-down-visuals/"><u>[New] From Speedy to Steady on iPhone A Compreomed Guide for Slowed-Down Visuals</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-final-say-on-ricohs-theta-s-vision-system/"><u>[New] The Final Say on Ricoh's Theta S Vision System</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-key-approaches-to-mute-motion-capture/"><u>[Updated] Key Approaches to Mute Motion Capture</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advancing-developer-productivity-and-endurance-with-github-copilot-a-zdnet-insight/"><u>Advancing Developer Productivity & Endurance with GitHub Copilot - A ZDNet Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-tech-squads-amplifying-their-role-in-enhancing-customer-journey-insights-from-zdnet/"><u>Empowering Tech Squads: Amplifying Their Role in Enhancing Customer Journey – Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-evolution-of-developer-roles-insights-from-atlassians-agnes-ro-featured-in-zdnet/"><u>Exploring the Evolution of Developer Roles: Insights From Atlassian’s Agnes Ro – Featured in ZDNet</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gfxui-win-error-resolved-effortless-user-experience/"><u>GFXUI Win Error Resolved: Effortless User Experience</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Honor 70 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-11-pro-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 11 Pro without Password?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-synergistic-campaigns-brands-and-youtube-hand-in-hand/"><u>In 2024, Synergistic Campaigns Brands & YouTube Hand in Hand</u></a></li>
-<li><a href="https://app-tips.techidaily.com/is-the-free-windows-10-update-still-available-detailed-insights-from-zdnet/"><u>Is the Free Windows 10 Update Still Available? Detailed Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-cloud-native-futures-unveiling-skillsets-and-enhanced-security-in-emerging-platforms-insights-from-zdnet/"><u>Navigating Cloud-Native Futures: Unveiling Skillsets & Enhanced Security in Emerging Platforms - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-ops-integration-and-its-complexities-within-enterprise-it-environments-as-analyzed-by-zdnet/"><u>Navigating Ops Integration and Its Complexities Within Enterprise IT Environments, as Analyzed by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-your-path-in-technology-insights-from-industry-leaders-at-global-aerospace-giant/"><u>Navigating Your Path in Technology: Insights From Industry Leaders at Global Aerospace Giant</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transferring-iphone-pictures-seamlessly-onto-a-windows-machine-complete-tutorial/"><u>Transferring iPhone Pictures Seamlessly Onto a Windows Machine - Complete Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-artificer-adobes-revolutionary-ai-tool-for-enhancing-business-teams-explained-by-zdnet/"><u>Unleashing the Power of Artificer: Adobe's Revolutionary AI Tool for Enhancing Business Teams, Explained by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upgrade-your-productivity-connect-dual-monitors-to-your-new-m3-macbook-pro-tips-and-insights/"><u>Upgrade Your Productivity: Connect Dual Monitors to Your New M3 MacBook Pro - Tips and Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-1-minute-to-fade-to-black-in-premiere-pro/"><u>[New] 1 Minute To Fade To Black In Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-a-successful-online-business-with-youtube-studio-for-2024/"><u>[New] Crafting a Successful Online Business with Youtube Studio for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/c-span-content-for-the-bold-freewatcher/"><u>C-Span Content for the Bold Freewatcher</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-water-features-best-practices-for-reflections/"><u>IPhone Water Features Best Practices for Reflections</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stable-gameplay-fix-apex-legends-connectivity-troubles/"><u>Mastering Stable Gameplay: Fix Apex Legends Connectivity Troubles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainty-overcoming-ai-challenges-with-inaccurate-results-insights-from-zdnet/"><u>Navigating the Uncertainty: Overcoming AI Challenges with Inaccurate Results - Insights From ZDNet</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-pro-grade-video-stabilization-in-fcpx-a-step-by-step-guide-for-2024/"><u>New Pro-Grade Video Stabilization in FCPX A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-barriers-for-significant-profit-with-artificeinvestment-an-essential-guide-for-entrepreneurs-zdnet/"><u>Overcoming Barriers for Significant Profit with Artificeinvestment: An Essential Guide for Entrepreneurs | ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-oppo-reno-10-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Reno 10 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-artificial-intelligence-success-the-critical-role-of-data-integration-strategies-and-insights-zdnet/"><u>Unlocking Artificial Intelligence Success: The Critical Role of Data Integration - Strategies & Insights | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-trustworthy-ai-watermarking-strategies-with-expert-advice-on-zdnet/"><u>Unveiling Trustworthy AI Watermarking Strategies with Expert Advice on ZDNet</u></a></li>
 </ul></div>
 

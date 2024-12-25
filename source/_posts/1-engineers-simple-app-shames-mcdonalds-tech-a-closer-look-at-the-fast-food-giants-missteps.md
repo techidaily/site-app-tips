@@ -1,7 +1,7 @@
 ---
 title: "1. Engineer’s Simple App Shames McDonald's Tech: A Closer Look at the Fast-Food Giant's Missteps"
-date: 2024-11-28T00:57:01.057Z
-updated: 2024-12-02T00:22:50.829Z
+date: 2024-12-21T04:10:35.975Z
+updated: 2024-12-25T02:17:17.104Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,14 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-zoom-into-action-capturing-your-desktop-ezvide-style-for-2024/"><u>[Updated] Zoom Into Action Capturing Your Desktop, EZvide Style for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/devops-engineer-career-navigating-the-pros-cons-and-challenges-insights-from-zdnet/"><u>DevOps Engineer Career: Navigating the Pros, Cons, and Challenges – Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/five-alternatives-to-explore-as-microsofts-support-for-windows-10-concludes-insights-from-zdnet/"><u>Five Alternatives to Explore as Microsoft's Support for Windows 10 Concludes - Insights From ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-magic-6-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor Magic 6 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-logitechs-high-performance-g29-driving-force-racing-wheel-on-your-pc-driver-support-for-win7-8-and-10/"><u>Install Logitech's High-Performance G29 Driving Force Racing Wheel on Your PC - Driver Support for Win7, 8 & 10</u></a></li>
-<li><a href="https://app-tips.techidaily.com/interference-reduction/"><u>Interference Reduction</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mend-device-detection-issue-on-windows-vista/"><u>Mend Device Detection Issue on Windows Vista</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-compelling-benefits-of-adopting-aiops-insights-from-zdnet/"><u>Top 7 Compelling Benefits of Adopting AIOps: Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-and-resolving-the-propsysdll-not-found-dilemma-in-microsoft-operating-systems/"><u>Understanding and Resolving the PropSys.dll Not Found Dilemma in Microsoft Operating Systems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/dvanced-google-slides-techniques-adding-youtube-media/"><u>[New] Advanced Google Slides Techniques Adding YouTube Media</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ise-above-the-noise-must-have-video-seo-tools-for-2024/"><u>[New] Rise Above the Noise – Must-Have Video SEO Tools for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-your-guide-to-gaining-from-google-a-stepwise-strategy-for-tracking-youtube-income-for-2024/"><u>[Updated] Your Guide to Gaining From Google A Stepwise Strategy for Tracking YouTube Income for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-premium-and-gratis-mobile-video-mosaic-tools-for-android/"><u>2024 Approved Top 8 Premium & Gratis Mobile Video Mosaic Tools for Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-efficiency-with-these-expert-slack-hacks-maximize-workflow-and-collaboration-on-teams/"><u>Boost Your Efficiency with These Expert Slack Hacks: Maximize Workflow & Collaboration on Teams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-security-flaw-found-in-popular-linux-tool-curl-fixes-deployed-by-developers/"><u>Critical Security Flaw Found in Popular Linux Tool Curl - Fixes Deployed by Developers</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-choice-premium-logitech-mice/"><u>Gamers’ Choice: Premium Logitech Mice</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-tutorial-features-and-usage/"><u>Guide, Tutorial, Features, and Usage.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-do-firms-grapple-with-harnessing-generative-ai-insights-from-a-new-deloitte-study-highlights-challenges-featured-on-zdnet/"><u>How Do Firms Grapple with Harnessing Generative AI: Insights From a New Deloitte Study Highlights Challenges - Featured on ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-m34-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy M34 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-professionalizing-your-youtube-income-with-universal-tech-tips/"><u>In 2024, Professionalizing Your YouTube Income with Universal Tech Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/openstack-and-kata-container-renaissance-exploring-their-renewed-appeal-on-the-tech-scene-analysis-by-zdnet/"><u>OpenStack and Kata Container Renaissance: Exploring Their Renewed Appeal on the Tech Scene - Analysis by ZDNET</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oppo-reno-10-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Oppo Reno 10 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10s-end-of-life-approaches-discover-these-5-alternatives-you-should-consider/"><u>Windows 10'S End-of-Life Approaches: Discover These 5 Alternatives You Should Consider</u></a></li>
+<li><a href="https://solve-help.techidaily.com/winx-dvd-dvdhd/"><u>WinX DVDコピーサポートセンター: 最新フリーDVDコピーアプリとHD動画変換ツール</u></a></li>
 </ul></div>
 

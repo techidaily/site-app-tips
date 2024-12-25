@@ -1,7 +1,7 @@
 ---
 title: "Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet"
-date: 2024-12-14T22:44:42.904Z
-updated: 2024-12-16T00:59:42.353Z
+date: 2024-12-21T21:35:47.078Z
+updated: 2024-12-24T20:51:25.250Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Suppose you are in the business of generating passwords, it would probably be a 
 In a [blog post](https://donjon.ledger.com/kaspersky-password-manager/) to cap off an almost two year saga, Ledger Donjon head of security research Jean-Baptiste Bédrune showed KPM was doing just that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,7 +66,7 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -92,24 +92,17 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-comedy-classics-a-curated-15-channel-collection-for-humor/"><u>[New] 2024 Approved Comedy Classics A Curated 15-Channel Collection for Humor</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/picurean-elites-top-food-vloggers-you-cant-miss/"><u>[New] Epicurean Elites Top Food Vloggers You Can't Miss</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hero5-black-vs-yis-new-tech-action-cam-showdown-update/"><u>[New] Hero5 Black Vs. Yi's New Tech Action Cam Showdown Update</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-your-guide-to-premium-metaverse-goggles-and-headsets-for-2024/"><u>[New] Your Guide to Premium Metaverse Goggles & Headsets for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-echoes-of-entertainment-adding-sound-to-snapchat-vids/"><u>[Updated] 2024 Approved Echoes of Entertainment Adding Sound to Snapchat Vids</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-inaudible-audio-assemblers-6-low-profile-recorders-for-smartphones/"><u>[Updated] Inaudible Audio Assemblers 6 Low-Profile Recorders for Smartphones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-fresh-perspective-on-sony-blu-ray-s6500-features/"><u>2024 Approved A Fresh Perspective on Sony Blu-Ray S6500 Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-icloud-backup-essentials/"><u>Comprehensive Guide: Understanding iCloud Backup Essentials</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-setup-tutorial-using-icloud-on-windows-with-the-icloud-control-panel-app/"><u>Easy Setup Tutorial: Using iCloud on Windows with the iCloud Control Panel App</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-steps-for-reinstating-your-data-from-icloud-backup-without-a-hardware-reset/"><u>Easy Steps for Reinstating Your Data From iCloud Backup without a Hardware Reset</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-guide-to-browse-icloud-pictures-on-the-web/"><u>Effortless Guide to Browse iCloud Pictures on the Web</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-8-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 8 without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-log-out-from-your-icloud-account-safely-top-3-methods-for-iphone-ipad-and-mac-users/"><u>How To Log Out From Your iCloud Account Safely: Top 3 Methods for iPhone, iPad & Mac Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/peakrecorder-a-comprehensive-screen-capture-analysis-for-2024/"><u>PeakRecorder A Comprehensive Screen Capture Analysis for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-integrating-your-icloud-calendar-on-a-windows-desktop/"><u>Step-by-Step Guide: Integrating Your iCloud Calendar on a Windows Desktop</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-securely-syncing-your-ipad-pro-mini-and-air-with-icloud-backups/"><u>Step-by-Step Guide: Securely Syncing Your iPad Pro, Mini & Air with iCloud Backups</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620264574-struggling-with-a-forgotten-icloud-login-discover-these-6-effective-remedies/"><u>Struggling with a Forgotten iCloud Login? Discover These 6 Effective Remedies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-steps-for-removing-your-icloud-email-address-top-strategies-inside/"><u>Ultimate Guide: Steps for Removing Your iCloud Email Address - Top Strategies Inside</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209675527-9781452176741-witch-please/"><u>Witch, Please | Free Book</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-becoming-an-seo-success-story-the-ultimate-guide-to-facebook-optimization-for-2024/"><u>[New] Becoming an SEO Success Story The Ultimate Guide to Facebook Optimization for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-illuminated-imagery-standing-out-in-the-visual-field/"><u>[New] In 2024, Illuminated Imagery Standing Out in the Visual Field</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-master-money-making-the-top-13-reddit-strategies-no-experience/"><u>[New] Master Money Making The Top 13 Reddit Strategies (No Experience)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-breakthrough-ai-creative-workstation/"><u>[Updated] Breakthrough AI Creative Workstation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/agnes-ro-reveals-the-transformation-in-modern-development-roles-at-atlassian-insights-from-tech-visionary/"><u>Agnes Ro Reveals the Transformation in Modern Development Roles at Atlassian - Insights From Tech Visionary</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-deadline-approaching-for-microsofts-windows-11-issues-only-a-year-remains-to-fix-them/"><u>Critical Deadline Approaching for Microsoft's Windows 11 Issues – Only a Year Remains to Fix Them!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/easy-beginners-guide-to-incorporating-captions-into-your-premiere-projects/"><u>Easy Beginners' Guide to Incorporating Captions Into Your Premiere Projects</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-new-frontiers-in-coding-efficiency-the-impact-of-github-copilot-as-revealed-by-zdnet/"><u>Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-kickstart-cinematic-craft-install-xp-movie-maker/"><u>In 2024, Kickstart Cinematic Craft Install XP Movie Maker</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-features-and-performance-analysis-of-the-lian-li-hydroshift-360s-gaming-chassis/"><u>Innovative Features and Performance Analysis of the Lian Li HydroShift 360S Gaming Chassis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-skills-with-courseras-new-levelset-exams-insights-from-zdnet/"><u>Mastering Skills with Coursera's New LevelSet Exams: Insights From ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncover-top-8-spots-to-find-free-3d-text-psdfiles-for-2024/"><u>Uncover Top 8 Spots to Find Free 3D Text PSDFiles for 2024</u></a></li>
 </ul></div>
 

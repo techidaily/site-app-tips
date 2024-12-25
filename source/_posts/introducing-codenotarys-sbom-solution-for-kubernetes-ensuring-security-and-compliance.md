@@ -1,7 +1,7 @@
 ---
 title: Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance
-date: 2024-12-14T19:28:30.612Z
-updated: 2024-12-16T06:02:49.780Z
+date: 2024-12-17T16:42:12.994Z
+updated: 2024-12-24T18:27:25.310Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-discovering-the-many-forms-of-windows-movie-maker/"><u>[New] 2024 Approved Discovering the Many Forms of Windows Movie Maker</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-flawless-coexistence-of-linktree-and-tiktok-biographies-for-2024/"><u>[Updated] Flawless Coexistence of Linktree and TikTok Biographies for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024bilibilipciphone/"><u>2024年投稿先行解除方法：bilibiliで見られない時のPC、iPhone、スマホ対処法！ビリビリ動画を閲覧・ダウンロード</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-takes-center-stage-the-transformation-of-low-codeno-code-tools-in-modern-tech-strategies-insights-from-zdnet/"><u>AI Takes Center Stage: The Transformation of Low-Code/No-Code Tools in Modern Tech Strategies - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-rote-learning-how-ai-is-revolutionizing-software-development-with-advanced-intelligence-insights-from-zdnet/"><u>Beyond Rote Learning: How AI Is Revolutionizing Software Development with Advanced Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://article-helps.techidaily.com/digitizing-memories-from-stillness-to-movement-for-2024/"><u>Digitizing Memories From Stillness to Movement for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/emerging-leadership-in-the-age-of-generative-ai-how-new-software-roles-are-shaping-the-future-tech-insight/"><u>Emerging Leadership in the Age of Generative AI: How New Software Roles Are Shaping the Future | Tech Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-partnerships-the-role-of-artificial-intelligence-in-merging-developer-expertise-with-business-strategy-zdnet-analysis/"><u>Empowering Partnerships: The Role of Artificial Intelligence in Merging Developer Expertise with Business Strategy - ZDNet Analysis</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-getting-past-the-resident-evil-village-not-loading-error/"><u>Expert Tips for Getting Past the 'Resident Evil Village Not Loading' Error</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/how-to-add-music-or-voiceover-to-instagram-reels/"><u>How to Add Music or Voiceover to Instagram Reels?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-numeric-precision-the-art-of-editing-tiktok-counts/"><u>In 2024, Numeric Precision The Art of Editing TikTok Counts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/prioritize-manager-training-before-deploying-artificial-intelligence-insights-from-zdnet/"><u>Prioritize Manager Training Before Deploying Artificial Intelligence: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-cashless-how-non-monetary-transactions-are-set-to-soar-past-16t-driven-by-asian-markets-zdnet-insights/"><u>The Future Is Cashless: How Non-Monetary Transactions Are Set to Soar Past $1.6T, Driven by Asian Markets | ZDNET Insights</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unlock-additional-instagram-filters-a-step-by-step-guide-for-2024/"><u>Unlock Additional Instagram Filters A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-record-teams-video-meeting-on-desktop-and-mobile/"><u>[New] 2024 Approved How to Record Teams Video Meeting on Desktop and Mobile</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-3-examined-the-ion-airs-game-changing-video-innovation/"><u>[New] Pro 3 Examined The ION Air's Game-Changing Video Innovation</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-accessing-your-favorite-pins-top-5-no-fee-download-tools/"><u>[Updated] Accessing Your Favorite Pins Top 5 No-Fee Download Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unveiling-top-8-excellent-free-online-srt-translators-for-efficiency/"><u>[Updated] Unveiling Top 8 Excellent Free Online SRT Translators for Efficiency</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-full-ps4-capture-tutorial-using-obs/"><u>2024 Approved Full PS4 Capture Tutorial Using OBS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/choosing-the-ideal-search-engine-indexing-strategy-a-guide-tailored-for-you/"><u>Choosing the Ideal Search Engine Indexing Strategy: A Guide Tailored for You</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-adobe-premiere-rush-evaluation-advantages-disadvantages-and-viable-substitutes/"><u>Comprehensive Adobe Premiere Rush Evaluation: Advantages, Disadvantages & Viable Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-funimate-tips-and-tricks-for-professional-video-editing-and-animation/"><u>Comprehensive Guide to Using Funimate: Tips and Tricks for Professional Video Editing and Animation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortlessly-resolve-freezes-discover-5-steps-to-force-quit-unresponsive-programs-on-your-mac/"><u>Effortlessly Resolve Freezes: Discover 5 Steps to Force Quit Unresponsive Programs on Your Mac</u></a></li>
+<li><a href="https://fox-http.techidaily.com/exploring-metaverse-versus-omniverse-landscapes/"><u>Exploring Metaverse Versus Omniverse Landscapes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-get-your-phone-numbers-back-the-best-iphone-apps-reviewed/"><u>How to Get Your Phone Numbers Back: The Best iPhone Apps Reviewed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-infinix-hot-40i-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Infinix Hot 40i Phones? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-correct-inactive-user-profiles-on-fb/"><u>In 2024, Correct Inactive User Profiles on FB</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-voice-translation-english-to-bangla-online-and-offline-apps/"><u>New In 2024, Voice Translation English to Bangla Online and Offline Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-communication-across-devices-magicapps-cross-platform-calls-and-texting/"><u>Seamless Communication Across Devices: MagicApp's Cross-Platform Calls and Texting</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-disconnecting-from-facebooks-chat-app/"><u>Step-by-Step Guide: Disconnecting From Facebook's Chat App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-top-10-photo-organizing-tools-compatible-with-pcs-and-mac-computers/"><u>The Ultimate List of Top 10 Photo Organizing Tools Compatible with PCs & Mac Computers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/tricks-to-enhance-your-ppt-impact-on-google-meet-any-device-for-2024/"><u>Tricks to Enhance Your PPT Impact on Google Meet, Any Device for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/what-is-bluestacks-a-complete-insight-into-this-popular-android-emulator/"><u>What Is BlueStacks? A Complete Insight Into This Popular Android Emulator</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet
-date: 2024-12-11T19:45:54.418Z
-updated: 2024-12-15T21:55:06.079Z
+date: 2024-12-23T16:45:22.949Z
+updated: 2024-12-25T03:05:33.221Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Crypto.com CEO Kris Marszalek responded to complaints from thousands of users about issues logging back into their accounts after the company was [forced](https://crypto.com/product-news/crypto-com-security-report-next-steps) to change security settings following [a hack last week](https://www.zdnet.com/article/fortune-favours-the-breached-crypto-com-admits-400-users-hit-in-hack/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Crypto.com CEO Kris Marszalek responded to complaints from thousands of users ab
 [![cybersecurity-lock-resized.jpg](https://www.zdnet.com/a/img/resize/5871b5ae5b589728bdc8064555d12823acf4b63e/2020/10/27/db3c0325-2b86-435b-8efa-93828deb6b56/cybersecurity-lock-resized.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best cyber insurance The cyber insurance industry is likely to go mainstream and is a simple cost of doing business. Here are a few options to consider.  Read now](https://www.zdnet.com/article/best-cyber-insurance/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On Monday, the company [admitted](https://www.zdnet.com/article/crypto-com-confirms-483-users-hit-in-attack-that-saw-over-31m-in-coins-withdrawn/) that 483 users were affected by unauthorized cryptocurrency withdrawals on their accounts, costing a total of "4,836.26 ETH, 443.93 BTC, and approximately US$66,200 in other cryptocurrencies." At the time of the attack, that amounted to about $31 million. 
@@ -80,17 +80,17 @@ Crypto.com created a program designed to refund users who were affected by the h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-browser-capture-tools-top-picks/"><u>[Updated] 2024 Approved Best Browser Capture Tools Top Picks</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-turning-insta-vids-into-songs-for-2024/"><u>[Updated] The Ultimate Guide to Turning Insta Vids Into Songs for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-understanding-the-technology-behind-vr-goggles/"><u>[Updated] Understanding the Technology Behind VR Goggles</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/cutting-edge-screens-the-7-top-choices-pixel-artists/"><u>Cutting-Edge Screens The 7 Top Choices Pixel Artists</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-security-transform-your-digital-life-using-the-awarded-30-password-manager-by-zdnet-for-ultimate-protection/"><u>Effortless Security: Transform Your Digital Life Using the Awarded $30 Password Manager by ZDNET for Ultimate Protection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-password-manager-security-expert-tips-and-techniques-zdnet/"><u>Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-tips-for-using-switch-pro-controller-with-steam-for-2024/"><u>Essential Tips for Using Switch Pro Controller with Steam for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-leading-talents-top-instagram-hlv-constructors/"><u>In 2024, Leading Talents Top Instagram HLV Constructors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-user-memory-lapses-with-biometric-authentication-insights-from-zdnet/"><u>Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protect-your-data-avoid-these-common-mistakes-in-cloud-security-that-attract-cyber-thieves-zdnet/"><u>Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-in-home-connectivity-apple-improves-content-sharing-with-airplay-for-homes-and-beyond-zdnet/"><u>Revolutionizing In-Home Connectivity: Apple Improves Content Sharing with AirPlay for Homes and Beyond | ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/top-8-red-flags-before-resetting-windows/"><u>Top 8 Red Flags Before Resetting Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-lighting-setup-tips-to-make-great-videos/"><u>[New] 2024 Approved Lighting Setup Tips to Make Great Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ultimate-list-of-win-11-hd-webcam-recording-kits/"><u>[New] 2024 Approved Ultimate List of Win 11 HD Webcam Recording Kits</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-verifying-online-self-portraits-on-insta/"><u>[New] In 2024, Verifying Online Self-Portraits on Insta</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-synchronizing-tweeted-videos-on-social-media-hub-fb-for-2024/"><u>[Updated] Synchronizing Tweeted Videos on Social Media Hub FB for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-m54-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Samsung Galaxy M54 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-future-with-linus-insights-on-artificebotics-rust-programming-and-why-linux-is-crucial-zdnet/"><u>Exploring the Future with Linus: Insights on Artificebotics, Rust Programming, and Why Linux Is Crucial | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-design-thinking-bridges-the-gap-between-tech-professionals-and-enhanced-customer-experiences-insights-from-zdnet/"><u>How Design Thinking Bridges the Gap Between Tech Professionals and Enhanced Customer Experiences - Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/phantom-screening-available-now-in-newly-launched-blu-ray-edition/"><u>Phantom Screening Available Now in Newly Launched Blu-Ray Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-mastering-quantum-hdr-for-2024/"><u>Step by Step Guide to Mastering Quantum HDR for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transitioning-from-windows-home-to-pro-tips-advantages-and-how-to-digital-insight-hub/"><u>Transitioning From Windows Home to Pro - Tips, Advantages & How-To | Digital Insight Hub</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-building-your-ideal-windows-11-vm-tutorial/"><u>Ultimate Guide: Building Your Ideal Windows 11 VM [Tutorial]</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-avs-video-editor-2023-review-does-it-live-up-to-the-hype/"><u>Updated 2024 Approved AVS Video Editor 2023 Review Does It Live Up to the Hype?</u></a></li>
 </ul></div>
 

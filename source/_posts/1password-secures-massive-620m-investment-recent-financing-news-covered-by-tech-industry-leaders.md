@@ -1,7 +1,7 @@
 ---
 title: 1Password Secures Massive $620M Investment - Recent Financing News Covered by Tech Industry Leaders
-date: 2024-12-14T01:21:35.223Z
-updated: 2024-12-15T21:40:30.136Z
+date: 2024-12-20T18:20:33.927Z
+updated: 2024-12-24T20:53:35.907Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Password manager 1Password said it closed its latest funding round on Wednesday, raising $620 million and boosting its valuation to $6.8 billion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Password manager 1Password said it closed its latest funding round on Wednesday,
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Series C funding round included the participation of ICONIQ Growth, Tiger Global, Lightspeed Venture Partners, Backbone Angels, and Accel, which led the Canadian company's series A and B rounds. 
@@ -83,18 +83,21 @@ Will Griffith, a founding partner at ICONIQ Growth, said more than one hundred C
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unleashing-the-best-video-footage-with-gopro/"><u>[New] 2024 Approved Unleashing the Best Video Footage with GoPro</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-instagram-virtuosos-playbook-for-widespread-popularity-for-2024/"><u>[New] The Instagram Virtuoso's Playbook for Widespread Popularity for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-8-best-free-video-editing-software-for-youtube/"><u>[Updated] 2024 Approved 8 Best Free Video Editing Software for YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-harmonizing-background-sounds-with-film-trailers/"><u>[Updated] 2024 Approved Harmonizing Background Sounds with Film Trailers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-mastery-guide-swiftly-switching-facebook-profile-pictures-for-2024/"><u>[Updated] Mastery Guide Swiftly Switching Facebook Profile Pictures for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-2024-guide-top-5-best-offline-and-online-ai-powered-video-stabilization-tools/"><u>Best 2024 Guide: Top 5 Best Offline & Online AI-Powered Video Stabilization Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/cant-open-the-credential-manager-on-windows-try-these-fixes/"><u>Can’t Open the Credential Manager on Windows? Try These Fixes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/hugging-face-community-advanced-text-to-video-transformation-techniques/"><u>Hugging Face Community: Advanced Text-to-Video Transformation Techniques</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-future-of-online-gaming-earnings/"><u>In 2024, Future of Online Gaming Earnings</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-x-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone X without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-stable-diffusion-ai-exploring-the-capabilities-of-a-cutting-edge-image-synthesis-tool/"><u>In-Depth Analysis of Stable Diffusion AI - Exploring the Capabilities of a Cutting-Edge Image Synthesis Tool</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/introduction-to-digiarty-software-inc-winxdvd-corporate-information-and-insights/"><u>Introduction to Digiarty Software, Inc. (WinXDVD): Corporate Information and Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-leading-video-transcription-apps-for-flawless-text-output/"><u>Ultimate Selection of Leading Video Transcription Apps for Flawless Text Output</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pro-video-production-mastering-the-coordination-between-windows-photos-and-storyremix/"><u>[New] Pro Video Production Mastering the Coordination Between Windows, Photos, and StoryRemix</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-room-arrangement-for-immersive-vr-experience/"><u>[Updated] Room Arrangement for Immersive VR Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-saving-instagrams-a-step-by-step-approach-for-windowsmacos-users/"><u>[Updated] Saving Instagrams A Step-by-Step Approach for Windows/macOS Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-avi-mjpeg/"><u>立即下載 Movavi AVI 到 MJPEG 自由轉換工具 - 線上無限制</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-privacy-with-easy-steps-to-protect-your-whatsapp-accounts-on-smartphones/"><u>Enhance Privacy with Easy Steps to Protect Your WhatsApp Accounts on Smartphones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellence-in-penmanship-8-screenplay-classics-for-2024/"><u>Excellence in Penmanship 8 Screenplay Classics for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-enable-and-use-whatsapp-securely-with-alternative-identifiers-instead-of-your-phone-number/"><u>How to Enable and Use WhatsApp Securely with Alternative Identifiers Instead of Your Phone Number</u></a></li>
+<li><a href="https://games-able.techidaily.com/international-gaming-exploration-via-region-change/"><u>International Gaming Exploration via Region Change</u></a></li>
+<li><a href="https://app-tips.techidaily.com/irrevocable-deletion-of-whatsapp-on-iphones-a-comprehensive-tutorial/"><u>Irrevocable Deletion of WhatsApp on iPhones: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-within.techidaily.com/perform-a-system-restore-or-reset/"><u>Perform a System Restore or Reset:</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preserve-your-whatsapp-images-flawlessly-top-3-methods-for-saving-photos-across-ios-and-android-without-quality-compromise/"><u>Preserve Your WhatsApp Images Flawlessly: Top 3 Methods for Saving Photos Across iOS & Android Without Quality Compromise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-mastery-a-path-through-preferences/"><u>System Mastery: A Path Through Preferences</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-for-enabling-and-performing-a-whatsapp-backup-to-icloud/"><u>The Ultimate Tutorial for Enabling and Performing a WhatsApp Backup to iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-high-quality-whatsapp-video-converter-tools-you-need/"><u>Top 5 High-Quality WhatsApp Video Converter Tools You Need</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-strategies-sending-oversized-videos-with-ease-from-an-iphone-using-whatsapp/"><u>Top Strategies: Sending Oversized Videos with Ease From an iPhone Using WhatsApp</u></a></li>
+<li><a href="https://win-great.techidaily.com/unveiling-the-beginnings-how-did-the-chinese-civilization-emerge-a-deep-dive-with-yl-software/"><u>Unveiling the Beginnings: How Did the Chinese Civilization Emerge? - A Deep Dive with YL Software</u></a></li>
 </ul></div>
 

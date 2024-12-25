@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity Titans Unite! ZeroFox Acquires IDX, Aligning with L&F for an Impressive $1.4 Billion Powerhouse Revealed by ZDNet
-date: 2024-12-14T22:38:14.249Z
-updated: 2024-12-16T00:34:36.258Z
+date: 2024-12-22T20:07:33.773Z
+updated: 2024-12-24T23:55:04.630Z
 tags:
   - password-manager
 categories:
@@ -18,7 +18,7 @@ The company will be renamed ZeroFox Holdings once the deal goes through and will
 Monarch Alternative Capital LP and several other firms are also investing $170 million in the deal to merge the companies. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -87,18 +87,19 @@ Adam Gerchen, CEO of LNFA and a new ZeroFox board member, noted that the company
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elite-picks-advanced-webcam-stands/"><u>[Updated] 2024 Approved Elite Picks Advanced Webcam Stands</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-netflix-archive-the-complete-guide-to-screencapturing-your-views/"><u>[Updated] Netflix Archive The Complete Guide to ScreenCapturing Your Views</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-depicting-facial-dynamics-blur-effects-in-picsart/"><u>2024 Approved Depicting Facial Dynamics Blur Effects in Picsart</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-how-to-add-featured-channels-on-youtube-an-ultimate-guide/"><u>2024 Approved How to Add Featured Channels on YouTube An Ultimate Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-efficiency-with-these-expert-slack-hacks-maximize-workflow-and-collaboration-on-teams/"><u>Boost Your Efficiency with These Expert Slack Hacks: Maximize Workflow & Collaboration on Teams</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bust-the-specter-fingers-plaguing-your-iphone-screen-try-these-10-fixes-now/"><u>Bust the Specter Fingers Plaguing Your iPhone Screen? Try These 10 Fixes Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/choosing-the-right-hosting-platform-github-or-gitlab-a-comparative-guide-by-zdnet/"><u>Choosing the Right Hosting Platform: GitHub or GitLab? - A Comparative Guide by ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/enhance-your-business-with-the-latest-update-of-abbyy-flexicapture-cloud/"><u>Enhance Your Business with the Latest Update of ABBYY FlexiCapture Cloud</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-itel-p55t-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Itel P55T Quickly | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/video-embedding-for-dynamic-online-articles/"><u>Free Video Embedding for Dynamic Online Articles</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-phantom-v-foldfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Phantom V FoldFRP Lock</u></a></li>
-<li><a href="https://app-tips.techidaily.com/openstack-and-kata-container-renaissance-exploring-their-renewed-appeal-on-the-tech-scene-analysis-by-zdnet/"><u>OpenStack and Kata Container Renaissance: Exploring Their Renewed Appeal on the Tech Scene - Analysis by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-10s-end-of-life-approaches-discover-these-5-alternatives-you-should-consider/"><u>Windows 10'S End-of-Life Approaches: Discover These 5 Alternatives You Should Consider</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-enhancing-engagement-on-video-calls-using-snap-features/"><u>[New] 2024 Approved Enhancing Engagement on Video Calls Using Snap Features</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-dynamic-duo-of-images-on-ig/"><u>[New] Dynamic Duo of Images on IG</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-enhance-your-yt-summary-top-notch-template-guides/"><u>[New] In 2024, Enhance Your YT Summary Top-Notch Template Guides</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-iconic-nintendo-switch-fighting-game-series-max-156/"><u>[New] In 2024, Iconic Nintendo Switch Fighting Game Series (Max 156)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ransform-your-videos-on-demand-freedom-through-editing-android-edition-for-2024/"><u>[New] Transform Your Videos on Demand Freedom Through Editing, Android Edition for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-elite-list-of-best-videocall-services-without-cost/"><u>[Updated] In 2024, Elite List of Best Videocall Services Without Cost</u></a></li>
+<li><a href="https://app-tips.techidaily.com/implications-of-embracing-decentralization-and-web3-technologies-for-businesses-an-in-depth-analysis-by-zdnet/"><u>Implications of Embracing Decentralization & Web3 Technologies for Businesses - An In-Depth Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/increased-patent-safeguards-for-linux-systems-oin-exclusivity-intensifies-skirts-ai-coverage-zdnet/"><u>INCREASED PATENT SAFEGUARDS FOR LINUX SYSTEMS: OIN EXCLUSIVITY INTENSIFIES, SKIRTS AI COVERAGE - ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-the-decade-journey-of-revolutionizing-cloud-computing-past-achievements-and-future-trends-zdnet/"><u>Kubernetes: The Decade Journey of Revolutionizing Cloud Computing - Past Achievements and Future Trends | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-design-thinking-for-deeper-connections-empowering-tech-experts-to-improve-customer-journeys-zdnet-perspectives/"><u>Leveraging Design Thinking for Deeper Connections: Empowering Tech Experts to Improve Customer Journeys | ZDNET Perspectives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-uploading-images-from-iphone-to-windows-pc/"><u>Step-by-Step Guide: Uploading Images From iPhone to Windows PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-tecno-spark-10-pro-by-drfone-android/"><u>Three Ways to Sim Unlock Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-review-and-breakdown-of-emporia-energy-smart-charger-for-electric-vehicles-powerful-features-at-competitive-pricing/"><u>ZDNet Exclusive: Review & Breakdown of Emporia Energy Smart Charger for Electric Vehicles - Powerful Features at Competitive Pricing</u></a></li>
 </ul></div>
 

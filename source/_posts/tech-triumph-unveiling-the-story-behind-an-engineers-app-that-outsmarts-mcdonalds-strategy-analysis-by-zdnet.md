@@ -1,7 +1,7 @@
 ---
 title: "Tech Triumph: Unveiling the Story Behind an Engineer’s App That Outsmarts McDonald's Strategy | Analysis by ZDNet"
-date: 2024-11-28T16:26:19.968Z
-updated: 2024-12-01T17:47:02.515Z
+date: 2024-12-21T22:44:19.695Z
+updated: 2024-12-24T19:52:55.717Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-from-pc-to-smartphone-the-essential-guide-to-hulu-recording-for-2024/"><u>[New] From PC to Smartphone The Essential Guide to Hulu Recording for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-success-in-software-development-with-agile-techniques-discover-6-key-principles-zdnet/"><u>Boosting Success in Software Development with Agile Techniques: Discover 6 Key Principles | ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/bringing-imagery-elements-into-harmony-for-2024/"><u>Bringing Imagery Elements Into Harmony for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/continuous-innovation-in-the-era-of-ai-its-vow-towards-constant-modernization-insights-from-zdnet/"><u>Continuous Innovation in the Era of AI: IT's Vow Towards Constant Modernization - Insights From ZDNet</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/essential-adobe-premiere-keyboard-shortcuts-to-boost-productivity-for-2024/"><u>Essential Adobe Premiere Keyboard Shortcuts to Boost Productivity for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-ai-rust-language-with-linus-torvalds-why-the-linux-core-reigns-supreme-tech-insights/"><u>Exploring AI, Rust Language with Linus Torvalds: Why the Linux Core Reigns Supreme | Tech Insights</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-phone-without-google-account-by-drfone-android/"><u>How to Unlock Itel A70 Phone without Google Account?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-will-office-users-transition-from-2016-and-2019-to-microsoft-365-without-disruption-insights-for-the-next-12-months-zdnet/"><u>How Will Office Users Transition From 2016 and 2019 to Microsoft 365 Without Disruption? Insights for the Next 12 Months | ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-honor-80-pro-straight-screen-edition-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Honor 80 Pro Straight Screen Edition to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-next-move-how-shortages-affect-ps5-pricing/"><u>Sony's Next Move: How Shortages Affect PS5 Pricing?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/swiss-federal-gov-makes-mandatory-move-towards-open-source-software-transparency-and-collaboration/"><u>Swiss Federal Gov Makes Mandatory Move Towards Open-Source Software Transparency and Collaboration.</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210934858-9781800651791-the-witch-of-the-woods/"><u>The Witch of The Woods | Free Book</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-quick-convert-facebook-videos-to-mp4-opting-for-hd-variants/"><u>[New] Quick-Convert Facebook Videos to MP4, Opting for HD Variants</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-boost-traffic-with-these-essential-hashtags-for-youtube-gamers/"><u>[Updated] In 2024, Boost Traffic with These Essential Hashtags for YouTube Gamers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-smooth-sync-add-youtube-soundtracks-to-imovie-easily/"><u>[Updated] Smooth Sync Add YouTube Soundtracks to iMovie Easily</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-top-ios-and-android-photo-blur-tools-for-2024/"><u>[Updated] Top iOS & Android Photo Blur Tools for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/5-essential-productivity-hacks-for-streamlining-your-day-to-day-tasks-insights-from-zdnet/"><u>5 Essential Productivity Hacks for Streamlining Your Day-to-Day Tasks: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/buy-ashamapoos-pro-3d-cad-software-version-11-at-a-steal-just-40-on-zdnet-today/"><u>Buy Ashamapoo's Pro 3D CAD Software Version 11 at a Steal: Just $40 on ZDNet Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-top-4-open-source-slack-substitutes-to-elevate-your-teams-communication-game-explore-the-options-on-zdnet/"><u>Discover Top 4 Open-Source Slack Substitutes to Elevate Your Team's Communication Game - Explore the Options on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-updates-to-libreoffice-for-mac-users-a-comprehensive-installation-tutorial-on-zdnet/"><u>Discover Updates to LibreOffice for Mac Users – A Comprehensive Installation Tutorial on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discovering-the-top-internet-browsers-of-today-a-comprehensive-ranking/"><u>Discovering the Top Internet Browsers of Today: A Comprehensive Ranking</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easily-change-ape-audio-to-m4a-online-at-no-cost-using-movavis-service/"><u>Easily Change APE Audio to M4A Online at No Cost - Using Movavi's Service</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-hp-pagewide-pro-477dw-drivers-for-windows-download-guide-for-win11-win10-and-win8/"><u>Essential HP PageWide Pro 477DW Drivers for Windows: Download Guide for Win11, Win10 & Win8</u></a></li>
+<li><a href="https://app-tips.techidaily.com/excel-mastery-how-to-craft-stunning-tables-for-data-presentation/"><u>Excel Mastery: How to Craft Stunning Tables for Data Presentation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exclusive-picks-for-optimal-web-hosting-solutions-authoritatively-reviewed-by-specialists-cnet/"><u>Exclusive Picks for Optimal Web Hosting Solutions , Authoritatively Reviewed by Specialists | CNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-winhttpdll-not-found-or-missing-errors/"><u>How to Fix Winhttp.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-minecraft-mojang-error-5-a-comprehensive-guide/"><u>How to Solve Minecraft Mojang Error 5: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-redmi-k70e-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Xiaomi Redmi K70E to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-the-importance-of-ai-integration-and-rust-language-in-evolving-the-linux-kernel-the-core-aspect-driving-tech-forward/"><u>Linus Torvalds Discusses the Importance of AI Integration and Rust Language in Evolving the Linux Kernel - The Core Aspect Driving Tech Forward</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-full-audio-capability-on-your-iphone-fixing-muffled-and-noisy-interference/"><u>Restore Full Audio Capability on Your iPhone: Fixing Muffled and Noisy Interference</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-update-needed-microsofts-crucial-challenge-with-windows-10-countdown-begins/"><u>Urgent Update Needed: Microsoft's Crucial Challenge with Windows 10 Countdown Begins!</u></a></li>
 </ul></div>
 

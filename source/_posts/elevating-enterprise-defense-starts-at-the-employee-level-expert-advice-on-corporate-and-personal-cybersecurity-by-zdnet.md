@@ -1,7 +1,7 @@
 ---
 title: Elevating Enterprise Defense Starts at the Employee Level – Expert Advice on Corporate and Personal Cybersecurity by ZDNet
-date: 2024-12-12T02:16:10.149Z
-updated: 2024-12-16T06:55:29.883Z
+date: 2024-12-20T03:31:10.809Z
+updated: 2024-12-24T20:37:49.422Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Corporations aren't doing enough to improve their employees' personal security practices. Credentials remain the highest targeted data type as they are the gateway to ransomware and data theft. 61% of data breaches in 2021 involved the use of stolen and misused credentials. Bad actors took advantage of a global pandemic to increase the number of phishing attacks, the cause of stolen credentials in 36% of breaches -- a 9% increase over last year -- according to the [Verizon 2021 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdfx). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,16 +66,21 @@ Given how connected we all are, the rising demands of working anywhere, and incr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-youtube-a-step-by-step-process-unveiled/"><u>[New] In 2024, From Raw Footage to YouTube A Step-by-Step Process Unveiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/detailed-insight-into-twistedwave-exploring-benefits-limitations-premier-qualities-and-usage-scenarios/"><u>Detailed Insight Into TwistedWave: Exploring Benefits, Limitations, Premier Qualities, and Usage Scenarios</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/download-your-favorite-izlesene-videos-as-high-quality-mp4-or-avi-files/"><u>Download Your Favorite Izlesene Videos as High-Quality MP4 or AVI Files</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-cooling-gadget-every-tech-enthusiast-requires-unlock-the-secret-to-a-chillier-laptop-with-brand-name/"><u>Essential Cooling Gadget Every Tech Enthusiast Requires: Unlock the Secret to a Chillier Laptop with [Brand Name]!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-dell-xps-13-9310-laptop-ultra-thin-design-meets-powerful-performance/"><u>Exploring the Dell XPS 13 (9310) Laptop: Ultra-Thin Design Meets Powerful Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/imovie-editor-guide-detailed-analysis-reviews-and-alternative-solutions-for-video-editing/"><u>IMovie Editor Guide: Detailed Analysis, Reviews & Alternative Solutions for Video Editing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-insights-on-the-bnsf-simulation-a-complete-examination/"><u>In-Depth Insights on the BNSF Simulation: A Complete Examination</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-poco-x5-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Poco X5</u></a></li>
-<li><a href="https://app-tips.techidaily.com/say-goodbye-to-nuisance-phonecalls-effective-strategies-for-call-blocking-on-ios-and-android-devices/"><u>Say Goodbye to Nuisance Phonecalls: Effective Strategies for Call-Blocking on iOS & Android Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/strategies-for-managing-gpu-fails-in-running-systems/"><u>Strategies for Managing GPU Fails in Running Systems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-shockingly-fast-crafting-a-google-image-collaboration/"><u>[Updated] 2024 Approved Shockingly Fast Crafting a Google Image Collaboration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-top-10-premium-android-and-pc-compatible-video-editors/"><u>[Updated] 2024 Approved Top 10 Premium Android & PC-Compatible Video Editors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-maze-of-multi-service-playlist-transfer/"><u>[Updated] Navigating the Maze of Multi-Service Playlist Transfer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/chatgpt-insight-report-extensive-feature-list-and-strategies-for-handling-server-issues/"><u>ChatGPT Insight Report - Extensive Feature List & Strategies for Handling Server Issues</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-how-to-upgrade-your-communication-with-the-best-10-ai-chatbot-solutions/"><u>Discover How to Upgrade Your Communication with the Best 10 AI Chatbot Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discovering-the-most-engaging-and-intelligent-gpt-chatbot-on-the-market/"><u>Discovering The Most Engaging and Intelligent GPT Chatbot on the Market</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-rectify-roblox-error-262/"><u>Guide to Rectify Roblox Error 262</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-crafting-professional-focus-mastering-teamblend-background-artistry/"><u>In 2024, Crafting Professional Focus Mastering Teamblend Background Artistry</u></a></li>
+<li><a href="https://app-tips.techidaily.com/insiders-guide-to-the-best-gpt-ai-chatbots-expert-analysis-and-review/"><u>Insider's Guide to the Best GPT AI Chatbots - Expert Analysis and Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-cable-modem-and-router-combinations-for-optimal-performance/"><u>Leading Cable Modem & Router Combinations for Optimal Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/side-hustle-success-with-ai-tools-beyond-chatgpt-professional-pc-building-strategies-and-collectible-retro-gaming-devices/"><u>Side Hustle Success with AI Tools Beyond ChatGPT, Professional PC Building Strategies & Collectible Retro Gaming Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamline-your-experience-quick-and-simple-guide-to-downloading-asus-monitor-drivers/"><u>Streamline Your Experience: Quick and Simple Guide to Downloading ASUS Monitor Drivers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-top-10-list-of-ai-powered-chatbots-for-enhanced-interaction/"><u>The Ultimate Top 10 List of AI-Powered Chatbots for Enhanced Interaction</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-reviews-of-gpt-based-chat-ais-what-you-need-to-discover/"><u>Top Reviews of GPT-Based Chat AIs: What You Need to Discover</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-of-ex-journeys-eva-ai-an-authoritative-chatbot-overview-you-need-to-read/"><u>Unlocking the Secrets of Ex Journey's EVA AI: An Authoritative Chatbot Overview You Need to Read</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/wav-to-ogg-conversion-ultimate-guide-for-offline-and-online-methods/"><u>WAV to Ogg Conversion: Ultimate Guide for Offline and Online Methods</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Biometrics as Users Struggle with Password Fatigue: Insights From ZDNet Analysis"
-date: 2024-12-08T18:33:44.775Z
-updated: 2024-12-15T22:36:40.421Z
+date: 2024-12-19T00:58:00.191Z
+updated: 2024-12-24T18:42:43.025Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,20 +99,14 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-quick-guide-saving-screen-share-dialogue-for-2024/"><u>[Updated] Quick Guide Saving Screen Share Dialogue for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-quickmemes-your-meme-toolkit-for-2024/"><u>[Updated] QuickMemes Your Meme Toolkit for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-guide-integrating-instagram-with-tiktok/"><u>2024 Approved Seamless Guide Integrating Instagram with TikTok</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-y78plus-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo Y78+?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-apple-clips-in-depth-analysis-and-tips/"><u>Comprehensive Guide to Using Apple Clips: In-Depth Analysis and Tips</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-filmoras-secrets-to-captivating-youtube-trailers/"><u>In 2024, Filmora's Secrets to Captivating YouTube Trailers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-c33-2023-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme C33 2023 Lock Screen Password?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-mastering-mp4-downloading-vimeo-videos-easily/"><u>In 2024, Mastering MP4 Downloading Vimeo Videos Easily</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-communication-avoid-missing-calls-amidst-noise-or-muting-with-advanced-flash-tech-for-up-to-10-contacts/"><u>Master Your Communication: Avoid Missing Calls Amidst Noise or Muting with Advanced Flash Tech for Up to 10 Contacts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-automated-photography-setting-timers-on-iphones-and-android-devices/"><u>Mastering the Art of Automated Photography: Setting Timers on iPhones & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-best-multiplayer-bluetooth-games-for-android-and-ios-devices/"><u>The Ultimate List of Best Multiplayer Bluetooth Games for Android & iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-11-audio-enhancement-applications-for-video-editing-on-mobile-devices-and-desktop-systems/"><u>Top 11 Audio Enhancement Applications for Video Editing on Mobile Devices and Desktop Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-6-must-have-android-contact-widget-apps-of-2024-a-comprehensive-guide/"><u>Top 6 Must-Have Android Contact Widget Apps of 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-diy-endeavors-with-advanced-ai-discover-whats-new-with-gpt-4/"><u>Transform Your DIY Endeavors with Advanced AI: Discover What's New with GPT-4</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-10-leading-music-organizers-for-all-your-platform-needs-windows-mac-iphone-and-android/"><u>Ultimate Selection of 10 Leading Music Organizers for All Your Platform Needs: Windows, Mac, iPhone & Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-circular-innovator-box/"><u>[New] Circular Innovator Box</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-4-online-tools-to-remove-ai-generated-logos-and-watermarks-from-your-video-content/"><u>Best Top 4 Online Tools to Remove AI-Generated Logos & Watermarks From Your Video Content</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-deeplucas-ai-powered-video-creation-tool-unveiling-key-attributes-and-benefits-vs-drawbacks/"><u>Comprehensive Analysis of DeepLucas' AI-Powered Video Creation Tool - Unveiling Key Attributes & Benefits vs Drawbacks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-top-5-ai-powered-video-creation-tools-based-on-images/"><u>Comprehensive Evaluation: Top 5 AI-Powered Video Creation Tools Based on Images</u></a></li>
+<li><a href="https://app-tips.techidaily.com/decoding-sora-by-openai-key-features-practical-applications-and-potential-restrictions/"><u>Decoding Sora by OpenAI: Key Features, Practical Applications, and Potential Restrictions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-play-40c-lock-screen-password-by-drfone-android/"><u>How To Change Honor Play 40C Lock Screen Password?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-install-your-complete-guide-to-vrecord-for-2024/"><u>How to Install Your Complete Guide to VRecord for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-picks-premium-and-economical-bdr-players-for-pcmac-for-2024/"><u>Top Picks Premium & Economical BDR Players for PC/Mac for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/polnyj-obzor-vedushih-seo-konsultantov-gamburga-germaniya-proverennaya-kvalifikaciya-i-innovacionnye-strategii/"><u>Полный Обзор Ведущих SEO-Консультантов Гамбурга, Германия: Проверенная Квалификация И Инновационные Стратегии!</u></a></li>
 </ul></div>
 

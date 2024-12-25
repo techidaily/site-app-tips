@@ -1,7 +1,7 @@
 ---
 title: Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report
-date: 2024-12-13T02:19:03.859Z
-updated: 2024-12-16T01:22:42.338Z
+date: 2024-12-21T04:51:21.129Z
+updated: 2024-12-24T17:30:08.475Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,16 +81,22 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-clear-water-footage-pro-techniques-for-gopro-underwater-scenes/"><u>[New] 2024 Approved Clear Water Footage Pro Techniques for GoPro Underwater Scenes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unveiling-top-2023-vr-engine-innovations/"><u>[New] In 2024, Unveiling Top 2023 VR Engine Innovations</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-visual-wit-workshop-make-memes-with-kapwing/"><u>[New] In 2024, Visual Wit Workshop Make Memes with Kapwing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-quick-and-easy-conducting-instagram-stories-polls-today/"><u>[New] Quick & Easy Conducting Instagram Stories Polls Today</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-best-in-class-iphone-and-android-video-enhancers-for-2024/"><u>[Updated] Best-In-Class iPhone and Android Video Enhancers for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cybersecurity-titans-unite-zerofox-acquires-idx-aligning-with-landf-for-an-impressive-14-billion-powerhouse-revealed-by-zdnet/"><u>Cybersecurity Titans Unite! ZeroFox Acquires IDX, Aligning with L&F for an Impressive $1.4 Billion Powerhouse Revealed by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-does-the-bitwarden-prompt-for-master-password-work-tips-to-turn-it-on-easily/"><u>How Does the Bitwarden Prompt for Master Password Work? Tips to Turn It On Easily!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrating-ai-smarts-into-your-androids-bing-use/"><u>Integrating AI Smarts Into Your Android's Bing Use</u></a></li>
-<li><a href="https://app-tips.techidaily.com/proton-launches-advanced-password-protector-ensuring-total-privacy-with-robust-end-to-end-cryptography-zdnet/"><u>Proton Launches Advanced Password Protector, Ensuring Total Privacy with Robust End-to-End Cryptography | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-password-security-tools-of-2024-professional-reviews-zdnet/"><u>Top-Ranked Password Security Tools of 2024: Professional Reviews | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-a-safer-digital-life-a-detailed-review-of-two-revolutionary-passwordless-managers/"><u>Unlocking a Safer Digital Life: A Detailed Review of Two Revolutionary Passwordless Managers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-bite-sized-urls-essential-tools-for-youtubers-to-streamline-sharing/"><u>[New] In 2024, Bite-Sized URLs Essential Tools for Youtubers to Streamline Sharing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-optimize-single-browsing-seamless-multiclip-engagement/"><u>[New] In 2024, Optimize Single Browsing Seamless Multiclip Engagement</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-thriving-in-live-streaming-mastery-through-onestream-use-for-2024/"><u>[New] Thriving in Live Streaming Mastery Through OneStream Use for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unraveling-the-best-free-srt-translators-your-essential-guidebook-for-2024/"><u>[New] Unraveling the Best Free SRT Translators Your Essential Guidebook for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/5-essential-productivity-hacks-for-streamlining-your-day-to-day-tasks-insights-from-zdnet/"><u>5 Essential Productivity Hacks for Streamlining Your Day-to-Day Tasks: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-revolutionary-challenger-emerges-a-unique-app-that-outshines-microsoft-teams-and-zoom-with-lip-reading-technology/"><u>A Revolutionary Challenger Emerges: A Unique App That Outshines Microsoft Teams & Zoom With Lip-Reading Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/buy-ashamapoos-pro-3d-cad-software-version-11-at-a-steal-just-40-on-zdnet-today/"><u>Buy Ashamapoo's Pro 3D CAD Software Version 11 at a Steal: Just $40 on ZDNet Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-switching-from-windows-to-linux-mint-easy-installation-steps/"><u>Complete Guide to Switching From Windows to Linux Mint - Easy Installation Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-top-4-open-source-slack-substitutes-to-elevate-your-teams-communication-game-explore-the-options-on-zdnet/"><u>Discover Top 4 Open-Source Slack Substitutes to Elevate Your Team's Communication Game - Explore the Options on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-updates-to-libreoffice-for-mac-users-a-comprehensive-installation-tutorial-on-zdnet/"><u>Discover Updates to LibreOffice for Mac Users – A Comprehensive Installation Tutorial on ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-classic-gaming-collection-with-retroarch-achievements-tutorial/"><u>Enhance Your Classic Gaming Collection with Retroarch Achievements Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-tech-experts-shape-the-future-of-non-tech-companies-insights-from-zdnet/"><u>How Tech Experts Shape the Future of Non-Tech Companies: Insights From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-13-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 13 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Samsung Galaxy Z Flip 5.</u></a></li>
+<li><a href="https://discover-great.techidaily.com/tirez-vous-le-diplome-avec-ces-3-convertisseurs-mp4-en-ligne-libres-et-faciles-dutilisation/"><u>Tirez-Vous Le Diplôme Avec Ces 3 Convertisseurs MP4 en Ligne Libres Et Faciles D'utilisation!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-darkness-the-ultimate-guide-to-understanding-bloodborne/"><u>Unveiling Darkness: The Ultimate Guide to Understanding Bloodborne</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-update-needed-microsofts-crucial-challenge-with-windows-10-countdown-begins/"><u>Urgent Update Needed: Microsoft's Crucial Challenge with Windows 10 Countdown Begins!</u></a></li>
 </ul></div>
 

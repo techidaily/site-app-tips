@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Turning On the Bitwarden Security Prompt for Your Master Key"
-date: 2024-12-09T00:32:40.367Z
-updated: 2024-12-15T22:47:29.202Z
+date: 2024-12-19T23:52:39.250Z
+updated: 2024-12-24T23:05:08.257Z
 tags:
   - password-manager
 categories:
@@ -63,7 +63,7 @@ Because the password re-prompt doesn't prevent copying the password, it's not a 
 With that said, how do you enable the password re-prompt? Let me show you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable the Bitwarden password re-prompt
@@ -71,7 +71,7 @@ With that said, how do you enable the password re-prompt? Let me show you.
 **What you'll need:** The only things you need for this are a working instance of Bitwarded, either on a desktop or mobile device. The process also works on the web-based version. I'll demonstrate this on the desktop app, but the process is the same on all platforms.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Bitwarden and unlock your vault
@@ -79,7 +79,7 @@ With that said, how do you enable the password re-prompt? Let me show you.
 The first thing to do is open the Bitwarden app and unlock your vault.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open a vault item for editing
@@ -91,7 +91,7 @@ The edit button is the pencil directly to the right of the + button.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable the password re-prompt
@@ -109,7 +109,7 @@ Now, any time you want to view that password, you'll be prompted to type your Bi
 Keep going and add the re-prompt feature to any/all vault entries you believe need the extra layer of security. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A couple of extra steps
@@ -149,16 +149,19 @@ This may not stop unwanted users from copying and pasting your passwords, but it
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-excellence-in-video-selecting-peak-frame-rates-for-slow-motion-effects/"><u>[Updated] Excellence in Video Selecting Peak Frame Rates for Slow-Motion Effects</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-ice-chase-top-moments-captured-s-olympic-snowboard-race-events/"><u>[Updated] Ice Chase Top Moments Captured 'S Olympic Snowboard Race Events</u></a></li>
-<li><a href="https://app-tips.techidaily.com/7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-productivity-utilizing-gmails-tools-to-filter-messages-and-expand-contact-list-efficiently/"><u>Boost Productivity: Utilizing Gmail's Tools to Filter Messages & Expand Contact List Efficiently</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-20-most-exceptional-lock-screen-utilities-tailored-for-android-smartphones/"><u>Discover the 20 Most Exceptional Lock Screen Utilities Tailored for Android Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-photography-skills-discover-5-remarkable-tools-for-upgrading-and-perfecting-images-beyond-remini/"><u>Elevate Your Photography Skills: Discover 5 Remarkable Tools for Upgrading and Perfecting Images Beyond Remini</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/enhancing-your-ig-presence-the-ultimate-tool-list/"><u>Enhancing Your IG Presence The Ultimate Tool List</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-discover-creative-ways-to-enhance-your-fb-video-ads/"><u>In 2024, Discover Creative Ways to Enhance Your FB Video Ads</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mumu-player-the-ultimate-powerful-android-emulation-tool-for-your-computer/"><u>MuMu Player: The Ultimate Powerful Android Emulation Tool for Your Computer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193647-unlock-ultimate-convenience-and-safety-on-ios-discover-the-premier-password-protector-app/"><u>Unlock Ultimate Convenience & Safety on iOS - Discover the Premier Password Protector App!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-verdict-on-hitman-3s-epic-endgame/"><u>Unveiling the Verdict on Hitman 3'S Epic Endgame</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-achieving-clear-communication-on-skype/"><u>2024 Approved Achieving Clear Communication on Skype</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-gopros-hero5-up-against-yis-high-res-adventures/"><u>2024 Approved GoPro's Hero5 Up Against Yi's High-Res Adventures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-impactful-power-of-customer-testimonials-on-sales/"><u>2024 Approved The Impactful Power of Customer Testimonials on Sales</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-closer-look-at-dall-es-version-3-editing-capabilities-introduced-still-under-development/"><u>A Closer Look at DALL-E's Version 3: Editing Capabilities Introduced, Still Under Development</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmenting-virtual-teams-interaction-via-gpt-chat/"><u>Augmenting Virtual Teams' Interaction via GPT-Chat</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-steps-to-safely-update-or-fresh-install-itunes-without-data-loss/"><u>Complete Guide: Steps to Safely Update or Fresh Install iTunes without Data Loss</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-senuti-app-evaluation-and-top-alternatives-for-both-windows-and-macos-users/"><u>Comprehensive Guide: Senuti App Evaluation & Top Alternatives for Both Windows & macOS Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-activating-an-itunes-gift-card-for-apples-ios-and-macos-platforms/"><u>Guide: Activating An iTunes Gift Card For Apple's iOS & macOS Platforms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-7-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 7 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/need-help-resetting-your-itunes-login-details-explore-proven-strategies-for-recovery/"><u>Need Help Resetting Your iTunes Login Details? Explore Proven Strategies for Recovery</u></a></li>
+<li><a href="https://app-tips.techidaily.com/recover-your-missed-texts-and-voicemails-tips-for-retrieving-accidentally-erased-data-on-itunes/"><u>Recover Your Missed Texts and Voicemails: Tips for Retrieving Accidentally Erased Data on iTunes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-5-must-have-click-tracking-tools-for-regular-android-devices/"><u>Top Picks: 5 Must-Have Click Tracking Tools for Regular Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-steps-to-take-if-itunes-fails-to-identify-your-iphone/"><u>Troubleshooting: Steps to Take if iTunes Fails to Identify Your iPhone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-get-started-with-vn-video-editor-on-mac-or-find-suitable-replacements/"><u>Updated 2024 Approved Get Started with VN Video Editor on Mac or Find Suitable Replacements</u></a></li>
 </ul></div>
 

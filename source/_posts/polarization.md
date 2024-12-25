@@ -1,7 +1,7 @@
 ---
 title: Polarization
-date: 2024-11-27T04:32:25.125Z
-updated: 2024-12-02T03:00:59.551Z
+date: 2024-12-19T19:37:08.481Z
+updated: 2024-12-25T01:18:06.081Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-expert-tactics-optimizing-freefire-video-content/"><u>[New] 2024 Approved Expert Tactics Optimizing FreeFire Video Content</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-decoding-the-mystery-of-where-are-my-youtube-comments-for-2024/"><u>[New] Decoding the Mystery of Where Are My YouTube Comments for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-elevating-your-filmmaking-skills-on-the-windows-10-platform-for-2024/"><u>[Updated] Elevating Your Filmmaking Skills on the Windows 10 Platform for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-emotional-awareness-mastering-eq-with-chatgpt/"><u>Boosting Emotional Awareness: Mastering EQ with ChatGPT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boss-loses-cool-over-team-communication-mishaps-on-microsoft-teams/"><u>Boss Loses Cool Over Team Communication Mishaps on Microsoft Teams</u></a></li>
-<li><a href="https://app-tips.techidaily.com/collaborative-development-of-advanced-llms-by-sony-and-ai-singapore-announced-tech-news/"><u>Collaborative Development of Advanced LLMs by Sony & AI Singapore Announced | Tech News</u></a></li>
-<li><a href="https://app-tips.techidaily.com/continued-access-office-20162019-to-retain-full-functionality-with-upcoming-microsoft-365-backend-enhancements-zdnet/"><u>Continued Access : Office 2016/2019 to Retain Full Functionality with Upcoming Microsoft 365 Backend Enhancements | ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficiently-capturing-twitch-broadcasts-the-5-best-downloader-apps/"><u>Efficiently Capturing Twitch Broadcasts: The 5 Best Downloader Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-a-massive-ddos-strike-crippled-microsofts-office-365-services-insights-for-it-security-experts/"><u>How a Massive DDoS Strike Crippled Microsoft's Office 365 Services – Insights for IT Security Experts</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-motorola-moto-g24-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Motorola Moto G24 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-the-digital-transformation-how-enterprise-architects-drive-innovation-zdnet/"><u>Leading the Digital Transformation: How Enterprise Architects Drive Innovation | ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95918160-9781683255611-los-misterios-de-la-masoneria-historia-jerarquia-simbologia-secretos-masones-ilustres/"><u>Los misterios de la masonería. Historia, jerarquía, simbología, secretos, masones ilustres | Free Book</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-15-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 15 Plus Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/sonys-ai-research-unit-collaborates-with-ai-singapore-on-advanced-language-models-technews/"><u>Sony's AI Research Unit Collaborates with AI Singapore on Advanced Language Models - TechNews</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ey-to-connecting-your-youtube-channel-with-a-facebook-page/"><u>The Key to Connecting Your YouTube Channel with a Facebook Page</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-the-lip-reader-how-this-innovative-app-poses-a-threat-to-giants-like-microsoft-teams-and-zoom-zdnet-insight/"><u>The Rise of the Lip-Reader: How This Innovative App Poses a Threat to Giants Like Microsoft Teams and Zoom | ZDNet Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-linux-distributions-ideal-for-developers-a-comprehensive-guide-by-techradar/"><u>Top 5 Linux Distributions Ideal for Developers: A Comprehensive Guide by TechRadar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-frame-by-frame-building-a-filmmaking-foundation-on-youtube/"><u>[Updated] 2024 Approved Frame by Frame Building a Filmmaking Foundation on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-aiff-to-m4a-for-free-easy-step-by-step-guide-with-movavis-web-tool/"><u>Convert AIFF to M4A for Free - Easy Step-by-Step Guide with Movavi's Web Tool</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-patch-update-to-log4j-library-available-with-apache-2170-release-cybersecurity-breakthrough-on-zdnet/"><u>Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/defend-your-online-privacy-with-our-exclusive-offer-exceptional-vpn-and-password-management-services-for-a-limited-time-just-30-learn-how-on-zdnet/"><u>Defend Your Online Privacy with Our Exclusive Offer: Exceptional VPN and Password Management Services for a Limited Time, Just $30! Learn How on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-security-transform-your-digital-life-using-the-awarded-30-password-manager-by-zdnet-for-ultimate-protection/"><u>Effortless Security: Transform Your Digital Life Using the Awarded $30 Password Manager by ZDNET for Ultimate Protection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-password-manager-security-expert-tips-and-techniques-zdnet/"><u>Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]</u></a></li>
+<li><a href="https://solve-help.techidaily.com/license-approval-pending-why-the-confirmation-email-is-missing/"><u>License Approval Pending: Why the Confirmation Email Is Missing?</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastery-of-identity-shift-on-social-networks-via-photo-change/"><u>Mastery of Identity Shift on Social Networks via Photo Change</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-to-download-your-favorite-youtube-playlists-as-mp3-files/"><u>Simple Steps to Download Your Favorite YouTube Playlists as MP3 Files</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/what-is-blue-video-icon-on-facebook-messenger/"><u>What Is Blue Video Icon on Facebook Messenger?</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-v30-lite-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo V30 Lite 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

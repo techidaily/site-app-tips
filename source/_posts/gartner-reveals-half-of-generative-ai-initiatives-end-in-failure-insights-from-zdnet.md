@@ -1,7 +1,7 @@
 ---
 title: Gartner Reveals Half of Generative AI Initiatives End in Failure - Insights From ZDNet
-date: 2024-12-07T22:01:49.597Z
-updated: 2024-12-10T04:04:24.006Z
+date: 2024-12-19T18:19:42.626Z
+updated: 2024-12-25T00:21:39.038Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-youtubers-playbook-achieving-content-stardom/"><u>[Updated] In 2024, The YouTuber's Playbook Achieving Content Stardom</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-the-elite-compilation-9-online-mic-recorders-ranked/"><u>2024 Approved The Elite Compilation 9 Online Mic Recorders Ranked</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-steam-remote-play-up-and-running-again-top-tips-and-fixes/"><u>How To Get Steam Remote Play Up and Running Again - Top Tips & Fixes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/identifying-the-leading-internet-browser-insights-from-zdnet/"><u>Identifying the Leading Internet Browser: Insights From ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-12-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus 12 to Protect Your Individual Information</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-stop-unsolicited-youtube-suggestion-rollouts/"><u>In 2024, Stop Unsolicited YouTube Suggestion Rollouts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/office-chaos-when-displeasure-over-communication-app-etiquette-spirals-out-of-control-insights-from-zdnet/"><u>Office Chaos: When Displeasure Over Communication App Etiquette Spirals Out of Control - Insights From ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/social-media-writing-tips-boosting-quality-with-ai-assisted-tools-like-chatgpt/"><u>Social Media Writing Tips: Boosting Quality with AI-Assisted Tools Like ChatGPT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/startup-celona-selected-by-verizon-business-for-exclusive-private-5g-implementation/"><u>Startup Celona Selected by Verizon Business for Exclusive Private 5G Implementation</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/stream-like-a-pro-setting-up-your-dslr-on-personal-computers/"><u>Stream Like a Pro Setting Up Your DSLR on Personal Computers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-5-alternatives-to-ensure-continued-security/"><u>Windows 10 End of Life Approaching: Discover Your 5 Alternatives to Ensure Continued Security</u></a></li>
-<li><a href="https://article-tips.techidaily.com/zenith-project-hub-analysis-for-2024/"><u>Zenith Project Hub Analysis for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-screen-recorder-showdown-experts-take-on-popular-tools/"><u>[New] 2024 Approved The Screen Recorder Showdown Experts' Take on Popular Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterful-motivational-webcast-maker/"><u>[New] Masterful Motivational Webcast Maker</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ballot-battlegrounds-prime-election-strategy-games/"><u>2024 Approved Ballot Battlegrounds Prime Election Strategy Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-mastering-ios-the-secrets-of-screen-casts/"><u>2024 Approved Mastering iOS The Secrets of Screen Casts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-renewal-of-photo-viewing-capabilities-in-windows-10-guide/"><u>2024 Approved Renewal of Photo Viewing Capabilities in Windows 10 - Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-communication-enhancing-rocketchat-functionality-through-app-add-ons/"><u>Boost Your Communication: Enhancing Rocket.Chat Functionality Through App Add-Ons</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-c33-2023-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from C33 2023</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-unexpected-fluid-inside-iphone-charging-jack-solutions-and-tips/"><u>How to Resolve Unexpected Fluid Inside iPhone Charging Jack - Solutions & Tips!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-microsoft-working-on-windows-12-insider-tips-and-unforeseen-projections-digitalchronicle/"><u>Is Microsoft Working on Windows 12? Insider Tips and Unforeseen Projections | DigitalChronicle</u></a></li>
+<li><a href="https://app-tips.techidaily.com/square-and-cash-app-downtime-essential-info-for-entrepreneurs-tech-news/"><u>Square and Cash App Downtime: Essential Info for Entrepreneurs | Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-switching-from-windows-to-linux-mint-on-your-computer-tips-and-tricks/"><u>Step-by-Step Guide: Switching From Windows to Linux Mint on Your Computer - Tips & Tricks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-the-tangled-web-of-linuxopen-source-documentation-solutions-for-clarity/"><u>Taming the Tangled Web of Linux/Open Source Documentation: Solutions for Clarity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-now-how-cloud-services-are-evolving-according-to-industrys-premier-technology-visionaries/"><u>The Future Is Now: How Cloud Services Are Evolving According to Industry's Premier Technology Visionaries</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-secure-enterprise-deployments-with-canonicals-distroless-linux-solutions-cybertechdaily/"><u>The Future of Secure Enterprise Deployments with Canonical's Distroless Linux Solutions | CyberTechDaily</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/time-capsule-converting-single-photographs-to-video/"><u>Time Capsule Converting Single Photographs to Video</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tips-for-managing-files-without-renaming-directories-on-windows-11/"><u>Top Tips for Managing Files without Renaming Directories on Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-a-world-of-visual-conversations-with-lipsync-a-game-changing-rival-to-microsoft-teams-and-zoom-on-zdnet/"><u>Unlock a World of Visual Conversations with LipSync: A Game-Changing Rival to Microsoft Teams and Zoom on ZDNet</u></a></li>
 </ul></div>
 

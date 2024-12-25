@@ -1,7 +1,7 @@
 ---
 title: "Sony's AI Initiative Collaborates with AI Singapore on Next-Gen Language Models: Unveiling the Partnership"
-date: 2024-11-26T13:19:55.331Z
-updated: 2024-12-02T03:12:10.494Z
+date: 2024-12-20T02:01:04.762Z
+updated: 2024-12-24T23:21:14.782Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-expert-methods-for-capturing-and-streaming-sports-gems/"><u>[New] In 2024, Expert Methods for Capturing and Streaming Sports Gems</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-switch-to-the-future-capture-cards-guide-for-2024/"><u>[New] Switch to the Future Capture Cards Guide for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-decoding-luts-the-secret-behind-enhanced-photography/"><u>[Updated] Decoding LUTs The Secret Behind Enhanced Photography</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acer-dell-hp-and-lenovo-introduce-new-1099-pcs-with-snapdragon-x-and-windows-copilotplus-long-lasting-battery-included/"><u>Acer, Dell, HP & Lenovo Introduce New $1,099 PCs with Snapdragon X and Windows Copilot+ - Long-Lasting Battery Included</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-chatbot-bias-revealed-by-stanford-research-the-overlooked-issue-of-language-limitation/"><u>AI Chatbot Bias Revealed by Stanford Research: The Overlooked Issue of Language Limitation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-you-master-artificial-intelligence-without-technical-expertise-understanding-the-need-for-varied-education-in-complex-systems-zdnet/"><u>Can You Master Artificial Intelligence Without Technical Expertise? Understanding the Need for Varied Education in Complex Systems | ZDNET</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversion-de-fichiers-tiff-au-format-bmp-directement-dans-votre-navigateur-sans-frais-movavi/"><u>Conversion De Fichiers TIFF Au Format BMP Directement Dans Votre Navigateur, Sans Frais - Movavi</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-clash-between-ai-progress-and-agile-methods-insights-from-recent-research-zdnet/"><u>Exploring the Clash Between AI Progress & Agile Methods: Insights From Recent Research - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/half-of-all-biz-marketers-now-leverage-ai-tools-insights-from-zdnet/"><u>Half of All Biz Marketers Now Leverage AI Tools: Insights From ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-quickly-install-the-latest-scansnap-ix5n-wireless-printer-driver-for-windows-pcs/"><u>How to Quickly Install the Latest ScanSnap iX5n Wireless Printer Driver for Windows PCs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ibm-survey-highlights-growing-skepticism-among-corporate-heads-towards-it-discover-the-factors-zdnet/"><u>IBM Survey Highlights Growing Skepticism Among Corporate Heads Towards IT - Discover the Factors | ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-photo-magic-weaving-text-into-your-imagery-journey/"><u>In 2024, Photo Magic Weaving Text Into Your Imagery Journey</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-robust-ai-watermarks-expert-strategies-revealed-by-zdnet/"><u>Mastering Robust AI Watermarks: Expert Strategies Revealed by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-dive-into-the-business-before-coding-zdnet-insights/"><u>Mastering Tech Team Leadership: Dive Into the Business Before Coding | ZDNet Insights</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/professional-screenshot-and-recorder-win10-edition-for-2024/"><u>Professional Screenshot & Recorder, Win10 Edition for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-itel-p55plus-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Itel P55+ Location | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-stop-dragon-age-origins-from-crashing-on-windows-11/"><u>Troubleshooting Guide: Stop Dragon Age: Origins From Crashing on Windows 11!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-unbreakable-ai-watermarks-the-ultimate-guide-zdnet/"><u>Unlocking Unbreakable AI Watermarks: The Ultimate Guide | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-top-managers-doubt-it-efficacy-unveiling-findings-of-an-in-depth-ibm-analysis-read-more-at-zdnet/"><u>Why Top Managers Doubt IT Efficacy – Unveiling Findings of an In-Depth IBM Analysis | Read More at ZDNet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elite-selection-best-budget-friendly-video-call-software/"><u>[New] Elite Selection Best Budget-Friendly Video Call Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-capital-compilation-your-first-podcast-edition/"><u>Complete Capital Compilation Your First Podcast Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-availability-where-can-i-find-ultrawide-televisions/"><u>Discovering Availability: Where Can I Find Ultrawide Televisions?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/download-xvid-hd-full-resolution-movies-step-by-step-guide-2017-edition/"><u>Download Xvid HD Full-Resolution Movies - Step by Step Guide, 2017 Edition</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dynamic-otter-transcription-in-teams-mode-a-comprehensive-guide-for-enhanced-virtual-collaboration/"><u>Dynamic Otter Transcription in Teams Mode: A Comprehensive Guide for Enhanced Virtual Collaboration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-vivaldis-new-inbuilt-email-feature-a-stunningly-excellent-addition/"><u>Experience Vivaldi's New Inbuilt Email Feature: A Stunningly Excellent Addition</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-enhancements-in-red-hats-newest-enterprise-linux-release-solutions-for-managing-hybrid-cloud-challenges/"><u>Exploring the Enhancements in Red Hat's Newest Enterprise Linux Release: Solutions for Managing Hybrid Cloud Challenges</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-qualcomm-atheros-wireless-network-adapter-driver-issue-for-windows-10/"><u>Fix Qualcomm Atheros Wireless Network Adapter Driver Issue for Windows 10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-reno-10-pro-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo Reno 10 Pro 5G FRP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/skyrocket-productivity-by-thinking-as-a-dev-tips-and-strategies-from-tech-experts-zdnet/"><u>Skyrocket Productivity by Thinking as a Dev: Tips and Strategies From Tech Experts | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/sonys-research-division-partners-with-ai-singapore-to-enhance-large-language-model-development/"><u>Sony's Research Division Partners with AI Singapore to Enhance Large Language Model Development</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/staying-online-uninterrupted-anywhere/"><u>Staying Online Uninterrupted, Anywhere</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-elevating-your-pc-from-windows-home-to-professional-version/"><u>Step-by-Step Guide: Elevating Your PC From Windows Home to Professional Version</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-global-tech-leaders-choose-open-source-for-breakthrough-innovations-zdnet/"><u>Why Global Tech Leaders Choose Open Source for Breakthrough Innovations | ZDNet</u></a></li>
 </ul></div>
 

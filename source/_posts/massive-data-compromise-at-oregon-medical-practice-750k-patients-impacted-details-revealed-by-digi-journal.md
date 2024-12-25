@@ -1,7 +1,7 @@
 ---
 title: "Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal"
-date: 2024-12-12T00:32:17.776Z
-updated: 2024-12-16T05:51:18.700Z
+date: 2024-12-17T19:10:02.234Z
+updated: 2024-12-24T22:25:17.905Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/0a9719ddcbae5c52ddb9477f8674bda6f7443fbaa
 The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it suffered a ransomware attack in July that led to the breach of sensitive employee and patient information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it
 [![2020-03-18-at-12-23-32-pm.jpg](https://www.zdnet.com/a/img/resize/3c34ebf72342b1f0704550e1e2edf445f0628572/2020/03/18/7c2e2258-7566-4e66-9059-a1a8aedf00b4/2020-03-18-at-12-23-32-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best security key While robust passwords help you secure your valuable online accounts, hardware-based two-factor authentication takes that security to the next level.  Read now](https://www.zdnet.com/article/best-security-key/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The breach involves the information of 750,000 patients and 522 current and former OAG employees. 
@@ -90,20 +90,16 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-freelancers-guide-to-affordable-animation-methods/"><u>[New] In 2024, The Freelancer's Guide to Affordable Animation Methods</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-drawing-characters-with-snaps/"><u>[Updated] In 2024, The Ultimate Guide to Drawing Characters with Snaps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-optimal-viewing-experience-for-facebook-video-playback-for-2024/"><u>[Updated] Optimal Viewing Experience for Facebook Video Playback for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-transformative-editing-mastering-blend-mode-applications/"><u>[Updated] Transformative Editing Mastering Blend Mode Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-full-simplemdm-essential-insights-for-ios-and-macos-users/"><u>Comprehensive Evaluation: Full SimpleMDM - Essential Insights for iOS and macOS Users</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-strategies-for-moving-music-files-to-your-samsung-galaxy-note-2/"><u>Effective Strategies for Moving Music Files to Your Samsung Galaxy Note 2</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-phantoms-reverse-video-capabilities/"><u>In 2024, Navigating Phantom's Reverse Video Capabilities</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-compre-point-guide-to-instagrams-inquiry-tool/"><u>In 2024, The Compre Point Guide to Instagram's Inquiry Tool</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-cyberlinks-actiondirector-features-benefits-and-competitors/"><u>In-Depth Analysis of CyberLink's ActionDirector: Features, Benefits & Competitors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-magisto-video-software-advantages-limitations-and-comparative-assessment/"><u>In-Depth Analysis of Magisto Video Software: Advantages, Limitations & Comparative Assessment</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-messaging-schedulers-reviewed-discover-the-top-10-picks-for-smartphones/"><u>Leading Messaging Schedulers Reviewed: Discover the Top 10 Picks for Smartphones</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-angular-adjustments-in-vlc-player-for-2024/"><u>Mastering Angular Adjustments in VLC Player for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/shadow-spectators-on-ig-uncover-the-ultimate-list-of-incognito-gazers-for-content-sneak-peeks/"><u>Shadow Spectators on IG: Uncover the Ultimate List of Incognito Gazers for Content Sneak Peeks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simplified-approach-to-retrieve-lost-apps-from-your-ios-device/"><u>Simplified Approach to Retrieve Lost Apps From Your iOS Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-youcut-software-for-your-business-needs-the-complete-analysis/"><u>Unveiling the Power of YouCut Software for Your Business Needs - The Complete Analysis</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-a-practical-approach-to-hymnal-phone-tones/"><u>[New] In 2024, A Practical Approach to Hymnal Phone Tones</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-personal-guide-to-finding-hidden-indie-gems/"><u>A Personal Guide to Finding Hidden Indie Gems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-how-these-10-cutting-edge-ai-chatbots-can-elevate-your-communication-game/"><u>Discover How These 10 Cutting-Edge AI Chatbots Can Elevate Your Communication Game</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-with-ais-best-kept-secret-an-in-depth-analysis-of-the-apo-assistant-chatbot-app/"><u>Experience Next-Level Interaction with AI's Best Kept Secret - An In-Depth Analysis of the Apo Assistant Chatbot App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-the-future-10-revolutionary-ai-chatbots-to-upgrade-your-conversations/"><u>Experience the Future: 10 Revolutionary AI Chatbots to Upgrade Your Conversations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-alternatives-to-elevenlabs-generative-voice-ai-technology/"><u>Exploring Alternatives to ElevenLabs' Generative Voice AI Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-enhanced-capabilities-of-chatgpt-2024-full-feature-breakdown-and-troubleshooting-server-errors/"><u>Exploring the Enhanced Capabilities of ChatGPT 2024 - Full Feature Breakdown & Troubleshooting Server Errors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hitch-free-dymo-labelwriter-450-driver-software/"><u>Hitch-Free DYMO LabelWriter 450 Driver Software</u></a></li>
+<li><a href="https://win-guides.techidaily.com/mastering-video-format-transformation-how-to-download-vrv-series-as-mp4avimov-files/"><u>Mastering Video Format Transformation: How to Download VRV Series as MP4/AVI/MOV Files</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/real-time-storytelling-on-the-rise-navigating-and-thriving-in-a-social-media-world-for-2024/"><u>Real-Time Storytelling on the Rise Navigating and Thriving in a Social Media World for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/securing-personal-assets-guarding-your-vehicle-electronics-locks-and-plastics-against-wireless-vulnerabilities/"><u>Securing Personal Assets: Guarding Your Vehicle, Electronics, Locks, and Plastics Against Wireless Vulnerabilities</u></a></li>
 </ul></div>
 

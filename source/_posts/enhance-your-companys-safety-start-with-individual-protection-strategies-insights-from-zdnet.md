@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Company's Safety: Start with Individual Protection Strategies - Insights From ZDNet"
-date: 2024-12-09T01:05:51.707Z
-updated: 2024-12-15T22:57:35.521Z
+date: 2024-12-23T01:14:54.798Z
+updated: 2024-12-24T20:14:00.114Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 Corporations aren't doing enough to improve their employees' personal security practices. Credentials remain the highest targeted data type as they are the gateway to ransomware and data theft. 61% of data breaches in 2021 involved the use of stolen and misused credentials. Bad actors took advantage of a global pandemic to increase the number of phishing attacks, the cause of stolen credentials in 36% of breaches -- a 9% increase over last year -- according to the [Verizon 2021 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdfx). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,18 +66,19 @@ Given how connected we all are, the rising demands of working anywhere, and incr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-complete-guide-to-cashing-in-on-tiktok-in-8-steps/"><u>[New] 2024 Approved The Complete Guide to Cashing In on TikTok in 8 Steps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-full-facetune-experience-from-novice-to-expert-photographer/"><u>[New] 2024 Approved The Full Facetune Experience From Novice to Expert Photographer</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-telegram-edge-advanced-tactics-for-effective-promotion/"><u>[New] 2024 Approved The Telegram Edge Advanced Tactics for Effective Promotion</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-decoding-the-meaning-behind-fbs-blue-status-indicator/"><u>[New] In 2024, Decoding the Meaning Behind FB's Blue Status Indicator</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-complete-walkthrough-to-grab-youtube-playlists/"><u>[Updated] Complete Walkthrough to Grab YouTube Playlists</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-simplified-ratio-changes-on-web-dev-platforms/"><u>[Updated] Simplified Ratio Changes on Web Dev Platforms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-youtube-subtitles-a-guide-with-3-efficient-techniques/"><u>[Updated] Unlocking YouTube Subtitles A Guide with 3 Efficient Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-audio-equalizer-applications-for-android-top-5-picks/"><u>Best FREE Audio Equalizer Applications for Android: Top 5 Picks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-apples-device-management-insights-into-mdm-and-platform-implementation-strategies/"><u>Explore Apple's Device Management: Insights Into MDM and Platform Implementation Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-assessment-of-apple-music-pricing-structure-advantagesdisadvantages-and-how-to-get-started/"><u>In-Depth Assessment of Apple Music: Pricing Structure, Advantages/Disadvantages, and How to Get Started</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/losung-fur-das-problem-mit-dem-volume-shadow-copy-dienst-in-windows-betriebssystemen-windows-111087/"><u>Lösung Für Das Problem Mit Dem Volume Shadow Copy-Dienst in Windows-Betriebssystemen (Windows 11/10/8/7)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/share-it-all-video-watchlist/"><u>Share-It-All Video Watchlist</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-best-5-top-rated-free-mobile-tracking-apps-unveiling-the-options/"><u>The Best 5 Top-Rated Free Mobile Tracking Apps: Unveiling the Options</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-srt-from-basics-to-cutting-edge-techniques/"><u>[New] In 2024, SRT From Basics to Cutting-Edge Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-must-have-windows-11-video-editing-apps-list/"><u>[New] Must-Have Windows 11 Video Editing Apps List</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-sound-system-advances-announced-for-2024/"><u>[New] Sound System Advances Announced for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-15-gaming-capture-utilities/"><u>[New] Top 15 Gaming Capture Utilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-detailed-analysis-of-grand-quests-in-yokus-island-express-where-surprises-abound/"><u>A Detailed Analysis of Grand Quests in Yoku's Island Express: Where Surprises Abound</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bing-chat-explored-in-depth-insights-on-ai-and-gpt-4-integration/"><u>Bing Chat Explored: In-Depth Insights on AI and GPT-4 Integration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-chatgpt-2024-unveiling-key-functionalities-and-resolving-internal-errors/"><u>Complete Guide to ChatGPT 2024: Unveiling Key Functionalities and Resolving Internal Errors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-everything-you-need-to-know-about-the-renamed-eva-ai-bot-formerly-known-as-ex-journey/"><u>Discover Everything You Need to Know About the Renamed EVA AI Bot: Formerly Known as Ex Journey</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-device-functionality-simply-upload/"><u>Enhance Device Functionality, Simply Upload</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-s18-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo S18</u></a></li>
+<li><a href="https://article-posts.techidaily.com/internet-radio-streaming-made-easy-your-recording-guidebook-for-2024/"><u>Internet Radio Streaming Made Easy Your Recording Guidebook for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-10-essential-fcpx-plugins-to-elevate-your-video-editing-game-free-and-paid-for-2024/"><u>New 10 Essential FCPX Plugins to Elevate Your Video Editing Game Free and Paid for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-overview-of-the-newest-ai-powered-chatbots-integrating-gpt-and-astrology/"><u>Top Rated Overview of the Newest AI-Powered Chatbots: Integrating GPT and Astrology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-chatting-world-with-top-10-innovative-ai-chatbot-solutions/"><u>Transform Your Chatting World with Top 10 Innovative AI Chatbot Solutions</u></a></li>
 </ul></div>
 

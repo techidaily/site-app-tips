@@ -1,7 +1,7 @@
 ---
 title: "OpenStack and Kata Container Renaissance: Exploring Their Renewed Appeal on the Tech Scene - Analysis by ZDNET"
-date: 2024-12-14T17:39:27.396Z
-updated: 2024-12-16T05:08:35.041Z
+date: 2024-12-21T20:47:16.428Z
+updated: 2024-12-25T03:24:28.269Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-perfecting-your-video-game-broadcast-the-obs-way/"><u>[New] In 2024, Perfecting Your Video Game Broadcast The OBS Way</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ecrets-revealed-6-strategies-to-keep-your-youtube-audience-hooked-and-returning-for-2024/"><u>[New] Secrets Revealed 6 Strategies to Keep Your YouTube Audience Hooked and Returning for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-expert-suggestions-prime-frame-addition-software-2023-update/"><u>[Updated] In 2024, Expert Suggestions - Prime Frame Addition Software, 2023 Update</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-engagement-with-dual-screen-broadcasting-techniques-in-facebook/"><u>[Updated] Maximizing Engagement with Dual-Screen Broadcasting Techniques in Facebook</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-financial-rewards-top-priorities-for-open-source-professionals-seeking-new-opportunities/"><u>Beyond Financial Rewards: Top Priorities for Open-Source Professionals Seeking New Opportunities</u></a></li>
-<li><a href="https://app-tips.techidaily.com/fortify-your-digital-space-safeguarding-homesme-pcs-with-microsofts-security-solutions/"><u>Fortify Your Digital Space: Safeguarding Home/SME PCs with Microsoft's Security Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-driver-for-your-brother-hl-l2380d-color-laser-multifunction-printer-on-windows/"><u>Get the Latest Driver for Your Brother HL-L2380D Color Laser Multifunction Printer on Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-your-machine-expert-reviews-from-toms-hardware/"><u>Mastering Your Machine: Expert Reviews From Tom's Hardware</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issues-with-sifu-games-frame-rate-and-smoothness-on-pc-systems/"><u>Resolved: Issues with Sifu Game's Frame Rate and Smoothness on PC Systems</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/step-by-step-guide-repairing-a-duplicated-ssd-that-fails-to-start-video-lesson/"><u>Step-by-Step Guide: Repairing a Duplicated SSD That Fails to Start - Video Lesson</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-professionals-drained-yet-hopeful-positive-trends-from-zdnet-analysis/"><u>Tech Professionals Drained Yet Hopeful: Positive Trends From ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-purpose-of-an-artificial-earth-plane-in-antenna-systems-can-be-similar-to-that-of-natural-ground-when-it-comes-to-reflecting-radio-waves-and-improving-s78/"><u>The Purpose of an Artificial Earth Plane in Antenna Systems Can Be Similar to that of Natural Ground when It Comes to Reflecting Radio Waves and Improving Signal Quality.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-professional-screen-recorders-for-2nite-expert-analysis-from-zdnet/"><u>The Ultimate List of Professional Screen Recorders for 2Nite: Expert Analysis From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-and-correcting-javascript-issues-in-your-discord-bot-code/"><u>Troubleshooting and Correcting JavaScript Issues in Your Discord Bot Code</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-windows-essential-tips-for-upgrading-to-a-pro-edition-with-zdnets-expert-advice/"><u>Unlocking the Power of Windows: Essential Tips for Upgrading to a Pro Edition with ZDNet's Expert Advice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsofts-window-of-opportunity-shrinks-as-they-race-against-time-on-windows-11-tech-analysis/"><u>Urgent Challenge: Microsoft's Window of Opportunity Shrinks as They Race Against Time on Windows 11 | Tech Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/what-drives-open-source-talent-unveiling-the-essential-non-monetary-wants-in-their-job-quest-zdnet/"><u>What Drives Open-Source Talent? Unveiling the Essential Non-Monetary Wants in Their Job Quest | ZDNET</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-daily-digital-domination-top-10-youtube-viewership-ranking/"><u>[New] 2024 Approved Daily Digital Domination Top 10 YouTube Viewership Ranking</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/isdom-waves-prime-ed-channels-online-for-2024/"><u>[New] Wisdom Waves Prime Ed Channels Online for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-boosting-engagement-from-the-start-premium-paid-free-intra-creators/"><u>[Updated] Boosting Engagement From the Start Premium, Paid-Free Intra Creators</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/5740-drivers-instantly-secure-and-free-download/"><u>5740 Drivers Instantly – Secure & Free Download</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-chatbots-struggle-beyond-english-boundaries-insights-from-a-new-stanford-research-zdnet/"><u>AI Chatbots Struggle Beyond English Boundaries - Insights From a New Stanford Research | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-pointing-exploring-the-impact-of-generative-ai-on-ux-zdnet-analysis/"><u>Beyond Clicks and Pointing: Exploring the Impact of Generative AI on UX | ZDNet Analysis</u></a></li>
+<li><a href="https://win-lab.techidaily.com/clonezilla-target-drive-size-issue-resolved-successful-resize-and-recovery-tutorial/"><u>Clonezilla Target Drive Size Issue Resolved – Successful Resize and Recovery Tutorial</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-apple-homepod-mini-for-music-enthusiasts-and-voice-commands/"><u>Comprehensive Evaluation: Apple HomePod Mini for Music Enthusiasts & Voice Commands</u></a></li>
+<li><a href="https://fox-links.techidaily.com/epic-assessment-and-alternative-measures-for-2024/"><u>Epic Assessment & Alternative Measures for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-that-frozen-trackpad-effective-techniques-to-restore-laptop-functionality/"><u>Fix That Frozen Trackpad: Effective Techniques to Restore Laptop Functionality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/from-citizens-to-coders-how-low-code-and-no-code-is-revolutionizing-development-in-it/"><u>From Citizens to Coders: How Low-Code and No-Code Is Revolutionizing Development in IT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-challenges-unlocking-the-full-potential-of-ai-in-your-business-strategy-zdnet/"><u>Navigating Challenges: Unlocking the Full Potential of AI in Your Business Strategy | ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-a2-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from A2</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapore-invests-24-billion-in-enhancing-ict-frameworks-and-digital-service-offerings-a-deep-dive-into-the-national-strategy/"><u>Singapore Invests $2.4 Billion in Enhancing ICT Frameworks & Digital Service Offerings: A Deep Dive Into the National Strategy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolution-of-creativity-and-commerce-introducing-the-next-generation-ai-developers-unlocking-new-potential-in-tech/"><u>The Evolution of Creativity & Commerce: Introducing the Next Generation AI Developers - Unlocking New Potential in Tech</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-generative-ai-wave-transforming-workflow-how-automation-impacts-coding-jobs-techzine/"><u>The Generative AI Wave Transforming Workflow: How Automation Impacts Coding Jobs | TechZine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tick-tock-files-masterful-methods-to-modify-file-times-in-win8/"><u>Tick-Tock Files: Masterful Methods to Modify File Times in Win8</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-next-big-thing-the-quest-for-an-unprecedented-5g-game-changer-beyond-simple-connections-insights-from-zdnet/"><u>Unveiling the Next Big Thing: The Quest for an Unprecedented 5G Game-Changer Beyond Simple Connections - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-truth-five-common-errors-in-understanding-data-revenue-strategies-on-zdnet/"><u>Unveiling the Truth: Five Common Errors in Understanding Data Revenue Strategies on ZDNet</u></a></li>
 </ul></div>
 
