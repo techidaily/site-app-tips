@@ -1,7 +1,7 @@
 ---
 title: How Crypto.com CEO Tackles Login Challenges Post $31 Million Hack Incident Covered by ZDNet
-date: 2024-12-23T22:41:12.216Z
-updated: 2024-12-24T18:58:54.994Z
+date: 2025-01-02T04:34:57.795Z
+updated: 2025-01-02T21:15:50.495Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Crypto.com CEO Kris Marszalek responded to complaints from thousands of users about issues logging back into their accounts after the company was [forced](https://crypto.com/product-news/crypto-com-security-report-next-steps) to change security settings following [a hack last week](https://www.zdnet.com/article/fortune-favours-the-breached-crypto-com-admits-400-users-hit-in-hack/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Crypto.com CEO Kris Marszalek responded to complaints from thousands of users ab
 [![cybersecurity-lock-resized.jpg](https://www.zdnet.com/a/img/resize/5871b5ae5b589728bdc8064555d12823acf4b63e/2020/10/27/db3c0325-2b86-435b-8efa-93828deb6b56/cybersecurity-lock-resized.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best cyber insurance The cyber insurance industry is likely to go mainstream and is a simple cost of doing business. Here are a few options to consider.  Read now](https://www.zdnet.com/article/best-cyber-insurance/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On Monday, the company [admitted](https://www.zdnet.com/article/crypto-com-confirms-483-users-hit-in-attack-that-saw-over-31m-in-coins-withdrawn/) that 483 users were affected by unauthorized cryptocurrency withdrawals on their accounts, costing a total of "4,836.26 ETH, 443.93 BTC, and approximately US$66,200 in other cryptocurrencies." At the time of the attack, that amounted to about $31 million. 
@@ -80,21 +80,18 @@ Crypto.com created a program designed to refund users who were affected by the h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-to-engaging-youtube-reactions-top-10/"><u>[New] The Ultimate Guide to Engaging YouTube Reactions (Top 10)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-accessing-vintage-facebook-content-tips-for-all-devices-for-2024/"><u>[Updated] Accessing Vintage Facebook Content Tips for All Devices for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-lead-the-likes-the-best-social-app-list-on-androidiphone/"><u>2024 Approved Lead the Likes The Best Social App List on Android/iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-strategies-to-overcome-non-functional-music-playback-on-itunes/"><u>Effective Strategies to Overcome Non-Functional Music Playback on iTunes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-honor-x50-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Honor X50 Lock Screen Password</u></a></li>
-<li><a href="https://app-tips.techidaily.com/itunes-backup-file-restoration-how-to-retrieve-deleted-or-lost-ios-content-from-your-itunes-archive/"><u>ITunes Backup File Restoration: How to Retrieve Deleted or Lost iOS Content From Your iTunes Archive</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lost-your-itunes-account-passcode-discover-the-top-methods-to-retrieve-it/"><u>Lost Your iTunes Account Passcode? Discover the Top Methods to Retrieve It</u></a></li>
-<li><a href="https://app-tips.techidaily.com/move-it-like-that-a-guide-for-shifting-itunes-lists-onto-usb-drives-across-windows-and-mac-systems/"><u>Move It Like That: A Guide for Shifting iTunes Lists Onto USB Drives Across Windows and Mac Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-update-for-your-netgear-wna310-drivers-start-here/"><u>Quick & Easy Update for Your Netgear WNA310# Drivers - Start Here</u></a></li>
-<li><a href="https://app-tips.techidaily.com/resolve-constant-itunes-password-prompts-on-your-iphone-with-this-simple-guide/"><u>Resolve Constant ITunes Password Prompts on Your iPhone with This Simple Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-steps-converting-your-avi-videos-into-apples-itunes-format-for-ios-devices/"><u>Simple Steps: Converting Your AVI Videos Into Apple's iTunes Format for iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transferring-your-playlist-to-ipod-sans-itunes-with-aiseesoft/"><u>Step-by-Step Guide: Transferring Your Playlist to iPod Sans iTunes with Aiseesoft</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stream-without-spending-10-alternatives-to-netflixs-services/"><u>Stream Without Spending: 10 Alternatives To Netflix's Services</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-5-twitch-broadcasting-techniques/"><u>Top 5 Twitch Broadcasting Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unbeatable-apple-offers-in-june-2024-iphone-bargains-premium-apple-watch-savings-affordable-ipad-deals-discover-your-next-upgrade-with-zdnet/"><u>Unbeatable Apple Offers in June 2024: IPhone Bargains, Premium Apple Watch Savings, Affordable iPad Deals - Discover Your Next Upgrade with ZDNet!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-inception-filming-review-examination/"><u>[Updated] 2024 Approved Inception Filming Review Examination</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-have-a-products-sponsorship-in-youtube/"><u>[Updated] How to Have a Products Sponsorship in Youtube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ideal-low-impact-recording-devices-for-eco-conscious-filmmakers/"><u>[Updated] In 2024, Ideal Low-Impact Recording Devices for Eco-Conscious Filmmakers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-professionalscreenx-insiders-take-on-software/"><u>[Updated] In 2024, ProfessionalScreenX Insider’s Take on Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-precision-play-5-proven-techniques-for-zoomed-gameplay/"><u>2024 Approved Precision Play 5 Proven Techniques for Zoomed Gameplay</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-mobile-messaging-platforms-top-picks-for-ios-and-android-devices/"><u>Best 10 Mobile Messaging Platforms: Top Picks for iOS and Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-best-gaming-experience-install-logitech-driving-force-pro-on-windows-systems/"><u>Get the Best Gaming Experience: Install Logitech Driving Force Pro on Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-release-compatible-drivers-for-tp-links-802nac-adapter-get-them-now/"><u>Latest Release: Compatible Drivers for TP-Link's 802.nAC Adapter - Get Them Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rhythmic-rarities-assembling-the-best-dj-video-samples-for-2024/"><u>Rhythmic Rarities Assembling the Best DJ Video Samples for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stay-secure-and-connected-top-11-mobile-apps-for-hands-free-text-reading/"><u>Stay Secure and Connected: Top 11 Mobile Apps for Hands-Free Text Reading</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-8-xbox-console-emulators-on-pcandroid-reviewed-objectively/"><u>The Ultimate Guide: Top 8 Xbox Console Emulators on PC/Android, Reviewed Objectively</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-swf-player-apps-compatible-with-pc-mac-android-and-iphone-devices/"><u>Top Rated SWF Player Apps Compatible with PC, Mac, Android & iPhone Devices</u></a></li>
 </ul></div>
 

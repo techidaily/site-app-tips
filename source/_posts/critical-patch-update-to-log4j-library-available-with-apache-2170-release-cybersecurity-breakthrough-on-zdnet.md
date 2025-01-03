@@ -1,7 +1,7 @@
 ---
 title: Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET
-date: 2024-12-18T21:30:44.787Z
-updated: 2024-12-24T18:57:29.440Z
+date: 2024-12-28T04:38:59.871Z
+updated: 2025-01-02T16:00:34.800Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -112,7 +112,7 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -190,22 +190,18 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-fast-and-free-strategies-for-authenticity-in-insta-circles/"><u>[New] In 2024, Fast & Free Strategies for Authenticity in Insta Circles</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-revolutionize-online-speech-discover-the-best-chrome-extensions-for-change/"><u>[Updated] 2024 Approved Revolutionize Online Speech Discover the Best Chrome Extensions for Change</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-determining-the-best-action-camera-gopro-max-or-hero-11/"><u>[Updated] Determining the Best Action Camera GoPro Max or Hero 11?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-on-cloud-storage-protecting-data-for-ipads-pro-mini-and-air-via-icloud/"><u>Complete Tutorial on Cloud Storage: Protecting Data for iPads (Pro, Mini, and Air) via iCloud</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-kooteks-laptop-cooling-pad-an-exceptional-choice/"><u>Expert Analysis of Kootek's Laptop Cooling Pad – An Exceptional Choice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620264535-how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-retrieve-your-forgotten-iphone-itunes-backup-passcode/"><u>How to Retrieve Your Forgotten iPhone iTunes Backup Passcode</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-14-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 14 Plus to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/improving-sound-speeds-a-guide-for-safe-spotify-use-for-2024/"><u>Improving Sound Speeds A Guide for Safe Spotify Use for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-apples-icloud-family-sharing-an-in-depth-tutorial-for-seamless-collaboration/"><u>Mastering Apple's iCloud Family Sharing - An In-Depth Tutorial for Seamless Collaboration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-and-simple-methods-accessing-your-icloud-photos-without-an-iphone/"><u>Quick & Simple Methods: Accessing Your iCloud Photos Without an iPhone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-access-to-essential-drivers-for-your-lenovo-ideapad-x230/"><u>Quick Access to Essential Drivers for Your Lenovo IdeaPad X230</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-detailed-review-comparing-amds-rx-7800xt-with-7700xt-series/"><u>The Detailed Review: Comparing AMD's RX 7800XT with 7700XT Series</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-of-icloud-keychain-functionality-and-retrieving-your-data-on-iphone/"><u>The Ultimate Walkthrough of iCloud Keychain Functionality & Retrieving Your Data on iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-4-methods-for-effortlessly-transferring-your-iphone-photos-to-icloud-a-complete-guide/"><u>Top 4 Methods for Effortlessly Transferring Your iPhone Photos to iCloud: A Complete Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-icloud-keychain-a-complete-guide-to-unlocking-your-iphones-secure-storage/"><u>Understanding iCloud Keychain: A Complete Guide to Unlocking Your iPhone's Secure Storage</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gif-bmp-movavi/"><u>網路上無成本的 GIF 到 BMP 格式轉換 - 使用Movavi 變體程式</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-no-cost-android-tracking-programs-top-5-picks-for-smartphone-surveillance/"><u>Best No-Cost Android Tracking Programs: Top 5 Picks for Smartphone Surveillance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193851-discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-guide-to-transforming-mov-videos-into-different-file-types/"><u>Easy Guide to Transforming MOV Videos Into Different File Types</u></a></li>
+<li><a href="https://win-dash.techidaily.com/grab-the-latest-free-asrock-ab350-pro4-drivers-today-easy-installation-on-your-pc-running-windows/"><u>Grab the Latest Free ASRock AB350 Pro4 Drivers Today: Easy Installation on Your PC Running Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-14-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-tecno-camon-20-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Tecno Camon 20 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instabeats-intellectual-property-overview-for-2024/"><u>InstaBeats Intellectual Property Overview for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/instagram-message-edits-simplified-learn-how/"><u>Instagram Message Edits Simplified – Learn How!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/streamline-your-instagram-content-free-mp4-exporters-for-windowsmac-users-for-2024/"><u>Streamline Your Instagram Content Free MP4 Exporters for Windows/Mac Users for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/top-4-pairings-winning-webp-viewers-and-windows-devices/"><u>Top 4 Pairings: Winning WebP Viewers & Windows Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-must-have-mdm-solutions-expert-picks-for-optimal-mobile-control/"><u>Top 7 Must-Have MDM Solutions: Expert Picks for Optimal Mobile Control</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194494-ultimate-selection-of-secure-android-app-protectors-find-out-which-ones-rank-the-highest/"><u>Ultimate Selection of Secure Android App Protectors – Find Out Which Ones Rank the Highest!</u></a></li>
 </ul></div>
 

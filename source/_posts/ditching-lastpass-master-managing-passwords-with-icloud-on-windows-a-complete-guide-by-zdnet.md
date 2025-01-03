@@ -1,7 +1,7 @@
 ---
 title: Ditching LastPass? Master Managing Passwords with iCloud on Windows - A Complete Guide by ZDNet
-date: 2024-12-20T22:20:11.551Z
-updated: 2024-12-25T03:34:17.803Z
+date: 2024-12-28T23:06:27.067Z
+updated: 2025-01-02T16:57:02.653Z
 tags:
   - password-manager
 categories:
@@ -32,10 +32,14 @@ If you've been around for the past 10 or so years, you know that most services r
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use iCloud as a password manager on Windows
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open iCloud for Windows
 
@@ -48,7 +52,7 @@ Go to the Start menu and open iCloud for Windows.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Sign in to your iCloud Passwords
@@ -60,10 +64,6 @@ Go to Passwords, and click Apply.
 Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Make sure Passwords is on and click Apply
 
@@ -101,10 +101,6 @@ Enter the verification code.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Try out the password manager
 
 After you set up iCloud for [Windows](https://www.zdnet.com/article/windows-11-22h2-how-to-get-microsofts-latest-os-update-and-whats-coming-next/) as a password manager and your browser extension, you can try it out by going to a website and trying to log in.
@@ -120,12 +116,16 @@ Like LastPass, the browser extension will let you fill in your login information
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do you get iCloud for Windows?  
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How do I set up iCloud Keychain? 
 
@@ -167,19 +167,22 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-adding-social-media-magic-snapchat-to-your-mac/"><u>[New] In 2024, Adding Social Media Magic Snapchat to Your Mac</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/op-student-vids-essential-histories-channel-list-for-2024/"><u>[New] Top Student Vids Essential Histories Channel List for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-the-art-of-igtv-production-phone-and-dslr-techniques/"><u>[Updated] Mastering the Art of IGTV Production Phone and DSLR Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ciq-gains-support-from-linux-experts-as-main-backer-of-rocks-cluster-os-initiative-techinsight/"><u>CIQ Gains Support From Linux Experts as Main Backer of Rocks Cluster OS Initiative - TechInsight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exhaustion-amongst-it-specialists-positive-developments-in-sight/"><u>Exhaustion Amongst IT Specialists - Positive Developments in Sight</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/how-to-install-your-complete-guide-to-vrecord/"><u>How to Install Your Complete Guide to VRecord</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-uncover-latest-computer-gadgets-a-yl-software-deep-dive-into-hardware-discovery-challenges/"><u>How to Uncover Latest Computer Gadgets: A YL Software Deep Dive Into Hardware Discovery Challenges</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-webcams-to-elevate-your-zoom-video-conferencing/"><u>In 2024, Ideal Webcams to Elevate Your Zoom Video Conferencing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-windows-10-top-five-strategies-to-consider-before-support-concludes-next-year-zdnet-insights/"><u>Navigating the Future of Windows 10: Top Five Strategies to Consider Before Support Concludes Next Year | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preparing-for-the-future-five-must-know-steps-as-microsofts-windows-support-nears-its-end-according-to-zdnet/"><u>Preparing for the Future: Five Must-Know Steps as Microsoft's Windows ^Support Nears Its End, According to ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-remote-communication-the-emergence-of-an-innovative-lip-reading-challenger-for-microsoft-teams-and-zoom-zdnet/"><u>Revolutionizing Remote Communication: The Emergence of an Innovative Lip-Reading Challenger for Microsoft Teams & Zoom | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-seamlessly-connecting-google-drive-with-slack-tips-from-zdnet/"><u>Step-by-Step Guide: Seamlessly Connecting Google Drive with Slack – Tips From ZDNet</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-ultimate-benq-sw320-review-a-journey-to-4k/"><u>The Ultimate BenQ SW320 Review A Journey to 4K</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-the-potential-of-bulk-tiktok-media-extraction/"><u>Unlocking the Potential of Bulk TikTok Media Extraction</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-convert-srt-to-subc-innovative-3-ways-uncovered/"><u>[New] In 2024, Convert SRT to SUBC Innovative 3 Ways Uncovered</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-twitter-vids-to-mp3-easy-extraction-techniques/"><u>[Updated] 2024 Approved Twitter Vids to MP3 Easy Extraction Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-expert-picks-top-5-high-performing-android-recorders/"><u>[Updated] In 2024, Expert Picks Top 5 High-Performing Android Recorders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-secure-ways-to-break-into-apple-id-protected-devices-top-5-tools-ensuring-full-access-without-errors/"><u>Best Secure Ways to Break Into Apple ID-Protected Devices: Top 5 Tools Ensuring Full Access Without Errors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-how-to-modify-or-reset-your-apple-id-in-the-ios-cloud-service/"><u>Comprehensive Tutorial: How To Modify or Reset Your Apple ID in the iOS Cloud Service</u></a></li>
+<li><a href="https://win11.techidaily.com/fixed-windows-shift-key-unreachable/"><u>Fixed: Windows Shift Key Unreachable.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-recover-deleted-files-via-icloud-without-performing-a-device-factory-reset/"><u>How to Recover Deleted Files via iCloud Without Performing a Device Factory Reset</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone 13 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-tecno-camon-20-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Tecno Camon 20 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unlocking-success-with-instagrams-business-platform/"><u>In 2024, Unlocking Success with Instagram's Business Platform</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lost-something-in-your-icloud-storage-master-the-art-of-icloud-backup-data-retrieval/"><u>Lost Something in Your iCloud Storage? Master the Art of iCloud Backup Data Retrieval</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-your-network-proven-strategies-to-recover-contacts-from-icloud-without-compromise/"><u>Maximize Your Network: Proven Strategies to Recover Contacts From iCloud Without Compromise</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/t-power-up-innovative-ways-to-earning-with-youtube-mobile-views-for-2024/"><u>Profit Power-Up Innovative Ways to Earning with YouTube Mobile Views for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/recovering-lost-apple-id-credentials-for-itunes-backups-on-ios-devices/"><u>Recovering Lost Apple ID Credentials for iTunes Backups on iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-for-securing-your-whatsapp-data-with-icloud-backups/"><u>Step-by-Step Instructions for Securing Your WhatsApp Data with iCloud Backups</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-plataformas-ideales-para-disfrutar-y-descargar-mangaanime-de-manera-gratuita-en-2024/"><u>Top 8 Plataformas Ideales Para Disfrutar Y Descargar Manga/Anime De Manera Gratuita en 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-on-clearing-out-your-visual-memories-photosimages-from-icloud-storage/"><u>Ultimate Tutorial on Clearing Out Your Visual Memories (Photos/Images) From iCloud Storage</u></a></li>
 </ul></div>
 

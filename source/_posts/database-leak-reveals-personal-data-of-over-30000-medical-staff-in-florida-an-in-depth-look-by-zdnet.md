@@ -1,7 +1,7 @@
 ---
 title: "Database Leak Reveals Personal Data of Over 30,000 Medical Staff in Florida: An In-Depth Look by ZDNet"
-date: 2024-12-22T21:35:52.592Z
-updated: 2024-12-24T21:54:49.959Z
+date: 2025-01-02T03:07:08.059Z
+updated: 2025-01-02T23:39:41.746Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ More than 30,000 US healthcare workers' personal information was recently expose
 Fowler [discovered](https://www.websiteplanet.com/blog/galeapp-leak-report/) a database run by Gale Healthcare Solutions with 170,239 exposed records that included names, emails, home addresses, photos and in some cases, Social Security Numbers as well as tax documents. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -100,18 +100,19 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-15-free-budget-friendly-web-photo-editors-2023-review/"><u>[New] 2024 Approved Top 15 Free, Budget-Friendly Web Photo Editors - 2023 Review</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-first-picks-best-webcams-for-seamless-zoom-participation/"><u>[New] First Picks Best Webcams for Seamless Zoom Participation</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-editors-guide-best-for-youtube-content/"><u>[Updated] 2024 Approved The Ultimate Editor's Guide Best for YouTube Content</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-elucidating-techniques-in-user-motion-detection/"><u>2024 Approved Elucidating Techniques in User Motion Detection</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/beyond-the-buzzwords-the-leading-edits-without-vimeo-for-2024/"><u>Beyond the Buzzwords The Leading Edits Without Vimeo for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-efficiency-with-these-proven-strategies-in-daily-project-management-tips-shared-on-zdnet/"><u>Boost Efficiency with These Proven Strategies in Daily Project Management – Tips Shared on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/career-advancement-in-tech-with-top-strategies-used-by-the-worlds-biggest-aerospace-enterprises-zdnet/"><u>Career Advancement in Tech with Top Strategies Used by the World's Biggest Aerospace Enterprises | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-solutions-for-lg-hardware-drivers-errors-in-windows-operating-systems/"><u>Easy Solutions for LG Hardware Drivers Errors in Windows Operating Systems</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-a-complete-course-on-managing-and-editing-srt-on-mac/"><u>In 2024, A Complete Course on Managing and Editing SRT on Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tenfold-surge-in-artifice-intelligence-initiatives-this-year-confirms-zdnet-insight-survey/"><u>Tenfold Surge in Artifice Intelligence Initiatives This Year, Confirms ZDNet Insight Survey</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-team-collaboration-software-of-2022-ultimate-list-and-reviews-techradar/"><u>Top Team Collaboration Software of 2022: Ultimate List and Reviews | TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-encryption-tools-of-2022-secure-your-digital-information-with-expert-reviews-from-zdnet/"><u>Top-Rated Encryption Tools of 2022: Secure Your Digital Information with Expert Reviews From ZDNet</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-11-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 11 Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-ignite-your-online-presence-nine-essential-tips-for-mastering-instagram-stardom/"><u>[New] Ignite Your Online Presence Nine Essential Tips for Mastering Instagram Stardom</u></a></li>
+<li><a href="https://facebook.techidaily.com/accessing-portions-from-facebooks-725m-settlement-windfall/"><u>Accessing Portions From Facebook’s 725M Settlement Windfall</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-tactics-for-creating-engaging-testimonial-videos/"><u>Cutting-Edge Tactics for Creating Engaging Testimonial Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-best-alternative-messaging-apps-to-whatsapp-10-amazing-choices/"><u>Discover the Best Alternative Messaging Apps to WhatsApp – 10 Amazing Choices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192671-discover-the-ideal-free-pdf-modification-apps-and-online-utilities-ranked-for-you/"><u>Discover the Ideal Free PDF Modification Apps & Online Utilities – Ranked for You</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ideal-free-pdf-modification-apps-and-online-utilities-ranked-for-you/"><u>Discover the Ideal Free PDF Modification Apps & Online Utilities – Ranked for You!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620188306-download-top-20-best-free-android-games-play-the-complete-versions-with-no-cost/"><u>Download Top 20 Best Free Android Games: Play the Complete Versions with No Cost!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-13-mini-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 13 mini? Complete Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-c67-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme C67 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-top-ranking-lock-screen-enhancers-for-android-devices/"><u>The Ultimate List of Top-Ranking Lock Screen Enhancers for Android Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-rated-iphone-compatible-mp4-encoder-seamlessly-transform-movies-and-videos/"><u>Top Rated iPhone-Compatible MP4 Encoder: Seamlessly Transform Movies & Videos!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transitioning-to-windows-11-longing-for-the-classic-windows-10-functions-i-loved/"><u>Transitioning to Windows 11: Longing for the Classic Windows 10 Functions I Loved</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-free-iphone-and-android-entertainment-with-appcake-get-all-your-favorite-cracked-apps-and-games-now/"><u>Unlock Free iPhone & Android Entertainment with AppCake - Get All Your Favorite Cracked Apps & Games Now!</u></a></li>
 </ul></div>
 

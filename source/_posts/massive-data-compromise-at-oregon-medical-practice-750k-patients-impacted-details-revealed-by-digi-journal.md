@@ -1,7 +1,7 @@
 ---
 title: "Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal"
-date: 2024-12-17T19:10:02.234Z
-updated: 2024-12-24T22:25:17.905Z
+date: 2024-12-27T23:23:43.698Z
+updated: 2025-01-03T02:26:30.657Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/0a9719ddcbae5c52ddb9477f8674bda6f7443fbaa
 The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it suffered a ransomware attack in July that led to the breach of sensitive employee and patient information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it
 [![2020-03-18-at-12-23-32-pm.jpg](https://www.zdnet.com/a/img/resize/3c34ebf72342b1f0704550e1e2edf445f0628572/2020/03/18/7c2e2258-7566-4e66-9059-a1a8aedf00b4/2020-03-18-at-12-23-32-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best security key While robust passwords help you secure your valuable online accounts, hardware-based two-factor authentication takes that security to the next level.  Read now](https://www.zdnet.com/article/best-security-key/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The breach involves the information of 750,000 patients and 522 current and former OAG employees. 
@@ -90,16 +90,14 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-a-practical-approach-to-hymnal-phone-tones/"><u>[New] In 2024, A Practical Approach to Hymnal Phone Tones</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-personal-guide-to-finding-hidden-indie-gems/"><u>A Personal Guide to Finding Hidden Indie Gems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-how-these-10-cutting-edge-ai-chatbots-can-elevate-your-communication-game/"><u>Discover How These 10 Cutting-Edge AI Chatbots Can Elevate Your Communication Game</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-with-ais-best-kept-secret-an-in-depth-analysis-of-the-apo-assistant-chatbot-app/"><u>Experience Next-Level Interaction with AI's Best Kept Secret - An In-Depth Analysis of the Apo Assistant Chatbot App</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-the-future-10-revolutionary-ai-chatbots-to-upgrade-your-conversations/"><u>Experience the Future: 10 Revolutionary AI Chatbots to Upgrade Your Conversations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-alternatives-to-elevenlabs-generative-voice-ai-technology/"><u>Exploring Alternatives to ElevenLabs' Generative Voice AI Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-enhanced-capabilities-of-chatgpt-2024-full-feature-breakdown-and-troubleshooting-server-errors/"><u>Exploring the Enhanced Capabilities of ChatGPT 2024 - Full Feature Breakdown & Troubleshooting Server Errors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hitch-free-dymo-labelwriter-450-driver-software/"><u>Hitch-Free DYMO LabelWriter 450 Driver Software</u></a></li>
-<li><a href="https://win-guides.techidaily.com/mastering-video-format-transformation-how-to-download-vrv-series-as-mp4avimov-files/"><u>Mastering Video Format Transformation: How to Download VRV Series as MP4/AVI/MOV Files</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/real-time-storytelling-on-the-rise-navigating-and-thriving-in-a-social-media-world-for-2024/"><u>Real-Time Storytelling on the Rise Navigating and Thriving in a Social Media World for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/securing-personal-assets-guarding-your-vehicle-electronics-locks-and-plastics-against-wireless-vulnerabilities/"><u>Securing Personal Assets: Guarding Your Vehicle, Electronics, Locks, and Plastics Against Wireless Vulnerabilities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-owns-the-lead-ryzne-ai-9-hx-triumphantly-outperforms-intels-20-core-and-apples-m3-max-in-passmark-benchmark/"><u>Ai Owns the Lead: Ryzne AI 9 Hx Triumphantly Outperforms Intel's 20-Core & Apple's M3 Max in Passmark Benchmark</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enhancing-viewership-maintaining-youtubes-creative-commons/"><u>Enhancing Viewership Maintaining YouTube's Creative Commons</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-the-power-of-full-stack-ai-conversations-with-your-enterprises-leading-tech-guru-zdnet-insights/"><u>Harnessing the Power of Full-Stack AI: Conversations with Your Enterprise's Leading Tech Guru | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-rapid-expansion-in-tech-fuels-employee-burnout-strategies-for-change/"><u>How Rapid Expansion in Tech Fuels Employee Burnout - Strategies for Change</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-art-of-format-transmutation-srt-to-ssa-and-more/"><u>In 2024, The Art of Format Transmutation SRT to SSA & More</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-new-frontier-the-rise-of-specialized-ai-oversight-positions-for-next-gen-software-teams-zdnet/"><u>Navigating the New Frontier: The Rise of Specialized AI Oversight Positions for Next-Gen Software Teams | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/pushing-boundaries-the-rise-of-lowno-code-platforms-and-their-impact-on-traditional-it-support/"><u>Pushing Boundaries: The Rise of Low/No-Code Platforms & Their Impact on Traditional IT Support</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-lava-blaze-curve-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Lava Blaze Curve 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity Measures
-date: 2024-12-22T03:47:18.189Z
-updated: 2024-12-24T19:17:06.625Z
+date: 2025-01-01T18:06:51.720Z
+updated: 2025-01-02T17:39:44.044Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-curating-creator-rewards-on-video-platforms/"><u>[New] 2024 Approved Curating Creator Rewards on Video Platforms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-best-in-class-top-drone-gimbals-compared/"><u>[New] Best in Class Top Drone Gimbals Compared</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-serene-strums-and-steps-tiktoks-best-country-melodies/"><u>[New] Serene Strums and Steps TikTok's Best Country Melodies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-tech-talent-is-highly-sought-after-your-innovative-concepts-can-reshape-industries-insights-from-the-zdnet-perspective/"><u>1. 'Tech Talent Is Highly Sought After: Your Innovative Concepts Can Reshape Industries' - Insights From the ZDNet Perspective</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-chatbots-struggle-with-non-english-languages-reveals-new-stanford-research-zdnet/"><u>AI Chatbots Struggle with Non-English Languages, Reveals New Stanford Research | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/delta-airlines-latest-news-lacks-flavor-southwest-enthusiasts-show-interest-tech-insight/"><u>Delta Airline's Latest News Lacks Flavor, Southwest Enthusiasts Show Interest | Tech Insight</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/discover-the-ultimate-chakra-ui-dashboard-at-no-cost-visions-expertly-crafted-user-experience/"><u>Discover the Ultimate Chakra UI Dashboard at No Cost - Vision's Expertly Crafted User Experience</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 6s Plus</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211009237-9789358056969-the-banshee/"><u>The Banshee | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolving-landscape-generative-ais-impact-on-workforce-dynamics-and-software-development-roles-tech-analysis-by-zdnet/"><u>The Evolving Landscape: Generative AI's Impact on Workforce Dynamics & Software Development Roles | Tech Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-full-spectrum-of-ai-integration-direct-insights-from-your-enterprises-leading-developer-zdnet/"><u>Unveiling the Full Spectrum of AI Integration: Direct Insights From Your Enterprise's Leading Developer | ZDNET</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-tuxera-nero-reader-comprehensive-multimedia-tool/"><u>[New] In 2024, Tuxera Nero Reader Comprehensive Multimedia Tool</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-uploading-and-showcasing-videos-on-instagram-made-easy/"><u>[Updated] In 2024, Uploading and Showcasing Videos on Instagram Made Easy</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-simplestrecorder-user-friendly-screen-capture/"><u>[Updated] SimplestRecorder User-Friendly Screen Capture</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-agile-mastery-top-six-strategies-guaranteeing-success-in-software-development-with-agile-methods/"><u>1. Agile Mastery: Top Six Strategies Guaranteeing Success in Software Development with Agile Methods</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-essential-is-devops-for-staying-ahead-in-business-ensuring-safety-through-top-strategies-insights-from-zdnet/"><u>How Essential Is DevOps for Staying Ahead in Business: Ensuring Safety Through Top Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-7-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 7 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-oneplus-open-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from OnePlus Open to iPad | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-mastering-minecraft-survival-housing/"><u>In 2024, Mastering Minecraft Survival Housing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-major-cloud-services-aws-azure-and-google-cloud-for-a-hybrid-and-saas-strategy-insights-by-zdnet/"><u>In-Depth Analysis of Major Cloud Services: AWS, Azure, and Google Cloud for a Hybrid and SaaS Strategy | Insights by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-process-of-upgrading-your-system-to-ubuntu-2404-tips-and-tricks-from-zdnet/"><u>Mastering the Process of Upgrading Your System to Ubuntu 24.04: Tips and Tricks From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-corporate-drama-unveiled-by-zdnet/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown – Corporate Drama Unveiled by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/setting-up-libreoffice-preferences-seamlessly-convert-to-microsoft-office-formats/"><u>Setting Up LibreOffice Preferences: Seamlessly Convert to Microsoft Office Formats</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-tecno-pova-5-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Tecno Pova 5 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207998112-trouble-with-windows-11-volume-heres-the-step-by-step-fix/"><u>Trouble with Windows 11 Volume? Here's the Step-by-Step Fix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-step-by-step-process-for-clearing-out-gmail-inbox-on-the-go/"><u>Ultimate Step-by-Step Process for Clearing Out Gmail Inbox on the Go</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-linus-torvalds-use-of-rust-for-linux-development-and-life-routines-with-m2-macbook-air-insights-from-zdnet-interview/"><u>Unveiling Linus Torvalds' Use of Rust for Linux Development and Life Routines with M2 MacBook Air | Insights From ZDNet Interview</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrade-mastery-overcoming-challenges-in-migrating-to-ubuntu-linux-2404-tips-featured-on-zdnet/"><u>Upgrade Mastery: Overcoming Challenges in Migrating to Ubuntu Linux 24.04 – Tips Featured on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-crisis-looms-large-for-microsoft-with-just-one-year-to-fix-major-issues-expert-insight/"><u>Windows 11 Crisis Looms Large for Microsoft with Just One Year to Fix Major Issues | Expert Insight</u></a></li>
 </ul></div>
 

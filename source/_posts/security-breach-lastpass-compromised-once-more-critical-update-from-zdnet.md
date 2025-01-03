@@ -1,7 +1,7 @@
 ---
 title: "Security Breach: LastPass Compromised Once More - Critical Update From ZDNet"
-date: 2024-12-22T02:56:31.528Z
-updated: 2024-12-24T22:33:31.426Z
+date: 2024-12-30T01:20:21.467Z
+updated: 2025-01-02T17:24:45.479Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,22 +81,22 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-pros-picks-top-10-mic-technology-for-podcasters/"><u>[New] In 2024, The Pros' Picks Top 10 Mic Technology for Podcasters</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-top-10-sci-fi-vr-adventures-new-realms-unveiled-for-2024/"><u>[New] Top 10 Sci-Fi VR Adventures New Realms Unveiled for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mastery-of-storing-snaps-on-devices-post-snapchat-use/"><u>[Updated] Mastery of Storing Snaps on Devices Post-Snapchat Use</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1password-goes-mobile-with-significant-enhancement-see-whats-changed-zdnet/"><u>1Password Goes Mobile with Significant Enhancement, See What's Changed - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/apache-introduces-security-fix-in-version-2170-for-log4js-dos-issue-tech-news-by-zdnet/"><u>Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-13-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone 13 Pro Max? How to Fix it?</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-a-non-responsive-start-menu-on-your-windows-11-pc/"><u>Effective Fixes for a Non-Responsive Start Menu on Your Windows 11 PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-redmi-k70-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi Redmi K70 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-introducing-the-essence-of-motion-blur-techniques-on-iphone/"><u>In 2024, Introducing the Essence of Motion-Blur Techniques on iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-1password-why-this-top-tier-password-safe-is-a-smart-investment-tech-insights-from-zdnet/"><u>In-Depth Analysis of 1Password: Why This Top-Tier Password Safe Is a Smart Investment - Tech Insights From ZDNet</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/lava-yuva-3-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-password-manager-solutions-for-2cy2024-thoroughly-reviewed-by-tech-gurus-at-zdnet/"><u>Leading Password Manager Solutions for 2CY2024: Thoroughly Reviewed by Tech Gurus at ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/switch-from-lastpass-to-icloud-passwords-on-windows-a-step-by-step-guide-zdnet/"><u>Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-zdnets-2024-ranking-of-leading-lastpass-replacements/"><u>Ultimate Guide: ZDNet's 2024 Ranking of Leading LastPass Replacements</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-huge-savings-with-dashlanes-password-manager-snipe-premium-at-just-50-off-today/"><u>Unlock Huge Savings with Dashlane's Password Manager - Snipe Premium at Just 50% Off Today!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-security-a-detailed-analysis-and-user-assessment-of-premium-password-manager-1password-authoritative-review-by-cryptosafe-zdnet/"><u>Unlocking Security: A Detailed Analysis & User Assessment of Premium Password Manager, 1Password | Authoritative Review by CryptoSafe ZDNET</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-power-of-photoscape-a-comprehensive-guide-to-its-free-editing-capabilities/"><u>Unveiling the Power of PhotoScape: A Comprehensive Guide to Its Free Editing Capabilities</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-decoding-video-potential-dslr-vs-mirrorless-innovation/"><u>[New] In 2024, Decoding Video Potential DSLR vs Mirrorless Innovation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-360-degree-retail-exploration-tech-for-2024/"><u>[Updated] 360-Degree Retail Exploration Tech for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-strategies-to-maximize-mobile-income-from-youtube/"><u>2024 Approved Strategies to Maximize Mobile Income From YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-photo-framing-on-the-net/"><u>2024 Approved The Ultimate Guide to Photo Framing on the Net</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-cleansing-apps-for-iphone-top-free-options-for-enhanced-performance/"><u>Best Cleansing Apps for iPhone: Top Free Options for Enhanced Performance</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/creative-endeavors-while-immersed-in-audio-stories/"><u>Creative Endeavors While Immersed in Audio Stories</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dark-side-of-windows-after-fall-release-fixed/"><u>Dark Side of Windows After Fall Release Fixed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ensure-every-important-call-is-heard-uninterrupted-connectivity-even-in-silence-and-chaos-with-our-innovative-10-call-flash-applications/"><u>Ensure Every Important Call Is Heard: Uninterrupted Connectivity Even in Silence and Chaos with Our Innovative 10-Call Flash Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expertly-curated-list-the-ultimate-9plus1-video-streaming-solutions-for-android-devices/"><u>Expertly Curated List: The Ultimate 9+1 Video Streaming Solutions for Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-vn-video-editor-benefits-drawbacks-and-top-substitutes/"><u>In-Depth Analysis: VN Video Editor - Benefits, Drawbacks & Top Substitutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ios-10-updates-unveiled-explore-the-enhanced-lockscreen-features/"><u>IOS 10 Updates Unveiled: Explore the Enhanced Lockscreen Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-the-pack-essential-gaming-experiences-on-steam-deck/"><u>Leading the Pack: Essential Gaming Experiences on Steam Deck</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/stand-out-in-the-crowd-ingenious-tips-for-top-tinder-bios-for-2024/"><u>Stand Out in the Crowd - Ingenious Tips for Top Tinder Bios for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-free-gba-emulators-your-ultimate-guide-to-playing-game-boy-advance-titles-on-pc/"><u>Top 5 Free GBA Emulators: Your Ultimate Guide to Playing Game Boy Advance Titles on PC</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/top-gaming-pcs-of-2023-expert-reviews-and-buying-guide-yl-tech-insights/"><u>Top Gaming PCs of 2023: Expert Reviews and Buying Guide - YL Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-file-management-apps-for-android-user-reviews-and-comparisons/"><u>Top-Rated File Management Apps for Android: User Reviews and Comparisons</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-everyone-needs-to-try-the-newly-updated-factual-inshot-editor-unleash-your-creativity/"><u>Why Everyone Needs to Try the Newly Updated Factual InShot Editor - Unleash Your Creativity!</u></a></li>
 </ul></div>
 

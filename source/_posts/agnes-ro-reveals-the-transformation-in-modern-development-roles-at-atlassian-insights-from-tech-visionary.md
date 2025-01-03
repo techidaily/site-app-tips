@@ -1,7 +1,7 @@
 ---
 title: Agnes Ro Reveals the Transformation in Modern Development Roles at Atlassian - Insights From Tech Visionary
-date: 2024-12-22T21:02:07.819Z
-updated: 2024-12-24T23:14:31.911Z
+date: 2024-12-30T01:34:54.571Z
+updated: 2025-01-03T05:53:47.420Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-uncomplicatedscreensave-free-recording-software/"><u>[New] 2024 Approved UncomplicatedScreenSave Free Recording Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-top-25-instagram-hashtags-to-get-more-likes-and-followers/"><u>[Updated] 2024 Approved Top 25 Instagram Hashtags to Get More Likes and Followers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-list-superior-gaming-live-options/"><u>[Updated] Expert List Superior Gaming Live Options</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extensive-analysis-djis-latest-uav-inspire-1/"><u>[Updated] Extensive Analysis DJI's Latest UAV, Inspire 1</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-the-impact-pros-and-cons-of-integrating-chatgpt-into-your-writing-process/"><u>Assessing the Impact: Pros & Cons of Integrating ChatGPT Into Your Writing Process</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-sgs-green-transition-calls-increase-for-financing-ai-based-carbon-reduction-strategies-insights-from-zdnet/"><u>Boosting SG's Green Transition: Calls Increase for Financing AI-Based Carbon Reduction Strategies - Insights From ZDNet</u></a></li>
-<li><a href="https://video-capture.techidaily.com/capture-cinematic-moments-seamlessly-across-pcs-and-smartphones-for-2024/"><u>Capture Cinematic Moments Seamlessly Across PCs & Smartphones for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-skills-embrace-boundary-pushing-technology-beyond-just-ai-insights-from-zdnet/"><u>Elevate Your Skills: Embrace Boundary-Pushing Technology Beyond Just AI - Insights From ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-slide-show-software-selection-from-ix-ios13/"><u>In 2024, Slide Show Software Selection From IX-IOS13</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainty-of-ai-efficiency-insights-from-zdnet/"><u>Navigating the Uncertainty of AI Efficiency: Insights From ZDNet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/odins-children-ragnaroks-reign/"><u>Odin’s Children Ragnarok’s Reign</u></a></li>
-<li><a href="https://app-tips.techidaily.com/singapore-invests-s24-billion-in-enhancing-ict-infrastructure-and-digital-solutions-insights-for-tech-leaders/"><u>Singapore Invests S$2.4 Billion in Enhancing ICT Infrastructure & Digital Solutions - Insights for Tech Leaders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-growing-dependence-of-your-enterprise-on-artificial-intelligence-understanding-the-role-of-multiple-ai-models/"><u>The Growing Dependence of Your Enterprise on Artificial Intelligence: Understanding the Role of Multiple AI Models</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-efficient-image-capturing-made-simple-the-best-pc-snipers-listed/"><u>[Updated] In 2024, Efficient Image Capturing Made Simple The Best PC Snipers Listed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-masterful-tools-for-youtube-text-extraction-online/"><u>[Updated] In 2024, Masterful Tools for YouTube Text Extraction Online</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-iphone-tips-achieve-softened-images-in-4-easy-steps/"><u>2024 Approved IPhone Tips Achieve Softened Images in 4 Easy Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boss-loses-cool-over-team-communication-mishaps-on-microsoft-teams/"><u>Boss Loses Cool Over Team Communication Mishaps on Microsoft Teams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/collaborative-development-of-advanced-llms-by-sony-and-ai-singapore-announced-tech-news/"><u>Collaborative Development of Advanced LLMs by Sony & AI Singapore Announced | Tech News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-task-completion-discovering-7-key-benefits-of-chatgpt-in-daily-routine/"><u>Elevate Task Completion: Discovering 7 Key Benefits of ChatGPT in Daily Routine</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-s18-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo S18 Fingerprint Lock</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-web-based-online-vertical-video-editors/"><u>New In 2024, Best Web-Based Online Vertical Video Editors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-the-lip-reader-how-this-innovative-app-poses-a-threat-to-giants-like-microsoft-teams-and-zoom-zdnet-insight/"><u>The Rise of the Lip-Reader: How This Innovative App Poses a Threat to Giants Like Microsoft Teams and Zoom | ZDNet Insight</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-linux-distributions-ideal-for-developers-a-comprehensive-guide-by-techradar/"><u>Top 5 Linux Distributions Ideal for Developers: A Comprehensive Guide by TechRadar</u></a></li>
 </ul></div>
 

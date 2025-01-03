@@ -1,7 +1,7 @@
 ---
 title: "1. Transforming Business: The Effects of Decentralization & Web3 on Corporations - Insights From ZDNet"
-date: 2024-12-19T23:52:52.711Z
-updated: 2024-12-24T22:25:18.797Z
+date: 2024-12-28T17:50:46.854Z
+updated: 2025-01-02T20:15:34.734Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,14 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-cutting-edge-techniques-for-slow-motion-video-production-on-mobile-devices/"><u>[New] Cutting Edge Techniques for Slow Motion Video Production on Mobile Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/adapting-cyber-defense-tactics-modernizing-security-expertise-amidst-outdated-infrastructure-challenges/"><u>Adapting Cyber Defense Tactics: Modernizing Security Expertise Amidst Outdated Infrastructure Challenges</u></a></li>
-<li><a href="https://driver-download.techidaily.com/compatible-with-windows-1087-logitech-brio-webcam-installation-software-and-driver-downloads/"><u>Compatible with Windows 10/8/7: Logitech Brio Webcam Installation Software and Driver Downloads</u></a></li>
-<li><a href="https://app-tips.techidaily.com/finding-reliable-artificial-intelligence-watermarks-insights-from-zdnet/"><u>Finding Reliable Artificial Intelligence Watermarks: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-will-artificial-intelligence-impact-future-careers-in-cybersecurity-challenges-and-opportunities/"><u>How Will Artificial Intelligence Impact Future Careers in Cybersecurity?: Challenges & Opportunities</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oppo-find-n3-flip-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Oppo Find N3 Flip to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-a-guide-to-gathering-gold-from-guided-goods-gazes-online/"><u>In 2024, A Guide to Gathering Gold From Guided Goods' Gazes Online</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-popular-win-11-22h2-hiccups/"><u>Resolving Popular WIN 11 22H2 Hiccups</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-by-tech-gurus-zdnets-exclusive-insights/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews by Tech Gurus | ZDNet's Exclusive Insights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-social-media-gold-rush-prime-hashes-for-viewership/"><u>[Updated] 2024 Approved Social Media Gold Rush Prime Hashes for Viewership</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-artful-swap-from-cold-scenes-to-cozy-vlogs/"><u>[Updated] 2024 Approved The Artful Swap From Cold Scenes to Cozy Vlogs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2022s-leading-collaborative-platforms-for-enhanced-teamwork-pcmag/"><u>2022'S Leading Collaborative Platforms for Enhanced Teamwork | PCMag</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-server-dynamics-integrating-strategy-based-games-discord/"><u>Boosting Server Dynamics: Integrating Strategy-Based Games (Discord)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-premier-cloud-platforms-exploring-the-strengths-of-aws-microsoft-azure-and-google-cloud-in-hybrid-saas-markets-insights-by-zdnet/"><u>Comprehensive Review of Premier Cloud Platforms: Exploring the Strengths of AWS, Microsoft Azure & Google Cloud in Hybrid, SaaS Markets | Insights by ZDNET</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-compatibility-update-hp-officejet-pro-6970-drivers-for-windows-users/"><u>Ensure Compatibility: Update HP OfficeJet Pro 6970 Drivers for Windows Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-elite-selection-of-macos-programs-featured-on-zdnet/"><u>Explore the Elite Selection of macOS Programs - Featured on ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-k11-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo K11 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovating-ai-research-breaking-free-from-conventional-llm-approaches/"><u>Innovating AI Research - Breaking Free From Conventional LLM Approaches</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-email-services-with-onlyoffice-a-step-by-step-guide/"><u>Integrating Email Services with ONLYOFFICE – A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/649421-9780307789426-light-emerging/"><u>Light Emerging | Free Book</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/migration-et-telechargement-gratuit-des-documents-alaw-en-ligne-avec-movavi/"><u>Migration Et Téléchargement Gratuit Des Documents ALAW en Ligne Avec Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1723016215288-restoring-audio-to-your-hearthstone-adventures-no-more-silent-battles/"><u>Restoring Audio to Your Hearthstone Adventures: No More Silent Battles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/sonys-ai-research-unit-collaborates-with-ai-singapore-on-advanced-language-models-technews/"><u>Sony's AI Research Unit Collaborates with AI Singapore on Advanced Language Models - TechNews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-here-exploring-the-cutting-edge-of-5g-and-edge-computing-innovations-highlights-by-zdnet/"><u>The Future Is Here: Exploring the Cutting-Edge of 5G and Edge Computing Innovations | Highlights by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-pc-experience-detailed-instructions-for-replacing-windows-with-linux-mint/"><u>Transform Your PC Experience: Detailed Instructions for Replacing Windows With Linux Mint</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-microsofts-critical-challenge-with-windows-11-just-one-year-away-an-in-depth-analysis-by-zdnet/"><u>Urgent: Microsoft's Critical Challenge with Windows 11 Just One Year Away - An In-Depth Analysis by ZDNet</u></a></li>
 </ul></div>
 

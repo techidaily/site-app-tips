@@ -1,7 +1,7 @@
 ---
 title: West Virginia Hospital Data Compromised Following Phishing Scheme - Insights by ZDNet
-date: 2024-12-18T04:50:19.802Z
-updated: 2024-12-25T02:51:39.605Z
+date: 2024-12-30T22:43:33.645Z
+updated: 2025-01-02T18:53:42.287Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 ## West Virginia Hospital Data Compromised Following Phishing Scheme - Insights by ZDNet
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Executive guide
@@ -20,7 +20,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 [![phishing-header.jpg](https://www.zdnet.com/a/img/resize/ac019af4c6d0d000921065b0769387a86a4afe61/2017/09/04/fc1528a9-ecf2-4e2a-b743-91f06206a23e/phishing-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) What is phishing? Everything you need to know to protect yourself from scam emails and more Don't click on that email! Find everything you need to know in this phishing guide including how to protect yourself from one of the most common forms of cyber attack.  Read now](https://www.zdnet.com/article/what-is-phishing-how-to-protect-yourself-from-scam-emails-and-more/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A hospital system in West Virginia has [suffered](https://www.prnewswire.com/news-releases/monongalia-health-system-inc-investigates-and-addresses-data-security-incident-301449436.html) a data breach resulting from a phishing attack, which gave hackers access to several email accounts. 
@@ -74,21 +74,19 @@ Mon Health started sending breach notification letters to victims on December 21
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-accessible-legal-tracks-for-gameplay-enjoyment-for-2024/"><u>[Updated] Accessible Legal Tracks for Gameplay Enjoyment for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-fundamentals-of-creating-dynamic-podcast-feeds/"><u>2024 Approved The Fundamentals of Creating Dynamic Podcast Feeds</u></a></li>
-<li><a href="https://app-tips.techidaily.com/apples-leap-into-advanced-cybersecurity-an-inside-look-at-the-new-os-designed-for-artificial-intelligence-data-centers/"><u>Apple's Leap Into Advanced Cybersecurity: An Inside Look at the New OS Designed for Artificial Intelligence Data Centers</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-c12-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia C12 Pro Phone that is Locked?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-lifelike-broadcasts-which-aspect-holds-the-high-ground/"><u>In 2024, Lifelike Broadcasts Which Aspect Holds the High Ground?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-your-asus-pce-ac68-wifi-card-reliable-drivers-available-for-free/"><u>Install Your ASUS PCE-AC68 WiFi Card - Reliable Drivers Available for Free!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/manipulating-media-with-mastery-tools-for-2024/"><u>Manipulating Media with Mastery Tools for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pulse-of-production-syncing-sound-in-w11-environments-for-2024/"><u>Pulse of Production Syncing Sound in W11 Environments for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/scaling-your-business-with-anthropics-revolutionary-claude-enterprise-unleashing-ai-power-on-a-massive-scale-zdnet/"><u>Scaling Your Business with Anthropic's Revolutionary Claude Enterprise: Unleashing AI Power on a Massive Scale | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/snowflake-unveils-advanced-llm-surpassing-metas-llama-3-with-reduced-training-data-tech-news/"><u>Snowflake Unveils Advanced LLM Surpassing Meta's LLaMA 3 with Reduced Training Data | Tech News</u></a></li>
-<li><a href="https://network-issues.techidaily.com/system-revived-graphics-card-driver-issue-resolved/"><u>System Revived: Graphics Card Driver Issue Resolved</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-chaos-in-linux-and-open-source-manuals-uncovering-organized-solutions/"><u>Taming Chaos in Linux & Open Source Manuals: Uncovering Organized Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-the-wild-expert-strategies-for-cleaner-linux-and-open-source-documentation/"><u>Taming the Wild: Expert Strategies for Cleaner Linux and Open Source Documentation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-expanding-low-codeno-code-landscape-how-its-reshaping-tech-job-roles-insights-from-zdnet/"><u>The Expanding Low-Code/No-Code Landscape: How It's Reshaping Tech Job Roles – Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-linux-education-programs-training-and-bootcamp-overviews-from-leading-sources/"><u>Top-Ranked Linux Education Programs: Training and Bootcamp Overviews From Leading Sources</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unleash-creativity-personalizing-your-google-meet-interface-for-2024/"><u>[New] Unleash Creativity Personalizing Your Google Meet Interface for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-complete-seo-strategy-for-podcast-growth-for-2024/"><u>[Updated] The Complete Seo Strategy for Podcast Growth for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-10-secrets-for-recording-sports-events-live-online/"><u>[Updated] Top 10 Secrets for Recording Sports Events Live Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unlocking-potential-angular-video-editing-on-your-android-device-for-2024/"><u>[Updated] Unlocking Potential Angular Video Editing on Your Android Device for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bust-the-bug-ultimate-fix-guide-to-stop-nba-2k23-from-crashing-on-your-pc/"><u>Bust the Bug: Ultimate Fix Guide to Stop NBA 2K23 From Crashing on Your PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/easy-audio-extractor-from-soundcloud-quick-and-simple-music-downloads/"><u>Easy Audio Extractor From SoundCloud – Quick and Simple Music Downloads.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-methods-to-transform-avi-files-for-streamlined-playback-on-iphone-ipad-and-ipod-via-itunes/"><u>Effortless Methods to Transform AVI Files for Streamlined Playback on iPhone, iPad & iPod via iTunes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-tips-for-resolving-unrecognized-devices-making-itunes-recognize-your-iphone-ipad-or-ipod-again/"><u>Expert Tips For Resolving Unrecognized Devices: Making iTunes Recognize Your iPhone, iPad, or iPod Again</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 14 3 Ways To Unlock</u></a></li>
+<li><a href="https://win-dash.techidaily.com/sandisk-compatible-drivers-for-windows-10-free-download-and-quick-setup-guide/"><u>SanDisk Compatible Drivers for Windows 10: Free Download & Quick Setup Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-the-issue-of-non-syncing-tunes-from-itunes-to-ios-devices/"><u>Solving the Issue of Non-Syncing Tunes From iTunes to iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transferring-your-itunes-collection-from-computer-to-external-hard-drive/"><u>Step-by-Step Guide: Transferring Your iTunes Collection From Computer to External Hard Drive</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-potential-how-chatgpt-can-refine-your-lifestyle-choices/"><u>Unlocking Potential: How ChatGPT Can Refine Your Lifestyle Choices</u></a></li>
 </ul></div>
 

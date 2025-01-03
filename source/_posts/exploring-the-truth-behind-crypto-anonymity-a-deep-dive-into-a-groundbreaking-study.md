@@ -1,7 +1,7 @@
 ---
 title: Exploring the Truth Behind Crypto Anonymity – A Deep Dive Into a Groundbreaking Study
-date: 2024-12-19T04:23:42.709Z
-updated: 2024-12-25T02:12:00.684Z
+date: 2024-12-29T01:36:12.617Z
+updated: 2025-01-02T19:35:39.184Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,22 +119,20 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastery-over-instagram-video-playback-pace/"><u>[New] Mastery Over Instagram Video Playback Pace</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-share-a-world-view-iphone-360-film-techniques-for-2024/"><u>[New] Share a World View IPhone 360 Film Techniques for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-elevating-systems-essential-tips-for-successful-upgrades/"><u>2024 Approved Elevating Systems Essential Tips for Successful Upgrades</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-elite-choice-in-chatbots-why-chatgpt-reigns-supreme-a-comprehensive-analysis/"><u>Discover the Elite Choice in Chatbots: Why ChatGPT Reigns Supreme - A Comprehensive Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-full-potential-of-eva-ai-by-ex-journey-your-essential-chatbot-review-compiled/"><u>Discover the Full Potential of EVA AI by Ex Journey – Your Essential Chatbot Review Compiled!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevenlabs-ai-voice-generation-review-with-a-look-at-other-options/"><u>ElevenLabs AI: Voice Generation Review with a Look at Other Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-bing-chat-how-to-converse-using-cutting-edge-gpt-language-models-by-microsoft/"><u>Exploring Bing Chat: How to Converse Using Cutting-Edge GPT Language Models by Microsoft</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-windows-7-wifi-driver-updates-now/"><u>Get the Latest Windows 7 WiFi Driver Updates Now</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-huawei-nova-y71-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Huawei Nova Y71 online without jailbreak</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-t2-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo T2 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/macbook-tricks-how-to-stop-automatic-sleep-when-you-close-the-lid/"><u>MacBook Tricks: How to Stop Automatic Sleep when You Close the Lid</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-through-the-best-of-ai-conversational-agents-in-depth-review-of-chatgpt/"><u>Navigating Through The Best of AI Conversational Agents: In-Depth Review Of ChatGPT</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/streamlining-your-site-facebook-live-integration-guide-for-2024/"><u>Streamlining Your Site Facebook LIVE Integration Guide for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-advanced-chatbot-innovations-combining-gpt-tech-with-astrological-insights/"><u>The Ultimate Guide to Advanced Chatbot Innovations Combining GPT Tech with Astrological Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-expert-assessment-and-key-features-of-the-revolutionary-ai-chatbot-chatsoner/"><u>The Ultimate Walkthrough: Expert Assessment and Key Features of the Revolutionary AI Chatbot, Chatsoner</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-choosing-a-leading-ai-companion-spotlight-on-chatgpts-excellence/"><u>Ultimate Guide to Choosing a Leading AI Companion: Spotlight on ChatGPT's Excellence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-androids-most-trusted-collage-maker-tools/"><u>[Updated] Android’s Most Trusted Collage Maker Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-journey-beyond-reality-the-best-of-youtubes-virtual-worlds/"><u>[Updated] Journey Beyond Reality The Best of YouTube’s Virtual Worlds</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-dj-how-does-machine-curated-music-stack-up-against-human-selection/"><u>AI DJ: How Does Machine-Curated Music Stack Up Against Human Selection?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-biz-marketers-now-utilizing-artificial-intelligence-insights-from-zdnet/"><u>AI Integration: One-Third of Biz Marketers Now Utilizing Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-chinas-leap-into-the-future-with-advanced-supercomputing-strategies/"><u>Empowering China's Leap Into the Future with Advanced Supercomputing Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolving-threats-demand-modern-cyber-skills-as-security-professionals-grapple-with-outdated-infrastructures/"><u>Evolving Threats Demand Modern Cyber Skills as Security Professionals Grapple with Outdated Infrastructures</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/from-speech-to-storage-the-recorders-pathway/"><u>From Speech to Storage The Recorder's Pathway</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-v30-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-guide-elevating-gameplay-recordings-via-obs-for-2024/"><u>How-To Guide Elevating Gameplay Recordings via OBS for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-enhance-engagement-mastering-template-based-video-description-writing/"><u>In 2024, Enhance Engagement Mastering Template-Based Video Description Writing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-ai-a-threat-to-future-opportunities-in-the-cybersecurity-workforce-expert-analysis-by-zdnet/"><u>Is AI a Threat to Future Opportunities in the Cybersecurity Workforce? | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-present-wave-of-instantaneous-change-an-unbalanced-distribution/"><u>Navigating the Present Wave of Instantaneous Change: An Unbalanced Distribution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/redragon-headset-mic-issues-discover-steps-to-restore-audio-input-on-windows-or-mac-computers/"><u>Redragon Headset Mic Issues? Discover Steps to Restore Audio Input on Windows or Mac Computers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-web-hosting-providers-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Web Hosting Providers : In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
 </ul></div>
 

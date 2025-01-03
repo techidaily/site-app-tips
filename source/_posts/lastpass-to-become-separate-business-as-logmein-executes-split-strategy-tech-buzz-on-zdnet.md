@@ -1,7 +1,7 @@
 ---
 title: LastPass to Become Separate Business as LogMeIn Executes Split Strategy | Tech Buzz on ZDNet
-date: 2024-12-20T17:55:03.470Z
-updated: 2024-12-24T20:56:14.125Z
+date: 2024-12-27T22:53:39.111Z
+updated: 2025-01-03T01:41:55.809Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ LogMeIn [announced](https://www.logmein.com/newsroom/press-release/2021/logmein-
 The cloud-based solutions company explained that the move allows LastPass to invest heavily in "customer experience, go-to-market functions and engineering" as a way to improve its "organic growth in password management," Single Sign-On (SSO) and multi-factor authentication (MFA). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -86,18 +86,20 @@ In a message to users, LastPass reiterated that it could "strategically increase
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-pro-vlc-top-10-hidden-player-powers/"><u>[Updated] Pro-VLC Top 10 Hidden Player Powers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-skyrocket-views-with-smartly-chosen-video-release-times/"><u>2024 Approved Skyrocket Views with Smartly Chosen Video Release Times</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-in-making-the-most-of-snap-camera-in-microsoft-teams/"><u>2024 Approved Step-In Making the Most of Snap Camera in Microsoft Teams</u></a></li>
-<li><a href="https://blog-min.techidaily.com/fixing-handbrake-compatibility-issues-with-vob-files-step-by-step-guide/"><u>Fixing HandBrake Compatibility Issues with VOB Files – Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/mirror-your-media-how-to-flip-a-clip-in-final-cut-pro-quickly/"><u>Mirror Your Media How to Flip a Clip in Final Cut Pro Quickly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-steps-access-your-icloud-images-from-anywhere/"><u>Simple Steps: Access Your iCloud Images From Anywhere</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-icloud-photo-sharing-issues-on-iphone-ipad-and-mac-a-comprehensive-guide/"><u>Solving iCloud Photo Sharing Issues on iPhone, iPad & Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-securely-syncing-your-ipad-pro-mini-and-air-with-icloud-backups/"><u>Step-by-Step Guide: Securely Syncing Your iPad Pro, Mini & Air with iCloud Backups</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-viewing-icloud-saved-passwords-on-ios-devices-and-computers/"><u>Step-by-Step Tutorial: Viewing iCloud Saved Passwords on iOS Devices & Computers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620264574-struggling-with-a-forgotten-icloud-login-discover-these-6-effective-remedies/"><u>Struggling with a Forgotten iCloud Login? Discover These 6 Effective Remedies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/surpassing-windows-internet-speed-ceiling-with-ease/"><u>Surpassing Windows Internet Speed Ceiling with Ease</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unveiling-the-ideal-youtube-subset-of-viewers/"><u>[Updated] Unveiling the Ideal YouTube Subset of Viewers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-top-5-low-cost-pinterest-video-download-software/"><u>2024 Approved Top 5 Low-Cost Pinterest Video Download Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-5-sd-card-apps-for-optimal-file-management-on-your-android-device/"><u>Best 5 SD Card Apps for Optimal File Management on Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-walkthrough-for-recovering-purchased-applications-and-unlocking-in-game-purchases-in-android-systems/"><u>Complete Walkthrough for Recovering Purchased Applications & Unlocking In-Game Purchases in Android Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/concealing-applications-a-step-by-step-guide-for-android-ios-devices/"><u>Concealing Applications: A Step-by-Step Guide for Android, iOS Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-asus-bt500-bluetooth-50-usb-dongle-driver-for-windows-11-10-and-8/"><u>Download Asus BT500 Bluetooth 5.0 USB Dongle Driver for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/dungeon-dominance-top-ten-rogue-classics/"><u>Dungeon Dominance Top Ten Rogue Classics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exclusive-prime-day-specials-2024-shop-smart-with-the-most-sought-after-discounts-on-amazon/"><u>Exclusive Prime Day Specials 2024: Shop Smart with the Most Sought-After Discounts on Amazon!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-excellent-gps-software-for-android-devices-a-comprehensive-guide/"><u>Free Excellent GPS Software for Android Devices - A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-realme-12plus-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Realme 12+ 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-comprehensive-laptop-screenrec-users-handbook-for-2024/"><u>The Comprehensive Laptop ScreenRec User's Handbook for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-insights-on-videoleap-dont-miss-whats-next/"><u>Top Insights on Videoleap - Don't Miss What's Next</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-video-editing-tool-master-color-grading-with-ioss-top-application/"><u>Top Rated Video Editing Tool: Master Color Grading with iOS's Top Application</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-downloading-and-evaluating-apks-for-gaming-audio-content-and-device-rooting/"><u>Ultimate Guide to Downloading & Evaluating APKs for Gaming, Audio Content, and Device Rooting</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-pop-7-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Tecno Pop 7 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet
-date: 2024-12-21T22:43:16.867Z
-updated: 2024-12-24T21:53:41.266Z
+date: 2024-12-29T02:57:39.862Z
+updated: 2025-01-03T00:55:24.590Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 ## Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Executive guide
@@ -20,7 +20,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 [![phishing-header.jpg](https://www.zdnet.com/a/img/resize/ac019af4c6d0d000921065b0769387a86a4afe61/2017/09/04/fc1528a9-ecf2-4e2a-b743-91f06206a23e/phishing-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) What is phishing? Everything you need to know to protect yourself from scam emails and more Don't click on that email! Find everything you need to know in this phishing guide including how to protect yourself from one of the most common forms of cyber attack.  Read now](https://www.zdnet.com/article/what-is-phishing-how-to-protect-yourself-from-scam-emails-and-more/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A hospital system in West Virginia has [suffered](https://www.prnewswire.com/news-releases/monongalia-health-system-inc-investigates-and-addresses-data-security-incident-301449436.html) a data breach resulting from a phishing attack, which gave hackers access to several email accounts. 
@@ -74,16 +74,15 @@ Mon Health started sending breach notification letters to victims on December 21
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensible-list-best-games-music-found-online/"><u>[New] Comprehensible List Best Games’ Music Found Online</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-effortless-steps-to-blur-distractions-in-google-meets/"><u>[Updated] 2024 Approved Effortless Steps to Blur Distractions in Google Meets</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-ae-integrating-custom-typefaces/"><u>[Updated] In 2024, Mastering AE Integrating Custom Typefaces</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-battle-of-broadcasting-is-xsplit-better-than-obs-for-livestreams-for-2024/"><u>[Updated] The Battle of Broadcasting Is XSplit Better Than OBS for Livestreams for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/como-transformar-su-almacenamiento-con-el-mejor-programa-de-clonacion-de-western-digital-del-hdd-al-wd-ssd-eficientemente/"><u>Cómo Transformar Su Almacenamiento Con El Mejor Programa De Clonación De Western Digital: Del HDD Al WD SSD Eficientemente</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ditching-lastpass-master-managing-passwords-with-icloud-on-windows-a-complete-guide-by-zdnet/"><u>Ditching LastPass? Master Managing Passwords with iCloud on Windows - A Complete Guide by ZDNet</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-5-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 5 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo X100? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-protons-latest-feature-a-secure-password-vault-with-advanced-end-to-end-encryption-comprehensive-review-on-zdnet/"><u>Introducing Proton's Latest Feature: A Secure Password Vault with Advanced End-to-End Encryption - Comprehensive Review on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-security-my-experience-with-top-passwordless-password-manager-tools-the-clear-winner/"><u>Mastering Security: My Experience with Top Passwordless Password Manager Tools – The Clear Winner!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/oregon-healthcare-provider-alerts-over-half-a-million-clients-about-major-security-incident-tech-news/"><u>Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-apples-updated-logic-pro-brings-artificial-intelligence-to-your-ipad-and-mac-transforming-collaborative-music-production/"><u>Discover How Apple's Updated Logic Pro Brings Artificial Intelligence to Your iPad and Mac, Transforming Collaborative Music Production</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebooks-edge-mastering-the-art-of-360-videos-for-2024/"><u>Facebook's Edge Mastering the Art of 360 Videos for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-6-mobile-text-defense-tools-to-shield-conversations-on-android-smartphones/"><u>Leading 6 Mobile Text Defense Tools to Shield Conversations on Android Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lumafusion-the-ultimate-top-pick-for-ios-video-editing-apps/"><u>LumaFusion: The Ultimate Top Pick for iOS Video Editing Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-fix-top-5-methods-for-forcing-a-close-on-stuck-mac-applications/"><u>Quick Fix: Top 5 Methods for Forcing a Close on Stuck Mac Applications</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolved-compatibility-enhancements-in-microsofts-acpi-standard-battery-driver/"><u>Resolved: Compatibility Enhancements in Microsoft's ACPI Standard Battery Driver</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/sharp-images-no-fog-protecting-gopro-quality-for-2024/"><u>Sharp Images, No Fog Protecting GoPro Quality for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-on-android-rooting-using-elite-root-applications-both-gratis-and-subscription/"><u>Step-by-Step Tutorial on Android Rooting Using Elite ROOT Applications (Both Gratis and Subscription)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-12-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme 12 Pro+ 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/what-to-do-when-nvidia-gpu-isnt-detected-top-solutions/"><u>What To Do When Nvidia GPU Isn't Detected: Top Solutions</u></a></li>
 </ul></div>
 

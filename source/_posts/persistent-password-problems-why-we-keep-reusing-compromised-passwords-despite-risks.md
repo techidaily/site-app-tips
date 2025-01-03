@@ -1,7 +1,7 @@
 ---
 title: "Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks"
-date: 2024-12-17T20:10:22.112Z
-updated: 2024-12-25T00:39:57.077Z
+date: 2024-12-28T05:34:55.773Z
+updated: 2025-01-02T23:30:49.919Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -114,7 +114,7 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -141,7 +141,7 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -189,22 +189,17 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-world-of-drone-video-manipulation/"><u>[New] Navigating the World of Drone Video Manipulation</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/urturing-nature-in-the-metropolis-a-new-paradigm-for-cities/"><u>[New] Nurturing Nature in the Metropolis A New Paradigm for Cities</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-strategic-lines-for-striking-iphone-photography/"><u>[Updated] In 2024, Strategic Lines for Striking iPhone Photography</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-best-practice-manual-for-text-on-picture-edits/"><u>[Updated] The Best Practice Manual for Text-on-Picture Edits</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-hd-graphics-driver-update-free-download-for-windows-8-users/"><u>Amd Radeon HD Graphics Driver Update: FREE Download for Windows 8 Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-6-secure-chat-guard-apps-for-safeguarding-text-communications-on-android-devices/"><u>Best 6 Secure Chat Guard Apps for Safeguarding Text Communications on Android Devices</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/come-trasferire-i-tuoi-file-dal-backup-di-windows-10-a-windows-11-le-3-migliori-opzioni/"><u>Come Trasferire I Tuoi File Dal Backup Di Windows 10 a Windows 11: Le 3 Migliori Opzioni</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comment-guerir-un-fichier-video-mp4-endommage-sans-cout-sur-ordinateur-et-mac/"><u>Comment Guérir Un Fichier Video MP4 Endommagé Sans Coût Sur Ordinateur Et Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620191401-comprehensive-evaluation-of-picplaypost-revolutionizing-digital-content-with-advanced-editing-features-for-videos-collages-and-more/"><u>Comprehensive Evaluation of PicPlayPost: Revolutionizing Digital Content with Advanced Editing Features for Videos, Collages, and More!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-unleashing-the-power-of-personalized-marketing/"><u>Cookiebot-Enabled: Unleashing the Power of Personalized Marketing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194357-discover-the-top-factual-inshot-video-editing-tool-of-2024-a-must-see/"><u>Discover the Top Factual InShot Video Editing Tool of 2024 - A MUST-SEE</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-mobile-hotspot-enabler-applications-a-comprehensive-guide/"><u>Leading Mobile Hotspot Enabler Applications: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-controlling-application-access-and-privacy-settings-on-your-ios-device/"><u>Step-by-Step Guide: Controlling Application Access & Privacy Settings on Your iOS Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-choosing-iphone-scanners-and-transforming-your-documents/"><u>The Ultimate Guide to Choosing iPhone Scanners & Transforming Your Documents</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-20-high-earning-android-games-a-must-play-list-that-delivers-value/"><u>Top 20 High-Earning Android Games: A Must-Play List That Delivers Value</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-anonymized-messaging-services-the-leading-choices-for-private-communication/"><u>Top Anonymized Messaging Services: The Leading Choices for Private Communication</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620191785-top-insights-on-videoleap-dont-miss-whats-next/"><u>Top Insights on Videoleap - Don't Miss What's Next!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-discovering-cost-free-fcp-access-for-2024/"><u>[New] Discovering Cost-Free FCP Access for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-mastering-xbox-screencast-capture-techniques/"><u>[New] Mastering Xbox Screencast Capture Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-overcoming-challenges-in-periscope-livestreams/"><u>[New] Overcoming Challenges in Periscope Livestreams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveil-the-potential-of-vfx-animated-text-for-free/"><u>[New] Unveil the Potential of VFX Animated Text for Free</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-whatsapp-friendly-broadcasting-facebook-videos/"><u>[New] WhatsApp-Friendly Broadcasting Facebook Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-twitch-sharing-techniques-for-facebook-integration-for-2024/"><u>[Updated] Twitch Sharing Techniques for Facebook Integration for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/championing-creativity-in-ai-development-bank-chief-rejects-relying-on-simple-prompts-urges-intellectual-revolution-zdnet/"><u>Championing Creativity in AI Development, Bank Chief Rejects Relying on Simple Prompts; Urges Intellectual Revolution | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empower-management-with-ai-essential-training-strategies-before-deployment/"><u>Empower Management with AI: Essential Training Strategies Before Deployment</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-executives-with-tech-expertise-six-essential-tips-to-foster-digital-proficiency-in-management-teams/"><u>Empowering Executives with Tech Expertise - Six Essential Tips to Foster Digital Proficiency in Management Teams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-ai-evolution-is-pushing-the-limits-of-todays-tech-infrastructure-insights-from-zdnet/"><u>How AI Evolution Is Pushing the Limits of Today's Tech Infrastructure: Insights From ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24 Phone without Google Account?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-crafting-professional-productions-techniques-of-audio-ducking-and-fading-with-powerdirectorutility-for-2024/"><u>New Crafting Professional Productions Techniques of Audio Ducking and Fading with PowerDirectorutility for 2024</u></a></li>
 </ul></div>
 

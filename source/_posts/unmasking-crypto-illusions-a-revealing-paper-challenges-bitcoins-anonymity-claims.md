@@ -1,7 +1,7 @@
 ---
 title: "Unmasking Crypto Illusions: A Revealing Paper Challenges Bitcoin's Anonymity Claims"
-date: 2024-12-20T00:30:40.885Z
-updated: 2024-12-24T19:02:11.736Z
+date: 2024-12-31T20:37:56.236Z
+updated: 2025-01-02T19:14:42.778Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,18 +119,22 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-video-selfie-verfication-is-it-really-useful-for-2024/"><u>[New] Instagram Video Selfie Verfication - Is It Really Useful for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-the-ultimate-tutorial-on-designing-dynamic-facebook-slides/"><u>[New] The Ultimate Tutorial on Designing Dynamic Facebook Slides</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unveiling-the-secrets-to-successful-instant-sharing-online/"><u>[Updated] 2024 Approved Unveiling the Secrets to Successful Instant Sharing Online</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/effective-strategies-for-building-a-recovery-disk-on-windows-server-201n9-the-top-2-methods/"><u>Effective Strategies for Building a Recovery Disk on Windows Server 201N9: The Top 2 Methods</u></a></li>
-<li><a href="https://video-capture.techidaily.com/effortlessly-record-time-lapses-on-apple-devices-for-2024/"><u>Effortlessly Record Time-Lapses on Apple Devices for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-citizen-developers-in-modern-business-workflows/"><u>Empowering Citizen Developers in Modern Business Workflows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-low-code-solutions-can-boost-your-companys-appeal-insights-from-zdnet/"><u>How Low-Code Solutions Can Boost Your Company's Appeal: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-streamline-your-linuxopen-source-knowledge-base-for-clarity-and-efficiency-expert-insights-and-solutions/"><u>How to Streamline Your Linux/Open-Source Knowledge Base for Clarity & Efficiency: Expert Insights and Solutions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-leading-macos-mkv-players-exposed/"><u>In 2024, Leading macOS MKV Players Exposed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/llm-unleashed-the-powerhouse-of-language-processing/"><u>LLM Unleashed: The Powerhouse of Language Processing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-preserve-your-memories-burning-videos-to-dvd-on-windows-and-mac/"><u>New Preserve Your Memories Burning Videos to DVD on Windows and Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-to-elevate-your-system-from-windows-home-to-professional-the-ultimate-benefits-explained/"><u>Step-by-Step Guide to Elevate Your System From Windows Home to Professional – The Ultimate Benefits Explained</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-ai-how-langchain-revolutionizes-generative-assistance/"><u>Unleashing the Power of AI: How LangChain Revolutionizes Generative Assistance</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-brain-busting-the-premier-room-challenge-list/"><u>[New] Brain-Busting The Premier Room Challenge List</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-creating-characters-in-the-metaverse-an-easy-methodology/"><u>[Updated] 2024 Approved Creating Characters in the Metaverse An Easy Methodology</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-total-motion-analysis-2023/"><u>[Updated] In 2024, Total Motion Analysis 2023</u></a></li>
+<li><a href="https://app-tips.techidaily.com/6-effective-methods-for-restoring-your-icloud-account-password/"><u>6 Effective Methods for Restoring Your iCloud Account Password</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-fixes-for-downloading-image-failed-on-ios-1211-top-7-methods/"><u>Best Fixes for 'Downloading Image Failed' On iOS 12/11: Top 7 Methods</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-easily-and-instantly-unlock-your-device-from-apples-icloud/"><u>How to Easily and Instantly Unlock Your Device From Apple's iCloud</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-zte-axon-40-lite-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset ZTE Axon 40 Lite Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-retrieve-your-forgotten-iphone-itunes-backup-passcode/"><u>How to Retrieve Your Forgotten iPhone iTunes Backup Passcode</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unseen-elements-in-instagram-stories-for-the-curious-viewer/"><u>In 2024, Unseen Elements in Instagram Stories For the Curious Viewer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-apples-icloud-family-sharing-an-in-depth-tutorial-for-seamless-collaboration/"><u>Mastering Apple's iCloud Family Sharing - An In-Depth Tutorial for Seamless Collaboration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-methods-eliminate-windows-11s-search-visibility/"><u>Proven Methods: Eliminate Windows 11'S Search Visibility</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-and-simple-methods-accessing-your-icloud-photos-without-an-iphone/"><u>Quick & Simple Methods: Accessing Your iCloud Photos Without an iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/struggling-with-a-forgotten-icloud-login-discover-these-6-effective-remedies/"><u>Struggling with a Forgotten iCloud Login? Discover These 6 Effective Remedies!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-honor-90-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Honor 90 Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620263135-ultimate-guide-steps-for-removing-your-icloud-email-address-top-strategies-inside/"><u>Ultimate Guide: Steps for Removing Your iCloud Email Address - Top Strategies Inside!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-join-the-ranks-top-5-free-online-video-joiners-you-need-to-try-for-2024/"><u>Updated Join the Ranks Top 5 Free Online Video Joiners You Need to Try for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/yl-computing-exclusive-a-comprehensive-walkthrough-on-how-to-delete-accounts-from-the-windows-control-panel/"><u>YL Computing Exclusive: A Comprehensive Walkthrough on How to Delete Accounts From the Windows Control Panel</u></a></li>
 </ul></div>
 

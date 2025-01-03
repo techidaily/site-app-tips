@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]"
-date: 2024-12-21T21:20:00.734Z
-updated: 2024-12-24T18:08:10.211Z
+date: 2024-12-27T23:32:37.481Z
+updated: 2025-01-02T22:43:34.673Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ Creating and remembering a unique and complex password for each of your accounts
 A good password manager will create, store, and apply strong and complex passwords across the board, thereby securing your accounts. I've used a password manager for years and wouldn't be able to juggle all my online accounts without it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -46,7 +46,7 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -66,7 +66,7 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -90,7 +90,7 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -139,21 +139,19 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/updated-streamlining-media-transformation-from-xml-to-srt/"><u>[Updated] Streamlining Media Transformation From XML to SRT</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-how-to-create-360-degree-photosimages-with-fisheye-lens/"><u>2024 Approved How to Create 360 Degree Photos/Images with Fisheye Lens</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/camerasection-breakdown-analysis/"><u>CameraSection Breakdown Analysis</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/enhance-pc-speed-and-reliability-with-our-expert-cleanup-tips-from-yl-software/"><u>Enhance PC Speed & Reliability with Our Expert Cleanup Tips From YL Software</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-redmi-13c-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi Redmi 13C? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-restore-your-ipad-using-icloud-backup-a-step-by-step-guide-with-and-without-factory-reset/"><u>How to Restore Your iPad Using iCloud Backup: A Step-by-Step Guide with and Without Factory Reset</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-sony-xperia-1-v-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Sony Xperia 1 V by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-14-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi 14 Pro to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-bringing-bygone-era-filmmaking-to-life-today/"><u>In 2024, Bringing Bygone Era Filmmaking to Life Today</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-data-security-the-ultimate-icloud-storage-and-backup-manual/"><u>Mastering Data Security: The Ultimate iCloud Storage & Backup Manual</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/revolutionizing-buttons-mondlys-partnership-with-pearson/"><u>Revolutionizing Buttons: Mondly's Partnership With Pearson</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-clearing-out-icloud-backups-across-devices-for-more-space/"><u>Step-by-Step Guide: Clearing Out iCloud Backups Across Devices for More Space</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-connecting-your-pc-with-icloud-through-the-icloud-control-panel/"><u>Step-by-Step Guide: Connecting Your PC with iCloud Through the iCloud Control Panel</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-3-methods-to-remove-ebooks-from-your-icloud-library-freeing-up-space/"><u>Top 3 Methods to Remove eBooks From Your iCloud Library, Freeing Up Space</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshoot-your-icloud-picture-sharing-problems-for-ios-devices-and-macbook-computers-essential-steps/"><u>Troubleshoot Your iCloud Picture Sharing Problems for iOS Devices and MacBook Computers - Essential Steps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-icloud-family-sharing-a-comprehensive-guide-on-implementation-and-usage/"><u>Unveiling iCloud Family Sharing: A Comprehensive Guide on Implementation and Usage</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamlining-your-personal-library-from-spotify-to-youtube-music-for-2024/"><u>[Updated] Streamlining Your Personal Library From Spotify, To YouTube Music for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-itel-a70-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Itel A70 Phone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-apple-clips-in-depth-analysis-and-tips/"><u>Comprehensive Guide to Using Apple Clips: In-Depth Analysis and Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/exclusive-review-top-6-screen-recorders-for-mac/"><u>Exclusive Review Top 6 Screen Recorders for Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-does-trimming-videos-impact-their-filesize-tips-for-keeping-it-small/"><u>How Does Trimming Videos Impact Their Filesize? Tips for Keeping It Small</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-xs-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone XS</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-google-pixel-fold-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-your-communication-avoid-missing-calls-amidst-noise-or-muting-with-advanced-flash-tech-for-up-to-10-contacts/"><u>Master Your Communication: Avoid Missing Calls Amidst Noise or Muting with Advanced Flash Tech for Up to 10 Contacts</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-lenovo-mouse-pad-in-windows-systems-win-1187-with-these-simple-repair-tips/"><u>Revive Your Lenovo Mouse Pad in Windows Systems (Win 11/8/7) with These Simple Repair Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-shotcut-video-editor-a-comprehensive-guide-dont-miss-it/"><u>Top-Ranked Shotcut Video Editor: A Comprehensive Guide - Don't Miss It!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193118-ultimate-summary-and-expert-take-on-gopro-quik-your-essential-reading-for-this-year/"><u>Ultimate Summary and Expert Take on GoPro Quik – Your Essential Reading for This Year!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-lumafusion-reigns-supreme-in-the-world-of-ios-video-editors-a-detailed-review/"><u>Why LumaFusion Reigns Supreme in the World of iOS Video Editors – A Detailed Review</u></a></li>
 </ul></div>
 

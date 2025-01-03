@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet"
-date: 2024-12-22T17:24:24.438Z
-updated: 2024-12-24T20:16:52.963Z
+date: 2025-01-02T04:14:16.449Z
+updated: 2025-01-02T22:29:12.636Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -116,7 +116,7 @@ Analysis of identity and access management (IAM) polices taking into account hun
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -137,7 +137,7 @@ Another practice that isn't helping IT departments is [poor password security](h
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### special feature
@@ -157,7 +157,7 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -183,18 +183,17 @@ IT departments should also consider whether regular accounts need administrator 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-assessing-acid-pro-top-alternative-software/"><u>[New] 2024 Approved Assessing ACID Pro Top Alternative Software</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-boosting-your-snapstreak-essential-tips-and-tricks/"><u>[Updated] 2024 Approved Boosting Your Snapstreak Essential Tips and Tricks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-anon-mastery-pcandroidios-edition/"><u>[Updated] 2024 Approved Instagram Anon Mastery PC/Android/iOS Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-6-easy-to-use-swf-editors-for-seamless-file-manipulation/"><u>Best 6 Easy-to-Use SWF Editors for Seamless File Manipulation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-steps-to-view-and-manage-photos-and-files-across-devices-with-icloud/"><u>Easy Steps to View and Manage Photos & Files Across Devices with iCloud</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-tips-quick-and-simple-methods-for-slicing-through-ogg-media-tracks/"><u>Expert Tips: Quick and Simple Methods for Slicing Through OGG Media Tracks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-youtube-seo-a-guide-to-keyword-discovery/"><u>Grasping YouTube SEO A Guide to Keyword Discovery</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-ensure-flawless-textures-when-3d-printing-parts/"><u>How to Ensure Flawless Textures When 3D Printing Parts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/icloud-email-eradication-mastery-discover-the-best-techniques-and-tips-to-delete-successfully/"><u>ICloud Email Eradication Mastery: Discover the Best Techniques & Tips to Delete Successfully</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-cloaking-in-content-an-introduction-to-video-smoothing/"><u>In 2024, Cloaking in Content An Introduction to Video Smoothing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620264324-lost-something-in-your-icloud-storage-master-the-art-of-icloud-backup-data-retrieval/"><u>Lost Something in Your iCloud Storage? Master the Art of iCloud Backup Data Retrieval!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/methods-for-overcoming-icloud-lock-screen-hurdles-techniques-with-and-without-apple-account-access/"><u>Methods for Overcoming iCloud Lock Screen Hurdles: Techniques with and without Apple Account Access</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-practical-guide-to-using-your-blink-outdoor-multi-functional-lighting-cam/"><u>A Practical Guide to Using Your Blink Outdoor Multi-Functional Lighting Cam</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-charts-with-a-click-youtube-short-tunes-made-easy/"><u>Crafting Charts with a Click YouTube Short Tunes Made Easy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-free-android-chat-applications-ranked-from-1-to-10/"><u>Discover the Ultimate Selection of Free Android Chat Applications: Ranked From #1 to #10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-road-safety-with-the-11-most-effective-apps-for-handsfree-sms-access/"><u>Enhance Road Safety with the 11 Most Effective Apps for Handsfree SMS Access</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-insiders-guide-to-audio-recordings-using-apowersoft-and-discovering-4-comparable-software-options/"><u>New The Insiders Guide to Audio Recordings Using Apowersoft & Discovering 4 Comparable Software Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protecting-your-information-steps-for-opting-out-of-chatgpt-services/"><u>Protecting Your Information: Steps for Opting Out of ChatGPT Services</u></a></li>
+<li><a href="https://fox-http.techidaily.com/quadcopters-unveiled-decoding-their-mechanism-and-functions/"><u>Quadcopters Unveiled Decoding Their Mechanism and Functions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/spark-ar-maximizing-realism-with-downloadable-lut-files-for-2024/"><u>Spark AR Maximizing Realism with Downloadable LUT Files for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-11-superior-sound-integration-tools-for-adding-music-and-voice-to-videos-across-android-ios-mac-and-pc-platforms/"><u>The Ultimate List of 11 Superior Sound Integration Tools for Adding Music & Voice to Videos Across Android, iOS, Mac & PC Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-biometric-lock-screen-applications-for-your-android-device/"><u>Top 10 Biometric Lock Screen Applications for Your Android Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-nokia-g310-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Nokia G310 Phone</u></a></li>
 </ul></div>
 

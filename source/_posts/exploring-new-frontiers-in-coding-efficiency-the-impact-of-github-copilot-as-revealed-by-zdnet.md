@@ -1,7 +1,7 @@
 ---
 title: "Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet"
-date: 2024-12-18T21:33:04.808Z
-updated: 2024-12-24T17:16:32.186Z
+date: 2024-12-31T03:37:13.806Z
+updated: 2025-01-02T21:18:03.928Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-convert-and-share-simplified-mp3-to-youtube-process-3-phases/"><u>[New] 2024 Approved Convert & Share Simplified MP3 to YouTube Process [3 Phases]</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-addressing-mute-problems-in-obs-live-recording/"><u>[New] Addressing Mute Problems in OBS Live Recording</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unwind-the-clock-how-to-reverse-videos-online/"><u>[Updated] Unwind the Clock How to Reverse Videos Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/asus-launches-the-pioneering-rog-nuc-desktop-pc-with-high-end-specs-including-core-ultra-9-processors-and-rtx-4070-graphics-from-1629/"><u>Asus Launches the Pioneering ROG NUC Desktop PC with High-End Specs Including Core Ultra 9 Processors and RTX 4070 Graphics From $1,629</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/compile-presentation-asset-to-video/"><u>Compile Presentation Asset to Video</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-interaction-premium-us-exclusive-chatgpt-now-at-20mth/"><u>Elevate Your Interaction: Premium U.S.-exclusive ChatGPT Now at $20/Mth</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-the-future-how-your-enterprise-will-depend-on-numerous-ai-algorithms-insights-from-zdnet/"><u>Embracing the Future: How Your Enterprise Will Depend on Numerous AI Algorithms - Insights From ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-gionee-f3-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Gionee F3 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-impenetrable-ai-watermark-techniques-for-content-security-zdnet/"><u>Mastering Impenetrable AI Watermark Techniques for Content Security | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-todays-obstacles-dealing-with-imperfect-ai-output-and-doubts-on-reliability-insights-from-zdnet/"><u>Navigating Today's Obstacles: Dealing with Imperfect AI Output & Doubts on Reliability - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-complete-artificial-intelligence-journey-unfolds-direct-access-to-business-innovation-experts-zdnet-exploration/"><u>The Complete Artificial Intelligence Journey Unfolds - Direct Access to Business Innovation Experts | ZDNet Exploration</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-best-10-free-recording-apps-for-slack-chats/"><u>[New] 2024 Approved Best 10 Free Recording Apps for Slack Chats</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-google-meetings-archive/"><u>[New] 2024 Approved Google Meetings Archive</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-navigating-google-meets-virtual-whiteboards-across-appleandroid-and-laptops/"><u>[New] Navigating Google Meet's Virtual Whiteboards Across Apple/Android & Laptops</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitter-video-viral/"><u>2024 Approved Twitter Video Viral</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amazons-innovative-approach-introducing-an-advanced-ai-benchmark-for-ranking-annotation-gaps-spotlight-on-the-latest-zdnet-report/"><u>Amazon's Innovative Approach: Introducing an Advanced AI Benchmark for Ranking Annotation Gaps - Spotlight on the Latest ZDNet Report</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-progress-in-strategic-convergence-zdnet/"><u>Bridging the Tech and Business Divide: Progress in Strategic Convergence | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-chilly-response-of-enterprises-to-the-heated-hype-around-5g-insights-and-analysis-zdnet/"><u>Exploring the Chilly Response of Enterprises to the Heated Hype Around 5G: Insights and Analysis | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-concept-of-immutable-systems-in-linux-key-advantages-for-stable-and-secure-operations-it-security-hub/"><u>Exploring the Concept of Immutable Systems in Linux: Key Advantages for Stable and Secure Operations | IT Security Hub</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-new-hp-3755-all-in-one-printer-driver-on-windows-systems-1087/"><u>How to Install the New HP 3755 All-in-One Printer Driver on Windows Systems (10/8/7)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-sea-snag-footage-top-5-picks/"><u>In 2024, Ultimate Sea Snag Footage - Top 5 Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/intel-predicts-enterprise-adoption-of-ai-over-next-three-to-five-years-insights-from-zdnet/"><u>Intel Predicts Enterprise Adoption of AI Over Next Three to Five Years: Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-windows-11-start-menu-glitches-effectively/"><u>Troubleshoot and Fix Windows 11 Start Menu Glitches Effectively</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-kubernetes-its-critical-role-in-modern-software-deployment/"><u>Unveiling Kubernetes: Its Critical Role in Modern Software Deployment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-the-optimal-performance-rate-your-pc-requires/"><u>What's the Optimal Performance Rate Your PC Requires?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-career-fulfillment-surpasses-tech-giants-the-joy-of-working-outside-the-apple-orchard/"><u>Why Career Fulfillment Surpasses Tech Giants: The Joy of Working Outside the Apple Orchard</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-expert-picks-leading-crm-solutions-of-2022-tailored-for-smb-efficiency-and-growth/"><u>ZDNet's Expert Picks: Leading CRM Solutions of 2022 Tailored for SMB Efficiency and Growth</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Company's Safety: Start with Individual Protection Strategies - Insights From ZDNet"
-date: 2024-12-23T01:14:54.798Z
-updated: 2024-12-24T20:14:00.114Z
+date: 2024-12-27T19:48:21.195Z
+updated: 2025-01-02T18:25:37.161Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 Corporations aren't doing enough to improve their employees' personal security practices. Credentials remain the highest targeted data type as they are the gateway to ransomware and data theft. 61% of data breaches in 2021 involved the use of stolen and misused credentials. Bad actors took advantage of a global pandemic to increase the number of phishing attacks, the cause of stolen credentials in 36% of breaches -- a 9% increase over last year -- according to the [Verizon 2021 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdfx). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,19 +66,16 @@ Given how connected we all are, the rising demands of working anywhere, and incr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-srt-from-basics-to-cutting-edge-techniques/"><u>[New] In 2024, SRT From Basics to Cutting-Edge Techniques</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-must-have-windows-11-video-editing-apps-list/"><u>[New] Must-Have Windows 11 Video Editing Apps List</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-sound-system-advances-announced-for-2024/"><u>[New] Sound System Advances Announced for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-15-gaming-capture-utilities/"><u>[New] Top 15 Gaming Capture Utilities</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-detailed-analysis-of-grand-quests-in-yokus-island-express-where-surprises-abound/"><u>A Detailed Analysis of Grand Quests in Yoku's Island Express: Where Surprises Abound</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bing-chat-explored-in-depth-insights-on-ai-and-gpt-4-integration/"><u>Bing Chat Explored: In-Depth Insights on AI and GPT-4 Integration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-to-chatgpt-2024-unveiling-key-functionalities-and-resolving-internal-errors/"><u>Complete Guide to ChatGPT 2024: Unveiling Key Functionalities and Resolving Internal Errors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-everything-you-need-to-know-about-the-renamed-eva-ai-bot-formerly-known-as-ex-journey/"><u>Discover Everything You Need to Know About the Renamed EVA AI Bot: Formerly Known as Ex Journey</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-device-functionality-simply-upload/"><u>Enhance Device Functionality, Simply Upload</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-s18-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo S18</u></a></li>
-<li><a href="https://article-posts.techidaily.com/internet-radio-streaming-made-easy-your-recording-guidebook-for-2024/"><u>Internet Radio Streaming Made Easy Your Recording Guidebook for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-10-essential-fcpx-plugins-to-elevate-your-video-editing-game-free-and-paid-for-2024/"><u>New 10 Essential FCPX Plugins to Elevate Your Video Editing Game Free and Paid for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-overview-of-the-newest-ai-powered-chatbots-integrating-gpt-and-astrology/"><u>Top Rated Overview of the Newest AI-Powered Chatbots: Integrating GPT and Astrology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-chatting-world-with-top-10-innovative-ai-chatbot-solutions/"><u>Transform Your Chatting World with Top 10 Innovative AI Chatbot Solutions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-ultimate-free-fb-photovideo-maker/"><u>[New] Ultimate Free FB Photo/Video Maker</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-seamless-video-downloads-windowsmacosandroid-2e-2023/"><u>[Updated] Seamless Video Downloads Windows/macOS/Android, 2E 2023</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-discovering-the-ultimate-ai-watermark-techniques-insights-from-zdnet/"><u>1. Discovering the Ultimate AI Watermark Techniques: Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/el-success-strategy-standard-studio-or-beta-edge-for-2024/"><u>Channel Success Strategy Standard Studio or Beta Edge for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sporty-sound-solidity-a-review-of-boses-headphone-range/"><u>Sporty Sound Solidity: A Review of Bose's Headphone Range</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolution-of-coding-from-rote-methods-to-ai-enhanced-software-engineering-insights-from-zdnet/"><u>The Evolution of Coding: From Rote Methods to AI-Enhanced Software Engineering - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-pros-and-cons-of-the-tp-link-av2000-powerline-adapter-fast-but-flawed-design-examined/"><u>The Pros and Cons of the TP-Link AV2000 Powerline Adapter: Fast but Flawed Design Examined</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-singapores-2nbillion-commitment-to-supercharge-its-it-infrastructure-and-elevate-digital-solutions-tech-insight/"><u>Unveiling Singapore's $2.nBillion Commitment to Supercharge Its IT Infrastructure and Elevate Digital Solutions | Tech Insight</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-secrets-to-impactful-patient-storytelling-in-video/"><u>Unveiling the Secrets to Impactful Patient Storytelling in Video</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-addressing-outdated-technology-is-crucial-a-case-study-on-migration-missteps/"><u>Why Addressing Outdated Technology Is Crucial: A Case Study on Migration Missteps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-pull-of-open-source-for-global-leaders-in-innovation/"><u>ZDNet Explores the Pull of Open Source for Global Leaders in Innovation</u></a></li>
 </ul></div>
 

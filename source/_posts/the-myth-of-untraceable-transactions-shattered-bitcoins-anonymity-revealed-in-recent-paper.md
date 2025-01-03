@@ -1,7 +1,7 @@
 ---
 title: "The Myth of Untraceable Transactions Shattered: Bitcoin's Anonymity Revealed in Recent Paper"
-date: 2024-12-20T22:32:26.701Z
-updated: 2024-12-25T04:28:52.121Z
+date: 2024-12-30T18:05:55.829Z
+updated: 2025-01-02T17:14:45.531Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,20 +119,16 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-navigating-googles-augmented-reality-adornments/"><u>[New] 2024 Approved Navigating Google's Augmented Reality Adornments</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlock-creative-potential-adding-sound-to-your-instagram-stories/"><u>[New] 2024 Approved Unlock Creative Potential Adding Sound to Your Instagram Stories</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-ideal-history-streams-the-10-premier-channels-for-students-study/"><u>[Updated] 2024 Approved Ideal History Streams The 10 Premier Channels for Students' Study</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-ableton-live-mastering-volume-dampening/"><u>[Updated] Ableton Live Mastering Volume Dampening</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-latest-twitter-videos-that-exploded-online/"><u>[Updated] In 2024, Latest Twitter Videos That Exploded Online</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-absence-of-recommended-videos-on-facebook-for-2024/"><u>[Updated] Unveiling Absence of Recommended Videos on Facebook for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-secure-ways-to-break-into-apple-id-protected-devices-top-5-tools-ensuring-full-access-without-errors/"><u>Best Secure Ways to Break Into Apple ID-Protected Devices: Top 5 Tools Ensuring Full Access Without Errors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-how-to-modify-or-reset-your-apple-id-in-the-ios-cloud-service/"><u>Comprehensive Tutorial: How To Modify or Reset Your Apple ID in the iOS Cloud Service</u></a></li>
-<li><a href="https://app-tips.techidaily.com/connecting-icloud-and-windows-pc-a-comprehensive-tutorial-for-syncing-calendars/"><u>Connecting iCloud and Windows PC: A Comprehensive Tutorial for Syncing Calendars</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/inspirational-themes-for-regular-vlogs-for-2024/"><u>Inspirational Themes for Regular Vlogs for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lost-something-in-your-icloud-storage-master-the-art-of-icloud-backup-data-retrieval/"><u>Lost Something in Your iCloud Storage? Master the Art of iCloud Backup Data Retrieval</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximize-your-network-proven-strategies-to-recover-contacts-from-icloud-without-compromise/"><u>Maximize Your Network: Proven Strategies to Recover Contacts From iCloud Without Compromise</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-for-securing-your-whatsapp-data-with-icloud-backups/"><u>Step-by-Step Instructions for Securing Your WhatsApp Data with iCloud Backups</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-on-clearing-out-your-visual-memories-photosimages-from-icloud-storage/"><u>Ultimate Tutorial on Clearing Out Your Visual Memories (Photos/Images) From iCloud Storage</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/uncomplicated-video-snip-for-win10-users-for-2024/"><u>Uncomplicated Video Snip for Win10 Users for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-amplify-youtube-performance-rapid-video-rendering-guide/"><u>[Updated] 2024 Approved Amplify YouTube Performance - Rapid Video Rendering Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-your-funny-bone-a-stepwise-guide-to-making-memes-on-9gag/"><u>[Updated] Unleashing Your Funny Bone A Stepwise Guide to Making Memes on 9GAG</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-6-mobile-explorer-tools-compatible-with-ios-devices-on-pcmac-systems/"><u>Discover the Top 6 Mobile Explorer Tools Compatible with iOS Devices on PC/Mac Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-10-alternatives-to-app-lock-on-android-devices/"><u>Discover the Ultimate 10 Alternatives to App Lock on Android Devices</u></a></li>
+<li><a href="https://win-unique.techidaily.com/fast-troubleshooting-techniques-for-resolving-failures-in-windows-10-temporary-file-copies/"><u>Fast Troubleshooting Techniques for Resolving Failures in Windows 10 Temporary File Copies</u></a></li>
+<li><a href="https://windows11.techidaily.com/fuchsia-fiasco-solutions-to-reclaiming-a-standard-desktop-display/"><u>Fuchsia Fiasco? Solutions to Reclaiming a Standard Desktop Display</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-mastering-your-android-device-top-free-and-premium-rooting-apps/"><u>Guide: Mastering Your Android Device - Top Free & Premium Rooting Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/master-the-craft-streamlining-your-online-television-recordings/"><u>Master the Craft Streamlining Your Online Television Recordings</u></a></li>
+<li><a href="https://fox-within.techidaily.com/revamp-your-desktop-aesthetics-with-easy-background-changes-in-the-windows-control-panel-expert-advice-from-yl-software/"><u>Revamp Your Desktop Aesthetics with Easy Background Changes in the Windows Control Panel – Expert Advice From YL Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-selection-of-android-screen-casting-apps-discover-the-top-9-options-to-enhance-your-experience/"><u>The Ultimate Selection of Android Screen Casting Apps: Discover the Top 9 Options to Enhance Your Experience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194671-transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks</u></a></li>
 </ul></div>
 

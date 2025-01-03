@@ -1,7 +1,7 @@
 ---
 title: Elevating Enterprise Defense Starts at the Employee Level – Expert Advice on Corporate and Personal Cybersecurity by ZDNet
-date: 2024-12-20T03:31:10.809Z
-updated: 2024-12-24T20:37:49.422Z
+date: 2024-12-29T17:59:27.149Z
+updated: 2025-01-02T23:30:47.568Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Corporations aren't doing enough to improve their employees' personal security practices. Credentials remain the highest targeted data type as they are the gateway to ransomware and data theft. 61% of data breaches in 2021 involved the use of stolen and misused credentials. Bad actors took advantage of a global pandemic to increase the number of phishing attacks, the cause of stolen credentials in 36% of breaches -- a 9% increase over last year -- according to the [Verizon 2021 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdfx). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,21 +66,18 @@ Given how connected we all are, the rising demands of working anywhere, and incr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-shockingly-fast-crafting-a-google-image-collaboration/"><u>[Updated] 2024 Approved Shockingly Fast Crafting a Google Image Collaboration</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-top-10-premium-android-and-pc-compatible-video-editors/"><u>[Updated] 2024 Approved Top 10 Premium Android & PC-Compatible Video Editors</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-maze-of-multi-service-playlist-transfer/"><u>[Updated] Navigating the Maze of Multi-Service Playlist Transfer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/chatgpt-insight-report-extensive-feature-list-and-strategies-for-handling-server-issues/"><u>ChatGPT Insight Report - Extensive Feature List & Strategies for Handling Server Issues</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-how-to-upgrade-your-communication-with-the-best-10-ai-chatbot-solutions/"><u>Discover How to Upgrade Your Communication with the Best 10 AI Chatbot Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discovering-the-most-engaging-and-intelligent-gpt-chatbot-on-the-market/"><u>Discovering The Most Engaging and Intelligent GPT Chatbot on the Market</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-rectify-roblox-error-262/"><u>Guide to Rectify Roblox Error 262</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-crafting-professional-focus-mastering-teamblend-background-artistry/"><u>In 2024, Crafting Professional Focus Mastering Teamblend Background Artistry</u></a></li>
-<li><a href="https://app-tips.techidaily.com/insiders-guide-to-the-best-gpt-ai-chatbots-expert-analysis-and-review/"><u>Insider's Guide to the Best GPT AI Chatbots - Expert Analysis and Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leading-cable-modem-and-router-combinations-for-optimal-performance/"><u>Leading Cable Modem & Router Combinations for Optimal Performance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/side-hustle-success-with-ai-tools-beyond-chatgpt-professional-pc-building-strategies-and-collectible-retro-gaming-devices/"><u>Side Hustle Success with AI Tools Beyond ChatGPT, Professional PC Building Strategies & Collectible Retro Gaming Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/streamline-your-experience-quick-and-simple-guide-to-downloading-asus-monitor-drivers/"><u>Streamline Your Experience: Quick and Simple Guide to Downloading ASUS Monitor Drivers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-top-10-list-of-ai-powered-chatbots-for-enhanced-interaction/"><u>The Ultimate Top 10 List of AI-Powered Chatbots for Enhanced Interaction</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-reviews-of-gpt-based-chat-ais-what-you-need-to-discover/"><u>Top Reviews of GPT-Based Chat AIs: What You Need to Discover</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-of-ex-journeys-eva-ai-an-authoritative-chatbot-overview-you-need-to-read/"><u>Unlocking the Secrets of Ex Journey's EVA AI: An Authoritative Chatbot Overview You Need to Read</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/wav-to-ogg-conversion-ultimate-guide-for-offline-and-online-methods/"><u>WAV to Ogg Conversion: Ultimate Guide for Offline and Online Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-how-to-use-zoom-in-gmail-best-ways/"><u>[New] How to Use Zoom in Gmail [Best Ways]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-selecting-the-perfect-online-source-15-best-royalty-free-music-urls/"><u>[New] In 2024, Selecting the Perfect Online Source 15 Best Royalty-Free Music URLs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-free-mp4-conversion-tutorial-from-facebooks-high-definition-videos/"><u>[Updated] Free MP4 Conversion Tutorial From Facebook's High-Definition Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-bite-sized-to-detailed-converting-shorts-to-editable-mp4/"><u>[Updated] In 2024, From Bite-Sized to Detailed Converting Shorts to Editable MP4</u></a></li>
+<li><a href="https://app-tips.techidaily.com/banking-industry-leader-urges-innovative-thinking-over-easy-solutions-in-artificial-intelligence-insights-from-a-top-cio-zdnet/"><u>Banking Industry Leader Urges Innovative Thinking Over Easy Solutions in Artificial Intelligence - Insights From a Top CIO | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-point-and-click-the-transformation-of-ui-with-generative-artificial-intelligence/"><u>Beyond Point-and-Click: The Transformation of UI with Generative Artificial Intelligence</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-reality-the-top-10-sci-fi-movies-with-metaverse-travels/"><u>Beyond Reality The Top 10 Sci-Fi Movies with Metaverse Travels</u></a></li>
+<li><a href="https://app-tips.techidaily.com/future-of-service-delivery-mastering-agent-ecosystems-in-the-age-of-ai/"><u>Future of Service Delivery: Mastering Agent Ecosystems in the Age of AI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-airpods-not-connecting-to-windows-1011-2024-tips/"><u>How to Fix AirPods Not Connecting to Windows 10/11 – 2024 Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-fold-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Google Pixel Fold Phone Without Password?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-instructions-windows-movie-maker-version-6-installation/"><u>In 2024, Instructions Windows Movie Maker Version 6 Installation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-shift-how-generative-ai-is-carving-out-unique-leadership-roles-at-tech-giants-zdnet/"><u>Navigating the Shift: How Generative AI Is Carving Out Unique Leadership Roles at Tech Giants | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-challenges-of-integrating-agile-and-ai-development-key-findings-revealed-by-new-study-innovationhub/"><u>The Challenges of Integrating Agile and AI Development – Key Findings Revealed by New Study | InnovationHub</u></a></li>
 </ul></div>
 

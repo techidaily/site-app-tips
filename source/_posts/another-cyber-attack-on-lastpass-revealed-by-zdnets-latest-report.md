@@ -1,7 +1,7 @@
 ---
 title: Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report
-date: 2024-12-21T04:51:21.129Z
-updated: 2024-12-24T17:30:08.475Z
+date: 2024-12-31T03:23:54.030Z
+updated: 2025-01-02T20:47:56.965Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,22 +81,19 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-bite-sized-urls-essential-tools-for-youtubers-to-streamline-sharing/"><u>[New] In 2024, Bite-Sized URLs Essential Tools for Youtubers to Streamline Sharing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-optimize-single-browsing-seamless-multiclip-engagement/"><u>[New] In 2024, Optimize Single Browsing Seamless Multiclip Engagement</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-thriving-in-live-streaming-mastery-through-onestream-use-for-2024/"><u>[New] Thriving in Live Streaming Mastery Through OneStream Use for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-unraveling-the-best-free-srt-translators-your-essential-guidebook-for-2024/"><u>[New] Unraveling the Best Free SRT Translators Your Essential Guidebook for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/5-essential-productivity-hacks-for-streamlining-your-day-to-day-tasks-insights-from-zdnet/"><u>5 Essential Productivity Hacks for Streamlining Your Day-to-Day Tasks: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-revolutionary-challenger-emerges-a-unique-app-that-outshines-microsoft-teams-and-zoom-with-lip-reading-technology/"><u>A Revolutionary Challenger Emerges: A Unique App That Outshines Microsoft Teams & Zoom With Lip-Reading Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/buy-ashamapoos-pro-3d-cad-software-version-11-at-a-steal-just-40-on-zdnet-today/"><u>Buy Ashamapoo's Pro 3D CAD Software Version 11 at a Steal: Just $40 on ZDNet Today!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-to-switching-from-windows-to-linux-mint-easy-installation-steps/"><u>Complete Guide to Switching From Windows to Linux Mint - Easy Installation Steps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-top-4-open-source-slack-substitutes-to-elevate-your-teams-communication-game-explore-the-options-on-zdnet/"><u>Discover Top 4 Open-Source Slack Substitutes to Elevate Your Team's Communication Game - Explore the Options on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-updates-to-libreoffice-for-mac-users-a-comprehensive-installation-tutorial-on-zdnet/"><u>Discover Updates to LibreOffice for Mac Users – A Comprehensive Installation Tutorial on ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-classic-gaming-collection-with-retroarch-achievements-tutorial/"><u>Enhance Your Classic Gaming Collection with Retroarch Achievements Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-tech-experts-shape-the-future-of-non-tech-companies-insights-from-zdnet/"><u>How Tech Experts Shape the Future of Non-Tech Companies: Insights From ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-13-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 13 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Samsung Galaxy Z Flip 5.</u></a></li>
-<li><a href="https://discover-great.techidaily.com/tirez-vous-le-diplome-avec-ces-3-convertisseurs-mp4-en-ligne-libres-et-faciles-dutilisation/"><u>Tirez-Vous Le Diplôme Avec Ces 3 Convertisseurs MP4 en Ligne Libres Et Faciles D'utilisation!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-darkness-the-ultimate-guide-to-understanding-bloodborne/"><u>Unveiling Darkness: The Ultimate Guide to Understanding Bloodborne</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-update-needed-microsofts-crucial-challenge-with-windows-10-countdown-begins/"><u>Urgent Update Needed: Microsoft's Crucial Challenge with Windows 10 Countdown Begins!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-10-top-inspirational-movies-for-personal-power-boosts/"><u>[New] 10 Top Inspirational Movies for Personal Power Boosts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-creative-expression-adding-video-filters-in-zoom/"><u>[New] Mastering Creative Expression Adding Video Filters in Zoom</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-two-screen-triumph-best-recorder-verdict/"><u>[Updated] Two-Screen Triumph Best Recorder Verdict</u></a></li>
+<li><a href="https://app-tips.techidaily.com/alternative-media-players-similar-to-itunes-for-windows-vista-xp-or-7-users/"><u>Alternative Media Players Similar to iTunes for Windows Vista, XP, or 7 Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620278038-cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-preferred-version-easy-free-downloads-of-both-old-and-new-itunes-for-windows-and-mac/"><u>Get Your Preferred Version: Easy Free Downloads of Both Old and New iTunes for Windows & Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/getting-started-with-itunes-on-windows-operating-systems-a-step-by-step-guide/"><u>Getting Started with iTunes on Windows Operating Systems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/macbook-air-with-m1-chip-now-at-unbeatable-price-of-649-the-ultimate-deal-on-zdnet/"><u>MacBook Air with M1 Chip Now at Unbeatable Price of $649: The Ultimate Deal on ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-note-30-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix Note 30 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-steps-converting-your-avi-videos-into-apples-itunes-format-for-ios-devices/"><u>Simple Steps: Converting Your AVI Videos Into Apple's iTunes Format for iOS Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211840975-solving-your-pdf-printing-issues-in-seconds/"><u>Solving Your PDF Printing Issues in Seconds!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transferring-your-playlist-to-ipod-sans-itunes-with-aiseesoft/"><u>Step-by-Step Guide: Transferring Your Playlist to iPod Sans iTunes with Aiseesoft</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tracking-the-sharers-of-your-facebook-posts-effective-techniques-unveiled/"><u>Tracking the Sharers of Your Facebook Posts: Effective Techniques Unveiled</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-unleash-your-creativity-top-rated-video-collage-apps-for-iphone-and-ipad/"><u>Updated Unleash Your Creativity Top-Rated Video Collage Apps for iPhone and iPad</u></a></li>
 </ul></div>
 

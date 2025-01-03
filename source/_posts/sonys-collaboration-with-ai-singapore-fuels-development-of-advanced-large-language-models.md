@@ -1,7 +1,7 @@
 ---
 title: Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models
-date: 2024-12-23T17:18:16.486Z
-updated: 2024-12-24T21:34:49.464Z
+date: 2025-01-01T17:26:25.913Z
+updated: 2025-01-02T16:12:46.429Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,16 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-3ip-top-audio-capture-apps/"><u>[New] 2024 Approved Best 3iP Top Audio Capture Apps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-neptune-display-premium-4k-all-in-one-screens/"><u>[New] Neptune Display Premium 4K All-in-One Screens</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-securely-download-vimeo-videos-a-comprehensive-softwares-approach-for-2024/"><u>[Updated] Securely Download Vimeo Videos A Comprehensive Softwares Approach for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-z-fold-5-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy Z Fold 5 by Name | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-6-mobile-explorer-tools-compatible-with-ios-devices-on-pcmac-systems/"><u>Discover the Top 6 Mobile Explorer Tools Compatible with iOS Devices on PC/Mac Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-insights-the-definitive-guide-to-gopro-quik-a-comprehensive-analysis/"><u>Essential Insights: The Definitive Guide to GoPro Quik - A Comprehensive Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-audio-converter-convert-files-to-w64-and-wav-formats-with-ease-movavi/"><u>Free Online Audio Converter: Convert Files to W64 and WAV Formats with Ease - Movavi</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-mastering-your-android-device-top-free-and-premium-rooting-apps/"><u>Guide: Mastering Your Android Device - Top Free & Premium Rooting Apps</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-x-fold-2-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on X Fold 2</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194671-transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-diy-youtube-thumbnails-made-simple/"><u>[New] 2024 Approved DIY YouTube Thumbnails Made Simple</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unison-video-visionaries-finding-your-cms/"><u>[New] 2024 Approved Unison Video Visionaries Finding Your CMS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ideal-slide-show-apps-from-iphone-6-to-xs-max/"><u>[Updated] Ideal Slide Show Apps From iPhone 6 to XS Max</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unveiling-professional-techniques-for-aps-hdr-creation/"><u>[Updated] Unveiling Professional Techniques for APS HDR Creation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/combine-your-passion-for-music-and-exercise-on-the-go-with-the-garmin-vivoactive-3-tracker/"><u>Combine Your Passion for Music and Exercise on the Go with the Garmin Vivoactive 3 Tracker</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/gaomon-pd1560-pen-display-critique-a-review-for-artists-and-designers/"><u>Gaomon PD1560 Pen Display Critique - A Review for Artists and Designers</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/instant-fix-troubleshooting-missing-picture-problems-in-iphones/"><u>Instant Fix: Troubleshooting Missing Picture Problems in iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linux-defenses-tighten-with-oins-latest-patent-protection-boost-ai-remains-uncovered-zdnet-expands/"><u>LINUX DEFENSES TIGHTEN WITH OIN'S LATEST PATENT PROTECTION BOOST (AI REMAINS UNCOVERED) | ZDNET EXPANDS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-battlefield-5-experience-overcome-lag-using-this-essential-checklist/"><u>Master the Battlefield 5 Experience - Overcome Lag Using This Essential Checklist</u></a></li>
+<li><a href="https://app-tips.techidaily.com/save-big-get-your-hands-on-ashampoos-3d-cad-pro-software-at-a-steal-just-40-today/"><u>Save Big: Get Your Hands on Ashampoo's 3D CAD Pro Software at a Steal - Just $40 Today!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-3a-antenna-radiation-patterns-and-design-principles/"><u>Section 3A: Antenna Radiation Patterns and Design Principles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-crafting-a-reliable-recovery-drive-for-your-pc-expert-advice-from-zdnet/"><u>Step-by-Step Guide: Crafting a Reliable Recovery Drive for Your PC - Expert Advice From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-complexities-of-implementing-generative-ai-in-corporations-revealed-by-deloitte-survey-zdnet/"><u>The Complexities of Implementing Generative AI in Corporations Revealed by Deloitte Survey | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-secure-encryption-apps-of-2022-to-safeguard-your-information-insights-by-zdnet/"><u>Top Secure Encryption Apps of 2022 to Safeguard Your Information - Insights by ZDNet</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-send-local-videos-to-chromecast-easy-setup-for-windows-mac-android-and-ios/"><u>Updated 2024 Approved Send Local Videos to Chromecast Easy Setup for Windows, Mac, Android, and iOS</u></a></li>
 </ul></div>
 

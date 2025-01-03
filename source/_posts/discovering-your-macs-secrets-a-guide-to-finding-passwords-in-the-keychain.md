@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Mac's Secrets: A Guide to Finding Passwords in the Keychain"
-date: 2024-12-17T23:40:01.602Z
-updated: 2024-12-25T01:34:02.751Z
+date: 2024-12-29T23:17:29.622Z
+updated: 2025-01-02T22:05:13.511Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 I will start this out by reminding everyone that you should be using a password manager to store and protect all of your passwords. We've reached a point where password managers should be considered an absolute must to help with privacy and security.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ I will start this out by reminding everyone that you should be using a password 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
@@ -34,7 +34,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -62,7 +62,7 @@ As you can see, the password is hidden from sight. To view the password for the 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating a password entry
@@ -74,7 +74,7 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -108,24 +108,24 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-guide-to-adjusting-to-new-facebook-ranking-criteria/"><u>[New] The Ultimate Guide to Adjusting to New Facebook Ranking Criteria</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-maximize-impact-tweeting-with-videos/"><u>[Updated] 2024 Approved Maximize Impact Tweeting with Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-building-your-first-channel-essential-video-gear-list/"><u>[Updated] Building Your First Channel Essential Video Gear List</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beware-latest-microsoft-patch-could-escalate-professional-burnout-insights-from-zdnet/"><u>Beware! Latest Microsoft Patch Could Escalate Professional Burnout - Insights From ZDNet</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/comprehensive-analysis-on-ai-driven-customer-onboarding-key-trends-challenges-and-strategies/"><u>Comprehensive Analysis on AI-Driven Customer Onboarding: Key Trends, Challenges & Strategies</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-vivo-s17-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo S17 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-latest-linux-65-kernel-a-wealth-of-cutting-edge-enhancements-tech-insights/"><u>Exploring the Latest Linux 6.5 Kernel: A Wealth of Cutting-Edge Enhancements - Tech Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-sunset-of-windows-11-here-are-5-alternatives-to-consider-as-support-winds-down-tech-insights-by-zdnet/"><u>Facing the Sunset of Windows 11? Here Are 5 Alternatives to Consider as Support Winds Down | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratis-converter-van-orf-bestandjes-naar-vrije-formats-zoek-online-gratis/"><u>Gratis Converter Van Orf-Bestandjes Naar Vrije FORMATS - Zoek Online Gratis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ice-prowess-unleashed-2022-olympics-sprinting-spectacles-for-2024/"><u>Ice Prowess Unleashed 2022 Olympics Sprinting Spectacles for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-pc-capture-tool-apowersofts-latest-screen-recording/"><u>In 2024, PC Capture Tool Apowersoft's Latest Screen Recording</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-windows-11-your-complete-reference-tips-and-tricks-with-zdnets-expert-guide/"><u>Mastering Windows 11: Your Complete Reference, Tips & Tricks with ZDNet's Expert Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-business-connectivity-celonas-60m-series-c-fuels-next-gen-enterprise-5g-solutions-zdnet-insights/"><u>Revolutionizing Business Connectivity: Celona's $60M Series C Fuels Next-Gen Enterprise 5G Solutions | ZDNet Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-implementing-gpt-3-features-within-the-openai-sandbox/"><u>Step-by-Step Guide: Implementing GPT-3 Features Within the OpenAI Sandbox</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ascension-of-cloud-computing-versus-current-on-premises-systems-expert-analysis-by-zdnet/"><u>The Ascension of Cloud Computing Versus Current On-Premises Systems | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-infinix-zero-30-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Infinix Zero 30 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-covid-19-immunization-platforms-the-ultimate-guide-techreview/"><u>Top Rated COVID-19 Immunization Platforms: The Ultimate Guide - TechReview</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-crafting-an-ideal-windows-11-vm-setup-on-any-platform-insights-from-zdnet/"><u>Ultimate Guide: Crafting an Ideal Windows 11 VM Setup on Any Platform - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/your-guide-to-extending-windows-11-life-top-5-alternatives-as-support-winds-down-zdnet/"><u>Your Guide to Extending Windows 11 Life: Top 5 Alternatives as Support Winds Down - ZDNet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-exploring-the-future-of-social-sharing-with-tiktok-vs-snapchat/"><u>[New] 2024 Approved Exploring the Future of Social Sharing with TikTok vs Snapchat</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gently-fading-sounds-in-os-environments/"><u>[New] Gently Fading Sounds in OS Environments</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-crafting-the-perfect-zoom-call-timeline/"><u>[Updated] 2024 Approved Crafting the Perfect Zoom Call Timeline</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-zeo-startup-showcase/"><u>[Updated] The Ultimate Zeo-Startup Showcase</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-tips-and-tricks-for-speech-transcription-with-gdoc/"><u>2024 Approved Advanced Tips and Tricks for Speech Transcription with GDoc</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-from-gaming-to-adventure-the-power-of-the-new-polaroid-xs-100i/"><u>2024 Approved From Gaming to Adventure, the Power of the New Polaroid XS 100I</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-wild-augmented-reality-journeys/"><u>Discover the Wild - Augmented Reality Journeys</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-mpeg/"><u>DVDフリーコンバータ - 無料でMPEGへの変換ガイド</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-techniques-to-minimize-file-size-of-audio-messages-in-whatsapp/"><u>Effortless Techniques to Minimize File Size of Audio Messages in WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-privacy-with-easy-steps-to-protect-your-whatsapp-accounts-on-smartphones/"><u>Enhance Privacy with Easy Steps to Protect Your WhatsApp Accounts on Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-intricacies-of-whatsapps-delete-for-all-functionality/"><u>Exploring the Intricacies of WhatsApp's 'Delete for All' Functionality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guaranteed-methods-restore-deleted-whatsapp-content-on-your-iphone-including-messages-photos-videos-and-audio/"><u>Guaranteed Methods: Restore Deleted WhatsApp Content on Your iPhone Including Messages, Photos, Videos & Audio</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-set-up-automatic-backups-from-whatsapp-to-google-drive-a-step-by-step-guide-for-android-and-iphone-users/"><u>How to Set Up Automatic Backups From WhatsApp to Google Drive: A Step-by-Step Guide for Android & iPhone Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-poco-x6-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preserve-your-whatsapp-images-flawlessly-top-3-methods-for-saving-photos-across-ios-and-android-without-quality-compromise/"><u>Preserve Your WhatsApp Images Flawlessly: Top 3 Methods for Saving Photos Across iOS & Android Without Quality Compromise</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-hidden-value-in-preserving-your-windows-11-notification-alerts/"><u>The Hidden Value in Preserving Your Windows 11 Notification Alerts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-how-to-manual-effortless-audio-clipping-from-whatsapp-chats/"><u>The Ultimate How-To Manual: Effortless Audio Clipping From WhatsApp Chats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-for-enabling-and-performing-a-whatsapp-backup-to-icloud/"><u>The Ultimate Tutorial for Enabling and Performing a WhatsApp Backup to iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/whatsapp-data-resurrection-steps-for-retrieving-chat-history-stored-in-google-drive-on-iphone-solved/"><u>WhatsApp Data Resurrection: Steps for Retrieving Chat History Stored in Google Drive on iPhone [Solved]</u></a></li>
 </ul></div>
 

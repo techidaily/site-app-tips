@@ -1,7 +1,7 @@
 ---
 title: ZeroFox's Strategic Acquisition of IDX and Merger with L&F Forms a Mega $1.4B Cybersecurity Giant - Insights From ZDNet
-date: 2024-12-20T17:30:02.476Z
-updated: 2024-12-25T02:59:40.152Z
+date: 2025-01-01T21:29:42.868Z
+updated: 2025-01-03T01:38:28.883Z
 tags:
   - password-manager
 categories:
@@ -18,7 +18,7 @@ The company will be renamed ZeroFox Holdings once the deal goes through and will
 Monarch Alternative Capital LP and several other firms are also investing $170 million in the deal to merge the companies. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -87,18 +87,22 @@ Adam Gerchen, CEO of LNFA and a new ZeroFox board member, noted that the company
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-crafting-videos-youtube-tools-and-more/"><u>[Updated] Crafting Videos YouTube Tools and More</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-engagement-imovie-techniques-for-youtube-intros-for-2024/"><u>[Updated] Enhancing Engagement IMovie Techniques for YouTube Intros for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/amazon-introduces-revolutionary-ai-performance-metric-the-next-gen-rag-system-unveiled-by-zdnet/"><u>Amazon Introduces Revolutionary AI Performance Metric: The Next-Gen RAG System Unveiled by ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/decoding-servicenows-core-ai-tenets-essential-strategies-that-propel-corporate-innovation-zdnet/"><u>Decoding ServiceNow’s Core AI Tenets: Essential Strategies That Propel Corporate Innovation | ZDNET</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oneplus-nord-ce-3-lite-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead OnePlus Nord CE 3 Lite 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-itunesfinder-failing-to-detect-iphone-a-comprehensive-guide/"><u>How To Resolve iTunes/Finder Failing to Detect iPhone – A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-combining-images-for-an-engaging-picture-panorama/"><u>In 2024, Combining Images for an Engaging Picture Panorama</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/inside-windows-10-a-snapshot-of-its-transformation-for-2024/"><u>Inside Windows 10 A Snapshot of Its Transformation for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-path-to-elevate-your-ubuntu-2404-system-insights-from-zdnet/"><u>Navigating the Path to Elevate Your Ubuntu 24.04 System – Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/nvidias-best-in-class-gaming-drivers-now-available-free-download-for-windows/"><u>NVIDIA's Best-in-Class Gaming Drivers Now Available: Free Download for Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/redefining-the-future-of-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-handbook-insights-from-zdnet/"><u>Redefining the Future of UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Handbook - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-enrich-your-viewing-habit-with-essential-movie-channels/"><u>[New] In 2024, Enrich Your Viewing Habit with Essential Movie Channels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instant-gratification-boosting-fb-video-times/"><u>[New] Instant Gratification Boosting FB Video Times</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-16-strategies-for-archiving-online-tunes-and-talks/"><u>[Updated] Top 16 Strategies for Archiving Online Tunes and Talks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-samsung-galaxy-s24plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Samsung Galaxy S24+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/best-editing-app-for-iphones-choose-between-cameo-and-filmorago-for-2024/"><u>Best Editing App for iPhones Choose Between Cameo & FilmoraGo for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-itunes-backup-strategies-learn-the-best-techniques-for-protection/"><u>Comprehensive iTunes Backup Strategies – Learn the Best Techniques for Protection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-strategies-to-overcome-non-functional-music-playback-on-itunes/"><u>Effective Strategies to Overcome Non-Functional Music Playback on iTunes</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/itunes-backup-file-restoration-how-to-retrieve-deleted-or-lost-ios-content-from-your-itunes-archive/"><u>ITunes Backup File Restoration: How to Retrieve Deleted or Lost iOS Content From Your iTunes Archive</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lost-your-itunes-account-passcode-discover-the-top-methods-to-retrieve-it/"><u>Lost Your iTunes Account Passcode? Discover the Top Methods to Retrieve It</u></a></li>
+<li><a href="https://app-tips.techidaily.com/move-it-like-that-a-guide-for-shifting-itunes-lists-onto-usb-drives-across-windows-and-mac-systems/"><u>Move It Like That: A Guide for Shifting iTunes Lists Onto USB Drives Across Windows and Mac Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/resolve-constant-itunes-password-prompts-on-your-iphone-with-this-simple-guide/"><u>Resolve Constant ITunes Password Prompts on Your iPhone with This Simple Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/streamlining-meetings-integrate-slack-and-filmora-effortlessly/"><u>Streamlining Meetings Integrate Slack & Filmora Effortlessly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/temporary-itunes-store-outage-discover-7-effective-solutions/"><u>Temporary iTunes Store Outage: Discover 7 Effective Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-solutions-for-resolving-the-issue-of-music-not-playing-in-itunes/"><u>Top Solutions for Resolving the Issue of Music Not Playing in iTunes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windows-update-glitches-a-comprehensive-fix-guide/"><u>Winning Against Windows Update Glitches: A Comprehensive Fix Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet"
-date: 2024-12-21T21:35:47.078Z
-updated: 2024-12-24T20:51:25.250Z
+date: 2024-12-28T23:56:59.051Z
+updated: 2025-01-03T04:19:46.966Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Suppose you are in the business of generating passwords, it would probably be a 
 In a [blog post](https://donjon.ledger.com/kaspersky-password-manager/) to cap off an almost two year saga, Ledger Donjon head of security research Jean-Baptiste Bédrune showed KPM was doing just that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,7 +66,7 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -92,17 +92,22 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-becoming-an-seo-success-story-the-ultimate-guide-to-facebook-optimization-for-2024/"><u>[New] Becoming an SEO Success Story The Ultimate Guide to Facebook Optimization for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-illuminated-imagery-standing-out-in-the-visual-field/"><u>[New] In 2024, Illuminated Imagery Standing Out in the Visual Field</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-master-money-making-the-top-13-reddit-strategies-no-experience/"><u>[New] Master Money Making The Top 13 Reddit Strategies (No Experience)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-breakthrough-ai-creative-workstation/"><u>[Updated] Breakthrough AI Creative Workstation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/agnes-ro-reveals-the-transformation-in-modern-development-roles-at-atlassian-insights-from-tech-visionary/"><u>Agnes Ro Reveals the Transformation in Modern Development Roles at Atlassian - Insights From Tech Visionary</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-deadline-approaching-for-microsofts-windows-11-issues-only-a-year-remains-to-fix-them/"><u>Critical Deadline Approaching for Microsoft's Windows 11 Issues – Only a Year Remains to Fix Them!</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/easy-beginners-guide-to-incorporating-captions-into-your-premiere-projects/"><u>Easy Beginners' Guide to Incorporating Captions Into Your Premiere Projects</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-new-frontiers-in-coding-efficiency-the-impact-of-github-copilot-as-revealed-by-zdnet/"><u>Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-kickstart-cinematic-craft-install-xp-movie-maker/"><u>In 2024, Kickstart Cinematic Craft Install XP Movie Maker</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-features-and-performance-analysis-of-the-lian-li-hydroshift-360s-gaming-chassis/"><u>Innovative Features and Performance Analysis of the Lian Li HydroShift 360S Gaming Chassis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-skills-with-courseras-new-levelset-exams-insights-from-zdnet/"><u>Mastering Skills with Coursera's New LevelSet Exams: Insights From ZDNet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/uncover-top-8-spots-to-find-free-3d-text-psdfiles-for-2024/"><u>Uncover Top 8 Spots to Find Free 3D Text PSDFiles for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discover-who-youre-watching-6-quizzes-for-youtube-fans/"><u>[New] 2024 Approved Discover Who You're Watching 6 Quizzes for YouTube Fans</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-exploring-the-creme-de-la-creme-of-android-mobas-10-for-2024/"><u>[New] Exploring the Crème De La Crème of Android MOBAs (#10) for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-quick-retrieval-downloading-gifs-from-twitter-apps/"><u>[Updated] 2024 Approved Quick Retrieval Downloading GIFs From Twitter Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-amateurs-to-artists-the-complete-polarr-editor-journey/"><u>2024 Approved From Amateurs to Artists The Complete Polarr Editor Journey</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/webwmvaiff-movavi/"><u>無料Web端WMV至AIFF格式转换 - 利用Movavi自动化方便</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-chatgpt-2erview-insights-on-capabilities-updates-and-handling-server-issues/"><u>Comprehensive ChatGPT 2Erview: Insights on Capabilities, Updates, and Handling Server Issues</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-eva-formerly-ex-journey-ai-chatbot-overview-essential-insights/"><u>Comprehensive EVA (Formerly Ex Journey) AI Chatbot Overview - Essential Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/decoding-eva-ai-a-deep-dive-into-the-transformed-ex-journey-conversational-agent/"><u>Decoding EVA AI - A Deep Dive Into the Transformed Ex Journey Conversational Agent</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-in-style-and-quality-powershot-g9xii-camera-reviewed-and-rated-by-a-pro/"><u>Explore in Style and Quality – PowerShot G9XII Camera Reviewed & Rated by a Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-chatgpt-2024-complete-analysis-of-functionality-characteristics-and-server-hiccups/"><u>Exploring ChatGPT 2024: Complete Analysis of Functionality, Characteristics & Server Hiccups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionize-conversations-with-these-top-10-artificial-intelligence-chatbot-tools/"><u>Revolutionize Conversations with These Top 10 Artificial Intelligence Chatbot Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/spectral-skillset-professionals-pathway-to-change/"><u>Spectral Skillset Professionals' Pathway to Change</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-expert-assessment-and-key-features-of-the-revolutionary-ai-chatbot-chatsoner/"><u>The Ultimate Walkthrough: Expert Assessment and Key Features of the Revolutionary AI Chatbot, Chatsoner</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-choosing-a-leading-ai-companion-spotlight-on-chatgpts-excellence/"><u>Ultimate Guide to Choosing a Leading AI Companion: Spotlight on ChatGPT's Excellence</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-eva-the-ultimate-guide-to-the-former-ex-journey-ai-bot/"><u>Unveiling the Power of EVA: The Ultimate Guide to the Former Ex Journey AI Bot</u></a></li>
 </ul></div>
 

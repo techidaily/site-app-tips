@@ -1,7 +1,7 @@
 ---
 title: "Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords"
-date: 2024-12-23T23:27:50.335Z
-updated: 2024-12-24T16:45:48.814Z
+date: 2024-12-26T23:07:48.568Z
+updated: 2025-01-02T20:54:57.851Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Suppose you are in the business of generating passwords, it would probably be a 
 In a [blog post](https://donjon.ledger.com/kaspersky-password-manager/) to cap off an almost two year saga, Ledger Donjon head of security research Jean-Baptiste Bédrune showed KPM was doing just that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,7 +66,7 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -92,24 +92,22 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/treaming-made-simple-free-downloader-to-mp3s-now-for-2024/"><u>[New] Streaming Made Simple Free Downloader to MP3s Now for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-from-play-to-pro-setting-up-a-ps4-game-broadcast-hub-for-2024/"><u>[Updated] From Play to Pro Setting up a PS4 Game Broadcast Hub for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-macs-top-5-non-bandicam-capturing-apps/"><u>[Updated] In 2024, Mac's Top 5 Non-Bandicam Capturing Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-deep-dive-into-microsofts-bing-chat-and-its-use-of-advanced-ai-like-gpt-4/"><u>A Deep Dive Into Microsoft's Bing Chat and Its Use of Advanced AI Like GPT-4</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/a-journey-through-snapchats-creative-edit-features/"><u>A Journey Through Snapchat's Creative Edit Features</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/embracing-the-world-one-post-at-a-time-with-insta-captions/"><u>Embracing the World, One Post at a Time with Insta Captions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-guide-to-evaluating-gpt-powered-conversational-agents-insights-and-recommendations/"><u>Essential Guide to Evaluating GPT-Powered Conversational Agents - Insights & Recommendations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-conversion-of-3gp-videos-using-movavis-easy-to-use-tool/"><u>Free Online Conversion of 3GP Videos: Using Movavi's Easy-to-Use Tool</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-eva-ai-by-ex-journey-the-ultimate-chatbot-review/"><u>In-Depth Analysis: EVA AI by Ex Journey - The Ultimate Chatbot Review</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/level-up-gameplay-get-ready-for-a-seamless-experience-with-improved-fps-on-the-division-2/"><u>Level Up Gameplay: Get Ready for a Seamless Experience with Improved FPS on 'The Division 2'</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-chatgpt-a-thorough-breakdown-of-its-capabilities-flaws-and-error-management-techniques/"><u>The Ultimate Guide to ChatGPT - A Thorough Breakdown of Its Capabilities, Flaws & Error Management Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-gpt-powered-ai-chatbot-comprehensive-insights-and-reviews/"><u>Top Rated GPT-Powered AI Chatbot: Comprehensive Insights & Reviews</u></a></li>
-<li><a href="https://games-able.techidaily.com/transforming-your-console-into-an-ultra-hd-arena-xbox-series-xs-4k-guide/"><u>Transforming Your Console Into an Ultra-HD Arena: Xbox Series X's 4K Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-of-chatsonic-in-depth-analysis-and-key-takeawutes-for-mastery-over-the-advanced-ai-chatterbot/"><u>Unlocking the Secrets of Chatsonic: In-Depth Analysis and Key Takeawutes for Mastery over the Advanced AI Chatterbot</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-chatsonic-an-exhaustive-evaluation-for-insights-into-cutting-edge-ai-conversational-technology/"><u>Unveiling Chatsonic: An Exhaustive Evaluation for Insights Into Cutting-Edge AI Conversational Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-most-superior-ai-conversational-agents-is-it-chatai-gdt-or-aibot/"><u>Unveiling the Most Superior AI Conversational Agents: Is It ChatAi GDT or AiBot?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-bing-chat-interacting-with-artificial-intelligence-via-gpt-technology/"><u>Unveiling the Power of Bing Chat: Interacting with Artificial Intelligence via GPT Technology</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-from-chrome-os-to-linux-a-comprehensive-installation-guide-for-2024/"><u>Updated From Chrome OS to Linux A Comprehensive Installation Guide for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-quick-and-easy-xbox-one-image-snaps-for-gaming-for-2024/"><u>[New] Quick & Easy Xbox One Image Snaps for Gaming for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-platform-picks-for-prominent-content-creators/"><u>[Updated] 2024 Approved Platform Picks for Prominent Content Creators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimal-voice-processing-software-solutions/"><u>[Updated] Optimal Voice Processing Software Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advance-your-career-with-cutting-edge-tech-more-than-ai-at-the-forefront-lessons-from-zdnet/"><u>Advance Your Career with Cutting-Edge Tech: More Than AI at the Forefront | Lessons From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-artificebotics-how-modern-ai-experts-merge-innovation-with-business-acumen-to-shape-future-technologies/"><u>Beyond Artificebotics: How Modern AI Experts Merge Innovation with Business Acumen to Shape Future Technologies</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comparing-wrist-tech-apple-watch-series-9-versus-fitbit-charge-6/"><u>Comparing Wrist Tech: Apple Watch Series 9 Versus Fitbit Charge 6</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor Phones with/without a PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-disparities-shape-our-progress-in-real-time-technology-breakthroughs-zdnet/"><u>How Disparities Shape Our Progress in Real-Time Technology Breakthroughs | ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-inconsistencies-in-artificial-intelligence-expert-analysis-on-reliability-issues-zdnet/"><u>Overcoming Inconsistencies in Artificial Intelligence: Expert Analysis on Reliability Issues | ZDNET</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/radiance-in-android-video-editing/"><u>Radiance in Android Video Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionize-your-podcasts-rankings-with-effective-seo-methods/"><u>Revolutionize Your Podcast's Rankings with Effective SEO Methods</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tackling-the-accountability-gap-in-artificial-intelligence-development/"><u>Tackling the Accountability Gap in Artificial Intelligence Development</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-combo-crusade-sharing-vids-on-twitter-and-tumblr-for-2024/"><u>The Combo Crusade Sharing Vids on Twitter and Tumblr for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-ai-watermarking-solutions-revealed-on-zdnet/"><u>The Definitive Guide to AI Watermarking Solutions - Revealed on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-work-how-ai-agents-define-the-new-era-and-transform-employment-landscape-permanently-insights-from-zdnet/"><u>The Future of Work: How AI Agents Define the New Era and Transform Employment Landscape Permanently - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unpacking-the-irony-of-automation-when-artificnial-intelligence-spurs-more-work-not-less-zdnet-insights/"><u>Unpacking the Irony of Automation: When Artificnial Intelligence Spurs More Work, Not Less | ZDNET Insights</u></a></li>
 </ul></div>
 

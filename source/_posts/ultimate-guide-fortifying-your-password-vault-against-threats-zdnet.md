@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Fortifying Your Password Vault Against Threats | ZDNet"
-date: 2024-12-21T18:56:36.679Z
-updated: 2024-12-24T23:03:20.235Z
+date: 2024-12-31T23:13:02.575Z
+updated: 2025-01-02T23:36:03.061Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ Creating and remembering a unique and complex password for each of your accounts
 A good password manager will create, store, and apply strong and complex passwords across the board, thereby securing your accounts. I've used a password manager for years and wouldn't be able to juggle all my online accounts without it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -46,7 +46,7 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -66,7 +66,7 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -90,7 +90,7 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -139,24 +139,22 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-say-goodbye-to-data-limits-explore-the-best-of-30-free-clouds-offering-1tbplus-included/"><u>[Updated] 2024 Approved Say Goodbye to Data Limits - Explore the Best of 30 Free Clouds Offering 1TB+ Included</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-upload-footage-seamlessly-to-facebook-pc-and-android-style/"><u>[Updated] Upload Footage Seamlessly to Facebook, PC & Android Style</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-strategies-for-safeguarding-your-password-vault-insights-from-zdnet/"><u>Effective Strategies for Safeguarding Your Password Vault - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/getting-started-with-dashlane-understanding-costs-key-functionalities-and-initial-setup-steps-insights-from-zdnet/"><u>Getting Started with Dashlane: Understanding Costs, Key Functionalities & Initial Setup Steps - Insights From ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-note-30i-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Infinix Note 30i</u></a></li>
-<li><a href="https://app-tips.techidaily.com/huge-sale-alert-score-50-off-on-nordpass-pro-top-tier-password-security-for-black-friday-2022-techsavvy-news/"><u>Huge Sale Alert: Score 50% Off on NordPass Pro - Top-Tier Password Security for Black Friday 2022 | TechSavvy News</u></a></li>
-<li><a href="https://app-tips.techidaily.com/huge-savings-alert-dashlane-premium-passwords-get-cut-in-half-score-a-50-discount/"><u>Huge Savings Alert: Dashlane Premium Passwords Get Cut in Half - Score a 50% Discount!</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-meizu-21-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your Apple iPhone 12 Pro Max?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-time-reversal-tactics-for-iphone-movies/"><u>In 2024, Time-Reversal Tactics for iPhone Movies</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/innovation-meets-artistry-with-brookstone-frames/"><u>Innovation Meets Artistry with Brookstone Frames</u></a></li>
-<li><a href="https://app-tips.techidaily.com/malware-distribution-tactics-uncovered-by-proofpoint-leveraging-popular-concerts-like-justin-bieber-and-the-weeknd-as-a-scam-vector/"><u>Malware Distribution Tactics Uncovered by Proofpoint: Leveraging Popular Concerts Like Justin Bieber and The Weeknd as a Scam Vector</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximize-security-for-up-to-10-users-using-1passwords-economical-monthly-plan-of-1995-discover-more-inside-zdnet/"><u>Maximize Security for Up to 10 Users Using 1Password's Economical Monthly Plan of $19.95 | Discover More Inside ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/phishers-favorite-targets-revealed-how-dhl-microsoft-and-whatsapp-top-seo-lists-for-brand-fraud-zdnet-insights/"><u>Phishers' Favorite Targets Revealed: How DHL, Microsoft & WhatsApp Top SEO Lists for Brand Fraud | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-truth-behind-instagram-why-it-may-not-be-as-reliable-as-you-think/"><u>The Truth Behind Instagram: Why It May Not Be as Reliable as You Think</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-huawei-nova-y91-by-drfone-android/"><u>Top 10 Password Cracking Tools For Huawei Nova Y91</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-lastpass-substitutes-a-comprehensive-guide-zdnet/"><u>Top LastPass Substitutes : A Comprehensive Guide - ZDNet</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/uninterrupted-quest-experience-addressing-the-immortals-fenynzings-crash-dilemma/"><u>Uninterrupted Quest Experience: Addressing the Immortals Fenynzing's Crash Dilemma</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-6s-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-chromes-best-deals-on-screen-recorder-free-tools/"><u>[New] Chrome's Best Deals on Screen Recorder Free Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-essentials-of-apple-mdm-and-deploying-on-the-ios-ecosystem/"><u>Discover the Essentials of Apple MDM & Deploying on the iOS Ecosystem</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-user-friendly-android-notes-applications-the-best-picks-you-need/"><u>Discover the Ultimate List of FREE, User-Friendly Android Notes Applications: The Best Picks You Need</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-the-ultimate-free-audiobook-library-now-compatible-with-ios-and-android-devices/"><u>Download the Ultimate Free Audiobook Library Now - Compatible with iOS & Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhanced-mobile-device-management-on-android-leveraging-advanced-tools/"><u>Enhanced Mobile Device Management on Android: Leveraging Advanced Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-the-mumu-player-a-high-performance-android-simulator-for-desktop-environments/"><u>Experience the MuMu Player: A High-Performance Android Simulator for Desktop Environments</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-these-top-6-hubs-where-you-can-watch-any-music-video-for-free/"><u>Explore These Top 6 Hubs Where You Can Watch Any Music Video For Free</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-remedies-correcting-itbm-error-code-driver-unavailable/"><u>Immediate Remedies: Correcting ITBm Error Code 'Driver Unavailable'</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-examination-of-nox-player-insights-on-functionality-advantages-and-limitations/"><u>In-Depth Examination of Nox Player: Insights on Functionality, Advantages, and Limitations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-your-windows-notes-prominent/"><u>Keeping Your Windows Notes Prominent</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/minds-on-trial-select-escapes-that-challenge-you/"><u>Minds on Trial Select Escapes That Challenge You</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4mp3wav/"><u>MP4/MP3ビデオ音声をWAVフォーマットにアップコンバートする詳細ガイド</u></a></li>
+<li><a href="https://app-tips.techidaily.com/play-ogg-format-files-at-no-cost-best-cross-platform-ogg-players-for-windows-and-macos/"><u>Play OGG Format Files at No Cost: Best Cross-Platform OGG Players for Windows & macOS</u></a></li>
+<li><a href="https://facebook.techidaily.com/setting-facebook-profile-as-secure/"><u>Setting Facebook Profile as Secure</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620187722-the-ultimate-selection-of-android-screen-casting-apps-discover-the-top-9-options-to-enhance-your-experience/"><u>The Ultimate Selection of Android Screen Casting Apps: Discover the Top 9 Options to Enhance Your Experience!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlocking-creativity-with-lightzone-the-best-free-darkroom-tool-for-every-operating-system/"><u>Unlocking Creativity with LightZone - The Best Free Darkroom Tool for Every Operating System</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-quality-comparison-mirrorless-or-dslr-cameras/"><u>Video Quality Comparison Mirrorless or DSLR Cameras?</u></a></li>
 </ul></div>
 

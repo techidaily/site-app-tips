@@ -1,7 +1,7 @@
 ---
 title: "Declutter Your Codebase: Fixing Disarray in Linux/Open Source Guides on ZDNet."
-date: 2024-12-21T23:15:24.516Z
-updated: 2024-12-24T23:20:58.600Z
+date: 2024-12-30T05:09:22.362Z
+updated: 2025-01-02T21:50:10.022Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-how-to-revert-macos-from-latest-to-classic-el-capitan/"><u>[New] How to Revert MacOS From Latest to Classic - El Capitan</u></a></li>
-<li><a href="https://app-tips.techidaily.com/authentic-evaluation-discovering-the-power-of-lightcut-ai-video-editing-app-on-android-and-ios/"><u>Authentic Evaluation: Discovering the Power of LightCut AI Video Editing App on Android and iOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-app-lock-replacements-for-android-the-top-10-picks/"><u>Best App Lock Replacements for Android : The Top 10 Picks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-c67-4g-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on C67 4G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-bluestacks-unveiling-all-the-essentials/"><u>Comprehensive Guide to BlueStacks: Unveiling All the Essentials</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/discover-microsofts-ingenious-approach-to-normalizing-ai-an-insightful-perspective-for-solo-users-zdnet/"><u>Discover Microsoft’s Ingenious Approach to Normalizing AI: An Insightful Perspective for Solo Users | ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/from-camera-to-canvas-getting-started-with-lunapic/"><u>From Camera to Canvas Getting Started with LunaPic</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y100t-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo Y100t to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-keep-your-videos-trending-on-youtube-by-sustaining-creative-commitments/"><u>In 2024, Keep Your Videos Trending on YouTube by Sustaining Creative Commitments</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-find-x7-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo Find X7 Phone? Unlock It Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-messaging-schedulers-reviewed-discover-the-top-10-picks-for-smartphones/"><u>Leading Messaging Schedulers Reviewed: Discover the Top 10 Picks for Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/shadow-spectators-on-ig-uncover-the-ultimate-list-of-incognito-gazers-for-content-sneak-peeks/"><u>Shadow Spectators on IG: Uncover the Ultimate List of Incognito Gazers for Content Sneak Peeks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simplified-approach-to-retrieve-lost-apps-from-your-ios-device/"><u>Simplified Approach to Retrieve Lost Apps From Your iOS Device</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ltimate-camera-selection-for-youtube-filmmakers-for-2024/"><u>The Ultimate Camera Selection for YouTube Filmmakers for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-youcut-software-for-your-business-needs-the-complete-analysis/"><u>Unveiling the Power of YouCut Software for Your Business Needs - The Complete Analysis</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-how-to-convert-videos-to-dvd-format-on-windows-and-mac-computers/"><u>Updated In 2024, How to Convert Videos to DVD Format on Windows and Mac Computers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-efficiently-archive-your-gaming-adventures-on-windows-10-for-2024/"><u>[New] Efficiently Archive Your Gaming Adventures on Windows 10 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-parrot-ar-drone-enhanced-a-compreayer-report/"><u>[New] Parrot AR Drone Enhanced - A Compreayer Report</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unbeatable-youtube-video-titling-assistant/"><u>[New] Unbeatable YouTube Video Titling Assistant</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-ending-your-insta-saga-a-comprehensive-guide-to-deactivation/"><u>[Updated] In 2024, Ending Your Insta Saga A Comprehensive Guide to Deactivation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-selecting-the-perfect-drone-stabilizer-a-guide/"><u>2024 Approved Selecting the Perfect Drone Stabilizer A Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-guide-to-capturing-web-radio-frequencies-flawlessly/"><u>2024 Approved The Guide to Capturing Web Radio Frequencies Flawlessly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-widening-chasm-of-data-expertise-innovative-strategies-from-a-leading-tech-firm-zdnet/"><u>Bridging the Widening Chasm of Data Expertise: Innovative Strategies From a Leading Tech Firm | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/devops-engineer-career-path-unveiling-the-pros-cons-and-realities-insights-from-zdnet/"><u>DevOps Engineer Career Path: Unveiling The Pros, Cons & Realities - Insights From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-artificial-intelligence-impacts-future-trends-in-cybersecurity-employment-opportunities-insights-from-zdnet/"><u>How Artificial Intelligence Impacts Future Trends in Cybersecurity Employment Opportunities: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-tech-leadership-start-with-business-insight-zdnets-guide/"><u>Mastering Tech Leadership: Start with Business Insight | ZDNet's Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-future-of-ai-in-business-essential-read-for-singapores-smb-workforce-training-expert-advice-by-zdnet/"><u>Mastering the Future of AI in Business: Essential Read for Singapore's SMB Workforce Training – Expert Advice by ZDNET</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/narrowing-focus-mac-techniques-for-snapchat-videos-for-2024/"><u>Narrowing Focus Mac Techniques for Snapchat Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/securely-download-your-youtube-playlist-at-any-time-for-2024/"><u>Securely Download Your YouTube Playlist at Any Time for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-jobs-with-ai-unveiling-the-endless-possibilities-and-changes-by-zdnet-experts/"><u>The Future of Jobs with AI: Unveiling the Endless Possibilities & Changes by ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-work-the-revolutionary-impact-of-ai-agents-on-future-jobs/"><u>Transforming Work: The Revolutionary Impact of AI Agents on Future Jobs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-addressing-obsolete-technologies-is-crucial-insights-from-a-recent-mismanaged-upgrade-zdnet/"><u>Why Addressing Obsolete Technologies Is Crucial - Insights From a Recent Mismanaged Upgrade | ZDNet</u></a></li>
 </ul></div>
 

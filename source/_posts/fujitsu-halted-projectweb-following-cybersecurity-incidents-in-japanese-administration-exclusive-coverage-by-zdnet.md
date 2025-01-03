@@ -1,7 +1,7 @@
 ---
 title: Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET
-date: 2024-12-21T00:42:01.135Z
-updated: 2024-12-25T04:54:35.533Z
+date: 2024-12-30T04:38:18.292Z
+updated: 2025-01-03T02:33:02.986Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,24 +68,22 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-launching-a-vlog-essential-equipmentapps/"><u>[New] 2024 Approved Launching a Vlog Essential Equipment/Apps</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-essential-guide-to-best-10-no-cost-srt-converters-for-2024/"><u>[New] Essential Guide to Best 10 No-Cost Srt Converters for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-video-anonymity-tips-for-blurring-private-data-for-2024/"><u>[Updated] Video Anonymity Tips for Blurring Private Data for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-pioneering-role-in-prompt-creation-and-its-career-sustainability/"><u>AI's Pioneering Role in Prompt Creation & Its Career Sustainability</u></a></li>
-<li><a href="https://app-tips.techidaily.com/awaken-with-joy-discover-the-10-most-engaging-free-alarm-clock-applications-for-a-playful-routine/"><u>Awaken with Joy: Discover the 10 Most Engaging Free Alarm Clock Applications for a Playful Routine</u></a></li>
-<li><a href="https://app-tips.techidaily.com/capturing-perfect-moments-with-auto-timer-features-for-iphone-and-android-cameras/"><u>Capturing Perfect Moments with Auto-Timer Features for iPhone and Android Cameras</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-black-ops-cold-war-launch-problems-for-pc-users-solved/"><u>Cod: Black Ops Cold War Launch Problems for PC Users Solved</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-steps-to-remove-or-uninstall-applications-from-iphone-and-android-devices/"><u>Complete Guide: Steps to Remove or Uninstall Applications From iPhone and Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-imovie-review-features-assessment-and-top-editing-software-substitutes/"><u>Comprehensive IMovie Review: Features, Assessment & Top Editing Software Substitutes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-6-free-online-casino-slots-for-android-phones-and-iphones/"><u>Discover the Ultimate Selection of 6 Free Online Casino Slots for Android Phones and iPhones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/efficient-ipad-locator-tool-keep-an-eye-on-your-apple-tablet-anywhere/"><u>Efficient iPad Locator Tool: Keep an Eye on Your Apple Tablet Anywhere</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-methods-for-transferring-all-your-apps-from-one-iphone-to-another/"><u>Effortless Methods for Transferring All Your Apps From One iPhone to Another</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-to-completely-erase-data-on-iphone-14-pro-to-avoid-privacy-leak-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Guide to Completely Erase Data on iPhone 14 Pro to Avoid Privacy Leak | Stellar</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-11-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/master-videography-with-movavi-video-suite-comprehensive-recording-and-editing-tools/"><u>Master Videography with Movavi Video Suite - Comprehensive Recording and Editing Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protect-your-children-online-a-guide-to-the-20-best-parental-control-tools-available-today/"><u>Protect Your Children Online: A Guide to the 20 Best Parental Control Tools Available Today</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-ebook-with-confidence-the-ultimate-7-step-process-for-converting-epub-to-txt-now-working-flawlessly/"><u>Transform Your eBook with Confidence: The Ultimate 7-Step Process for Converting ePub to TXT - Now Working Flawlessly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-exploring-the-mystery-of-the-blue-video-symbol-on-fb-messages/"><u>[New] Exploring the Mystery of the Blue Video Symbol on FB Messages</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-viral-meme-creation-techniques/"><u>[Updated] Mastering Viral Meme Creation Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-effizientes-hochladen-von-youtube-videoclips-in-imovie-fur-nahtlose-video-bearbeitung/"><u>1) Effizientes Hochladen Von YouTube-Videoclips in iMovie Für Nahtlose Video-Bearbeitung</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-widening-gulf-in-data-expertise-a-closer-look-at-innovative-solutions-by-companeby-zdnet/"><u>Bridging the Widening Gulf in Data Expertise: A Closer Look at Innovative Solutions by Companeby ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-silent-learners-guide-to-bypassing-edgenuity-videos-effortlessly/"><u>In 2024, The Silent Learner's Guide to Bypassing Edgenuity Videos Effortlessly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-challenges-unlocking-the-full-potential-of-ai-in-your-business-strategy-zdnet/"><u>Navigating Challenges: Unlocking the Full Potential of AI in Your Business Strategy | ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-windows-10s-audio-settings-for-2024/"><u>Navigating Windows 10'S Audio Settings for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/peering-into-the-future-lg-tv-bp550-2023-review/"><u>Peering Into the Future LG TV BP550 2023 Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapore-invests-24-billion-in-enhancing-ict-frameworks-and-digital-service-offerings-a-deep-dive-into-the-national-strategy/"><u>Singapore Invests $2.4 Billion in Enhancing ICT Frameworks & Digital Service Offerings: A Deep Dive Into the National Strategy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolution-of-creativity-and-commerce-introducing-the-next-generation-ai-developers-unlocking-new-potential-in-tech/"><u>The Evolution of Creativity & Commerce: Introducing the Next Generation AI Developers - Unlocking New Potential in Tech</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-overlooked-foundation-of-ai-success-enhancing-machine-learning-with-essential-data-insights/"><u>The Overlooked Foundation of AI Success: Enhancing Machine Learning with Essential Data Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-complete-ai-workflow-engaging-with-organizations-leading-tech-expertise-zdnet/"><u>Unveiling the Complete AI Workflow: Engaging with Organization's Leading Tech Expertise | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/utilizing-artificial-intelligence-the-key-strategy-to-alleviate-job-burnout-and-combat-alert-overload-for-it-professionals-insights-from-zdnet/"><u>Utilizing Artificial Intelligence: The Key Strategy to Alleviate Job Burnout & Combat Alert Overload for IT Professionals | Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011181922-warzone-dev-error-6634-heres-how-to-solve-it-expert-advice-from-2022/"><u>Warzone Dev Error 6634? Here's How to Solve It: Expert Advice From 2022</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-how-many-marketing-teams-are-using-ai-the-answer-may-surprise-you/"><u>ZDNet Reveals: How Many Marketing Teams Are Using AI? The Answer May Surprise You!</u></a></li>
 </ul></div>
 

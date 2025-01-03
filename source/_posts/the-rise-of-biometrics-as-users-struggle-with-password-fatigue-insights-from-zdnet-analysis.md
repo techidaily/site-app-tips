@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Biometrics as Users Struggle with Password Fatigue: Insights From ZDNet Analysis"
-date: 2024-12-19T00:58:00.191Z
-updated: 2024-12-24T18:42:43.025Z
+date: 2024-12-29T04:39:25.626Z
+updated: 2025-01-03T00:02:24.543Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,14 +99,18 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-circular-innovator-box/"><u>[New] Circular Innovator Box</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-top-4-online-tools-to-remove-ai-generated-logos-and-watermarks-from-your-video-content/"><u>Best Top 4 Online Tools to Remove AI-Generated Logos & Watermarks From Your Video Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-deeplucas-ai-powered-video-creation-tool-unveiling-key-attributes-and-benefits-vs-drawbacks/"><u>Comprehensive Analysis of DeepLucas' AI-Powered Video Creation Tool - Unveiling Key Attributes & Benefits vs Drawbacks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-top-5-ai-powered-video-creation-tools-based-on-images/"><u>Comprehensive Evaluation: Top 5 AI-Powered Video Creation Tools Based on Images</u></a></li>
-<li><a href="https://app-tips.techidaily.com/decoding-sora-by-openai-key-features-practical-applications-and-potential-restrictions/"><u>Decoding Sora by OpenAI: Key Features, Practical Applications, and Potential Restrictions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-play-40c-lock-screen-password-by-drfone-android/"><u>How To Change Honor Play 40C Lock Screen Password?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/how-to-install-your-complete-guide-to-vrecord-for-2024/"><u>How to Install Your Complete Guide to VRecord for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-picks-premium-and-economical-bdr-players-for-pcmac-for-2024/"><u>Top Picks Premium & Economical BDR Players for PC/Mac for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/polnyj-obzor-vedushih-seo-konsultantov-gamburga-germaniya-proverennaya-kvalifikaciya-i-innovacionnye-strategii/"><u>Полный Обзор Ведущих SEO-Консультантов Гамбурга, Германия: Проверенная Квалификация И Инновационные Стратегии!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-easy-to-use-free-instagram-to-mp4-converters-for-all-oss/"><u>[New] 2024 Approved Easy-to-Use Free Instagram to MP4 Converters for All OSs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-revolutionizing-virtual-meetings-hacks-for-effective-zoom-chats/"><u>[New] 2024 Approved Revolutionizing Virtual Meetings Hacks for Effective Zoom Chats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-tips-for-ppt-video-production/"><u>[New] Essential Tips for PPT Video Production</u></a></li>
+<li><a href="https://app-tips.techidaily.com/devops-engineering-career-the-complete-picture-pros-cons-and-challenges/"><u>DevOps Engineering Career: The Complete Picture - Pros, Cons & Challenges</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-vr-adventures-on-oculus-devices/"><u>Essential VR Adventures on Oculus Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-tiers-unveiling-royal-match-structure/"><u>Exploring the Tiers: Unveiling 'Royal Match' Structure</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/global-presence-via-instagram-100-inspiring-self-captions/"><u>Global Presence via Instagram 100 Inspiring Self-Captions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-ai-expertise-for-non-programmers-the-need-for-multifaceted-learning-in-complex-environments-zdnet/"><u>Navigating AI Expertise for Non-Programmers - The Need for Multifaceted Learning in Complex Environments | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-old-school-it-systems-key-insights-for-managing-outdated-technologies-and-avoiding-migration-pitfalls/"><u>Navigating Old-School IT Systems: Key Insights for Managing Outdated Technologies and Avoiding Migration Pitfalls</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-pitfalls-of-outdated-systems-a-lesson-from-a-failed-technology-migration-zdnet/"><u>Navigating the Pitfalls of Outdated Systems: A Lesson From a Failed Technology Migration | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revitalizing-the-tech-workforce-how-ai-tools-mitigate-job-stress-and-enhance-focus-for-it-experts-learn-from-zdnets-expert-analysis/"><u>Revitalizing the Tech Workforce: How AI Tools Mitigate Job Stress and Enhance Focus for IT Experts | Learn From ZDNet's Expert Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-urgent-need-for-upgraded-skills-in-cybersecurity-teams-facing-legacy-system-hurdles/"><u>The Urgent Need for Upgraded Skills in Cybersecurity Teams Facing Legacy System Hurdles</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo Y78t? | Dr.fone</u></a></li>
 </ul></div>
 

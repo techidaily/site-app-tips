@@ -1,7 +1,7 @@
 ---
 title: No Excuses for Bad Passwords Anymore - Master Managed Logins with the Ultimate Guide to Password Managers
-date: 2024-12-20T22:01:36.065Z
-updated: 2024-12-25T00:01:45.428Z
+date: 2025-01-01T18:20:33.009Z
+updated: 2025-01-02T19:21:34.293Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Tell me, what is the password for your bank account? If you can rattle off that password without thinking, chances are pretty good it's not nearly strong enough. Any password you can memorize (unless you have an amazing memory) is probably weak. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -38,7 +38,7 @@ Of course, at this point, you're thinking, "I don't want to have to memorize a b
 Let's step back a bit.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does this even work?
@@ -113,22 +113,18 @@ You've been warned.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-comprehensive-guide-to-slowing-video-on-iphone/"><u>[New] 2024 Approved The Comprehensive Guide to Slowing Video on iPhone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-achieving-youtube-live-prominence-with-pro-level-tips-for-2024/"><u>[Updated] Achieving YouTube Live Prominence with Pro-Level Tips for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-unlocking-secure-vaults-a-guide-to-activating-bitwardens-master-password-prompt-feature/"><u>1. Unlocking Secure Vaults: A Guide to Activating Bitwarden's Master Password Prompt Feature</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-ranking-of-smartphone-vr-headsets/"><u>2024 Approved The Ultimate Ranking of Smartphone VR Headsets</u></a></li>
-<li><a href="https://win-guides.techidaily.com/acceso-sin-demora-guia-paso-a-paso-para-encontrar-y-restaurar-fotos-desaparecidas-de-tu-iphone/"><u>Acceso Sin Demora: Guía Paso a Paso Para Encontrar Y Restaurar Fotos Desaparecidas De Tu iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-at-wwdc-2022-a-new-era-of-authentication-begins-tech-news/"><u>Apple Unveils Revolutionary Passkey at WWDC 2022 - A New Era of Authentication Begins | Tech News</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/confirmed-age-adjustment-editing-your-profile-on-tiktok-easily-for-2024/"><u>Confirmed Age Adjustment Editing Your Profile on TikTok Easily for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/creative-vlog-ideas-for-daily-use/"><u>Creative Vlog Ideas for Daily Use</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-security-while-watching-the-hidden-dangers-of-weak-passwords-in-streaming-platforms-cyberwatchers-blog/"><u>Enhance Security While Watching: The Hidden Dangers of Weak Passwords in Streaming Platforms | CyberWatchers Blog</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Best Phone Monitoring Apps for Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Tecno Spark Go (2024) | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/massive-data-compromise-at-oregon-medical-practice-750k-patients-impacted-details-revealed-by-digi-journal/"><u>Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-digital-security-how-dashlane-enables-logins-without-a-main-password-according-to-zdnet/"><u>Revolutionizing Digital Security: How Dashlane Enables Logins Without a Main Password, According to ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/security-alert-kaspersky-password-manager-revealed-by-zdnet-for-creating-weak-brute-force-susceptible-passwords/"><u>Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords</u></a></li>
-<li><a href="https://app-tips.techidaily.com/superior-plus-top-billion-dollar-natural-gas-provider-targeted-by-cyber-attack-insights-from-zdnet/"><u>Superior Plus, Top Billion-Dollar Natural Gas Provider, Targeted by Cyber Attack: Insights From ZDNet</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-best-photo-slideshow-maker-how-to-make-a-photo-slideshow/"><u>Updated In 2024, Best Photo Slideshow Maker How to Make a Photo Slideshow</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-stronger-passwords-are-essential-protect-your-streaming-service-account-now-techadvice/"><u>Why Stronger Passwords Are Essential: Protect Your Streaming Service Account Now | TechAdvice</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-co-production-strategies-for-online-content-proliferation-for-2024/"><u>[Updated] Co-Production Strategies for Online Content Proliferation for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/broadcast-your-gaming-adventures-with-xbox-on-discord/"><u>Broadcast Your Gaming Adventures with Xbox on Discord</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-top-21-zedge-tools-for-customizing-your-phone-with-free-ringtones-and-wallpapers-on-iphoneandroid/"><u>Discover the Ultimate Top 21 Zedge Tools for Customizing Your Phone with Free Ringtones & Wallpapers on iPhone/Android</u></a></li>
+<li><a href="https://solve-info.techidaily.com/elevate-your-online-marketing-experience-the-magic-of-cookiebot-automation/"><u>Elevate Your Online Marketing: Experience the Magic of Cookiebot Automation</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-errant-apps-resolving-0xc000003e-on-windows-11-and-11/"><u>Fixing Errant Apps: Resolving 0xC000003E on Windows 11 & 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovate-your-hobbies-from-board-gaming-to-digital-art-with-my-bots/"><u>Innovate Your Hobbies: From Board Gaming to Digital Art with My Bots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-google-mdm-and-upcoming-features-an-in-depth-analysis-of-what-to-expect-in-mobile-management-systems-by-2024/"><u>Mastering Google MDM & Upcoming Features: An In-Depth Analysis of What to Expect in ^Mobile Management Systems^ by 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-top-5-hand-drawing-whiteboard-animation-software/"><u>New In 2024, Unleash Your Creativity Top 5 Hand Drawing Whiteboard Animation Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-and-easy-guide-to-rapid-iphone-app-migration-discover-the-fastest-transfer-techniques/"><u>Quick & Easy Guide to Rapid iPhone App Migration: Discover the Fastest Transfer Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/teslas-self-driving-taxi-update-unveiling-the-cost-and-launch-timeline/"><u>Tesla's Self-Driving Taxi Update: Unveiling the Cost & Launch Timeline</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-wi-fi-messaging-apps-for-seamless-internet-text-communication/"><u>Top 5 Wi-Fi Messaging Apps for Seamless Internet Text Communication</u></a></li>
 </ul></div>
 

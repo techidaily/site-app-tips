@@ -1,7 +1,7 @@
 ---
 title: "ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet"
-date: 2024-12-22T03:39:24.112Z
-updated: 2024-12-24T17:50:23.805Z
+date: 2025-01-02T04:32:02.237Z
+updated: 2025-01-03T00:55:36.130Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,18 +68,22 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-advanced-card-selections-uhd-video-perfection/"><u>[New] 2024 Approved Advanced Card Selections UHD Video Perfection</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-a-practical-guide-to-managing-twitter-archives-for-2024/"><u>[New] A Practical Guide to Managing Twitter Archives for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-navigating-the-world-of-social-networking-facebook-basics/"><u>[New] Navigating the World of Social Networking Facebook Basics</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-optimizing-final-viewers-interactions-on-yt/"><u>2024 Approved Optimizing Final Viewers' Interactions on YT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/creating-an-impressive-table-with-excel-a-step-by-step-guide/"><u>Creating an Impressive Table with Excel: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-studio.techidaily.com/errores-desastrosos-en-los-ordenadores-como-recuperar-documentos-eliminados-tras-un-reinicio-paso-a-paso/"><u>Errores Desastrosos en Los Ordenadores: Cómo Recuperar Documentos Eliminados Tras Un Reinicio, Paso a Paso</u></a></li>
-<li><a href="https://win-blog.techidaily.com/immortal-launch-hurdles-cleared-why-did-immortals-fenynix-rising-take-longer-to-hit-stores/"><u>Immortal Launch Hurdles Cleared: Why Did Immortals Fenynix Rising Take Longer to Hit Stores?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-peak-of-youtubes-monetization-wonders/"><u>In 2024, The Peak of YouTube's Monetization Wonders</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-ultimate-seal-on-cyberspace-expeditions/"><u>In 2024, Ultimate Seal on Cyberspace Expeditions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revival-in-the-clouds-the-converging-success-stories-of-openstack-and-kata-containers-analyzing-market-trends-on-zdnet/"><u>Revival in the Clouds: The Converging Success Stories of OpenStack and Kata Containers | Analyzing Market Trends on ZDNET</u></a></li>
-<li><a href="https://common-error.techidaily.com/surface-charger-malfunction-solved-a-step-by-step-guide/"><u>Surface Charger Malfunction Solved: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-the-disarray-in-linuxopen-source-manuals-expert-fixes-on-zdnet/"><u>Taming the Disarray in Linux/Open Source Manuals: Expert Fixes on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-ad-strategies-with-adobes-innovative-generative-ai-campaign-solutions-tech-news/"><u>Transform Your Ad Strategies with Adobe's Innovative Generative AI Campaign Solutions - Tech News</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweet-trends-unveiled-top-videos-of-the-twittersphere/"><u>[New] 2024 Approved Tweet Trends Unveiled Top Videos of the Twittersphere</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-art-of-sharing-on-reddit-your-complete-guide/"><u>[Updated] 2024 Approved Mastering the Art of Sharing on Reddit - Your Complete Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-step-by-step-guide-effortless-iphone-screen-recordings-for-2024/"><u>[Updated] Step-by-Step Guide Effortless Iphone Screen Recordings for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-we-depend-on-instagram-an-in-depth-analysis-by-zdnet/"><u>Can We Depend on Instagram? An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discovering-your-macs-secrets-a-guide-to-finding-passwords-in-the-keychain/"><u>Discovering Your Mac's Secrets: A Guide to Finding Passwords in the Keychain</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/instagrams-reliability-questioned-insights-from-a-zdnet-investigation/"><u>Instagram's Reliability Questioned: Insights From a ZDNet Investigation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-brex-how-1password-enhances-user-security-with-new-online-payment-features-insights-from-zdnet/"><u>Integrating Brex: How 1Password Enhances User Security with New Online Payment Features - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/logmein-decides-to-create-independent-entity-with-lastpass-zdnet-news/"><u>LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfecting-date-placement-on-visual-memories-for-2024/"><u>Perfecting Date Placement on Visual Memories for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/proton-launches-advanced-password-protector-ensuring-total-privacy-with-robust-end-to-end-cryptography-zdnet/"><u>Proton Launches Advanced Password Protector, Ensuring Total Privacy with Robust End-to-End Cryptography | ZDNET</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/solving-wi-fi-problems-step-by-step-guide-by-yl-computing/"><u>Solving Wi-Fi Problems: Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-7-most-effective-ai-software-to-craft-professional-presentations/"><u>The 7 Most Effective AI Software to Craft Professional Presentations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-password-security-tools-of-2024-professional-reviews-zdnet/"><u>Top-Ranked Password Security Tools of 2024: Professional Reviews | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-a-safer-digital-life-a-detailed-review-of-two-revolutionary-passwordless-managers/"><u>Unlocking a Safer Digital Life: A Detailed Review of Two Revolutionary Passwordless Managers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-cut-to-the-chase-get-direct-access-to-filmora-discount-codes-for-2024/"><u>Updated Cut to the Chase Get Direct Access to Filmora Discount Codes for 2024</u></a></li>
 </ul></div>
 

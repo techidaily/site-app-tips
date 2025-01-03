@@ -1,7 +1,7 @@
 ---
 title: Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet
-date: 2024-12-20T03:45:37.182Z
-updated: 2024-12-25T00:30:15.502Z
+date: 2025-01-02T04:45:09.150Z
+updated: 2025-01-03T05:13:23.220Z
 tags:
   - password-manager
 categories:
@@ -31,10 +31,6 @@ If you've been around for the past 10 or so years, you know that most services r
 
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use iCloud as a password manager on Windows
 
 ## 1\. Open iCloud for Windows
@@ -47,6 +43,10 @@ Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your iCloud Passwords
 
 Once you sign in to your account -- if you haven't already -- you can access your account, add another account, and make any necessary changes.
@@ -57,10 +57,6 @@ Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Make sure Passwords is on and click Apply
 
 Make sure Passwords is selected on the iCloud window, then click on **Apply** to make the changes. 
@@ -70,6 +66,10 @@ You can also install browser extensions at this point.
 Make sure Passwords is on and click **Apply**.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Add browser extension
 
@@ -97,6 +97,10 @@ Enter the verification code.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Try out the password manager
 
 After you set up iCloud for [Windows](https://www.zdnet.com/article/windows-11-22h2-how-to-get-microsofts-latest-os-update-and-whats-coming-next/) as a password manager and your browser extension, you can try it out by going to a website and trying to log in.
@@ -109,10 +113,6 @@ Like LastPass, the browser extension will let you fill in your login information
 
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## How do you get iCloud for Windows?  
@@ -120,7 +120,7 @@ Like LastPass, the browser extension will let you fill in your login information
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How do I set up iCloud Keychain? 
@@ -130,7 +130,7 @@ iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/arti
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
@@ -167,24 +167,24 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-the-art-of-instagrams-musical-emoji-use/"><u>[New] 2024 Approved Mastering the Art of Instagram's Musical Emoji Use</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-lenovo-laptop-screen-logging-made-easy-for-2024/"><u>[New] Lenovo Laptop Screen Logging Made Easy for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cut-costs-and-boost-security-grab-keeper-password-manager-for-half-price-shop-at-zdnet-today/"><u>Cut Costs and Boost Security! Grab Keeper Password Manager for Half Price - Shop at ZDNET Today!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-motorola-moto-g13-frp-by-drfone-android/"><u>Full Guide to Bypass Motorola Moto G13 FRP</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone 7 | Stellar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/implementing-dual-authentication-on-github-via-mobile-apps-a-comprehensive-guide/"><u>Implementing Dual-Authentication on GitHub via Mobile Apps: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-top-online-tips-creating-title-magic/"><u>In 2024, Top Online Tips Creating Title Magic</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-password-free-access-simplified-with-dashlanes-new-feature-insights-from-zdnet/"><u>Master Password-Free Access Simplified with Dashlane's New Feature - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/no-excuses-for-bad-passwords-anymore-master-managed-logins-with-the-ultimate-guide-to-password-managers/"><u>No Excuses for Bad Passwords Anymore - Master Managed Logins with the Ultimate Guide to Password Managers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/no-fuss-full-fun-exploring-ifunnys-meme-treasure/"><u>No Fuss, Full Fun Exploring iFunny's Meme Treasure</u></a></li>
-<li><a href="https://app-tips.techidaily.com/security-breach-lastpass-compromised-once-more-critical-update-from-zdnet/"><u>Security Breach: LastPass Compromised Once More - Critical Update From ZDNet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-app-development-cutting-edge-editor-tools/"><u>Top App Development Cutting-Edge Editor Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-lastpass-substitutes-expert-picks-by-zdnet/"><u>Top LastPass Substitutes : Expert Picks by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-password-management-tools-of-2024-industry-experts-picks-featured-on-zdnet/"><u>Top-Ranked Password Management Tools of 2024: Industry Experts' Picks Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-exclusive-savings-on-keeper-password-manager-secure-your-accounts-now-with-a-50-discount/"><u>Unlock Exclusive Savings on Keeper Password Manager - Secure Your Accounts Now with a 50% Discount!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/upgrade-your-security-how-1passwords-new-passkey-feature-outshines-the-master-password-insights-from-zdnet/"><u>Upgrade Your Security: How 1Password's New Passkey Feature Outshines the Master Password - Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-14-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 14 takes time in scanning my iPhone? | Stellar</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-xbox-game-pass-is-a-gamers-best-friend/"><u>Why Xbox Game Pass Is a Gamer’s Best Friend</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-essentialists-approach-saving-your-screen-on-an-hp-notebook/"><u>[New] 2024 Approved The Essentialist's Approach Saving Your Screen on an HP Notebook</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-advanced-guide-to-using-luts-for-professional-image-editors/"><u>[New] Advanced Guide to Using LUTs for Professional Image Editors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-real-time-broadcast-periscope-essentials/"><u>[New] Mastering Real-Time Broadcast Periscope Essentials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-uplifting-movies-a-top-10-list-of-inspiration/"><u>[New] Uplifting Movies A Top 10 List of Inspiration</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-artisans-approach-to-hdr-creation-in-photoshop/"><u>[Updated] In 2024, The Artisan's Approach to HDR Creation in Photoshop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/causes-and-fixes-high-ping-lags-and-dips-in-fps-during-call-of-duty-black-ops-4/"><u>Causes & Fixes: High Ping, Lags & Dips in FPS During Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/clearer-captures-smartphone-specific-tripods-guide-for-2024/"><u>Clearer Captures Smartphone-Specific Tripods' Guide for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-setting-up-and-accessing-kik-chat-app-for-windowsmac-users/"><u>Complete Tutorial: Setting Up & Accessing Kik Chat App for Windows/Mac Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/create-amazing-gifs-instantly-with-our-choice-of-the-10-best-free-apps-on-smartphones-iphone-and-android/"><u>Create Amazing GIFs Instantly with Our Choice of the 10 Best Free Apps on Smartphones (iPhone & Android)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creating-anime-sounds-with-uwu-modifiers-top-three-speech-alteration-tools-for-fans/"><u>Creating Anime Sounds with UwU Modifiers: Top Three Speech Alteration Tools for Fans</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-and-installation-guide-how-to-set-up-tango-video-calls-and-chats/"><u>Download & Installation Guide: How To Set Up Tango Video Calls And Chats</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-dota-2-frame-rate-issues-solutions-for-smooth-gameplay-in-windows-1110/"><u>Fixing Dota 2 Frame Rate Issues: Solutions for Smooth Gameplay in Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-note-30-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Note 30 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ideal-calendar-solutions-best-complimentary-and-premium-options-for-iphones/"><u>Ideal Calendar Solutions: Best Complimentary and Premium Options for iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-step-by-step-guide-how-to-quickly-unlock-your-android-device-with-easy-hacks/"><u>Simple Step-by-Step Guide: How to Quickly Unlock Your Android Device with Easy Hacks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-moving-your-iphone-applications-seamlessly-between-iphones/"><u>Step-by-Step Guide: Moving Your iPhone Applications Seamlessly Between iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192484-ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-deal-alert-top-rated-audio-experience-hits-half-price-at-best-buy-read-more-on-zdnet/"><u>Unbelievable Deal Alert: Top-Rated Audio Experience Hits Half Price at Best Buy - Read More on ZDNet</u></a></li>
 </ul></div>
 

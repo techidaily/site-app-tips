@@ -1,7 +1,7 @@
 ---
 title: LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News
-date: 2024-12-20T18:33:50.192Z
-updated: 2024-12-24T23:33:25.458Z
+date: 2025-01-01T22:40:23.910Z
+updated: 2025-01-03T05:14:01.776Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ LogMeIn [announced](https://www.logmein.com/newsroom/press-release/2021/logmein-
 The cloud-based solutions company explained that the move allows LastPass to invest heavily in "customer experience, go-to-market functions and engineering" as a way to improve its "organic growth in password management," Single Sign-On (SSO) and multi-factor authentication (MFA). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -86,24 +86,24 @@ In a message to users, LastPass reiterated that it could "strategically increase
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-injecting-external-urls-into-instagram-content/"><u>[New] 2024 Approved Injecting External URLs Into Instagram Content</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-share-your-vids-youtube-to-insta-stories/"><u>2024 Approved Share Your Vids YouTube to Insta-Stories</u></a></li>
-<li><a href="https://app-tips.techidaily.com/achieving-synergy-how-tech-and-business-are-finally-joining-forces-today-zdnet/"><u>Achieving Synergy: How Tech & Business Are Finally Joining Forces Today | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-windows-media-player-for-a-streamlined-start/"><u>Activating Windows Media Player for a Streamlined Start</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-progressive-upgrades-during-artificial-intelligence-revolution-its-pledge-as-featured-on-zdnet/"><u>Embracing Progressive Upgrades During Artificial Intelligence Revolution: IT's Pledge as Featured on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-guide-converting-and-editing-pdf-files-using-google-docs/"><u>Free Guide: Converting and Editing PDF Files Using Google Docs</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-11-pro-max-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 11 Pro Max when Phone is Broken?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-optimal-ram-assignment-for-superior-minecraft-gaming/"><u>In 2024, Optimal Ram Assignment for Superior Minecraft Gaming</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-nokia-c12-plus-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Nokia C12 Plus? Fixed | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-edge-in-hyperconvergence-the-elite-vendors-featured-on-zdnet/"><u>Leading Edge in Hyperconvergence: The Elite Vendors , Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-hybrid-cloud-challenges-with-the-latest-enhancements-of-red-hats-enterprise-linux-distribution/"><u>Mastering Hybrid Cloud Challenges with the Latest Enhancements of Red Hat's Enterprise Linux Distribution</u></a></li>
-<li><a href="https://app-tips.techidaily.com/red-hat-enterprise-linux-release-and-hybrid-cloud/"><u>Red Hat, Enterprise Linux Release, and Hybrid Cloud.</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/resolving-disk-error-repairs-cycle-on-windows-111087-a-step-by-step-guide/"><u>Resolving 'Disk Error Repairs' Cycle on Windows 11/10/8/7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/side-lobes-and-back-lobes/"><u>Side Lobes and Back Lobes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolving-job-landscape-with-ai-how-technology-replaces-and-creates-opportunities-in-training-and-ethics-insights-for-tomorrows-workforce-zdnet/"><u>The Evolving Job Landscape with AI: How Technology Replaces and Creates Opportunities in Training & Ethics | Insights for Tomorrow's Workforce | ZDNet</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unpacking-magix-video-editor-features/"><u>Unpacking MAGIX Video Editor Features</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-best-free-video-orientation-correction-tools-for-iphone/"><u>Updated In 2024, Best Free Video Orientation Correction Tools for iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-new-release-of-robust-enduring-linux-kernel-for-extended-lifetime-support/"><u>ZDNet Exclusive: New Release of Robust, Enduring Linux Kernel for Extended Lifetime Support</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-overcoming-deceptive-user-presentation-on-facebook/"><u>[New] 2024 Approved Overcoming Deceptive User-Presentation on Facebook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-ultimate-guide-to-green-screen-expertise-with-kinemaster/"><u>[New] In 2024, The Ultimate Guide to Green Screen Expertise with Kinemaster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-strategies-for-captivating-handc-fb-campaigns/"><u>[New] Innovative Strategies for Captivating H&C FB Campaigns</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nveiling-the-secrets-to-thriving-with-youtube-adsense-for-2024/"><u>[New] Unveiling the Secrets to Thriving With YouTube AdSense for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-tecno-camon-20-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Tecno Camon 20 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-how-iphone-users-can-download-and-preserve-pdfs-from-whatsapp/"><u>Complete Tutorial: How iPhone Users Can Download and Preserve PDFs From WhatsApp</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-exclusive-offers-the-best-deals-on-verizon-upgrades-this-month/"><u>Discover Exclusive Offers: The Best Deals on Verizon Upgrades This Month</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-tips-for-retrieving-lost-whatsapp-data-on-ios-recover-texts-images-movies-and-sounds-easily/"><u>Expert Tips for Retrieving Lost WhatsApp Data on iOS - Recover Texts, Images, Movies & Sounds Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-addressing-praey-for-the-gods-pc-performance-problems/"><u>Mastering Stability: Addressing Praey for the Gods' PC Performance Problems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximizing-your-media-sharing-on-whatsapp-ultimate-guide-to-reducing-video-file-size-without-quality-loss/"><u>Maximizing Your Media Sharing on WhatsApp: Ultimate Guide to Reducing Video File Size Without Quality Loss</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcome-whatsapp-backup-freeze-on-android-with-these-5-effective-methods/"><u>Overcome WhatsApp Backup Freeze on Android with These 5 Effective Methods</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-and-effective-strategies-for-iphone-users-to-preserve-whatsapp-communications/"><u>Quick and Effective Strategies for iPhone Users to Preserve WhatsApp Communications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-your-messages-comprehensive-guide-on-recovering-whatsapp-backups-from-google-drive-on-ios-devices/"><u>Reviving Your Messages: Comprehensive Guide on Recovering WhatsApp Backups From Google Drive on iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-guide-capturing-your-whatsapp-video-calls-on-ios-android-and-pc/"><u>Simple Guide: Capturing Your WhatsApp Video Calls on iOS, Android, and PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-steps-to-seamlessly-download-audio-messages-from-whatsapp/"><u>Simple Steps to Seamlessly Download Audio Messages From WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-whatsapp-video-conversion-apps-for-perfect-quality/"><u>The Ultimate Guide: Top WhatsApp Video Conversion Apps for Perfect Quality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-fixing-stop-0x0000001d-no-spin-lock-available-issues/"><u>Troubleshooting Guide: Fixing STOP 0X0000001D (No Spin Lock Available) Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-a-503-service-temporarily-unavailable-error-online/"><u>Troubleshooting Guide: Resolving a 503 Service Temporarily Unavailable Error Online</u></a></li>
 </ul></div>
 

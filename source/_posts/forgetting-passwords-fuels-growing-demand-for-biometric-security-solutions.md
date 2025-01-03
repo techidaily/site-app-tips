@@ -1,7 +1,7 @@
 ---
 title: Forgetting Passwords Fuels Growing Demand for Biometric Security Solutions
-date: 2024-12-21T18:57:34.615Z
-updated: 2024-12-25T03:52:09.769Z
+date: 2025-01-01T18:48:35.016Z
+updated: 2025-01-03T03:57:47.798Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,16 +99,18 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-of-vr-filmmaking-with-advanced-techniques-using-adobe-premiere-pro/"><u>[New] Unveiling the Secrets of VR Filmmaking with Advanced Techniques Using Adobe Premiere Pro</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-how-to-seamlessly-incorporate-premium-visuals-at-zero-expense/"><u>[Updated] How to Seamlessly Incorporate Premium Visuals at Zero Expense</u></a></li>
-<li><a href="https://extra-information.techidaily.com/breath-of-ice-the-winter-olympics-in-china-2022-for-2024/"><u>Breath of Ice The Winter Olympics in China 2022 for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-chatgpt-2erview-insights-on-capabilities-updates-and-handling-server-issues/"><u>Comprehensive ChatGPT 2Erview: Insights on Capabilities, Updates, and Handling Server Issues</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-eva-formerly-ex-journey-ai-chatbot-overview-essential-insights/"><u>Comprehensive EVA (Formerly Ex Journey) AI Chatbot Overview - Essential Insights</u></a></li>
-<li><a href="https://techidaily.com/court-verdict-impacts-cryptocurrency-holders-could-your-ethereum-lose-its-legal-status/"><u>Court Verdict Impacts Cryptocurrency Holders: Could Your Ethereum Lose Its Legal Status?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/decoding-eva-ai-a-deep-dive-into-the-transformed-ex-journey-conversational-agent/"><u>Decoding EVA AI - A Deep Dive Into the Transformed Ex Journey Conversational Agent</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-chatgpt-2024-complete-analysis-of-functionality-characteristics-and-server-hiccups/"><u>Exploring ChatGPT 2024: Complete Analysis of Functionality, Characteristics & Server Hiccups</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/periscope-footage-lifesaving-tips-and-tricks-for-2024/"><u>Periscope Footage Lifesaving Tips & Tricks for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-eva-the-ultimate-guide-to-the-former-ex-journey-ai-bot/"><u>Unveiling the Power of EVA: The Ultimate Guide to the Former Ex Journey AI Bot</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-prelude-to-cinematic-dialogue/"><u>[New] In 2024, Prelude to Cinematic Dialogue</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-meme-making-method-unveiling-6-crucial-gif-production-strategies/"><u>[New] In 2024, The Meme-Making Method Unveiling 6 Crucial GIF Production Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ideal-virtual-reality-systems-for-drones/"><u>[Updated] Ideal Virtual Reality Systems for Drones</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-saving-instagram-content-easy-no-frill-methods-exposed/"><u>[Updated] In 2024, Saving Instagram Content Easy, No-Frill Methods Exposed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-empowering-skill-advancement-beyond-artificial-intelligence-on-the-digital-frontier-insights-from-zdnet/"><u>1. Empowering Skill Advancement: Beyond Artificial Intelligence on the Digital Frontier - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/beware-the-traps-in-budget-friendly-windows-license-purchases/"><u>Beware the Traps in Budget-Friendly Windows License Purchases</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-the-future-how-your-enterprise-will-depend-on-numerous-ai-solutions-insights-from-zdnet/"><u>Embracing the Future: How Your Enterprise Will Depend on Numerous AI Solutions - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-v30t-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme V30T to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/properly-merging-webcam-feed-with-desktop-screen-for-2024/"><u>Properly Merging Webcam Feed with Desktop Screen for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/straightforward-recorder-app-windows-for-2024/"><u>Straightforward Recorder App - Windows for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-for-fixing-messages-showing-numbers-and-not-contact-names-on-your-smartphone/"><u>Tips for Fixing Messages Showing Numbers and Not Contact Names on Your Smartphone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-ais-potential-overcoming-challenges-to-harness-significant-commercial-advantages/"><u>Unlocking AI's Potential: Overcoming Challenges to Harness Significant Commercial Advantages</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-innovation-with-open-source-a-pathway-chosen-by-leading-global-minds-insights-from-zdnet/"><u>Unlocking Innovation with Open Source: A Pathway Chosen by Leading Global Minds - Insights From ZDNet</u></a></li>
 </ul></div>
 

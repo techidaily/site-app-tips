@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Digital Keykeeper: Essential Steps for Safer Password Management | ZDNet"
-date: 2024-12-17T18:35:59.991Z
-updated: 2024-12-25T04:07:17.970Z
+date: 2024-12-28T22:28:32.564Z
+updated: 2025-01-02T18:42:36.143Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ Creating and remembering a unique and complex password for each of your accounts
 A good password manager will create, store, and apply strong and complex passwords across the board, thereby securing your accounts. I've used a password manager for years and wouldn't be able to juggle all my online accounts without it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -46,7 +46,7 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -66,7 +66,7 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -90,7 +90,7 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -139,24 +139,21 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-mastering-soundscapes-expert-insights-on-audio-post-production-in-garageband-for-2024/"><u>[New] Mastering Soundscapes Expert Insights on Audio Post-Production in GarageBand for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-youtube-power-with-insights-from-creator-studio/"><u>[Updated] Unlock YouTube Power with Insights From Creator Studio</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-in-class-video-production-smooth-editing-skills/"><u>2024 Approved In-Class Video Production Smooth Editing Skills</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278148-discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-back-online-three-quick-fixes-for-an-unresponsive-ipad-in-itunes-mode/"><u>Get Back Online: Three Quick Fixes for an Unresponsive iPad in iTunes Mode</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-completely-erase-irrelevant-applications-from-itunes-for-good/"><u>How To Completely Erase Irrelevant Applications From iTunes for Good</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-6s-plus-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 6s Plus to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-c12-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nokia C12 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-no-monetary-investment-how-to-acquire-fcp/"><u>In 2024, No Monetary Investment? How to Acquire FCP</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-itunes-backups-essential-guide-and-step-by-step-tutorials/"><u>Mastering iTunes Backups: Essential Guide & Step-by-Step Tutorials</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-fixes-for-recovering-deleted-itunes-content-on-ios-and-macos/"><u>Quick Fixes for Recovering Deleted iTunes Content on iOS & macOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/retrieve-deleted-contact-information-using-itunes-backup-on-ios-devices/"><u>Retrieve Deleted Contact Information Using iTunes Backup on iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/reviving-lost-conversations-a-step-by-step-guide-to-recovering-deleted-messages-in-itunes/"><u>Reviving Lost Conversations: A Step-by-Step Guide to Recovering Deleted Messages in iTunes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-integration-of-icloud-notes-with-linux-systems-expert-guide/"><u>Seamless Integration of iCloud Notes with Linux Systems - Expert Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/share-your-creations-from-imovie-directly-to-your-itunes-library/"><u>Share Your Creations From iMovie Directly to Your iTunes Library</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-sound-problems-why-are-my-cars-speakers-not-functioning/"><u>Solving Sound Problems: Why Are My Car's Speakers Not Functioning?</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/step-by-step-tutorial-resetting-your-dell-laptop-back-to-original-factory-conditions/"><u>Step-by-Step Tutorial: Resetting Your Dell Laptop Back to Original Factory Conditions</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1125937-9781609251826-the-old-girls-book-of-dreams/"><u>The Old Girls' Book of Dreams | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-solutions-seamlessly-transfer-your-itunes-library-to-android-devices/"><u>Top Solutions: Seamlessly Transfer Your iTunes Library to Android Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-how-to-make-tiktok-dance-on-mac/"><u>[New] How to Make TikTok Dance on Mac</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-guardians-of-the-most-watched-youtube-edition/"><u>[New] In 2024, Guardians of the Most Watched YouTube Edition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-revolutionize-your-facebook-experience-with-auto-play-videos-for-2024/"><u>[New] Revolutionize Your Facebook Experience with Auto-Play Videos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-smartphone-intro-maker-tools-choosing-the-right-one-for-2024/"><u>[Updated] Smartphone Intro Maker Tools Choosing the Right One for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-freedom-top-8-tools-transforming-youtube-into-avis-for-2024/"><u>[Updated] Video Freedom Top 8 Tools Transforming YouTube Into Avis for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723809009233-cant-find-that-elusive-document-on-your-pc-master-these-tips-to-easily-locate-any-file/"><u>Can't Find That Elusive Document on Your PC? Master These Tips to Easily Locate Any File</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-robust-ai-watermark-techniques-with-insights-from-zdnet/"><u>Discover Robust AI Watermark Techniques with Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-guide-pathways-to-becoming-an-ai-leadership-executive-in-tech-companies/"><u>Essential Guide: Pathways to Becoming an AI Leadership Executive in Tech Companies</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-file-explorer-freezing-issues-on-windows-10/"><u>Fixes for File Explorer Freezing Issues on Windows 10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/full-featured-expansion-toggle-effortless-navigation-across-social-media-platforms-like-facebook-linkedin-and-youtube-with-quick-scroll-to-top-option/"><u>Full-Featured Expansion Toggle: Effortless Navigation Across Social Media Platforms Like Facebook, LinkedIn & YouTube with Quick 'Scroll To Top' Option</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ssing-youtubes-true-potential-in-studio/"><u>Harnessing YouTube's True Potential in Studio</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-downloading-and-altering-whatsapp-ringtone-files/"><u>How-To Downloading and Altering WhatsApp Ringtone Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/instantaneous-installation-laugh-with-ifunny-memes-easily/"><u>Instantaneous Installation Laugh with iFunny Memes Easily</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-new-horizons-in-business-search-solutions-the-evolution-post-copernic-era/"><u>Navigating New Horizons in Business Search Solutions - The Evolution Post-Copernic Era</u></a></li>
+<li><a href="https://app-tips.techidaily.com/optimize-your-search-with-date-and-file-type-filters-a-guide-to-superior-finds-using-copernic/"><u>Optimize Your Search with Date and File Type Filters: A Guide to Superior Finds Using Copernic</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-primary-interface-of-copernic-software-an-in-depth-walkthrough/"><u>Understanding the Primary Interface of Copernic Software: An In-Depth Walkthrough</u></a></li>
 </ul></div>
 

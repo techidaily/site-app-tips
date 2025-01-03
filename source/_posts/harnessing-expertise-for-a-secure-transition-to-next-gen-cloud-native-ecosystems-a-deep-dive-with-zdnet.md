@@ -1,7 +1,7 @@
 ---
 title: "Harnessing Expertise for a Secure Transition to Next-Gen Cloud-Native Ecosystems: A Deep Dive with ZDNet"
-date: 2024-12-23T16:10:36.795Z
-updated: 2024-12-25T03:08:36.168Z
+date: 2025-01-01T04:32:39.632Z
+updated: 2025-01-02T16:16:47.406Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-srt-essentials-decoded-for-easy-understanding/"><u>[New] In 2024, SRT Essentials Decoded for Easy Understanding</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-next-level-shooting-lens-selections-for-online-creators/"><u>[New] Next-Level Shooting Lens Selections for Online Creators</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-essential-tips-for-monitoring-facebook-live-streams/"><u>2024 Approved Essential Tips for Monitoring Facebook Live Streams</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/adapting-to-ai-developer-insights/"><u>Adapting to AI: Developer Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-10-apps-to-enhance-your-android-devices-speed-and-efficiency/"><u>Best 10 Apps to Enhance Your Android Device's Speed and Efficiency</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-motorola-moto-g-stylus-5g-2023-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Motorola Moto G Stylus 5G (2023) Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-no-cost-android-tracking-programs-top-5-picks-for-smartphone-surveillance/"><u>Best No-Cost Android Tracking Programs: Top 5 Picks for Smartphone Surveillance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193851-discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-eq-tools-for-android-devices-top-5-selections/"><u>Discover the Ultimate List of Free EQ Tools for Android Devices - Top 5 Selections</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dive-into-retro-and-modern-gaming-effortlessly-play-ps-classics-using-ps3-ps4-and-ps5-emulators-on-pc/"><u>Dive Into Retro and Modern Gaming: Effortlessly Play PS Classics Using PS3, PS4, and PS5 Emulators on PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2022-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2022) without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-secrets-to-professional-voice-overs-on-a-budget/"><u>In 2024, Secrets to Professional Voice Overs on a Budget</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-insight-into-vllo-video-editing-suite-features-performance-and-user-experience-reviewed/"><u>In-Depth Insight Into VLLO Video Editing Suite: Features, Performance, and User Experience Reviewed</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-process-of-selecting-users-for-certain-fb-ads/"><u>The Process of Selecting Users for Certain FB Ads</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-must-have-mdm-solutions-expert-picks-for-optimal-mobile-control/"><u>Top 7 Must-Have MDM Solutions: Expert Picks for Optimal Mobile Control</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194494-ultimate-selection-of-secure-android-app-protectors-find-out-which-ones-rank-the-highest/"><u>Ultimate Selection of Secure Android App Protectors – Find Out Which Ones Rank the Highest!</u></a></li>
-<li><a href="https://discover-best.techidaily.com/unlock-the-power-of-personalization-enhance-seo-with-cookiebot-technology/"><u>Unlock the Power of Personalization: Enhance SEO with Cookiebot Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/what-exactly-is-instant-messaging-an-in-depth-guide/"><u>What Exactly Is Instant Messaging? An In-Depth Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-to-your-screen-top-5-downloader-apps/"><u>[New] Facebook to Your Screen Top 5 Downloader Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-social-spectacle-snatcher/"><u>2024 Approved Social Spectacle Snatcher</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-13-ultra-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi 13 Ultra? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/converting-your-cellphone-to-a-diy-video-recorder/"><u>Converting Your Cellphone to a DIY Video Recorder</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-beyond-ai-boundaries-the-call-of-an-ai-scientist-on-thinking-differently/"><u>Exploring Beyond AI Boundaries - The Call of an AI Scientist on Thinking Differently</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gaming-laptop-faceoff-of-2024-how-razer-acer-msi-stack-up-against-each-other-comprehensive-analysis/"><u>Gaming Laptop Faceoff of 2024: How Razer, Acer, MSI Stack Up Against Each Other – Comprehensive Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-does-open-source-shape-ethical-ai-development-exploring-perspectives-on-zdnet/"><u>How Does Open Source Shape Ethical AI Development? Exploring Perspectives on ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-xiaomi-13-ultra-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Xiaomi 13 Ultra Data? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-enhanced-with-codenotarys-new-software-bill-of-materials-service-the-latest-update-featured-by-zdnet/"><u>Kubernetes Enhanced with Codenotary’s New Software Bill of Materials Service - The Latest Update Featured by ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/making-memorable-videos-tailored-to-each-situation-discover-how-with-movavi/"><u>Making Memorable Videos Tailored to Each Situation - Discover How With Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-devops-adoption-in-business-strategies-for-staying-ahead-while-reducing-risks-insights-from-zdnet/"><u>Mastering DevOps Adoption in Business: Strategies for Staying Ahead While Reducing Risks - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-tough-economic-terrain-the-persistent-demand-for-professionals-skilled-in-open-source-and-linux-platforms-zdnet-exclusive/"><u>Navigating the Tough Economic Terrain: The Persistent Demand for Professionals Skilled in Open Source and Linux Platforms | ZDNET Exclusive</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-vllo-for-mac-the-complete-package-download-and-alternatives-for-2024/"><u>New VLLO for Mac The Complete Package - Download and Alternatives for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/regulatory-compliance/"><u>Regulatory Compliance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-your-iphone-snapshots-fixes-for-when-auto-focus-fails-you/"><u>Reviving Your iPhone Snapshots: Fixes for When Auto-Focus Fails You</u></a></li>
+<li><a href="https://app-tips.techidaily.com/status-of-microsofts-previous-promotion-for-a-complimentary-windows-10-installation/"><u>Status of Microsoft's Previous Promotion for a Complimentary Windows 10 Installation!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-changing-landscape-for-software-engineers-perspectives-by-atlassians-agnes-ro-on-zdnet/"><u>The Changing Landscape for Software Engineers: Perspectives by Atlassian's Agnes Ro on ZDNet</u></a></li>
 </ul></div>
 

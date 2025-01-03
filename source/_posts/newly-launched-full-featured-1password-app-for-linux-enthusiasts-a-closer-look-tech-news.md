@@ -1,7 +1,7 @@
 ---
 title: "Newly Launched Full-Featured 1Password App for Linux Enthusiasts: A Closer Look - Tech News"
-date: 2024-12-22T04:53:49.602Z
-updated: 2024-12-24T23:39:52.085Z
+date: 2024-12-30T23:19:45.944Z
+updated: 2025-01-02T16:20:01.314Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/988b0aa2e48e125d13283fa19f222d53a696ba967
 I used to pride myself on being able to remember dozens of complex passwords. But, now I need to remember hundreds of passwords and I just can't do it. That's why password managers, such as [1Password](https://1password.com/), [Keeper](https://keepersecurity.com/), and [LastPass](https://www.lastpass.com/), are so important. All of which is fine and good… unless you're running Linux. Now, Agilebits' 1Password has finally given their customers what they've been [asking for: A Linux version](https://discussions.agilebits.com/discussion/2846/new-product-request-1password-for-linux). After a long beta, the [company has released its first Linux edition](https://www.prnewswire.com/news-releases/1password-unveils-application-to-protect-linux-users-and-developers-301293641.html).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** recommends
@@ -78,18 +78,22 @@ Sound good to you? Give [Linux 1Password a try with a 30-day free trial](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-xchange-your-mind-with-non-sharex-insights-for-2024/"><u>[New] XChange Your Mind with Non-ShareX Insights for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/collaboration-between-sony-research-and-ai-singapore-targets-advancements-in-language-models/"><u>Collaboration Between Sony Research and AI Singapore Targets Advancements in Language Models</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-security-flaw-found-in-popular-linux-tool-curl-fixes-deployed-by-developers/"><u>Critical Security Flaw Found in Popular Linux Tool Curl - Fixes Deployed by Developers</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/educators-summit-in-london-uk-bett-2022/"><u>Educators' Summit in London, UK: BETT 2022</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-tutorial-features-and-usage/"><u>Guide, Tutorial, Features, and Usage.</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-13-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 13</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-ace-2-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Ace 2 Pro to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/navigating-next-gen-webinar-software-for-2024/"><u>Navigating Next-Gen Webinar Software for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-kubernetes-environment-with-codenotarys-new-sbom-offering-as-featured-on-zdnet/"><u>Secure Your Kubernetes Environment with Codenotary’s New SBOM Offering, as Featured on ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-poco-f5-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Poco F5 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-free-substitutes-for-openais-sora-explore-your-options/"><u>Top 6 Free Substitutes for OpenAI's Sora: Explore Your Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-on-transitioning-from-windows-home-edition-to-the-advanced-pro-variant/"><u>Ultimate Tutorial on Transitioning From Windows Home Edition to the Advanced Pro Variant</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/urgent-alert-apple-warns-iphones-of-increased-threats-from-private-military-cyber-espionage-are-your-devices-at-risk/"><u>Urgent Alert: Apple Warns iPhones of Increased Threats From Private Military Cyber Espionage - Are Your Devices at Risk?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-detailed-video-capture-using-videoleap-tools/"><u>[New] 2024 Approved Detailed Video Capture Using Videoleap Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quick-guide-to-screen-capture-on-laptops-and-chromeos/"><u>[New] 2024 Approved Quick Guide to Screen Capture on Laptops and ChromeOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-creation-to-public-domain-google-podcast-upload/"><u>[Updated] From Creation to Public Domain Google Podcast Upload</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-setting-the-stage-for-seamless-video-playback-in-facebook-network/"><u>[Updated] Setting the Stage for Seamless Video Playback in Facebook Network</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-art-of-background-replacement-in-editing-suite/"><u>2024 Approved The Art of Background Replacement in Editing Suite</u></a></li>
+<li><a href="https://app-tips.techidaily.com/5-advanced-ai-solutions-dominating-the-market-in-automatic-video-editing-technology/"><u>5 Advanced AI Solutions Dominating the Market in Automatic Video Editing Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-elevenlabs-discovering-four-remarkable-alternatives-an-in-depth-analysis-of-their-unique-features/"><u>Beyond ElevenLabs: Discovering Four Remarkable Alternatives - An In-Depth Analysis of Their Unique Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-top-8-unrestricted-character-ais-expert-options-without-limitations/"><u>Discover Top 8 Unrestricted Character AIs: Expert Options Without Limitations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-monica-ai-understanding-its-features-and-mastering-chatgpt-assistance/"><u>Exploring Monica AI: Understanding Its Features & Mastering ChatGPT Assistance</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-discover-best-8-3d-realms-with-glossy-text-effects/"><u>In 2024, Discover Best 8 3D Realms with Glossy Text Effects</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-how-to-record-teams-video-meeting/"><u>In 2024, How to Record Teams Video Meeting?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-x-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone X without Security Questions?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovative-model-conversion-from-text-to-video-within-hugging-faces-collaborative-ecosystem/"><u>Innovative Model Conversion From Text to Video Within Hugging Face's Collaborative Ecosystem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-persistent-crashes-on-path-of-exile-solutions-and-tips/"><u>Resolving Persistent Crashes on Path of Exile – Solutions & Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-10-cutting-edge-ai-chatbots-to-enhance-your-messaging-game/"><u>The Ultimate List of 10 Cutting-Edge AI Chatbots to Enhance Your Messaging Game</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-conversational-ai-exploring-the-best-features-of-gpt-powered-chatbots/"><u>Top-Rated Conversational AI: Exploring the Best Features of GPT-Powered Chatbots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-reviews-explore-the-best-in-ai-meet-chatgpt-your-new-preferred-chatbot-companion/"><u>Top-Rated Reviews: Explore the Best in AI - Meet ChatGPT, Your New Preferred Chatbot Companion</u></a></li>
 </ul></div>
 

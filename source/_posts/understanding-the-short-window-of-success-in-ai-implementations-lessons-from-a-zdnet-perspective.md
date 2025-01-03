@@ -1,7 +1,7 @@
 ---
 title: Understanding the Short Window of Success in AI Implementations - Lessons From a ZDNet Perspective
-date: 2024-12-22T18:02:14.395Z
-updated: 2024-12-24T20:21:03.829Z
+date: 2024-12-31T21:04:46.329Z
+updated: 2025-01-02T17:32:43.210Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-adding-value-to-visuals-implementing-watermarks-in-instagram/"><u>[New] 2024 Approved Adding Value to Visuals Implementing Watermarks in Instagram</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mastering-aerial-footage-a-guide-to-drone-video-editing/"><u>[Updated] In 2024, Mastering Aerial Footage A Guide to Drone Video Editing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-zenith-of-the-slopes-x-racing-highlights-22/"><u>[Updated] In 2024, Zenith of the Slopes - X-Racing Highlights, '22</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-pursuit-of-detail-zoom-tactics-for-videoleap-enthusiasts/"><u>[Updated] In Pursuit of Detail Zoom Tactics for VideoLeap Enthusiasts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-top-5-revelatory-tactics-for-novices-in-digital-advertising/"><u>[Updated] Top 5 Revelatory Tactics for Novices in Digital Advertising</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-ai-in-developer-tools-why-rote-automation-is-a-thing-of-the-past-insights-from-zdnet/"><u>Embracing AI in Developer Tools: Why Rote Automation Is a Thing of the Past - Insights From ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-misconceptions-why-macs-dont-rule-in-pc-games/"><u>Exploring Misconceptions: Why Macs Don't Rule in PC Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-authentic-is-the-gaming-with-am08-pro/"><u>How Authentic Is the Gaming with AM08 Pro?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-v30-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme V30</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leveraging-open-source-to-draw-global-tech-pioneers-insights-from-zdnet/"><u>Leveraging Open Source to Draw Global Tech Pioneers - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-how-ai-growth-clashes-with-agile-practices-according-to-recent-research-by-zdnet/"><u>Navigating the Complexities: How AI Growth Clashes with Agile Practices, According to Recent Research by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/reviving-tech-talent-how-artificial-intelligence-combats-job-burnout-and-warning-tiredness-for-it-professionals-zdnet/"><u>Reviving Tech Talent: How Artificial Intelligence Combats Job Burnout & Warning Tiredness for IT Professionals | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamless-ai-synthesis-realized-engage-with-your-organizations-chief-tech-architect-zdnet/"><u>Seamless AI Synthesis Realized - Engage with Your Organization’s Chief Tech Architect | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-now-16-t-trillion-non-cash-deals-dominated-by-asia-insights-from-zdnet/"><u>The Future Is Now: 1.6 T Trillion Non-Cash Deals Dominated by Asia | Insights From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-workplaces-how-ai-agents-shape-the-future-of-employment-zdnet/"><u>Transforming Workplaces: How AI Agents Shape the Future of Employment | ZDNet</u></a></li>
-<li><a href="https://article-posts.techidaily.com/unlocking-the-secrets-to-reddit-success-in-business-promotions/"><u>Unlocking the Secrets to Reddit Success in Business Promotions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-create-impact-with-intro-excellence-best-free-services-reviewed/"><u>2024 Approved Create Impact with Intro Excellence Best Free Services Reviewed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-democratize-your-digital-dedication-increase-your-follower-count/"><u>2024 Approved Democratize Your Digital Dedication Increase Your Follower Count</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-essential-insights-on-making-your-podcast-name-unforgettable/"><u>2024 Approved Essential Insights on Making Your Podcast Name Unforgettable</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-your-key-to-digital-audio-conversion-from-srt-to-xmlssattml-guide/"><u>2024 Approved Your Key to Digital Audio Conversion From SRT to XML/SSA/TTML Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-lightspeed-on-openshift-the-intelligent-ai-companion-for-your-kubernetes-clusters-zdnet/"><u>Discover Lightspeed on OpenShift – The Intelligent AI Companion for Your Kubernetes Clusters | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experts-choose-the-leading-network-surveillance-software-comprehensive-review-and-selection-guide-techinsight/"><u>Experts Choose the Leading Network Surveillance Software : Comprehensive Review and Selection Guide | TechInsight</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/global-presence-via-instagram-100-inspiring-self-captions-for-2024/"><u>Global Presence via Instagram 100 Inspiring Self-Captions for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-smart-8-plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Smart 8 Plus to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/ideal-cams-for-animation-with-clay/"><u>Ideal Cams for Animation with Clay</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-new-release-a-game-changer-or-annoyance-find-out-how-it-stacks-up-zdnet/"><u>Microsoft's New Release: A Game Changer or Annoyance? Find Out How It Stacks Up [ZDNet]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-overlap-of-kernel-issues-and-cybersecurity-in-linux-environments-strategies-to-maintain-safety/"><u>Navigating the Overlap of Kernel Issues & Cybersecurity in Linux Environments - Strategies to Maintain Safety</u></a></li>
+<li><a href="https://app-tips.techidaily.com/new-advancements-for-ai-tasks-with-latest-kubernetes-version-released-insights-from-tech-experts-at-zdnet/"><u>New Advancements for AI Tasks with Latest Kubernetes Version Released, Insights From Tech Experts at ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prepare-for-windows-10-eol-explore-five-essential-upgrades-or-migrations-options-now-zdnet-insights/"><u>Prepare for Windows 10 EOL: Explore Five Essential Upgrades or Migrations Options Now | ZDNet Insights</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/ready-yourself-for-youtube-video-production-finalcut-pro-techniques/"><u>Ready Yourself for YouTube Video Production - FinalCut Pro Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-red-hats-lightspeed-an-advanced-ai-solution-tailored-for-kubernetes-admins-with-openshift-zdnet/"><u>Unveiling Red Hat’s Lightspeed: An Advanced AI Solution Tailored for Kubernetes Admins with OpenShift | ZDNet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/visionary-ai-digital-editing-app/"><u>Visionary AI Digital Editing App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/where-is-microsofts-promised-free-windows-10-update-now/"><u>Where Is Microsoft's Promised Free Windows 10 Update Now?</u></a></li>
 </ul></div>
 

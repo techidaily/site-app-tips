@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: How Non-Apple Companies Offer More Enjoyable Work Experiences, Confirms Ex-Employee | ZDNET"
-date: 2024-12-18T02:07:37.672Z
-updated: 2024-12-24T16:38:19.692Z
+date: 2024-12-28T22:08:20.180Z
+updated: 2025-01-02T17:28:17.986Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-grappling-glory-selecting-the-ultimate-fight-simulator/"><u>[New] Grappling Glory Selecting the Ultimate Fight Simulator</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-effortless-entrepreneurship-top-10-easy-to-create-biz-channels-on-youtotube/"><u>[Updated] Effortless Entrepreneurship Top 10 Easy-to-Create Biz Channels on YouToTube</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-surpass-everyday-photo-taking-with-ios-11/"><u>[Updated] Surpass Everyday Photo-Taking with iOS 11</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-solutions-combating-it-professional-burnout-and-alert-overload-with-technology-insights-from-zdnet/"><u>AI Solutions: Combating IT Professional Burnout & Alert Overload with Technology Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asia-spearheads-the-surge-in-non-cash-payments-anticipated-global-reach-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Cash Payments: Anticipated Global Reach of $1.6 Trillion</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-leaders-top-6-strategies-for-enhancing-executive-technological-proficiency-zdnet/"><u>Empowering Leaders: Top 6 Strategies for Enhancing Executive Technological Proficiency | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-manager-education-prior-to-enterprise-ai-adoption-lessons-by-zdnet/"><u>Essential Manager Education Prior to Enterprise AI Adoption - Lessons by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-does-bass-management-work-an-intuitive-breakdown-for-beginners/"><u>How Does Bass Management Work? An Intuitive Breakdown for Beginners</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/masterclass-diagnosing-and-restoring-functionality-to-unresponsive-shift-buttons/"><u>Masterclass: Diagnosing & Restoring Functionality to Unresponsive Shift Buttons</u></a></li>
-<li><a href="https://app-tips.techidaily.com/prioritize-manager-training-before-ai-deployment-insights-from-zdnet/"><u>Prioritize Manager Training Before AI Deployment: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-work-how-ai-agents-forge-a-new-era-in-employment-insights-from-zdnet/"><u>Revolutionizing Work: How AI Agents Forge a New Era in Employment - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-chatbot-convictions-the-true-vs-myth-narrative/"><u>Unraveling Chatbot Convictions: The True Vs. Myth Narrative</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-redmi-note-12-4g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Redmi Note 12 4G? Here is How | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/wave-bye-bye-to-fb-on-android-devices-a-simple-guide/"><u>Wave Bye-Bye to FB on Android Devices - A Simple Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/arnessing-creative-energy-for-impactful-lyric-videos-and-lyric-video-maker-for-2024/"><u>[New] Harnessing Creative Energy for Impactful Lyric Videos & Lyric Video Maker for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-asmr-app-selection-guide-for-phones/"><u>[New] In 2024, ASMR App Selection Guide for Phones</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-optimize-video-quality-turning-on-av1-in-youtube-settings/"><u>[New] In 2024, Optimize Video Quality Turning ON AV1 in YouTube Settings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-zero-price-windows-desktop-snapping-tutorials/"><u>[New] In 2024, Zero Price Windows Desktop Snapping Tutorials</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-elite-writes-on-10-free-video-transcript-extractors/"><u>2024 Approved Elite' Writes on 10 Free Video Transcript Extractors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/365-as-revealed-by-zdnet/"><u>365, as Revealed by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-challenge-ahead-microsoft-must-fix-major-windows-11-issues-before-launch-deadline-insights-from-zdnet/"><u>Critical Challenge Ahead: Microsoft Must Fix Major Windows 11 Issues Before Launch Deadline - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-end-of-mainstream-windows-11-support-soon-explore-your-5-last-resort-options-now/"><u>Facing the End of Mainstream Windows 11 Support Soon? Explore Your 5 Last Resort Options Now!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-methods-converting-your-dvd-files-into-mp4-format-on-windows-10-and-11/"><u>Free Methods: Converting Your DVD Files Into MP4 Format on Windows 10 and 11</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/ifind-data-recovery-tutorial-for-retrieving-deleted-files-from-windows-os-versions-1178/"><u>IFind Data Recovery Tutorial for Retrieving Deleted Files From Windows OS Versions 11/7/8</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-activating-uac-virtualization-on-windows-10-and-11/"><u>Step-by-Step Guide: Activating UAC Virtualization on Windows 10 & 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-comeback-kid-unpacking-why-openstack-and-kata-containers-are-winning-over-enterprises-again-analysis-on-zdnet/"><u>The Comeback Kid: Unpacking Why OpenStack & Kata Containers Are Winning Over Enterprises Again - Analysis on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-main-lobe-or-beam-represents-the-direction-in-which-an-antenna-radiates-most-of-its-energy-a-highly-directive-antenna-has-a-narrow-main-lobe/"><u>The Main Lobe, or Beam, Represents the Direction in Which an Antenna Radiates Most of Its Energy; a Highly Directive Antenna Has a Narrow Main Lobe.</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/troubleshooting-guide-dealing-with-faulty-device-drivers-in-systems-by-yl-software-experts/"><u>Troubleshooting Guide: Dealing with Faulty Device Drivers in Systems by YL Software Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-secrets-of-successful-virtual-workspaces-embracing-anonymity-zdnet/"><u>Unveiling Secrets of Successful Virtual Workspaces: Embracing Anonymity | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-ultimate-faceoff-microsoft-teams-zoom-and-the-game-changer-in-lip-reading-tech/"><u>Unveiling the Ultimate Faceoff: Microsoft Teams, Zoom & The Game-Changer in Lip Reading Tech</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-update-microsoft-faces-major-challenges-with-windows-11-just-one-year-left/"><u>Urgent Update: Microsoft Faces Major Challenges with Windows 11 - Just One Year Left!</u></a></li>
 </ul></div>
 

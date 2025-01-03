@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Building an Excel Drop-Down Menu Swiftly & Simply - Tips From ZDNet"
-date: 2024-12-21T19:29:21.048Z
-updated: 2024-12-25T01:14:01.498Z
+date: 2024-12-27T19:28:53.651Z
+updated: 2025-01-03T04:56:00.359Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-mobile-sharing-strategies-bytes-and-vids-not-retweets-for-2024/"><u>[Updated] Mobile Sharing Strategies Bytes & Vids, Not Retweets for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-clicking-around-unveiling-the-future-of-uis-with-generative-ai-zdnet/"><u>Beyond Clicking Around: Unveiling the Future of UIs with Generative AI | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-for-singaporean-smes-equip-your-team-with-genai-skills-insights-from-zdnet/"><u>Comprehensive Guide for Singaporean SMEs: Equip Your Team with GenAI Skills - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-exceptional-audio-with-the-blueear-wireless-earset-beanie-cap-an-in-depth-evaluation/"><u>Experience Exceptional Audio with the Blueear Wireless Earset Beanie Cap: An In-Depth Evaluation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-examining-luminances-contribution-to-hdr-artscape/"><u>In 2024, Examining Luminance’s Contribution to HDR Artscape</u></a></li>
-<li><a href="https://app-tips.techidaily.com/investing-in-the-future-singapore-advocates-funding-ai-integration-and-eco-friendly-technologies/"><u>Investing in the Future: Singapore Advocates Funding AI Integration and Eco-Friendly Technologies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/stanford-investigation-highlights-ais-english-focused-flaw-in-chatbots-urging-diverse-language-support-zdnet/"><u>Stanford Investigation Highlights AI's English-Focused Flaw in Chatbots, Urging Diverse Language Support | ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-tips-for-nonfunctional-speakers-in-windows-7-pcs/"><u>Step-by-Step Repair Tips for Nonfunctional Speakers in Windows 7 PCs</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-12-pro-max-lock-with-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 12 Pro Max lock with Apple ID</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-unbeatable-discount-apples-latest-m3-macbook-pro-now-just-200-cheaper-in-amazons-massive-spring-clearance-event-tech-insights/"><u>Unlock Unbeatable Discount: Apple's Latest M3 MacBook Pro Now Just $200 Cheaper in Amazon's Massive Spring Clearance Event – Tech Insights!</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-optimal-sleep-cycles-for-windows-devices/"><u>Unlocking Optimal Sleep Cycles for Windows Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-role-of-chief-ai-officers-steps-to-secure-this-key-position/"><u>Unveiling the Role of Chief AI Officers - Steps to Secure This Key Position</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/unveiling-the-versatility-of-anker-roavs-dash-cam-c1-a-complete-overview/"><u>Unveiling the Versat^ility of Anker Roav's Dash Cam C1 - A Complete Overview</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-recent-study-a-staggering-25-of-tech-workers-may-soon-seek-new-employment-opportunities/"><u>ZDNet's Recent Study: A Staggering 25% of Tech Workers May Soon Seek New Employment Opportunities</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-exploring-the-finest-no-cost-video-editing-software/"><u>[New] 2024 Approved Exploring the Finest No-Cost Video Editing Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-privacy-tip-remove-spotifys-auto-podcast-suggestions/"><u>[New] 2024 Approved Privacy Tip Remove Spotify's Auto-Podcast Suggestions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-retrospective-graphics-radeons-reprise/"><u>[New] 2024 Approved Retrospective Graphics Radeon's Reprise</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-echo-your-thoughts-cost-included-not-here/"><u>[Updated] 2024 Approved Echo Your Thoughts, Cost Included? Not Here</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-decoding-windows-10-imports-a-deep-dive-into-file-transfer/"><u>[Updated] In 2024, Decoding Windows 10 Imports A Deep Dive Into File Transfer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-seamless-integration-setting-up-email-in-your-onlyoffice-environment-tips-and-tricks/"><u>1. Seamless Integration: Setting Up Email in Your ONLYOFFICE Environment - Tips & Tricks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-downloading-the-latest-insta-reels-two-ways-to-go/"><u>2024 Approved Downloading the Latest Insta Reels, Two Ways to Go</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726226583343-m4a-mp3/"><u>無償で安全な M4A から MP3 へのオンライン変換ツール</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-hottest-tech-skills-best-platforms-for-mastering-key-programming-languages-now/"><u>Discover the Hottest Tech Skills: Best Platforms for Mastering Key Programming Languages Now</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nokia-c110-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nokia C110 to iPad | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-video-trimming-and-editing-with-precision-learn-how-from-movavi/"><u>Mastering the Art of Video Trimming and Editing with Precision - Learn How From Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamlessly-share-your-iphone-pictures-with-your-windows-computer-a-comprehensive-tutorial/"><u>Seamlessly Share Your iPhone Pictures with Your Windows Computer: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-servicenows-four-fundamental-ai-concepts-impactful-insights-for-modern-enterprises/"><u>Understanding ServiceNow's Four Fundamental AI Concepts: Impactful Insights for Modern Enterprises</u></a></li>
 </ul></div>
 

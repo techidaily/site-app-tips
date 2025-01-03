@@ -1,7 +1,7 @@
 ---
 title: Why People Favor Biometrics Over Passwords Due to Memory Challenges | ZDNet Analysis
-date: 2024-12-18T19:39:43.144Z
-updated: 2024-12-25T02:14:11.219Z
+date: 2025-01-01T21:12:47.270Z
+updated: 2025-01-02T23:32:27.538Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,22 +99,20 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/astering-fair-use-navigating-youtube-copyright-challenges/"><u>[New] Mastering Fair Use Navigating YouTube Copyright Challenges</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-cultivate-a-thriving-igtv-community-5-key-increase-strategies/"><u>[Updated] Cultivate a Thriving IGTV Community 5 Key Increase Strategies</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-top-5-tools-for-simple-message-access-and-viewing-on-your-pc/"><u>Best Top 5 Tools for Simple Message Access & Viewing on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-your-brand-with-a-trust-signal-how-to-obtain-an-instagram-verification-status/"><u>Boost Your Brand with a Trust Signal: How to Obtain an Instagram Verification Status</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-note-taking-solutions-for-android-phones-our-favorite-5-apps/"><u>Discover the Ultimate List of Note-Taking Solutions for Android Phones: Our Favorite 5 Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-android-lock-screen-widgets-expertly-curated-free-plus-paid-varieties-for-optimal-usage/"><u>Discover the Ultimate Selection of Android Lock Screen Widgets: Expertly Curated Free + Paid Varieties for Optimal Usage</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-fakes-decoded-a-guide-to-authenticity-checks/"><u>Facebook Fakes Decoded: A Guide to Authenticity Checks</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-v29e-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo V29e Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-google-mdm-and-upcoming-features-an-in-depth-analysis-of-what-to-expect-in-mobile-management-systems-by-2024/"><u>Mastering Google MDM & Upcoming Features: An In-Depth Analysis of What to Expect in ^Mobile Management Systems^ by 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-and-easy-guide-to-rapid-iphone-app-migration-discover-the-fastest-transfer-techniques/"><u>Quick & Easy Guide to Rapid iPhone App Migration: Discover the Fastest Transfer Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-on-the-go-browsing-the-new-feature-of-personalized-shortcuts-in-vivaldi-mobile-browser/"><u>Revolutionizing On-the-Go Browsing: The New Feature of Personalized Shortcuts in Vivaldi Mobile Browser</u></a></li>
-<li><a href="https://fox-within.techidaily.com/software-gratuito-top-notch-per-il-ripristino-delle-immagini-su-windows-scarica-ora/"><u>Software Gratuito Top-Notch per Il Ripristino Delle Immagini Su Windows - Scarica Ora!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-5-essentials-to-know-prior-to-purchasing-your-first-fitness-tracker/"><u>Top 5 Essentials to Know Prior to Purchasing Your First Fitness Tracker</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-wi-fi-messaging-apps-for-seamless-internet-text-communication/"><u>Top 5 Wi-Fi Messaging Apps for Seamless Internet Text Communication</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-6-best-free-slots-games-must-have-mobile-apps-for-android-and-ios/"><u>Top 6 Best Free Slots Games: Must-Have Mobile Apps for Android & iOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-iphone-updates-top-issues-and-fixes/"><u>Troubleshooting iPhone Updates: Top Issues & Fixes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagrams-backward-glimpse-reverse-video-tips/"><u>[Updated] 2024 Approved Instagram's Backward Glimpse Reverse Video Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-building-an-engaged-youtube-community-subscribers/"><u>2024 Approved Building an Engaged Youtube Community (Subscribers)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/challenges-for-ai-communication-in-multilingual-contexts-revealed-by-stanford-study-featured-on-zdnet/"><u>Challenges for AI Communication in Multilingual Contexts Revealed by Stanford Study, Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/edge-computing-boom-unpacking-how-this-trend-shapes-future-careers-insights-from-zdnet/"><u>Edge Computing Boom: Unpacking How This Trend Shapes Future Careers - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-strategies-for-technology-team-management-dive-into-your-business-foundations-expert-advice-from-zdnet/"><u>Effective Strategies for Technology Team Management: Dive Into Your Business Foundations | Expert Advice From ZDNet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enrich-image-narratives-how-to-employ-titles-and-captions-on-videos-via-windows-for-2024/"><u>Enrich Image Narratives How to Employ Titles and Captions on Videos via Windows for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fps-problems-and-hitches-addressed-gtx-frame-drops-jitteriness-and-gaming-performance-solutions/"><u>FPS Problems and Hitches Addressed: GTX Frame Drops, Jitteriness & Gaming Performance Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-prove-the-value-of-generative-ai-overcoming-roi-hurdles-explained-expert-analysis-by-zdnet/"><u>How to Prove the Value of Generative AI - Overcoming ROI Hurdles Explained | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-transform-your-asmr-experience-into-proficiently-produced-videos/"><u>In 2024, Transform Your ASMR Experience Into Proficiently Produced Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-your-usb-active-disabling-hibernation-in-win-11/"><u>Keep Your USB Active: Disabling Hibernation in Win 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-ai-hurdles-unlocking-significant-commercial-gains-insights-from-zdnet/"><u>Overcoming AI Hurdles: Unlocking Significant Commercial Gains - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-choosing-leading-web-hosts-of-202-expert-evaluations-and-comparisons-zdnet/"><u>Ultimate Guide to Choosing Leading Web Hosts of 202^%: Expert Evaluations and Comparisons | ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-future-careers-surprising-new-tech-positions-with-yet-to-be-named-titles-insights-from-zdnet/"><u>Unveiling Future Careers: Surprising New Tech Positions with Yet-to-Be-Named Titles - Insights From ZDNet</u></a></li>
 </ul></div>
 

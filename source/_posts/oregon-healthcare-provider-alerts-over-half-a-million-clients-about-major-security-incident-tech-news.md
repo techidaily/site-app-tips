@@ -1,7 +1,7 @@
 ---
 title: Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News
-date: 2024-12-19T17:42:56.039Z
-updated: 2024-12-24T21:14:21.009Z
+date: 2024-12-30T04:20:28.327Z
+updated: 2025-01-02T16:59:43.836Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it suffered a ransomware attack in July that led to the breach of sensitive employee and patient information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it
 [![2020-03-18-at-12-23-32-pm.jpg](https://www.zdnet.com/a/img/resize/3c34ebf72342b1f0704550e1e2edf445f0628572/2020/03/18/7c2e2258-7566-4e66-9059-a1a8aedf00b4/2020-03-18-at-12-23-32-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best security key While robust passwords help you secure your valuable online accounts, hardware-based two-factor authentication takes that security to the next level.  Read now](https://www.zdnet.com/article/best-security-key/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The breach involves the information of 750,000 patients and 522 current and former OAG employees. 
@@ -90,14 +90,21 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/9-cost-free-youtube-sound-extractors-free-youtube-audio-downloads-for-2024/"><u>[New] 29 Cost-Free YouTube Sound Extractors Free YouTube Audio Downloads for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-pursuing-seamless-integration-of-videos-on-instagram-for-2024/"><u>[Updated] Pursuing Seamless Integration of Videos on Instagram for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/anthropic-introduces-the-claude-enterprise-suite-for-enhanced-ai-capabilities-across-large-scale-operations-zdnet-insights/"><u>Anthropic Introduces the Claude Enterprise Suite for Enhanced AI Capabilities Across Large-Scale Operations | ZDNET Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-a-leap-towards-realistic-integration/"><u>Bridging the Tech and Business Divide: A Leap Towards Realistic Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-transparency-of-openais-shap-explainer/"><u>Exploring the Transparency of OpenAI's SHAP Explainer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/five-essential-strategies-for-your-windows-10-computer-as-microsoft-support-nears-its-end/"><u>Five Essential Strategies for Your Windows 10 Computer as Microsoft Support Nears Its End</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-ruby-tinted-display-anomaly-of-windows-11-computers/"><u>Fixing the Ruby-Tinted Display Anomaly of Windows 11 Computers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-journey-successful-strategies-for-upgrading-to-ubuntu-linux-2404-insights-from-zdnet/"><u>Navigating the Journey: Successful Strategies for Upgrading to Ubuntu Linux 24.04 - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/no-trade-offs-in-performance-a-comprehensive-look-at-the-asus-zephyrus-g14-for-gamers/"><u>No Trade-Offs in Performance: A Comprehensive Look at the Asus Zephyrus G14 for Gamers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-non-sport-spectacles-in-the-top-ten-front-rows/"><u>[New] In 2024, Non-Sport Spectacles in the Top Ten Front Rows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unlocking-timelapse-magic-with-your-gopro/"><u>[New] In 2024, Unlocking Timelapse Magic with Your GoPro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-clear-and-consistent-slug-lines/"><u>[Updated] Crafting Clear and Consistent Slug Lines</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-xiaomi-mix-fold-3-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Xiaomi Mix Fold 3 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-anytime-anythnough-how-to-get-past-or-latest-itunes-versions-for-pcs-and-apple-devices-without-paying-a-dime/"><u>Download Anytime, Anythnough: How to Get Past or Latest iTunes Versions for PCs and Apple Devices Without Paying a Dime</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-networking-how-chatgpt-boosts-your-chance-for-linkedin-employment/"><u>Enhancing Networking: How ChatGPT Boosts Your Chance for LinkedIn Employment</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-recover-lost-contacts-from-your-iphones-itunes-backup/"><u>How to Recover Lost Contacts From Your iPhone's iTunes Backup</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-fix-guide-eliminate-itunes-music-duplicates-with-simple-methods/"><u>Quick Fix Guide: Eliminate iTunes Music Duplicates with Simple Methods</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revamp-your-itunes-collection-with-these-proven-techniques-for-inserting-album-images/"><u>Revamp Your iTunes Collection with These Proven Techniques for Inserting Album Images</u></a></li>
+<li><a href="https://app-tips.techidaily.com/syncing-imovie-projects-with-itunes-a-step-by-step-guide/"><u>Syncing iMovie Projects with iTunes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-12-replacements-for-itunes-on-pc-and-mac-in-2n34-best-options-explored/"><u>Top 12 Replacements for iTunes on PC and Mac in 2N34 - Best Options Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-exciting-ios-upgrades-on-the-new-iphone-16-pro-revealed-by-zdnet/"><u>Top 5 Exciting iOS Upgrades on the New iPhone 16 Pro Revealed by ZDNet</u></a></li>
 </ul></div>
 

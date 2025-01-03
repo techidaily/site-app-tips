@@ -1,7 +1,7 @@
 ---
 title: The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights
-date: 2024-12-21T18:09:21.175Z
-updated: 2024-12-25T00:51:01.897Z
+date: 2024-12-26T18:03:47.375Z
+updated: 2025-01-03T04:26:51.357Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -114,7 +114,7 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -141,7 +141,7 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -189,15 +189,24 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-elevate-your-content-strategies-to-climb-youtube-ranks/"><u>[New] 2024 Approved Elevate Your Content Strategies to Climb YouTube Ranks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-discover-reliable-free-mobile-communication-tools-with-advanced-security-features/"><u>[Updated] 2024 Approved Discover Reliable Free Mobile Communication Tools with Advanced Security Features</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-revolution-how-red-hat-enhances-system-admin-tasks-with-cutting-edge-intelligence-zdnet/"><u>AI Revolution: How Red Hat Enhances System Admin Tasks with Cutting-Edge Intelligence | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-rise-of-electric-vehicles-in-transportation/"><u>Exploring the Rise of Electric Vehicles in Transportation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-tech-essentials-insights-from-toms-hardware-review/"><u>Mastering Tech Essentials: Insights From Tom's Hardware Review</u></a></li>
-<li><a href="https://app-tips.techidaily.com/supercharge-your-microsoft-edge-top-pick-browser-extensions-featured-on-zdnet/"><u>Supercharge Your Microsoft Edge: Top Pick Browser Extensions Featured on ZDNet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/understanding-permissions-the-key-to-saving-google-meets-for-2024/"><u>Understanding Permissions The Key to Saving Google Meets for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-cash-app-and-square-downtime-essential-info-for-smbs-insights-from-zdnet/"><u>Understanding the Cash App & Square Downtime: Essential Info for SMBs - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unmatched-longevity-suse-extends-19-year-support-on-latest-distributions-a-standout-in-the-linux-world-techinsights/"><u>Unmatched Longevity: SUSE Extends 19-Year Support on Latest Distributions - A Standout in the Linux World | TechInsights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mastering-audio-capture-from-skype-for-mp3/"><u>[New] 2024 Approved Mastering Audio Capture From Skype for MP3</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-are-instagrams-video-selfies-truly-genuine/"><u>[New] Are Instagram's Video Selfies Truly Genuine?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-definitive-2023-bandicam-handbook-for-gamers/"><u>[New] In 2024, The Definitive 2023 Bandicam Handbook for Gamers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-turbocharged-windows-content-assessment/"><u>[New] In 2024, Turbocharged Windows Content Assessment</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-infusing-fun-in-conversations-step-by-step-for-snapchat-gifs-for-2024/"><u>[Updated] Infusing Fun in Conversations Step-by-Step for Snapchat Gifs for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-open-gallery-timeless-visuals-no-rights-to-claim/"><u>[Updated] Open Gallery Timeless Visuals No Rights to Claim</u></a></li>
+<li><a href="https://win-dash.techidaily.com/converting-pal-dvds-to-ntsc-made-easy-a-comprehensive-tutorial-for-smooth-playback/"><u>Converting PAL DVDs to NTSC Made Easy – A Comprehensive Tutorial for Smooth Playback</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-12-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your OnePlus 12 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-optimize-your-viewing-experience-on-youtube-with-speed-settings/"><u>In 2024, Optimize Your Viewing Experience on YouTube with Speed Settings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-how-lastpass-leadership-addresses-safety-concerns-amidst-alarming-security-notifications-explored-by-zdnet/"><u>Inside Look: How LastPass Leadership Addresses Safety Concerns Amidst Alarming Security Notifications | Explored by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kasperskys-password-protector-exposed-generating-vulnerable-passwords-prone-to-brute-force-attacks-insights-from-zdnet/"><u>Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/major-ransomware-incident-strikes-leading-firm-superior-plus-in-natural-gas-industry-exclusive-details-on-zdnet/"><u>Major Ransomware Incident Strikes Leading Firm Superior Plus in Natural Gas Industry - Exclusive Details on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/newly-launched-full-featured-1password-app-for-linux-enthusiasts-a-closer-look-tech-news/"><u>Newly Launched Full-Featured 1Password App for Linux Enthusiasts: A Closer Look - Tech News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-security-how-1passwords-new-feature-replaces-master-passwords-with-passkeys-insights-from-zdnet/"><u>Revolutionizing Security: How 1Password's New Feature Replaces Master Passwords with Passkeys - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-top-rated-vpn-and-password-manager-bundle-at-an-unbeatable-price-of-only-30-find-out-more-zdnet/"><u>Secure Your Digital Life: Top-Rated VPN & Password Manager Bundle at an Unbeatable Price of Only $30 - Find Out More [ZDNET]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-entire-staff-with-1password-unlock-ultimate-protection-for-only-1995-monthly-it-business-solutions/"><u>Securing Your Entire Staff with 1Password - Unlock Ultimate Protection for Only $19.95 Monthly | IT Business Solutions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-djs-guide-to-elevating-visual-narratives-with-soundtracks-fb/"><u>The DJ's Guide to Elevating Visual Narratives with Soundtracks (FB)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-fortifying-your-password-vault-against-threats-zdnet/"><u>Ultimate Guide: Fortifying Your Password Vault Against Threats | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-future-how-i-discovered-a-game-changing-password-manager-among-two-contenders-cyber-savvy-reviews/"><u>Unlocking the Future: How I Discovered a Game-Changing Password Manager Among Two Contenders | Cyber Savvy Reviews</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet"
-date: 2024-12-20T18:34:41.805Z
-updated: 2024-12-24T16:27:33.030Z
+date: 2024-12-28T18:17:50.301Z
+updated: 2025-01-02T21:24:44.498Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,14 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-eliminating-backlogged-videos-from-your-youtube-history-for-2024/"><u>[Updated] Eliminating Backlogged Videos From Your YouTube History for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-chronological-guide-to-apples-ios-development-discovering-changes-from-version-10-to-180/"><u>A Chronological Guide to Apple's iOS Development: Discovering Changes From Version 1.0 to 18.0</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-powered-eco-friendly-smart-home-innovations-by-company-name-insights-from-zdnet/"><u>AI-Powered Eco-Friendly Smart Home Innovations by [Company Name]: Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-samsung-galaxy-fit-assessment-the-perfect-partner-for-health-conscious-individuals/"><u>Comprehensive Samsung Galaxy Fit Assessment - The Perfect Partner for Health-Conscious Individuals</u></a></li>
-<li><a href="https://win-best.techidaily.com/effective-strategies-for-securely-saving-your-files-tips-from-yl-computing-and-yl-software/"><u>Effective Strategies for Securely Saving Your Files: Tips From YL Computing & YL Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-shift-how-generative-ai-is-carving-out-unique-leadership-roles-at-tech-giants-zdnet/"><u>Navigating the Shift: How Generative AI Is Carving Out Unique Leadership Roles at Tech Giants | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-challenges-of-integrating-agile-and-ai-development-key-findings-revealed-by-new-study-innovationhub/"><u>The Challenges of Integrating Agile and AI Development – Key Findings Revealed by New Study | InnovationHub</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-how-open-source-draws-in-global-tech-pioneers-insights-from-zdnet/"><u>Unveiling How Open Source Draws in Global Tech Pioneers: Insights From ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/your-pathway-to-virtual-video-landscape-on-iphone/"><u>Your Pathway to Virtual Video Landscape on iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comparing-old-and-new-movavi-video-editor-2024-analysis/"><u>[New] Comparing Old & New Movavi Video Editor 2024 Analysis</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-enhancing-your-videos-step-by-step-for-ken-burns-effect-in-camtasa/"><u>[New] Enhancing Your Videos Step-by-Step for Ken Burns Effect in Camtasa</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ice-warriors-unleashed-at-2022-games/"><u>[New] Ice Warriors Unleashed at 2022 Games</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-upgrade-to-high-quality-video-streaming-on-facebook-for-2024/"><u>[New] Upgrade to High-Quality Video Streaming on Facebook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-avant-garde-creators-in-digital-media/"><u>[Updated] Top 5 Avant-Garde Creators in Digital Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unmatched-pixels-the-exclusive-advantages-of-hp-envy-27/"><u>2024 Approved Unmatched Pixels The Exclusive Advantages of HP Envy 27</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beamforming-techniques-enable-antenna-arrays-to-direct-energy-towards-specific-users-or-locations-enhancing-signal-strength-and-reducing-interference-in-tho83/"><u>Beamforming Techniques Enable Antenna Arrays to Direct Energy Towards Specific Users or Locations, Enhancing Signal Strength and Reducing Interference in Those Areas.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/celona-partners-with-verizon-business-to-deliver-bespo-grok-private-5g-solutions-zdnet-coverage/"><u>Celona Partners with Verizon Business to Deliver Bespo Grok Private 5G Solutions - ZDNet Coverage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-leading-mac-applications-of-202amoeba-the-intriguing-life-cycle-of-paramecia-by-dr-emily-waters/"><u>Discover the Leading Mac Applications of 202Amoeba: The Intriguing Life Cycle of Paramecia by Dr. Emily Waters</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-enhanced-ai-workload-management-in-recent-kubernetes-update-key-features-unveiled/"><u>Exploring Enhanced AI Workload Management in Recent Kubernetes Update: Key Features Unveiled</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ig-tik-combined-expertise-for-smooth-integration/"><u>IG-Tik Combined Expertise for Smooth Integration</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-y36i-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo Y36i without App | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-performance-integrate-quad-nvme-ssd-support-using-an-accessory-module-with-raspberry-pi-5/"><u>Maximize Performance: Integrate Quad NVMe SSD Support Using an Accessory Module with Raspberry Pi 5</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-stealthy-update-ignites-consumer-backlash-an-in-depth-analysis/"><u>Microsoft's Stealthy Update Ignites Consumer Backlash - An In-Depth Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-upcoming-release-a-blessing-or-a-curse-unveiled-insights-from-zdnet/"><u>Microsoft's Upcoming Release: A Blessing or a Curse? Unveiled Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/open-sources-role-in-advancing-responsible-ai-development-expert-analysis-by-zdnet/"><u>Open Source's Role in Advancing Responsible AI Development | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-mastering-the-art-of-freezing-rows-and-columns-in-microsoft-excel/"><u>Step-by-Step Guide: Mastering the Art of Freezing Rows & Columns in Microsoft Excel</u></a></li>
 </ul></div>
 

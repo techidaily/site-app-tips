@@ -1,7 +1,7 @@
 ---
 title: Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet
-date: 2024-12-20T23:41:14.660Z
-updated: 2024-12-24T22:21:37.457Z
+date: 2024-12-30T20:22:02.525Z
+updated: 2025-01-02T22:57:38.929Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-seamless-transition-of-youtube-videos-into-instagram-stories/"><u>[Updated] 2024 Approved Seamless Transition of YouTube Videos Into Instagram Stories</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-key-insights-into-virtual-tale-crafting-for-2024/"><u>[Updated] Key Insights Into Virtual Tale Crafting for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-strategies-for-enthralling-vlog-content-flow-for-2024/"><u>[Updated] Strategies for Enthralling Vlog Content Flow for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-as-a-savior-for-overworked-it-staff-mitigating-job-burnout-and-alert-fatigue-insights/"><u>AI as a Savior for Overworked IT Staff - Mitigating Job Burnout and Alert Fatigue Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-chatbot-bias-revealed-lingual-limitations-highlighted-by-new-stanford-research-insights-on-googles-language-barrier/"><u>AI Chatbot Bias Revealed: Lingual Limitations Highlighted by New Stanford Research - Insights on Google's Language Barrier</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-revolution-exploring-how-generative-technology-could-increase-the-volume-of-work-tech-insights-on-zdnet/"><u>AI Revolution: Exploring How Generative Technology Could Increase the Volume of Work | Tech Insights on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asean-countries-set-to-boost-digital-market-with-stronger-regulations-reaching-2t-growth-by-2030-insights-from-zdnet/"><u>ASEAN Countries Set to Boost Digital Market with Stronger Regulations, Reaching $2T Growth by 2030 - Insights From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/banking-industry-leader-urges-innovative-thinking-over-easy-solutions-in-artificial-intelligence-insights-from-a-top-cio-zdnet/"><u>Banking Industry Leader Urges Innovative Thinking Over Easy Solutions in Artificial Intelligence - Insights From a Top CIO | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-point-and-click-the-transformation-of-ui-with-generative-artificial-intelligence/"><u>Beyond Point-and-Click: The Transformation of UI with Generative Artificial Intelligence</u></a></li>
-<li><a href="https://app-tips.techidaily.com/future-of-service-delivery-mastering-agent-ecosystems-in-the-age-of-ai/"><u>Future of Service Delivery: Mastering Agent Ecosystems in the Age of AI</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hassle-free-installation-bcm20702a0-wireless-usb-driver-downloads-compatible-with-windows/"><u>Hassle-Free Installation: BCM20702A0 Wireless USB Driver Downloads Compatible with Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-generative-ai-could-increase-labor-demand-despite-efficiency-promises-insights-from-zdnet/"><u>How Generative AI Could Increase Labor Demand Despite Efficiency Promises: Insights From ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-12-proplus-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme 12 Pro+ 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-scoring-big-on-youtube-how-much-do-ad-revenues-add-up/"><u>In 2024, Scoring Big on YouTube How Much Do Ad Revenues Add Up?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-flawless-3d-printouts-strategies-for-preventing-unwanted-holes-and-gaps/"><u>Mastering Flawless 3D Printouts: Strategies for Preventing Unwanted Holes and Gaps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-parsing-avoid-these-common-errors-with-our-top-grooks-and-fixes-in-android-development/"><u>Mastering Parsing: Avoid These Common Errors with Our Top Grooks and Fixes in Android Development</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-androids-best-artistic-tools-top-10-creative-graphics-apps/"><u>[Updated] Android's Best Artistic Tools Top 10 Creative Graphics Apps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/assess-your-expertise-on-coursera-discover-the-latest-from-zdnets-coverage-of-levelset-proficiency-exams/"><u>Assess Your Expertise on Coursera – Discover the Latest From ZDNet's Coverage of LevelSet Proficiency Exams</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-workflow-embrace-the-developer-mindset-for-unmatched-efficiency-zdnet/"><u>Boost Your Workflow: Embrace the Developer Mindset for Unmatched Efficiency | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/clearing-the-air-between-siri-and-chatgpt-unveiling-their-distinct-features/"><u>Clearing the Air Between Siri and ChatGPT - Unveiling Their Distinct Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-premier-5-rdp-solutions-for-telecommuting-as-featured-by-zdnet/"><u>Discover the Premier 5 RDP Solutions for Telecommuting , as Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-brother-printer-drivers-for-windows-easy-guide-to-latest-version/"><u>Download Updated Brother Printer Drivers for Windows: Easy Guide to Latest Version</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-essential-strategies-for-maximizing-your-windows-10-experience-pre-end-of-support-insights-from-zdnet/"><u>Five Essential Strategies for Maximizing Your Windows 10 Experience Pre-End of Support - Insights From ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-xiaomi-14-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Xiaomi 14 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-anthrop-through-the-new-claude-plan-equips-companies-for-success-by-harnessing-large-scale-ai-superpowers-techzine/"><u>How Anthrop, Through the New Claude Plan, Equips Companies for Success by Harnessing Large-Scale AI Superpowers | TechZine</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unboxing-pureaudiofinder-a-look-into-the-latest-release/"><u>In 2024, Unboxing PureAudioFinder A Look Into the Latest Release</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-delayed-delivery-features-into-mozilla-thunderbird-a-comprehensive-guide/"><u>Integrating Delayed Delivery Features Into Mozilla Thunderbird: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/latest-breakthroughs-in-5g-networking-and-edge-tech-trends-top-picks-from-todays-market-zdnet/"><u>Latest Breakthroughs in 5G Networking & Edge Tech Trends: Top Picks From Today's Market (ZDNet)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-magic-5-lite-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Magic 5 Lite</u></a></li>
+<li><a href="https://extra-information.techidaily.com/precision-in-visuals-navigating-srgb-and-rgb/"><u>Precision in Visuals Navigating Srgb & Rgb</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-7-compelling-advantages-of-implementing-aiops-in-your-it-strategy/"><u>The Definitive Guide to 7 Compelling Advantages of Implementing AIOps in Your IT Strategy</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-asus-rog-phone-8-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Asus ROG Phone 8 Phone Network-Ready</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-ai-ventures-skyrocket-by-a-factor-of-ten-in-the-last-year-industry-report/"><u>ZDNet Reveals AI Ventures Skyrocket by a Factor of Ten in the Last Year - Industry Report</u></a></li>
 </ul></div>
 

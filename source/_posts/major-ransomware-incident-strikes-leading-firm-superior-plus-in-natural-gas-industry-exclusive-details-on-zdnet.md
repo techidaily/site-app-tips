@@ -1,7 +1,7 @@
 ---
 title: Major Ransomware Incident Strikes Leading Firm Superior Plus in Natural Gas Industry - Exclusive Details on ZDNET
-date: 2024-12-17T20:31:50.294Z
-updated: 2024-12-24T20:14:50.087Z
+date: 2024-12-30T02:51:19.162Z
+updated: 2025-01-02T18:40:23.942Z
 tags:
   - password-manager
 categories:
@@ -72,19 +72,25 @@ Deputy Attorney General Lisa Monaco [said during a press conference](https://twi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-unleashing-potential-top-10-strategies-for-instagram-video-ads-for-2024/"><u>[New] Unleashing Potential Top 10 Strategies for Instagram Video Ads for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-world-of-lut-based-color-correction/"><u>[Updated] Navigating the World of LUT-Based Color Correction</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-sony-xperia-5-vfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Sony Xperia 5 VFRP Lock</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-depth-strategies-for-merging-several-jpeg-images-into-one-cohesive-pdf-document/"><u>In-Depth Strategies for Merging Several JPEG Images Into One Cohesive PDF Document</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximize-output-with-expert-tips-and-tools-mastering-daily-workflow-management-zdnet/"><u>Maximize Output with Expert Tips and Tools: Mastering Daily Workflow Management | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-tech-less-territory-the-essential-impact-of-it-experts-on-cutting-edge-non-tech-firms-zdnet/"><u>Navigating Tech-Less Territory: The Essential Impact of IT Experts on Cutting-Edge Non-Tech Firms | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-upgrading-your-system-from-linux-mint-to-the-latest-version/"><u>Step-by-Step Guide: Upgrading Your System From Linux Mint to the Latest Version</u></a></li>
-<li><a href="https://app-tips.techidaily.com/stepping-up-your-system-a-comprehensive-guide-on-transitioning-from-windows-home-to-professional-insights-and-benefits/"><u>Stepping Up Your System: A Comprehensive Guide on Transitioning From Windows Home to Professional - Insights and Benefits</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-audacity-audio-error-win1011/"><u>Strategies to Overcome Audacity Audio Error (Win10/11)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-navigating-zoom-rooms-with-ease-newcomers/"><u>[New] 2024 Approved Navigating Zoom Rooms with Ease, Newcomers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-video-capturing-step-by-step-manual/"><u>[Updated] In 2024, Mastering Video Capturing Step-by-Step Manual</u></a></li>
+<li><a href="https://app-tips.techidaily.com/10-best-ai-powered-chatbots-that-will-transform-how-you-communicate/"><u>10 Best AI-Powered Chatbots That Will Transform How You Communicate</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-hummingbird-hustle/"><u>2024 Approved Harmonious Hummingbird Hustle</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-share-tweets-whatsapp-video-broadcasting/"><u>2024 Approved Share Tweets WhatsApp Video Broadcasting</u></a></li>
+<li><a href="https://app-tips.techidaily.com/chatgpt-2024-ultimate-review-unpacking-advanced-features-and-solving-internal-server-malfunctions/"><u>ChatGPT 2024 Ultimate Review: Unpacking Advanced Features and Solving Internal Server Malfunctions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-elevenlabs-generative-voice-ai-options-and-reviews/"><u>Comprehensive Analysis of ElevenLabs' Generative Voice AI: Options & Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/customizing-brilliance-how-an-artistic-modding-transforms-a-fractal-design-north-xl-with-radiant-rgb-lighting/"><u>Customizing Brilliance: How an Artistic Modding Transforms a Fractal Design North XL with Radiant RGB Lighting</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-on-the-powerful-platinum-series-nzxt-c1ebuilding-with-sustainable-materials-including-recycled-content-when-possible/"><u>Expert Review on the Powerful Platinum Series - NZXT C1ebuilding with Sustainable Materials, Including Recycled Content when Possible.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-play-40c-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Play 40C to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-hypergame-hub-your-portal-to-infinite-titles/"><u>In 2024, HyperGame Hub Your Portal to Infinite Titles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-review-of-elevenlabs-genai-vs-other-voice-generation-technologies/"><u>In-Depth Review of ElevenLabs' GenAI Vs. Other Voice Generation Technologies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/must-know-review-inside-look-at-the-revolutionary-eva-previously-ex-journey-chatbot/"><u>Must-Know Review: Inside Look at the Revolutionary EVA (Previously Ex Journey) Chatbot</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-complete-insight-into-eva-ai-ex-journey-chatbot-a-must-read-reveal-for-tech-enthusiasts/"><u>The Complete Insight Into EVA AI (Ex-Journey) Chatbot: A Must-Read Reveal for Tech Enthusiasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-chatsonic-the-ultimate-review-for-insights-into-an-intelligent-artificial-conversational-agent/"><u>Unveiling Chatsonic: The Ultimate Review for Insights Into an Intelligent Artificial Conversational Agent</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Repeated Security Incidents at LastPass - Latest Update From ZDNet
-date: 2024-12-24T03:33:22.334Z
-updated: 2024-12-25T01:45:49.128Z
+date: 2024-12-26T22:17:02.414Z
+updated: 2025-01-03T04:37:11.757Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,22 +81,24 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dive-into-ios-screenshots-a-comprehensive-youtube-guide/"><u>[New] In 2024, Dive Into iOS Screenshots A Comprehensive YouTube Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-enhancing-ps5-10-powerful-external-drives/"><u>[Updated] Enhancing PS5 10 Powerful External Drives</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-bridging-photos-and-video-in-pixiz-a-comprehensive-guide/"><u>2024 Approved Bridging Photos & Video in Pixiz A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-leveraging-zoom-in-email-chats-a-guide-to-gmail-users/"><u>2024 Approved Leveraging Zoom in Email Chats – A Guide to Gmail Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-telepathy-through-tech-healthcare-reimagined/"><u>2024 Approved Telepathy Through Tech Healthcare Reimagined</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-tactics-to-record-lol-clashes/"><u>2024 Approved Ultimate Tactics to Record LOL Clashes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capturing-your-gaming-adventures-best-practices-reviewed/"><u>Capturing Your Gaming Adventures Best Practices Reviewed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-business-with-low-code-solutions-how-they-boost-employer-appeal/"><u>Elevate Your Business with Low-Code Solutions: How They Boost Employer Appeal</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explosive-expansion-of-lowno-code-tech-sector-signals-evolving-job-landscape-insights-from-zdnet/"><u>Explosive Expansion of Low/No-Code Tech Sector Signals Evolving Job Landscape: Insights From ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-job-market-the-persistent-value-of-open-source-expertise-and-linux-knowledge-in-challenging-economic-times-insights-from-zdnet/"><u>Navigating the Job Market: The Persistent Value of Open Source Expertise & Linux Knowledge in Challenging Economic Times - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-turmoil-unpacking-russias-invasion-effects-on-ukraines-it-landscape-analysis-by-zdnet/"><u>Tech Turmoil: Unpacking Russia's Invasion Effects on Ukraine's IT Landscape | Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-innovators-flocking-to-open-source-projects-a-deep-dive-zdnet/"><u>Top Innovators Flocking to Open Source Projects - A Deep Dive | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-tech-executive-forecasts-major-evolution-in-cloud-computing-strategies-insights-from-zdnet/"><u>Top Tech Executive Forecasts Major Evolution in Cloud Computing Strategies – Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-identity-management-solutions-of-2022-expert-reviews-and-comparisons/"><u>Top-Rated Identity Management Solutions of 2022: Expert Reviews & Comparisons</u></a></li>
-<li><a href="https://app-tips.techidaily.com/work-anywhere-discover-how-onedrives-new-offline-feature-keeps-you-productive-no-matter-where-you-are/"><u>Work Anywhere: Discover How OneDrive's New Offline Feature Keeps You Productive, No Matter Where You Are</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/zooming-in-a-guide-to-tight-shots-in-microsoft-teams/"><u>Zooming In A Guide to Tight Shots in Microsoft Teams</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-transforming-visual-feeds-with-harmonious-hits-for-2024/"><u>[New] Transforming Visual Feeds with Harmonious Hits for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-discover-the-creme-de-la-creme-of-mac-snipers/"><u>[Updated] 2024 Approved Discover the Crème De La Crème of Mac Snipers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-leading-the-pack-in-instagram-content-crafting-puzzle-feeds/"><u>[Updated] 2024 Approved Leading the Pack in Instagram Content Crafting Puzzle Feeds</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-enhance-team-collaboration-through-effective-microsoft-teams-snap-practices/"><u>[Updated] In 2024, Enhance Team Collaboration Through Effective Microsoft Teams Snap Practices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precision-zoom-mastery-in-microsoft-teams-sessions/"><u>[Updated] Precision Zoom Mastery in Microsoft Teams Sessions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1password-goes-mobile-with-significant-enhancement-see-whats-changed-zdnet/"><u>1Password Goes Mobile with Significant Enhancement, See What's Changed - ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fostering-fast-visual-storytelling-with-google-imagery/"><u>2024 Approved Fostering Fast Visual Storytelling with Google Imagery</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cut-costs-and-boost-security-grab-keeper-password-manager-for-half-price-shop-at-zdnet-today/"><u>Cut Costs and Boost Security! Grab Keeper Password Manager for Half Price - Shop at ZDNET Today!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-include-a-program-in-the-system-tray-on-windows-expert-advice-from-yl-software/"><u>How To Include A Program In The System Tray On Windows - Expert Advice From YL Software</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-12-mini-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 12 mini without Security Questions?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/implementing-dual-authentication-on-github-via-mobile-apps-a-comprehensive-guide/"><u>Implementing Dual-Authentication on GitHub via Mobile Apps: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-techniques-for-webcam-integration-in-game-recording/"><u>In 2024, Top Techniques for WebCam Integration in Game Recording</u></a></li>
+<li><a href="https://common-error.techidaily.com/lonicera-morrowii-morrows-honeysuckle-or-northern-bush-honeysuckle-native-to-east-asia-it-produces-white-or-pinkish-white-flowers-with-minimal-scent-and-is-62/"><u>Lonicera Morrowii (Morrow's Honeysuckle or Northern Bush Honeysuckle): Native to East Asia, It Produces White or Pinkish-White Flowers with Minimal Scent and Is Often Used as Groundcover in Gardens.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-password-free-access-simplified-with-dashlanes-new-feature-insights-from-zdnet/"><u>Master Password-Free Access Simplified with Dashlane's New Feature - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/no-excuses-for-bad-passwords-anymore-master-managed-logins-with-the-ultimate-guide-to-password-managers/"><u>No Excuses for Bad Passwords Anymore - Master Managed Logins with the Ultimate Guide to Password Managers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-lastpass-substitutes-expert-picks-by-zdnet/"><u>Top LastPass Substitutes : Expert Picks by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-password-management-tools-of-2024-industry-experts-picks-featured-on-zdnet/"><u>Top-Ranked Password Management Tools of 2024: Industry Experts' Picks Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-exclusive-savings-on-keeper-password-manager-secure-your-accounts-now-with-a-50-discount/"><u>Unlock Exclusive Savings on Keeper Password Manager - Secure Your Accounts Now with a 50% Discount!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrade-your-security-how-1passwords-new-passkey-feature-outshines-the-master-password-insights-from-zdnet/"><u>Upgrade Your Security: How 1Password's New Passkey Feature Outshines the Master Password - Insights From ZDNet</u></a></li>
 </ul></div>
 

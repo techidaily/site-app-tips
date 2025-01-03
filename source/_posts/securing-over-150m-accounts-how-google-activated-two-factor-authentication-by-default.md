@@ -1,7 +1,7 @@
 ---
 title: "Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default"
-date: 2024-12-22T03:34:08.813Z
-updated: 2024-12-24T19:08:47.723Z
+date: 2024-12-28T02:14:04.858Z
+updated: 2025-01-03T04:40:50.143Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ Google [has auto enrolled](https://blog.google/technology/safety-security/reduci
 The initiative also involved requiring 2 million YouTube users to enable it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google
@@ -79,19 +79,24 @@ Google [announced](https://www.zdnet.com/article/by-end-of-2021-google-plans-to-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-examining-the-performance-of-recmeister-for-screen-recording/"><u>[New] In 2024, Examining the Performance of Recmeister for Screen Recording</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-online-monetization-with-universal-studio-use-for-2024/"><u>[Updated] Mastering Online Monetization with Universal Studio Use for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-cutting-edge-techniques-to-upgrade-channel-descriptions/"><u>2024 Approved Cutting-Edge Techniques to Upgrade Channel Descriptions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-everlasting-capture-no-limit-savings-available/"><u>2024 Approved Everlasting Capture, No Limit Savings Available</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-peering-into-triller-its-distinctive-features-and-identity/"><u>2024 Approved Peering Into Triller Its Distinctive Features and Identity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-iphone-data-rescue-tools-how-to-get-back-deleted-files-securely/"><u>Best iPhone Data Rescue Tools: How to Get Back Deleted Files Securely</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-fun-and-trending-facebook-messenger-stickers-now/"><u>Download Fun & Trending Facebook Messenger Stickers Now</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-taking-flight-hubsans-latest-aerial-marvel-reviewed/"><u>In 2024, Taking Flight Hubsan's Latest Aerial Marvel Reviewed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-iphone-spyware-apps-unbeatable-options-for-covert-tracking/"><u>Top Rated iPhone Spyware Apps: Unbeatable Options for Covert Tracking</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-navigation-apps-on-android-discover-the-best-free-options/"><u>Top-Ranked Navigation Apps on Android: Discover the Best Free Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unraveling-vsco-a-detailed-review-with-benefits-drawbacks-comparisons-and-best-alternatives/"><u>Unraveling VSCO: A Detailed Review with Benefits, Drawbacks, Comparisons, and Best Alternatives</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-from-free-to-pro-the-top-10-fcpx-plugins-to-take-your-videos-to-the-next-level/"><u>Updated In 2024, From Free to Pro The Top 10 FCPX Plugins to Take Your Videos to the Next Level</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-new-youtube-earning-rules-unveiled/"><u>[New] New YouTube Earning Rules Unveiled</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-building-a-successful-livestream-empire-youtube-edition/"><u>[Updated] Building a Successful Livestream Empire YouTube Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-swift-transformation-video-aspects-to-mac-standard/"><u>[Updated] In 2024, Swift Transformation Video Aspects to Mac Standard</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-hustle-smart-listen-hard-top-tasks-for-podcast-enthusiasts/"><u>2024 Approved Hustle Smart, Listen Hard Top Tasks for Podcast Enthusiasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtubes-payment-cycle-a-detailed-look/"><u>2024 Approved YouTube’s Payment Cycle A Detailed Look</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-takes-the-stage-in-low-code-and-no-code-development-strategic-shifts-highlighted-by-zdnet-experts/"><u>AI Takes the Stage in Low-Code and No-Code Development: Strategic Shifts Highlighted by ZDNet Experts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-8-compatible-audio-converters-ac3-devices-and-apps-for-all-your-os-needs/"><u>Best 8 Compatible Audio Converters (AC3) Devices & Apps for All Your OS Needs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-executive-technology-literacy-top-six-strategies-for-upskilling-leaders/"><u>Boosting Executive Technology Literacy: Top Six Strategies for Upskilling Leaders</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/frei-herunterladen-wie-man-die-daten-von-einer-ssd-auf-eine-hdd-ubertragt-in-windows-11/"><u>Frei Herunterladen - Wie Man Die Daten Von Einer SSD Auf Eine HDD Überträgt in Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/global-shift-towards-digital-wallets-anticipated-growth-to-16t-asia-paving-the-way-zdnet/"><u>Global Shift Towards Digital Wallets - Anticipated Growth to $1.6T, Asia Paving the Way | ZDNET</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-7-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 7 Plus in Lost Mode</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-14-pro-max-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 14 Pro Max - 4 Easy Ways</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-assessment-of-the-latest-apple-airpods-series-3-reviewed-by-tech-gurus-at-zdnet/"><u>In-Depth Assessment of the Latest Apple AirPods Series 3 Reviewed by Tech Gurus at ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-new-normal-essential-strategies-for-tech-experts-amidst-the-rise-of-artificial-intelligence-insights-from-zdnet/"><u>Navigating the New Normal: Essential Strategies for Tech Experts Amidst the Rise of Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ready-for-upskilling-explore-non-ai-edge-tech-trends-and-tips-learn-more-on-zdnet/"><u>Ready for Upskilling? Explore Non-AI Edge Tech Trends and Tips - Learn More on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-human-connections-why-tech-experts-should-engage-in-meaningful-dialogue-beyond-datasets/"><u>Reviving Human Connections: Why Tech Experts Should Engage in Meaningful Dialogue Beyond Datasets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/training-leaders-before-deploying-artificial-intelligence-insights-from-zdnet/"><u>Training Leaders Before Deploying Artificial Intelligence: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uncovering-the-next-breakthrough-the-quest-for-an-ultimate-5g-app-beyond-just-speed-and-connection-zdnet/"><u>Uncovering the Next Breakthrough: The Quest for an Ultimate 5G App Beyond Just Speed and Connection | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-potential-of-artificial-intelligence-strategies-for-new-entrants-in-todays-markets-zdnet-analysis/"><u>Unlocking the Potential of Artificial Intelligence: Strategies for New Entrants in Today's Markets | ZDNet Analysis</u></a></li>
 </ul></div>
 

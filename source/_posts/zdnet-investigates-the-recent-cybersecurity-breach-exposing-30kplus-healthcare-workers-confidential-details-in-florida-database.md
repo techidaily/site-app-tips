@@ -1,7 +1,7 @@
 ---
 title: ZDNet Investigates the Recent Cybersecurity Breach Exposing 30K+ Healthcare Workers' Confidential Details in Florida Database
-date: 2024-12-22T23:25:01.981Z
-updated: 2024-12-24T18:31:21.377Z
+date: 2024-12-30T18:27:34.922Z
+updated: 2025-01-03T05:43:49.944Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ More than 30,000 US healthcare workers' personal information was recently expose
 Fowler [discovered](https://www.websiteplanet.com/blog/galeapp-leak-report/) a database run by Gale Healthcare Solutions with 170,239 exposed records that included names, emails, home addresses, photos and in some cases, Social Security Numbers as well as tax documents. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -100,17 +100,22 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-5-ps2-simulators-to-transform-your-ios-gaming/"><u>[Updated] 2024 Approved Top 5 PS2 Simulators to Transform Your iOS Gaming</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-digital-riches-transitioning-youtube-earnings-to-currency/"><u>[Updated] In 2024, Digital Riches Transitioning YouTube Earnings to Currency</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-turn-on-google-meet-grids-to-see-all-attendees/"><u>[Updated] In 2024, Turn On Google Meet Grids to See All Attendees</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/examining-alternative-use-of-restricted-gpt-features/"><u>Examining Alternative Use of Restricted GPT Features</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/meme-makers-playbook-for-widespread-impact-for-2024/"><u>Meme Makers' Playbook for Widespread Impact for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/streamline-your-kubernetes-management-with-red-hats-latest-innovation-openshift-lightspeed-a-smart-ai-tool-tailored-for-admins/"><u>Streamline Your Kubernetes Management with Red Hat's Latest Innovation - OpenShift Lightspeed, a Smart AI Tool Tailored for Admins</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-the-chaos-organizing-linux-and-open-source-manuals-a-comprehensive-guide/"><u>Taming the Chaos: Organizing Linux & Open Source Manuals - A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-gateway-to-artificial-intelligence-made-simple-with-superduperdb-exclusive-analysis-by-zdnet/"><u>The Gateway to Artificial Intelligence Made Simple with SuperDuperDB – Exclusive Analysis by ZDNet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-toms-gadget-rundown-for-savvy-consumers/"><u>The Ultimate Tom's Gadget Rundown for Savvy Consumers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-trending-coding-languages-best-platforms-to-master-them-insights-from-zdnet/"><u>Top Trending Coding Languages : Best Platforms to Master Them - Insights From ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/iuocquodsplusodqeocpoodsplusobpplusoctplusodsplusodlplusodqplusobquocouocrplusocuplusocutog6ieq55sx44gr6yg444kt44gg6zplusz5qw944ks44or44k944kz44oz44g457ch5y22/"><u>オンラインでシンプルなアクセス: 自由に選んだ音楽をパソコンへ簡単無料ダウンロード</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-essential-free-tools-perfecting-your-video-calls/"><u>[New] In 2024, Essential Free Tools Perfecting Your Video Calls</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-vanguards-choice-of-top-12-high-tech-action-cams-with-locators/"><u>[Updated] 2024 Approved Vanguard's Choice of Top 12 High-Tech Action Cams With Locators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-undead-universe-discover-the-top-8-zombie-games-for-2024/"><u>[Updated] Undead Universe Discover the Top 8 Zombie Games for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-warzone-wonders-your-a-list-of-top-7-fps-adventures-for-2024/"><u>[Updated] Warzone Wonders - Your A-List of Top 7 FPS Adventures for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discovering-the-most-engaging-and-intelligent-gpt-chatbot-on-the-market/"><u>Discovering The Most Engaging and Intelligent GPT Chatbot on the Market</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-permanently-log-out-of-facebook-from-an-android-smartphone/"><u>How to Permanently Log Out of Facebook From an Android Smartphone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-use-your-itunes-gift-card-on-ios-devices-and-mac-computers/"><u>How To Use Your iTunes Gift Card On iOS Devices And Mac Computers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-echoes-in-motion-mac-for-sound-artists/"><u>In 2024, Echoes in Motion Mac for Sound Artists</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-methods-to-add-a-secure-link-to-your-tiktok-profile/"><u>In 2024, Masterful Methods to Add a Secure Link to Your TikTok Profile</u></a></li>
+<li><a href="https://app-tips.techidaily.com/insiders-guide-to-the-best-gpt-ai-chatbots-expert-analysis-and-review/"><u>Insider's Guide to the Best GPT AI Chatbots - Expert Analysis and Review</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-the-exchange-a-comprehensive-guide-to-buying-and-selling-digital-coins-with-yl-computing-solutions/"><u>Mastering the Exchange: A Comprehensive Guide to Buying and Selling Digital Coins with YL Computing Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revive-missing-iphone-apps-and-photos-data-recovery-solutions-for-your-itunes-backups/"><u>Revive Missing iPhone Apps and Photos: Data Recovery Solutions for Your iTunes Backups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-methods-revive-your-lost-itunes-downloads-across-all-devices/"><u>Simple Methods: Revive Your Lost iTunes Downloads Across All Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-your-connectivity-issues-what-to-try-when-itunes-fails-to-detect-iphone-ipad-or-ipod/"><u>Solving Your Connectivity Issues: What To Try When iTunes Fails To Detect iPhone, iPad Or iPod</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-top-10-list-of-ai-powered-chatbots-for-enhanced-interaction/"><u>The Ultimate Top 10 List of AI-Powered Chatbots for Enhanced Interaction</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-top-6-itunes-visualizers-bring-your-music-to-life-with-stunning-animations/"><u>The Ultimate Top 6 iTunes Visualizers: Bring Your Music to Life with Stunning Animations</u></a></li>
+<li><a href="https://win-hot.techidaily.com/windows-ext3ext4-recovery-fast-solutions-for-saving-your-partition/"><u>Windows Ext3/Ext4 Recovery: Fast Solutions for Saving Your Partition</u></a></li>
 </ul></div>
 

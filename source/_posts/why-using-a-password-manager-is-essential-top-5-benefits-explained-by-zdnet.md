@@ -1,7 +1,7 @@
 ---
 title: "Why Using a Password Manager Is Essential: Top 5 Benefits Explained by ZDNet"
-date: 2024-12-17T23:52:32.108Z
-updated: 2024-12-25T00:40:30.540Z
+date: 2024-12-28T22:58:15.762Z
+updated: 2025-01-02T16:16:20.602Z
 tags:
   - password-manager
 categories:
@@ -97,6 +97,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fshould-you-use-your-browsers-built-in-password-manager%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fshould-you-use-your-browsers-built-in-password-manager%2F "Twitter") 
@@ -104,6 +108,10 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 Direct LinkEmbed Code
 
 Close Modal Dialog
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** recommends
 
@@ -161,10 +169,6 @@ In this article, I explain why I consider a password manager essential. I also t
 
 * **See: [Best password manager in 2021](https://www.zdnet.com/article/best-password-manager/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The case for password managers 
 
 You can choose from dozens of third-party password manager apps and services, both commercial and open source. Despite some differences in user experience, they are all similar in their core features. On a PC running Windows or Linux, on a Mac running MacOS, or on a mobile device, you install an app that manages a database containing sets of credentials (usernames, passwords, and other required details). The contents of the database are protected with AES-256 encryption. To unlock the password database, you enter a decryption key (your master password) that only you know, and then allow the program to fill in the saved credentials so you can sign in on a webpage or app. 
@@ -179,12 +183,20 @@ The companies that manage and sync those saved files don't have access to the de
 
 That architecture offers five distinct advantages over a DIY solution. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 * [Best VPN services](https://www.zdnet.com/article/best-vpn/)
 * [Best security keys](https://www.zdnet.com/article/best-security-key/)
 * [Best antivirus software](https://www.zdnet.com/article/best-antivirus/)
 * [The fastest VPNs](https://www.zdnet.com/article/fastest-vpn/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1) Browser Integration 
 
@@ -209,7 +221,7 @@ Integrating a password manager with a browser is superb protection against phish
 That phishing protection is probably the most underrated feature of all. If you manage passwords manually, by copying and pasting from an encrypted personal file, you will paste your username and password into the respective fields on that well-designed fake page, because you don't realize it's fake. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  4) Cross Platform Access 
@@ -217,10 +229,6 @@ That phishing protection is probably the most underrated feature of all. If you 
 Password managers work across devices, including PCs, Macs, and mobile devices, with the option to sync your encrypted password database to the cloud. Access to that file and its contents can be secured with biometric authentication and 2FA. 
 
 By contrast, if you manage passwords in an encrypted file that's saved locally, you have to manually copy that file to other devices (or keep it in the cloud in a location under your personal control), and then make sure the contents of each copy stay in sync. More friction. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  5) Surveillance Safeguard 
 
@@ -243,10 +251,6 @@ And so you wind up keeping an encrypted list of passwords that are not exactly u
 **"If someone steals my password file, they have all my passwords."**
 
 No, they don't. They have an AES-256 encrypted blob that is, for all intents and purposes, useless gibberish. The only way to extract its secrets is with the decryption key, which you and you alone know. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Security
 
@@ -304,10 +308,6 @@ We've put together a list of the best free and paid options here: [Best Password
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Related stories:
 
 * [Leaving LastPass? Here's how to get your passwords out](https://www.zdnet.com/article/leaving-lastpass-heres-how-to-get-your-passwords-out/)
@@ -330,22 +330,17 @@ We've put together a list of the best free and paid options here: [Best Password
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-cognitive-cornerstones-essential-educational-content-yt/"><u>[New] 2024 Approved Cognitive Cornerstones Essential Educational Content YT</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-avoid-the-fake-out-maintaining-authenticity-in-likes-for-2024/"><u>[New] Avoid the Fake-Out Maintaining Authenticity in Likes for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-accelerate-audio-stream-10-best-mobile-tools/"><u>[Updated] In 2024, Accelerate Audio Stream 10 Best Mobile Tools</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-s23-tactical-edition-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy S23 Tactical Edition Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-conversation-magic-discover-the-best-extension/"><u>ChatGPT Conversation Magic - Discover the Best Extension!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/harnessing-anonymity-the-key-to-empowering-todays-remote-teams-zdnet/"><u>Harnessing Anonymity: The Key to Empowering Today’s Remote Teams | ZDNET</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-crafting-impactful-reactions-the-ultimate-guidebook/"><u>In 2024, Crafting Impactful Reactions The Ultimate Guidebook</u></a></li>
-<li><a href="https://app-tips.techidaily.com/intro-to-coursera-levelsets-competency-evaluations-the-latest-update-explained-by-zdnet/"><u>Intro to Coursera LevelSets Competency Evaluations - The Latest Update Explained by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/missing-in-action-the-elusive-free-windows-10-enhancement-program/"><u>Missing in Action: The Elusive Free Windows 10 Enhancement Program</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-4a-advanced-antenna-array-theory/"><u>Section 4A: Advanced Antenna Array Theory</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-critical-90-day-evaluation-period-for-artificial-intelligence-innovations-insights-from-zdnet/"><u>The Critical 90-Day Evaluation Period for Artificial Intelligence Innovations: Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-pitfalls-of-pigeonholing-texts-with-chatgpt-summaries/"><u>The Pitfalls of Pigeonholing Texts with ChatGPT Summaries</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-11-must-have-applications-and-services-for-windowsmac-users-insights-from-zdnet/"><u>Top 11 Must-Have Applications & Services for Windows/Mac Users - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/top-translation-component-library-for-enhanced-it-projects/"><u>Top Translation Component Library for Enhanced IT Projects</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transparency-in-tech-swiss-fed-government-goes-full-open-source-for-software-development/"><u>Transparency in Tech: Swiss Fed Government Goes Full Open Source for Software Development</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleash-creativity-discover-free-tools-for-dynamic-voice-alteration-for-2024/"><u>Unleash Creativity Discover Free Tools for Dynamic Voice Alteration for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-new-potential-how-the-google-microsoft-collaboration-allows-windows-apps-to-thrive-on-chromebooks-zdnet/"><u>Unlocking New Potential: How the Google-Microsoft Collaboration Allows Windows Apps to Thrive on Chromebooks | ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-understanding-io-recorded-visual-data-storage/"><u>[New] 2024 Approved Understanding IO Recorded Visual Data Storage</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unleashing-potential-with-well-planned-instagram-content/"><u>[New] 2024 Approved Unleashing Potential with Well-Planned Instagram Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-picks-for-novice-gopro-enthusiasts/"><u>[Updated] 2024 Approved Top Picks for Novice GoPro Enthusiasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-how-to-record-professional-audio-in-audacity/"><u>2024 Approved How To Record Professional Audio In Audacity</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-most-popular-iphone-podcast-soundshare/"><u>2024 Approved Most Popular iPhone Podcast Soundshare</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-start-guide-mastering-icloud-photo-sharing-from-scratch/"><u>Easy Start Guide: Mastering iCloud Photo Sharing From Scratch</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-nvidias-innovation-for-gamers-worldwide/"><u>Explore Nvidia's Innovation for Gamers Worldwide!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steps-to-get-your-steam-friends-network-back-online-and-functioning/"><u>Steps to Get Your Steam Friends Network Back Online and Functioning</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-restoring-and-repairing-failed-icloud-backups/"><u>Troubleshooting Guide: Restoring and Repairing Failed iCloud Backups</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-steps-to-update-your-icloud-settings-on-an-iphone/"><u>Ultimate Guide: Steps to Update Your iCloud Settings on an iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-of-reliable-ios-passcode-crackers-unlocking-your-iphone-with-a-guaranteed-successful-method/"><u>Ultimate List of Reliable iOS Passcode Crackers: Unlocking Your iPhone with a Guaranteed Successful Method</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-your-iphones-photo-management-a-guide-to-camera-roll-and-photo-library/"><u>Understanding Your iPhone's Photo Management: A Guide to Camera Roll & Photo Library</u></a></li>
 </ul></div>
 

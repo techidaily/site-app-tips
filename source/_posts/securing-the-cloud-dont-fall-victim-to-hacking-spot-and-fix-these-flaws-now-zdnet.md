@@ -1,7 +1,7 @@
 ---
 title: "Securing the Cloud: Don’t Fall Victim to Hacking - Spot and Fix These Flaws Now! | ZDNet"
-date: 2024-12-18T19:13:57.356Z
-updated: 2024-12-24T19:04:58.139Z
+date: 2025-01-01T22:36:46.447Z
+updated: 2025-01-03T00:23:02.753Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -116,7 +116,7 @@ Analysis of identity and access management (IAM) polices taking into account hun
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -137,7 +137,7 @@ Another practice that isn't helping IT departments is [poor password security](h
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### special feature
@@ -157,7 +157,7 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -183,20 +183,22 @@ IT departments should also consider whether regular accounts need administrator 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-quick-clicks-big-grins-the-kinemaster-way/"><u>[New] 2024 Approved Quick Clicks, Big Grins The KineMaster Way</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-sync-incorporating-songs-into-videos-using-your-iphone/"><u>[New] Seamless Sync Incorporating Songs Into Videos Using Your iPhone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-channel-descriptions/"><u>[Updated] Mastering YouTube Channel Descriptions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unseen-screenshots-tracking-instagrams-hidden-viewer-list/"><u>2024 Approved Unseen Screenshots Tracking Instagram's Hidden Viewer List</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-essentials-of-apple-mdm-and-deploying-on-the-ios-ecosystem/"><u>Discover the Essentials of Apple MDM & Deploying on the iOS Ecosystem</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-user-friendly-android-notes-applications-the-best-picks-you-need/"><u>Discover the Ultimate List of FREE, User-Friendly Android Notes Applications: The Best Picks You Need</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-the-ultimate-free-audiobook-library-now-compatible-with-ios-and-android-devices/"><u>Download the Ultimate Free Audiobook Library Now - Compatible with iOS & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-the-mumu-player-a-high-performance-android-simulator-for-desktop-environments/"><u>Experience the MuMu Player: A High-Performance Android Simulator for Desktop Environments</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-examination-of-nox-player-insights-on-functionality-advantages-and-limitations/"><u>In-Depth Examination of Nox Player: Insights on Functionality, Advantages, and Limitations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/play-ogg-format-files-at-no-cost-best-cross-platform-ogg-players-for-windows-and-macos/"><u>Play OGG Format Files at No Cost: Best Cross-Platform OGG Players for Windows & macOS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamlessly-convert-your-dvds-and-videos-discover-the-ideal-output-settings-and-compatible-playback-devices/"><u>Seamlessly Convert Your DVDs and Videos: Discover the Ideal Output Settings & Compatible Playback Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721460670730-speedy-iphone-screen-management-how-to-accelerate-the-black-out-process/"><u>Speedy iPhone Screen Management: How to Accelerate the Black Out Process</u></a></li>
-<li><a href="https://fox-that.techidaily.com/swift-solutions-for-a-non-responsive-iphone-or-ipad/"><u>Swift Solutions for a Non-Responsive iPhone or iPad</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-best-free-morning-motivators-unique-alarm-apps-for-an-easy-start/"><u>Top 10 Best FREE Morning Motivators: Unique Alarm Apps for an Easy Start</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unlocking-income-insights-googles-simplified-three-step-strategy-for-monetizing-youtube-for-2024/"><u>Unlocking Income Insights Google's Simplified Three-Step Strategy for Monetizing YouTube for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-easy-relaxation-no-license-sounds/"><u>[Updated] 2024 Approved Easy Relaxation No-License Sounds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-navigating-through-instagram-video-hiccups/"><u>[Updated] Navigating Through Instagram Video Hiccups</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-secrets-to-superior-soundscape-top-tunes-for-unboxing-vids/"><u>2024 Approved Secrets to Superior Soundscape Top Tunes for Unboxing Vids</u></a></li>
+<li><a href="https://app-tips.techidaily.com/busting-top-5-fallacies-on-profiting-from-your-data-insights-zdnet/"><u>Busting Top 5 Fallacies on Profiting From Your Data Insights - ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-latest-gtx-1050-ti-drivers-for-peak-performance/"><u>Get the Latest GTX 1050 Ti Drivers for Peak Performance</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/harmonyhook-tracker-extracting-sound-and-insights-for-2024/"><u>HarmonyHook Tracker Extracting Sound & Insights for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-artificer-networks-for-business-success-the-rise-of-ai-powered-agents/"><u>Harnessing Artificer Networks for Business Success - The Rise of AI-Powered Agents</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-businesses-can-profit-from-ai-innovations-despite-initial-hurdles-according-to-zdnet-expert-analysis/"><u>How Businesses Can Profit From AI Innovations Despite Initial Hurdles, According to ZDNet Expert Analysis</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-civi-3-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Civi 3 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-a-world-full-of-edge-devices-future-job-prospects-explained-by-zdnet/"><u>Navigating a World Full of Edge Devices: Future Job Prospects Explained by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-the-truth-top-5-errors-around-monetizing-information-according-to-zdnet/"><u>Unraveling the Truth: Top 5 Errors Around Monetizing Information, According to ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-how-top-innovators-are-drawn-to-open-source-a-deep-dive-by-zdnet/"><u>Unveiling How Top Innovators Are Drawn to Open Source: A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-appeal-of-no-codelow-code-platforms-pros-and-readiness-considerations-insights-from-zdnet/"><u>Unveiling the Appeal of No-Code/Low-Code Platforms: Pros and Readiness Considerations - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-top-obstacle-of-generative-ai-demonstrating-a-tangible-return-on-investment-roi-zdnet-insights/"><u>Unveiling the Top Obstacle of Generative AI: Demonstrating a Tangible Return on Investment (ROI) | ZDNet Insights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-and-installation-guide-for-netgear-a6200-dongle/"><u>Update & Installation Guide for Netgear A6200 Dongle</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/viber-out-user-satisfaction-and-reviews-on-the-worlds-premium-one-time-call-option/"><u>Viber Out: User Satisfaction and Reviews on the World’s Premium One-Time Call Option</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-screen-projection-how-to-project-content-from-your-phone-or-tablet-onto-an-lg-television/"><u>Wireless Screen Projection: How to Project Content From Your Phone or Tablet Onto an LG Television</u></a></li>
 </ul></div>
 

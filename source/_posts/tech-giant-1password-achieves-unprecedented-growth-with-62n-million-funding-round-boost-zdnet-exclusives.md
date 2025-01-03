@@ -1,7 +1,7 @@
 ---
 title: Tech Giant 1Password Achieves Unprecedented Growth with $62N Million Funding Round Boost | ZDNET Exclusives
-date: 2024-12-18T19:54:34.722Z
-updated: 2024-12-24T23:44:22.381Z
+date: 2024-12-31T02:42:15.784Z
+updated: 2025-01-03T02:30:29.119Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Password manager 1Password said it closed its latest funding round on Wednesday, raising $620 million and boosting its valuation to $6.8 billion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Password manager 1Password said it closed its latest funding round on Wednesday,
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Series C funding round included the participation of ICONIQ Growth, Tiger Global, Lightspeed Venture Partners, Backbone Angels, and Accel, which led the Canadian company's series A and B rounds. 
@@ -83,24 +83,22 @@ Will Griffith, a founding partner at ICONIQ Growth, said more than one hundred C
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ideal-echo-chamber-recorders/"><u>[New] 2024 Approved Ideal Echo Chamber Recorders</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-raw-to-richness-creating-and-merging-impressive-hdr-photos/"><u>[New] From Raw to Richness Creating & Merging Impressive HDR Photos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-initiate-social-media-exploration-with-a-new-twitter/"><u>[New] In 2024, Initiate Social Media Exploration with a New Twitter</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-mastering-srt-file-creation-a-comprehensive-manual/"><u>[New] Mastering SRT File Creation A Comprehensive Manual</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-peering-into-the-future-with-asuss-4k-uxga-mg28uq-screen/"><u>[New] Peering Into the Future with ASUS's 4K UXGA MG28UQ Screen</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192575-best-6-exceptional-contact-widget-apps-for-android-ranked/"><u>Best 6 Exceptional Contact Widget Apps for Android - Ranked</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-setting-up-and-accessing-kik-chat-app-for-windowsmac-users/"><u>Complete Tutorial: Setting Up & Accessing Kik Chat App for Windows/Mac Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/create-amazing-gifs-instantly-with-our-choice-of-the-10-best-free-apps-on-smartphones-iphone-and-android/"><u>Create Amazing GIFs Instantly with Our Choice of the 10 Best Free Apps on Smartphones (iPhone & Android)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/creating-anime-sounds-with-uwu-modifiers-top-three-speech-alteration-tools-for-fans/"><u>Creating Anime Sounds with UwU Modifiers: Top Three Speech Alteration Tools for Fans</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-and-installation-guide-how-to-set-up-tango-video-calls-and-chats/"><u>Download & Installation Guide: How To Set Up Tango Video Calls And Chats</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ng-your-voice-on-youtube-a-guide-to-selective-audiences/"><u>Finding Your Voice on YouTube A Guide to Selective Audiences</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-enter-safe-mode-in-windows-10-7-8-81-xp-and-vista/"><u>How to Enter Safe Mode in Windows 10, 7, 8, 8.1, XP & Vista</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ideal-calendar-solutions-best-complimentary-and-premium-options-for-iphones/"><u>Ideal Calendar Solutions: Best Complimentary and Premium Options for iPhones</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-7-plus-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 7 Plus without Apple ID?</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/maximizing-your-reach-understanding-facebook-video-ad-specs-and-optimal-file-sizes/"><u>Maximizing Your Reach: Understanding Facebook Video Ad Specs and Optimal File Sizes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-step-by-step-guide-how-to-quickly-unlock-your-android-device-with-easy-hacks/"><u>Simple Step-by-Step Guide: How to Quickly Unlock Your Android Device with Easy Hacks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-25-leading-video-editing-apps-for-every-ios-device-including-models-15-x8-6-5/"><u>The Ultimate List of the 25 Leading Video Editing Apps for Every iOS Device, Including Models 15-X/8-6-5</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-v27e-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo V27e Phone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192484-ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-list-of-androids-gb-compatible-simulators/"><u>[New] In 2024, Ultimate List of Android's GB-Compatible Simulators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mememakerpro-share-your-giggles/"><u>2024 Approved MemeMakerPro Share Your Giggles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-c-suite-digital-literacy-a-guide-to-tech-education-in-six-steps-zdnet/"><u>Advancing C-Suite Digital Literacy: A Guide to Tech Education in Six Steps | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/agile-methods-clash-with-ai-projects-insights-from-a-new-study-zdnet/"><u>Agile Methods Clash with AI Projects: Insights From a New Study | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-dominates-the-surge-in-non-cash-payments-expected-to-reach-16-trillion-zdnet-insights/"><u>Asia Dominates the Surge in Non-Cash Payments Expected to Reach $1.6 Trillion | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/banking-innovation-at-risk-cio-warns-against-reliance-on-easy-prompt-tech-in-favour-of-creative-geniuses/"><u>Banking Innovation at Risk: CIO Warns Against Reliance on Easy-Prompt Tech in Favour of Creative Geniuses</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-common-false-beliefs-in-monetizing-data-assets-the-zdnet-perspective/"><u>Debunking Common False Beliefs in Monetizing Data Assets - The ZDNet Perspective</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dive-into-business-before-technology-to-excel-as-a-tech-team-leader-strategies-by-zdnet/"><u>Dive Into Business Before Technology to Excel as a Tech Team Leader | Strategies by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-factory-reset-a-lenovo-laptop/"><u>How to Factory Reset a Lenovo Laptop</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-successfully-boot-up-dead-space-remake-troubleshooting-guide-2024/"><u>How to Successfully Boot Up Dead Space: Remake Troubleshooting Guide 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-definitive-list-high-quality-costless-lut-options-explored/"><u>In 2024, The Definitive List High-Quality, Costless LUT Options Explored</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-your-career-trajectory-with-ai-strategies-for-tech-professionals-on-zdnet/"><u>Mastering Your Career Trajectory with AI: Strategies for Tech Professionals on ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-fixing-absentee-bluetooth-devices-win/"><u>Steps for Fixing Absentee Bluetooth Devices WIN</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-balance-between-ai-advancements-and-job-expansion-within-the-cybersecurity-sector-insights-from-zdnet/"><u>The Balance Between AI Advancements and Job Expansion Within the Cybersecurity Sector: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-selecting-high-performance-fpv-drone-propellers-for-2024/"><u>The Complete Guide to Selecting High-Performance FPV Drone Propellers for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-17-applications-de-screenshot-gratuites-en-2024-une-selection-exhaustive-avec-movavi/"><u>Top 17 Applications De Screenshot Gratuites en 2024: Une Sélection Exhaustive Avec Movavi</u></a></li>
+<li><a href="https://fox-making.techidaily.com/oinalina-asama-rasayakal-bna-ka-hatakara-safitavayara-para-nakasana-tha-aapaka-fail-dhadha/"><u>ऑनलाइन-असिम रीसायकल बिन को हटाकर, सॉफ़्टवेयर पर नुकसान दें: आपकी फाइलें ढूंढें!</u></a></li>
 </ul></div>
 

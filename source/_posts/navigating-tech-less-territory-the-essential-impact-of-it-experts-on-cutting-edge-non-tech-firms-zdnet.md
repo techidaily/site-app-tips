@@ -1,7 +1,7 @@
 ---
 title: "Navigating Tech-Less Territory: The Essential Impact of IT Experts on Cutting-Edge Non-Tech Firms | ZDNET"
-date: 2024-12-21T18:27:27.196Z
-updated: 2024-12-25T05:01:09.031Z
+date: 2024-12-30T05:00:08.393Z
+updated: 2025-01-02T19:22:20.595Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-zooming-into-miniature-realms-of-minecraft-for-2024/"><u>[New] Zooming Into Miniature Realms of Minecraft for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-manager-training-essential-before-introducing-artificial-intelligence-in-business-insights-from-zdnet/"><u>1. Manager Training Essential Before Introducing Artificial Intelligence in Business: Insights From ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-bridging-the-gap-from-rgb-to-standardized-srgb/"><u>2024 Approved Bridging the Gap From Rgb to Standardized Srgb</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-marketing-crews-embrace-advanced-tech-zdnet-insights/"><u>AI Integration: One-Third of Marketing Crews Embrace Advanced Tech | ZDNet Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-forefront-ai-surpass-chatgpt-in-conversational-intelligence-and-machine-learning-innovations/"><u>Can Forefront AI Surpass ChatGPT in Conversational Intelligence and Machine Learning Innovations?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-executives-with-tech-expertise-six-essential-tips-to-foster-digital-proficiency-in-management-teams/"><u>Empowering Executives with Tech Expertise - Six Essential Tips to Foster Digital Proficiency in Management Teams</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-ai-evolution-is-pushing-the-limits-of-todays-tech-infrastructure-insights-from-zdnet/"><u>How AI Evolution Is Pushing the Limits of Today's Tech Infrastructure: Insights From ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-apple-iphone-8-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra Apple iPhone 8</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-15-pro-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 15 Pro & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-hp-officejet-pro-8610-drivers-available-here-ensuring-full-compatibility-with-all-windows-os-including-windows-11-8-and-more/"><u>Latest HP Officejet Pro 8610 Drivers Available Here: Ensuring Full Compatibility with All Windows OS Including Windows 11, 8, & More</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-fintech-figures-demand-thinking-revolution-not-simple-prompts-to-shape-ai-future/"><u>Leading Fintech Figures Demand Thinking Revolution, Not Simple Prompts, to Shape AI Future</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-age-of-artificial-intelligence-strategies-for-tech-experts-to-excel-in-their-careers-zdnet/"><u>Navigating the Age of Artificial Intelligence: Strategies for Tech Experts to Excel in Their Careers | ZDNet</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rejuvenate-your-movies-stellars-qtp-guide/"><u>Rejuvenate Your Movies - Stellar's QTP Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/skagen-falster-2-showdown-a-stylish-contender-against-the-iconic-apple-phone/"><u>Skagen Falster 2 Showdown: A Stylish Contender Against the Iconic Apple Phone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-ai-how-multiple-machine-learning-models-will-power-your-business-according-to-zdnet/"><u>The Future Is AI: How Multiple Machine Learning Models Will Power Your Business, According to ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-singapore-advocates-for-financial-backing-of-ai-integration-and-carbon-neutral-goals/"><u>ZDNet Exclusive: Singapore Advocates for Financial Backing of AI Integration and Carbon-Neutral Goals</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-enrich-your-status-with-harmony-notes/"><u>[New] In 2024, Enrich Your Status with Harmony Notes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-strengthening-your-brand-with-high-quality-fb-covers-for-2024/"><u>[Updated] Strengthening Your Brand with High-Quality FB Covers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-simplified-hdr-strategies-for-photography-novices/"><u>2024 Approved Simplified HDR Strategies for Photography Novices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-superior-sound-modification-equipment-for-video-artists/"><u>2024 Approved Superior Sound Modification Equipment for Video Artists</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-solutions-to-handle-file-not-found-messages-for-vcplusplus-redistributables-like-msvcrt120dll/"><u>Comprehensive Solutions to Handle 'File Not Found' Messages for VC++ Redistributables Like msvcrt120.dll</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-tech-adopts-the-ops-approach-amidst-emerging-challenges-zdnet-insights/"><u>Enterprise Tech Adopts the 'Ops' Approach Amidst Emerging Challenges | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-tech-professionals-can-overcome-burnout-with-positive-developments-discoveries-by-zdnet/"><u>How Tech Professionals Can Overcome Burnout with Positive Developments - Discoveries by ZDNET</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-media-imports-within-windows-10s-realm/"><u>In 2024, Mastering the Art of Media Imports Within Windows 10'S Realm</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-6-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 6 Without Passcode Easily</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/innovative-methods-for-high-definition-vr-gameplay-recordings-for-2024/"><u>Innovative Methods for High-Definition VR Gameplay Recordings for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/key-challenges-in-leveraging-generative-ai-insights-from-the-latest-deloitte-research-highlighted-by-zdnet/"><u>Key Challenges in Leveraging Generative AI: Insights From the Latest Deloitte Research Highlighted by ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-desktopmobile-adjust-youtube-video-pace-for-2024/"><u>Mastering Desktop/Mobile Adjust YouTube Video Pace for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-a-guide-to-streamlining-linux-and-open-source-docs/"><u>Organizing Chaos: A Guide to Streamlining Linux & Open Source Docs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-sharing-images-from-iphone-to-windows-desktop/"><u>Step-by-Step Guide: Sharing Images From iPhone to Windows Desktop</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-compelling-benefits-of-embracing-aiops-insights-from-zdnet/"><u>Top 7 Compelling Benefits of Embracing AIOps: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-windowed-software-on-chromebooks-a-game-changing-allyship-unveiled-tech-times/"><u>Unlocking the Power of Windowed Software on Chromebooks: A Game-Changing Allyship Unveiled | Tech Times</u></a></li>
+<li><a href="https://app-tips.techidaily.com/work-seamlessly-offline-on-onedrive-manage-your-documents-even-in-rural-locations-as-featured-by-zdnet/"><u>Work Seamlessly Offline on OneDrive - Manage Your Documents Even in Rural Locations, as Featured by ZDNet</u></a></li>
 </ul></div>
 

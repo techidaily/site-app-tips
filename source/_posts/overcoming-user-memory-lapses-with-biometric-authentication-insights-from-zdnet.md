@@ -1,7 +1,7 @@
 ---
 title: Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet
-date: 2024-12-20T23:17:46.866Z
-updated: 2024-12-24T21:37:12.194Z
+date: 2024-12-30T22:27:40.198Z
+updated: 2025-01-02T19:23:51.293Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,19 +99,20 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-dynamic-windows-top-9-essential-gif-recorder-programs/"><u>[New] In 2024, Dynamic Windows Top 9 Essential GIF Recorder Programs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-curated-selection-of-top-10-luts-for-lightroom/"><u>[Updated] A Curated Selection of Top 10 LUTs for LightRoom</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-13-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 13 Pro Max When Its Locked Within Seconds</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-xs-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone XS screen turns black? | Stellar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-transferring-your-icloud-password-vault-on-and-off-macos/"><u>Comprehensive Guide: Transferring Your iCloud Password Vault on and Off macOS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/excel-2021-stuck-at-opening-file-0-resolve-performance-issues-by-stellar-guide/"><u>Excel 2021 Stuck at Opening File 0 - Resolve Performance Issues</u></a></li>
-<li><a href="https://app-tips.techidaily.com/icloud-email-update-tutorial-how-to-easily-alter-your-current-icloud-id/"><u>ICloud Email Update Tutorial: How To Easily Alter Your Current iCloud ID</u></a></li>
-<li><a href="https://app-tips.techidaily.com/icloud-photo-sharing-a-beginners-complete-step-by-step-tutorial/"><u>ICloud Photo Sharing: A Beginner's Complete Step-by-Step Tutorial</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-realme-narzo-n55-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Realme Narzo N55 Phone When You Forget the Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplifying-sticker-setup-challenges-resolving-top-6-problems-quickly/"><u>Simplifying Sticker Setup Challenges: Resolving Top 6 Problems Quickly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-methods-for-transferring-icloud-tunes-to-ios-and-mac-a-comprehensive-guide/"><u>Top 5 Methods for Transferring iCloud Tunes to iOS and Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-icloud-message-accessibility-a-comprehensive-approach-for-enabling-your-emails/"><u>Troubleshooting iCloud Message Accessibility: A Comprehensive Approach for Enabling Your Emails</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-free-contact-acquisition-top-4-methods-for-seamless-retrieval-from-icloud/"><u>Unlocking the Power of Free Contact Acquisition: Top 4 Methods for Seamless Retrieval From iCloud</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content-for-2024/"><u>[New] Harnessing the Power of Hashtags to Amplify Your IGTV Content for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unlocking-audible-content-from-twitter-videos/"><u>[New] Unlocking Audible Content From Twitter Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-capturing-the-globe-from-novice-to-experienced-travel-videographer-for-2024/"><u>[Updated] Capturing the Globe From Novice to Experienced Travel Videographer for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-ways-to-master-boomerang-feature-across-ios-android-and-web-platforms/"><u>Effortless Ways to Master Boomerang Feature Across iOS, Android & Web Platforms</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-yakuza-like-a-dragon-an-essential-rpg-experience/"><u>Exploring 'Yakuza: Like a Dragon' - An Essential RPG Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-lava-blaze-curve-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Lava Blaze Curve 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/immersive-education-experience-windows-11-tutorials/"><u>Immersive Education Experience: Windows 11 Tutorials</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unraveling-the-top-8-premium-free-srt-translation-websites/"><u>In 2024, Unraveling the Top 8 Premium Free SRT Translation Websites</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-automated-photography-setting-timers-on-iphones-and-android-devices/"><u>Mastering the Art of Automated Photography: Setting Timers on iPhones & Android Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/moto-g14-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Moto G14 support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-best-multiplayer-bluetooth-games-for-android-and-ios-devices/"><u>The Ultimate List of Best Multiplayer Bluetooth Games for Android & iOS Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-11-audio-enhancement-applications-for-video-editing-on-mobile-devices-and-desktop-systems/"><u>Top 11 Audio Enhancement Applications for Video Editing on Mobile Devices and Desktop Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-6-must-have-android-contact-widget-apps-of-2024-a-comprehensive-guide/"><u>Top 6 Must-Have Android Contact Widget Apps of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-10-leading-music-organizers-for-all-your-platform-needs-windows-mac-iphone-and-android/"><u>Ultimate Selection of 10 Leading Music Organizers for All Your Platform Needs: Windows, Mac, iPhone & Android</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unraveling-youtubes-monetization-shifts/"><u>Unraveling YouTube's Monetization Shifts</u></a></li>
 </ul></div>
 
