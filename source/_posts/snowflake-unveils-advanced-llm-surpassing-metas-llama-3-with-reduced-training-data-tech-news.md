@@ -1,7 +1,7 @@
 ---
 title: Snowflake Unveils Advanced LLM Surpassing Meta's LLaMA 3 with Reduced Training Data | Tech News
-date: 2024-12-19T04:24:18.000Z
-updated: 2024-12-24T21:35:18.286Z
+date: 2024-12-28T23:15:32.172Z
+updated: 2025-01-03T01:00:13.570Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ust-know-youtube-directives-for-successful-channels/"><u>[New] Must-Know YouTube Directives for Successful Channels</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-barefoot-tape-observation-and-supplementary-selections/"><u>[Updated] Barefoot Tape Observation and Supplementary Selections</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-first-steps-in-gopro-gear-selection/"><u>[Updated] First Steps in GoPro Gear Selection</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-improving-visual-storytelling-with-secondary-shoots/"><u>[Updated] Improving Visual Storytelling with Secondary Shoots</u></a></li>
-<li><a href="https://app-tips.techidaily.com/access-onedrive-offline-anywhere-edit-and-save-files-without-internet-perfect-for-remote-areas/"><u>Access OneDrive Offline Anywhere: Edit and Save Files Without Internet, Perfect for Remote Areas</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-revolutionizing-the-workforce-transforming-traditional-roles-from-training-to-ethics-the-future-of-employment-explained-zdnet/"><u>AI Revolutionizing the Workforce: Transforming Traditional Roles From Training to Ethics - The Future of Employment Explained | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/black-friday-alert-snatch-up-a-steep-discount-on-apples-magic-keyboard-for-just-90-less-your-guide-to-savings-starts-here-at-zdnet/"><u>Black Friday Alert! Snatch Up a Steep Discount on Apple's Magic Keyboard for Just $90 Less – Your Guide to Savings Starts Here at ZDNet.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-speed-top-5-chrome-os-hacks-for-smoother-sailing-and-enhanced-productivity-zdnet/"><u>Boost Your Speed: Top 5 Chrome OS Hacks for Smoother Sailing & Enhanced Productivity | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cutting-edge-ai-how-openais-gpt-4-goes-mini-reduces-application-development-expenses-insights-from-zdnet/"><u>Cutting Edge AI: How OpenAI's GPT-4 Goes Mini Reduces Application Development Expenses - Insights From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-cult-of-the-lamb-pc-game-from-exiting-unexpectedly-a-step-by-step-guide/"><u>How to Stop Cult of the Lamb PC Game From Exiting Unexpectedly: A Step-by-Step Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-agile-mindsets-key-strategies-for-successful-software-development-with-zdnet/"><u>Mastering Agile Mindsets: Key Strategies for Successful Software Development with ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-covid-19-immunization-control-systems-a-comprehensive-guide-by-zdnet/"><u>Top Rated COVID-19 Immunization Control Systems: A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-ai-potential-with-superduperdb-simplifying-application-access-as-featured-on-zdnet/"><u>Unlocking AI Potential with SuperDuperDB: Simplifying Application Access, As Featured on ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95643298-9781584209959-will-of-divine-love/"><u>Will of Divine Love | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012832956-fixed-assassins-creed-odyssey-crashing-on-pc-easily/"><u>[Fixed] Assassin's Creed Odyssey Crashing on PC. Easily!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-expressive-faces-with-motion-blur-in-picsart/"><u>[New] Expressive Faces with Motion Blur in Picsart</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immerse-in-visual-creation-best-3d-model-and-rendering-tools-reviewed/"><u>[New] Immerse in Visual Creation Best 3D Model & Rendering Tools Reviewed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unveiling-the-instagram-success-script/"><u>[New] In 2024, Unveiling the Instagram Success Script</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-next-gen-photography-apps-for-smarter-ios-and-android-edits-for-2024/"><u>[New] Next-Gen Photography Apps for Smarter iOS & Android Edits for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-7-proven-strategies-for-astonishing-ig-films/"><u>2024 Approved 7 Proven Strategies for Astonishing IG Films</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-essential-is-devops-for-staying-ahead-in-business-ensuring-safety-through-top-strategies-insights-from-zdnet/"><u>How Essential Is DevOps for Staying Ahead in Business: Ensuring Safety Through Top Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-find-x6-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Find X6</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-major-cloud-services-aws-azure-and-google-cloud-for-a-hybrid-and-saas-strategy-insights-by-zdnet/"><u>In-Depth Analysis of Major Cloud Services: AWS, Azure, and Google Cloud for a Hybrid and SaaS Strategy | Insights by ZDNET</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/latest-pcdj-update-unveiled-discover-features-of-dex-32-demo-for-aspiring-djs/"><u>Latest PCDJ Update Unveiled: Discover Features of DEX 3.2 Demo for Aspiring DJs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-process-of-upgrading-your-system-to-ubuntu-2404-tips-and-tricks-from-zdnet/"><u>Mastering the Process of Upgrading Your System to Ubuntu 24.04: Tips and Tricks From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-corporate-drama-unveiled-by-zdnet/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown – Corporate Drama Unveiled by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/setting-up-libreoffice-preferences-seamlessly-convert-to-microsoft-office-formats/"><u>Setting Up LibreOffice Preferences: Seamlessly Convert to Microsoft Office Formats</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/form-your-videos-secrets-of-effective-youtube-seo-tools/"><u>Transform Your Videos Secrets of Effective YouTube SEO Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-linus-torvalds-use-of-rust-for-linux-development-and-life-routines-with-m2-macbook-air-insights-from-zdnet-interview/"><u>Unveiling Linus Torvalds' Use of Rust for Linux Development and Life Routines with M2 MacBook Air | Insights From ZDNet Interview</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrade-mastery-overcoming-challenges-in-migrating-to-ubuntu-linux-2404-tips-featured-on-zdnet/"><u>Upgrade Mastery: Overcoming Challenges in Migrating to Ubuntu Linux 24.04 – Tips Featured on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-crisis-looms-large-for-microsoft-with-just-one-year-to-fix-major-issues-expert-insight/"><u>Windows 11 Crisis Looms Large for Microsoft with Just One Year to Fix Major Issues | Expert Insight</u></a></li>
 </ul></div>
 

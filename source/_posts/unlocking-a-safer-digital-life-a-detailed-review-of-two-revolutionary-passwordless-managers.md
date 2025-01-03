@@ -1,7 +1,7 @@
 ---
 title: "Unlocking a Safer Digital Life: A Detailed Review of Two Revolutionary Passwordless Managers"
-date: 2024-12-30T00:28:25.912Z
-updated: 2025-01-03T03:26:18.558Z
+date: 2025-01-01T21:31:24.738Z
+updated: 2025-01-03T09:31:11.364Z
 tags:
   - password-manager
 categories:
@@ -34,7 +34,7 @@ Should you ditch your master password completely? I took the plunge with both [D
 My conclusion: There's a passwordless password manager in your future, but only technically sophisticated customers should plunge in today.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting up a passwordless account
@@ -54,7 +54,7 @@ Screenshot by Ed Bott/ZDNET
 With those tasks out of the way, you can import your existing passwords and add new ones. More importantly, you now have a device that you can use to set up access to the password vault on other devices, with no master password required.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting up additional devices
@@ -98,7 +98,7 @@ The dealbreaker for me, though, came when I tried to export my passwords from th
 Given those beta headaches, I decided to delete my passwordless 1Password account and try again in a few months. But Dashlane was impressive enough to make me seriously consider switching.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the risk?
@@ -112,7 +112,7 @@ So, what happens if you can't access any of those trusted devices? You're locked
 Both Dashlane and 1Password offer an alternative in the form of a recovery key. That's a randomly generated alphanumeric code (Dashlane's key is 28 characters long; 1Password uses a 56- character recovery key) that you print out and store in a safe place. If you're ever in a situation where you don't have a PC or mobile device that's signed in to your account, you can break the glass and use that recovery key as a last resort. But you'll never need to type it under normal circumstances, meaning it's resistant to phishing, keyloggers, and other hacking tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should you switch to a passwordless account?
@@ -151,17 +151,24 @@ I was impressed enough by [Dashlane](https://www.tkqlhce.com/click-9041660-15578
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unwind-the-mind-the-ultimate-chill-list/"><u>[New] Unwind the Mind The Ultimate Chill List</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-perfecting-your-yt-visual-footprint-for-2024/"><u>[Updated] The Ultimate Guide to Perfecting Your YT Visual Footprint for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/causes-and-cures-for-windows-gpu-glitches-in-mc/"><u>Causes & Cures for Windows GPU Glitches in MC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-of-epson-xp-410-printer-drivers-on-pcs-with-windows-os/"><u>Easy Installation of Epson XP-410 Printer Drivers on PCs with Windows OS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/efficiently-clear-out-icloud-book-collections-the-ultimate-guide-to-saving-cloud-storage/"><u>Efficiently Clear Out iCloud Book Collections: The Ultimate Guide to Saving Cloud Storage</u></a></li>
-<li><a href="https://app-tips.techidaily.com/fixing-your-missing-whatsapp-backups-unveiling-reasons-behind-and-effective-solutions-to-try/"><u>Fixing Your Missing WhatsApp Backups: Unveiling Reasons Behind and Effective Solutions to Try</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-poco-c51-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Poco C51 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-accessing-your-icloud-keychain-passwords-across-iphone-ipad-and-mac/"><u>Guide: Accessing Your iCloud Keychain Passwords Across iPhone, iPad & Mac</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-reviving-old-memories-posting-them-via-your-camera-roll/"><u>In 2024, Reviving Old Memories Posting Them via Your Camera Roll</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamlessly-reduce-your-whatsapp-audio-files-with-these-proven-strategies/"><u>Seamlessly Reduce Your WhatsApp Audio Files with These Proven Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620264415-troubleshoot-your-icloud-picture-sharing-problems-for-ios-devices-and-macbook-computers-essential-steps/"><u>Troubleshoot Your iCloud Picture Sharing Problems for iOS Devices and MacBook Computers - Essential Steps!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unlocking-success-with-instagrams-business-platform/"><u>Unlocking Success with Instagram's Business Platform</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-bigger-photos-uncompromised-clarity-for-2024/"><u>[New] Bigger Photos, Uncompromised Clarity for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-setting-up-your-first-livestream-successfully/"><u>[New] Setting Up Your First Livestream Successfully</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-connect-to-a-real-time-tiktok-livestayers-world/"><u>[Updated] Connect to a Real-Time TikTok Livestayer's World</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ideal-pc-recording-software-for-windows-enthusiasts-for-2024/"><u>[Updated] Ideal PC Recording Software for Windows Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-tips-and-solutions-for-common-vlc-issues-on-mac-for-2024/"><u>[Updated] Top Tips & Solutions for Common VLC Issues on Mac for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-the-art-of-eye-catching-fb-ad-content/"><u>2024 Approved Mastering the Art of Eye-Catching FB Ad Content</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieving-a-competitive-edge-in-business-with-effective-devops-strategies-and-mitigating-risks-through-best-practices-zdnet-insights/"><u>Achieving a Competitive Edge in Business with Effective DevOps Strategies & Mitigating Risks Through Best Practices | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-combining-excel-cells-tips-and-tricks-from-zdnet/"><u>Complete Guide to Combining Excel Cells: Tips & Tricks From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-hurdles-ahead-microsofts-race-against-time-to-fix-windows-11-issues-insights-from-zdnet/"><u>Critical Hurdles Ahead: Microsoft's Race Against Time to Fix Windows 11 Issues - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/dragon-tamers-guide-vibrant-how-to-train-your-dragon-imagery-and-desktops-from-yl-software-expertise/"><u>Dragon Tamer's Guide: Vibrant How-To Train Your Dragon Imagery and Desktops From YL Software Expertise</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exclusive-offer-acquire-professional-level-ashampoo-3d-cad-v11-for-only-40-from-zdnet-right-now/"><u>Exclusive Offer: Acquire Professional Level Ashampoo 3D CAD v11 for Only $40 From ZDNet Right Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-end-of-windows-10-support-explore-your-five-last-options-now/"><u>Facing the End of Windows 10 Support? Explore Your Five Last Options Now!</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-x7b-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-sculpting-your-audio-experience-in-videos-with-ease-and-precision/"><u>New In 2024, Sculpting Your Audio Experience in Videos with Ease and Precision</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-marketing-adobes-new-generation-of-ai-powered-creative-tools-unveiled/"><u>Revolutionizing Marketing: Adobe's New Generation of AI-Powered Creative Tools Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-latest-in-development-careers-most-demanded-programming-languages-and-predictions-for-upcoming-skills-powered-by-zdnet/"><u>The Latest in Development Careers: Most Demanded Programming Languages and Predictions for Upcoming Skills | Powered by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-web-browsers-of-today-analysis-by-zdnet/"><u>Top Web Browsers of Today - Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-sql-programming-classes-expert-reviews-of-the-best-online-learning-options/"><u>Top-Rated SQL Programming Classes: Expert Reviews of the Best Online Learning Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-selecting-the-ideal-pos-software-expert-reviews/"><u>Ultimate Guide to Selecting the Ideal POS Software – Expert Reviews</u></a></li>
 </ul></div>
 

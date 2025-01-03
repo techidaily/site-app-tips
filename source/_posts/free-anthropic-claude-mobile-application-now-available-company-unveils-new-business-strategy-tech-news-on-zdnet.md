@@ -1,7 +1,7 @@
 ---
 title: Free Anthropic 'Claude' Mobile Application Now Available; Company Unveils New Business Strategy - Tech News on ZDNet
-date: 2024-12-20T21:36:13.054Z
-updated: 2024-12-24T20:52:34.851Z
+date: 2024-12-29T19:10:00.237Z
+updated: 2025-01-02T19:24:25.566Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-how-to-optimize-rl-recording-hardware-and-software/"><u>[New] 2024 Approved How to Optimize RL Recording Hardware & Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-essential-haul-editing-skills-making-every-purchase-memorable/"><u>[New] Essential Haul Editing Skills Making Every Purchase Memorable</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-ultimate-list-for-first-time-film-makers-35mm-to-pands/"><u>[New] The Ultimate List for First-Time Film Makers (35Mm to P&S)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-9-free-youtube-channel-branding-solutions/"><u>[New] Ultimate 9 Free YouTube Channel Branding Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/10-owners-to-consider-before-end-of-life-date-hits/"><u>10 Owners to Consider Before End-of-Life Date Hits</u></a></li>
-<li><a href="https://solve-help.techidaily.com/choosing-the-perfect-codec-for-immersive-8k-videos-a-comprehensive-guide-to-4320p-formats/"><u>Choosing the Perfect Codec for Immersive 8K Videos - A Comprehensive Guide to 4320P Formats</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dont-panic-five-essential-steps-for-your-windows-11-pre-end-of-support-journey-insights-from-zdnet/"><u>Don't Panic: Five Essential Steps for Your Windows 11 Pre-End-of-Support Journey - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/final-cut-pro-full-using-guide-for-2024/"><u>Final Cut Pro Full Using Guide for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x50i-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Honor X50i Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-color-accuracy-in-canon-imagery-with-free-and-paid-lut-combinations/"><u>In 2024, Perfect Color Accuracy in Canon Imagery with Free & Paid LUT Combinations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/joint-development-of-scalable-llms-by-sony-intelligence-and-ai-singapore-announced-futuretech-weekly/"><u>Joint Development of Scalable LLMs by Sony Intelligence and AI Singapore Announced | FutureTech Weekly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-competitive-edge-with-devops-best-practices-to-mitigate-risk-expertise-by-zdnet/"><u>Mastering the Art of Competitive Edge with DevOps Best Practices to Mitigate Risk | Expertise by ZDNET</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/reviven-tus-archivos-desaparecidos-guia-paso-a-paso-sobre-como-recuperar-datos-eliminados-del-cache-en-windows/"><u>Reviven Tus Archivos Desaparecidos: Guía Paso a Paso Sobre Cómo Recuperar Datos Eliminados Del Caché en Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-2b-five-facts-to-remember-about-antenna-grounding/"><u>Section 2B: Five Facts to Remember About Antenna Grounding</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rising-tide-of-cloud-technology-vs-the-steady-ground-of-on-premise-systems-nextgentech-trends/"><u>The Rising Tide of Cloud Technology Vs. The Steady Ground of On-Premise Systems | NextGenTech Trends</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-11-indispensable-windows-and-macos-programs-you-should-know-about-insights-from-zdnet/"><u>Top 11 Indispensable Windows & macOS Programs You Should Know About - Insights From ZDNet</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-premium-video-converter-tiktok-to-mp4-without-watermarks/"><u>[New] In 2024, Premium Video Converter TikTok to MP4 without Watermarks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-gopro-and-ghost-s-face-off-in-racing-realities/"><u>[Updated] 2024 Approved GoPro and Ghost-S Face Off in Racing Realities</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-communication-enhancing-rocketchat-functionality-through-app-add-ons/"><u>Boost Your Communication: Enhancing Rocket.Chat Functionality Through App Add-Ons</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybersecurity-breakthroughs-with-ai-how-leading-experts-envision-defeating-digital-threats-zdnet/"><u>Cybersecurity Breakthroughs with AI: How Leading Experts Envision Defeating Digital Threats | ZDNet</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/get-into-a-friends-live-showcase-effortlessly/"><u>Get Into a Friend's Live Showcase Effortlessly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-citizen-devops-revolutionize-workload-management-in-corporate-it-systems/"><u>How Citizen DevOps Revolutionize Workload Management in Corporate IT Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-picshot-simplifies-creative-photo-collage-creation/"><u>How Picshot Simplifies Creative Photo Collage Creation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionize-user-interaction-using-xr-virtual-replicas-and-immersive-computing-a-strategic-enterprise-handbook-zdnet/"><u>Revolutionize User Interaction Using XR, Virtual Replicas, and Immersive Computing: A Strategic Enterprise Handbook [ZDNET]</u></a></li>
+<li><a href="https://techidaily.com/sony-xperia-5-v-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Sony Xperia 5 V Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/syncing-icloud-notebooks-with-linux-a-step-by-step-guide/"><u>Syncing iCloud Notebooks with Linux: A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-secure-enterprise-deployments-with-canonicals-distroless-linux-solutions-cybertechdaily/"><u>The Future of Secure Enterprise Deployments with Canonical's Distroless Linux Solutions | CyberTechDaily</u></a></li>
 </ul></div>
 

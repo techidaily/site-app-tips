@@ -1,7 +1,7 @@
 ---
 title: "Auto-Enabled Security for Half a Billion: Google's Bold Move to Protect Users with Mandatory 2FA"
-date: 2024-12-30T01:12:27.837Z
-updated: 2025-01-02T20:26:20.570Z
+date: 2024-12-31T08:35:44.374Z
+updated: 2025-01-03T09:24:36.857Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ Google [has auto enrolled](https://blog.google/technology/safety-security/reduci
 The initiative also involved requiring 2 million YouTube users to enable it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google
@@ -79,22 +79,16 @@ Google [announced](https://www.zdnet.com/article/by-end-of-2021-google-plans-to-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-crafting-online-fame-essential-instagram-tips-for-star-status/"><u>[New] Crafting Online Fame Essential Instagram Tips for Star Status</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ghostly-lens-takedown-reviews/"><u>[New] Ghostly Lens Takedown Reviews</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-channel-upgrade-made-simple-embrace-tubebuddy-techniques/"><u>[Updated] 2024 Approved Channel Upgrade Made Simple - Embrace TubeBuddy Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-sms-automation-tools-top-10-applications-for-android-and-ios-devices/"><u>Best SMS Automation Tools: Top 10 Applications for Android & iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-top-10-iphone-applications-for-creating-stunning-gif-graphics/"><u>Best Top 10 iPhone Applications for Creating Stunning GIF Graphics</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-5-handheld-free-gba-emulators-and-start-enjoying-pokemon-mario-and-more/"><u>Discover the Top 5 Handheld-Free GBA Emulators and Start Enjoying Pokémon, Mario & More!</u></a></li>
-<li><a href="https://fox-info.techidaily.com/ideal-starter-accessories-for-gopro-newbies-for-2024/"><u>Ideal Starter Accessories for GoPro Newbies for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-navigating-the-thrilling-world-of-drone-racing-and-premium-fpv-units/"><u>In 2024, Navigating the Thrilling World of Drone Racing & Premium FPV Units</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-6s-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone 6s</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-videos-discover-leading-mobile-apps-including-kinemaster-for-superior-editing-tools/"><u>Master Your Videos: Discover Leading Mobile Apps Including KineMaster for Superior Editing Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-emoji-use-in-android-a-step-by-step-tutorial/"><u>Mastering Emoji Use in Android - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/most-effective-iphone-surveillance-software-your-ultimate-guide-to-discreet-monitoring-tools/"><u>Most Effective iPhone Surveillance Software: Your Ultimate Guide to Discreet Monitoring Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-picture-in-picture-mode-with-ease-in-microsoft-edge/"><u>Navigating Picture-In-Picture Mode with Ease in Microsoft Edge</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-choice-affordable-samsung-mp3-players-compatible-with-galaxy-s8-s9-and-pcs-both-free-and-premium-options-available/"><u>Top Choice Affordable Samsung MP3 Players: Compatible with Galaxy S8, S9 & PCs [Both Free & Premium Options Available]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-choosing-the-best-app-to-check-if-your-android-is-rooted/"><u>Ultimate Guide: Choosing the Best App to Check if Your Android Is Rooted</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-top-3-must-have-features-of-the-new-iphone-16-ready-to-elevate-your-tech-experience-insights-from-zdnet/"><u>Unveiling Top 3 Must-Have Features of the New iPhone 16: Ready to Elevate Your Tech Experience? - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/online-flvogv-movavi/"><u>무료 Online FLV/OGV 변환 소프트웨어 - Movavi의 최신 방법을 배우세요!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premiere-reviews-exploring-the-best-8k-cameras/"><u>[Updated] 2024 Approved Premiere Reviews Exploring the Best 8K Cameras</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-share-your-video-vision-youtube-to-facebook-guide-2024/"><u>[Updated] Share Your Video Vision YouTube to Facebook Guide 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/effiziente-tricks-zum-speichern-ihrer-fotos-aus-google-photos-in-der-icloud-kostenlos/"><u>Effiziente Tricks Zum Speichern Ihrer Fotos Aus Google Photos in Der iCloud Kostenlos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/half-price-savings-on-keeper-password-saver-secure-your-accounts-with-a-50-discount-techtoday/"><u>Half-Price Savings on Keeper Password Saver: Secure Your Accounts with a 50% Discount | TechToday</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-restore-or-replace-msvcr71dll-a-comprehensive-guide/"><u>How To Correctly Restore or Replace MSVCR71.dll: A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-1password-assessment-superior-secure-password-handling-at-an-unbeatable-price-point-tech-insights/"><u>In-Depth 1Password Assessment: Superior, Secure Password Handling at an Unbeatable Price Point | Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-passwords-with-dashlane-pro-exclusive-3-month-free-offer-available-here-via-zdnet/"><u>Secure Your Passwords with Dashlane Pro: Exclusive 3-Month Free Offer Available Here via ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/security-champions-earn-big-bugcrowd-raises-bounty-ceiling-to-1m-what-zdnet-reports-on-cybersecurity-incentives/"><u>Security Champions Earn Big: Bugcrowd Raises Bounty Ceiling to $1M – What ZDNET Reports on Cybersecurity Incentives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-giant-1password-achieves-unprecedented-growth-with-62n-million-funding-round-boost-zdnet-exclusives/"><u>Tech Giant 1Password Achieves Unprecedented Growth with $62N Million Funding Round Boost | ZDNET Exclusives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44k544ox44o844oz44gu5q2j44gx44ge6kiy6yyy44go6yyy6zplusz5oml5rov44gr44gk44ge44gm5a2m44g2ic0g5yq55p6c55qe44gq44og44kv44ol44od44kv/"><u>スプーンの正しい記録と録音手法について学ぶ - 効果的なテクニック</u></a></li>
 </ul></div>
 

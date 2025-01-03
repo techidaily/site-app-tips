@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Next Move: The Development of an Enhanced Security Operating System for AI Infrastructure"
-date: 2024-12-23T00:43:21.121Z
-updated: 2024-12-24T21:51:40.423Z
+date: 2024-12-29T20:18:13.902Z
+updated: 2025-01-03T05:07:35.263Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,16 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-minimizing-motion-blur-with-obs-adjustments/"><u>[New] In 2024, Minimizing Motion Blur with OBS Adjustments</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-financial-rewards-top-priorities-for-open-source-professionals-seeking-new-opportunities/"><u>Beyond Financial Rewards: Top Priorities for Open-Source Professionals Seeking New Opportunities</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/diagnosing-power-issues-in-your-printer-expert-tips-from-yl-software-experts/"><u>Diagnosing Power Issues in Your Printer - Expert Tips From YL Software Experts</u></a></li>
-<li><a href="https://facebook.techidaily.com/digital-democracy-decisions-valid-banning-of-trump-short-term-strategy/"><u>Digital Democracy Decisions: Valid Banning of Trump, Short-Term Strategy</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/live-streaming-made-easy-discover-the-power-of-manycam-your-ultimate-virtual-webcam-solution/"><u>Live Streaming Made Easy: Discover the Power of ManyCam - Your Ultimate Virtual Webcam Solution</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-resolving-problems-with-epic-games-launcher-access/"><u>Step-by-Step Guide: Resolving Problems with Epic Games Launcher Access</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-professionals-drained-yet-hopeful-positive-trends-from-zdnet-analysis/"><u>Tech Professionals Drained Yet Hopeful: Positive Trends From ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-professional-screen-recorders-for-2nite-expert-analysis-from-zdnet/"><u>The Ultimate List of Professional Screen Recorders for 2Nite: Expert Analysis From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfreezing-frozen-windows-run-logs/"><u>Unfreezing Frozen Windows Run Logs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-windows-essential-tips-for-upgrading-to-a-pro-edition-with-zdnets-expert-advice/"><u>Unlocking the Power of Windows: Essential Tips for Upgrading to a Pro Edition with ZDNet's Expert Advice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/what-drives-open-source-talent-unveiling-the-essential-non-monetary-wants-in-their-job-quest-zdnet/"><u>What Drives Open-Source Talent? Unveiling the Essential Non-Monetary Wants in Their Job Quest | ZDNET</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-a-complete-walkthrough-of-vlc-capture-settings/"><u>[New] 2024 Approved A Complete Walkthrough of VLC Capture Settings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-secrets-revealed-a-detailed-look-at-google-podcasting/"><u>[New] 2024 Approved Secrets Revealed A Detailed Look at Google Podcasting</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treamlining-visual-storytelling-with-youtube-videos-for-2024/"><u>[New] Streamlining Visual Storytelling with YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-srt-integration-in-mp4s-a-complete-blueprint/"><u>[Updated] Mastering SRT Integration in MP4s A Complete Blueprint</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-master-your-amazon-firestick-and-its-remote-control/"><u>Easy Steps to Master Your Amazon Firestick and Its Remote Control</u></a></li>
+<li><a href="https://app-tips.techidaily.com/juniper-networks-enhances-security-with-new-cloud-based-firewall-in-unified-secure-access-service-edge-portfolio/"><u>Juniper Networks Enhances Security with New Cloud-Based Firewall in Unified Secure Access Service Edge Portfolio</u></a></li>
+<li><a href="https://app-tips.techidaily.com/latest-features-in-libreoffice-and-easy-macos-installation-guide-insights-from-zdnet/"><u>Latest Features in LibreOffice & Easy macOS Installation Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mcafee-introduces-revolutionary-ai-tool-against-deepfakes-assessing-its-trustworthiness/"><u>McAfee Introduces Revolutionary AI Tool Against Deepfakes – Assessing Its Trustworthiness</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-faces-time-sensitive-dilemma-over-windows-10-in-just-one-year-insights-from-zdnet-coverage/"><u>Microsoft Faces Time-Sensitive Dilemma Over Windows 10 in Just One Year - Insights From ZDNET Coverage</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/most-effective-software-options-for-adding-onyx-backdrops-to-images-in-213/"><u>Most Effective Software Options for Adding Onyx Backdrops to Images in 2^13</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/izing-video-content-with-perfect-youtube-titles-for-2024/"><u>Optimizing Video Content with Perfect YouTube Titles for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-impact-of-the-russian-ukrainian-conflict-on-global-tech-sector-insights-from-zdnet/"><u>The Impact of the Russian-Ukrainian Conflict on Global Tech Sector | Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultra-stable-linux-kernel-the-long-haul-solution-released-insights-from-zdnet/"><u>Ultra-Stable Linux Kernel: The Long-Haul Solution Released - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-potential-with-artificial-intelligence-learn-how-81-increase-in-workforce-productivity-can-be-achieved-expert-tips-by-zdnet/"><u>Unleashing Potential with Artificial Intelligence: Learn How 81% Increase in Workforce Productivity Can Be Achieved | Expert Tips by ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-with-tom-a-hardware-perspective/"><u>Unveiling New Gadgets with Tom - A Hardware Perspective</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Digital Keykeeper: Essential Steps for Safer Password Management | ZDNet"
-date: 2024-12-28T22:28:32.564Z
-updated: 2025-01-02T18:42:36.143Z
+date: 2024-12-27T06:00:29.633Z
+updated: 2025-01-03T03:24:33.441Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ Creating and remembering a unique and complex password for each of your accounts
 A good password manager will create, store, and apply strong and complex passwords across the board, thereby securing your accounts. I've used a password manager for years and wouldn't be able to juggle all my online accounts without it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -46,7 +46,7 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -66,7 +66,7 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -90,7 +90,7 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -139,21 +139,16 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-how-to-make-tiktok-dance-on-mac/"><u>[New] How to Make TikTok Dance on Mac</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-guardians-of-the-most-watched-youtube-edition/"><u>[New] In 2024, Guardians of the Most Watched YouTube Edition</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-revolutionize-your-facebook-experience-with-auto-play-videos-for-2024/"><u>[New] Revolutionize Your Facebook Experience with Auto-Play Videos for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-smartphone-intro-maker-tools-choosing-the-right-one-for-2024/"><u>[Updated] Smartphone Intro Maker Tools Choosing the Right One for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-video-freedom-top-8-tools-transforming-youtube-into-avis-for-2024/"><u>[Updated] Video Freedom Top 8 Tools Transforming YouTube Into Avis for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723809009233-cant-find-that-elusive-document-on-your-pc-master-these-tips-to-easily-locate-any-file/"><u>Can't Find That Elusive Document on Your PC? Master These Tips to Easily Locate Any File</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-robust-ai-watermark-techniques-with-insights-from-zdnet/"><u>Discover Robust AI Watermark Techniques with Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-guide-pathways-to-becoming-an-ai-leadership-executive-in-tech-companies/"><u>Essential Guide: Pathways to Becoming an AI Leadership Executive in Tech Companies</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-file-explorer-freezing-issues-on-windows-10/"><u>Fixes for File Explorer Freezing Issues on Windows 10</u></a></li>
-<li><a href="https://app-tips.techidaily.com/full-featured-expansion-toggle-effortless-navigation-across-social-media-platforms-like-facebook-linkedin-and-youtube-with-quick-scroll-to-top-option/"><u>Full-Featured Expansion Toggle: Effortless Navigation Across Social Media Platforms Like Facebook, LinkedIn & YouTube with Quick 'Scroll To Top' Option</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ssing-youtubes-true-potential-in-studio/"><u>Harnessing YouTube's True Potential in Studio</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-downloading-and-altering-whatsapp-ringtone-files/"><u>How-To Downloading and Altering WhatsApp Ringtone Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/instantaneous-installation-laugh-with-ifunny-memes-easily/"><u>Instantaneous Installation Laugh with iFunny Memes Easily</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-new-horizons-in-business-search-solutions-the-evolution-post-copernic-era/"><u>Navigating New Horizons in Business Search Solutions - The Evolution Post-Copernic Era</u></a></li>
-<li><a href="https://app-tips.techidaily.com/optimize-your-search-with-date-and-file-type-filters-a-guide-to-superior-finds-using-copernic/"><u>Optimize Your Search with Date and File Type Filters: A Guide to Superior Finds Using Copernic</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-primary-interface-of-copernic-software-an-in-depth-walkthrough/"><u>Understanding the Primary Interface of Copernic Software: An In-Depth Walkthrough</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-insiders-guide-to-instagram-stories-magic-for-2024/"><u>[New] The Ultimate Insider's Guide to Instagram Stories Magic for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-adjust-your-timeline-facebook-look-back-guide/"><u>2024 Approved Adjust Your Timeline Facebook Look Back Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-becoming-a-youtube-star-utilizing-the-power-of-featured-channels/"><u>2024 Approved Becoming a Youtube Star Utilizing the Power of Featured Channels</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/efficiently-recording-your-xbox-adventures/"><u>Efficiently Recording Your Xbox Adventures</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-8-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 8? How to Fix</u></a></li>
+<li><a href="https://app-tips.techidaily.com/locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-iphone-photo-syncing-strategies-with-icloud-discover-these-4-effective-techniques/"><u>Seamless iPhone Photo Syncing Strategies with iCloud - Discover These 4 Effective Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-steps-access-your-icloud-images-from-anywhere/"><u>Simple Steps: Access Your iCloud Images From Anywhere</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-icloud-photo-sharing-issues-on-iphone-ipad-and-mac-a-comprehensive-guide/"><u>Solving iCloud Photo Sharing Issues on iPhone, iPad & Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-viewing-icloud-saved-passwords-on-ios-devices-and-computers/"><u>Step-by-Step Tutorial: Viewing iCloud Saved Passwords on iOS Devices & Computers</u></a></li>
 </ul></div>
 

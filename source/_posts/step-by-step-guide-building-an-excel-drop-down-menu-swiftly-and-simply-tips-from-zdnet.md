@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Building an Excel Drop-Down Menu Swiftly & Simply - Tips From ZDNet"
-date: 2024-12-27T19:28:53.651Z
-updated: 2025-01-03T04:56:00.359Z
+date: 2024-12-28T17:28:24.700Z
+updated: 2025-01-02T21:46:03.601Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-exploring-the-finest-no-cost-video-editing-software/"><u>[New] 2024 Approved Exploring the Finest No-Cost Video Editing Software</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-privacy-tip-remove-spotifys-auto-podcast-suggestions/"><u>[New] 2024 Approved Privacy Tip Remove Spotify's Auto-Podcast Suggestions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-retrospective-graphics-radeons-reprise/"><u>[New] 2024 Approved Retrospective Graphics Radeon's Reprise</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-echo-your-thoughts-cost-included-not-here/"><u>[Updated] 2024 Approved Echo Your Thoughts, Cost Included? Not Here</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-decoding-windows-10-imports-a-deep-dive-into-file-transfer/"><u>[Updated] In 2024, Decoding Windows 10 Imports A Deep Dive Into File Transfer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-seamless-integration-setting-up-email-in-your-onlyoffice-environment-tips-and-tricks/"><u>1. Seamless Integration: Setting Up Email in Your ONLYOFFICE Environment - Tips & Tricks</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-downloading-the-latest-insta-reels-two-ways-to-go/"><u>2024 Approved Downloading the Latest Insta Reels, Two Ways to Go</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726226583343-m4a-mp3/"><u>無償で安全な M4A から MP3 へのオンライン変換ツール</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-hottest-tech-skills-best-platforms-for-mastering-key-programming-languages-now/"><u>Discover the Hottest Tech Skills: Best Platforms for Mastering Key Programming Languages Now</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nokia-c110-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nokia C110 to iPad | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-video-trimming-and-editing-with-precision-learn-how-from-movavi/"><u>Mastering the Art of Video Trimming and Editing with Precision - Learn How From Movavi</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamlessly-share-your-iphone-pictures-with-your-windows-computer-a-comprehensive-tutorial/"><u>Seamlessly Share Your iPhone Pictures with Your Windows Computer: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-servicenows-four-fundamental-ai-concepts-impactful-insights-for-modern-enterprises/"><u>Understanding ServiceNow's Four Fundamental AI Concepts: Impactful Insights for Modern Enterprises</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-professional-streaming-boost-unveiling-best-9-live-stream-filters/"><u>[New] Professional Streaming Boost Unveiling Best 9 Live-Stream Filters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-best-free-facetime-for-android-alternatives-for-2024/"><u>[New] Top 10 Best Free FaceTime for Android Alternatives for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-high-quality-banners-free-for-content-developers/"><u>[Updated] In 2024, Harness High-Quality Banners – Free for Content Developers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-telegram-for-novices-an-easy-path-to-effective-advertising/"><u>[Updated] In 2024, Telegram for Novices An Easy Path to Effective Advertising</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-funimate-tips-and-tricks-for-professional-video-editing-and-animation/"><u>Comprehensive Guide to Using Funimate: Tips and Tricks for Professional Video Editing and Animation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortlessly-resolve-freezes-discover-5-steps-to-force-quit-unresponsive-programs-on-your-mac/"><u>Effortlessly Resolve Freezes: Discover 5 Steps to Force Quit Unresponsive Programs on Your Mac</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-diablo-3-continuously-freezing-and-restarting-issues/"><u>Fixes for 'Diablo 3 Continuously Freezing and Restarting' Issues</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/670802-9781846947308-healing-this-wounded-earth/"><u>Healing This Wounded Earth | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-get-your-phone-numbers-back-the-best-iphone-apps-reviewed/"><u>How to Get Your Phone Numbers Back: The Best iPhone Apps Reviewed</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/optimizing-your-videos-before-transferring-them-onto-a-dvd-expert-tips-and-tricks/"><u>Optimizing Your Videos Before Transferring Them Onto a DVD - Expert Tips and Tricks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-communication-across-devices-magicapps-cross-platform-calls-and-texting/"><u>Seamless Communication Across Devices: MagicApp's Cross-Platform Calls and Texting</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-disconnecting-from-facebooks-chat-app/"><u>Step-by-Step Guide: Disconnecting From Facebook's Chat App</u></a></li>
 </ul></div>
 

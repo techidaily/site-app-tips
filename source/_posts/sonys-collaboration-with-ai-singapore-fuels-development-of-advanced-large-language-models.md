@@ -1,7 +1,7 @@
 ---
 title: Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models
-date: 2025-01-01T17:26:25.913Z
-updated: 2025-01-02T16:12:46.429Z
+date: 2024-12-27T03:28:09.705Z
+updated: 2025-01-02T22:45:48.551Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-diy-youtube-thumbnails-made-simple/"><u>[New] 2024 Approved DIY YouTube Thumbnails Made Simple</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unison-video-visionaries-finding-your-cms/"><u>[New] 2024 Approved Unison Video Visionaries Finding Your CMS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ideal-slide-show-apps-from-iphone-6-to-xs-max/"><u>[Updated] Ideal Slide Show Apps From iPhone 6 to XS Max</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-unveiling-professional-techniques-for-aps-hdr-creation/"><u>[Updated] Unveiling Professional Techniques for APS HDR Creation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/combine-your-passion-for-music-and-exercise-on-the-go-with-the-garmin-vivoactive-3-tracker/"><u>Combine Your Passion for Music and Exercise on the Go with the Garmin Vivoactive 3 Tracker</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/gaomon-pd1560-pen-display-critique-a-review-for-artists-and-designers/"><u>Gaomon PD1560 Pen Display Critique - A Review for Artists and Designers</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/instant-fix-troubleshooting-missing-picture-problems-in-iphones/"><u>Instant Fix: Troubleshooting Missing Picture Problems in iPhones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linux-defenses-tighten-with-oins-latest-patent-protection-boost-ai-remains-uncovered-zdnet-expands/"><u>LINUX DEFENSES TIGHTEN WITH OIN'S LATEST PATENT PROTECTION BOOST (AI REMAINS UNCOVERED) | ZDNET EXPANDS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-battlefield-5-experience-overcome-lag-using-this-essential-checklist/"><u>Master the Battlefield 5 Experience - Overcome Lag Using This Essential Checklist</u></a></li>
-<li><a href="https://app-tips.techidaily.com/save-big-get-your-hands-on-ashampoos-3d-cad-pro-software-at-a-steal-just-40-today/"><u>Save Big: Get Your Hands on Ashampoo's 3D CAD Pro Software at a Steal - Just $40 Today!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-3a-antenna-radiation-patterns-and-design-principles/"><u>Section 3A: Antenna Radiation Patterns and Design Principles</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-crafting-a-reliable-recovery-drive-for-your-pc-expert-advice-from-zdnet/"><u>Step-by-Step Guide: Crafting a Reliable Recovery Drive for Your PC - Expert Advice From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-complexities-of-implementing-generative-ai-in-corporations-revealed-by-deloitte-survey-zdnet/"><u>The Complexities of Implementing Generative AI in Corporations Revealed by Deloitte Survey | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-secure-encryption-apps-of-2022-to-safeguard-your-information-insights-by-zdnet/"><u>Top Secure Encryption Apps of 2022 to Safeguard Your Information - Insights by ZDNet</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-send-local-videos-to-chromecast-easy-setup-for-windows-mac-android-and-ios/"><u>Updated 2024 Approved Send Local Videos to Chromecast Easy Setup for Windows, Mac, Android, and iOS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-soundwave-success-adding-audio-to-your-instastory-for-2024/"><u>[New] Soundwave Success Adding Audio to Your InstaStory for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-secure-and-simple-step-by-step-for-google-meet-recordings/"><u>[Updated] 2024 Approved Secure and Simple Step-by-Step for Google Meet Recordings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-seamless-file-transition-youtube-to-mp4-high-definition-upgrade-included/"><u>[Updated] Seamless File Transition YouTube to MP4, High-Definition Upgrade Included</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-premiere-previews-extravaganza/"><u>2024 Approved Premiere Previews Extravaganza</u></a></li>
+<li><a href="https://app-tips.techidaily.com/authentic-evaluation-discovering-the-power-of-lightcut-ai-video-editing-app-on-android-and-ios/"><u>Authentic Evaluation: Discovering the Power of LightCut AI Video Editing App on Android and iOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-app-lock-replacements-for-android-the-top-10-picks/"><u>Best App Lock Replacements for Android : The Top 10 Picks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bridging-the-gap-tethering-your-mobile-data-to-an-amazon-fire-tv-stick-easily/"><u>Bridging the Gap: Tethering Your Mobile Data to an Amazon Fire TV Stick Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bug-fix-announced-overcoming-league-of-legends-login-loophole-update-2024-edition/"><u>Bug Fix Announced: Overcoming League of Legends Login Loophole Update - 2024 Edition</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-full-simplemdm-essential-insights-for-ios-and-macos-users/"><u>Comprehensive Evaluation: Full SimpleMDM - Essential Insights for iOS and macOS Users</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/expert-guide-to-boosting-pc-performance-by-yl-software/"><u>Expert Guide to Boosting PC Performance by YL Software</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/google-nest-hub-gen-2-evaluation-wishing-for-a-built-in-camera-option/"><u>Google Nest Hub (Gen 2) Evaluation: Wishing for a Built-In Camera Option</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-cyberlinks-actiondirector-features-benefits-and-competitors/"><u>In-Depth Analysis of CyberLink's ActionDirector: Features, Benefits & Competitors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-magisto-video-software-advantages-limitations-and-comparative-assessment/"><u>In-Depth Analysis of Magisto Video Software: Advantages, Limitations & Comparative Assessment</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-messaging-schedulers-reviewed-discover-the-top-10-picks-for-smartphones/"><u>Leading Messaging Schedulers Reviewed: Discover the Top 10 Picks for Smartphones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lg-360-degree-headset-review-next-gen-immersion-for-2024/"><u>LG 360-Degree Headset Review - Next-Gen Immersion for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/shadow-spectators-on-ig-uncover-the-ultimate-list-of-incognito-gazers-for-content-sneak-peeks/"><u>Shadow Spectators on IG: Uncover the Ultimate List of Incognito Gazers for Content Sneak Peeks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simplified-approach-to-retrieve-lost-apps-from-your-ios-device/"><u>Simplified Approach to Retrieve Lost Apps From Your iOS Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-for-iphone-photo-import-error-on-windows-pc/"><u>Troubleshooting for iPhone Photo Import Error on Windows PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-youcut-software-for-your-business-needs-the-complete-analysis/"><u>Unveiling the Power of YouCut Software for Your Business Needs - The Complete Analysis</u></a></li>
 </ul></div>
 

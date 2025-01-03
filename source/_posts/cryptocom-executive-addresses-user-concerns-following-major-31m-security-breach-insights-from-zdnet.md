@@ -1,7 +1,7 @@
 ---
 title: Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet
-date: 2024-12-29T22:03:10.457Z
-updated: 2025-01-02T16:02:24.029Z
+date: 2024-12-29T09:06:47.539Z
+updated: 2025-01-03T05:53:29.794Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Crypto.com CEO Kris Marszalek responded to complaints from thousands of users about issues logging back into their accounts after the company was [forced](https://crypto.com/product-news/crypto-com-security-report-next-steps) to change security settings following [a hack last week](https://www.zdnet.com/article/fortune-favours-the-breached-crypto-com-admits-400-users-hit-in-hack/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Crypto.com CEO Kris Marszalek responded to complaints from thousands of users ab
 [![cybersecurity-lock-resized.jpg](https://www.zdnet.com/a/img/resize/5871b5ae5b589728bdc8064555d12823acf4b63e/2020/10/27/db3c0325-2b86-435b-8efa-93828deb6b56/cybersecurity-lock-resized.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best cyber insurance The cyber insurance industry is likely to go mainstream and is a simple cost of doing business. Here are a few options to consider.  Read now](https://www.zdnet.com/article/best-cyber-insurance/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On Monday, the company [admitted](https://www.zdnet.com/article/crypto-com-confirms-483-users-hit-in-attack-that-saw-over-31m-in-coins-withdrawn/) that 483 users were affected by unauthorized cryptocurrency withdrawals on their accounts, costing a total of "4,836.26 ETH, 443.93 BTC, and approximately US$66,200 in other cryptocurrencies." At the time of the attack, that amounted to about $31 million. 
@@ -80,16 +80,20 @@ Crypto.com created a program designed to refund users who were affected by the h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/he-pathway-to-smart-youtube-frames-free-methods-inside/"><u>[New] The Pathway to Smart YouTube Frames (Free Methods Inside!)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-affordable-mcb-theme-images-for-channels/"><u>2024 Approved Affordable MCB Theme Images for Channels</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/captivate-with-these-14-astonishing-text-animations/"><u>Captivate with These 14 Astonishing Text Animations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/decrease-ambience-tunes-windowsapple-compatible/"><u>Decrease Ambience Tunes Windows/Apple Compatible</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-realme-c67-4g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Realme C67 4G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-smart-7-hd-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Infinix Smart 7 HD Lock Screen Password?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-and-easy-ways-to-speed-up-a-lagging-keyboard-response/"><u>Quick & Easy Ways to Speed Up a Lagging Keyboard Response</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-steps-access-your-icloud-images-from-anywhere/"><u>Simple Steps: Access Your iCloud Images From Anywhere</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-icloud-photo-sharing-issues-on-iphone-ipad-and-mac-a-comprehensive-guide/"><u>Solving iCloud Photo Sharing Issues on iPhone, iPad & Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-securely-syncing-your-ipad-pro-mini-and-air-with-icloud-backups/"><u>Step-by-Step Guide: Securely Syncing Your iPad Pro, Mini & Air with iCloud Backups</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-battle-of-the-titans-gopro-hero4-black-versus-drift-ghost-s/"><u>[New] Battle of the Titans GoPro Hero4 Black Versus Drift Ghost-S</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-enigma-of-stardew-valley-unearthed-on-ginger-island/"><u>[New] The Enigma of Stardew Valley, Unearthed on Ginger Island</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ethical-download-strategies-for-youtube-to-mp4-files-for-2024/"><u>[Updated] Ethical Download Strategies for YouTube to MP4 Files for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-apples-podcast-potential-an-instructional-guide/"><u>[Updated] Unlocking Apple's Podcast Potential An Instructional Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-lava-agni-2-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lava Agni 2 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-cinematic-capture-tool/"><u>In 2024, Facebook Cinematic Capture Tool</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-game-ahead-with-funimates-easy-apk-instructions/"><u>In 2024, Game Ahead with Funimate's Easy APK Instructions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-tecno-camon-20-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Tecno Camon 20 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/latest-breakthroughs-in-5g-and-edge-tech-top-5-trends-you-cant-ignore-insights-from-zdnet/"><u>Latest Breakthroughs in 5G & Edge Tech: Top 5 Trends You Can't Ignore - Insights From ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/master-tagalog-quickly-with-minimal-daily-commitment/"><u>Master Tagalog Quickly with Minimal Daily Commitment</u></a></li>
+<li><a href="https://app-tips.techidaily.com/performance/"><u>Performance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-elevating-your-windows-home-edition-to-pro-benefits-unveiled/"><u>Step-by-Step Guide: Elevating Your Windows Home Edition to Pro - Benefits Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-the-chaos-organizing-linux-and-open-source-resources-effectively-the-ultimate-fix/"><u>Taming the Chaos: Organizing Linux & Open Source Resources Effectively - The Ultimate Fix</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-trends-unveiled-the-revival-and-growing-appeal-of-openstack-with-kata-containers-zdnet/"><u>Tech Trends Unveiled: The Revival and Growing Appeal of OpenStack with Kata Containers | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-current-state-of-cloud-computing-and-persisting-challenges-with-on-premise-systems/"><u>The Current State of Cloud Computing & Persisting Challenges with On-Premise Systems.</u></a></li>
 </ul></div>
 

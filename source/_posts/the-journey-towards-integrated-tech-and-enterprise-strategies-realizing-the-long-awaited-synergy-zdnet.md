@@ -1,7 +1,7 @@
 ---
 title: "The Journey Towards Integrated Tech and Enterprise Strategies: Realizing the Long-Awaited Synergy | ZDNET"
-date: 2024-12-22T04:23:54.180Z
-updated: 2024-12-24T20:25:47.845Z
+date: 2024-12-31T17:42:53.018Z
+updated: 2025-01-02T22:57:52.712Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-decoding-digital-dazzle-an-initial-journey-into-video-standards/"><u>[New] 2024 Approved Decoding Digital Dazzle An Initial Journey Into Video Standards</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-elite-highlight-extravaganza-iosandroid-instagram-coverage-tools/"><u>2024 Approved Elite Highlight Extravaganza IOS/Android Instagram Coverage Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-xiaomi-14-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Xiaomi 14 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/achieving-excellence-in-agile-software-engineering-unveiling-the-6-key-principles-for-a-thriving-design-process/"><u>Achieving Excellence in Agile Software Engineering: Unveiling the 6 Key Principles for a Thriving Design Process</u></a></li>
-<li><a href="https://app-tips.techidaily.com/anticipating-windows-12-release-latest-updates-and-unexpected-forecasts-techinsights/"><u>Anticipating Windows 12 Release: Latest Updates & Unexpected Forecasts | TechInsights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-development-process-with-generative-ai-tips-for-success-and-potential-hazards/"><u>Boost Your Development Process with Generative AI - Tips for Success & Potential Hazards</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-vivaldis-new-inbuilt-email-application-a-marvel-of-efficiency-and-style-tech-insights/"><u>Discover Vivaldi’s New Inbuilt Email Application: A Marvel of Efficiency and Style | Tech Insights</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975899064-forest-fire-control-including-water-bombing/"><u>Forest Fire Control (Including Water Bombing)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-m14-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy M14 5G FRP Locks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-proven-palette-changes-methods/"><u>In 2024, Proven Palette Changes Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/organizing-chaos-a-guide-to-streamlining-linux-and-open-source-docs/"><u>Organizing Chaos: A Guide to Streamlining Linux & Open Source Docs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-get-your-epson-xp-830-up-and-running-with-driver-installation-made-simple/"><u>Step-by-Step Tutorial: Get Your Epson XP-830 Up and Running with Driver Installation Made Simple</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/swapping-streams-saving-songs-cross-service-shuffling/"><u>Swapping Streams, Saving Songs Cross-Service Shuffling</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleashing-corporate-potential-through-ai-discover-anthropics-claude-for-scalable-innovation/"><u>Unleashing Corporate Potential Through AI: Discover Anthropic's Claude for Scalable Innovation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/work-seamlessly-offline-on-onedrive-manage-your-documents-even-in-rural-locations-as-featured-by-zdnet/"><u>Work Seamlessly Offline on OneDrive - Manage Your Documents Even in Rural Locations, as Featured by ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-5-critical-equipment-items-to-start-your-channel-right/"><u>[New] 2024 Approved 5 Critical Equipment Items to Start Your Channel Right</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-sync-up-to-share-live-moments-on-tiktok/"><u>[New] Sync Up to Share Live Moments on TikTok</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-evolution-continues-iphone-xs-photographic-advancements/"><u>[Updated] 2024 Approved The Evolution Continues IPhone X's Photographic Advancements</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/10-indispensable-instagram-video-editing-apps-for-marketers-for-2024/"><u>10 Indispensable Instagram Video Editing Apps for Marketers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastermind-knowledge-capture-via-mematics-app/"><u>2024 Approved Mastermind Knowledge Capture via Mematic's App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opusmp3movavi/"><u>完全無料でオンラインでOPUSからMP3に簡単変換！Movaviで楽しめますように</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beware-latest-microsoft-upgrade-could-worsen-after-hours-stress-insights-from-zdnet/"><u>Beware: Latest Microsoft Upgrade Could Worsen After-Hours Stress - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-lightspeed-on-openshift-the-intelligent-ai-companion-for-your-kubernetes-clusters-zdnet/"><u>Discover Lightspeed on OpenShift – The Intelligent AI Companion for Your Kubernetes Clusters | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-tech-teams-to-enhance-customer-journey-insights-from-zdnet/"><u>Empowering Tech Teams to Enhance Customer Journey - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experts-choose-the-leading-network-surveillance-software-comprehensive-review-and-selection-guide-techinsight/"><u>Experts Choose the Leading Network Surveillance Software : Comprehensive Review and Selection Guide | TechInsight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-rising-popularity-of-rust-and-importance-of-linux-kernel-in-modern-computing/"><u>Linus Torvalds Discusses Rising Popularity of Rust & Importance of Linux Kernel in Modern Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prepare-for-windows-10-eol-explore-five-essential-upgrades-or-migrations-options-now-zdnet-insights/"><u>Prepare for Windows 10 EOL: Explore Five Essential Upgrades or Migrations Options Now | ZDNet Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-note-13-pro-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi Note 13 Pro 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ess-channel-transitions-with-customized-end-screens-for-2024/"><u>Seamless Channel Transitions with Customized End Screens for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-4c-five-qandas-on-advanced-antenna-array-theory/"><u>Section 4C: Five Q&As on Advanced Antenna Array Theory</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-mozilla-firefox-login-credentials-mastering-the-use-of-main-passwords/"><u>Securing Your Mozilla Firefox Login Credentials: Mastering the Use of Main Passwords</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/toggle-off-instagram-tv-feature-for-2024/"><u>Toggle Off Instagram TV Feature for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-recommended-mac-software-insights-from-zdnet/"><u>Top Recommended Mac Software - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-possibilities-developing-individual-pattern-for-pc/"><u>Unlock the Possibilities: Developing Individual Pattern for PC</u></a></li>
 </ul></div>
 

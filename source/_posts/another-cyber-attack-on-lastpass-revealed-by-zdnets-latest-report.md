@@ -1,7 +1,7 @@
 ---
 title: Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report
-date: 2024-12-31T03:23:54.030Z
-updated: 2025-01-02T20:47:56.965Z
+date: 2024-12-28T20:24:44.788Z
+updated: 2025-01-03T11:33:26.156Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,19 +81,19 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-10-top-inspirational-movies-for-personal-power-boosts/"><u>[New] 10 Top Inspirational Movies for Personal Power Boosts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-creative-expression-adding-video-filters-in-zoom/"><u>[New] Mastering Creative Expression Adding Video Filters in Zoom</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-two-screen-triumph-best-recorder-verdict/"><u>[Updated] Two-Screen Triumph Best Recorder Verdict</u></a></li>
-<li><a href="https://app-tips.techidaily.com/alternative-media-players-similar-to-itunes-for-windows-vista-xp-or-7-users/"><u>Alternative Media Players Similar to iTunes for Windows Vista, XP, or 7 Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278038-cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-your-preferred-version-easy-free-downloads-of-both-old-and-new-itunes-for-windows-and-mac/"><u>Get Your Preferred Version: Easy Free Downloads of Both Old and New iTunes for Windows & Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/getting-started-with-itunes-on-windows-operating-systems-a-step-by-step-guide/"><u>Getting Started with iTunes on Windows Operating Systems: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/macbook-air-with-m1-chip-now-at-unbeatable-price-of-649-the-ultimate-deal-on-zdnet/"><u>MacBook Air with M1 Chip Now at Unbeatable Price of $649: The Ultimate Deal on ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-note-30-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix Note 30 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-steps-converting-your-avi-videos-into-apples-itunes-format-for-ios-devices/"><u>Simple Steps: Converting Your AVI Videos Into Apple's iTunes Format for iOS Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211840975-solving-your-pdf-printing-issues-in-seconds/"><u>Solving Your PDF Printing Issues in Seconds!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transferring-your-playlist-to-ipod-sans-itunes-with-aiseesoft/"><u>Step-by-Step Guide: Transferring Your Playlist to iPod Sans iTunes with Aiseesoft</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tracking-the-sharers-of-your-facebook-posts-effective-techniques-unveiled/"><u>Tracking the Sharers of Your Facebook Posts: Effective Techniques Unveiled</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-unleash-your-creativity-top-rated-video-collage-apps-for-iphone-and-ipad/"><u>Updated Unleash Your Creativity Top-Rated Video Collage Apps for iPhone and iPad</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-crafting-professional-visual-narratives-with-lut-usage-in-premiere/"><u>[New] 2024 Approved Crafting Professional Visual Narratives with LUT Usage in Premiere</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-quintessential-vr-cinematic-treasures/"><u>[New] 2024 Approved Quintessential VR Cinematic Treasures</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conquering-consumer-attention-metaverse-marketing-tips/"><u>[Updated] Conquering Consumer Attention Metaverse Marketing Tips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-worldwide-leaders-in-short-video-download-hubs-free/"><u>[Updated] Worldwide Leaders in Short Video Download Hubs (FREE)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieving-synergy-how-tech-and-business-are-finally-joining-forces-today-zdnet/"><u>Achieving Synergy: How Tech & Business Are Finally Joining Forces Today | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-progressive-upgrades-during-artificial-intelligence-revolution-its-pledge-as-featured-on-zdnet/"><u>Embracing Progressive Upgrades During Artificial Intelligence Revolution: IT's Pledge as Featured on ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/immersive-horizon-the-rise-of-virtual-reality/"><u>Immersive Horizon The Rise of Virtual Reality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-imagery-with-these-mobile-montage-leaders/"><u>In 2024, Transform Your Imagery with These Mobile Montage Leaders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-edge-in-hyperconvergence-the-elite-vendors-featured-on-zdnet/"><u>Leading Edge in Hyperconvergence: The Elite Vendors , Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-hybrid-cloud-challenges-with-the-latest-enhancements-of-red-hats-enterprise-linux-distribution/"><u>Mastering Hybrid Cloud Challenges with the Latest Enhancements of Red Hat's Enterprise Linux Distribution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-windows-default-video-chipset/"><u>Removing Windows' Default Video Chipset</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolving-job-landscape-with-ai-how-technology-replaces-and-creates-opportunities-in-training-and-ethics-insights-for-tomorrows-workforce-zdnet/"><u>The Evolving Job Landscape with AI: How Technology Replaces and Creates Opportunities in Training & Ethics | Insights for Tomorrow's Workforce | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-sweet-spot-of-gpu-temperatures-for-games/"><u>The Sweet Spot of GPU Temperatures for Games</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-new-release-of-robust-enduring-linux-kernel-for-extended-lifetime-support/"><u>ZDNet Exclusive: New Release of Robust, Enduring Linux Kernel for Extended Lifetime Support</u></a></li>
 </ul></div>
 

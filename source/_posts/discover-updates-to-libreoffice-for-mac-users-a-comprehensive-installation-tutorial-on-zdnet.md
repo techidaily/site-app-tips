@@ -1,7 +1,7 @@
 ---
 title: Discover Updates to LibreOffice for Mac Users – A Comprehensive Installation Tutorial on ZDNET
-date: 2024-12-20T16:30:40.992Z
-updated: 2024-12-25T03:10:42.358Z
+date: 2024-12-29T11:04:45.785Z
+updated: 2025-01-03T08:19:45.890Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-create-effective-intro-videos-for-your-podcasts/"><u>[Updated] How to Create Effective Intro Videos for Your Podcasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-discover-the-10-best-cookie-places-in-town-with-unbeatable-taste/"><u>[Updated] In 2024, Discover the 10 Best Cookie Places in Town with Unbeatable Taste</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-precise-procedure-for-fusing-gopro-footage-into-comprehensive-video-spheres/"><u>[Updated] In 2024, Precise Procedure for Fusing GoPro Footage Into Comprehensive Video Spheres</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2023-how-to-download-facebook-status-videos-in-2024/"><u>2023 | How to Download Facebook Status Videos, In 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cognitive-network-advancements-from-arista-enter-mainstream-sectors-a-deep-dive-tech-insights/"><u>Cognitive Network Advancements From Arista Enter Mainstream Sectors: A Deep Dive - Tech Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-elite-learning-management-solutions-rated-by-tech-experts-at-zdnet/"><u>Explore Elite Learning Management Solutions Rated by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/getting-to-grips-with-snapseed-for-images/"><u>Getting to Grips With Snapseed for Images</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-motorola-edgeplus-2023-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Motorola Edge+ (2023).</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-comprehending-instagrams-max-video-length/"><u>In 2024, Comprehending Instagram's Max Video Length</u></a></li>
-<li><a href="https://app-tips.techidaily.com/langchains-revolutionary-approach-to-making-genai-truly-beneficial-as-featured-on-zdnet/"><u>LangChain's Revolutionary Approach to Making GenAI Truly Beneficial, as Featured on ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mastering-development-skills-the-best-online-programming-tutorials-for-the-year-2024/"><u>Mastering Development Skills: The Best Online Programming Tutorials for the Year 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-are-gaining-traction-in-tech-circles-zdnet/"><u>The Rising Popularity: How OpenStack & Kata Containers Are Gaining Traction in Tech Circles | ZDNet</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-ultimate-showdown-gopro-max-360-vs-hero-11-analysis-for-2024/"><u>The Ultimate Showdown GoPro Max 360 VS Hero 11 Analysis for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-latest-features-of-macos-sonoma-your-ultimate-guide-all-tips-and-insights-from-zdnet/"><u>Unveiling the Latest Features of macOS Sonoma: Your Ultimate Guide - All Tips and Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixed-sony-vegas-keeps-crashing/"><u>[FIXED] Sony Vegas Keeps Crashing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-playbook-for-recording-live-gaming-events/"><u>[New] The Ultimate Playbook for Recording Live Gaming Events</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2022s-leading-collaborative-platforms-for-enhanced-teamwork-pcmag/"><u>2022'S Leading Collaborative Platforms for Enhanced Teamwork | PCMag</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/av1-vs-vp9-which-video-codec-wins-for-2024/"><u>AV1 Vs. VP9 Which Video Codec Wins for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-premier-cloud-platforms-exploring-the-strengths-of-aws-microsoft-azure-and-google-cloud-in-hybrid-saas-markets-insights-by-zdnet/"><u>Comprehensive Review of Premier Cloud Platforms: Exploring the Strengths of AWS, Microsoft Azure & Google Cloud in Hybrid, SaaS Markets | Insights by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-elite-selection-of-macos-programs-featured-on-zdnet/"><u>Explore the Elite Selection of macOS Programs - Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovating-ai-research-breaking-free-from-conventional-llm-approaches/"><u>Innovating AI Research - Breaking Free From Conventional LLM Approaches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/monster-hunter-rise-wont-start-troubleshooting-steps-inside/"><u>Monster Hunter Rise Won't Start? Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/no-hassle-just-hilarity-embark-on-the-ifunny-meme-journey/"><u>No Hassle, Just Hilarity Embark on the iFunny Meme Journey</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-here-exploring-the-cutting-edge-of-5g-and-edge-computing-innovations-highlights-by-zdnet/"><u>The Future Is Here: Exploring the Cutting-Edge of 5G and Edge Computing Innovations | Highlights by ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-latest-update-editing-tools-added-to-dall-e-3-but-still-refinements-needed/"><u>The Latest Update: Editing Tools Added to DALL-E 3, But Still Refinements Needed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-pc-experience-detailed-instructions-for-replacing-windows-with-linux-mint/"><u>Transform Your PC Experience: Detailed Instructions for Replacing Windows With Linux Mint</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ultimate-online-destinations-for-3d-shimmering-letters/"><u>Ultimate Online Destinations for 3D Shimmering Letters</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-microsofts-critical-challenge-with-windows-11-just-one-year-away-an-in-depth-analysis-by-zdnet/"><u>Urgent: Microsoft's Critical Challenge with Windows 11 Just One Year Away - An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/wallet-friendly-cloud-cabinetry-big-files-cheap-storage-for-2024/"><u>Wallet-Friendly Cloud Cabinetry Big Files Cheap Storage for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/zdnets-ultimate-guide-to-the-leading-surface-laptops-and-tablets-of-2023-expert-reviews-and-rankings/"><u>ZDNet's Ultimate Guide to the Leading Surface Laptops and Tablets of 2023: Expert Reviews & Rankings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Intro to Coursera LevelSets Competency Evaluations - The Latest Update Explained by ZDNet
-date: 2024-12-21T21:44:35.958Z
-updated: 2024-12-24T17:30:27.838Z
+date: 2024-12-29T06:11:02.634Z
+updated: 2025-01-03T00:26:38.054Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-flashframe-crafter/"><u>[New] In 2024, FlashFrame Crafter</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-movie-substitutes-that-shook-up-my-world-7-choices/"><u>[New] Movie Substitutes That Shook Up My World - #7 Choices</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-a-beginners-journey-into-gameplay-capturing-with-obs/"><u>2024 Approved A Beginner's Journey Into Gameplay Capturing with OBS</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advancing-coding-skills-with-patience-and-productivity-unveiling-github-copilots-impact-on-software-development-zdnet/"><u>Advancing Coding Skills with Patience & Productivity: Unveiling GitHub Copilot's Impact on Software Development - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/before-its-too-late-discover-the-top-5-strategies-to-secure-your-windows-11-system-this-year-according-to-experts-at-zdnet/"><u>Before It's Too Late: Discover the Top 5 Strategies to Secure Your Windows 11 System This Year, According to Experts at ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-sunset-of-windows-11-5-essential-steps-to-take-as-microsoft-ends-support/"><u>Facing the Sunset of Windows 11: 5 Essential Steps to Take as Microsoft Ends Support</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-70-lite-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor 70 Lite 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-spark-go-2023-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark Go (2023) Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-design-of-an-artificial-earth-plane-can-vary-depending-on-the-frequency-of-operation-at-lower-frequencies-a-larger-physical-area-may-be-needed-to-effect85/"><u>The Design of an Artificial Earth Plane Can Vary Depending on the Frequency of Operation; at Lower Frequencies, a Larger Physical Area May Be Needed to Effectively Reflect Radio Waves.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rising-role-of-citizen-developers-in-streamlining-corporate-tech-initiatives/"><u>The Rising Role of Citizen Developers in Streamlining Corporate Tech Initiatives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-creativity-how-open-source-projects-draw-in-elite-innovators-insights-from-zdnet/"><u>Unlocking Creativity: How Open-Source Projects Draw in Elite Innovators - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unlocking-youtube-potential-editing-after-the-upload-process/"><u>Unlocking YouTube Potential Editing After the Upload Process</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/park-the-visionary-youtubes-top-video-themes/"><u>[New] Spark the Visionary YouTube's Top Video Themes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlined-strategies-mastering-screen-record-on-an-hp-notebook-for-2024/"><u>[New] Streamlined Strategies Mastering Screen Record on an HP Notebook for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-top-10-apps-for-creating-spectacular-instagram-reels/"><u>[New] Top 10 Apps for Creating Spectacular Instagram Reels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-10-innovative-ai-based-podcast-name-generators-for-2024/"><u>[Updated] Top 10 Innovative AI-Based Podcast Name Generators for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-of-the-best-exciting-windows-10-apps-and-games/"><u>2024 Approved The Best of the Best Exciting Windows 10 Apps & Games</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-productivity-with-ubuntu-2204-a-top-choice-for-professional-linux-desktops-techadvice/"><u>Boost Your Productivity with Ubuntu 22.04 - A Top Choice for Professional Linux Desktops | TechAdvice</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/dynamic-visual-snapshot-providers/"><u>Dynamic Visual Snapshot Providers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-cto-forecasts-major-shifts-in-cloud-computing-strategies-insights-from-tech-leaders/"><u>Expert CTO Forecasts Major Shifts in Cloud Computing Strategies - Insights From Tech Leaders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-future-with-linus-insights-on-artificebotics-rust-programming-and-why-linux-is-crucial-zdnet/"><u>Exploring the Future with Linus: Insights on Artificebotics, Rust Programming, and Why Linux Is Crucial | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-design-thinking-bridges-the-gap-between-tech-professionals-and-enhanced-customer-experiences-insights-from-zdnet/"><u>How Design Thinking Bridges the Gap Between Tech Professionals and Enhanced Customer Experiences - Insights From ZDNet</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/konfusi-kedua-profile-di-google-maps-bila-tidak-ditemukan-selesaikan/"><u>Konfusi? Kedua Profile Di Google Maps Bila Tidak Ditemukan, Selesaikan!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-demystified-understanding-its-essentiality-in-cloud-computing/"><u>Kubernetes Demystified: Understanding Its Essentiality in Cloud Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-team-meetings-with-otter-adaptable-audio-transcription-tools-explored-insights-and-tips-zdnet/"><u>Mastering Team Meetings with Otter: Adaptable Audio Transcription Tools Explored - Insights & Tips | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pinning-messages-in-place-a-users-handbook-to-permanent-conversations-on-instagram/"><u>Pinning Messages in Place: A User's Handbook to Permanent Conversations on Instagram</u></a></li>
+<li><a href="https://app-tips.techidaily.com/polarization/"><u>Polarization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-pinnacle-of-artistry-highlighting-top-6-nft-creators-for-2024/"><u>The Pinnacle of Artistry Highlighting Top 6 NFT Creators for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transitioning-from-windows-home-to-pro-tips-advantages-and-how-to-digital-insight-hub/"><u>Transitioning From Windows Home to Pro - Tips, Advantages & How-To | Digital Insight Hub</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-building-your-ideal-windows-11-vm-tutorial/"><u>Ultimate Guide: Building Your Ideal Windows 11 VM [Tutorial]</u></a></li>
 </ul></div>
 

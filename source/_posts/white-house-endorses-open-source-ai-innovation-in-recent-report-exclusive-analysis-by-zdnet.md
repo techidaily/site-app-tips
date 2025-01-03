@@ -1,7 +1,7 @@
 ---
 title: White House Endorses Open Source AI Innovation in Recent Report – Exclusive Analysis by ZDNet
-date: 2024-12-18T18:22:27.838Z
-updated: 2024-12-25T02:03:41.441Z
+date: 2024-12-29T09:16:03.716Z
+updated: 2025-01-02T18:24:32.802Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-divine-warriors-convergence-ragnarok-epoch/"><u>[New] 2024 Approved Divine Warriors Convergence Ragnarok Epoch</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-reel-revolution-enjoying-twitter-videos-at-ultimate-quality/"><u>[New] 2024 Approved Reel Revolution Enjoying Twitter Videos at Ultimate Quality</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-begin-your-google-meet-on-devices/"><u>[Updated] How to Begin Your Google Meet on Devices?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-vlc-versus-mpc-top-free-video-players-showdown/"><u>[Updated] In 2024, VLC versus MPC Top Free Video Players Showdown</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-coding-skills-the-impact-of-github-copilot-on-developer-workflow-a-zdnet-perspective/"><u>Boost Your Coding Skills: The Impact of GitHub Copilot on Developer Workflow - A ZDNet Perspective</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-inside-scoop-on-unbeatable-labor-day-sales-for-notebooks-featuring-top-picks/"><u>Get the Inside Scoop on Unbeatable Labor Day Sales for Notebooks - Featuring Top Picks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-does-the-conflict-between-russia-and-ukraine-endanger-information-technology-in-ukraine-insights-and-predictions/"><u>How Does the Conflict Between Russia and Ukraine Endanger Information Technology in Ukraine? Insights & Predictions.</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-itel-a05s-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Itel A05s? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-steep-path-to-update-ubuntu-2404-insights-from-zdnet/"><u>Navigating the Steep Path to Update Ubuntu 24.04 - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-communication-with-vivaldi-introducing-a-superior-mail-client-experience-digital-trends/"><u>Revolutionizing Communication with Vivaldi - Introducing a Superior Mail Client Experience | Digital Trends</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/score-amazing-discounts-exclusive-prime-day-prices-on-premium-tribit-audio-gear-and-value-packed-earbuds/"><u>Score Amazing Discounts: Exclusive Prime Day Prices on Premium Tribit Audio Gear and Value-Packed Earbuds!</u></a></li>
-<li><a href="https://techidaily.com/seamless-website-translation-swift-conversion-in-chrome-firefox-and-edge/"><u>Seamless Website Translation: Swift Conversion in Chrome, Firefox & Edge</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-2a-understanding-grounding-in-antenna-systems/"><u>Section 2A: Understanding Grounding in Antenna Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-3c-five-qandas-on-antenna-radiation-patterns-and-design-principles/"><u>Section 3C: Five Q&As on Antenna Radiation Patterns and Design Principles</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-microsoft-account-essential-steps-to-protect-against-cyber-threats-tips-from-zdnet/"><u>Securing Your Microsoft Account: Essential Steps to Protect Against Cyber Threats - Tips From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-competitive-edge-of-devops-in-modern-enterprptions-ensuring-safety-and-efficiency-as-recommended-by-zdnet/"><u>The Competitive Edge of DevOps in Modern Enterprptions: Ensuring Safety and Efficiency as Recommended by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-cutting-edge-of-connectivity-a-look-at-the-best-new-developments-in-5g-and-edge-computing-zdnet/"><u>The Cutting-Edge of Connectivity: A Look at the Best New Developments in 5G and Edge Computing (ZDNET)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-revolutionary-impact-of-chatgpt-harnessing-the-potential-of-next-gen-conversational-artificial-intelligence/"><u>The Revolutionary Impact of ChatGPT: Harnessing the Potential of Next-Gen Conversational Artificial Intelligence</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-scrutinizing-dji-drone-goggle-specifications-for-2024/"><u>[New] Scrutinizing DJI Drone Goggle Specifications for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-a-step-by-step-framework-for-iconic-podcast-visuals/"><u>2024 Approved A Step-by-Step Framework for Iconic Podcast Visuals</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-content-strategy-with-social-blade-and-youtube-stats/"><u>2024 Approved Elevate Your Content Strategy with Social Blade and YouTube Stats</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/arctic-acrobatics-2022s-olympians/"><u>Arctic Acrobatics 2022'S Olympians</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/enhancing-your-printers-output-a-comprehensive-guide-by-yl-computing/"><u>Enhancing Your Printer's Output: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-best-elearning-software-of-2023-detailed-comparisons-and-insights-zdnet/"><u>Explore the Best eLearning Software of 2023 - Detailed Comparisons and Insights | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-does-open-source-shape-ethical-ai-development-exploring-perspectives-on-zdnet/"><u>How Does Open Source Shape Ethical AI Development? Exploring Perspectives on ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-install-videoleap-video-editor-on-your-macbook-for-2024/"><u>How to Install Videoleap Video Editor on Your MacBook for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-compose-your-cinematic-storytelling-add-melodies-to-iphone-videos-without-cost/"><u>In 2024, Compose Your Cinematic Storytelling – Add Melodies to iPhone Videos Without Cost</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-enhanced-with-codenotarys-new-software-bill-of-materials-service-the-latest-update-featured-by-zdnet/"><u>Kubernetes Enhanced with Codenotary’s New Software Bill of Materials Service - The Latest Update Featured by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-clearing-vacant-directories-on-windows/"><u>Master the Art of Clearing Vacant Directories on Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-xr-and-spatial-tech-how-digital-twins-enhance-ux-for-businesses-insights-from-zdnet/"><u>Navigating XR & Spatial Tech: How Digital Twins Enhance UX for Businesses - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premiere-video-editing-options-for-app-developers-for-2024/"><u>Premiere Video Editing Options for App Developers for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-changing-landscape-for-software-engineers-perspectives-by-atlassians-agnes-ro-on-zdnet/"><u>The Changing Landscape for Software Engineers: Perspectives by Atlassian's Agnes Ro on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-roadmap-for-integrating-artificial-intelligence-in-businesses-intels-forecast-featuring-zdnet-report/"><u>The Roadmap for Integrating Artificial Intelligence in Businesses: Intel's Forecast [Featuring ZDNet Report]</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-5-best-monitors-for-playstation5/"><u>Top 5 Best Monitors for PlayStation5</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-6-must-have-task-management-tools-reviews-by-tech-experts/"><u>Top 6 Must-Have Task Management Tools : Reviews by Tech Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranking-screen-capture-tools-and-applications-a-comprehensive-review-by-zdnet/"><u>Top-Ranking Screen Capture Tools & Applications - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-security-flaw-exposed-in-linuxs-essential-curl-utility-with-immediate-patch-available-report-by-zdnet/"><u>Urgent Security Flaw Exposed in Linux's Essential Curl Utility, with Immediate Patch Available | Report by ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET
-date: 2024-12-28T04:38:59.871Z
-updated: 2025-01-02T16:00:34.800Z
+date: 2024-12-31T11:48:03.375Z
+updated: 2025-01-03T05:29:57.888Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -190,18 +190,18 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/gif-bmp-movavi/"><u>網路上無成本的 GIF 到 BMP 格式轉換 - 使用Movavi 變體程式</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-no-cost-android-tracking-programs-top-5-picks-for-smartphone-surveillance/"><u>Best No-Cost Android Tracking Programs: Top 5 Picks for Smartphone Surveillance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193851-discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easy-guide-to-transforming-mov-videos-into-different-file-types/"><u>Easy Guide to Transforming MOV Videos Into Different File Types</u></a></li>
-<li><a href="https://win-dash.techidaily.com/grab-the-latest-free-asrock-ab350-pro4-drivers-today-easy-installation-on-your-pc-running-windows/"><u>Grab the Latest Free ASRock AB350 Pro4 Drivers Today: Easy Installation on Your PC Running Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-14-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-tecno-camon-20-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Tecno Camon 20 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/instabeats-intellectual-property-overview-for-2024/"><u>InstaBeats Intellectual Property Overview for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/instagram-message-edits-simplified-learn-how/"><u>Instagram Message Edits Simplified – Learn How!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/streamline-your-instagram-content-free-mp4-exporters-for-windowsmac-users-for-2024/"><u>Streamline Your Instagram Content Free MP4 Exporters for Windows/Mac Users for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/top-4-pairings-winning-webp-viewers-and-windows-devices/"><u>Top 4 Pairings: Winning WebP Viewers & Windows Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-must-have-mdm-solutions-expert-picks-for-optimal-mobile-control/"><u>Top 7 Must-Have MDM Solutions: Expert Picks for Optimal Mobile Control</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194494-ultimate-selection-of-secure-android-app-protectors-find-out-which-ones-rank-the-highest/"><u>Ultimate Selection of Secure Android App Protectors – Find Out Which Ones Rank the Highest!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-revealing-instagram-lurkers-the-exit-list/"><u>[Updated] 2024 Approved Revealing Instagram Lurkers The Exit List</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-amplify-your-message-with-tiktok-voiceovers/"><u>[Updated] Amplify Your Message with TikTok Voiceovers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevating-movie-visuals-applying-cg-centrals-luts-techniques/"><u>[Updated] In 2024, Elevating Movie Visuals Applying CG Central's Luts Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-motorola-moto-g-5g-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Motorola Moto G 5G (2023) Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-micro-videos-whats-the-gist/"><u>In 2024, Micro Videos What's the Gist?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-role-of-green-infrastructure-in-revitalizing-cities/"><u>In 2024, The Role of Green Infrastructure in Revitalizing Cities</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-protons-latest-feature-a-secure-password-vault-with-advanced-end-to-end-encryption-comprehensive-review-on-zdnet/"><u>Introducing Proton's Latest Feature: A Secure Password Vault with Advanced End-to-End Encryption - Comprehensive Review on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-security-my-experience-with-top-passwordless-password-manager-tools-the-clear-winner/"><u>Mastering Security: My Experience with Top Passwordless Password Manager Tools – The Clear Winner!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/oregon-healthcare-provider-alerts-over-half-a-million-clients-about-major-security-incident-tech-news/"><u>Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-complete-mobizen-users-handbook-for-screen-capturing/"><u>The Complete Mobizen User's Handbook for Screen Capturing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/west-virginia-hospital-data-compromised-following-phishing-scheme-insights-by-zdnet/"><u>West Virginia Hospital Data Compromised Following Phishing Scheme - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zerofoxs-strategic-acquisition-of-idx-and-merger-with-landf-forms-a-mega-14b-cybersecurity-giant-insights-from-zdnet/"><u>ZeroFox's Strategic Acquisition of IDX and Merger with L&F Forms a Mega $1.4B Cybersecurity Giant - Insights From ZDNet</u></a></li>
 </ul></div>
 

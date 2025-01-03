@@ -1,7 +1,7 @@
 ---
 title: "Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet"
-date: 2024-12-31T03:37:13.806Z
-updated: 2025-01-02T21:18:03.928Z
+date: 2024-12-31T12:09:46.487Z
+updated: 2025-01-03T04:39:04.509Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-best-10-free-recording-apps-for-slack-chats/"><u>[New] 2024 Approved Best 10 Free Recording Apps for Slack Chats</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-google-meetings-archive/"><u>[New] 2024 Approved Google Meetings Archive</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-navigating-google-meets-virtual-whiteboards-across-appleandroid-and-laptops/"><u>[New] Navigating Google Meet's Virtual Whiteboards Across Apple/Android & Laptops</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitter-video-viral/"><u>2024 Approved Twitter Video Viral</u></a></li>
-<li><a href="https://app-tips.techidaily.com/amazons-innovative-approach-introducing-an-advanced-ai-benchmark-for-ranking-annotation-gaps-spotlight-on-the-latest-zdnet-report/"><u>Amazon's Innovative Approach: Introducing an Advanced AI Benchmark for Ranking Annotation Gaps - Spotlight on the Latest ZDNet Report</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-progress-in-strategic-convergence-zdnet/"><u>Bridging the Tech and Business Divide: Progress in Strategic Convergence | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-chilly-response-of-enterprises-to-the-heated-hype-around-5g-insights-and-analysis-zdnet/"><u>Exploring the Chilly Response of Enterprises to the Heated Hype Around 5G: Insights and Analysis | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-concept-of-immutable-systems-in-linux-key-advantages-for-stable-and-secure-operations-it-security-hub/"><u>Exploring the Concept of Immutable Systems in Linux: Key Advantages for Stable and Secure Operations | IT Security Hub</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-new-hp-3755-all-in-one-printer-driver-on-windows-systems-1087/"><u>How to Install the New HP 3755 All-in-One Printer Driver on Windows Systems (10/8/7)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-sea-snag-footage-top-5-picks/"><u>In 2024, Ultimate Sea Snag Footage - Top 5 Picks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/intel-predicts-enterprise-adoption-of-ai-over-next-three-to-five-years-insights-from-zdnet/"><u>Intel Predicts Enterprise Adoption of AI Over Next Three to Five Years: Insights From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-windows-11-start-menu-glitches-effectively/"><u>Troubleshoot and Fix Windows 11 Start Menu Glitches Effectively</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-kubernetes-its-critical-role-in-modern-software-deployment/"><u>Unveiling Kubernetes: Its Critical Role in Modern Software Deployment</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-the-optimal-performance-rate-your-pc-requires/"><u>What's the Optimal Performance Rate Your PC Requires?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-career-fulfillment-surpasses-tech-giants-the-joy-of-working-outside-the-apple-orchard/"><u>Why Career Fulfillment Surpasses Tech Giants: The Joy of Working Outside the Apple Orchard</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-expert-picks-leading-crm-solutions-of-2022-tailored-for-smb-efficiency-and-growth/"><u>ZDNet's Expert Picks: Leading CRM Solutions of 2022 Tailored for SMB Efficiency and Growth</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-your-skills-beyond-ai-explore-cutting-edge-career-opportunemail-protected/"><u>Advancing Your Skills Beyond AI - Explore Cutting-Edge Career Opportun([email Protected])!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-clicking-around-unveiling-the-future-of-uis-with-generative-ai-zdnet/"><u>Beyond Clicking Around: Unveiling the Future of UIs with Generative AI | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-for-singaporean-smes-equip-your-team-with-genai-skills-insights-from-zdnet/"><u>Comprehensive Guide for Singaporean SMEs: Equip Your Team with GenAI Skills - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-artificial-intelligence-revolutionizes-the-creation-of-eco-friendly-smart-home-devices-insights-from-a-leading-tech-firm/"><u>How Artificial Intelligence Revolutionizes the Creation of Eco-Friendly Smart Home Devices - Insights From a Leading Tech Firm</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-elite-eyewear-selection-best-5-vr-goggles-for-flight/"><u>In 2024, Elite Eyewear Selection Best 5 VR Goggles for Flight</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-7-plus-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 7 Plus Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini with IMEI Code?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/investing-in-the-future-singapore-advocates-funding-ai-integration-and-eco-friendly-technologies/"><u>Investing in the Future: Singapore Advocates Funding AI Integration and Eco-Friendly Technologies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/luminance-levels-top-3-ways-to-revive-your-photos-vibrancy-for-2024/"><u>Luminance Levels Top 3 Ways to Revive Your Photo's Vibrancy for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stanford-investigation-highlights-ais-english-focused-flaw-in-chatbots-urging-diverse-language-support-zdnet/"><u>Stanford Investigation Highlights AI's English-Focused Flaw in Chatbots, Urging Diverse Language Support | ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722150020571-top-5-ai-chatbot-frauds-stay-alert/"><u>Top 5 AI Chatbot Frauds: Stay Alert!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transforming-mac-into-high-speed-machine-via-ssd-upgrade/"><u>Transforming Mac Into High-Speed Machine via SSD Upgrade</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-how-to-fix-non-responsive-touchscreen-on-your-apple-watch/"><u>Troubleshooting Guide: How To Fix Non-Responsive Touchscreen on Your Apple Watch</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uncovering-the-ultimate-ai-watermark-strategy-on-zdnet/"><u>Uncovering the Ultimate AI Watermark Strategy on ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808281125-unseen-amd-drivers-unveil-the-fixes-for-making-them-visible-in-device-manager-easily/"><u>Unseen AMD Drivers? Unveil the Fixes for Making Them Visible in Device Manager Easily</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-role-of-chief-ai-officers-steps-to-secure-this-key-position/"><u>Unveiling the Role of Chief AI Officers - Steps to Secure This Key Position</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725290364048-winx-mediatrans-pc-iphoneipad/"><u>WinX MediaTrans™: 最佳選擇用於 PC 將照片、音樂影片轉移到 iPhone/iPad 的遙控器</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-recent-study-a-staggering-25-of-tech-workers-may-soon-seek-new-employment-opportunities/"><u>ZDNet's Recent Study: A Staggering 25% of Tech Workers May Soon Seek New Employment Opportunities</u></a></li>
 </ul></div>
 

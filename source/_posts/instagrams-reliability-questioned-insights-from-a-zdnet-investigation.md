@@ -1,7 +1,7 @@
 ---
 title: "Instagram's Reliability Questioned: Insights From a ZDNet Investigation"
-date: 2024-12-28T04:01:34.356Z
-updated: 2025-01-02T23:34:54.848Z
+date: 2024-12-30T05:14:27.094Z
+updated: 2025-01-03T03:51:27.410Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ I wish I did, but I don't.
 Instagram hasn't done one blessed thing to [fix my hacked account](https://www.zdnet.com/article/my-instagram-account-was-hacked-and-two-factor-authentication-didnt-help/). Six weeks into this, and neither Instagram tech support -- if there even is such a department -- nor public relations have said a word to me. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -46,7 +46,7 @@ Yet Instagram has remained silent about this trend.
 What can you do? First, dump Instagram. It doesn't matter how popular it is if you can't count on it. Other services and apps offer similar features, including [Flickr](https://www.flickr.com/), with its emphasis on high-end photos; [Imgur](https://imgur.com/), another photographic-centric service; [Pinterest](https://www.pinterest.com/), an image-oriented social network; and [Retrica](https://retrica.co/), another photo-oriented service with many filters. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Social Media
@@ -106,22 +106,24 @@ Instagram simply isn't trustworthy.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-scripting-for-news-show-conclusions/"><u>[Updated] Scripting for News Show Conclusions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/clarifying-visuals-in-call-of-duty-warzone-a-guide-for-pc-gamers/"><u>Clarifying Visuals in Call of Duty: Warzone – A Guide for PC Gamers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-methods-for-sharing-big-videos-via-whatsapp-on-your-iphone/"><u>Effective Methods for Sharing Big Videos via WhatsApp on Your iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-strategies-managing-your-visibility-and-last-seen-timestamp-on-whatsapp/"><u>Expert Strategies: Managing Your Visibility and Last Seen Timestamp on WhatsApp</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-fix-connection-errors-and-secure-your-browsing-session-in-mozilla-firefox/"><u>Guide to Fix Connection Errors and Secure Your Browsing Session in Mozilla Firefox</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-discreetly-adjust-and-verify-whatsapps-last-seen-feature-with-proven-tips/"><u>How to Discreetly Adjust and Verify WhatsApp's 'Last Seen' Feature with Proven Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-securely-transfer-whatsapp-pictures-from-ios-and-android-devices-without-losing-a-bit-explore-these-3-effective-strategies/"><u>How to Securely Transfer WhatsApp Pictures From iOS and Android Devices without Losing a Bit - Explore These 3 Effective Strategies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-video-capturing-step-by-step-manual/"><u>In 2024, Mastering Video Capturing Step-by-Step Manual</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-strategies-for-building-a-hit-youtube-video-preview/"><u>In 2024, Strategies for Building a Hit YouTube Video Preview</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-create-engaging-videos-with-these-8-leading-explainer-video-tools/"><u>New In 2024, Create Engaging Videos with These 8 Leading Explainer Video Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamless-preservation-of-your-messages-syncing-whatsapp-chats-with-google-drive-tips-for-smartphones-and-tablets/"><u>Seamless Preservation of Your Messages: Syncing WhatsApp Chats with Google Drive - Tips for Smartphones and Tablets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/swift-solutions-retrieving-your-lost-whatsapp-messages-on-iphone-with-simple-techniques/"><u>Swift Solutions: Retrieving Your Lost WhatsApp Messages on iPhone with Simple Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-on-restoring-past-whatsapp-dialogues-and-mastering-the-art-of-unarchiving-texts/"><u>The Ultimate Tutorial on Restoring Past WhatsApp Dialogues & Mastering the Art of Unarchiving Texts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/update-your-contact-info-a-step-by-step-guide-to-changing-your-phone-number-on-whatsapp/"><u>Update Your Contact Info: A Step-by-Step Guide to Changing Your Phone Number on WhatsApp</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-say-goodbye-to-windows-10-photos-top-8-image-editing-solutions-youll-love-for-2024/"><u>Updated Say Goodbye to Windows 10 Photos Top 8 Image Editing Solutions Youll Love for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/xbox-one-earphones-malfunction-heres-how-to-fix-them/"><u>Xbox One Earphones Malfunction? Here's How to Fix Them!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebooks-countdown-the-best-10-music-videos-of-now-for-2024/"><u>[Updated] Facebook's Countdown The Best 10 Music Videos of Now for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/access-onedrive-offline-anywhere-edit-and-save-files-without-internet-perfect-for-remote-areas/"><u>Access OneDrive Offline Anywhere: Edit and Save Files Without Internet, Perfect for Remote Areas</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-revolutionizing-the-workforce-transforming-traditional-roles-from-training-to-ethics-the-future-of-employment-explained-zdnet/"><u>AI Revolutionizing the Workforce: Transforming Traditional Roles From Training to Ethics - The Future of Employment Explained | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-budget-friendly-player-showdown-free-video-warriors-vlc-and-mpc/"><u>Best Budget Friendly Player Showdown Free Video Warriors (VLC & MPC)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-speed-top-5-chrome-os-hacks-for-smoother-sailing-and-enhanced-productivity-zdnet/"><u>Boost Your Speed: Top 5 Chrome OS Hacks for Smoother Sailing & Enhanced Productivity | ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-xperia-1-v-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Xperia 1 V.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cutting-edge-ai-how-openais-gpt-4-goes-mini-reduces-application-development-expenses-insights-from-zdnet/"><u>Cutting Edge AI: How OpenAI's GPT-4 Goes Mini Reduces Application Development Expenses - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/directivity/"><u>Directivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-for-making-slideshows-with-movavi-on-macos-systems-no-iwork-required/"><u>Easy Steps for Making Slideshows with Movavi on macOS Systems (No iWork Required)</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/explore-apple-themes-in-our-curated-collection-of-digital-backgrounds-and-photos-from-yl-software/"><u>Explore Apple Themes in Our Curated Collection of Digital Backgrounds & Photos From YL Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fix-for-freezing-photo-booth-videos-that-disrupt-usage/"><u>Fix for Freezing Photo Booth Videos That Disrupt Usage</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-nokia-g42-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Nokia G42 5G Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-agile-mindsets-key-strategies-for-successful-software-development-with-zdnet/"><u>Mastering Agile Mindsets: Key Strategies for Successful Software Development with ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-the-art-of-social-media-videos-for-maximum-reach/"><u>Mastering the Art of Social Media Videos for Maximum Reach</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/portable-wifi-hotspot-discover-the-power-of-tp-links-wr902ac-travel-router/"><u>Portable WiFi Hotspot: Discover the Power of TP-Link's WR902AC Travel Router</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-sql-training-programs-explore-the-best-online-courses-on-zdnet/"><u>Top-Ranked SQL Training Programs: Explore the Best Online Courses on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ultralight-computers-in-depth-reviews-by-tech-experts/"><u>Top-Rated Ultralight Computers : In-Depth Reviews by Tech Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-ai-potential-with-superduperdb-simplifying-application-access-as-featured-on-zdnet/"><u>Unlocking AI Potential with SuperDuperDB: Simplifying Application Access, As Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-expert-advice-on-linking-your-google-drive-to-slack-for-enhanced-collaboration/"><u>ZDNet's Expert Advice on Linking Your Google Drive to Slack for Enhanced Collaboration</u></a></li>
 </ul></div>
 

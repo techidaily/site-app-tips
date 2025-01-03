@@ -1,7 +1,7 @@
 ---
 title: "Open-Source Mandate: Switzerland's Federal Govt. Moves All Software Public"
-date: 2024-12-24T00:43:52.456Z
-updated: 2024-12-25T04:39:47.940Z
+date: 2024-12-30T16:26:37.113Z
+updated: 2025-01-02T20:20:17.171Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-boost-interaction-with-crafted-ig-story-queries/"><u>[New] 2024 Approved Boost Interaction with Crafted IG Story Queries</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-meme-crafters-companion/"><u>[New] In 2024, Meme Crafter's Companion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-routes-transforming-pinterests-vids-into-mp3s/"><u>2024 Approved Prime Routes Transforming Pinterest's Vids Into MP3s</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-the-change-rendering-api-glitch-dota-2-error-2024-with-this-quick-guide/"><u>Beat the Change Rendering API Glitch (Dota 2 Error 2024) with This Quick Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-artificial-intelligence-discover-fresh-job-designations-shaping-tomorrows-workforce-revealed-by-zdnet/"><u>Beyond Artificial Intelligence - Discover Fresh Job Designations Shaping Tomorrow's Workforce, Revealed by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-numbers-and-analytics-how-tech-professionals-can-embrace-person-to-person-communication-for-better-outcomes/"><u>Beyond Numbers and Analytics: How Tech Professionals Can Embrace Person-to-Person Communication for Better Outcomes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-sustainable-innovation-singapores-push-for-financing-ai-and-green-tech/"><u>Boosting Sustainable Innovation: Singapore's Push for Financing AI & Green Tech</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/efficiently-piecing-together-google-collage-projects/"><u>Efficiently Piecing Together Google Collage Projects</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-text-preservation-a-user-friendly-approach-to-sms-data-backup-solutions/"><u>Effortless Text Preservation: A User-Friendly Approach to SMS Data Backup Solutions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ce-video-reach-strategic-insights-into-youtubes-tag-system-for-2024/"><u>Enhance Video Reach Strategic Insights Into YouTube's Tag System for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-jdk-installation-for-windows-11-users/"><u>Mastering JDK Installation for Windows 11 Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-journey-of-transforming-into-an-ai-leader-roles-and-qualifications-expert-guidance/"><u>The Journey of Transforming Into an AI Leader: Roles and Qualifications | Expert Guidance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-reveals-open-avenues-for-aspiring-competitors-to-advance-ai-technology/"><u>ZDNet Reveals Open Avenues for Aspiring Competitors to Advance AI Technology</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mp4-video-download-companion-booklet/"><u>[New] 2024 Approved MP4 Video Download Companion Booklet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-techniques-for-ps4-gameplay-documentation/"><u>[New] In 2024, Expert Techniques for PS4 Gameplay Documentation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-master-content-creation-video-and-photo-synergy/"><u>2024 Approved Master Content Creation Video & Photo Synergy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-your-gaming-performance-tips-to-minimize-lag-and-improve-fps-in-fall-guys/"><u>Boosting Your Gaming Performance: Tips to Minimize Lag & Improve FPS in Fall Guys</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/elevate-your-videography-instagram-captioning-techniques-for-2024/"><u>Elevate Your Videography Instagram Captioning Techniques for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-ai-projects-struggle-with-agile-methodology-insights-from-recent-research-techwire/"><u>How AI Projects Struggle with Agile Methodology – Insights From Recent Research | TechWire</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/iphone-evolution-continues-analyzing-the-advancements-in-the-new-iphone-15-plus-and-pro-max-models/"><u>IPhone Evolution Continues: Analyzing the Advancements in the New iPhone 15 Plus and Pro Max Models</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-ais-impact-on-job-markets-the-emergence-of-new-yet-to-be-defined-professional-titles-revealed-zdnet-insights/"><u>Navigating AI's Impact on Job Markets: The Emergence of New, Yet-to-Be-Defined Professional Titles Revealed | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/non-techies-embrace-ai-why-understanding-complicated-networks-requires-diverse-educational-strategies-zdnet/"><u>Non-Techies, Embrace AI: Why Understanding Complicated Networks Requires Diverse Educational Strategies | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preparing-leaders-for-ai-integration-essential-steps-recommended-by-zdnet/"><u>Preparing Leaders for AI Integration: Essential Steps Recommended by ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Amazon Introduces Revolutionary AI Performance Metric: The Next-Gen RAG System Unveiled by ZDNet"
-date: 2024-12-19T00:40:52.907Z
-updated: 2024-12-24T17:53:24.622Z
+date: 2024-12-27T18:08:23.341Z
+updated: 2025-01-03T11:09:36.370Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-seamless-strategies-to-record-and-archive-gotomeetings/"><u>[Updated] 2024 Approved Seamless Strategies to Record and Archive GoToMeetings</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-become-a-zoom-champion-in-minutes/"><u>[Updated] Become a Zoom Champion in Minutes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-grid-mastery-in-photos-with-our-select-apps-for-2024/"><u>[Updated] Grid Mastery in Photos with Our Select Apps for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-essential-tips-for-crafting-perfect-drone-video-edits/"><u>2024 Approved Essential Tips for Crafting Perfect Drone Video Edits</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-perfectly-emulated-sony-ps3-titles-top-5-windows-tools/"><u>2024 Approved Perfectly Emulated Sony PS3 Titles Top 5 Windows Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/accidentally-trashed-your-email-learn-how-to-restore-and-forward-with-ease-using-microsoft-outlook-pcmag/"><u>Accidentally Trashed Your Email? Learn How to Restore & Forward with Ease Using Microsoft Outlook - PCMag</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/convert-hd-and-sd-videos-effortlessly-with-macx-video-converter-get-your-free-mac-download-now/"><u>Convert HD & SD Videos Effortlessly with MacX Video Converter - Get Your FREE Mac Download Now!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/digital-privacy-essentials-how-anonymity-empowers-remote-teams-zdnet/"><u>Digital Privacy Essentials: How Anonymity Empowers Remote Teams | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-privacy-in-firefox-how-to-safeguard-stored-usernames-and-passwords-using-a-primary-key/"><u>Enhance Privacy in Firefox: How to Safeguard Stored Usernames and Passwords Using a Primary Key</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-chilly-response-of-corporations-to-the-sizzling-potential-of-5g-technology/"><u>Exploring the Chilly Response of Corporations to the Sizzling Potential of 5G Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/has-microsoft-retracted-its-promises-of-a-complimentary-windows-11-update-insights-from-zdnet/"><u>Has Microsoft Retracted Its Promises of a Complimentary Windows 11 Update? - Insights From ZDNet</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-nioh-2-crashing-complete-edition/"><u>How to Fix Nioh 2 Crashing (Complete Edition)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-film-star-access-pass-talent-release/"><u>In 2024, Film Star Access Pass - Talent Release</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-aws-expert-guide-on-navigating-and-thriving-with-amazons-premier-cloud-platform-zdnet-perspectives/"><u>Mastering AWS: Expert Guide on Navigating and Thriving with Amazon's Premier Cloud Platform | ZDNet Perspectives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/no-internet-no-problem-onedrive-enables-offline-file-access-for-uninterrupted-work-zdnet/"><u>No Internet? No Problem! OneDrive Enables Offline File Access for Uninterrupted Work | ZDNet</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/solving-non-boot-errors-a-step-by-step-guide-by-yl-software-experts/"><u>Solving Non-Boot Errors: A Step-by-Step Guide by YL Software Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-hci-providers-of-2022-expert-analysis-by-zdnet/"><u>Top-Ranked HCI Providers of 2022 - Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-free-mp4-converters-top-picks-and-step-by-step-guides-explored/"><u>Ultimate Guide to Free MP4 Converters: Top Picks and Step-by-Step Guides Explored</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-expert-review-of-superior-pandemic-vaccine-administration-platforms-for-healthcare-providers/"><u>ZDNet's Expert Review of Superior Pandemic Vaccine Administration Platforms for Healthcare Providers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-infuse-your-tiktok-with-popular-anime-themes-and-styles-for-2024/"><u>[New] Infuse Your TikTok with Popular Anime Themes & Styles for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-from-standard-definition-to-high-dynamic-range-mastery/"><u>[Updated] From Standard Definition to High Dynamic Range Mastery</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adapting-office-gadgets-for-the-age-of-artificial-intelligence-zdnet/"><u>Adapting Office Gadgets for the Age of Artificial Intelligence | ZDNET</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/crafting-content-12-best-for-insta-edits/"><u>Crafting Content 12 Best for Insta Edits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203886011-expert-advice-on-repairing-a-non-functional-shift-key-successful-strategies-inside/"><u>Expert Advice on Repairing a Non-Functional Shift Key: Successful Strategies Inside</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-rust-with-linux-creator-linus-torvalds-insights-on-his-work-habits-and-life-with-macbook-air-exclusive-coverage-from-zdnet/"><u>Exploring Rust with Linux Creator Linus Torvalds: Insights on His Work Habits and Life with MacBook Air | Exclusive Coverage From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/grounding-is-especially-critical-for-transmitting-antennas-due-to-the-high-power-involved-which-increases-the-risk-of-lightning-strikes-and-electrical-hazar80/"><u>Grounding Is Especially Critical for Transmitting Antennas Due to the High Power Involved, Which Increases the Risk of Lightning Strikes and Electrical Hazards.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-skill-enhancement-and-robust-security-shape-the-future-of-cloud-native-solutions-insights-from-zdnet/"><u>How Skill Enhancement & Robust Security Shape the Future of Cloud-Native Solutions - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-pixizs-tools-for-photo-video-craftsmanship/"><u>In 2024, Navigating Pixiz's Tools for Photo-Video Craftsmanship</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oppo-reno-11-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Oppo Reno 11 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-the-digital-shift-how-enterprise-architects-are-steering-change-zdnet/"><u>Leading the Digital Shift: How Enterprise Architects Are Steering Change | ZDNet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/l-media-live-showdown-facebook-vs-youtube-and-twitter-periscope/"><u>Social Media Live Showdown Facebook Vs. YouTube & Twitter Periscope</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-hottest-developer-positions-and-rising-programming-languages-predictions-for-the-tech-industry-insights-from-zdnet/"><u>The Hottest Developer Positions & Rising Programming Languages: Predictions for the Tech Industry | Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-companies-face-difficulty-in-harnessing-generative-ai-key-findings-from-deloittes-research-zdnet/"><u>Why Companies Face Difficulty in Harnessing Generative AI: Key Findings From Deloitte's Research | ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Debunking Bitcoin Privacy Myths: The Exposé That Shook Its Secrecy"
-date: 2024-12-29T19:26:33.944Z
-updated: 2025-01-02T19:24:05.551Z
+date: 2025-01-01T19:44:27.444Z
+updated: 2025-01-03T03:29:02.665Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,24 +119,17 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-comprehensive-guide-to-attractive-and-engaging-instagram-puzzle-feeds-for-2024/"><u>[New] The Comprehensive Guide to Attractive and Engaging Instagram Puzzle Feeds for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-foster-community-with-unique-insta-story-questions/"><u>[Updated] Foster Community with Unique Insta Story Questions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-create-a-successful-live-stream/"><u>[Updated] How to Create A Successful Live Stream</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-screen-capture-bandicam-vs-camtasia-battle/"><u>[Updated] Mastering Screen Capture Bandicam Vs. Camtasia Battle</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-choices-premier-mac-video-capture-apps/"><u>2024 Approved Top Choices Premier Mac Video Capture Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-users-perspective-on-senuti-software-with-ideal-substitutes-compatible-with-pc-and-apple-devices/"><u>A User's Perspective on Senuti Software with Ideal Substitutes Compatible with PC and Apple Devices</u></a></li>
-<li><a href="https://win-guides.techidaily.com/convert-your-pdf-files-for-nothing-swift-transformation-to-word-powerpoint-flash-and-images-without-cost/"><u>Convert Your PDF Files for Nothing – Swift Transformation to Word, PowerPoint, Flash & Images without Cost!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-g54-5g-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does G54 5G support MKV video files?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-premium-content-for-free-music-films-and-more-from-the-itunes-store/"><u>Download Premium Content For Free: Music, Films & More From the iTunes Store</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/error-404-unable-to-locate-pages/"><u>Error 404: Unable To Locate Pages</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-pauses-trump-ban-review-by-regulatory-council/"><u>Facebook Pauses Trump Ban Review by Regulatory Council</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278690-get-your-favorite-songs-and-movies-for-free-directly-from-itunes-no-cost-at-all/"><u>Get Your Favorite Songs and Movies for Free Directly From iTunes – No Cost at All!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-completely-erase-irrelevant-applications-from-itunes-for-good/"><u>How To Completely Erase Irrelevant Applications From iTunes for Good</u></a></li>
-<li><a href="https://games-able.techidaily.com/office-seat-advantage-for-gamers/"><u>Office Seat Advantage for Gamers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/permanent-removal-effective-ways-to-get-rid-of-unwanted-apps-from-your-itunes-library/"><u>Permanent Removal: Effective Ways to Get Rid of Unwanted Apps From Your iTunes Library</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-and-easy-fixes-how-to-resolve-itunes-not-opening-issue-on-your-device/"><u>Quick and Easy Fixes: How to Resolve 'iTunes Not Opening' Issue on Your Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278349-revamp-your-itunes-collection-with-these-proven-techniques-for-inserting-album-images/"><u>Revamp Your iTunes Collection with These Proven Techniques for Inserting Album Images!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-common-itunes-problems-downloading-updating-logging-in-and-connectivity/"><u>Troubleshooting Common iTunes Problems: Downloading, Updating, Logging In & Connectivity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-step-by-step-tutorial-restoring-your-itunes-collection-like-a-pro/"><u>Ultimate Step-by-Step Tutorial: Restoring Your iTunes Collection Like a Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-compreran-a-deep-dive-into-the-logitech-4k-pro-webcam/"><u>[New] Compreran a Deep Dive Into the Logitech 4K Pro Webcam</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-master-the-basics-of-windows-10-effortlessly/"><u>[New] In 2024, Master the Basics of Windows 10 Effortlessly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-audio-artists-approach-to-video-unboxing-for-2024/"><u>[New] The Audio Artist's Approach to Video Unboxing for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-tips-for-designing-and-updating-igtv-thumbnails/"><u>[Updated] Tips for Designing & Updating IGTV Thumbnails</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-get-facebook-links-fetched-top-8-free-tools-for-23/"><u>2024 Approved Get Facebook Links Fetched Top 8 Free Tools for '23</u></a></li>
+<li><a href="https://app-tips.techidaily.com/before-its-too-late-exploring-five-strategies-to-maintain-your-windows-pc-zdnet/"><u>Before It's Too Late: Exploring Five Strategies to Maintain Your Windows 지원 제한되는 PC | ZDNET</u></a></li>
+<li><a href="https://article-tips.techidaily.com/best-5-ios-backdrop-swappers-x87-edition-for-2024/"><u>Best 5 iOS Backdrop Swappers X/8/7 Edition for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/digital-evolution-in-business-the-crucial-role-of-enterprise-architects/"><u>Digital Evolution in Business: The Crucial Role of Enterprise Architects</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-innovation-beyond-apples-walls-why-diverse-workplaces-spark-creativity/"><u>Embracing Innovation Beyond Apple's Walls - Why Diverse Workplaces Spark Creativity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-revival-how-openstack-and-kata-containers-gain-new-ground-in-tech-markets-zdnet-insights/"><u>Exploring the Revival: How OpenStack and Kata Containers Gain New Ground in Tech Markets - ZDNet Insights</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-rules-2022s-premier-language-app/"><u>Mondly Rules: 2022'S Premier Language App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-you-should-think-about-aiops-check-out-these-7-key-points-according-to-zdnet/"><u>Why You Should Think About AIOps? Check Out These 7 Key Points According To ZDNet</u></a></li>
 </ul></div>
 

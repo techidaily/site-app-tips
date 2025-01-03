@@ -1,7 +1,7 @@
 ---
 title: Celona Secures $60M in Funding, Drives Enterprise-Level 5G Innovation - Tech News
-date: 2024-12-31T21:42:45.003Z
-updated: 2025-01-02T23:19:55.638Z
+date: 2024-12-27T20:55:52.565Z
+updated: 2025-01-03T03:42:20.364Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-best-quick-windows-gallery-app/"><u>[New] In 2024, Best Quick Windows Gallery App</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-metaverse-muse-a-reflective-collection-of-thoughts-arvr/"><u>2024 Approved Metaverse Muse A Reflective Collection of Thoughts [AR/VR]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/adaptive-arrays/"><u>Adaptive Arrays</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/contrasting-vocabularies-across-the-atlantic/"><u>Contrasting Vocabularies Across the Atlantic</u></a></li>
-<li><a href="https://app-tips.techidaily.com/debunking-microsoft-recall-as-a-privacy-catastrophe-here-are-7-compelling-reasons-you-shouldnt-worry-zdnet/"><u>Debunking Microsoft Recall as a Privacy Catastrophe? Here Are 7 Compelling Reasons You Shouldn't Worry | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-rapid-impact-of-ai-on-software-engineering-challenges-in-quantifying-progress-insights-from-zdnet/"><u>Exploring the Rapid Impact of AI on Software Engineering: Challenges in Quantifying Progress - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guarded-communication-the-risks-of-ai-data-sharing/"><u>Guarded Communication: The Risks of AI Data Sharing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/instant-srt-to-txt-efficient-conversion-methods-revealed-for-2024/"><u>Instant SRT to TXT Efficient Conversion Methods Revealed for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/sonys-research-division-joins-forces-with-ai-singapore-for-next-gen-language-models-innovation-breakthrough/"><u>Sony's Research Division Joins Forces with AI Singapore for Next-Gen Language Models | Innovation Breakthrough</u></a></li>
-<li><a href="https://fox-links.techidaily.com/top-ranked-motors-the-quintessential-guide-to-flight-mastery-for-2024/"><u>Top-Ranked Motors The Quintessential Guide to Flight Mastery for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-enhanced-productivity-with-our-picked-lenovo-laptop-for-hybrid-jobs-available-now-at-1000-less-insights-from-zdnet/"><u>Unlock Enhanced Productivity with Our Picked Lenovo Laptop for Hybrid Jobs, Available Now at $1,000 Less | Insights From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-crisis-microsofts-critical-challenge-with-windows-10-looms-as-deadline-approaches-tech-news-by-zdnet/"><u>Urgent Crisis: Microsoft's Critical Challenge with Windows 10 Looms as Deadline Approaches | Tech News by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-woes-intensify-for-microsoft-as-launch-deadline-looms-expert-analysis-by-zdnet/"><u>Windows 11 Woes Intensify for Microsoft as Launch Deadline Looms – Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-pushing-boundaries-with-time-lapse-full-slomo-review-2024/"><u>[New] Pushing Boundaries with Time-Lapse Full SloMo Review, 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-iphone-photography-boosted-by-ios-11-features/"><u>[Updated] IPhone Photography Boosted by iOS 11 Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-path-to-perfected-video-covers-update-guide-and-tips/"><u>[Updated] The Path to Perfected Video Covers Update Guide & Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolution-of-innovation-identifying-a-revolutionary-5g-application-surpassing-traditional-connectivity-boundaries-zdnet/"><u>Evolution of Innovation: Identifying a Revolutionary 5G Application Surpassing Traditional Connectivity Boundaries | ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/hours-to-gigabytes-a-guide-for-filmmakers/"><u>Hours to Gigabytes A Guide for Filmmakers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-ai-is-revolutionizing-teamwork-among-developers-and-business-professionals-insights-from-zdnet/"><u>How AI Is Revolutionizing Teamwork Among Developers and Business Professionals - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-dells-new-game-changer-the-portable-powerhouse-for-gamers-and-professionals-alike-insights-from-zdnet/"><u>Introducing Dell's New Game-Changer: The Portable Powerhouse for Gamers and Professionals Alike - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-surge-of-edge-computing-devices-implications-for-professional-growth-and-opportunities-zdnet/"><u>Navigating the Surge of Edge Computing Devices: Implications for Professional Growth and Opportunities | ZDNet</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-use-auto-sync-of-final-cut-pro-to-deal-with-out-of-sync-problem-in-you-video-this-article-shows-you-how-and-more-for-2024/"><u>New Use Auto-Sync of Final Cut Pro to Deal with Out of Sync Problem in You Video. This Article Shows You How and More for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prepare-your-leaders-why-managerial-training-is-key-for-successful-ai-integration/"><u>Prepare Your Leaders: Why Managerial Training Is Key for Successful AI Integration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-ui-with-ai-the-end-of-traditional-interfaces-zdnet-insights/"><u>Revolutionizing UI with AI: The End of Traditional Interfaces | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/survey-finds-quarter-of-it-workers-considering-job-switches-insights-from-zdnet/"><u>Survey Finds Quarter of IT Workers Considering Job Switches - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-end-of-clicking-exploring-how-generative-ai-is-revolutionizing-user-interfaces/"><u>The End of Clicking: Exploring How Generative AI Is Revolutionizing User Interfaces</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-urgent-need-for-ethical-ai-why-more-action-is-required/"><u>The Urgent Need for Ethical AI: Why More Action Is Required</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-tips-for-mastering-magix-video-pro-x/"><u>Top 10 Tips for Mastering Magix Video Pro X</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrading-your-smartphone-is-the-iphone-16-pro-a-worthy-successor-to-the-iphone-n-pro-insights-zdnet/"><u>Upgrading Your Smartphone: Is the iPhone 16 Pro a Worthy Successor to the iPhone N Pro? Insights | ZDNET</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210968755-9789310003178-madatashana-varatha-val-mahalo-ka-le/"><u>मैडिटेशन वर्दी वाली महिलाओं के लिए | Free Book</u></a></li>
 </ul></div>
 

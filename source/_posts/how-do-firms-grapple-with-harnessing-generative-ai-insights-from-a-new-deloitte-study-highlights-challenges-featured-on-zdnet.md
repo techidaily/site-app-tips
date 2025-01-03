@@ -1,7 +1,7 @@
 ---
 title: "How Do Firms Grapple with Harnessing Generative AI: Insights From a New Deloitte Study Highlights Challenges - Featured on ZDNet"
-date: 2024-12-30T03:49:58.063Z
-updated: 2025-01-02T22:51:39.296Z
+date: 2025-01-02T02:06:39.020Z
+updated: 2025-01-03T12:26:50.964Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,15 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-exploring-slomos-full-potential-a-compre-written-context/"><u>[New] In 2024, Exploring SloMo's Full Potential A Compre Written Context</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-up-your-game-expert-tips-for-tiktok-editing/"><u>[Updated] Step Up Your Game Expert Tips for TikTok Editing</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/dex-3-unleashed-a-revolutionary-approach-beyond-traditional-dj-tools/"><u>DEX 3 Unleashed: A Revolutionary Approach Beyond Traditional DJ Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-instructions-for-installing-latest-zoom-version-on-pcs-and-macs/"><u>Easy Instructions for Installing Latest Zoom Version on PCs & Macs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-change-your-libreoffice-settings-for-native-ms-word-excel-file-compatibility/"><u>Guide: Change Your LibreOffice Settings for Native MS Word, Excel File Compatibility</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-sql-with-expertly-curated-online-lessons-discover-why-our-picks-are-top-tech-education-sites-zdnet/"><u>Master SQL with Expertly Curated Online Lessons: Discover Why Our Picks Are Top Tech Education Sites - ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/new-iphone-7-plus-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 7 Plus Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamlessly-combining-google-drive-with-slack-a-step-by-step-guide/"><u>Seamlessly Combining Google Drive with Slack: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-the-chaos-streamlining-linux-and-open-source-documentation/"><u>Taming the Chaos: Streamlining Linux & Open Source Documentation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-social-media-savvy-the-best-25-hashtags-for-likes-and-followers-for-2024/"><u>[New] Social Media Savvy The Best 25 Hashtags for Likes and Followers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highest-ranked-live-streamers-with-local-channel-access-2024/"><u>[Updated] Highest-Ranked Live Streamers with Local Channel Access, 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-quality-economical-cam-recorder/"><u>[Updated] In 2024, Top Quality Economical Cam Recorder</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streaming-service-comparison-facebook-live-vs-youtube-live-and-spaces/"><u>[Updated] Streaming Service Comparison Facebook LIVE Vs. YouTube Live & Spaces</u></a></li>
+<li><a href="https://app-tips.techidaily.com/24-billion-allocation-for-advanced-ict-systems-and-e-services-by-singapore-expert-analysis-on-zdnet/"><u>$2.4 Billion Allocation for Advanced ICT Systems and E-Services by Singapore | Expert Analysis on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/combatting-tech-burnout-how-artificial-intelligence-offers-relief-to-it-professionals/"><u>Combatting Tech Burnout: How Artificial Intelligence Offers Relief to IT Professionals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiarty-expert-in-converting-and-managing-your-digital-media-with-dvd-and-video-tools/"><u>Digiarty - Expert in Converting and Managing Your Digital Media with DVD & Video Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fading-frame-fiasco-laptop-woes/"><u>Fading Frame Fiasco: Laptop Woes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-redmi-note-12t-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Redmi Note 12T Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-c65-lock-screen-password-by-drfone-android/"><u>How To Change Poco C65 Lock Screen Password?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-era-of-smart-coding-moving-past-basic-automation-to-ai-enhanced-software-creation-according-to-zdnet-experts/"><u>The Era of Smart Coding: Moving Past Basic Automation to AI-Enhanced Software Creation According to ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/thriving-with-ai-proven-tactics-for-professionals-in-tech-to-excel-at-work-during-an-era-of-automation-guided-by-industry-leaders-on-zdnet/"><u>Thriving with AI: Proven Tactics for Professionals in Tech to Excel at Work During an Era of Automation - Guided by Industry Leaders on ZDNET</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/vimeo-videos-on-instagram-a-complete-guide/"><u>Vimeo Videos on Instagram A Complete Guide</u></a></li>
 </ul></div>
 

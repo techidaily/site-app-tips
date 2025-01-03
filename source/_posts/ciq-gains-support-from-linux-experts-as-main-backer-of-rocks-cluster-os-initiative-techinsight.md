@@ -1,7 +1,7 @@
 ---
 title: CIQ Gains Support From Linux Experts as Main Backer of Rocks Cluster OS Initiative - TechInsight
-date: 2024-12-18T02:44:59.068Z
-updated: 2024-12-24T20:23:06.268Z
+date: 2025-01-02T03:08:16.411Z
+updated: 2025-01-03T09:15:16.313Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-your-fan-count-top-tactics-for-fb-page-ranks/"><u>[New] Elevate Your Fan Count Top Tactics for FB Page Ranks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-handheld-vr-camera-stability-enhancer/"><u>[New] Handheld VR Camera Stability Enhancer</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-innovating-for-impact-your-profile-video-guide/"><u>[New] Innovating for Impact Your Profile Video Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-pro-tips-securely-preserving-whatsapp-call-recordings-for-2024/"><u>[Updated] Pro Tips Securely Preserving WhatsApp Call Recordings for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-multi-screen-recording-setup/"><u>2024 Approved Multi-Screen Recording Setup</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beware-latest-microsoft-patch-could-escalate-professional-burnout-insights-from-zdnet/"><u>Beware! Latest Microsoft Patch Could Escalate Professional Burnout - Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easily-revive-your-system-by-resetting-distribution-and-catroot2-on-ws11/"><u>Easily Revive Your System by Resetting Distribution & Catroot2 on WS11</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/easy-steps-to-securely-record-your-virtual-gatherings-with-google/"><u>Easy Steps to Securely Record Your Virtual Gatherings with Google</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/exploring-confucianism-unveiling-the-core-principles-taught-by-master-kong-confucius/"><u>Exploring Confucianism: Unveiling the Core Principles Taught by Master Kong (Confucius)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-latest-linux-65-kernel-a-wealth-of-cutting-edge-enhancements-tech-insights/"><u>Exploring the Latest Linux 6.5 Kernel: A Wealth of Cutting-Edge Enhancements - Tech Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-sunset-of-windows-11-here-are-5-alternatives-to-consider-as-support-winds-down-tech-insights-by-zdnet/"><u>Facing the Sunset of Windows 11? Here Are 5 Alternatives to Consider as Support Winds Down | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quick-guide-eluding-educational-videos-effectively/"><u>In 2024, Quick Guide Eluding Educational Videos Effectively</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-windows-11-your-complete-reference-tips-and-tricks-with-zdnets-expert-guide/"><u>Mastering Windows 11: Your Complete Reference, Tips & Tricks with ZDNet's Expert Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-business-connectivity-celonas-60m-series-c-fuels-next-gen-enterprise-5g-solutions-zdnet-insights/"><u>Revolutionizing Business Connectivity: Celona's $60M Series C Fuels Next-Gen Enterprise 5G Solutions | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ascension-of-cloud-computing-versus-current-on-premises-systems-expert-analysis-by-zdnet/"><u>The Ascension of Cloud Computing Versus Current On-Premises Systems | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-covid-19-immunization-platforms-the-ultimate-guide-techreview/"><u>Top Rated COVID-19 Immunization Platforms: The Ultimate Guide - TechReview</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-crafting-an-ideal-windows-11-vm-setup-on-any-platform-insights-from-zdnet/"><u>Ultimate Guide: Crafting an Ideal Windows 11 VM Setup on Any Platform - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-potential-the-ultimate-walkthrough-to-activate-and-interact-with-nvidias-rtx-ai-on-your-device/"><u>Unlocking Potential: The Ultimate Walkthrough to Activate and Interact with Nvidia's RTX AI on Your Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/your-guide-to-extending-windows-11-life-top-5-alternatives-as-support-winds-down-zdnet/"><u>Your Guide to Extending Windows 11 Life: Top 5 Alternatives as Support Winds Down - ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-key-concepts-of-interactive-storytelling/"><u>[New] 2024 Approved Key Concepts of Interactive Storytelling</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-boost-creativity-tiktok-video-treatments/"><u>[New] Boost Creativity TikTok Video Treatments</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-step-by-step-creation-of-gamers-channel-graphics/"><u>[Updated] 2024 Approved Step-By-Step Creation of Gamers' Channel Graphics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-online-hubs-sky-high-dynamic-range-photography/"><u>[Updated] Best Online Hubs Sky High Dynamic Range Photography</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-kids-5-essential-safeguards-for-responsible-ai-interaction/"><u>ChatGPT and Kids: 5 Essential Safeguards for Responsible AI Interaction</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-hurdles-ahead-microsofts-race-against-time-to-fix-windows-11-issues-insights-from-zdnet/"><u>Critical Hurdles Ahead: Microsoft's Race Against Time to Fix Windows 11 Issues - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exclusive-offer-acquire-professional-level-ashampoo-3d-cad-v11-for-only-40-from-zdnet-right-now/"><u>Exclusive Offer: Acquire Professional Level Ashampoo 3D CAD v11 for Only $40 From ZDNet Right Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-securely-modify-user-passwords-in-win-11/"><u>Guide to Securely Modify User Passwords in Win 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-successfully-upgrade-to-ubuntu-linux-2404-a-step-by-step-guide/"><u>How to Successfully Upgrade to Ubuntu Linux 24.04: A Step-by-Step Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-the-art-of-choosing-background-tunes-for-visual-media/"><u>In 2024, Mastering the Art of Choosing Background Tunes for Visual Media</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oppo-k11x-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo K11x Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/juniper-networks-expands-security-offerings-with-new-cloud-based-firewall-feature-in-unified-secure-access-service-sezn-architecture/"><u>Juniper Networks Expands Security Offerings with New Cloud-Based Firewall Feature in Unified Secure Access Service (SEZN) Architecture</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-latest-in-development-careers-most-demanded-programming-languages-and-predictions-for-upcoming-skills-powered-by-zdnet/"><u>The Latest in Development Careers: Most Demanded Programming Languages and Predictions for Upcoming Skills | Powered by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-web-browsers-of-today-analysis-by-zdnet/"><u>Top Web Browsers of Today - Analysis by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-p55plus-by-fonelab-android-recover-music/"><u>Undelete lost music from P55+</u></a></li>
 </ul></div>
 

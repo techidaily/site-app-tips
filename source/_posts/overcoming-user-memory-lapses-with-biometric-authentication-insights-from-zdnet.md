@@ -1,7 +1,7 @@
 ---
 title: Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet
-date: 2024-12-30T22:27:40.198Z
-updated: 2025-01-02T19:23:51.293Z
+date: 2024-12-31T18:01:14.780Z
+updated: 2025-01-03T08:11:09.220Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,20 +99,24 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content-for-2024/"><u>[New] Harnessing the Power of Hashtags to Amplify Your IGTV Content for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-unlocking-audible-content-from-twitter-videos/"><u>[New] Unlocking Audible Content From Twitter Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-capturing-the-globe-from-novice-to-experienced-travel-videographer-for-2024/"><u>[Updated] Capturing the Globe From Novice to Experienced Travel Videographer for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-ways-to-master-boomerang-feature-across-ios-android-and-web-platforms/"><u>Effortless Ways to Master Boomerang Feature Across iOS, Android & Web Platforms</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-yakuza-like-a-dragon-an-essential-rpg-experience/"><u>Exploring 'Yakuza: Like a Dragon' - An Essential RPG Experience</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-lava-blaze-curve-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Lava Blaze Curve 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/immersive-education-experience-windows-11-tutorials/"><u>Immersive Education Experience: Windows 11 Tutorials</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unraveling-the-top-8-premium-free-srt-translation-websites/"><u>In 2024, Unraveling the Top 8 Premium Free SRT Translation Websites</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-automated-photography-setting-timers-on-iphones-and-android-devices/"><u>Mastering the Art of Automated Photography: Setting Timers on iPhones & Android Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/moto-g14-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Moto G14 support - Turn Off Screen Lock.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-best-multiplayer-bluetooth-games-for-android-and-ios-devices/"><u>The Ultimate List of Best Multiplayer Bluetooth Games for Android & iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-11-audio-enhancement-applications-for-video-editing-on-mobile-devices-and-desktop-systems/"><u>Top 11 Audio Enhancement Applications for Video Editing on Mobile Devices and Desktop Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-6-must-have-android-contact-widget-apps-of-2024-a-comprehensive-guide/"><u>Top 6 Must-Have Android Contact Widget Apps of 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-10-leading-music-organizers-for-all-your-platform-needs-windows-mac-iphone-and-android/"><u>Ultimate Selection of 10 Leading Music Organizers for All Your Platform Needs: Windows, Mac, iPhone & Android</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unraveling-youtubes-monetization-shifts/"><u>Unraveling YouTube's Monetization Shifts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-fighting-on-the-go-nintendos-best-switch-fighters/"><u>[New] 2024 Approved Fighting on the Go Nintendo's Best Switch Fighters</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ashing-it-out-best-tags-to-transform-views-and-profit/"><u>[New] Hashing It Out Best Tags to Transform Views & Profit</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-professionals-secret-utilizing-windows-movie-maker-expertly-in-windows-8-systems/"><u>[New] In 2024, The Professional's Secret Utilizing Windows Movie Maker Expertly in Windows 8 Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-smile-generator-for-memes/"><u>[Updated] 2024 Approved Best Smile Generator for Memes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-bite-sized-urls-essential-tools-for-youtubers-to-streamline-sharing/"><u>[Updated] 2024 Approved Bite-Sized URLs Essential Tools for Youtubers to Streamline Sharing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-discover-the-safest-and-free-insta-friend-enhancers-iosandroid/"><u>[Updated] 2024 Approved Discover the Safest & FREE Insta-Friend Enhancers (iOS/Android)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-detailed-look-at-pre-purchasing-your-smart-tv/"><u>A Detailed Look at Pre-Purchasing Your Smart TV</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-password-managers-beyond-lastpass-zdnet/"><u>Discover the Ultimate Password Managers (Beyond LastPass) - ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-now-complete-guide-to-installing-focusrite-scarlett-pressandgo-scarlett-2i2-on-windows-systems/"><u>Download Now: Complete Guide to Installing Focusrite Scarlett Pressandgo Scarlett 2I2 on Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-user-engagement-website-performance-boosted-using-innovative-solution-cookiebot-integration/"><u>Experience Enhanced User Engagement: Website Performance Boosted Using Innovative Solution - Cookiebot Integration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-passwordless-security-a-dual-review-of-top-password-managers-that-won-me-over-tech-insights/"><u>Exploring Passwordless Security: A Dual Review of Top Password Managers That Won Me Over | Tech Insights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-moto-g14-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola Moto G14 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://app-tips.techidaily.com/major-new-features-1password-mobile-app-receives-extensive-upgrade-zdnet/"><u>Major New Features: 1Password Mobile App Receives Extensive Upgrade - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/major-revamp-enhanced-security-and-features-in-the-latest-1password-app-for-smartphones/"><u>Major Revamp: Enhanced Security & Features in the Latest 1Password App for Smartphones!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/projectweb-shutdown-announced-fujitsu-reacts-to-japans-government-data-leaks-insights-from-zdnet/"><u>ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/repeated-security-incidents-at-lastpass-latest-update-from-zdnet/"><u>Repeated Security Incidents at LastPass - Latest Update From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-accounts-now-unbeatable-jem-authenticator-and-password-management-solution-insights-from-zdnet/"><u>Secure Your Accounts Now! Unbeatable JEM Authenticator & Password Management Solution | Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-exclusive-offer-on-pioneering-3-year-3d-password-manager-at-just-30-zdnet/"><u>Secure Your Digital Life: Exclusive Offer on Pioneering 3-Year 3D Password Manager at Just $30 | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-streams-why-stronger-passwords-mean-safer-viewing-techdigest/"><u>Secure Your Streams: Why Stronger Passwords Mean Safer Viewing | TechDigest</u></a></li>
 </ul></div>
 

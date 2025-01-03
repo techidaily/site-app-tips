@@ -1,7 +1,7 @@
 ---
 title: Exploring the Truth Behind Crypto Anonymity – A Deep Dive Into a Groundbreaking Study
-date: 2024-12-29T01:36:12.617Z
-updated: 2025-01-02T19:35:39.184Z
+date: 2024-12-28T20:36:28.718Z
+updated: 2025-01-02T19:09:49.139Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,20 +119,24 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-androids-most-trusted-collage-maker-tools/"><u>[Updated] Android’s Most Trusted Collage Maker Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-journey-beyond-reality-the-best-of-youtubes-virtual-worlds/"><u>[Updated] Journey Beyond Reality The Best of YouTube’s Virtual Worlds</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-dj-how-does-machine-curated-music-stack-up-against-human-selection/"><u>AI DJ: How Does Machine-Curated Music Stack Up Against Human Selection?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-biz-marketers-now-utilizing-artificial-intelligence-insights-from-zdnet/"><u>AI Integration: One-Third of Biz Marketers Now Utilizing Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-chinas-leap-into-the-future-with-advanced-supercomputing-strategies/"><u>Empowering China's Leap Into the Future with Advanced Supercomputing Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/evolving-threats-demand-modern-cyber-skills-as-security-professionals-grapple-with-outdated-infrastructures/"><u>Evolving Threats Demand Modern Cyber Skills as Security Professionals Grapple with Outdated Infrastructures</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/from-speech-to-storage-the-recorders-pathway/"><u>From Speech to Storage The Recorder's Pathway</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-v30-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/how-to-guide-elevating-gameplay-recordings-via-obs-for-2024/"><u>How-To Guide Elevating Gameplay Recordings via OBS for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-enhance-engagement-mastering-template-based-video-description-writing/"><u>In 2024, Enhance Engagement Mastering Template-Based Video Description Writing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/is-ai-a-threat-to-future-opportunities-in-the-cybersecurity-workforce-expert-analysis-by-zdnet/"><u>Is AI a Threat to Future Opportunities in the Cybersecurity Workforce? | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-present-wave-of-instantaneous-change-an-unbalanced-distribution/"><u>Navigating the Present Wave of Instantaneous Change: An Unbalanced Distribution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/redragon-headset-mic-issues-discover-steps-to-restore-audio-input-on-windows-or-mac-computers/"><u>Redragon Headset Mic Issues? Discover Steps to Restore Audio Input on Windows or Mac Computers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-web-hosting-providers-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Web Hosting Providers : In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bidding-adieu-with-elegance-sample-choices/"><u>[New] Bidding Adieu with Elegance Sample Choices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastery-of-mobile-and-desktop-calendar-integration-with-zoom-for-2024/"><u>[New] Mastery of Mobile and Desktop Calendar Integration with Zoom for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-designing-effective-video-previews-for-channels/"><u>[Updated] Designing Effective Video Previews for Channels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-selecting-superior-hdr-cameras-a-buyers-guide-for-2024/"><u>[Updated] Selecting Superior HDR Cameras A Buyer's Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionizing-image-post-processing-advanced-use-of-3d-luts-in-ps/"><u>2024 Approved Revolutionizing Image Post-Processing Advanced Use of 3D LUTs in PS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sifting-through-centuries-online-unlicensed-treasures/"><u>2024 Approved Sifting Through Centuries Online Unlicensed Treasures</u></a></li>
+<li><a href="https://app-tips.techidaily.com/avoid-music-chaos-a-detailed-walkthrough-on-updatingreinstalling-itunes-while-preserving-your-library/"><u>Avoid Music Chaos: A Detailed Walkthrough on Updating/Reinstalling iTunes While Preserving Your Library</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-on-moving-your-itunes-media-library-onto-an-external-storage-device-for-mac-and-pc-users/"><u>Complete Tutorial on Moving Your iTunes Media Library Onto an External Storage Device for Mac and PC Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/deciphering-the-disappearance-of-recommended-video-content-in-your-newsfeed/"><u>Deciphering the Disappearance of Recommended Video Content in Your Newsfeed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620278966-discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-anytime-anythnough-how-to-get-past-or-latest-itunes-versions-for-pcs-and-apple-devices-without-paying-a-dime/"><u>Download Anytime, Anythnough: How to Get Past or Latest iTunes Versions for PCs and Apple Devices Without Paying a Dime</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-steps-removing-redundant-songs-from-your-itunes-library/"><u>Easy Steps: Removing Redundant Songs From Your iTunes Library</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-favorite-songs-and-movies-for-free-directly-from-itunes-no-cost-at-all/"><u>Get Your Favorite Songs and Movies for Free Directly From iTunes – No Cost at All</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/global-idc-analysis-of-leading-intelligent-document-processing-solutions-2023-2024-comprehensive-vendor-evaluation/"><u>Global IDC Analysis of Leading Intelligent Document Processing Solutions (2023-2024): Comprehensive Vendor Evaluation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-install-battleye-anti-cheat-tips-and-tricks/"><u>How To Successfully Install BattlEye Anti-Cheat: Tips & Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/making-a-big-impact-with-small-size-the-cherry-kw-9200-mini-keyboard-reviewed/"><u>Making a Big Impact with Small Size: The Cherry KW 9200 Mini Keyboard Reviewed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revive-your-ipad-top-3-strategies-to-restore-connectivity-with-itunes/"><u>Revive Your iPad: Top 3 Strategies to Restore Connectivity with iTunes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-effective-tips-for-when-itunes-refuses-to-start-up/"><u>Troubleshooting Guide: Effective Tips for When iTunes Refuses to Start Up</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-how-to-fix-apple-music-not-syncing-to-your-iphone-ipad-or-ipod/"><u>Troubleshooting: How to Fix Apple Music Not Syncing to Your iPhone, iPad or iPod</u></a></li>
 </ul></div>
 

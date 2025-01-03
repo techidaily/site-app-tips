@@ -1,7 +1,7 @@
 ---
 title: "Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight"
-date: 2024-12-30T01:08:52.945Z
-updated: 2025-01-03T04:59:16.702Z
+date: 2024-12-31T04:27:30.117Z
+updated: 2025-01-02T20:58:28.704Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 ## Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,21 +77,24 @@ Check Point Research
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-your-presence-the-best-5-practices-for-max-viewers/"><u>[New] 2024 Approved Elevate Your Presence The Best 5 Practices for Max Viewers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-picks-for-online-classical-tone-downloads/"><u>[New] Top Picks for Online Classical Tone Downloads</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unveiling-the-potential-of-dual-screen-broadcasting-in-facebook-lives/"><u>[Updated] 2024 Approved Unveiling the Potential of Dual-Screen Broadcasting in Facebook Lives</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-tips-for-ntfs-compression-in-win11-systems/"><u>Advanced Tips for NTFS Compression in Win11 Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-on-cloud-storage-protecting-data-for-ipads-pro-mini-and-air-via-icloud/"><u>Complete Tutorial on Cloud Storage: Protecting Data for iPads (Pro, Mini, and Air) via iCloud</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/cultivating-cash-by-critiquing-consumer-commodities-online/"><u>Cultivating Cash by Critiquing Consumer Commodities Online</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-prompts-users-with-new-ideas-on-information-dissemination/"><u>Facebook Prompts Users with New Ideas on Information Dissemination</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620264535-how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-time-through-pages-a-comprehensive-way-to-utilize-the-wayback-machine/"><u>Navigating Time Through Pages: A Comprehensive Way to Utilize the Wayback Machine</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-managing-and-exporting-icloud-keychain-credentials-on-a-mac-computer/"><u>Step-by-Step Tutorial: Managing and Exporting iCloud Keychain Credentials on a Mac Computer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-of-icloud-keychain-functionality-and-retrieving-your-data-on-iphone/"><u>The Ultimate Walkthrough of iCloud Keychain Functionality & Retrieving Your Data on iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-4-methods-for-effortlessly-transferring-your-iphone-photos-to-icloud-a-complete-guide/"><u>Top 4 Methods for Effortlessly Transferring Your iPhone Photos to iCloud: A Complete Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-step-by-step-guide-how-to-effortlessly-backup-and-sync-your-iphone-with-icloud/"><u>Ultimate Step-by-Step Guide: How to Effortlessly Backup and Sync Your iPhone with iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-icloud-keychain-a-complete-guide-to-unlocking-your-iphones-secure-storage/"><u>Understanding iCloud Keychain: A Complete Guide to Unlocking Your iPhone's Secure Storage</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/why-isnt-my-printer-working-uncovering-root-causes-and-fixes-with-yl-software-assistance/"><u>Why Isn't My Printer Working? Uncovering Root Causes & Fixes with YL Software Assistance</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-the-art-of-hashtag-usage-a-primer-for-gamers-yt/"><u>[New] 2024 Approved Mastering the Art of Hashtag Usage A Primer for Gamers YT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-beginners-guide-to-navigating-digital-marketing-with-reddit-savvy/"><u>[Updated] A Beginner's Guide to Navigating Digital Marketing with Reddit Savvy</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-securely-transferring-camera-photos-to-snapchat-correctly-for-2024/"><u>[Updated] Securely Transferring Camera Photos to Snapchat Correctly for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-design-ideas-top-6-mc-village-residences/"><u>2024 Approved Design Ideas Top 6 MC Village Residences</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-immediate-halt-of-auto-recording-on-qt/"><u>2024 Approved Immediate Halt of Auto-Recording on QT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-revolution-how-red-hat-enhances-system-admin-tasks-with-cutting-edge-intelligence-zdnet/"><u>AI Revolution: How Red Hat Enhances System Admin Tasks with Cutting-Edge Intelligence | ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/brother-wireless-setup-cdw-version/"><u>Brother Wireless Setup: CDW Version</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/can-motorola-edgeplus-compete-with-top-smartphone-contenders-a-detailed-review/"><u>Can Motorola Edge+ Compete with Top Smartphone Contenders? A Detailed Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/vering-where-youtube-video-management-happens/"><u>Discovering Where YouTube Video Management Happens</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevating-developer-proficiency-through-github-copilot-the-synergy-of-productivity-and-patience-in-tech-innovation-zdnet/"><u>Elevating Developer Proficiency Through GitHub Copilot: The Synergy of Productivity and Patience in Tech Innovation | ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-best-2022-mind-mapping-solutions-and-software-as-ranked-by-zdnet-experts/"><u>Explore the Best 2022 Mind Mapping Solutions and Software as Ranked by ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-safely-set-up-your-own-windows-recovery-disk-using-easy-4-step-guide-techinsights/"><u>How to Safely Set Up Your Own Windows Recovery Disk Using Easy 4-Step Guide | TechInsights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/master-your-zebra-zp450-printer-free-downloads-and-updates-with-easy-instructions/"><u>Master Your Zebra ZP450 Printer - Free Downloads and Updates with Easy Instructions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionary-techniques-for-producing-ai-artwork-using-dall-e-and-chatgpt-4/"><u>Revolutionary Techniques for Producing AI Artwork Using DALL-E & ChatGPT-4</u></a></li>
+<li><a href="https://app-tips.techidaily.com/supercharge-your-microsoft-edge-top-pick-browser-extensions-featured-on-zdnet/"><u>Supercharge Your Microsoft Edge: Top Pick Browser Extensions Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-end-of-an-era-is-microsofts-no-cost-windows-11-enhancement-plan-over-digital-insights/"><u>The End of an Era: Is Microsoft's No-Cost Windows 11 Enhancement Plan Over? | Digital Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-cash-app-and-square-downtime-essential-info-for-smbs-insights-from-zdnet/"><u>Understanding the Cash App & Square Downtime: Essential Info for SMBs - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unmatched-longevity-suse-extends-19-year-support-on-latest-distributions-a-standout-in-the-linux-world-techinsights/"><u>Unmatched Longevity: SUSE Extends 19-Year Support on Latest Distributions - A Standout in the Linux World | TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/whats-next-for-your-windows-11-device-as-mainstream-support-winds-down-exploring-5-essential-alternatives-insights-from-zdnet/"><u>What's Next for Your Windows 11 Device as Mainstream Support Winds Down: Exploring 5 Essential Alternatives - Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Six Essential Strategies for Effective Agile Approach in Software Design - Insights From ZDNet
-date: 2024-12-23T17:49:17.407Z
-updated: 2024-12-24T21:16:32.647Z
+date: 2025-01-01T23:35:54.843Z
+updated: 2025-01-03T08:23:35.743Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-learn-from-the-greats-strategies-for-confident-online-sharing/"><u>[New] In 2024, Learn From the Greats Strategies for Confident Online Sharing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-the-mysteries-high-quality-minecraft-capture-on-macos/"><u>[Updated] Unveiling the Mysteries High-Quality Minecraft Capture on MacOS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/gasp-and-guffaw-10-instagram-pages-where-laughter-meets-tears-for-2024/"><u>Gasp & Guffaw 10 Instagram Pages Where Laughter Meets Tears for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nubia-red-magic-9-proplusfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nubia Red Magic 9 Pro+FRP Lock</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/optimize-print-performance-dells-latest-aio-upgrades-in-win7/"><u>Optimize Print Performance: Dell's Latest AIO Upgrades in Win7</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-14-pro-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 14 Pro Max Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-system-administration-how-red-hat-integrates-ai-for-enhanced-efficiency/"><u>Revolutionizing System Administration: How Red Hat Integrates AI for Enhanced Efficiency</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-elevating-your-windows-home-edition-to-pro-benefits-unveiled/"><u>Step-by-Step Guide: Elevating Your Windows Home Edition to Pro - Benefits Unveiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-current-state-of-cloud-computing-and-persisting-challenges-with-on-premise-systems/"><u>The Current State of Cloud Computing & Persisting Challenges with On-Premise Systems.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-shift-to-non-techies-leading-enterprise-tech-revolution-insights-from-zdnet/"><u>The Shift to Non-Techies Leading Enterprise Tech Revolution – Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-tools-for-analyzing-and-conversing-on-text-files/"><u>Top 6 Tools for Analyzing and Conversing on Text Files</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-amazons-cutting-edge-ai-benchmark-assessing-relevance-answers-and-contextual-groundings/"><u>Unveiling Amazon's Cutting-Edge AI Benchmark: Assessing Relevance, Answers & Contextual Groundings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-step-by-step-guide-to-video-aspect-ratio-selection/"><u>[Updated] A Step-by-Step Guide to Video Aspect Ratio Selection</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-captioning-videos-efficiently-on-vimeo-platform/"><u>[Updated] In 2024, Captioning Videos Efficiently on Vimeo Platform</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/11-keys-to-unlock-the-power-of-grading-precision-for-2024/"><u>11 Keys to Unlock the Power of Grading Precision for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/amass-higher-views-with-powerful-youtube-tags-for-2024/"><u>Amass Higher Views with #Powerful YouTube Tags for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/connect-your-airpods-to-windows-11-a-comprehensive-guide-users/"><u>Connect Your AirPods to Windows 11: A Comprehensive Guide Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/emerging-trends-in-developer-careers-and-popular-coding-languages-exploring-the-future-of-tech-with-zdnet/"><u>Emerging Trends in Developer Careers & Popular Coding Languages - Exploring the Future of Tech with ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evaluating-hdr-tvs-does-aurora-hit-the-mark-in-2024/"><u>Evaluating HDR TVs Does Aurora Hit the Mark, In 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-look-into-googles-upcoming-extravaganza-breaking-down-rumors-and-confirmed-announcements/"><u>In-Depth Look Into Google's Upcoming Extravaganza - Breaking Down Rumors and Confirmed Announcements</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-on-ai-integration-and-rust-utilization-in-linux-kernel-the-keystone-of-open-source-computing/"><u>Linus Torvalds on AI Integration & Rust Utilization in Linux Kernel - The Keystone of Open-Source Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-leads-to-managerial-meltdown-a-cautionary-tale/"><u>Microsoft Teams Misuse Leads to Managerial Meltdown - A Cautionary Tale</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-complexity-of-containerized-applications-with-codenotary-introducing-an-advanced-sbom-service-for-kubernetes-insights-from-zdnet/"><u>Navigating the Complexity of Containerized Applications with Codenotary: Introducing an Advanced SBOM Service for Kubernetes - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-cloud-services-visionary-insights-from-leading-cto-on-future-models-forbes/"><u>Revolutionizing Cloud Services: Visionary Insights From Leading CTO on Future Models - Forbes</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-realme-c33-2023-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme C33 2023 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-and-repairing-dev-error-5573-from-cod-vanguard-by-activision/"><u>Understanding And Repairing Dev Error 5573 From COD Vanguard By Activision</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10-at-a-crossroads-for-microsoft-just-one-year-to-turn-things-around-digitalreview/"><u>Windows 10 at a Crossroads for Microsoft - Just One Year to Turn Things Around | DigitalReview</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranked Linux Education Programs: Training and Bootcamp Overviews From Leading Sources"
-date: 2024-12-22T02:11:32.520Z
-updated: 2024-12-24T19:02:34.930Z
+date: 2024-12-30T16:55:36.740Z
+updated: 2025-01-03T12:25:32.141Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-authentic-praise-amplified-branding/"><u>[New] Authentic Praise, Amplified Branding</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-live-streaming-selection-guide/"><u>[New] Ultimate Live Streaming Selection Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/anthropic-unveils-the-next-generation-of-enterprise-scale-ai-with-its-advanced-claude-initiative-insights-from-zdnet/"><u>Anthropic Unveils the Next Generation of Enterprise-Scale AI with Its Advanced Claude Initiative - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/directivity/"><u>Directivity</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/guffaw-gazette-twitters-funniest-threads/"><u>Guffaw Gazette Twitter's Funniest Threads</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-honor-x50-gt-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Honor X50 GT</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-ultimate-guide-to-windows-11-gaming-recordings/"><u>In 2024, The Ultimate Guide to Windows 11 Gaming Recordings</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/step-by-step-tutorial-on-preserving-steam-game-saves-for-free-using-cloud-features/"><u>Step-by-Step Tutorial on Preserving Steam Game Saves for Free Using Cloud Features</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/streamline-your-footage-insta-length-management-on-macos/"><u>Streamline Your Footage Insta-Length Management on macOS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-innovations-in-computer-components/"><u>Tom's Tech Review: Unveiling the Latest Innovations in Computer Components</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-sql-training-programs-explore-the-best-online-courses-on-zdnet/"><u>Top-Ranked SQL Training Programs: Explore the Best Online Courses on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-ux-with-xr-digital-twins-and-spatial-tech-your-essential-business-roadmap-insights-from-zdnet/"><u>Transforming UX with XR, Digital Twins & Spatial Tech: Your Essential Business Roadmap - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-expert-advice-on-linking-your-google-drive-to-slack-for-enhanced-collaboration/"><u>ZDNet's Expert Advice on Linking Your Google Drive to Slack for Enhanced Collaboration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zoom-vs-microsoft-teams-meet-your-astonishing-lip-reading-challenger-breaking-news-from-zdnet/"><u>Zoom Vs. Microsoft Teams? Meet Your Astonishing Lip-Reading Challenger - Breaking News From ZDNet!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-revolutionizing-image-capture-with-ios-11-updates/"><u>[Updated] Revolutionizing Image Capture with iOS 11 Updates</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-agile-mastery-top-six-strategies-guaranteeing-success-in-software-development-with-agile-methods/"><u>1. Agile Mastery: Top Six Strategies Guaranteeing Success in Software Development with Agile Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-basic-routines-preserving-google-voice-conversations/"><u>2024 Approved Basic Routines Preserving Google Voice Conversations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bloomberg-reveals-major-growth-in-enterprise-ai-initiatives-according-to-zdnet-research/"><u>Bloomberg Reveals Major Growth in Enterprise AI Initiatives, According to ZDnet Research</u></a></li>
+<li><a href="https://app-tips.techidaily.com/end-of-an-era-what-to-do-with-your-windows-10-computer-explore-5-alternatives/"><u>End of an Era: What to Do with Your Windows 10 Computer - Explore 5 Alternatives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-future-5-alternatives-for-your-windows-10-device-as-microsoft-phases-out-support/"><u>Facing the Future: 5 Alternatives for Your Windows 10 Device as Microsoft Phases Out Support</u></a></li>
+<li><a href="https://win-community.techidaily.com/fast-solutions-repair-your-iphones-personal-hotspot-issues-with-these-19-proven-strategies/"><u>Fast Solutions: Repair Your iPhone's Personal Hotspot Issues with These 19 Proven Strategies</u></a></li>
+<li><a href="https://article-files.techidaily.com/free-game-themes-and-melodies-10-best-websites/"><u>Free Game Themes & Melodies – 10 Best Websites</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-moto-g73-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola Moto G73 5G?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-capture-the-best-with-top-windows-11-hd-webcams/"><u>In 2024, Capture the Best with Top Windows 11 HD Webcams</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-art-of-choosing-winning-video-thumbnails/"><u>In 2024, Mastering the Art of Choosing Winning Video Thumbnails</u></a></li>
+<li><a href="https://app-tips.techidaily.com/redefining-development-the-role-of-generative-ai-in-transforming-low-code-into-a-seamless-no-code-experience-zdnet-insights/"><u>Redefining Development: The Role of Generative AI in Transforming Low Code Into a Seamless No Code Experience | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-key-software-tools-for-your-pc-or-mac-according-to-zdnet-experts/"><u>The Ultimate List of Key Software Tools for Your PC or Mac, According to ZDNet Experts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/thrill-seekers-challenge-hero5b-vs-hero5-session-in-action-for-2024/"><u>Thrill Seekers Challenge Hero5B Vs Hero5 Session in Action for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-recommended-web-hosts-of-2024-comprehensive-expert-analysis-and-rankings-techradar/"><u>Top Recommended Web Hosts of 2024: Comprehensive Expert Analysis & Rankings - TechRadar</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleashing-creativity-how-to-convert-your-favorite-youtube-videos-to-gifs-for-2024/"><u>Unleashing Creativity How to Convert Your Favorite Youtube Videos To Gifs for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-crisis-looms-for-microsoft-only-a-year-remaining-to-address-major-issues-insights-from-zdnet/"><u>Windows 11 Crisis Looms for Microsoft - Only a Year Remaining to Address Major Issues | Insights From ZDNet</u></a></li>
 </ul></div>
 

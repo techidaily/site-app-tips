@@ -1,7 +1,7 @@
 ---
 title: Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet
-date: 2024-12-27T19:07:05.652Z
-updated: 2025-01-02T23:48:22.009Z
+date: 2024-12-28T01:26:14.320Z
+updated: 2025-01-03T11:44:53.760Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -112,7 +112,7 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -190,17 +190,22 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-skype-to-mp3-capturing-calls-at-no-charge/"><u>[New] 2024 Approved Skype to MP3 Capturing Calls at No Charge</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-crafting-captivating-content-for-the-first-moments-in-audios/"><u>[New] Crafting Captivating Content for the First Moments in Audios</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-exclusive-list-of-the-top-10-digital-recording-apps-for-2024/"><u>[New] Exclusive List of the Top 10 Digital Recording Apps for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-strategies-to-ensure-iphone-camera-focus-for-2024/"><u>[New] Strategies to Ensure iPhone Camera Focus for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-genius-behind-effective-podcast-visual-identity/"><u>[Updated] The Genius Behind Effective Podcast Visual Identity</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ios-selection-showcase-premier-psp-emulators-ranked-1-5/"><u>2024 Approved IOS Selection Showcase Premier PSP Emulators Ranked #1-5</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/auroras-hdv-does-it-elevate-your-home-cinema-for-2024/"><u>Aurora's HDV Does It Elevate Your Home Cinema for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-10-mobile-games-hacking-tools-on-android-rooted-and-non-rooted-options/"><u>Best 10 Mobile Games Hacking Tools on Android: Rooted & Non-Rooted Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-vsco-features-advantages-disadvantages-and-top-substitutes/"><u>Comprehensive Guide: Understanding VSCO – Features, Advantages, Disadvantages, and Top Substitutes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-sony-xperia-5-v-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Sony Xperia 5 V?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-apple-clips-expert-reviews-and-detailed-instructional-insights/"><u>Mastering Apple Clips: Expert Reviews & Detailed Instructional Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-8-ios-data-backup-solutions-protecting-your-photos-messages-and-more/"><u>Top 8 iOS Data Backup Solutions: Protecting Your Photos, Messages & More</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streampulse-app-testimonials/"><u>[Updated] StreamPulse App Testimonials</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unhindered-vision-capture-tool-for-2024/"><u>[Updated] Unhindered Vision Capture Tool for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anker-launches-revolutionary-solix-pioneering-the-future-of-home-energy-management/"><u>Anker Launches Revolutionary Solix: Pioneering the Future of Home Energy Management</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-steps-to-transition-from-windows-to-linux-mint-for-optimized-performance-cnet/"><u>Complete Steps to Transition From Windows to Linux Mint for Optimized Performance | C|Net</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-why-openai-leads-the-charge-in-advocacy-for-stricter-ai-oversight/"><u>Deciphering Why OpenAI Leads the Charge in Advocacy for Stricter AI Oversight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolution-of-dev-responsibilities-as-seen-by-agnes-ro-of-atlassian-expert-analysis-on-zdnet/"><u>Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-smart-8-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Smart 8 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-codenotarys-sbom-solution-a-revolution-in-managing-dependencies-on-kubernetes-insights-from-zdnet/"><u>Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphones-and-androids-face-off-determining-the-perfect-fit-for-your-needs/"><u>IPhones and Androids Face-Off: Determining the Perfect Fit for Your Needs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-shift-to-cloud-infrastructure-amidst-an-era-of-persistent-on-premises-systems-insights-from-zdnet/"><u>Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-streamlining-linux-and-open-source-docs-solutions-from-zdnet/"><u>Organizing Chaos: Streamlining Linux & Open Source Docs - Solutions From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-cloud-tech-vs-current-dominance-of-on-site-solutions-a-deep-dive-with-zdnet/"><u>The Rise of Cloud Tech Vs. Current Dominance of On-Site Solutions - A Deep Dive with ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-crm-platforms-of-2022-revealed-see-whos-leading-in-customer-engagement-zdnet/"><u>Top CRM Platforms of 2022 Revealed: See Who's Leading in Customer Engagement - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-leading-antivirus-programs-according-to-zdnet/"><u>Ultimate List: Leading Antivirus Programs , According to ZDNet</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-best-free-avi-video-rotators-for-windows-mac-android-and-iphone-in-year/"><u>Updated The Best Free AVI Video Rotators for Windows, MAC, Android, and iPhone in Year</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-vlog-like-a-pro-10-essential-editing-apps-for-mobile-creators/"><u>Updated Vlog Like a Pro 10 Essential Editing Apps for Mobile Creators</u></a></li>
 </ul></div>
 

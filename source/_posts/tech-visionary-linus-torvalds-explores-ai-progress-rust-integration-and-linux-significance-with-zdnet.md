@@ -1,7 +1,7 @@
 ---
 title: Tech Visionary Linus Torvalds Explores AI Progress, Rust Integration, and Linux Significance with ZDNET
-date: 2024-12-18T23:45:27.300Z
-updated: 2024-12-25T00:29:33.324Z
+date: 2024-12-27T07:38:41.933Z
+updated: 2025-01-03T07:29:20.218Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-expertise-in-forming-inspiring-collage-photos-for-2024/"><u>[New] Expertise in Forming Inspiring Collage Photos for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-envisioning-the-future-strategies-for-metaverse-brands/"><u>[New] In 2024, Envisioning the Future Strategies for Metaverse Brands</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unparalleled-pc-sound-control/"><u>[Updated] Unparalleled PC Sound Control</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-mastery-accessing-windows-admin-settings/"><u>Achieving Mastery: Accessing Windows Admin Settings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/amazons-innovative-approach-introducing-an-advanced-ai-benchmark-for-ranking-annotation-gaps-spotlight-on-the-latest-zdnet-report/"><u>Amazon's Innovative Approach: Introducing an Advanced AI Benchmark for Ranking Annotation Gaps - Spotlight on the Latest ZDNet Report</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-progress-in-strategic-convergence-zdnet/"><u>Bridging the Tech and Business Divide: Progress in Strategic Convergence | ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-hdmi-audio-issues-on-windows-7-a-comprehensive-guide/"><u>Fixing HDMI Audio Issues on Windows 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-unlock-iphone-photo-potential-with-leading-line-techniques/"><u>In 2024, Unlock iPhone Photo Potential with Leading Line Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/intel-predicts-enterprise-adoption-of-ai-over-next-three-to-five-years-insights-from-zdnet/"><u>Intel Predicts Enterprise Adoption of AI Over Next Three to Five Years: Insights From ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-motorola-moto-g24-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Motorola Moto G24</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-solutions-for-preventing-your-app-from-crashing-during-the-2024-release/"><u>Troubleshooting Guide: Solutions for Preventing Your App From Crashing During the 2024 Release</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-kubernetes-its-critical-role-in-modern-software-deployment/"><u>Unveiling Kubernetes: Its Critical Role in Modern Software Deployment</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/utilisation-des-copies-dombres-de-fichiers-sur-windows-10-expliquee-en-detail-tutoriel-technique/"><u>Utilisation Des Copies D'ombres De Fichiers Sur Windows 10 Expliquée en Détail - Tutoriel Technique</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-career-fulfillment-surpasses-tech-giants-the-joy-of-working-outside-the-apple-orchard/"><u>Why Career Fulfillment Surpasses Tech Giants: The Joy of Working Outside the Apple Orchard</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-expert-picks-leading-crm-solutions-of-2022-tailored-for-smb-efficiency-and-growth/"><u>ZDNet's Expert Picks: Leading CRM Solutions of 2022 Tailored for SMB Efficiency and Growth</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-breaking-barriers-with-iphone-x-fixing-facial-detection-for-2024/"><u>[New] Breaking Barriers with iPhone X Fixing Facial Detection for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-video-cutting-with-vivacut-detailed-review-and-guidebook-24/"><u>[New] Master Video Cutting with VivaCut Detailed Review & Guidebook '24</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-latest-evolution-2023s-samsung-bd-j5900-review-for-2024/"><u>[Updated] The Latest Evolution 2023'S Samsung BD-J5900 Review for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-thriving-livestreams-strategies-for-beginners-with-low-followers/"><u>2024 Approved Thriving Livestreams Strategies for Beginners with Low Followers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ais-forefront-top-8-trends-shaping-technology-this-year-and-how-professionals-can-adapt-zdnet/"><u>AI's Forefront: Top 8 Trends Shaping Technology This Year & How Professionals Can Adapt | ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/confronting-giants-in-the-tech-world-is-llama-3-or-gpt-4-more-advanced/"><u>Confronting Giants in the Tech World - Is Llama 3 or GPT-4 More Advanced?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-top-rated-no-cost-video-editors-cnet/"><u>Discover the Ultimate Selection of Top-Rated, No-Cost Video Editors | CNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-low-codeno-code-landscape-implications-for-tech-job-evolution-insights-by-zdnet/"><u>Expanding Low-Code/No-Code Landscape: Implications for Tech Job Evolution - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-future-without-microsofts-support-top-5-alternatives-for-your-windows-11-machine-insights-by-zdnet/"><u>Facing the Future without Microsoft's Support: Top 5 Alternatives for Your Windows 11 Machine - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-windows-11-upgrade-availability-is-it-over/"><u>Free Windows 11 Upgrade Availability: Is It Over?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-find-x7-ultra-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Find X7 Ultra to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-standard-to-spectacular-your-guide-to-choosing-a-high-res-screen/"><u>In 2024, From Standard to Spectacular Your Guide to Choosing a High-Res Screen</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-network-monitoring-solutions-of-2023-industry-experts-recommendations-gurupick/"><u>Top Network Monitoring Solutions of 2023: Industry Experts' Recommendations - GuruPick</u></a></li>
+<li><a href="https://app-tips.techidaily.com/united-forces-the-tech-world-rallies-around-ciq-for-rocky-linuxs-launch-paving-a-new-path-in-open-source-innovation-zdnet/"><u>United Forces: The Tech World Rallies Around CIQ for Rocky Linux's Launch, Paving a New Path in Open Source Innovation | ZDNET</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleash-your-adventurer-spirit-in-the-elder-scrolls-v-skyrim-for-nintendo-switch-a-comprehensive-analysis/"><u>Unleash Your Adventurer Spirit in The Elder Scrolls V: Skyrim for Nintendo Switch – A Comprehensive Analysis</u></a></li>
 </ul></div>
 

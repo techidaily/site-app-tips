@@ -1,7 +1,7 @@
 ---
 title: Impedance Matching
-date: 2024-12-20T04:24:52.638Z
-updated: 2024-12-25T00:18:04.925Z
+date: 2024-12-30T22:20:39.275Z
+updated: 2025-01-02T22:33:03.039Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-reigning-on-social-media-top-tips-to-elevate-your-business/"><u>[New] In 2024, Reigning on Social Media Top Tips to Elevate Your Business</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-role-and-significance-of-blue-icons-in-fb-chats/"><u>[Updated] The Role and Significance of Blue Icons in FB Chats</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/ace-the-green-screen-scene-with-these-tips/"><u>Ace the Green Screen Scene with These Tips</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/ae-user-guide-adding-flavor-with-typefaces-for-2024/"><u>AE User Guide Adding Flavor with Typefaces for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-3-updates-in-the-latest-version-of-linux-kernel-v69-technews/"><u>Best 3 Updates in the Latest Version of Linux Kernel v6.9 | TechNews</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-performance-boost-your-sites-traffic-and-conversions/"><u>Cookiebot-Driven Performance: Boost Your Site's Traffic & Conversions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/could-microsofts-new-innovation-drive-you-crazy-or-will-it-surprise-and-delight-insights-from-zdnet/"><u>Could Microsoft's New Innovation Drive You Crazy, or Will It Surprise and Delight? Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/create-your-digital-twin-build-your-own-personal-ai-avatar-with-these-simple-steps-discover-the-future-of-interaction/"><u>Create Your Digital Twin: Build Your Own Personal AI Avatar with These Simple Steps – Discover the Future of Interaction</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhanced-performance-post-update-resolving-persistent-chilling-problems-in-new-world/"><u>Enhanced Performance Post-Update: Resolving Persistent Chilling Problems in New World</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gaining-an-edge-in-the-marketplace-with-ai-companion-gpt/"><u>Gaining an Edge in the Marketplace with AI Companion, GPT</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-how-to-capture-computer-screens-and-webcam-video-simultaneously-on-windows10/"><u>In 2024, How to Capture Computer Screens and Webcam Video Simultaneously on Windows10?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-self-cloning-craft-a-customized-ai-persona-for-enhanced-communication-learn-how-to-make-it-happen-today/"><u>Mastering Self-Cloning: Craft a Customized AI Persona for Enhanced Communication - Learn How to Make It Happen Today!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/open-source-mastery-and-proficiency-with-linux-a-ticket-to-employment-resilience-amidst-economic-uncertainty-featured-on-zdnet/"><u>Open Source Mastery and Proficiency with Linux: A Ticket to Employment Resilience Amidst Economic Uncertainty | Featured on ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-process-to-install-latest-video-card-drivers-on-windows-systems/"><u>Step-by-Step Process to Install Latest Video Card Drivers on Windows Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-higher-output-with-the-programmer-approach-learn-from-dev-teams-zdnet/"><u>Unlocking Higher Output with the Programmer Approach - Learn From Dev Teams | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-low-code-tech-is-transforming-company-desirability-according-to-zdnet/"><u>Why Low-Code Tech Is Transforming Company Desirability, According to ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-professionals-prefer-windows-11-according-to-microsoft-and-zdnet-analysis/"><u>Why Professionals Prefer Windows 11, According to Microsoft & ZDNet Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-specter-3-challenge-golem-4s-arrival/"><u>[New] Specter 3 Challenge Golem 4'S Arrival</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-complete-self-guided-tour-to-host-and-participate-in-google-meet-for-2024/"><u>[Updated] Complete Self-Guided Tour to Host & Participate in Google Meet for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-transfer-secrets-top-5-tactics-to-move-files-onto-your-pc-for-2024/"><u>[Updated] Transfer Secrets Top 5 Tactics to Move Files Onto Your PC for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-revolution-how-red-hat-enhances-system-admin-tasks-with-cutting-edge-intelligence-zdnet/"><u>AI Revolution: How Red Hat Enhances System Admin Tasks with Cutting-Edge Intelligence | ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audioascend-rising-over-dacast-for-2024/"><u>AudioAscend Rising Over DaCast for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/avi-to-mp4-transformation-no-cost-solutions-for-web-and-macos-users/"><u>Avi to Mp4 Transformation: No Cost Solutions for Web and macOS Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-laptop-lifespan-with-windows-11-battery-reports-a-step-by-step-tutorial-for-efficient-usage/"><u>Boost Your Laptop Lifespan with Windows 11 Battery Reports: A Step-by-Step Tutorial for Efficient Usage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevating-developer-proficiency-through-github-copilot-the-synergy-of-productivity-and-patience-in-tech-innovation-zdnet/"><u>Elevating Developer Proficiency Through GitHub Copilot: The Synergy of Productivity and Patience in Tech Innovation | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-share-insights-on-their-recent-purchase-of-affordable-surface-pro-11-what-you-need-to-know/"><u>Experts Share Insights on Their Recent Purchase of Affordable Surface Pro 11 - What You Need To Know!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-a05s-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Samsung Galaxy A05s</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-7-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 7 without Password?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-oppo-find-x7-ultra-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Oppo Find X7 Ultra?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-safely-set-up-your-own-windows-recovery-disk-using-easy-4-step-guide-techinsights/"><u>How to Safely Set Up Your Own Windows Recovery Disk Using Easy 4-Step Guide | TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/intrusion-detection-systems/"><u>Intrusion Detection Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/supercharge-your-microsoft-edge-top-pick-browser-extensions-featured-on-zdnet/"><u>Supercharge Your Microsoft Edge: Top Pick Browser Extensions Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-end-of-an-era-is-microsofts-no-cost-windows-11-enhancement-plan-over-digital-insights/"><u>The End of an Era: Is Microsoft's No-Cost Windows 11 Enhancement Plan Over? | Digital Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-cash-app-and-square-downtime-essential-info-for-smbs-insights-from-zdnet/"><u>Understanding the Cash App & Square Downtime: Essential Info for SMBs - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unmatched-longevity-suse-extends-19-year-support-on-latest-distributions-a-standout-in-the-linux-world-techinsights/"><u>Unmatched Longevity: SUSE Extends 19-Year Support on Latest Distributions - A Standout in the Linux World | TechInsights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/whats-next-for-your-windows-11-device-as-mainstream-support-winds-down-exploring-5-essential-alternatives-insights-from-zdnet/"><u>What's Next for Your Windows 11 Device as Mainstream Support Winds Down: Exploring 5 Essential Alternatives - Insights From ZDNet</u></a></li>
 </ul></div>
 

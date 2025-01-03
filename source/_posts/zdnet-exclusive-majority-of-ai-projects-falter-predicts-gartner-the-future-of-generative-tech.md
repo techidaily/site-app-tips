@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Majority of AI Projects Falter, Predicts Gartner | The Future of Generative Tech"
-date: 2024-12-21T00:19:02.548Z
-updated: 2024-12-25T00:40:26.833Z
+date: 2024-12-29T08:32:30.657Z
+updated: 2025-01-03T03:45:20.948Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-customizing-your-channel-icon-banner-and-thumbnail-ideas/"><u>[New] 2024 Approved Customizing Your Channel Icon, Banner & Thumbnail Ideas</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-discover-the-leading-tools-for-fb-video-downloads-in-minutes-for-2024/"><u>[New] Discover the Leading Tools for FB Video Downloads in Minutes for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-easily-capturing-iphone-screens-on-the-go/"><u>[New] Easily Capturing iPhone Screens on the Go</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-exploring-digital-film-coloring-methods/"><u>[Updated] Exploring Digital Film Coloring Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-hottest-programming-languages-of-today-and-ideal-learning-resources-as-featured-by-zdnet/"><u>Discover the Hottest Programming Languages of Today & Ideal Learning Resources as Featured by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-large-scale-industries-how-anthropics-revolutionary-claude-plan-transforms-business-ai-capabilities-featured-on-zdnet/"><u>Empowering Large-Scale Industries: How Anthropic's Revolutionary Claude Plan Transforms Business AI Capabilities | Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-development-work-is-changing-a-conversation-with-atlassians-agnes-ro-as-spotted-on-zdnet/"><u>How Development Work Is Changing: A Conversation with Atlassian's Agnes Ro, as Spotted on ZDNet</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-13windowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone 13/Windows/Mac</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leveraging-design-thinking-for-closer-alignment-of-it-experts-with-user-centric-solutions-a-zdnet-perspective/"><u>Leveraging Design Thinking for Closer Alignment of IT Experts with User-Centric Solutions: A ZDNet Perspective</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-modern-obstacles-dealing-with-ambiguous-results-and-faulty-accuracy-in-artificial-intelligence-analysis-by-zdnet/"><u>Mastering Modern Obstacles: Dealing with Ambiguous Results and Faulty Accuracy in Artificial Intelligence | Analysis by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/pioneering-beyond-standard-llms-in-artificial-intelligence-development-insights-from-an-ai-scientist-at-zdnet/"><u>Pioneering Beyond Standard LLMs in Artificial Intelligence Development | Insights From an AI Scientist at ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-founders-flowchart-for-launching-a-review-video-channel/"><u>The Founder's Flowchart for Launching a Review Video Channel</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/transformation-tips-applying-japans-favorite-on-screen-effects/"><u>Transformation Tips Applying Japan's Favorite On-Screen Effects</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-free-vmware-productivity-your-step-by-step-tutorial-on-obtaining-personal-copies-of-fusion-pro-and-workstation-pro-zdnet-insights/"><u>Unlock Free VMware Productivity: Your Step-by-Step Tutorial on Obtaining Personal Copies of Fusion Pro and Workstation Pro | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-simplified-access-how-superduperdb-revolutionizes-ai-application-integration-insights-from-zdnet/"><u>Unlocking Simplified Access: How SuperDuperDB Revolutionizes AI Application Integration - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unraveling-complexity-streamlining-linux-and-community-guides-for-effortless-understanding/"><u>Unraveling Complexity: Streamlining Linux & Community Guides for Effortless Understanding</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-sdr-vs-hdr-choosing-the-best-for-professional-outputs/"><u>[New] 2024 Approved SDR vs HDR Choosing the Best for Professional Outputs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-transforming-youtube-footage-for-ultimate-quality-for-2024/"><u>[Updated] Transforming YouTube Footage for Ultimate Quality for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cost-effective-customization-how-openai-reduced-the-price-of-gpt-4o-mini-for-easy-fine-tuning-insights-from-zdnet/"><u>Cost-Effective Customization: How OpenAI Reduced the Price of GPT-4o Mini for Easy Fine-Tuning - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creating-timely-alerts-a-step-by-step-guide-to-setting-up-slackbot-reminders/"><u>Creating Timely Alerts: A Step-by-Step Guide to Setting Up Slackbot Reminders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/economical-pc-monitoring-devices-for-2024/"><u>Economical PC Monitoring Devices for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-citizen-devs-the-rising-influence-in-crafting-business-software-solutions-zdnet/"><u>Empowering Citizen Devs: The Rising Influence in Crafting Business Software Solutions | ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-fine-tuning-instagram-stories-tempo-with-ease/"><u>In 2024, Fine-Tuning Instagram Stories Tempo with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-key-to-engaging-intros-in-podcast-scripts/"><u>In 2024, The Key to Engaging Intros in Podcast Scripts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/pioneering-ai-benchmark-standard-released-by-amazon-detailed-in-zdnets-insightful-article-on-enhanced-rag-measurement/"><u>Pioneering AI Benchmark Standard Released by Amazon, Detailed in ZDNet's Insightful Article on Enhanced RAG Measurement</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-gameloop-malfunctions-a-guide-to-stabilizing-your-games-on-windows-1110-systems/"><u>Resolving GameLoop Malfunctions: A Guide to Stabilizing Your Games on Windows 11/10 Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-transition-ahead-how-office-users-can-stay-connected-with-new-microsoft-365-services-in-the-coming-year-zdnet/"><u>Seamless Transition Ahead: How Office Users Can Stay Connected With New Microsoft 365 Services in the Coming Year | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-unveiling-of-microsofts-latest-innovation-a-game-changer-or-annoyance/"><u>The Unveiling of Microsoft's Latest Innovation - A Game Changer or Annoyance?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-highly-rated-electric-smokers-your-ultimate-guide/"><u>Top 5 Highly-Rated Electric Smokers : Your Ultimate Guide</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/understanding-risks-key-disadvantages-when-diving-into-crypto-investment-insights-by-yl-computing/"><u>Understanding Risks: Key Disadvantages When Diving Into Crypto Investment - Insights by YL Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-security-alert-critical-vulnerability-found-and-patched-in-popular-curl-tool-for-linux-systems-read-the-full-story-on-zdnet/"><u>Urgent Security Alert: Critical Vulnerability Found & Patched in Popular Curl Tool for Linux Systems - Read the Full Story on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-why-it-departments-must-step-up-for-superior-customer-interactions/"><u>ZDNet Exclusive: Why IT Departments Must Step Up for Superior Customer Interactions</u></a></li>
 </ul></div>
 

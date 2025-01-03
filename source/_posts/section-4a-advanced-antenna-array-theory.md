@@ -1,7 +1,7 @@
 ---
 title: "Section 4A: Advanced Antenna Array Theory"
-date: 2024-12-22T00:43:42.357Z
-updated: 2024-12-24T19:51:09.701Z
+date: 2025-01-01T12:09:38.274Z
+updated: 2025-01-03T12:04:44.407Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-snapshot-showdown-youtube-shorts-challenge-to-the-titans-of-tiktok/"><u>[New] In 2024, Snapshot Showdown YouTube Shorts Challenge to the Titans of TikTok</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamlining-virtual-meetings-integrating-zoom-with-skype-effortlessly/"><u>[Updated] Streamlining Virtual Meetings Integrating Zoom with SKYPE Effortlessly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-frustration-with-microsoft-exploring-alternatives-for-a-better-tech-ecosystem/"><u>Beyond Frustration with Microsoft? Exploring Alternatives for a Better Tech Ecosystem</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95708594-9780008256272-cancer-2018-your-personal-horoscope/"><u>Cancer 2018: Your Personal Horoscope | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-virtualization-at-no-cost-discover-the-steps-to-downloading-vmwares-latest-free-personal-edition-for-fusion-pro-and-workstation-pro-insights-from88/"><u>Experience Virtualization at No Cost: Discover the Steps to Downloading VMware's Latest Free Personal Edition for Fusion Pro and Workstation Pro - Insights From ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-compatibility-problems-between-your-astro-a50-and-command-center-interface/"><u>Fixing Compatibility Problems Between Your Astro A50 and Command Center Interface</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-m34-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy M34 5G Phone?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-photoshop-tutorial-for-novices-essential-methods-to-enhance-your-images/"><u>Step-by-Step Photoshop Tutorial for Novices: Essential Methods to Enhance Your Images</u></a></li>
-<li><a href="https://app-tips.techidaily.com/streamline-your-kubernetes-management-with-red-hats-latest-innovation-openshift-lightspeed-a-smart-ai-tool-tailored-for-admins/"><u>Streamline Your Kubernetes Management with Red Hat's Latest Innovation - OpenShift Lightspeed, a Smart AI Tool Tailored for Admins</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/twitch-basics-understanding-the-ins-and-outs-of-live-streaming-conversations/"><u>Twitch Basics: Understanding the Ins and Outs of Live Streaming Conversations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-business-growth-with-anthropics-claude-platform-the-future-of-scalable-ai-solutions/"><u>Unlocking Business Growth with Anthropic's Claude Platform - The Future of Scalable AI Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-a-deep-dive-into-toms-hardware-reviews/"><u>Unlocking Performance: A Deep Dive Into Tom's Hardware Reviews</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-best-mac-screen-recorders-a-comprehensive-guide/"><u>[New] Best Mac Screen Recorders A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-elite-writers-of-aural-narratives/"><u>[New] In 2024, Elite Writers of Aural Narratives</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-hacking-twitters-humor-for-personal-use-on-pc/"><u>[New] In 2024, Hacking Twitter's Humor for Personal Use on PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-maximize-your-mobile-podcast-experience-on-iphone/"><u>[New] In 2024, Maximize Your Mobile Podcast Experience on iPhone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-realme-11-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Realme 11 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-change-rendering-api-glitch-dota-2-error-2024-with-this-quick-guide/"><u>Beat the Change Rendering API Glitch (Dota 2 Error 2024) with This Quick Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-clearfocuscutout-how-to-blur-your-youtube-videos-background/"><u>In 2024, ClearFocusCutOut How to Blur Your YouTube Video's Background</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linux-vendor-kernel-security-compromised-recent-research-confirms-and-suggests-remedies-zdnet/"><u>Linux Vendor Kernel Security Compromised? Recent Research Confirms & Suggests Remedies | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-your-productivity-with-ubuntu-2204-a-powerful-desktop-os-from-zdnet/"><u>Maximize Your Productivity with Ubuntu 22.04: A Powerful Desktop OS From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-dual-comeback-why-openstack-and-kata-containers-are-gaining-popularity-again-insights-from-zdnet/"><u>The Dual Comeback: Why OpenStack & Kata Containers Are Gaining Popularity Again - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-slack-connect-a-complete-guide-on-features-and-usage/"><u>Understanding Slack Connect: A Complete Guide on Features & Usage</u></a></li>
 </ul></div>
 

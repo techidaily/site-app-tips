@@ -1,7 +1,7 @@
 ---
 title: Repeated Security Incidents at LastPass - Latest Update From ZDNet
-date: 2024-12-26T22:17:02.414Z
-updated: 2025-01-03T04:37:11.757Z
+date: 2024-12-27T01:43:54.792Z
+updated: 2025-01-02T18:35:14.741Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,24 +81,21 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-transforming-visual-feeds-with-harmonious-hits-for-2024/"><u>[New] Transforming Visual Feeds with Harmonious Hits for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-discover-the-creme-de-la-creme-of-mac-snipers/"><u>[Updated] 2024 Approved Discover the Crème De La Crème of Mac Snipers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-leading-the-pack-in-instagram-content-crafting-puzzle-feeds/"><u>[Updated] 2024 Approved Leading the Pack in Instagram Content Crafting Puzzle Feeds</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-enhance-team-collaboration-through-effective-microsoft-teams-snap-practices/"><u>[Updated] In 2024, Enhance Team Collaboration Through Effective Microsoft Teams Snap Practices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-precision-zoom-mastery-in-microsoft-teams-sessions/"><u>[Updated] Precision Zoom Mastery in Microsoft Teams Sessions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1password-goes-mobile-with-significant-enhancement-see-whats-changed-zdnet/"><u>1Password Goes Mobile with Significant Enhancement, See What's Changed - ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fostering-fast-visual-storytelling-with-google-imagery/"><u>2024 Approved Fostering Fast Visual Storytelling with Google Imagery</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cut-costs-and-boost-security-grab-keeper-password-manager-for-half-price-shop-at-zdnet-today/"><u>Cut Costs and Boost Security! Grab Keeper Password Manager for Half Price - Shop at ZDNET Today!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-include-a-program-in-the-system-tray-on-windows-expert-advice-from-yl-software/"><u>How To Include A Program In The System Tray On Windows - Expert Advice From YL Software</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-12-mini-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 12 mini without Security Questions?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/implementing-dual-authentication-on-github-via-mobile-apps-a-comprehensive-guide/"><u>Implementing Dual-Authentication on GitHub via Mobile Apps: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-techniques-for-webcam-integration-in-game-recording/"><u>In 2024, Top Techniques for WebCam Integration in Game Recording</u></a></li>
-<li><a href="https://common-error.techidaily.com/lonicera-morrowii-morrows-honeysuckle-or-northern-bush-honeysuckle-native-to-east-asia-it-produces-white-or-pinkish-white-flowers-with-minimal-scent-and-is-62/"><u>Lonicera Morrowii (Morrow's Honeysuckle or Northern Bush Honeysuckle): Native to East Asia, It Produces White or Pinkish-White Flowers with Minimal Scent and Is Often Used as Groundcover in Gardens.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-password-free-access-simplified-with-dashlanes-new-feature-insights-from-zdnet/"><u>Master Password-Free Access Simplified with Dashlane's New Feature - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/no-excuses-for-bad-passwords-anymore-master-managed-logins-with-the-ultimate-guide-to-password-managers/"><u>No Excuses for Bad Passwords Anymore - Master Managed Logins with the Ultimate Guide to Password Managers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-lastpass-substitutes-expert-picks-by-zdnet/"><u>Top LastPass Substitutes : Expert Picks by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-password-management-tools-of-2024-industry-experts-picks-featured-on-zdnet/"><u>Top-Ranked Password Management Tools of 2024: Industry Experts' Picks Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-exclusive-savings-on-keeper-password-manager-secure-your-accounts-now-with-a-50-discount/"><u>Unlock Exclusive Savings on Keeper Password Manager - Secure Your Accounts Now with a 50% Discount!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/upgrade-your-security-how-1passwords-new-passkey-feature-outshines-the-master-password-insights-from-zdnet/"><u>Upgrade Your Security: How 1Password's New Passkey Feature Outshines the Master Password - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pioneering-strategies-for-success-in-the-spotify-ad-arena/"><u>[New] Pioneering Strategies for Success in the Spotify Ad Arena</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-chuckle-fest-the-ultimate-list-of-hilarious-youtube-personalities/"><u>[Updated] Chuckle Fest The Ultimate List of Hilarious YouTube Personalities</u></a></li>
+<li><a href="https://win-top.techidaily.com/1-sostituzione-e-aggiornamento-ssd-una-guida-completa-per-la-versione-piu-recente-di-clonezilla/"><u>1. Sostituzione E Aggiornamento SSD: Una Guida Completa per La Versione Più Recente Di Clonezilla</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweet-to-whatsapp-video-dissemination-methods/"><u>2024 Approved Tweet-to-WhatsApp Video Dissemination Methods</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advanced-array-designs-employ-strategies-like-amplitude-tapering-and-null-steering-algorithms-to-control-side-lobes-for-improved-directivity-and-reduced-int87/"><u>Advanced Array Designs Employ Strategies Like Amplitude Tapering and Null-Steering Algorithms to Control Side Lobes for Improved Directivity and Reduced Interference Potential.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-initiatives-surge-by-10x-in-recent-year-insights-from-latest-research-zdnet/"><u>AI Initiatives Surge by 10X in Recent Year - Insights From Latest Research | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-classic-gameplay-seamlessly-adding-achievements-using-retroarch/"><u>Boosting Classic Gameplay - Seamlessly Adding Achievements Using Retroarch</u></a></li>
+<li><a href="https://app-tips.techidaily.com/conquering-chaos-in-linuxopen-source-guidebooks-explore-our-streamlined-remedy-zdnet/"><u>Conquering Chaos in Linux/Open-Source Guidebooks: Explore Our Streamlined Remedy | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-barriers-how-firms-find-it-challenging-to-leverage-generative-ai-according-to-deloittes-latest-insights/"><u>Exploring the Barriers: How Firms Find It Challenging to Leverage Generative AI According to Deloitte's Latest Insights</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-in-depth-look-at-camstudios-capturing-capabilities/"><u>In 2024, In-Depth Look at CamStudio's Capturing Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-dealing-with-alexas-echo-is-offline-error-message/"><u>Solving Common Issues - Dealing with Alexa's 'Echo Is Offline' Error Message</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tidying-up-linux-and-open-source-manuals-discover-the-ultimate-fix/"><u>Tidying Up Linux & Open Source Manuals: Discover the Ultimate Fix!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-link-between-kernel-vulnerabilities-and-linux-system-security-proactive-measures-for-protection/"><u>Understanding the Link Between Kernel Vulnerabilities and Linux System Security: Proactive Measures for Protection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/upgrading-to-latest-death-adder-on-win11/"><u>Upgrading to Latest DeaTH Adder on Win11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-alert-microsoft-faces-critical-challenge-with-windows-10-only-a-year-leftzdnet/"><u>Urgent Alert: Microsoft Faces Critical Challenge with Windows 10 - Only a Year Left![ZDNet]</u></a></li>
 </ul></div>
 

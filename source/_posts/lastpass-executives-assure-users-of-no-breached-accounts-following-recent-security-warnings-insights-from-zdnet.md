@@ -1,7 +1,7 @@
 ---
 title: "LastPass Executives Assure Users of No Breached Accounts Following Recent Security Warnings: Insights From ZDNet"
-date: 2024-12-28T01:42:44.116Z
-updated: 2025-01-03T03:33:01.625Z
+date: 2025-01-01T22:24:01.262Z
+updated: 2025-01-02T17:24:58.710Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/03aa98ead41db04bf63114eadc16ec748777a4353
 Two LastPass vice presidents have released statements about the situation surrounding LastPass security issues that came to light this week. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Two LastPass vice presidents have released statements about the situation surrou
 [![web-browsers.jpg](https://www.zdnet.com/a/img/resize/86d91f7746b92a734c6f4130024638d05fe70bc2/2021/04/22/8feb3e5c-47fc-4cea-be35-4460e9f080ef/web-browsers.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best browsers for privacy Most people use Google Chrome as their default browser. But privacy is another matter for the online ad giant.  Read now](https://www.zdnet.com/article/best-browser-for-privacy/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Two days ago, hundreds of LastPass users took to [Twitter](https://twitter.com/technology%5Fgreg/status/1475600580521381889), [Reddit](https://www.reddit.com/r/Lastpass/comments/rpy0uq/recent%5Fsuccessful%5Flogin%5Fattempts%5Ffrom%5Fodd%5Fips/), [and other sites](https://news.ycombinator.com/item?id=29705957) to complain that they were getting alerts about their master password being used by someone who was not them. [Some reported](https://twitter.com/shift%5Fplusone/status/1475959354742525956) that even after changing their master password, someone tried to access their account again. 
@@ -84,18 +84,18 @@ Parent company LogMeIn announced just two weeks ago that it is [spinning off Las
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-how-much-do-you-earn-when-a-million-watch-youtube/"><u>[New] How Much Do You Earn When a Million Watch Youtube?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-dos-and-donts-for-twilight-self-portraiture-for-2024/"><u>[Updated] Essential Do's and Don'ts for Twilight Self-Portraiture for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-analyzing-instagram-de-followings/"><u>[Updated] In 2024, Analyzing Instagram De-Followings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620191219-7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-graphically-advanced-game-emulators-high-quality-visuals-and-optimal-frame-rates/"><u>Best Graphically Advanced Game Emulators: High-Quality Visuals & Optimal Frame Rates</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-uwu-text-to-speech-apps-mastering-anime-character-vocalization-techniques/"><u>Best UwU Text-to-Speech Apps: Mastering Anime Character Vocalization Techniques</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/crystalstream-hd-converter-software-suite/"><u>CrystalStream HD Converter Software Suite</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/experts-handbook-elevating-screencasting-proficiency-using-mobizen-technology-for-2024/"><u>Expert's Handbook Elevating Screencasting Proficiency Using Mobizen Technology for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-the-echoes-of-yesteryears-scanning-and-storing-vintage-prints/"><u>In 2024, Capturing the Echoes of Yesteryears Scanning and Storing Vintage Prints</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-redownload-or-restore-your-bought-apps-and-in-app-items-on-ios/"><u>Step-by-Step Guide: Redownload or Restore Your Bought Apps & In-App Items on iOS</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-ultimate-reference-to-youtube-video-aspect-ratios/"><u>The Ultimate Reference to YouTube Video Aspect Ratios</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-xvid-media-player-compatible-with-windows-macos-android-and-iphone/"><u>Top Rated Xvid Media Player: Compatible with Windows, MacOS, Android & iPhone</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-effortlessly-capture-and-archive-your-favorite-fb-story-moments/"><u>[Updated] 2024 Approved Effortlessly Capture and Archive Your Favorite FB Story Moments</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unparalleled-video-grabber-suite-your-download-delight/"><u>[Updated] Unparalleled Video Grabber Suite - Your Download Delight</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-strategy-for-unearthing-secret-youtube-videos/"><u>2024 Approved Step-by-Step Strategy for Unearthing Secret YouTube Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2024s-ultimate-guide-to-free-password-management-tools-professional-insights-and-ratings/"><u>2024'S Ultimate Guide to Free Password Management Tools: Professional Insights & Ratings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-siri-the-new-evolution-of-bing-with-ai-consider-this-the-future-insights-from-zdnet/"><u>Apple's Siri: The New Evolution of Bing with AI? Consider This the Future! - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/back-to-networked-bliss-fixing-your-windowed-mc-disconnects/"><u>Back to Networked Bliss: Fixing Your Windowed MC Disconnects</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/chromebooks-premium-free-video-capture-extensions-for-2024/"><u>Chromebook's Premium Free Video Capture Extensions for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mutt-moments-bond-over-pets-games/"><u>Mutt Moments: Bond Over Pets' Games</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-top-rated-vpn-and-password-manager-bundle-at-an-unbeatable-price-of-only-30-find-out-more-zdnet/"><u>Secure Your Digital Life: Top-Rated VPN & Password Manager Bundle at an Unbeatable Price of Only $30 - Find Out More [ZDNET]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-entire-staff-with-1password-unlock-ultimate-protection-for-only-1995-monthly-it-business-solutions/"><u>Securing Your Entire Staff with 1Password - Unlock Ultimate Protection for Only $19.95 Monthly | IT Business Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-macos-privacy-easy-steps-to-retrieve-stored-passwords-from-apples-keychain/"><u>Unlocking macOS Privacy: Easy Steps to Retrieve Stored Passwords From Apple’s Keychain</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unraveling-virtual-physical-coexistence-what-is-mixed-reality-in-2024/"><u>Unraveling Virtual-Physical Coexistence What Is Mixed Reality, In 2024</u></a></li>
 </ul></div>
 

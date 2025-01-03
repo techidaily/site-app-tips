@@ -1,7 +1,7 @@
 ---
 title: No Excuses for Bad Passwords Anymore - Master Managed Logins with the Ultimate Guide to Password Managers
-date: 2025-01-01T18:20:33.009Z
-updated: 2025-01-02T19:21:34.293Z
+date: 2025-01-02T05:57:31.770Z
+updated: 2025-01-02T23:51:44.712Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Tell me, what is the password for your bank account? If you can rattle off that password without thinking, chances are pretty good it's not nearly strong enough. Any password you can memorize (unless you have an amazing memory) is probably weak. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -38,7 +38,7 @@ Of course, at this point, you're thinking, "I don't want to have to memorize a b
 Let's step back a bit.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does this even work?
@@ -113,18 +113,22 @@ You've been warned.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-co-production-strategies-for-online-content-proliferation-for-2024/"><u>[Updated] Co-Production Strategies for Online Content Proliferation for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/broadcast-your-gaming-adventures-with-xbox-on-discord/"><u>Broadcast Your Gaming Adventures with Xbox on Discord</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-top-21-zedge-tools-for-customizing-your-phone-with-free-ringtones-and-wallpapers-on-iphoneandroid/"><u>Discover the Ultimate Top 21 Zedge Tools for Customizing Your Phone with Free Ringtones & Wallpapers on iPhone/Android</u></a></li>
-<li><a href="https://solve-info.techidaily.com/elevate-your-online-marketing-experience-the-magic-of-cookiebot-automation/"><u>Elevate Your Online Marketing: Experience the Magic of Cookiebot Automation</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-errant-apps-resolving-0xc000003e-on-windows-11-and-11/"><u>Fixing Errant Apps: Resolving 0xC000003E on Windows 11 & 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovate-your-hobbies-from-board-gaming-to-digital-art-with-my-bots/"><u>Innovate Your Hobbies: From Board Gaming to Digital Art with My Bots</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-google-mdm-and-upcoming-features-an-in-depth-analysis-of-what-to-expect-in-mobile-management-systems-by-2024/"><u>Mastering Google MDM & Upcoming Features: An In-Depth Analysis of What to Expect in ^Mobile Management Systems^ by 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-top-5-hand-drawing-whiteboard-animation-software/"><u>New In 2024, Unleash Your Creativity Top 5 Hand Drawing Whiteboard Animation Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-and-easy-guide-to-rapid-iphone-app-migration-discover-the-fastest-transfer-techniques/"><u>Quick & Easy Guide to Rapid iPhone App Migration: Discover the Fastest Transfer Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/teslas-self-driving-taxi-update-unveiling-the-cost-and-launch-timeline/"><u>Tesla's Self-Driving Taxi Update: Unveiling the Cost & Launch Timeline</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-wi-fi-messaging-apps-for-seamless-internet-text-communication/"><u>Top 5 Wi-Fi Messaging Apps for Seamless Internet Text Communication</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/olutions-to-clear-up-black-space-on-youtube-watching-for-2024/"><u>[New] Solutions to Clear Up Black Space on YouTube Watching for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-creative-composers-cache-essential-no-cost-afx-tools/"><u>[Updated] Creative Composer's Cache Essential, No-Cost AFX Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2024s-ultimate-guide-to-comfortable-keyboard-cushions/"><u>2024'S Ultimate Guide to Comfortable Keyboard Cushions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-tp-link-archer-a6-ac1200-in-depth-evaluation-and-features/"><u>Affordable TP-Link Archer A6 AC1200: In-Depth Evaluation and Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anthropic-unveils-newly-released-free-claude-mobile-application-on-ios-announces-premium-enterprise-solution-a-breakthrough-for-business-efficiency/"><u>Anthropic Unveils Newly Released Free Claude Mobile Application on iOS; Announces Premium Enterprise Solution: A Breakthrough for Business Efficiency!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/arista-expands-into-mid-range-sector-with-advanced-cognitive-network-solutions/"><u>Arista Expands Into Mid-Range Sector with Advanced Cognitive Network Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-camera-calamities-an-experts-guide-to-zoom-display-fixes-for-desktops/"><u>Conquering Camera Calamities: An Expert's Guide to Zoom Display Fixes for Desktops</u></a></li>
+<li><a href="https://app-tips.techidaily.com/defending-your-microsoft-profile-from-hacking-risks-expert-tips-for-enhanced-security-digitalguardianblog/"><u>Defending Your Microsoft Profile From Hacking Risks: Expert Tips for Enhanced Security - DigitalGuardianBlog</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-future-your-5-essential-choices-as-windows-11-officially-loses-mainstream-support/"><u>Facing the Future: Your 5 Essential Choices as Windows 11 Officially Loses Mainstream Support</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-2022-ice-dancing-showcase-review/"><u>In 2024, 2022 Ice Dancing Showcase Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/leading-techniques-for-youtube-mpeg-migration/"><u>Leading Techniques for YouTube MPEG Migration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-rising-complexity-of-ops-how-it-professionals-address-emerging-challenges/"><u>Navigating the Rising Complexity of 'Ops': How IT Professionals Address Emerging Challenges</u></a></li>
+<li><a href="https://app-tips.techidaily.com/red-hat-unveils-innovative-tools-in-newest-enterprise-linux-release-to-simplify-hybrid-cloud-management/"><u>Red Hat Unveils Innovative Tools in Newest Enterprise Linux Release to Simplify Hybrid Cloud Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionary-tech-alert-meet-the-five-most-impactful-ai-hardware-solutions/"><u>Revolutionary Tech Alert: Meet the Five Most Impactful AI Hardware Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-potential-the-role-of-expertise-and-protection-in-advancing-cloud-native-platforms-according-to-zdnet/"><u>Unleashing Potential: The Role of Expertise and Protection in Advancing Cloud-Native Platforms, According to ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/virtual-reality-in-action-a-realistic-approach-for-effective-diabetes-management/"><u>Virtual Reality in Action: A Realistic Approach for Effective Diabetes Management</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-openais-budget-friendly-approach-to-enhancing-gpt-crafting-with-more-affordable-tuning-options/"><u>ZDNet Explores OpenAI's Budget-Friendly Approach to Enhancing GPT-Crafting with More Affordable Tuning Options</u></a></li>
 </ul></div>
 

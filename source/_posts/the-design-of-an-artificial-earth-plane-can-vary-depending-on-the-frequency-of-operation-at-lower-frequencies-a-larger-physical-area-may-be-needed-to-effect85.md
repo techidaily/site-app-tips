@@ -1,7 +1,7 @@
 ---
 title: The Design of an Artificial Earth Plane Can Vary Depending on the Frequency of Operation; at Lower Frequencies, a Larger Physical Area May Be Needed to Effectively Reflect Radio Waves.
-date: 2024-12-22T01:48:07.454Z
-updated: 2024-12-24T16:18:13.748Z
+date: 2024-12-28T17:46:05.883Z
+updated: 2025-01-03T05:34:03.702Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-capturing-dark-scenes-with-iphone-pros/"><u>[New] Capturing Dark Scenes with iPhone Pros</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/treamers-checklist-secure-video-ad-revenue/"><u>[New] Streamer's Checklist Secure Video Ad Revenue</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snaps-in-a-flash-directly-upload-images-from-camera-roll/"><u>2024 Approved Snaps in a Flash Directly Upload Images From Camera Roll</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advancing-developer-productivity-and-endurance-with-github-copilot-a-zdnet-insight/"><u>Advancing Developer Productivity & Endurance with GitHub Copilot - A ZDNet Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-evolution-of-developer-roles-insights-from-atlassians-agnes-ro-featured-in-zdnet/"><u>Exploring the Evolution of Developer Roles: Insights From Atlassian’s Agnes Ro – Featured in ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-realme-11-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Realme 11 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-tech-handbook-working-with-srt-files-on-a-mac/"><u>In 2024, The Ultimate Tech Handbook Working with SRT Files on a Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/is-the-free-windows-10-update-still-available-detailed-insights-from-zdnet/"><u>Is the Free Windows 10 Update Still Available? Detailed Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-cloud-native-futures-unveiling-skillsets-and-enhanced-security-in-emerging-platforms-insights-from-zdnet/"><u>Navigating Cloud-Native Futures: Unveiling Skillsets & Enhanced Security in Emerging Platforms - Insights From ZDNet</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-dolby-advanced-audio-unable-to-start-the-dolby-audio-driver-in-windows-10/"><u>Solved Dolby Advanced Audio: Unable to Start the Dolby Audio Driver in Windows 10</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transitioning-from-windows-home-to-professional-key-benefits-unveiled/"><u>Step-by-Step Guide: Transitioning From Windows Home to Professional - Key Benefits Unveiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-converting-your-computer-from-windows-to-linux-mint-for-beginners/"><u>Step-by-Step Tutorial: Converting Your Computer From Windows to Linux Mint for Beginners</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-infinix-smart-7-by-drfone-android/"><u>Top 10 Password Cracking Tools For Infinix Smart 7</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transferring-iphone-pictures-seamlessly-onto-a-windows-machine-complete-tutorial/"><u>Transferring iPhone Pictures Seamlessly Onto a Windows Machine - Complete Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-mystery-behind-iphones-muted-mode-fixing-no-ring-tone-problem/"><u>Unlocking the Mystery Behind iPhone's Muted Mode – Fixing No Ring Tone Problem</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/untangle-the-issues-resolving-red-dead-redemption-pertinent-pc-crashes/"><u>Untangle the Issues: Resolving Red Dead Redemption Pertinent PC Crashes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-eyedome-xtreme-ultimate-os-video-snapper/"><u>[New] EyeDome Xtreme Ultimate OS Video Snapper</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigating-the-ways-for-fee-free-pictorial-clips/"><u>[New] In 2024, Navigating the Ways for Fee-Free Pictorial Clips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-perfect-every-moment-top-3-techniques-to-record-lol-games/"><u>[New] In 2024, Perfect Every Moment Top 3 Techniques to Record LOL Games</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unleashing-potential-a-step-by-step-approach-to-youtube-links/"><u>[New] In 2024, Unleashing Potential A Step-by-Step Approach to YouTube Links</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-perfect-video-conferencing-the-essential-list-of-10-free-recorders-for-2024/"><u>[New] Perfect Video Conferencing The Essential List of 10 Free Recorders for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-the-balance-adding-videos-to-text-on-a-budget-for-2024/"><u>[Updated] Finding the Balance Adding Videos to Text on a Budget for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/15-youtube-financial-experts-you-can-trust/"><u>15 YouTube Financial Experts You Can Trust</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-create-viral-tiktok-content-step-by-step-templates-guide/"><u>2024 Approved Create Viral TikTok Content Step-by-Step Templates Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-workflow-embrace-the-developer-mindset-for-unmatched-efficiency-zdnet/"><u>Boost Your Workflow: Embrace the Developer Mindset for Unmatched Efficiency | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-success-in-software-development-with-agile-techniques-discover-6-key-principles-zdnet/"><u>Boosting Success in Software Development with Agile Techniques: Discover 6 Key Principles | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/continuous-innovation-in-the-era-of-ai-its-vow-towards-constant-modernization-insights-from-zdnet/"><u>Continuous Innovation in the Era of AI: IT's Vow Towards Constant Modernization - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-premier-5-rdp-solutions-for-telecommuting-as-featured-by-zdnet/"><u>Discover the Premier 5 RDP Solutions for Telecommuting , as Featured by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-ai-rust-language-with-linus-torvalds-why-the-linux-core-reigns-supreme-tech-insights/"><u>Exploring AI, Rust Language with Linus Torvalds: Why the Linux Core Reigns Supreme | Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/five-essential-strategies-for-maximizing-your-windows-10-experience-pre-end-of-support-insights-from-zdnet/"><u>Five Essential Strategies for Maximizing Your Windows 10 Experience Pre-End of Support - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-will-office-users-transition-from-2016-and-2019-to-microsoft-365-without-disruption-insights-for-the-next-12-months-zdnet/"><u>How Will Office Users Transition From 2016 and 2019 to Microsoft 365 Without Disruption? Insights for the Next 12 Months | ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-delayed-delivery-features-into-mozilla-thunderbird-a-comprehensive-guide/"><u>Integrating Delayed Delivery Features Into Mozilla Thunderbird: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/swiss-federal-gov-makes-mandatory-move-towards-open-source-software-transparency-and-collaboration/"><u>Swiss Federal Gov Makes Mandatory Move Towards Open-Source Software Transparency and Collaboration.</u></a></li>
 </ul></div>
 

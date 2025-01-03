@@ -1,7 +1,7 @@
 ---
 title: "Declutter Your Codebase: Fixing Disarray in Linux/Open Source Guides on ZDNet."
-date: 2024-12-30T05:09:22.362Z
-updated: 2025-01-02T21:50:10.022Z
+date: 2024-12-27T01:36:18.798Z
+updated: 2025-01-03T10:49:38.054Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-efficiently-archive-your-gaming-adventures-on-windows-10-for-2024/"><u>[New] Efficiently Archive Your Gaming Adventures on Windows 10 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-parrot-ar-drone-enhanced-a-compreayer-report/"><u>[New] Parrot AR Drone Enhanced - A Compreayer Report</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unbeatable-youtube-video-titling-assistant/"><u>[New] Unbeatable YouTube Video Titling Assistant</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-ending-your-insta-saga-a-comprehensive-guide-to-deactivation/"><u>[Updated] In 2024, Ending Your Insta Saga A Comprehensive Guide to Deactivation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-selecting-the-perfect-drone-stabilizer-a-guide/"><u>2024 Approved Selecting the Perfect Drone Stabilizer A Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-guide-to-capturing-web-radio-frequencies-flawlessly/"><u>2024 Approved The Guide to Capturing Web Radio Frequencies Flawlessly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-widening-chasm-of-data-expertise-innovative-strategies-from-a-leading-tech-firm-zdnet/"><u>Bridging the Widening Chasm of Data Expertise: Innovative Strategies From a Leading Tech Firm | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/devops-engineer-career-path-unveiling-the-pros-cons-and-realities-insights-from-zdnet/"><u>DevOps Engineer Career Path: Unveiling The Pros, Cons & Realities - Insights From ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-artificial-intelligence-impacts-future-trends-in-cybersecurity-employment-opportunities-insights-from-zdnet/"><u>How Artificial Intelligence Impacts Future Trends in Cybersecurity Employment Opportunities: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-tech-leadership-start-with-business-insight-zdnets-guide/"><u>Mastering Tech Leadership: Start with Business Insight | ZDNet's Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-future-of-ai-in-business-essential-read-for-singapores-smb-workforce-training-expert-advice-by-zdnet/"><u>Mastering the Future of AI in Business: Essential Read for Singapore's SMB Workforce Training – Expert Advice by ZDNET</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/narrowing-focus-mac-techniques-for-snapchat-videos-for-2024/"><u>Narrowing Focus Mac Techniques for Snapchat Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/securely-download-your-youtube-playlist-at-any-time-for-2024/"><u>Securely Download Your YouTube Playlist at Any Time for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-jobs-with-ai-unveiling-the-endless-possibilities-and-changes-by-zdnet-experts/"><u>The Future of Jobs with AI: Unveiling the Endless Possibilities & Changes by ZDNet Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-work-the-revolutionary-impact-of-ai-agents-on-future-jobs/"><u>Transforming Work: The Revolutionary Impact of AI Agents on Future Jobs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-addressing-obsolete-technologies-is-crucial-insights-from-a-recent-mismanaged-upgrade-zdnet/"><u>Why Addressing Obsolete Technologies Is Crucial - Insights From a Recent Mismanaged Upgrade | ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-whatsapps-sound-transfers/"><u>[Updated] Exploring WhatsApp's Sound Transfers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-perfect-your-presentation-essential-strategies-for-video-length-reduction-in-vimeo/"><u>[Updated] Perfect Your Presentation Essential Strategies for Video Length Reduction in Vimeo</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-prevent-youtube-spam-channel-blocking-guide-for-all-platforms-for-2024/"><u>[Updated] Prevent Youtube Spam Channel Blocking Guide for All Platforms for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-selecting-optimal-frame-rate-30fps-vs-60fps-for-quality-recording/"><u>[Updated] Selecting Optimal Frame Rate 30Fps Vs. 60Fps for Quality Recording</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-and-assessment-unveiling-the-power-of-vllo-video-editor/"><u>Comprehensive Analysis & Assessment: Unveiling the Power of VLLO Video Editor</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194339-discover-the-top-15-no-cost-texting-solutions-for-your-android-device/"><u>Discover the Top 15 No-Cost Texting Solutions for Your Android Device!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-advanced-concepts-in-googles-mobile-device-management-mdm-and-its-future-capabilities-a-comprehensive-guide/"><u>Explore Advanced Concepts in Google's Mobile Device Management (MDM) and Its Future Capabilities – A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rical-insights-the-most-relevant-youtube-channels-for-learners/"><u>Historical Insights - The Most Relevant YouTube Channels for Learners</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-tongue-to-type-tools-a-guide-to-the-best-speech-to-text-software/"><u>In 2024, Tongue-to-Type Tools A Guide to the Best Speech-to-Text Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-game-console-emulators-for-superior-imagery-and-performance-top-picks-for-gamers/"><u>Leading Game Console Emulators for Superior Imagery & Performance: Top Picks for Gamers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/pposite-view-creative-ways-to-watch-youtube-backwards/"><u>The Opposite View Creative Ways to Watch YouTube Backwards</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-poco-x6-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-top-rated-mobile-phone-video-editing-software-with-kinemaster-features/"><u>Ultimate Guide: Top Rated Mobile Phone Video Editing Software with KineMaster Features</u></a></li>
 </ul></div>
 

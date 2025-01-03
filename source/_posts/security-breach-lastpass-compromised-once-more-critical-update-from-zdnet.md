@@ -1,7 +1,7 @@
 ---
 title: "Security Breach: LastPass Compromised Once More - Critical Update From ZDNet"
-date: 2024-12-30T01:20:21.467Z
-updated: 2025-01-02T17:24:45.479Z
+date: 2025-01-02T03:43:41.935Z
+updated: 2025-01-03T09:47:33.674Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,22 +81,18 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-decoding-video-potential-dslr-vs-mirrorless-innovation/"><u>[New] In 2024, Decoding Video Potential DSLR vs Mirrorless Innovation</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-360-degree-retail-exploration-tech-for-2024/"><u>[Updated] 360-Degree Retail Exploration Tech for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-strategies-to-maximize-mobile-income-from-youtube/"><u>2024 Approved Strategies to Maximize Mobile Income From YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-photo-framing-on-the-net/"><u>2024 Approved The Ultimate Guide to Photo Framing on the Net</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-cleansing-apps-for-iphone-top-free-options-for-enhanced-performance/"><u>Best Cleansing Apps for iPhone: Top Free Options for Enhanced Performance</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/creative-endeavors-while-immersed-in-audio-stories/"><u>Creative Endeavors While Immersed in Audio Stories</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dark-side-of-windows-after-fall-release-fixed/"><u>Dark Side of Windows After Fall Release Fixed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ensure-every-important-call-is-heard-uninterrupted-connectivity-even-in-silence-and-chaos-with-our-innovative-10-call-flash-applications/"><u>Ensure Every Important Call Is Heard: Uninterrupted Connectivity Even in Silence and Chaos with Our Innovative 10-Call Flash Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expertly-curated-list-the-ultimate-9plus1-video-streaming-solutions-for-android-devices/"><u>Expertly Curated List: The Ultimate 9+1 Video Streaming Solutions for Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-vn-video-editor-benefits-drawbacks-and-top-substitutes/"><u>In-Depth Analysis: VN Video Editor - Benefits, Drawbacks & Top Substitutes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ios-10-updates-unveiled-explore-the-enhanced-lockscreen-features/"><u>IOS 10 Updates Unveiled: Explore the Enhanced Lockscreen Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-the-pack-essential-gaming-experiences-on-steam-deck/"><u>Leading the Pack: Essential Gaming Experiences on Steam Deck</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/stand-out-in-the-crowd-ingenious-tips-for-top-tinder-bios-for-2024/"><u>Stand Out in the Crowd - Ingenious Tips for Top Tinder Bios for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-free-gba-emulators-your-ultimate-guide-to-playing-game-boy-advance-titles-on-pc/"><u>Top 5 Free GBA Emulators: Your Ultimate Guide to Playing Game Boy Advance Titles on PC</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/top-gaming-pcs-of-2023-expert-reviews-and-buying-guide-yl-tech-insights/"><u>Top Gaming PCs of 2023: Expert Reviews and Buying Guide - YL Tech Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-file-management-apps-for-android-user-reviews-and-comparisons/"><u>Top-Rated File Management Apps for Android: User Reviews and Comparisons</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-everyone-needs-to-try-the-newly-updated-factual-inshot-editor-unleash-your-creativity/"><u>Why Everyone Needs to Try the Newly Updated Factual InShot Editor - Unleash Your Creativity!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-share-and-post-like-a-pro-mastering-instagram-gif-uploads-4-step-method/"><u>[New] Share & Post Like a Pro Mastering Instagram GIF Uploads (4-Step Method)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-leading-selection-of-tools-to-download-facebook-lite-videos/"><u>[New] The Leading Selection of Tools to Download Facebook Lite Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-deep-dive-sonys-s6700-updates-review/"><u>[Updated] Deep Dive Sony's S6700 Updates Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-dictate-your-destiny-free-logo-creation-from-template-files/"><u>[Updated] Dictate Your Destiny - Free Logo Creation From Template Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/aviutl-google/"><u>動画読み込みに失敗するAviUtl:対処方法をご紹介 - Googleビデオ</u></a></li>
+<li><a href="https://app-tips.techidaily.com/data-analysis/"><u>Data Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-deselect-your-favorites-in-every-genre-on-spotify/"><u>Easy Steps to Deselect Your Favorites in Every Genre on Spotify</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-expertise-for-a-secure-transition-to-next-gen-cloud-native-ecosystems-a-deep-dive-with-zdnet/"><u>Harnessing Expertise for a Secure Transition to Next-Gen Cloud-Native Ecosystems: A Deep Dive with ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-discusses-artificial-intelligence-and-embracing-rust-in-computing-tech-insights-on-zdnet/"><u>Linus Torvalds Discusses Artificial Intelligence & Embracing Rust in Computing | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-hurdles-in-ai-implementation-key-takeawives-from-deloitte-survey-zdnet/"><u>Navigating Hurdles in AI Implementation: Key Takeawives From Deloitte Survey | ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-fallout-76-server-connectivity-problems-for-windows-users/"><u>Troubleshooting Fallout 76 Server Connectivity Problems for Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-valorant-crashes-and-freezes-on-windows-pcs/"><u>Troubleshooting Valorant Crashes and Freezes on Windows PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/typing-anomaly-discovered/"><u>Typing Anomaly Discovered</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Access Control Systems
-date: 2024-12-19T03:27:35.625Z
-updated: 2024-12-24T23:25:47.593Z
+date: 2024-12-27T06:29:14.405Z
+updated: 2025-01-03T11:59:40.578Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-practices-in-digital-image-creation-for-youtube/"><u>[New] 2024 Approved Best Practices in Digital Image Creation for YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-simplify-collaboration-in-windows-10-effective-use-of-zoom-services-for-2024/"><u>[New] Simplify Collaboration in Windows 10 Effective Use of Zoom Services for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-elevate-your-vlogs-with-epic-youtube-reactions-discover-3-pro-tips/"><u>[Updated] Elevate Your Vlogs with Epic YouTube Reactions – Discover 3 Pro Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-innovations-reshaping-the-future-of-software-development-the-productivity-shift-unveiled-codedigest/"><u>AI Innovations Reshaping the Future of Software Development - The Productivity Shift Unveiled | CodeDigest</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-bandwidth-exploring-revolutionary-5g-applications-that-surpass-connectivity-deep-dive-with-zdnet/"><u>Beyond Bandwidth: Exploring Revolutionary 5G Applications That Surpass Connectivity | Deep Dive with ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/browse-the-worlds-favorite-websites-a-must-see-list-of-top-picks/"><u>Browse the World's Favorite Websites: A Must-See List of Top Picks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-skills-beyond-ai-discover-unseen-opportunities-at-the-edge-with-insights-from-zdnet/"><u>Elevate Your Skills Beyond AI: Discover Unseen Opportunities at the Edge with Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-valentines-day-to-cats-the-perfect-film-lineup-featuring-taylor-swift/"><u>From 'Valentine's Day' To 'Cats': The Perfect Film Lineup Featuring Taylor Swift</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-harness-the-business-potential-of-artificial-intelligence-despite-common-hurdles-according-to-zdnet/"><u>How to Harness the Business Potential of Artificial Intelligence Despite Common Hurdles, According to ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-redmi-12-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Xiaomi Redmi 12.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mainstream-enterprises-continue-to-crave-tech-expertise-unleashing-potential-ideas-for-a-transformative-future-zdnet-highlights/"><u>Mainstream Enterprises Continue to Crave Tech Expertise: Unleashing Potential Ideas for a Transformative Future | ZDNet Highlights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-tech-leadership-start-with-business-insight-zdnets-guide/"><u>Mastering Tech Leadership: Start with Business Insight | ZDNet's Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/moving-beyond-rote-programming-how-artificial-intelligence-is-revolutionizing-software-development-insights-from-zdnet/"><u>Moving Beyond Rote Programming: How Artificial Intelligence Is Revolutionizing Software Development - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-generative-ai-hurdles-demonstrating-tangible-returns-on-investment-insights-from-zdnet/"><u>Overcoming Generative AI Hurdles: Demonstrating Tangible Returns on Investment - Insights From ZDNet</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/primes-favorites-highest-tweets-and-view-counts-analysis/"><u>Prime's Favorites Highest Tweets & View Counts Analysis</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/essly-embedding-youtube-subtitles-an-easy-to-follow-guide/"><u>Seamlessly Embedding YouTube Subtitles An Easy-to-Follow Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-gamers-guide-nvidia-shield-tv-pro-review-unveiled/"><u>Ultimate Gamer's Guide: Nvidia Shield TV Pro Review Unveiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-top-innovators-are-embracing-open-source-strategies-according-to-zdnet/"><u>Why Top Innovators Are Embracing Open Source Strategies, According to ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030650239-wmv/"><u>WMVファイル統合手順：初心者に最適な、品質保持編集方法</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-step-by-step-for-secure-complimentary-vlc-installation-on-mac/"><u>[New] 2024 Approved Step-by-Step for Secure, Complimentary VLC Installation on Mac</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-capturing-stills-in-time-a-guide-to-slow-motion-on-ig-for-2024/"><u>[New] Capturing Stills in Time A Guide to Slow Motion on IG for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-savvy-saving-with-20-best-free-storage-services-up-to-1tb/"><u>[Updated] 2024 Approved Savvy Saving with 20 Best Free Storage Services, Up To 1TB</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-trending-10-tiktok-effects-to-dominate-social-media/"><u>2024 Approved Trending 10 TikTok Effects to Dominate Social Media</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-spearheads-the-surge-in-non-cash-payments-anticipated-global-reach-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Cash Payments: Anticipated Global Reach of $1.6 Trillion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/attracting-global-tech-pioneers-the-power-of-open-source-zdnet/"><u>Attracting Global Tech Pioneers: The Power of Open Source | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-knowledge-chasm-in-artifice-intelligence-through-robust-data-management-tips-and-techniques/"><u>Bridging the Knowledge Chasm in Artifice Intelligence Through Robust Data Management - Tips and Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-ai-innovation-challenge-expansion-in-the-cybersecurity-workforce-exploring-perspectives-with-zdnet/"><u>Can AI Innovation Challenge Expansion in the Cybersecurity Workforce? Exploring Perspectives with ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-leaders-top-6-strategies-for-enhancing-executive-technological-proficiency-zdnet/"><u>Empowering Leaders: Top 6 Strategies for Enhancing Executive Technological Proficiency | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-manager-education-prior-to-enterprise-ai-adoption-lessons-by-zdnet/"><u>Essential Manager Education Prior to Enterprise AI Adoption - Lessons by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-troubleshoot-and-repair-an-antec-aria-ar300-psu/"><u>How to Troubleshoot and Repair an Antec Aria AR300 PSU</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-comedic-calls-ringtones-best-picks-online/"><u>In 2024, Comedic Calls Ringtones' Best Picks Online</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-f25-pro-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo F25 Pro 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-professional-success-in-an-ai-driven-world-insights-from-industry-leaders/"><u>Navigating Professional Success in an AI-Driven World: Insights From Industry Leaders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/southwest-passengers-excited-as-delta-reveals-bland-update-whats-at-stake-for-the-airlines-industry/"><u>Southwest Passengers Excited as Delta Reveals Bland Update: What's at Stake for the Airlines Industry?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-choice-5-image-background-adjuster-apps-ios-for-2024/"><u>Top Choice 5 Image Background Adjuster Apps (iOS) for 2024</u></a></li>
 </ul></div>
 

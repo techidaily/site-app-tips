@@ -1,7 +1,7 @@
 ---
 title: "Another Cybersecurity Breach: LastPass Compromised Once More"
-date: 2024-12-29T01:36:01.273Z
-updated: 2025-01-03T01:38:02.386Z
+date: 2025-01-02T01:33:39.682Z
+updated: 2025-01-02T19:32:37.593Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,18 +81,17 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-decadal-list-prime-meme-designs/"><u>2024 Approved Decadal List Prime Meme Designs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-your-favorite-android-games-on-lockdown-the-ultimate-list-of-20-free-full-version-apks-to-download-today/"><u>Get Your Favorite Android Games on Lockdown: The Ultimate List of 20 Free, Full-Version APKs to Download Today!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-realme-12-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Realme 12 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-essential-knowledge-for-effective-use-of-the-io-screener/"><u>In 2024, Essential Knowledge for Effective Use of the IO Screener</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-full-potential-of-your-gopro-4k-recordings/"><u>In 2024, Unlock the Full Potential of Your GoPro 4K Recordings</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/les-12-meilleurs-logiciels-gratuits-dextraction-de-dvd-parfaits-pour-windows-et-macos-un-guide-complet/"><u>Les 12 Meilleurs Logiciels Gratuits D'extraction De DVD, Parfaits Pour Windows Et macOS : Un Guide Complet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/metaverse-meetups-the-ultimate-friendly-list/"><u>Metaverse Meetups The Ultimate Friendly List</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/navigating-animated-ads-to-skyrocket-facebook-roi-for-2024/"><u>Navigating Animated Ads to Skyrocket Facebook ROI for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-vn-video-editor-advantages-disadvantages-and-best-replacement-options/"><u>The Ultimate Guide to VN Video Editor: Advantages, Disadvantages, and Best Replacement Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-clips-with-this-exceptional-android-video-editing-software/"><u>Transform Your Clips with This Exceptional Android Video Editing Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-admin-utility-remove-disable-and-manage-rooted-device-applications-easily/"><u>Ultimate Admin Utility: Remove, Disable, and Manage Rooted Device Applications Easily</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unified-chat-and-call-features-on-magicapp-compatible-with-iphone-android-and-pc/"><u>Unified Chat & Call Features on MagicApp - Compatible with iPhone, Android & PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/what-exactly-is-instant-messaging-an-in-depth-guide/"><u>What Exactly Is Instant Messaging? An In-Depth Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-comprehensible-method-for-ifunny-meme-downloads/"><u>[New] In 2024, The Comprehensible Method for iFunny Meme Downloads</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-role-of-slug-lines-in-seo-and-marketing-for-2024/"><u>[New] The Role of Slug Lines in SEO & Marketing for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-million-prize-the-latest-boost-in-bugcrowds-premium-vulnerability-reporting-insight-for-security-experts/"><u>$1 Million Prize: The Latest Boost in Bugcrowd's Premium Vulnerability Reporting - Insight for Security Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/black-friday-exclusive-deal-unlock-savings-with-nordpass-premium-at-half-price-get-secure-passwords-now-zdnet-insider-tips/"><u>Black Friday Exclusive Deal: Unlock Savings with NordPass Premium at Half Price! Get Secure Passwords Now - ZDNet Insider Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bypassing-master-passwords-with-ease-discover-how-dashlane-enables-seamless-sign-ins-according-to-zdnet-analysis/"><u>Bypassing Master Passwords with Ease: Discover How Dashlane Enables Seamless Sign-Ins, According to ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ditching-lastpass-master-managing-passwords-with-icloud-on-windows-a-complete-guide-by-zdnet/"><u>Ditching LastPass? Master Managing Passwords with iCloud on Windows - A Complete Guide by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-steps-for-achieving-a-swift-windows-10-clean-boot/"><u>Effortless Steps for Achieving a Swift Windows 10 Clean Boot</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/elevate-every-trip-expert-gadget-selection/"><u>Elevate Every Trip: Expert Gadget Selection</u></a></li>
+<li><a href="https://fox-links.techidaily.com/from-commonplace-phones-to-cutting-edge-vr-headsets/"><u>From Commonplace Phones to Cutting-Edge VR Headsets</u></a></li>
+<li><a href="https://win-net.techidaily.com/impact-of-ddos-cyberattacks-how-microsofts-office-365-services-were-compromised-insights-from-zdnet/"><u>Impact of DDoS Cyberattacks: How Microsoft's Office 365 Services Were Compromised - Insights From ZDNet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-unseen-snaps-and-hushed-user-signal-to-check-for-blocks/"><u>In 2024, Unseen Snaps and Hushed User Signal to Check for Blocks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repair-dell-point-and-click-on-win7/"><u>Repair Dell Point-and-Click on Win7</u></a></li>
 </ul></div>
 

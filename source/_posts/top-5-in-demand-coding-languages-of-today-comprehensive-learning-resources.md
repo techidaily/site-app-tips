@@ -1,7 +1,7 @@
 ---
 title: "Top 5 In-Demand Coding Languages of Today: Comprehensive Learning Resources"
-date: 2024-12-18T19:29:39.585Z
-updated: 2024-12-25T02:06:56.408Z
+date: 2024-12-30T21:49:29.300Z
+updated: 2025-01-03T07:45:30.769Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-cineblend-app-seamless-video-mashups-for-instagram/"><u>[Updated] CineBlend App Seamless Video Mashups for Instagram</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonic-frames-filming-music-tracks-using-iphones/"><u>2024 Approved Harmonic Frames Filming Music Tracks Using iPhones</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-inspirational-insta-captions-to-elevate-your-social-presence/"><u>2024 Approved Inspirational Insta Captions to Elevate Your Social Presence</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-closer-look-at-samsung-galaxy-note20-ultra-5g-capabilities-and-user-experience-evaluated/"><u>A Closer Look at Samsung Galaxy Note20 Ultra - 5G Capabilities and User Experience Evaluated</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/corrective-measures-for-dealing-with-avcodecdll-errors/"><u>Corrective Measures for Dealing with Avcodec.dll Errors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-why-aiops-matters-7-key-points-backed-by-zdnets-research/"><u>Discover Why AIOps Matters: 7 Key Points Backed by ZDNet's Research</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-picks-for-optimal-website-hosting-services-in-depth-analysis-and-comparisons-zdnet/"><u>Expert Picks for Optimal Website Hosting Services : In-Depth Analysis & Comparisons | ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-efficiently-manage-wi-fi-settings-on-windows-11/"><u>How to Efficiently Manage Wi-Fi Settings on Windows 11</u></a></li>
-<li><a href="https://article-files.techidaily.com/ideal-magnification-methods-for-ios-devices-for-2024/"><u>Ideal Magnification Methods for iOS Devices for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-the-latest-enhancement-juniper-networks-integrated-cloud-firewall-into-its-sase-solution-for-optimized-cybersecurity/"><u>Introducing the Latest Enhancement: Juniper Network's Integrated Cloud Firewall Into Its SASE Solution for Optimized Cybersecurity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rocky-linux-backed-by-ciq-as-prominent-linux-experts-rally-together/"><u>Rocky Linux Backed by CIQ as Prominent Linux Experts Rally Together</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-power-surge-discovering-the-enhanced-capabilities-of-the-apple-macbook-pro-m1-202-cuinty-thorough-evaluation/"><u>The Power Surge: Discovering the Enhanced Capabilities of the Apple MacBook Pro (M1, 202 Cuinty) - Thorough Evaluation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-the-underdog-how-a-simple-app-challenges-mcdonalds-dominance-insights-from-zdnet/"><u>The Rise of the Underdog: How a Simple App Challenges McDonald's Dominance - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/times-running-out-for-microsoft-the-impending-crisis-over-windows-10-requires-immediate-action-zdnet/"><u>Time's Running Out for Microsoft: The Impending Crisis Over Windows 10 Requires Immediate Action [ZDNet]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-ending-maintenance-in-a-year-explore-these-5-alternatives-now/"><u>Windows 11 Ending Maintenance in a Year - Explore These 5 Alternatives Now!</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtube-seo-guide-how-to-improve-youtube-videos-rankings-for-2024/"><u>YouTube SEO Guide How to Improve YouTube Videos Rankings for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-infuse-personality-into-your-content-with-custom-thumbnails/"><u>[New] 2024 Approved Infuse Personality Into Your Content with Custom Thumbnails</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/iverging-paths-youtube-licensing-and-creative-commons-for-2024/"><u>[New] Diverging Paths YouTube Licensing & Creative Commons for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aximize-visibility-a-guide-to-constructing-youtube-backlinks-for-2024/"><u>[New] Maximize Visibility A Guide to Constructing YouTube Backlinks for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-thriving-in-the-streaming-scene-overcoming-subscriber-limitations/"><u>[Updated] Thriving in the Streaming Scene Overcoming Subscriber Limitations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725287590779-dvd-mp3-dvd/"><u>最佳 DVD 到 MP3 转换器：如何快速抢救你的 DVD 音频</u></a></li>
+<li><a href="https://app-tips.techidaily.com/antenna-arrays-can-synthesize-a-desired-radiation-pattern-by-controlling-the-relative-phases-and-amplitudes-of-signals-fed-to-each-element/"><u>Antenna Arrays Can Synthesize a Desired Radiation Pattern by Controlling the Relative Phases and Amplitudes of Signals Fed to Each Element.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-iphones-the-evolution-from-se-2020-to-se-2022-gizmodo-analysis/"><u>Comparing iPhones: The Evolution From SE 2020 to SE 2022 | Gizmodo Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-install-essential-printerscanner-drivers-for-windows-11-os/"><u>Ensure Compatibility: Install Essential Printer/Scanner Drivers for Windows 11 OS</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-phantom-v-flip-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-new-release-a-game-changer-or-annoyance-find-out-how-it-stacks-up-zdnet/"><u>Microsoft's New Release: A Game Changer or Annoyance? Find Out How It Stacks Up [ZDNet]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-overlap-of-kernel-issues-and-cybersecurity-in-linux-environments-strategies-to-maintain-safety/"><u>Navigating the Overlap of Kernel Issues & Cybersecurity in Linux Environments - Strategies to Maintain Safety</u></a></li>
+<li><a href="https://app-tips.techidaily.com/new-advancements-for-ai-tasks-with-latest-kubernetes-version-released-insights-from-tech-experts-at-zdnet/"><u>New Advancements for AI Tasks with Latest Kubernetes Version Released, Insights From Tech Experts at ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ticking-clock-for-microsoft-overcoming-the-imminent-windows-11-dilemma-in-under-a-year-exclusive-insights-from-zdnet/"><u>Ticking Clock for Microsoft: Overcoming the Imminent Windows 11 Dilemma in Under a Year | Exclusive Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-red-hats-lightspeed-an-advanced-ai-solution-tailored-for-kubernetes-admins-with-openshift-zdnet/"><u>Unveiling Red Hat’s Lightspeed: An Advanced AI Solution Tailored for Kubernetes Admins with OpenShift | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/where-is-microsofts-promised-free-windows-10-update-now/"><u>Where Is Microsoft's Promised Free Windows 10 Update Now?</u></a></li>
 </ul></div>
 

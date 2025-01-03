@@ -1,7 +1,7 @@
 ---
 title: "The Critical 90-Day Evaluation Period for Artificial Intelligence Innovations: Insights From ZDNet"
-date: 2024-12-22T04:30:35.757Z
-updated: 2024-12-24T18:45:08.390Z
+date: 2024-12-27T19:36:03.087Z
+updated: 2025-01-03T01:16:52.668Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-craft-stellar-channels-best-10-apps-for-artistic-banner-design/"><u>[Updated] 2024 Approved Craft Stellar Channels Best 10 Apps for Artistic Banner Design</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-inside-obs-alternatives-for-professional-streamers-for-2024/"><u>[Updated] Inside OBS Alternatives for Professional Streamers for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-lightning-lingers-quick-and-fluid-gaming-choices-for-laptops/"><u>[Updated] Lightning Lingers Quick & Fluid Gaming Choices for Laptops</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/asus-zenbook-pro-duos-close-look-balancing-power-and-portability/"><u>Asus ZenBook Pro Duo's Close Look: Balancing Power and Portability</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-apples-next-move-the-development-of-an-enhanced-security-operating-system-for-ai-infrastructure/"><u>Exploring Apple's Next Move: The Development of an Enhanced Security Operating System for AI Infrastructure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-instantly-install-bcm20702a0-driver-on-windows/"><u>How to Instantly Install BCM20702A0 Driver on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavis-solution-convert-snd-formats-to-mp3wav-online-at-no-cost/"><u>Movavi's Solution: Convert .SND Formats to MP3/WAV Online at No Cost</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/photographic-fundamentals-in-5-minutes-with-snapseed-for-2024/"><u>Photographic Fundamentals in 5 Minutes with Snapseed for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/safeguard-firefox-stored-usernames-and-passwords-using-a-principal-key-tips-by-techexperts/"><u>Safeguard Firefox Stored Usernames and Passwords Using a Principal Key | Tips by TechExperts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-the-chaos-organizing-linux-and-open-source-manuals-a-comprehensive-guide/"><u>Taming the Chaos: Organizing Linux & Open Source Manuals - A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-gateway-to-artificial-intelligence-made-simple-with-superduperdb-exclusive-analysis-by-zdnet/"><u>The Gateway to Artificial Intelligence Made Simple with SuperDuperDB – Exclusive Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-roadmap-for-artifice-intelligence-developments-over-the-next-ten-years-zdnet/"><u>The Roadmap for Artifice Intelligence Developments Over the Next Ten Years | ZDNet</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-trending-coding-languages-best-platforms-to-master-them-insights-from-zdnet/"><u>Top Trending Coding Languages : Best Platforms to Master Them - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/white-house-endorses-open-source-ai-innovation-in-recent-report-exclusive-analysis-by-zdnet/"><u>White House Endorses Open Source AI Innovation in Recent Report – Exclusive Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-10-end-of-life-approaching-discover-your-last-5-optionsto-ensure-continued-use/"><u>Windows 10 End of Life Approaching: Discover Your Last 5 Optionsto Ensure Continued Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-innovative-vr-drones-collaborations/"><u>[New] Top 5 Innovative VR Drones Collaborations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-leading-tech-essential-video-recorders-of-the-net/"><u>[Updated] Leading Tech Essential Video Recorders of the Net</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-real-time-recording-battle-obs-studio-against-fraps-for-2024/"><u>[Updated] Real-Time Recording Battle OBS Studio Against Fraps for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-engineers-simple-app-shames-mcdonalds-tech-a-closer-look-at-the-fast-food-giants-missteps/"><u>1. Engineer’s Simple App Shames McDonald's Tech: A Closer Look at the Fast-Food Giant's Missteps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bellylaugh-blast-websites-with-the-best-comical-ringtones/"><u>BellyLaugh Blast Websites with the Best Comical Ringtones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-the-orchard-discovering-enhanced-fulfillment-in-non-apple-workplaces-zdnet/"><u>Beyond the Orchard: Discovering Enhanced Fulfillment in Non-Apple Workplaces | ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/insider-tips-for-facebook-cover-video-mastery/"><u>Insider Tips for Facebook Cover Video Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-lost-chatgpt-freedom-unleashed/"><u>OpenAI Lost? ChatGPT Freedom Unleashed?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transforming-your-windows-home-into-professional-grade-with-an-easy-upgrade/"><u>Step-by-Step Guide: Transforming Your Windows Home Into Professional Grade with an Easy Upgrade</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-ai-how-langchain-revolutionizes-generative-assistance/"><u>Unleashing the Power of AI: How LangChain Revolutionizes Generative Assistance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrading-windows-home-to-a-pro-license-essential-tips-and-reasons-for-the-switch-techexpertise-hub/"><u>Upgrading Windows Home to a Pro License: Essential Tips & Reasons for the Switch | TechExpertise Hub</u></a></li>
+<li><a href="https://app-tips.techidaily.com/your-windows-11-journey-explore-your-five-last-choices-before-microsoft-phases-out-support/"><u>Your Windows 11 Journey: Explore Your Five Last Choices Before Microsoft Phases Out Support</u></a></li>
 </ul></div>
 

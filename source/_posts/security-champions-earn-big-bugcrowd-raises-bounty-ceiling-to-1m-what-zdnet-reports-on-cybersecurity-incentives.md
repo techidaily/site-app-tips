@@ -1,7 +1,7 @@
 ---
 title: "Security Champions Earn Big: Bugcrowd Raises Bounty Ceiling to $1M – What ZDNET Reports on Cybersecurity Incentives"
-date: 2024-12-31T17:42:32.185Z
-updated: 2025-01-03T04:03:06.380Z
+date: 2024-12-27T06:00:39.074Z
+updated: 2025-01-03T11:13:49.180Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 The company averages about $900 per reward, but 1Password CEO Jeff Shiner said the company hopes to "attract another layer of outside expertise to make sure our systems are as secure as possible." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -70,14 +70,22 @@ The company also has an internal "Eyes of the Month program" for their employees
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-navigating-the-best-online-science-vloggers-for-curious-minds/"><u>[Updated] In 2024, Navigating the Best Online Science Vloggers for Curious Minds</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-vivo-y36i-frp-bypass-by-drfone-android/"><u>About Vivo Y36i FRP Bypass</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/avoid-the-hassle-of-wrong-choice-before-you-purchase-a-dvr/"><u>Avoid the Hassle of Wrong Choice - Before You Purchase a DVR</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-streamlined-regulations-are-boosting-aseans-path-to-a-2t-digital-economy-by-2030-featured-on-zdnet/"><u>How Streamlined Regulations Are Boosting ASEAN's Path to a $2T Digital Economy by 2030, Featured on ZDNET</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/innovating-for-sustainability-ais-role-in-developing-next-gen-green-smart-appliances-exclusive-report/"><u>Innovating for Sustainability: AI's Role in Developing Next-Gen Green Smart Appliances | Exclusive Report</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-challenges-in-ai-for-profitable-ventures-expert-tips-by-zdnet/"><u>Navigating Challenges in AI for Profitable Ventures | Expert Tips by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainties-of-ai-outputs-and-reliability-in-modern-tech-challenges/"><u>Navigating the Uncertainties of AI Outputs & Reliability in Modern Tech Challenges</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1728466269610-windows-10/"><u>Windows 10 啟動複製的設置教程</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-2024-guide-top-5-best-offline-and-online-ai-powered-video-stabilization-tools/"><u>Best 2024 Guide: Top 5 Best Offline & Online AI-Powered Video Stabilization Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-5-artificial-intelligence-applications-for-enhancing-monochrome-footage/"><u>Best Top 5 Artificial Intelligence Applications for Enhancing Monochrome Footage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-ranked-automated-video-editing-tools-discover-the-5-leading-ai-applications/"><u>Best Top-Ranked Automated Video Editing Tools: Discover the 5 Leading AI Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-artificial-intelligence-highlight-videos-essentials-and-software/"><u>Comprehensive Guide to Artificial Intelligence Highlight Videos: Essentials & Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-monicas-artificial-intelligence-powers-and-effective-strategies-for-utilizing-chatgpt/"><u>Discover Monica's Artificial Intelligence Powers and Effective Strategies for Utilizing ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-top-5-alternatives-to-voicemyai-for-crafting-artificial-intelligence-powered-voice-assistants/"><u>Discover Top 5 Alternatives to voicemy.ai for Crafting Artificial Intelligence-Powered Voice Assistants</u></a></li>
+<li><a href="https://win-latest.techidaily.com/expert-advice-for-windows-users-how-to-access-files-with-different-software-tools-your-lifeline-in-computing-solutions-from-yl-software/"><u>Expert Advice for Windows Users: How to Access Files with Different Software Tools - Your Lifeline in Computing Solutions From YL Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-analysis-avclabs-video-boosting-technology-advantages-and-limitations/"><u>Expert Analysis: AVClabs' Video Boosting Technology - Advantages & Limitations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-and-bing-chat-face-off-for-ultimate-ai-conversation/"><u>GPT and Bing Chat Face-Off for Ultimate AI Conversation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-konvertiemkv-naar-wmv-onlinelastige-vrijwilligersomschrijvingen-movavi/"><u>Gratuit Konvertiemkv Naar WMV - Onlinelastige Vrijwilligersomschrijvingen Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-update-your-windows-computers-synaptics-controller-software/"><u>How to Seamlessly Update Your Windows Computer's Synaptics Controller Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-use-youtube-enhancements-to-improve-video-quality/"><u>How to Use YouTube Enhancements to Improve Video Quality</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy S24 Ultra?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/optimize-task-management-with-these-5-outstanding-zapier-replacements/"><u>Optimize Task Management with These 5 Outstanding Zapier Replacements</u></a></li>
+<li><a href="https://fox-http.techidaily.com/podcasts-intros-hook-up-listeners-with-podcast-intro-script-for-2024/"><u>Podcasts Intros Hook Up Listeners With Podcast Intro Script for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/pro-tips-for-capturing-uac-alerts-in-windows/"><u>Pro Tips for Capturing UAC Alerts in Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-selection-of-tiktok-screenshots-for-2024/"><u>Step-by-Step Selection of TikTok Screenshots for 2024</u></a></li>
 </ul></div>
 

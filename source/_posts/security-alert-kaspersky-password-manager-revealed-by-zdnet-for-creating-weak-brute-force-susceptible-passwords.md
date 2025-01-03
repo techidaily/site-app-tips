@@ -1,7 +1,7 @@
 ---
 title: "Security Alert: Kaspersky Password Manager Revealed by ZDNet for Creating Weak, Brute-Force Susceptible Passwords"
-date: 2024-12-26T23:07:48.568Z
-updated: 2025-01-02T20:54:57.851Z
+date: 2024-12-29T04:17:14.510Z
+updated: 2025-01-03T11:51:28.786Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Suppose you are in the business of generating passwords, it would probably be a 
 In a [blog post](https://donjon.ledger.com/kaspersky-password-manager/) to cap off an almost two year saga, Ledger Donjon head of security research Jean-Baptiste Bédrune showed KPM was doing just that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,7 +66,7 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -92,22 +92,15 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-quick-and-easy-xbox-one-image-snaps-for-gaming-for-2024/"><u>[New] Quick & Easy Xbox One Image Snaps for Gaming for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-platform-picks-for-prominent-content-creators/"><u>[Updated] 2024 Approved Platform Picks for Prominent Content Creators</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimal-voice-processing-software-solutions/"><u>[Updated] Optimal Voice Processing Software Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advance-your-career-with-cutting-edge-tech-more-than-ai-at-the-forefront-lessons-from-zdnet/"><u>Advance Your Career with Cutting-Edge Tech: More Than AI at the Forefront | Lessons From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-artificebotics-how-modern-ai-experts-merge-innovation-with-business-acumen-to-shape-future-technologies/"><u>Beyond Artificebotics: How Modern AI Experts Merge Innovation with Business Acumen to Shape Future Technologies</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comparing-wrist-tech-apple-watch-series-9-versus-fitbit-charge-6/"><u>Comparing Wrist Tech: Apple Watch Series 9 Versus Fitbit Charge 6</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor Phones with/without a PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-disparities-shape-our-progress-in-real-time-technology-breakthroughs-zdnet/"><u>How Disparities Shape Our Progress in Real-Time Technology Breakthroughs | ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-inconsistencies-in-artificial-intelligence-expert-analysis-on-reliability-issues-zdnet/"><u>Overcoming Inconsistencies in Artificial Intelligence: Expert Analysis on Reliability Issues | ZDNET</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/radiance-in-android-video-editing/"><u>Radiance in Android Video Editing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/revolutionize-your-podcasts-rankings-with-effective-seo-methods/"><u>Revolutionize Your Podcast's Rankings with Effective SEO Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tackling-the-accountability-gap-in-artificial-intelligence-development/"><u>Tackling the Accountability Gap in Artificial Intelligence Development</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-combo-crusade-sharing-vids-on-twitter-and-tumblr-for-2024/"><u>The Combo Crusade Sharing Vids on Twitter and Tumblr for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-ai-watermarking-solutions-revealed-on-zdnet/"><u>The Definitive Guide to AI Watermarking Solutions - Revealed on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-work-how-ai-agents-define-the-new-era-and-transform-employment-landscape-permanently-insights-from-zdnet/"><u>The Future of Work: How AI Agents Define the New Era and Transform Employment Landscape Permanently - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unpacking-the-irony-of-automation-when-artificnial-intelligence-spurs-more-work-not-less-zdnet-insights/"><u>Unpacking the Irony of Automation: When Artificnial Intelligence Spurs More Work, Not Less | ZDNET Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-channel-transformation-with-strategic-use-of-youtube-outros-for-2024/"><u>[New] Channel Transformation with Strategic Use of YouTube Outros for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715860007134-new-offline-android-delights-top-screen-free-game-list-you-must-play/"><u>[New] Offline Android Delights Top Screen-Free Game List You Must Play!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-art-of-angling-images-a-comprehensive-instagram-rotation-handbook/"><u>[Updated] 2024 Approved The Art of Angling Images A Comprehensive Instagram Rotation Handbook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-live-gaming-snapshot-with-fraps-analysis-for-2024/"><u>[Updated] Live Gaming Snapshot with Fraps Analysis for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-fixes-for-the-recurring-issue-icloud-login-continually-asks-for-password/"><u>Essential Fixes for the Recurring Issue: ICloud Login Continually Asks for Password</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-exclusive-list-best-online-video-to-mp3-tools/"><u>In 2024, Exclusive List Best Online Video to Mp3 Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/professional-tricks-to-correct-the-red-eye-glance-captured-in-pet-imagery/"><u>Professional Tricks to Correct the Red-Eye Glance Captured in Pet Imagery</u></a></li>
+<li><a href="https://app-tips.techidaily.com/resolving-the-icloud-messages-disabled-issue-step-by-step-guide-to-restore-your-apple-id/"><u>Resolving the 'iCloud Messages Disabled' Issue: Step-by-Step Guide to Restore Your Apple ID</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-changing-your-icloud-email-address/"><u>Step-by-Step Guide: Changing Your iCloud Email Address</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-strategies-for-disassociating-your-iphone-from-apples-icloud-service/"><u>Top Strategies for Disassociating Your iPhone From Apple's iCloud Service</u></a></li>
 </ul></div>
 

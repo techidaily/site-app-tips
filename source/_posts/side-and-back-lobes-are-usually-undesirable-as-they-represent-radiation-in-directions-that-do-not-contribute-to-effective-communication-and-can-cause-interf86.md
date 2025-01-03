@@ -1,7 +1,7 @@
 ---
 title: Side and Back Lobes Are Usually Undesirable as They Represent Radiation in Directions that Do Not Contribute to Effective Communication and Can Cause Interference.
-date: 2024-12-17T16:42:04.870Z
-updated: 2024-12-25T01:30:33.986Z
+date: 2024-12-30T01:20:08.548Z
+updated: 2025-01-03T05:50:08.840Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-10-ultimate-simulators-for-androids-gb-games/"><u>[Updated] 2024 Approved 10 Ultimate Simulators for Android's GB Games</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-gamified-views-selecting-the-best-webcams-for-players/"><u>[Updated] In 2024, Mastering Gamified Views Selecting the Best Webcams for Players</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/1-high-quality-bmw-e36-hd-resolution-wallpaper-collection-premium-desktop-and-mobile-backgrounds-digital-image-hub/"><u>1. High-Quality BMW E36 HD Resolution Wallpaper Collection: Premium Desktop & Mobile Backgrounds - Digital Image Hub</u></a></li>
-<li><a href="https://app-tips.techidaily.com/alarm-system/"><u>Alarm System</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beamwidth-is-a-critical-parameter-for-antennas-especially-in-applications-like-radar-or-satellite-communications-where-precise-targeting-is-necessary/"><u>Beamwidth Is a Critical Parameter for Antennas, Especially in Applications Like Radar or Satellite Communications Where Precise Targeting Is Necessary.</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-user-account-control-uac-for-elevated-privileges-in-windows-7810/"><u>Bypassing User Account Control (UAC) for Elevated Privileges in Windows 7/8/10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-samsung-galaxy-a54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Samsung Galaxy A54 5G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-future-your-top-5-choices-as-microsofts-mainstream-windows-1/"><u>Facing the Future: Your Top 5 Choices as Microsoft's Mainstream Windows 1</u></a></li>
-<li><a href="https://app-tips.techidaily.com/linux-defenses-tighten-with-oins-latest-patent-protection-boost-ai-remains-uncovered-zdnet-expands/"><u>LINUX DEFENSES TIGHTEN WITH OIN'S LATEST PATENT PROTECTION BOOST (AI REMAINS UNCOVERED) | ZDNET EXPANDS</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/solving-the-mystery-why-your-chromebook-might-be-sluggish-and-tips-to-boost-performance/"><u>Solving the Mystery: Why Your Chromebook Might Be Sluggish & Tips to Boost Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-crafting-a-reliable-recovery-drive-for-your-pc-expert-advice-from-zdnet/"><u>Step-by-Step Guide: Crafting a Reliable Recovery Drive for Your PC - Expert Advice From ZDNET</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-imovie-alternatives-top-free-options-for-video-editing/"><u>Updated 2024 Approved IMovie Alternatives Top Free Options for Video Editing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeos-global-distribution-guide/"><u>[New] 2024 Approved Vimeo's Global Distribution Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-budget-gaming-hardware-the-ultimate-keyboard-list-for-2024/"><u>[New] Essential Budget Gaming Hardware The Ultimate Keyboard List for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-pixelperfect-editor/"><u>[Updated] In 2024, PixelPerfect Editor</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-navigating-tiktok-web-efficiently-as-a-mac-user/"><u>2024 Approved Navigating TikTok Web Efficiently as a Mac User</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ultimate-guide-to-the-leading-9-video-call-and-collaboration-tools-android-ios/"><u>2024 Approved Ultimate Guide to the Leading 9 Video Call & Collaboration Tools (Android, iOS)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-widening-chasm-of-data-expertise-innovative-strategies-from-a-leading-tech-firm-zdnet/"><u>Bridging the Widening Chasm of Data Expertise: Innovative Strategies From a Leading Tech Firm | ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/change-your-audio-files-effortlessly-convert-mp3-to-aiff-for-zero-cost-with-movavis-web-service/"><u>Change Your Audio Files Effortlessly - Convert MP3 to AIFF for Zero Cost with Movavi's Web Service.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/devops-engineer-career-path-unveiling-the-pros-cons-and-realities-insights-from-zdnet/"><u>DevOps Engineer Career Path: Unveiling The Pros, Cons & Realities - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-how-technological-advancements-contribute-to-staff-burnout-and-strategies-for-improvement-zdnet/"><u>Exploring How Technological Advancements Contribute to Staff Burnout and Strategies for Improvement | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-unexpected-how-ai-is-shaping-unprecedented-job-roles-and-their-mysterious-titles-zdnet-analysis/"><u>Exploring the Unexpected: How AI Is Shaping Unprecedented Job Roles and Their Mysterious Titles | ZDNET Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-note-30-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Note 30 5G Face Lock?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-artificial-intelligence-impacts-future-trends-in-cybersecurity-employment-opportunities-insights-from-zdnet/"><u>How Artificial Intelligence Impacts Future Trends in Cybersecurity Employment Opportunities: Insights From ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-future-of-ai-in-business-essential-read-for-singapores-smb-workforce-training-expert-advice-by-zdnet/"><u>Mastering the Future of AI in Business: Essential Read for Singapore's SMB Workforce Training – Expert Advice by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-jobs-with-ai-unveiling-the-endless-possibilities-and-changes-by-zdnet-experts/"><u>The Future of Jobs with AI: Unveiling the Endless Possibilities & Changes by ZDNet Experts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-12-zero-cost-ai-video-optimizers-available-online-compatible-with-pc-and-mac-platforms/"><u>Top 12 Zero-Cost AI Video Optimizers Available Online: Compatible with PC & MAC Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-work-the-revolutionary-impact-of-ai-agents-on-future-jobs/"><u>Transforming Work: The Revolutionary Impact of AI Agents on Future Jobs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-addressing-obsolete-technologies-is-crucial-insights-from-a-recent-mismanaged-upgrade-zdnet/"><u>Why Addressing Obsolete Technologies Is Crucial - Insights From a Recent Mismanaged Upgrade | ZDNet</u></a></li>
 </ul></div>
 

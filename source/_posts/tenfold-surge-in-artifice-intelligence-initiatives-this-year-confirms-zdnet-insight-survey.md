@@ -1,7 +1,7 @@
 ---
 title: Tenfold Surge in Artifice Intelligence Initiatives This Year, Confirms ZDNet Insight Survey
-date: 2024-12-30T18:05:35.381Z
-updated: 2025-01-02T23:56:07.026Z
+date: 2024-12-31T00:46:56.076Z
+updated: 2025-01-03T08:32:03.821Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-rapid-growth-on-instagram-the-like-video-duo-power/"><u>[New] In 2024, Rapid Growth on Instagram The Like-Video Duo Power</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-transformative-camera-movements-your-guide-to-ken-burns-in-camtasa-for-2024/"><u>[New] Transformative Camera Movements Your Guide to Ken Burns in Camtasa for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-flipping-the-script-online-video-reversals/"><u>2024 Approved Flipping the Script Online Video Reversals</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-from-photos-jpg-png-on-ios-to-pdf-the-easy-steps/"><u>2024 Approved From Photos (JPG, PNG) on iOS to PDF The Easy Steps</u></a></li>
-<li><a href="https://win-updates.techidaily.com/chrome-firefox-microsoft-edge/"><u>Chrome, Firefox, Microsoft Edgeで使える高速ウェブ録画技術：詳しい手順とポインター</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722008477435-dont-delay-switch-to-this-free-open-source-chatbot-app-now-instead-of-waiting-for-chatgpt-desktop/"><u>Don't Delay, Switch to This Free, Open-Source Chatbot App Now Instead of Waiting for ChatGPT Desktop!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-writing-game-on-microsoft-365-using-the-new-co-pilot-features-according-to-recent-zdnet-reviews/"><u>Elevate Your Writing Game on Microsoft 365 Using the New Co-Pilot Features, According to Recent ZDNet Reviews!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a15-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A15 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-xiaomi-redmi-note-12-pro-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Xiaomi Redmi Note 12 Pro 5G FRP Without Computer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/resending-deleted-messages-in-microsoft-outlook-a-step-by-step-guide-techradar/"><u>Resending Deleted Messages in Microsoft Outlook: A Step-by-Step Guide - TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rethinking-artificial-intelligence-insights-from-a-leading-ai-researcher-for-innovative-breakthroughs/"><u>Rethinking Artificial Intelligence: Insights From a Leading AI Researcher for Innovative Breakthroughs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simplify-development-enhance-hiring-potential-the-power-of-low-code-technologies-in-recruitment/"><u>Simplify Development, Enhance Hiring Potential - The Power of Low-Code Technologies in Recruitment</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-pivotal-role-of-enterprise-architects-in-spearheading-digital-change-zdnet/"><u>The Pivotal Role of Enterprise Architects in Spearheading Digital Change | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ticking-clock-for-ms-how-microsoft-is-racing-against-time-to-fix-key-windows-10-challenges-by-zdnets-analysis/"><u>Ticking Clock for MS: How Microsoft Is Racing Against Time to Fix Key Windows 10 Challenges by ZDNet's Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranking-web-hosts-comprehensive-reviews-and-ratings-by-industry-experts-zdnet/"><u>Top-Ranking Web Hosts : Comprehensive Reviews and Ratings by Industry Experts | ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-slomo-videography-tool-assessment/"><u>[New] In 2024, Ultimate SloMo Videography Tool Assessment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-lives-10-cinematic-inspirations/"><u>2024 Approved Transform Lives 10 Cinematic Inspirations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-glitch-ultimate-guide-to-stop-war-thunder-crashes/"><u>Beat the Glitch: Ultimate Guide to Stop War Thunder Crashes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-20-most-exceptional-lock-screen-utilities-tailored-for-android-smartphones/"><u>Discover the 20 Most Exceptional Lock Screen Utilities Tailored for Android Smartphones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR, Apples New iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/journey-through-gaming-landscapes-with-kinemaster-and-discover-its-best-competitors-for-2024/"><u>Journey Through Gaming Landscapes with KineMaster & Discover Its Best Competitors for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mumu-player-the-ultimate-powerful-android-emulation-tool-for-your-computer/"><u>MuMu Player: The Ultimate Powerful Android Emulation Tool for Your Computer</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-the-future-most-effective-voice-to-text-solutions/"><u>Navigating the Future: Most Effective Voice-to-Text Solutions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/optimized-techniques-for-efficiently-reducing-the-size-of-wmv-video-files/"><u>Optimized Techniques for Efficiently Reducing the Size of WMV Video Files</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-iphone-a-comprehensive-guide-to-enabling-touch-id-and-passcode-protection/"><u>Securing Your iPhone: A Comprehensive Guide to Enabling Touch ID and Passcode Protection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-how-to-shield-your-iphone-and-ipad-against-unwanted-emails-with-ios-18-features/"><u>Step-by-Step Tutorial: How to Shield Your iPhone and iPad Against Unwanted Emails with iOS 18 Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-18-emoji-keyboard-apps-compatible-with-both-ios-and-android-devices/"><u>Top 18 Emoji Keyboard Apps Compatible with Both iOS & Android Devices</u></a></li>
 </ul></div>
 

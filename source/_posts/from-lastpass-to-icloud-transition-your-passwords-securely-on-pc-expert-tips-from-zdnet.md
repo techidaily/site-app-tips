@@ -1,7 +1,7 @@
 ---
 title: "From LastPass to iCloud: Transition Your Passwords Securely on PC - Expert Tips From ZDNet"
-date: 2024-12-28T00:47:43.003Z
-updated: 2025-01-03T04:21:45.627Z
+date: 2024-12-28T07:06:31.527Z
+updated: 2025-01-02T19:45:41.968Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Image: Maria Diaz/ZDNET
 An [Apple ID](https://www.zdnet.com/article/your-friends-could-help-stop-you-getting-locked-out-of-your-apple-id/) gives you access to many perks within the Apple software ecosystem, and one of them is [Keychain](https://www.zdnet.com/article/how-to-locate-a-password-with-the-macos-keychain/): iCloud's password manager. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -35,6 +35,10 @@ If you've been around for the past 10 or so years, you know that most services r
 
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use iCloud as a password manager on Windows
 
 ## 1\. Open iCloud for Windows
@@ -47,10 +51,6 @@ Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Sign in to your iCloud Passwords
 
 Once you sign in to your account -- if you haven't already -- you can access your account, add another account, and make any necessary changes.
@@ -60,10 +60,6 @@ Go to Passwords, and click Apply.
 Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Make sure Passwords is on and click Apply
 
@@ -85,6 +81,10 @@ Maria Diaz/ZDNET
 
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Autofill on Chrome
 
 Since I added the [Google Chrome extension](https://www.zdnet.com/article/best-chrome-extension/), the next step is to **Enable Autofill** to give Chrome permission to my iCloud Passwords.
@@ -100,10 +100,6 @@ Maria Diaz/ZDNET
 Enter the verification code. 
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Try out the password manager
 
@@ -124,7 +120,7 @@ Like LastPass, the browser extension will let you fill in your login information
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How do I set up iCloud Keychain? 
@@ -132,6 +128,10 @@ To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ
 iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/article/how-to-update-all-of-your-apple-devices/): [iPhone](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fipad%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [Mac](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). To set it up, go to your iPhone's Settings and tap on your name at the top of the screen to access your iCloud settings. Then, choose iCloud. Find Passwords and Keychain and select that, then tap on Sync this iPhone to turn it on. 
 
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
 
@@ -167,24 +167,17 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-charting-financial-success-the-tale-of-ajey-carryminati-and-youtube/"><u>[Updated] In 2024, Charting Financial Success The Tale of Ajey (CarryMinati) and YouTube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-extracting-music-tracks-from-fb/"><u>[Updated] In 2024, Extracting Music Tracks From Fb</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-techniques-for-selective-youtube-video-downloading/"><u>[Updated] Techniques for Selective YouTube Video Downloading</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-chatbot-bias-revealed-by-stanford-research-the-overlooked-issue-of-language-limitation/"><u>AI Chatbot Bias Revealed by Stanford Research: The Overlooked Issue of Language Limitation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-clash-between-ai-progress-and-agile-methods-insights-from-recent-research-zdnet/"><u>Exploring the Clash Between AI Progress & Agile Methods: Insights From Recent Research - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-impact-of-cutting-edge-ai-on-present-technology-systems-discoveries-by-zdnet/"><u>Exploring the Impact of Cutting-Edge AI on Present Technology Systems - Discoveries by ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-move-your-apple-music-playlists-to-and-from-youtube-music-a-comprehensive-guide-by-zdnet/"><u>How to Move Your Apple Music Playlists to and From YouTube Music: A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/install-macos-monterey-beta-sequoia-on-your-mac-now-the-complete-tutorial-experts/"><u>Install macOS Monterey Beta (Sequoia) on Your Mac Now: The Complete Tutorial Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/is-artificial-intelligence-a-threat-to-cybersecurity-employment-prospects/"><u>Is Artificial Intelligence a Threat to Cybersecurity Employment Prospects?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-dive-into-the-business-before-coding-zdnet-insights/"><u>Mastering Tech Team Leadership: Dive Into the Business Before Coding | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-start-with-core-business-insights/"><u>Mastering Tech Team Leadership: Start with Core Business Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-the-expert-analysis-by-toms-hardware/"><u>Mastering Technology: The Expert Analysis by Tom's Hardware</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-modern-hurdles-tackling-ambiguous-results-and-uncertain-precision-in-ai-expert-analysis-by-zdnet/"><u>Overcoming Modern Hurdles: Tackling Ambiguous Results and Uncertain Precision in AI | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://article-tips.techidaily.com/premier-picks-essential-mp4-lists-for-2024/"><u>Premier Picks Essential MP4 Lists for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-headphone-and-speaker-connectivity-problems-on-microsoft-windows-platforms/"><u>Resolving Headphone and Speaker Connectivity Problems on Microsoft Windows Platforms</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-factors-to-evaluate-when-purchasing-an-unlocked-mobile-device/"><u>Top Factors to Evaluate When Purchasing an Unlocked Mobile Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-is-it-possible-for-the-model-to-gain-insights-from-conversations-with-users/"><u>Understanding ChatGPT: Is It Possible for The Model to Gain Insights From Conversations With Users?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-unbreakable-ai-watermarks-the-ultimate-guide-zdnet/"><u>Unlocking Unbreakable AI Watermarks: The Ultimate Guide | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-top-managers-doubt-it-efficacy-unveiling-findings-of-an-in-depth-ibm-analysis-read-more-at-zdnet/"><u>Why Top Managers Doubt IT Efficacy – Unveiling Findings of an In-Depth IBM Analysis | Read More at ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-your-slide-show-webcam-screen-capture-methods/"><u>[New] In 2024, Mastering Your Slide Show Webcam Screen Capture Methods</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-quick-guide-best-ways-to-recognize-sound-in-windows-11-devices/"><u>[New] In 2024, Quick Guide Best Ways to Recognize Sound in Windows 11 Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-picks-for-drone-pilots-vr-eyewear/"><u>2024 Approved Expert Picks for Drone Pilots’ VR Eyewear</u></a></li>
+<li><a href="https://some-tips.techidaily.com/arista-elevates-network-solutions-with-enhanced-routing-options-tailored-for-the-cloud-era-as-reported-by-zdnet/"><u>Arista Elevates Network Solutions with Enhanced Routing Options Tailored for the Cloud Era, as Reported by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-setting-up-and-accessing-kik-chat-app-for-windowsmac-users/"><u>Complete Tutorial: Setting Up & Accessing Kik Chat App for Windows/Mac Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-m34-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy M34 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expertly-curated-list-the-ultimate-9plus1-video-streaming-solutions-for-android-devices/"><u>Expertly Curated List: The Ultimate 9+1 Video Streaming Solutions for Android Devices</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/guide-to-utilizing-siri-on-tiktok-videos/"><u>Guide to Utilizing Siri on TikTok Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximizing-engagement-a-pathway-to-higher-subscriber-numbers-for-2024/"><u>Maximizing Engagement A Pathway to Higher Subscriber Numbers for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-moving-your-iphone-applications-seamlessly-between-iphones/"><u>Step-by-Step Guide: Moving Your iPhone Applications Seamlessly Between iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192484-ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Forgetting Passwords Fuels Growing Demand for Biometric Security Solutions
-date: 2025-01-01T18:48:35.016Z
-updated: 2025-01-03T03:57:47.798Z
+date: 2025-01-01T20:27:20.199Z
+updated: 2025-01-02T23:46:30.950Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,18 +99,24 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-prelude-to-cinematic-dialogue/"><u>[New] In 2024, Prelude to Cinematic Dialogue</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-the-meme-making-method-unveiling-6-crucial-gif-production-strategies/"><u>[New] In 2024, The Meme-Making Method Unveiling 6 Crucial GIF Production Strategies</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ideal-virtual-reality-systems-for-drones/"><u>[Updated] Ideal Virtual Reality Systems for Drones</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-saving-instagram-content-easy-no-frill-methods-exposed/"><u>[Updated] In 2024, Saving Instagram Content Easy, No-Frill Methods Exposed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-empowering-skill-advancement-beyond-artificial-intelligence-on-the-digital-frontier-insights-from-zdnet/"><u>1. Empowering Skill Advancement: Beyond Artificial Intelligence on the Digital Frontier - Insights From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/beware-the-traps-in-budget-friendly-windows-license-purchases/"><u>Beware the Traps in Budget-Friendly Windows License Purchases</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-the-future-how-your-enterprise-will-depend-on-numerous-ai-solutions-insights-from-zdnet/"><u>Embracing the Future: How Your Enterprise Will Depend on Numerous AI Solutions - Insights From ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-v30t-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme V30T to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/properly-merging-webcam-feed-with-desktop-screen-for-2024/"><u>Properly Merging Webcam Feed with Desktop Screen for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/straightforward-recorder-app-windows-for-2024/"><u>Straightforward Recorder App - Windows for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tips-for-fixing-messages-showing-numbers-and-not-contact-names-on-your-smartphone/"><u>Tips for Fixing Messages Showing Numbers and Not Contact Names on Your Smartphone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-ais-potential-overcoming-challenges-to-harness-significant-commercial-advantages/"><u>Unlocking AI's Potential: Overcoming Challenges to Harness Significant Commercial Advantages</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-innovation-with-open-source-a-pathway-chosen-by-leading-global-minds-insights-from-zdnet/"><u>Unlocking Innovation with Open Source: A Pathway Chosen by Leading Global Minds - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-freedom-in-fun-10-excellent-offline-gaming-on-android-devices/"><u>[New] 2024 Approved Freedom in Fun 10 Excellent Offline Gaming on Android Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-from-obscurity-to-popularity-facebooks-best-follower-growth-methods/"><u>[Updated] 2024 Approved From Obscurity to Popularity Facebook's Best Follower Growth Methods</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-high-quality-video-music-services/"><u>[Updated] 2024 Approved High-Quality Video Music Services</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-applications-of-virtual-reality/"><u>2024 Approved Applications of Virtual Reality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/earn-on-youtube-beginners-path-to-profitability/"><u>Earn on YouTube Beginner's Path to Profitability</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-methods-to-transform-avi-files-for-streamlined-playback-on-iphone-ipad-and-ipod-via-itunes/"><u>Effortless Methods to Transform AVI Files for Streamlined Playback on iPhone, iPad & iPod via iTunes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-tips-for-resolving-unrecognized-devices-making-itunes-recognize-your-iphone-ipad-or-ipod-again/"><u>Expert Tips For Resolving Unrecognized Devices: Making iTunes Recognize Your iPhone, iPad, or iPod Again</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-recover-lost-contacts-from-your-iphones-itunes-backup/"><u>How to Recover Lost Contacts From Your iPhone's iTunes Backup</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-z-flip-5-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy Z Flip 5 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-pixiz-for-creating-dynamic-photo-videos/"><u>Mastering Pixiz for Creating Dynamic Photo Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-through-options-five-vital-considerations-before-picking-your-activity-band/"><u>Navigating Through Options: Five Vital Considerations Before Picking Your Activity Band</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-samsung-galaxy-s23-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Samsung Galaxy S23 and Browser | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-fix-guide-eliminate-itunes-music-duplicates-with-simple-methods/"><u>Quick Fix Guide: Eliminate iTunes Music Duplicates with Simple Methods</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revamp-your-itunes-collection-with-these-proven-techniques-for-inserting-album-images/"><u>Revamp Your iTunes Collection with These Proven Techniques for Inserting Album Images</u></a></li>
+<li><a href="https://app-tips.techidaily.com/syncing-imovie-projects-with-itunes-a-step-by-step-guide/"><u>Syncing iMovie Projects with iTunes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-12-replacements-for-itunes-on-pc-and-mac-in-2n34-best-options-explored/"><u>Top 12 Replacements for iTunes on PC and Mac in 2N34 - Best Options Explored</u></a></li>
+<li><a href="https://article-helps.techidaily.com/vida-unveiled-a-gateway-to-professional-video-craftsmanship-for-2024/"><u>Vida Unveiled A Gateway to Professional Video Craftsmanship for 2024</u></a></li>
 </ul></div>
 

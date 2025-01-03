@@ -1,7 +1,7 @@
 ---
 title: "ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet"
-date: 2025-01-02T04:32:02.237Z
-updated: 2025-01-03T00:55:36.130Z
+date: 2024-12-29T05:46:08.177Z
+updated: 2025-01-03T10:56:37.570Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,22 +68,16 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweet-trends-unveiled-top-videos-of-the-twittersphere/"><u>[New] 2024 Approved Tweet Trends Unveiled Top Videos of the Twittersphere</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-art-of-sharing-on-reddit-your-complete-guide/"><u>[Updated] 2024 Approved Mastering the Art of Sharing on Reddit - Your Complete Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-step-by-step-guide-effortless-iphone-screen-recordings-for-2024/"><u>[Updated] Step-by-Step Guide Effortless Iphone Screen Recordings for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-we-depend-on-instagram-an-in-depth-analysis-by-zdnet/"><u>Can We Depend on Instagram? An In-Depth Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discovering-your-macs-secrets-a-guide-to-finding-passwords-in-the-keychain/"><u>Discovering Your Mac's Secrets: A Guide to Finding Passwords in the Keychain</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/instagrams-reliability-questioned-insights-from-a-zdnet-investigation/"><u>Instagram's Reliability Questioned: Insights From a ZDNet Investigation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-brex-how-1password-enhances-user-security-with-new-online-payment-features-insights-from-zdnet/"><u>Integrating Brex: How 1Password Enhances User Security with New Online Payment Features - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/logmein-decides-to-create-independent-entity-with-lastpass-zdnet-news/"><u>LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfecting-date-placement-on-visual-memories-for-2024/"><u>Perfecting Date Placement on Visual Memories for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/proton-launches-advanced-password-protector-ensuring-total-privacy-with-robust-end-to-end-cryptography-zdnet/"><u>Proton Launches Advanced Password Protector, Ensuring Total Privacy with Robust End-to-End Cryptography | ZDNET</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/solving-wi-fi-problems-step-by-step-guide-by-yl-computing/"><u>Solving Wi-Fi Problems: Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-7-most-effective-ai-software-to-craft-professional-presentations/"><u>The 7 Most Effective AI Software to Craft Professional Presentations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-password-security-tools-of-2024-professional-reviews-zdnet/"><u>Top-Ranked Password Security Tools of 2024: Professional Reviews | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-a-safer-digital-life-a-detailed-review-of-two-revolutionary-passwordless-managers/"><u>Unlocking a Safer Digital Life: A Detailed Review of Two Revolutionary Passwordless Managers</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-cut-to-the-chase-get-direct-access-to-filmora-discount-codes-for-2024/"><u>Updated Cut to the Chase Get Direct Access to Filmora Discount Codes for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unlock-full-potential-of-your-zoom-sessions-with-obs/"><u>2024 Approved Unlock Full Potential of Your Zoom Sessions With OBS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-innovation-apples-cutting-edge-iphone-launch-event/"><u>Discover the Innovation: Apple's Cutting-Edge iPhone Launch Event</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-chilly-response-of-corporations-to-the-sizzling-potential-of-5g-technology/"><u>Exploring the Chilly Response of Corporations to the Sizzling Potential of 5G Technology</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-poco-x6-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Poco X6 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-top-8-real-time-strategies-to-boost-viewership/"><u>In 2024, Top 8 Real-Time Strategies to Boost Viewership</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insight-into-bing-the-rival-of-google-in-the-world-of-online-search-engines/"><u>Insight Into Bing: The Rival of Google in the World of Online Search Engines</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-aws-expert-guide-on-navigating-and-thriving-with-amazons-premier-cloud-platform-zdnet-perspectives/"><u>Mastering AWS: Expert Guide on Navigating and Thriving with Amazon's Premier Cloud Platform | ZDNet Perspectives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/no-internet-no-problem-onedrive-enables-offline-file-access-for-uninterrupted-work-zdnet/"><u>No Internet? No Problem! OneDrive Enables Offline File Access for Uninterrupted Work | ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/podcasts-vs-youtube-making-an-informed-media-decision/"><u>Podcasts Vs. YouTube Making an Informed Media Decision</u></a></li>
+<li><a href="https://article-files.techidaily.com/unlock-your-full-viewing-experience-with-these-3-strategies-to-download-youtube-srt-for-2024/"><u>Unlock Your Full Viewing Experience with These 3 Strategies to Download YouTube SRT for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-expert-review-of-superior-pandemic-vaccine-administration-platforms-for-healthcare-providers/"><u>ZDNet's Expert Review of Superior Pandemic Vaccine Administration Platforms for Healthcare Providers</u></a></li>
 </ul></div>
 

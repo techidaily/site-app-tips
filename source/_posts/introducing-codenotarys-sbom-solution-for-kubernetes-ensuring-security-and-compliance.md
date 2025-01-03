@@ -1,7 +1,7 @@
 ---
 title: Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance
-date: 2024-12-31T04:39:37.034Z
-updated: 2025-01-03T00:23:09.553Z
+date: 2024-12-28T22:41:34.569Z
+updated: 2025-01-03T03:57:04.025Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-exclusive-insights-unlock-the-secrets-to-screen-capturing-games/"><u>[New] Exclusive Insights Unlock the Secrets to Screen Capturing Games</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-global-content-makers-conference/"><u>[Updated] Global Content Makers' Conference</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-expert-tips-for-quality-video-with-nvidia/"><u>2024 Approved Expert Tips for Quality Video with NVIDIA</u></a></li>
-<li><a href="https://article-tips.techidaily.com/advanced-cameras-front-screen-center-stage/"><u>Advanced Cameras Front Screen Center Stage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-your-pcs-efficiency-with-these-free-defrag-solutions-for-summer-2024/"><u>Boost Your PC's Efficiency with These Free Defrag Solutions for Summer 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-employer-appeal-with-low-code-solutions-insights-from-zdnet/"><u>Boosting Employer Appeal with Low-Code Solutions: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ceo-flips-out-over-team-usage-on-microsoft-teams-office-chaos-unleashed/"><u>CEO Flips Out Over Team Usage on Microsoft Teams - Office Chaos Unleashed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/complete-guide-to-fixing-the-persistent-pauses-addressing-deathloops-crash-issues-on-ps5-and-pc/"><u>Complete Guide to Fixing the Persistent Pauses: Addressing Deathloop's Crash Issues on PS5 & PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-project-outcomes-using-agile-methodology-learn-the-6-essential-strategies-for-effective-software-design-zdnet/"><u>Elevate Your Project Outcomes Using Agile Methodology: Learn the 6 Essential Strategies for Effective Software Design | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-snowflakes-latest-language-model-outshines-metas-llama-less-training-greater-efficiency-zdnet/"><u>How Snowflake's Latest Language Model Outshines Meta's LLaMA 지침 - Less Training, Greater Efficiency | ZDNET</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-11-pro-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 11 Pro With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/innovating-communication-technology-sony-research-joins-forces-with-ai-singapore-for-advanced-large-language-model-development-zdnet-insights/"><u>Innovating Communication Technology: Sony Research Joins Forces with AI Singapore for Advanced Large Language Model Development | ZDNET Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-excel-cell-consolidation-techniques-with-expert-advice-from-zdnet/"><u>Master Excel Cell Consolidation Techniques with Expert Advice From ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-crafting-a-compelling-cover-letter-with-chatgpt/"><u>Mastering the Art of Crafting a Compelling Cover Letter with ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-copy-paste-with-mouse-navigation-tricks/"><u>Perfect Copy-Paste with Mouse Navigation Tricks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/surpassing-all-others-in-performance-and-user-friendliness-the-unrivaled-excellence-of-linux-mint-asterisk-22-zdnet-insight/"><u>Surpassing All Others in Performance and User-Friendliness: The Unrivaled Excellence of Linux Mint Asterisk 22 | ZDNET Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-codenotarys-sbom-software-bill-of-materials-platform-innovative-solutions-for-managing-dependencies-in-kubernetes-environments-zdnet/"><u>Unveiling Codenotary's SBOM (Software Bill of Materials) Platform: Innovative Solutions for Managing Dependencies in Kubernetes Environments - ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-ios-177-a-potentially-more-secure-choice-over-ios-18-rolling-out-now/"><u>Unveiling IOS 17.7: A Potentially More Secure Choice Over iOS 18, Rolling Out Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-alert-microsoft-faces-critical-challenge-with-windows-10-only-a-year-left-zdnet/"><u>Urgent Alert: Microsoft Faces Critical Challenge with Windows 10 - Only a Year Left! [ZDNet]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-compilation-of-techniques-to-source-background-images/"><u>[New] The Ultimate Compilation of Techniques to Source Background Images</u></a></li>
+<li><a href="https://app-tips.techidaily.com/accelerate-androids-speed-optimize-with-advanced-task-management-tools/"><u>Accelerate Android's Speed: Optimize with Advanced Task Management Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-and-paid-screen-mirroring-solutions-for-android-devices-top-9-app-picks/"><u>Best Free & Paid Screen Mirroring Solutions for Android Devices: Top 9 App Picks</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/building-brand-awareness-best-practices-for-snapchat/"><u>Building Brand Awareness Best Practices for Snapchat</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-manage-smartscreen-on-modern-windows-systems/"><u>How to Manage SmartScreen on Modern Windows Systems</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-pick-videopad-video-editor-review-and-buying-guide/"><u>New In 2024, Top Pick Videopad Video Editor Review and Buying Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silencing-win-11s-mobility-hub/"><u>Silencing Win 11'S Mobility Hub</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-insights-on-videoleap-dont-miss-whats-next/"><u>Top Insights on Videoleap - Don't Miss What's Next</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-downloading-and-evaluating-apks-for-gaming-audio-content-and-device-rooting/"><u>Ultimate Guide to Downloading & Evaluating APKs for Gaming, Audio Content, and Device Rooting</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-journey-mastery-10-leading-apps-to-up-your-youtube-short-game/"><u>Video Journey Mastery 10 Leading Apps to Up Your Youtube Short Game</u></a></li>
 </ul></div>
 

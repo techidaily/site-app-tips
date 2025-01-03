@@ -1,7 +1,7 @@
 ---
 title: "How Hackers Are Capitalizing on the Pandemic: A Deep Dive Into Attacks Against US Universities Amidst Omicron Concerns | Reported by ZDNET"
-date: 2024-12-26T19:34:31.950Z
-updated: 2025-01-02T19:04:15.578Z
+date: 2024-12-31T00:45:15.061Z
+updated: 2025-01-02T18:11:45.663Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 Researchers with cybersecurity firm Proofpoint have [discovered](https://www.proofpoint.com/us/blog/threat-insight/university-targeted-credential-phishing-campaigns-use-covid-19-omicron-themes) a new phishing attack leveraging concern about the spread of the Omicron strain of COVID-19 to steal credentials and gain access to accounts at several prominent universities in the US. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### latest developments
@@ -22,7 +22,7 @@ Researchers with cybersecurity firm Proofpoint have [discovered](https://www.pro
 [![microscopic magnification of coronavirus that causes flu and chronic pneumonia leading to death](https://www.zdnet.com/a/img/resize/29eb42cb18bf682179393fd5caa23f5e78bec28e/2020/02/03/bd4a5b33-2cca-4ff8-9753-12d1bfd10a1d/istock-12015454421.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) Coronavirus: Business and technology in a pandemic From cancelled conferences to disrupted supply chains, not a corner of the global economy is immune to the spread of COVID-19.  Read now](https://www.zdnet.com/collection/coronavirus-business-and-technology-in-a-pandemic/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The emails -- part of an attack that Proofpoint researchers said began in October but increased in November -- generally contain information about COVID-19 testing and the new Omicron variant.
@@ -96,22 +96,18 @@ By entering under the guise of a legitimate user, the attacker has a greater cha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-effortlessly-pinning-friends-on-snapchat-with-confidence/"><u>[New] Effortlessly Pinning Friends on Snapchat with Confidence</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-leveraging-likes-and-shares-for-viral-content/"><u>[New] Leveraging Likes and Shares for Viral Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-mastering-microscopic-views-on-ms-teams-chat-for-2024/"><u>[New] Mastering Microscopic Views on MS Teams Chat for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-android-projector-applications-top-8-picks-for-seamless-wireless-connection/"><u>Best Android Projector Applications: Top 8 Picks for Seamless Wireless Connection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-analyzing-the-features-of-picku-app-and-its-affordable-photoshop-substitutes/"><u>Comprehensive Guide: Analyzing the Features of PickU App and Its Affordable Photoshop Substitutes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-pinnacle-studio-benefits-drawbacks-and-best-alternatives-explored/"><u>Comprehensive Review of Pinnacle Studio: Benefits, Drawbacks & Best Alternatives Explored</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-high-performance-cable-modems-for-seamless-connectivity/"><u>Discover High-Performance Cable Modems for Seamless Connectivity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193990-experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-ultimate-5-choices-of-wi-fi-based-chat-applications-for-effortless-texting-online/"><u>Exploring the Ultimate 5 Choices of Wi-Fi Based Chat Applications for Effortless Texting Online</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-itel-s23-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Itel S23 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-troubleshooting-teardown-system-breakdowns-a-full-guide/"><u>Mastering the Art of Troubleshooting Teardown System Breakdowns: A Full Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-windows-11-correcting-permission-issues-with-containers-expert-tips/"><u>Mastering Windows 11: Correcting Permission Issues with Containers [Expert Tips]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-tech-insights-the-journey-through-toms-digital-landscapes/"><u>Pioneering Tech Insights: The Journey Through Tom's Digital Landscapes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/previewed-activities-on-facebook-are-you-exposed-in-2024/"><u>Previewed Activities on Facebook Are You Exposed, In 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-8-must-have-multi-window-programs-for-android-phones-and-tablets/"><u>The Ultimate List of 8 Must-Have Multi-Window Programs for Android Phones & Tablets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-full-simplemdm-must-know-reviews-for-your-ios-and-mac-experience/"><u>Unveiling Full SimpleMDM: Must-Know Reviews for Your iOS and Mac Experience</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-vita-your-ultimate-guide-to-mastering-the-cutting-edge-video-editor/"><u>Unveiling the Power of VITA: Your Ultimate Guide to Mastering the Cutting-Edge Video Editor</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-chrome-pip-integration-a-cross-platform-tutorial/"><u>[Updated] In 2024, Chrome PIP Integration A Cross-Platform Tutorial</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-art-of-engaging-audiences-with-facebooks-split-screen-tech/"><u>[Updated] In 2024, The Art of Engaging Audiences with Facebook's Split Screen Tech</u></a></li>
+<li><a href="https://program-issues.techidaily.com/chivalry-ii-bug-fixed-no-more-freezing-or-crashes/"><u>Chivalry II Bug Fixed: No More Freezing or Crashes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/complete-ipad-showdown-in-depth-product-reviews-and-price-analysis/"><u>Complete iPad Showdown: In-Depth Product Reviews & Price Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cut-costs-and-boost-security-grab-keeper-password-manager-for-half-price-shop-at-zdnet-today/"><u>Cut Costs and Boost Security! Grab Keeper Password Manager for Half Price - Shop at ZDNET Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-playtime-with-steam-achievements/"><u>Enhance Your Playtime with Steam Achievements</u></a></li>
+<li><a href="https://app-tips.techidaily.com/implementing-dual-authentication-on-github-via-mobile-apps-a-comprehensive-guide/"><u>Implementing Dual-Authentication on GitHub via Mobile Apps: A Comprehensive Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-sound-integration-into-premiere-pro-edits/"><u>In 2024, Streamline Sound Integration Into Premiere Pro Edits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-password-free-access-simplified-with-dashlanes-new-feature-insights-from-zdnet/"><u>Master Password-Free Access Simplified with Dashlane's New Feature - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/no-excuses-for-bad-passwords-anymore-master-managed-logins-with-the-ultimate-guide-to-password-managers/"><u>No Excuses for Bad Passwords Anymore - Master Managed Logins with the Ultimate Guide to Password Managers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-lastpass-substitutes-expert-picks-by-zdnet/"><u>Top LastPass Substitutes : Expert Picks by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-password-management-tools-of-2024-industry-experts-picks-featured-on-zdnet/"><u>Top-Ranked Password Management Tools of 2024: Industry Experts' Picks Featured on ZDNet</u></a></li>
 </ul></div>
 

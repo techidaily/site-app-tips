@@ -1,7 +1,7 @@
 ---
 title: LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News
-date: 2025-01-01T22:40:23.910Z
-updated: 2025-01-03T05:14:01.776Z
+date: 2024-12-28T21:43:49.434Z
+updated: 2025-01-02T19:39:42.052Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ LogMeIn [announced](https://www.logmein.com/newsroom/press-release/2021/logmein-
 The cloud-based solutions company explained that the move allows LastPass to invest heavily in "customer experience, go-to-market functions and engineering" as a way to improve its "organic growth in password management," Single Sign-On (SSO) and multi-factor authentication (MFA). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -86,24 +86,18 @@ In a message to users, LastPass reiterated that it could "strategically increase
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-overcoming-deceptive-user-presentation-on-facebook/"><u>[New] 2024 Approved Overcoming Deceptive User-Presentation on Facebook</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-the-ultimate-guide-to-green-screen-expertise-with-kinemaster/"><u>[New] In 2024, The Ultimate Guide to Green Screen Expertise with Kinemaster</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-strategies-for-captivating-handc-fb-campaigns/"><u>[New] Innovative Strategies for Captivating H&C FB Campaigns</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nveiling-the-secrets-to-thriving-with-youtube-adsense-for-2024/"><u>[New] Unveiling the Secrets to Thriving With YouTube AdSense for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-tecno-camon-20-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Tecno Camon 20 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-how-iphone-users-can-download-and-preserve-pdfs-from-whatsapp/"><u>Complete Tutorial: How iPhone Users Can Download and Preserve PDFs From WhatsApp</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-exclusive-offers-the-best-deals-on-verizon-upgrades-this-month/"><u>Discover Exclusive Offers: The Best Deals on Verizon Upgrades This Month</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-tips-for-retrieving-lost-whatsapp-data-on-ios-recover-texts-images-movies-and-sounds-easily/"><u>Expert Tips for Retrieving Lost WhatsApp Data on iOS - Recover Texts, Images, Movies & Sounds Easily</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-stability-addressing-praey-for-the-gods-pc-performance-problems/"><u>Mastering Stability: Addressing Praey for the Gods' PC Performance Problems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximizing-your-media-sharing-on-whatsapp-ultimate-guide-to-reducing-video-file-size-without-quality-loss/"><u>Maximizing Your Media Sharing on WhatsApp: Ultimate Guide to Reducing Video File Size Without Quality Loss</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcome-whatsapp-backup-freeze-on-android-with-these-5-effective-methods/"><u>Overcome WhatsApp Backup Freeze on Android with These 5 Effective Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-and-effective-strategies-for-iphone-users-to-preserve-whatsapp-communications/"><u>Quick and Effective Strategies for iPhone Users to Preserve WhatsApp Communications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/reviving-your-messages-comprehensive-guide-on-recovering-whatsapp-backups-from-google-drive-on-ios-devices/"><u>Reviving Your Messages: Comprehensive Guide on Recovering WhatsApp Backups From Google Drive on iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-guide-capturing-your-whatsapp-video-calls-on-ios-android-and-pc/"><u>Simple Guide: Capturing Your WhatsApp Video Calls on iOS, Android, and PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-steps-to-seamlessly-download-audio-messages-from-whatsapp/"><u>Simple Steps to Seamlessly Download Audio Messages From WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-whatsapp-video-conversion-apps-for-perfect-quality/"><u>The Ultimate Guide: Top WhatsApp Video Conversion Apps for Perfect Quality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-fixing-stop-0x0000001d-no-spin-lock-available-issues/"><u>Troubleshooting Guide: Fixing STOP 0X0000001D (No Spin Lock Available) Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-a-503-service-temporarily-unavailable-error-online/"><u>Troubleshooting Guide: Resolving a 503 Service Temporarily Unavailable Error Online</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-beginners-blueprint-for-ipad-time-lapse-videos-for-2024/"><u>[New] Beginner's Blueprint for iPad Time-Lapse Videos for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-assortment-of-gopro-modifications-for-2024/"><u>[Updated] Ultimate Assortment of Gopro Modifications for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/before-microsoft-drops-support-for-windows-explore-five-essential-alternatives-to-keep-your-pc-running-smoothly/"><u>Before Microsoft Drops Support for Windows # : Explore Five Essential Alternatives to Keep Your PC Running Smoothly.</u></a></li>
+<li><a href="https://facebook.techidaily.com/combining-spotify-with-facebook-for-enhanced-listening/"><u>Combining Spotify with Facebook for Enhanced Listening</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dissecting-the-design-philosophy-behind-walkman-ws623/"><u>Dissecting the Design Philosophy Behind Walkman WS623</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-panic-windows-11-users-explore-these-5-strategies-before-microsoft-ends-its-lifeline-zdnet-insights/"><u>Don't Panic, Windows 11 Users! Explore These 5 Strategies Before Microsoft Ends Its Lifeline | ZDNet Insights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-steps-to-get-arduino-compatible-with-windows-operating-system/"><u>Easy Steps to Get Arduino Compatible with Windows Operating System</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-innovative-features-of-anthropics-latest-offerings-complimentary-ios-app-and-premier-corporate-plan-launched-get-insights-from-zdnet/"><u>Explore the Innovative Features of Anthropic's Latest Offerings: Complimentary iOS App and Premier Corporate Plan Launched – Get Insights From ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/offline-and-online-solutions-transforming-swf-videos-into-avi-without-cost/"><u>Offline & Online Solutions: Transforming SWF Videos Into AVI Without Cost</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/streaming-supremacy-duo-for-2024/"><u>Streaming Supremacy Duo for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-learning-management-systems-reviewed-by-zdnet-find-the-ideal-lms/"><u>Top-Ranked Learning Management Systems Reviewed by ZDNet: Find the Ideal LMS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlicensed-zen-audio-streaming-for-2024/"><u>Unlicensed Zen Audio Streaming for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upcoming-innovations-from-ai-over-the-next-ten-years-as-explored-by-zdnet/"><u>Upcoming Innovations From AI over the Next Ten Years as Explored by ZDNet</u></a></li>
 </ul></div>
 

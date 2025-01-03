@@ -1,7 +1,7 @@
 ---
 title: Understanding the Short Window of Success in AI Implementations - Lessons From a ZDNet Perspective
-date: 2024-12-31T21:04:46.329Z
-updated: 2025-01-02T17:32:43.210Z
+date: 2024-12-31T02:11:52.504Z
+updated: 2025-01-02T22:13:35.044Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-create-impact-with-intro-excellence-best-free-services-reviewed/"><u>2024 Approved Create Impact with Intro Excellence Best Free Services Reviewed</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-democratize-your-digital-dedication-increase-your-follower-count/"><u>2024 Approved Democratize Your Digital Dedication Increase Your Follower Count</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-essential-insights-on-making-your-podcast-name-unforgettable/"><u>2024 Approved Essential Insights on Making Your Podcast Name Unforgettable</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-your-key-to-digital-audio-conversion-from-srt-to-xmlssattml-guide/"><u>2024 Approved Your Key to Digital Audio Conversion From SRT to XML/SSA/TTML Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-lightspeed-on-openshift-the-intelligent-ai-companion-for-your-kubernetes-clusters-zdnet/"><u>Discover Lightspeed on OpenShift – The Intelligent AI Companion for Your Kubernetes Clusters | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experts-choose-the-leading-network-surveillance-software-comprehensive-review-and-selection-guide-techinsight/"><u>Experts Choose the Leading Network Surveillance Software : Comprehensive Review and Selection Guide | TechInsight</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/global-presence-via-instagram-100-inspiring-self-captions-for-2024/"><u>Global Presence via Instagram 100 Inspiring Self-Captions for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-smart-8-plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Smart 8 Plus to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/ideal-cams-for-animation-with-clay/"><u>Ideal Cams for Animation with Clay</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-new-release-a-game-changer-or-annoyance-find-out-how-it-stacks-up-zdnet/"><u>Microsoft's New Release: A Game Changer or Annoyance? Find Out How It Stacks Up [ZDNet]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-overlap-of-kernel-issues-and-cybersecurity-in-linux-environments-strategies-to-maintain-safety/"><u>Navigating the Overlap of Kernel Issues & Cybersecurity in Linux Environments - Strategies to Maintain Safety</u></a></li>
-<li><a href="https://app-tips.techidaily.com/new-advancements-for-ai-tasks-with-latest-kubernetes-version-released-insights-from-tech-experts-at-zdnet/"><u>New Advancements for AI Tasks with Latest Kubernetes Version Released, Insights From Tech Experts at ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/prepare-for-windows-10-eol-explore-five-essential-upgrades-or-migrations-options-now-zdnet-insights/"><u>Prepare for Windows 10 EOL: Explore Five Essential Upgrades or Migrations Options Now | ZDNet Insights</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/ready-yourself-for-youtube-video-production-finalcut-pro-techniques/"><u>Ready Yourself for YouTube Video Production - FinalCut Pro Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-red-hats-lightspeed-an-advanced-ai-solution-tailored-for-kubernetes-admins-with-openshift-zdnet/"><u>Unveiling Red Hat’s Lightspeed: An Advanced AI Solution Tailored for Kubernetes Admins with OpenShift | ZDNet</u></a></li>
-<li><a href="https://fox-links.techidaily.com/visionary-ai-digital-editing-app/"><u>Visionary AI Digital Editing App</u></a></li>
-<li><a href="https://app-tips.techidaily.com/where-is-microsofts-promised-free-windows-10-update-now/"><u>Where Is Microsoft's Promised Free Windows 10 Update Now?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/raft-an-attractive-animation-from-any-video-a-comprehensive-youtube-to-gif-guide/"><u>[New] Craft an Attractive Animation From Any Video - A Comprehensive Youtube-to-GIF Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-maximize-communication-video-conferencing-tips-for-android-for-2024/"><u>[New] Maximize Communication Video Conferencing Tips for Android for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-gaming-melodies-legal-downloadable-links/"><u>[Updated] Gaming Melodies Legal, Downloadable Links</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-immersive-chronicles-a-brief-history/"><u>[Updated] In 2024, The Immersive Chronicles A Brief History</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-leveraging-social-integration-auto-play-youtube-videos-on-fb-pages-for-2024/"><u>[Updated] Leveraging Social Integration Auto-Play Youtube Videos on FB Pages for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-uninterrupted-snapstreaks-techniques-for-success/"><u>2024 Approved Uninterrupted Snapstreaks Techniques for Success</u></a></li>
+<li><a href="https://app-tips.techidaily.com/all-you-need-to-know-about-pinnacle-studio-proscons-plus-top-software-substitutes-revealed/"><u>All You Need To Know About Pinnacle Studio Pros/Cons + Top Software Substitutes Revealed</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/centre-dassistance-technique-numerique-pour-les-outils-video-winx-dvd-ripper-et-logiciels-conversion-video-expliques/"><u>Centre D'assistance Technique Numérique Pour Les Outils Vidéo : WinX DVD Ripper Et Logiciels Conversion Vidéo Expliqués</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-cyberlink-actiondirector-advantages-disadvantages-and-top-substitutes/"><u>Complete Guide to CyberLink ActionDirector: Advantages, Disadvantages & Top Substitutes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disabled-issue-eliminated/"><u>Disabled Issue Eliminated</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-15-no-cost-texting-solutions-for-your-android-device/"><u>Discover the Top 15 No-Cost Texting Solutions for Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620191079-discover-the-ultimate-list-of-free-user-friendly-android-notes-applications-the-best-picks-you-need/"><u>Discover the Ultimate List of FREE, User-Friendly Android Notes Applications: The Best Picks You Need!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/logitechs-elite-4k-webcam-exhaustive-features-and-usability-for-2024/"><u>Logitech’s Elite 4K Webcam Exhaustive Features & Usability for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/on-the-go-image-and-document-producer-your-iphone-printer-solution/"><u>On-the-Go Image and Document Producer: Your iPhone Printer Solution</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-mobile-apps-for-stunning-photo-capture-on-android-devices/"><u>Top 10 Mobile Apps for Stunning Photo Capture on Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-the-best-10-gif-maker-apps-for-your-iphone/"><u>Ultimate Guide: The Best 10 GIF Maker Apps for Your iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/whatsapp-secrets-revealed-how-to-join-and-chat-with-others-even-if-you-dont-want-to-share-your-mobile-number/"><u>WhatsApp Secrets Revealed: How to Join and Chat with Others Even If You Don't Want to Share Your Mobile Number</u></a></li>
 </ul></div>
 

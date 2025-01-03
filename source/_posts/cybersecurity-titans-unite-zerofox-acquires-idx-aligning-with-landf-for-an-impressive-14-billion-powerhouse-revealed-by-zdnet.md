@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity Titans Unite! ZeroFox Acquires IDX, Aligning with L&F for an Impressive $1.4 Billion Powerhouse Revealed by ZDNet
-date: 2024-12-31T22:57:43.146Z
-updated: 2025-01-02T20:14:08.192Z
+date: 2025-01-01T23:57:10.539Z
+updated: 2025-01-02T22:16:18.460Z
 tags:
   - password-manager
 categories:
@@ -18,7 +18,7 @@ The company will be renamed ZeroFox Holdings once the deal goes through and will
 Monarch Alternative Capital LP and several other firms are also investing $170 million in the deal to merge the companies. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -87,24 +87,22 @@ Adam Gerchen, CEO of LNFA and a new ZeroFox board member, noted that the company
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-craft-your-fortune-terrarias-best-map-list/"><u>[New] In 2024, Craft Your Fortune Terraria's Best Map List</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-top-10-fb-video-downloader-tools-firefox-compatible/"><u>[Updated] 2024 Approved Top 10 FB Video Downloader Tools, Firefox Compatible</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-2023-streamline-facebook-vids-to-smooth-mp3/"><u>[Updated] In 2024, 2023 Streamline Facebook Vids to Smooth MP3</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-enhance-team-collaboration-through-effective-microsoft-teams-snap-practices/"><u>2024 Approved Enhance Team Collaboration Through Effective Microsoft Teams Snap Practices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/another-cyber-attack-on-lastpass-revealed-by-zdnets-latest-report/"><u>Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-password-management-tools-of-2022-slash-your-costs-insights-from-zdnet/"><u>Best Password Management Tools of 2022: Slash Your Costs - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/debunking-bitcoin-privacy-myths-the-expose-that-shook-its-secrecy/"><u>Debunking Bitcoin Privacy Myths: The Exposé That Shook Its Secrecy</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/easy-peasy-screen-transitions-for-filmmakers-for-2024/"><u>Easy-Peasy Screen Transitions for Filmmakers for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-and-secure-password-management-solutions-for-202e-thorough-evaluation-by-industry-experts-techradar/"><u>Free & Secure Password Management Solutions for 202E: Thorough Evaluation by Industry Experts - TechRadar</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-zte-by-fonelab-android-recover-video/"><u>How to recover old videos from your ZTE</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-top-15-royalty-free-music-hideouts-for-video-artists/"><u>In 2024, Top 15 Royalty-Free Music Hideouts for Video Artists</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-redmi-note-12-4g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Redmi Note 12 4G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-security-how-dashlanes-passwordless-logins-eliminate-the-hassle-of-remembering-one-overarching-password-insights-from-zdnet/"><u>Master Your Security: How Dashlane's Passwordless Logins Eliminate the Hassle of Remembering One Overarching Password - Insights From ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oppo-a78-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Oppo A78</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protonmail-unveils-secure-password-manager-featuring-military-grade-encryption-latest-tech-news-on-zdnet/"><u>ProtonMail Unveils Secure Password Manager Featuring Military-Grade Encryption - Latest Tech News on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-and-simplify-enhance-safety-and-convenience-of-your-online-accounts-with-our-top-rated-30-password-manager-zdnet-recommended/"><u>Secure & Simplify: Enhance Safety & Convenience of Your Online Accounts with Our Top-Rated $30 Password Manager (ZDNet Recommended)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-entire-team-with-1password-unbeatable-group-plan-at-just-1995month-explore-the-benefits-on-zdnet/"><u>Secure Your Entire Team with 1Password: Unbeatable Group Plan at Just $19.95/Month - Explore the Benefits on ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/stay-protected-with-macos-1441-the-safe-path-to-the-latest-update-for-mac-users-featured-on-zdnet/"><u>Stay Protected with macOS 14.4.1: The Safe Path to the Latest Update for Mac Users, Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-and-activating-the-bitwarden-master-password-reminder-a-step-by-step-guide/"><u>Understanding & Activating the Bitwarden Master Password Reminder: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-tips-for-enhancing-voiceovers-in-presentations/"><u>[New] Essential Tips for Enhancing Voiceovers in Presentations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-learn-to-edit-videos-professionally-using-inshot/"><u>[New] Learn to Edit Videos Professionally Using Inshot</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-pinnacle-of-image-capture-toolwiz-apps-extended-review-for-2024/"><u>[New] The Pinnacle of Image Capture Toolwiz App's Extended Review for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-windows-11-for-professional-grade-video-crafting/"><u>[Updated] Leveraging Windows 11 for Professional-Grade Video Crafting</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unleash-more-views-on-youtube-with-pro-tag-optimization/"><u>[Updated] Unleash More Views on YouTube with Pro Tag Optimization</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cognitive-network-advancements-from-arista-enter-mainstream-sectors-a-deep-dive-tech-insights/"><u>Cognitive Network Advancements From Arista Enter Mainstream Sectors: A Deep Dive - Tech Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-elite-learning-management-solutions-rated-by-tech-experts-at-zdnet/"><u>Explore Elite Learning Management Solutions Rated by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-advantages-of-running-an-immutable-linux-distribution-insights-and-benefits/"><u>Exploring the Advantages of Running an Immutable Linux Distribution - Insights and Benefits</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-the-booming-low-to-no-code-industry-is-reshaping-it-professions-zdnet-analysis/"><u>How the Booming Low to No-Code Industry Is Reshaping IT Professions - ZDNet Analysis</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-13-pro-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the iPhone 13 Pro Without Previous Owner?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/langchains-revolutionary-approach-to-making-genai-truly-beneficial-as-featured-on-zdnet/"><u>LangChain's Revolutionary Approach to Making GenAI Truly Beneficial, as Featured on ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/optimal-free-webcam-video-grabber-app-for-2024/"><u>Optimal Free Webcam Video Grabber App for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamlining-it-management-with-artificial-intelligence-red-hats-approach-to-simplifying-admin-duties/"><u>Streamlining IT Management with Artificial Intelligence: Red Hat's Approach to Simplifying Admin Duties</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-are-gaining-traction-in-tech-circles-zdnet/"><u>The Rising Popularity: How OpenStack & Kata Containers Are Gaining Traction in Tech Circles | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-latest-features-of-macos-sonoma-your-ultimate-guide-all-tips-and-insights-from-zdnet/"><u>Unveiling the Latest Features of macOS Sonoma: Your Ultimate Guide - All Tips and Insights From ZDNet</u></a></li>
 </ul></div>
 

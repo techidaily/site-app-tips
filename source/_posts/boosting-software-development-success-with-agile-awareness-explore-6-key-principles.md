@@ -1,7 +1,7 @@
 ---
 title: "Boosting Software Development Success with Agile Awareness: Explore 6 Key Principles"
-date: 2024-12-18T22:54:46.262Z
-updated: 2024-12-24T21:32:15.420Z
+date: 2024-12-29T00:29:58.594Z
+updated: 2025-01-02T19:02:31.593Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earnings-escalation-via-youtube-channel-initiatives/"><u>[New] 2024 Approved Earnings Escalation via YouTube Channel Initiatives</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-exploring-new-frontiers-in-gaming-top-titles-for-rift-vive-and-playstation-vr-for-2024/"><u>[New] Exploring New Frontiers in Gaming Top Titles for Rift, Vive, and PlayStation VR for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/op-10-youtube-rippers-for-media-conversion-for-2024/"><u>[New] Top 10 YouTube Rippers for Media Conversion for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlock-social-media-success-a-comprehensive-10-step-plan/"><u>[New] Unlock Social Media Success A Comprehensive 10-Step Plan</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-list-of-influential-biz-channels-online/"><u>2024 Approved The Ultimate List of Influential Biz Channels Online</u></a></li>
-<li><a href="https://app-tips.techidaily.com/anthropic-introduces-the-claude-enterprise-suite-for-enhanced-ai-capabilities-across-large-scale-operations-zdnet-insights/"><u>Anthropic Introduces the Claude Enterprise Suite for Enhanced AI Capabilities Across Large-Scale Operations | ZDNET Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-gap-between-tech-specialists-and-user-experiences-with-innovative-design-strategies/"><u>Bridging the Gap Between Tech Specialists and User Experiences with Innovative Design Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-a-leap-towards-realistic-integration/"><u>Bridging the Tech and Business Divide: A Leap Towards Realistic Integration</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v27-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V27 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-poco-x6-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Poco X6 Pro FRP Locks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-honor-magic-5-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Honor Magic 5?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-microsoft-account-protection-strategies-against-cyber-threats-techadvice/"><u>Securing Your Microsoft Account: Protection Strategies Against Cyber Threats - TechAdvice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/six-essential-strategies-for-effective-agile-approach-in-software-design-insights-from-zdnet/"><u>Six Essential Strategies for Effective Agile Approach in Software Design - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/sonys-ai-initiative-collaborates-with-ai-singapore-on-next-gen-language-models-unveiling-the-partnership/"><u>Sony's AI Initiative Collaborates with AI Singapore on Next-Gen Language Models: Unveiling the Partnership</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-finding-and-recovering-erased-contacts-on-android-smartphones/"><u>The Ultimate Tutorial for Finding and Recovering Erased Contacts on Android Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-majority-of-ai-projects-falter-predicts-gartner-the-future-of-generative-tech/"><u>ZDNet Exclusive: Majority of AI Projects Falter, Predicts Gartner | The Future of Generative Tech</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-master-your-youtube-empire-with-creator-studio-tools/"><u>[Updated] Master Your YouTube Empire with Creator Studio Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unbox-t5-and-explore-its-action-filming-capabilities/"><u>[Updated] Unbox T5 and Explore Its Action Filming Capabilities</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-discover-times-tales-top-10-historical-channels-to-study-with/"><u>2024 Approved Discover Time's Tales Top 10 Historical Channels to Study With</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-no-cost-nintendo-switch-virtual-games/"><u>2024 Approved No-Cost Nintendo Switch Virtual Games</u></a></li>
+<li><a href="https://app-tips.techidaily.com/before-its-too-late-exploring-five-strategies-to-maintain-your-windows-pc-zdnet/"><u>Before It's Too Late: Exploring Five Strategies to Maintain Your Windows 지원 제한되는 PC | ZDNET</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/digital-evolution-in-business-the-crucial-role-of-enterprise-architects/"><u>Digital Evolution in Business: The Crucial Role of Enterprise Architects</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fix-for-remnant-from-the-ashes-endless-crash-cycle/"><u>Effective Fix for Remnant: From the Ashes’ Endless Crash Cycle</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-revival-how-openstack-and-kata-containers-gain-new-ground-in-tech-markets-zdnet-insights/"><u>Exploring the Revival: How OpenStack and Kata Containers Gain New Ground in Tech Markets - ZDNet Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-an-all-inclusive-subtitle-handbook-from-basics-to-advanced-tips/"><u>In 2024, An All-Inclusive Subtitle Handbook From Basics to Advanced Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-artificer-intelligence-the-next-gen-kubernetes-update-revealed-infotech-today/"><u>Leveraging Artificer Intelligence: The Next-Gen Kubernetes Update Revealed | InfoTech Today</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-you-should-think-about-aiops-check-out-these-7-key-points-according-to-zdnet/"><u>Why You Should Think About AIOps? Check Out These 7 Key Points According To ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-ai-project-expansion-explodes-to-ten-times-more-this-past-year-study-finds/"><u>ZDNet Reveals AI Project Expansion Explodes to Ten Times More This Past Year - Study Finds</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Game-Changing Entrant in the Video Call Arena Outshines Microsoft Teams and Zoom with Lip-Reading Capabilities | ZDNet
-date: 2024-12-18T16:02:52.425Z
-updated: 2024-12-25T01:36:30.526Z
+date: 2024-12-29T00:48:26.326Z
+updated: 2025-01-03T03:16:17.961Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,15 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-essential-drawing-suites-on-windows-zero-to-high-pricing/"><u>[New] In 2024, Essential Drawing Suites on Windows Zero to High Pricing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-aquatic-quest-enhanced-the-best-cameras-reviewed-here/"><u>2024 Approved Aquatic Quest Enhanced The Best Cameras Reviewed Here</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-instantaneous-image-assembling-a-facebook-collage-primer/"><u>2024 Approved Instantaneous Image Assembling A Facebook Collage Primer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/achieving-youtube-success-increasing-followers-quickly/"><u>Achieving YouTube Success Increasing Followers Quickly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experts-choose-the-superior-web-host-services-of-2024-in-depth-analysis-and-ratings-discover-with-zdnet/"><u>Experts Choose the Superior Web Host Services of 2024: In-Depth Analysis and Ratings | Discover with ZDNET</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/paper-path-problem-solved-error-code-0x00000709-conquered/"><u>Paper Path Problem Solved - Error Code 0X00000709 Conquered</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preparing-management-skills-is-key-prior-to-deploying-ai-technology-discover-strategies-with-zdnet/"><u>Preparing Management Skills Is Key Prior to Deploying AI Technology - Discover Strategies with ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/riding-the-wave-of-pervasive-device-expansion-in-edge-investments-boost-your-career-with-insights-from-zdnet/"><u>Riding the Wave of Pervasive Device Expansion in Edge Investments: Boost Your Career with Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-digital-how-non-cash-transactions-are-set-to-soar-to-1nt-led-by-asian-markets-zdnet-insights/"><u>The Future Is Digital: How Non-Cash Transactions Are Set to Soar to $1.nT, Led by Asian Markets | ZDNET Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-3-techniques-for-capturing-sports-spectacles-for-2024/"><u>[Updated] Top 3 Techniques for Capturing Sports Spectacles for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-iphones-playlist-paradise-podcast-edition/"><u>In 2024, Mastering iPhone's Playlist Paradise Podcast Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-skys-best-friends-top-11-drone-gear-for-phantom/"><u>In 2024, Sky's Best Friends Top 11 Drone Gear for Phantom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-turn-off-youtube-previews-on-all-devices/"><u>In 2024, Turn Off YouTube Previews on All Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/maximize-video-visibility-on-facebook-via-youtube/"><u>Maximize Video Visibility on Facebook via YouTube</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-challenges-in-leveraging-ai-for-significant-commercial-gains-insights-from-zdnet/"><u>Overcoming Challenges in Leveraging AI for Significant Commercial Gains - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-challenges-to-unlock-the-economic-potential-of-ai-in-business-insights-from-zdnet/"><u>Overcoming Challenges to Unlock the Economic Potential of AI in Business - Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-definitive-guide-to-instagram-to-mp4-transformation-2-ways-for-2024/"><u>The Definitive Guide to Instagram-to-MP4 Transformation 2 Ways for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-end-of-point-and-click-era-exploring-ais-role-in-transforming-user-interfaces-zdnet/"><u>The End of Point-and-Click Era: Exploring AI's Role in Transforming User Interfaces | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-here-exploring-the-revolutionary-impact-of-ai-agents-on-our-careers-and-industries-zdnet-insights/"><u>The Future Is Here: Exploring the Revolutionary Impact of AI Agents on Our Careers and Industries | ZDNET Insights</u></a></li>
+<li><a href="https://win-dash.techidaily.com/wavandroidios/"><u>WAV形式のオーディオ再生ができない時のAndroid/iOSスマホ対策法</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winos-resilience-handling-cominterface-errors-effectively/"><u>WinOS Resilience: Handling COMInterface Errors Effectively</u></a></li>
 </ul></div>
 

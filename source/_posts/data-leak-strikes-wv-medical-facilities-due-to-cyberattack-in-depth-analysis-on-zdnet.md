@@ -1,7 +1,7 @@
 ---
 title: Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet
-date: 2024-12-29T02:57:39.862Z
-updated: 2025-01-03T00:55:24.590Z
+date: 2024-12-26T23:44:32.600Z
+updated: 2025-01-03T02:26:24.254Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 ## Data Leak Strikes WV Medical Facilities Due to Cyberattack; In-Depth Analysis on ZDNet
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Executive guide
@@ -20,7 +20,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 [![phishing-header.jpg](https://www.zdnet.com/a/img/resize/ac019af4c6d0d000921065b0769387a86a4afe61/2017/09/04/fc1528a9-ecf2-4e2a-b743-91f06206a23e/phishing-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) What is phishing? Everything you need to know to protect yourself from scam emails and more Don't click on that email! Find everything you need to know in this phishing guide including how to protect yourself from one of the most common forms of cyber attack.  Read now](https://www.zdnet.com/article/what-is-phishing-how-to-protect-yourself-from-scam-emails-and-more/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A hospital system in West Virginia has [suffered](https://www.prnewswire.com/news-releases/monongalia-health-system-inc-investigates-and-addresses-data-security-incident-301449436.html) a data breach resulting from a phishing attack, which gave hackers access to several email accounts. 
@@ -74,15 +74,24 @@ Mon Health started sending breach notification letters to victims on December 21
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/discover-how-apples-updated-logic-pro-brings-artificial-intelligence-to-your-ipad-and-mac-transforming-collaborative-music-production/"><u>Discover How Apple's Updated Logic Pro Brings Artificial Intelligence to Your iPad and Mac, Transforming Collaborative Music Production</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/facebooks-edge-mastering-the-art-of-360-videos-for-2024/"><u>Facebook's Edge Mastering the Art of 360 Videos for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-6-mobile-text-defense-tools-to-shield-conversations-on-android-smartphones/"><u>Leading 6 Mobile Text Defense Tools to Shield Conversations on Android Smartphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lumafusion-the-ultimate-top-pick-for-ios-video-editing-apps/"><u>LumaFusion: The Ultimate Top Pick for iOS Video Editing Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-fix-top-5-methods-for-forcing-a-close-on-stuck-mac-applications/"><u>Quick Fix: Top 5 Methods for Forcing a Close on Stuck Mac Applications</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolved-compatibility-enhancements-in-microsofts-acpi-standard-battery-driver/"><u>Resolved: Compatibility Enhancements in Microsoft's ACPI Standard Battery Driver</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/sharp-images-no-fog-protecting-gopro-quality-for-2024/"><u>Sharp Images, No Fog Protecting GoPro Quality for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-on-android-rooting-using-elite-root-applications-both-gratis-and-subscription/"><u>Step-by-Step Tutorial on Android Rooting Using Elite ROOT Applications (Both Gratis and Subscription)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-12-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme 12 Pro+ 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/what-to-do-when-nvidia-gpu-isnt-detected-top-solutions/"><u>What To Do When Nvidia GPU Isn't Detected: Top Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-masterful-video-starts-get-them-for-free/"><u>[New] In 2024, Masterful Video Starts, Get Them for Free</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unlock-social-potential-with-easy-to-follow-tips-for-xbox-and-zoom-users/"><u>[New] In 2024, Unlock Social Potential with Easy-to-Follow Tips for Xbox and Zoom Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-simplifying-live-broadcasts-with-efficient-obs-tips/"><u>2024 Approved Simplifying Live Broadcasts with Efficient OBS Tips</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/a-complete-guide-on-utilizing-western-digital-recovery-software-effectively/"><u>A Complete Guide on Utilizing Western Digital Recovery Software Effectively</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-your-companys-safety-start-with-individual-protection-strategies-insights-from-zdnet/"><u>Enhance Your Company's Safety: Start with Individual Protection Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-truth-behind-crypto-anonymity-a-deep-dive-into-a-groundbreaking-study/"><u>Exploring the Truth Behind Crypto Anonymity – A Deep Dive Into a Groundbreaking Study</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-10-installation-hiccups-when-updates-wont-progress/"><u>Fixing Windows 10 Installation Hiccups When Updates Won't Progress</u></a></li>
+<li><a href="https://app-tips.techidaily.com/forgetting-passwords-fuels-growing-demand-for-biometric-security-solutions/"><u>Forgetting Passwords Fuels Growing Demand for Biometric Security Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-passwords-under-control-at-half-price-save-big-now-only-50-off-keeper-manager-gizmonews/"><u>Get Your Passwords Under Control at Half Price! Save Big Now - Only 50% Off Keeper Manager | GizmoNews</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y28-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y28 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-pinnacle-graphics-the-ultimate-4k-game-enhancement/"><u>In 2024, Pinnacle Graphics The Ultimate 4K Game Enhancement</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-1password-a-high-value-investment-comprehensive-expert-evaluation-of-this-top-tier-password-solution-insights-from-tech-sector-leaders/"><u>Is 1Password a High-Value Investment? Comprehensive Expert Evaluation of This Top-Tier Password Solution - Insights From Tech Sector Leaders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-sticky-notes-display-on-win-11/"><u>Mastering the Art of Sticky Notes Display on Win 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-grab-3-months-of-dashlane-pro-password-management-for-just-1-with-zdnets-exclusive-offer/"><u>Secure Your Digital Life: Grab 3 Months of Dashlane Pro Password Management for Just $1 with ZDNet's Exclusive Offer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-the-cloud-dont-fall-victim-to-hacking-spot-and-fix-these-flaws-now-zdnet/"><u>Securing the Cloud: Don’t Fall Victim to Hacking - Spot and Fix These Flaws Now! | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/team-wide-security-at-just-1995month-discover-how-1password-transforms-password-management-tech-insights/"><u>Team-Wide Security at Just $19.95/Month: Discover How 1Password Transforms Password Management | Tech Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-and-install-hyper-v-feature-on-windows-10-a-simple-walkthrough/"><u>Unlock and Install Hyper-V Feature on Windows 10 - A Simple Walkthrough</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-protection-solution-from-security-expert-targets-log4j-exploits-in-hardware-locked-out-of-updates-zdnet/"><u>Urgent Protection Solution From Security Expert Targets Log4j Exploits in Hardware Locked Out of Updates | ZDNet</u></a></li>
 </ul></div>
 
