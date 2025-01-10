@@ -1,7 +1,7 @@
 ---
 title: "The 'Big Wave' Of Enterprise 5G: Celona's Landmark $60 Million Series C Investment Explained by ZDNet"
-date: 2024-12-27T21:54:52.713Z
-updated: 2025-01-03T05:45:31.911Z
+date: 2025-01-08T22:46:49.035Z
+updated: 2025-01-09T17:54:52.883Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,14 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/treamlining-your-method-for-erasing-youtube-post-comments-for-2024/"><u>[New] Streamlining Your Method for Erasing YouTube Post-Comments for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-ultimate-collection-the-best-11-multi-perspective-cams/"><u>[New] Ultimate Collection The Best 11 Multi-Perspective Cams</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-irecorder-unpacked-what-you-need-to-know/"><u>[Updated] 2024 Approved IRecorder Unpacked What You Need to Know</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-pc-with-windows-home-to-pro-a-step-by-step-guide-and-benefits-techexplorer/"><u>Elevate Your PC with Windows Home to Pro: A Step-by-Step Guide and Benefits | TechExplorer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/eminent-linux-professionals-support-ciq-in-launch-of-new-rocky-linux-distribution/"><u>Eminent Linux Professionals Support CIQ in Launch of New Rocky Linux Distribution</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-enhanced-ai-workload-management-in-recent-kubernetes-update-key-features-unveiled/"><u>Exploring Enhanced AI Workload Management in Recent Kubernetes Update: Key Features Unveiled</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-se-2022-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone SE (2022) to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-future-in-tech-lessons-and-strategies-from-the-aerospace-giant-boeing-zdnet-exclusive-interview/"><u>Securing Your Future in Tech: Lessons and Strategies From the Aerospace Giant, Boeing | ZDNET Exclusive Interview</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-navigating-the-world-of-spotifys-advertising-landscape/"><u>[Updated] 2024 Approved Navigating the World of Spotify's Advertising Landscape</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-effortless-and-effective-embedding-youtube-in-gslides/"><u>[Updated] In 2024, Effortless and Effective - Embedding YouTube in GSlides</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-sensations-surpassing-100-million-views-on-youtube-the-yearly-countdown/"><u>[Updated] In 2024, Global Sensations Surpassing 100 Million Views on YouTube (The Yearly Countdown)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unzipping-for-srt-methods-and-tips/"><u>[Updated] Unzipping for SRT Methods and Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breathtaking-cinematography-with-5-best-slow-motion-cameras-for-2024/"><u>Breathtaking Cinematography with 5 Best Slow-Motion Cameras for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/cutting-edge-editing-10-pioneering-tools-for-instagram-vids-for-2024/"><u>Cutting-Edge Editing 10 Pioneering Tools for Instagram Vids for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/driver-new-release-for-c6515/"><u>Driver New Release for C6515</u></a></li>
+<li><a href="https://app-tips.techidaily.com/edit-pdf-documents-at-no-cost-with-google-docs-a-step-by-step-tutorial/"><u>Edit PDF Documents at No Cost with Google Docs: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/emerging-trends-in-developer-careers-and-popular-coding-languages-exploring-the-future-of-tech-with-zdnet/"><u>Emerging Trends in Developer Careers & Popular Coding Languages - Exploring the Future of Tech with ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-yours-before-it-sells-out-simulavr-unveils-linux-version-with-innovative-facial-tracking-features/"><u>Get Yours Before It Sells Out: SimulaVR Unveils Linux Version with Innovative Facial Tracking Features</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-reno-11f-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo Reno 11F 5G Phones with/without a PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-on-ai-integration-and-rust-utilization-in-linux-kernel-the-keystone-of-open-source-computing/"><u>Linus Torvalds on AI Integration & Rust Utilization in Linux Kernel - The Keystone of Open-Source Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-leads-to-managerial-meltdown-a-cautionary-tale/"><u>Microsoft Teams Misuse Leads to Managerial Meltdown - A Cautionary Tale</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-complexity-of-containerized-applications-with-codenotary-introducing-an-advanced-sbom-service-for-kubernetes-insights-from-zdnet/"><u>Navigating the Complexity of Containerized Applications with Codenotary: Introducing an Advanced SBOM Service for Kubernetes - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-gray-areas-of-ai-development-why-transparency-matters-more-than-ever/"><u>Navigating the Gray Areas of AI Development: Why Transparency Matters More Than Ever</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-next-evolution-in-coding-how-generative-ai-is-paving-the-way-from-low-code-to-no-code-systems/"><u>The Next Evolution in Coding: How Generative AI Is Paving the Way From Low-Code to No-Code Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-10-at-a-crossroads-for-microsoft-just-one-year-to-turn-things-around-digitalreview/"><u>Windows 10 at a Crossroads for Microsoft - Just One Year to Turn Things Around | DigitalReview</u></a></li>
 </ul></div>
 

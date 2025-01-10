@@ -1,7 +1,7 @@
 ---
 title: "The Expanding Low-Code/No-Code Landscape: How It's Reshaping Tech Job Roles – Insights From ZDNet"
-date: 2024-12-26T21:22:07.348Z
-updated: 2025-01-03T06:36:25.249Z
+date: 2025-01-04T16:37:14.034Z
+updated: 2025-01-10T02:10:35.719Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,15 +176,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-becoming-an-seo-success-story-the-ultimate-guide-to-facebook-optimization-for-2024/"><u>[New] Becoming an SEO Success Story The Ultimate Guide to Facebook Optimization for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/edit-pdf-documents-at-no-cost-with-google-docs-a-step-by-step-tutorial/"><u>Edit PDF Documents at No Cost with Google Docs: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/exploring-hottest-ae-template-trends-on-ig/"><u>Exploring Hottest AE Template Trends on IG</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-13-pro-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 13 Pro Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/how-to-use-gopro-hero5-black-tips-for-shooting-great-photos-and-videos-for-2024/"><u>How to Use GoPro Hero5 Black Tips for Shooting Great Photos and Videos for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-gray-areas-of-ai-development-why-transparency-matters-more-than-ever/"><u>Navigating the Gray Areas of AI Development: Why Transparency Matters More Than Ever</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/strategies-for-verifying-health-advice-from-chatgpt-and-other-artificial-intelligence/"><u>Strategies for Verifying Health Advice From ChatGPT and Other Artificial Intelligence</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-next-evolution-in-coding-how-generative-ai-is-paving-the-way-from-low-code-to-no-code-systems/"><u>The Next Evolution in Coding: How Generative AI Is Paving the Way From Low-Code to No-Code Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-silent-launch-of-microsofts-new-tool-triggers-global-uproar-tech-news-insight/"><u>The Silent Launch of Microsoft's New Tool Triggers Global Uproar | Tech News Insight</u></a></li>
-<li><a href="https://win-blog.techidaily.com/why-do-incredible-heroes-crash-my-pc-fix-that-now/"><u>Why Do Incredible Heroes Crash My PC? Fix That Now</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-how-to-crop-photo-online/"><u>[New] 2024 Approved How To Crop Photo Online?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-clues-to-detecting-an-snapchat-block/"><u>[Updated] 2024 Approved The Clues to Detecting an Snapchat Block</u></a></li>
+<li><a href="https://windows11.techidaily.com/activating-portable-network-capabilities-via-windows-11-pc/"><u>Activating Portable Network Capabilities via Windows 11 PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-the-orchard-discovering-enhanced-fulfillment-in-non-apple-workplaces-zdnet/"><u>Beyond the Orchard: Discovering Enhanced Fulfillment in Non-Apple Workplaces | ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-motorola-moto-g-stylus-5g-2023-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Motorola Moto G Stylus 5G (2023)? Try These Fixes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-your-productivity-with-ubuntu-2204-a-powerful-desktop-os-from-zdnet/"><u>Maximize Your Productivity with Ubuntu 22.04: A Powerful Desktop OS From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-dual-comeback-why-openstack-and-kata-containers-are-gaining-popularity-again-insights-from-zdnet/"><u>The Dual Comeback: Why OpenStack & Kata Containers Are Gaining Popularity Again - Insights From ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-to-optimize-and-lower-cpu-load-in-new-software-updates/"><u>Tips to Optimize and Lower CPU Load in New Software Updates</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-slack-connect-a-complete-guide-on-features-and-usage/"><u>Understanding Slack Connect: A Complete Guide on Features & Usage</u></a></li>
 </ul></div>
 

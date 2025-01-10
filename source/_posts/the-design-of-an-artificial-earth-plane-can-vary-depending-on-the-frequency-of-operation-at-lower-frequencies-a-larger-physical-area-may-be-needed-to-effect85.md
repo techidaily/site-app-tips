@@ -1,7 +1,7 @@
 ---
 title: The Design of an Artificial Earth Plane Can Vary Depending on the Frequency of Operation; at Lower Frequencies, a Larger Physical Area May Be Needed to Effectively Reflect Radio Waves.
-date: 2024-12-28T17:46:05.883Z
-updated: 2025-01-03T05:34:03.702Z
+date: 2025-01-09T04:51:06.881Z
+updated: 2025-01-09T23:02:03.651Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,15 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-eyedome-xtreme-ultimate-os-video-snapper/"><u>[New] EyeDome Xtreme Ultimate OS Video Snapper</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigating-the-ways-for-fee-free-pictorial-clips/"><u>[New] In 2024, Navigating the Ways for Fee-Free Pictorial Clips</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-perfect-every-moment-top-3-techniques-to-record-lol-games/"><u>[New] In 2024, Perfect Every Moment Top 3 Techniques to Record LOL Games</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unleashing-potential-a-step-by-step-approach-to-youtube-links/"><u>[New] In 2024, Unleashing Potential A Step-by-Step Approach to YouTube Links</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-perfect-video-conferencing-the-essential-list-of-10-free-recorders-for-2024/"><u>[New] Perfect Video Conferencing The Essential List of 10 Free Recorders for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-finding-the-balance-adding-videos-to-text-on-a-budget-for-2024/"><u>[Updated] Finding the Balance Adding Videos to Text on a Budget for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/15-youtube-financial-experts-you-can-trust/"><u>15 YouTube Financial Experts You Can Trust</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-create-viral-tiktok-content-step-by-step-templates-guide/"><u>2024 Approved Create Viral TikTok Content Step-by-Step Templates Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-workflow-embrace-the-developer-mindset-for-unmatched-efficiency-zdnet/"><u>Boost Your Workflow: Embrace the Developer Mindset for Unmatched Efficiency | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-success-in-software-development-with-agile-techniques-discover-6-key-principles-zdnet/"><u>Boosting Success in Software Development with Agile Techniques: Discover 6 Key Principles | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/continuous-innovation-in-the-era-of-ai-its-vow-towards-constant-modernization-insights-from-zdnet/"><u>Continuous Innovation in the Era of AI: IT's Vow Towards Constant Modernization - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-premier-5-rdp-solutions-for-telecommuting-as-featured-by-zdnet/"><u>Discover the Premier 5 RDP Solutions for Telecommuting , as Featured by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-ai-rust-language-with-linus-torvalds-why-the-linux-core-reigns-supreme-tech-insights/"><u>Exploring AI, Rust Language with Linus Torvalds: Why the Linux Core Reigns Supreme | Tech Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/five-essential-strategies-for-maximizing-your-windows-10-experience-pre-end-of-support-insights-from-zdnet/"><u>Five Essential Strategies for Maximizing Your Windows 10 Experience Pre-End of Support - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-will-office-users-transition-from-2016-and-2019-to-microsoft-365-without-disruption-insights-for-the-next-12-months-zdnet/"><u>How Will Office Users Transition From 2016 and 2019 to Microsoft 365 Without Disruption? Insights for the Next 12 Months | ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-delayed-delivery-features-into-mozilla-thunderbird-a-comprehensive-guide/"><u>Integrating Delayed Delivery Features Into Mozilla Thunderbird: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/swiss-federal-gov-makes-mandatory-move-towards-open-source-software-transparency-and-collaboration/"><u>Swiss Federal Gov Makes Mandatory Move Towards Open-Source Software Transparency and Collaboration.</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unlocking-potential-your-guide-to-obs-android-broadcasts/"><u>[New] In 2024, Unlocking Potential Your Guide to OBS Android Broadcasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cognitive-network-advancements-from-arista-enter-mainstream-sectors-a-deep-dive-tech-insights/"><u>Cognitive Network Advancements From Arista Enter Mainstream Sectors: A Deep Dive - Tech Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-techniques-to-preserve-and-share-moments-playing-ps4-with-screenshots/"><u>Easy Techniques to Preserve and Share Moments Playing PS4 with Screenshots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-elite-learning-management-solutions-rated-by-tech-experts-at-zdnet/"><u>Explore Elite Learning Management Solutions Rated by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-google-pixel-fold-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Google Pixel Fold?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-c53-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme C53 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-acid-pro-alternatives-the-ultimate-review-series/"><u>In 2024, ACID Pro Alternatives The Ultimate Review Series</u></a></li>
+<li><a href="https://app-tips.techidaily.com/langchains-revolutionary-approach-to-making-genai-truly-beneficial-as-featured-on-zdnet/"><u>LangChain's Revolutionary Approach to Making GenAI Truly Beneficial, as Featured on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-maze-of-ps5-wireless-troubleshooting/"><u>Navigating the Maze of PS5 Wireless Troubleshooting</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-latest-features-of-macos-sonoma-your-ultimate-guide-all-tips-and-insights-from-zdnet/"><u>Unveiling the Latest Features of macOS Sonoma: Your Ultimate Guide - All Tips and Insights From ZDNet</u></a></li>
 </ul></div>
 

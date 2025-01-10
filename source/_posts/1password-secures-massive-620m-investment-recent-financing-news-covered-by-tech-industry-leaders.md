@@ -1,7 +1,7 @@
 ---
 title: 1Password Secures Massive $620M Investment - Recent Financing News Covered by Tech Industry Leaders
-date: 2024-12-31T04:42:51.295Z
-updated: 2025-01-03T07:26:37.411Z
+date: 2025-01-03T18:34:15.678Z
+updated: 2025-01-09T21:25:20.990Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Password manager 1Password said it closed its latest funding round on Wednesday, raising $620 million and boosting its valuation to $6.8 billion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Password manager 1Password said it closed its latest funding round on Wednesday,
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Series C funding round included the participation of ICONIQ Growth, Tiger Global, Lightspeed Venture Partners, Backbone Angels, and Accel, which led the Canadian company's series A and B rounds. 
@@ -83,15 +83,19 @@ Will Griffith, a founding partner at ICONIQ Growth, said more than one hundred C
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-audiophiles-guide-to-mac-voice-recorders-the-cream-of-the-crop-for-2024/"><u>[New] Audiophile's Guide to Mac Voice Recorders The Cream of the Crop for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-simplified-guide-instant-deletion-methods-for-youtube-discussions-for-2024/"><u>[Updated] Simplified Guide Instant Deletion Methods for Youtube Discussions for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-secrets-of-premiere-pros-full-screen-magic/"><u>[Updated] Unveiling the Secrets of Premiere Pro's Full Screen Magic</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-beginners-guide-to-using-dashlane-unraveling-its-pricing-structure-and-features-as-explained-by-zdnet/"><u>A Beginner's Guide to Using Dashlane: Unraveling Its Pricing Structure and Features as Explained by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/banish-fps-dip-and-stutters-from-your-csgo-matches-with-these-simple-steps/"><u>Banish FPS Dip and Stutters From Your CS:GO Matches with These Simple Steps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cybercriminals-exploit-fears-over-new-omicron-variant-to-target-american-academic-institutions-insights-from-zdnet/"><u>Cybercriminals Exploit Fears Over New Omicron Variant to Target American Academic Institutions - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-free-trial-of-dashlanes-premium-password-safe-save-now-at-a-bargain-price-on-zdnet/"><u>Download Free Trial of Dashlane's Premium Password Safe - Save Now at a Bargain Price on ZDNet!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expertly-vetted-leading-password-management-apps-for-2nny4-a-comprehensive-list-zdnet/"><u>Expertly Vetted Leading Password Management Apps for 2Nny4: A Comprehensive List | ZDNet</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/skyrocketing-performance-boosting-ram-in-minecraft-for-2024/"><u>Skyrocketing Performance Boosting RAM in Minecraft for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/todays-vr-hardware-review-for-2024/"><u>Today's VR Hardware Review for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-navigating-to-the-shadows-of-youtube-videos/"><u>[New] 2024 Approved Navigating to the Shadows of YouTube Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-convenient-options-easy-screen-recordings-for-dell-gear-for-2024/"><u>[New] Convenient Options Easy Screen Recordings for Dell Gear for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-a-powerhouse-business-channel-in-under-5-minutes/"><u>[New] In 2024, Building a Powerhouse Business Channel in Under 5 Minutes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-efficiency-at-play-reducing-youtube-video-length/"><u>[Updated] 2024 Approved Efficiency at Play Reducing YouTube Video Length</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-content-hub-hierarchy-stand-out-amongst-titans-vimeo-youtube-and-dailymotion/"><u>[Updated] Content Hub Hierarchy Stand Out Amongst Titans – Vimeo, YouTube & Dailymotion?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-steps-to-safely-update-or-fresh-install-itunes-without-data-loss/"><u>Complete Guide: Steps to Safely Update or Fresh Install iTunes without Data Loss</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/echo-dot-vs-homepod-mini-showdown-a-comprehensive-guide-to-choosing-your-smart-speaker/"><u>Echo Dot Vs. HomePod Mini Showdown: A Comprehensive Guide to Choosing Your Smart Speaker</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-back-online-three-quick-fixes-for-an-unresponsive-ipad-in-itunes-mode/"><u>Get Back Online: Three Quick Fixes for an Unresponsive iPad in iTunes Mode</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-time-lapse-101-minimizing-wait-times-for-2024/"><u>IPhone Time Lapse 101 Minimizing Wait Times for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-itunes-backups-essential-guide-and-step-by-step-tutorials/"><u>Mastering iTunes Backups: Essential Guide & Step-by-Step Tutorials</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-fixes-for-recovering-deleted-itunes-content-on-ios-and-macos/"><u>Quick Fixes for Recovering Deleted iTunes Content on iOS & macOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/retrieve-deleted-contact-information-using-itunes-backup-on-ios-devices/"><u>Retrieve Deleted Contact Information Using iTunes Backup on iOS Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-3d-text-design-in-ps-for-2024/"><u>The Ultimate Guide to 3D Text Design in PS for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-solutions-seamlessly-transfer-your-itunes-library-to-android-devices/"><u>Top Solutions: Seamlessly Transfer Your iTunes Library to Android Devices</u></a></li>
 </ul></div>
 

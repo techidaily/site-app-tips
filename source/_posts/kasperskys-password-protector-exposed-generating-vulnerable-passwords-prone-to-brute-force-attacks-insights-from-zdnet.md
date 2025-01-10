@@ -1,7 +1,7 @@
 ---
 title: "Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet"
-date: 2024-12-29T21:35:50.300Z
-updated: 2025-01-03T11:52:03.602Z
+date: 2025-01-04T01:08:20.464Z
+updated: 2025-01-10T01:26:59.335Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Suppose you are in the business of generating passwords, it would probably be a 
 In a [blog post](https://donjon.ledger.com/kaspersky-password-manager/) to cap off an almost two year saga, Ledger Donjon head of security research Jean-Baptiste Bédrune showed KPM was doing just that. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,7 +66,7 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 "A strong password that differs for each account is an important basic element of protecting your digital identity," David Emm, principal security researcher at Kaspersky Lab, said at the time in a delicious piece of irony. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Security News
@@ -92,22 +92,18 @@ In late 2015, Kaspersky said one in seven people were [using just one password](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-top-15-viral-phenomena-on-todays-tiktok-stage/"><u>[New] 2024 Approved Top 15 Viral Phenomena on Today's TikTok Stage</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-a-deep-dive-into-youtube-mastery-using-sony-vegas-software/"><u>[New] A Deep Dive Into YouTube Mastery Using Sony Vegas Software</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-copyright-protection-for-instatunes/"><u>[New] In 2024, Copyright Protection for InstaTunes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-cyber-defense-how-juniper-networks-strengthens-its-sase-offerings-with-a-new-cloud-firewall-feature-tech-analysis-by-zdnet/"><u>Enhancing Cyber Defense: How Juniper Networks Strengthens Its SASE Offerings with a New Cloud Firewall Feature - Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exceptional-display-on-an-ultra-affordable-featherlight-laptop-discovered/"><u>Exceptional Display on an Ultra-Affordable, Featherlight Laptop Discovered</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-best-digital-signing-applications-a-zdnet-recommendation/"><u>Exploring the Best Digital Signing Applications: A ZDNet Recommendation</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-how-to-trougle-with-your-msi-mystic-light-malfunctioning-in-windows/"><u>Fixing the Issue: How to Trougle with Your MSI Mystic Light Malfunctioning in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723807932393-how-to-easily-connect-your-laptop-to-a-projector-detailed-instructions-inside/"><u>How To Easily Connect Your Laptop to a Projector - Detailed Instructions Inside</u></a></li>
-<li><a href="https://app-tips.techidaily.com/impedance-matching/"><u>Impedance Matching</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-10-premier-travel-blogs-to-watch-online/"><u>In 2024, 10 Premier Travel Blogs to Watch Online</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-windows-10-top-five-strategies-to-consider-before-support-concludes-next-year-zdnet-insights/"><u>Navigating the Future of Windows 10: Top Five Strategies to Consider Before Support Concludes Next Year | ZDNet Insights</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-16-best-free-avi-video-rotators-windows-mac-android-iphone-an/"><u>New 2024 Approved Top 16 Best Free AVI Video Rotators Windows, MAC, Android, iPhone, An</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-step-by-step-guide-how-to-translate-tiktok-videos/"><u>New Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preparing-for-the-future-five-must-know-steps-as-microsofts-windows-support-nears-its-end-according-to-zdnet/"><u>Preparing for the Future: Five Must-Know Steps as Microsoft's Windows ^Support Nears Its End, According to ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/switching-to-linux-mint-from-windows-a-comprehensive-guide-techrepublic/"><u>Switching to Linux Mint From Windows: A Comprehensive Guide | TechRepublic</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-antivirus-protection-a-comprehensive-guide-by-zdnet/"><u>Top Rated Antivirus Protection : A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-slack-for-enhanced-teamwork-and-productivity-insider-strategies-from-zdnets-latest-guide/"><u>Unlocking the Power of Slack for Enhanced Teamwork and Productivity: Insider Strategies From ZDNet's Latest Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-alternatives-spotlighted-by-az-screen-recorder/"><u>[Updated] In 2024, Alternatives Spotlighted by AZ Screen Recorder</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-gamegazers-graphic-guide/"><u>[Updated] In 2024, GameGazer's Graphic Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-track-lost-friends-on-instagram/"><u>2024 Approved Track Lost Friends on Instagram</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2024s-ultimate-guide-to-free-password-management-tools-professional-insights-and-ratings/"><u>2024'S Ultimate Guide to Free Password Management Tools: Professional Insights & Ratings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-f04-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy F04 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/color-command-center-expert-transformation-techniques/"><u>Color Command Center Expert Transformation Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-new-samsung-galaxy-ring-whats-the-damage-when-can-you-buy-it-tech-details-inside/"><u>Exploring the New Samsung Galaxy Ring: What's the Damage? When Can You Buy It? Tech Details Inside!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/infographic-mind-numbing-youtube-factsfigures-and-statistics-2017/"><u>Infographic - Mind Numbing YouTube Facts,Figures and Statistics 2017</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/next-gen-power-in-a-small-package-meet-the-geekom-ax8-mini-pc-compatible-with-newest-intel-and-amd-processors/"><u>Next-Gen Power in a Small Package: Meet the GeekOm AX8 Mini PC Compatible With Newest Intel & AMD Processors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-top-rated-vpn-and-password-manager-bundle-at-an-unbeatable-price-of-only-30-find-out-more-zdnet/"><u>Secure Your Digital Life: Top-Rated VPN & Password Manager Bundle at an Unbeatable Price of Only $30 - Find Out More [ZDNET]</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-entire-staff-with-1password-unlock-ultimate-protection-for-only-1995-monthly-it-business-solutions/"><u>Securing Your Entire Staff with 1Password - Unlock Ultimate Protection for Only $19.95 Monthly | IT Business Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-resolution-for-the-high-cpu-consumption-by-iastordatasvc-on-your-win11-pc/"><u>Step-by-Step Resolution for the High CPU Consumption by IAstorDataSvc on Your Win11 PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-macos-privacy-easy-steps-to-retrieve-stored-passwords-from-apples-keychain/"><u>Unlocking macOS Privacy: Easy Steps to Retrieve Stored Passwords From Apple’s Keychain</u></a></li>
 </ul></div>
 

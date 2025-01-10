@@ -1,7 +1,7 @@
 ---
 title: Critical Patch Update to Log4j Library Available with Apache 2.17.0 Release | Cybersecurity Breakthrough on ZDNET
-date: 2024-12-31T11:48:03.375Z
-updated: 2025-01-03T05:29:57.888Z
+date: 2025-01-05T06:12:24.657Z
+updated: 2025-01-10T02:28:29.142Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -112,7 +112,7 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -190,18 +190,16 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-revealing-instagram-lurkers-the-exit-list/"><u>[Updated] 2024 Approved Revealing Instagram Lurkers The Exit List</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-amplify-your-message-with-tiktok-voiceovers/"><u>[Updated] Amplify Your Message with TikTok Voiceovers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevating-movie-visuals-applying-cg-centrals-luts-techniques/"><u>[Updated] In 2024, Elevating Movie Visuals Applying CG Central's Luts Techniques</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-motorola-moto-g-5g-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Motorola Moto G 5G (2023) Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-micro-videos-whats-the-gist/"><u>In 2024, Micro Videos What's the Gist?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-role-of-green-infrastructure-in-revitalizing-cities/"><u>In 2024, The Role of Green Infrastructure in Revitalizing Cities</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-protons-latest-feature-a-secure-password-vault-with-advanced-end-to-end-encryption-comprehensive-review-on-zdnet/"><u>Introducing Proton's Latest Feature: A Secure Password Vault with Advanced End-to-End Encryption - Comprehensive Review on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-security-my-experience-with-top-passwordless-password-manager-tools-the-clear-winner/"><u>Mastering Security: My Experience with Top Passwordless Password Manager Tools – The Clear Winner!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/oregon-healthcare-provider-alerts-over-half-a-million-clients-about-major-security-incident-tech-news/"><u>Oregon Healthcare Provider Alerts Over Half a Million Clients About Major Security Incident - Tech News</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-complete-mobizen-users-handbook-for-screen-capturing/"><u>The Complete Mobizen User's Handbook for Screen Capturing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/west-virginia-hospital-data-compromised-following-phishing-scheme-insights-by-zdnet/"><u>West Virginia Hospital Data Compromised Following Phishing Scheme - Insights by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zerofoxs-strategic-acquisition-of-idx-and-merger-with-landf-forms-a-mega-14b-cybersecurity-giant-insights-from-zdnet/"><u>ZeroFox's Strategic Acquisition of IDX and Merger with L&F Forms a Mega $1.4B Cybersecurity Giant - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-mobile-asmr-tools-essential-downloads/"><u>[New] 2024 Approved Top Mobile ASMR Tools Essential Downloads</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-perfectly-pair-audio-visual-delights-top-6-music-video-apps-for-android-for-2024/"><u>[Updated] Perfectly Pair Audio-Visual Delights Top 6 Music Video Apps for Android for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-full-potential-of-eva-ai-by-ex-journey-your-essential-chatbot-review-compiled/"><u>Discover the Full Potential of EVA AI by Ex Journey – Your Essential Chatbot Review Compiled!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-poco-x5-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Poco X5 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevenlabs-ai-voice-generation-review-with-a-look-at-other-options/"><u>ElevenLabs AI: Voice Generation Review with a Look at Other Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-bing-chat-how-to-converse-using-cutting-edge-gpt-language-models-by-microsoft/"><u>Exploring Bing Chat: How to Converse Using Cutting-Edge GPT Language Models by Microsoft</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-testing-and-verdict-on-the-exceptional-netgear-nighthawk-c7000-range-extender/"><u>In-Depth Testing and Verdict on the Exceptional Netgear Nighthawk C7000 Range Extender</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-through-the-best-of-ai-conversational-agents-in-depth-review-of-chatgpt/"><u>Navigating Through The Best of AI Conversational Agents: In-Depth Review Of ChatGPT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/not-as-robust-dissecting-the-features-of-the-tp-link-av1300-powerline-extender/"><u>Not as Robust? Dissecting the Features of the TP-Link AV1300 Powerline Extender</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-advanced-chatbot-innovations-combining-gpt-tech-with-astrological-insights/"><u>The Ultimate Guide to Advanced Chatbot Innovations Combining GPT Tech with Astrological Insights</u></a></li>
 </ul></div>
 

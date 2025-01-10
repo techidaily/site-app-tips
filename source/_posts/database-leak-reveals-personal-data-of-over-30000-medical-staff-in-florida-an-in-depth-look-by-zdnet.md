@@ -1,7 +1,7 @@
 ---
 title: "Database Leak Reveals Personal Data of Over 30,000 Medical Staff in Florida: An In-Depth Look by ZDNet"
-date: 2025-01-02T07:06:51.810Z
-updated: 2025-01-03T08:38:47.128Z
+date: 2025-01-04T02:51:05.636Z
+updated: 2025-01-09T23:51:50.714Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ More than 30,000 US healthcare workers' personal information was recently expose
 Fowler [discovered](https://www.websiteplanet.com/blog/galeapp-leak-report/) a database run by Gale Healthcare Solutions with 170,239 exposed records that included names, emails, home addresses, photos and in some cases, Social Security Numbers as well as tax documents. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -100,20 +100,24 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-solved-obs-full-screen-anomaly-for-2024/"><u>[New] Solved OBS Full Screen Anomaly for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-clever-circumventions-for-edgenuity-video-course-skipping/"><u>[Updated] Clever Circumventions for Edgenuity Video Course Skipping</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-how-to-combine-videos-on-iphone/"><u>2024 Approved How to Combine Videos on iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advancing-coding-skills-with-patience-and-productivity-unveiling-github-copilots-impact-on-software-development-zdnet/"><u>Advancing Coding Skills with Patience & Productivity: Unveiling GitHub Copilot's Impact on Software Development - ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/controller-components-revealed-xbox-s-edition/"><u>Controller Components Revealed: Xbox S Edition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-perfect-accounting-system-in-2-a-comprehensive-guide-techradar/"><u>Discover the Perfect Accounting System in 2# #: A Comprehensive Guide | TechRadar</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expanding-bluetooth-coverage-on-windows-11-a-step-by-step-guide/"><u>Expanding Bluetooth Coverage on Windows 11 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-sunset-of-windows-11-5-essential-steps-to-take-as-microsoft-ends-support/"><u>Facing the Sunset of Windows 11: 5 Essential Steps to Take as Microsoft Ends Support</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone XS Max?</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-poco-x6-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Poco X6 Pro</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-big-wave-of-enterprise-5g-celonas-landmark-60-million-series-c-investment-explained-by-zdnet/"><u>The 'Big Wave' Of Enterprise 5G: Celona's Landmark $60 Million Series C Investment Explained by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-journey-towards-integrated-tech-and-enterprise-strategies-realizing-the-long-awaited-synergy-zdnet/"><u>The Journey Towards Integrated Tech and Enterprise Strategies: Realizing the Long-Awaited Synergy | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-in-demand-coding-languages-of-today-comprehensive-learning-resources/"><u>Top 5 In-Demand Coding Languages of Today: Comprehensive Learning Resources</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-on-leveraging-googles-gemini-feature/"><u>Ultimate Tutorial on Leveraging Google's Gemini Feature</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-companies-find-it-hard-to-utilize-generative-ai-unveiling-survey-results-by-deloitte-as-featured-on-zdnet/"><u>Why Companies Find It Hard to Utilize Generative AI - Unveiling Survey Results by Deloitte as Featured on ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-effortless-youtube-live-with-step-by-step-obs-guide-for-beginners-for-2024/"><u>[New] Effortless YouTube Live with Step-by-Step OBS Guide for Beginners for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-art-of-video-popularity-secrets-for-youtube-stardom-for-2024/"><u>[New] The Art of Video Popularity Secrets for YouTube Stardom for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-your-ultimate-method-for-mobile-igtv-downloads-for-2024/"><u>[New] Your Ultimate Method for Mobile IGTV Downloads for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-eyemosaic-the-essential-photo-patcher/"><u>[Updated] 2024 Approved EyeMosaic The Essential Photo Patcher</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-watch-facebook-live-on-roku/"><u>[Updated] How to Watch Facebook Live on Roku?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-master-your-first-steps-in-using-tiktok-macpc-edition/"><u>[Updated] In 2024, Master Your First Steps in Using TikTok Mac/PC Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-revitalize-disappearing-watch-preview/"><u>[Updated] Revitalize Disappearing Watch Preview</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-transformative-image-processing-auto-smart-hdr-3-and-4-insights-for-2024/"><u>[Updated] Transformative Image Processing Auto, Smart HDR 3 & 4 Insights for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-privacy-with-easy-steps-to-protect-your-whatsapp-accounts-on-smartphones/"><u>Enhance Privacy with Easy Steps to Protect Your WhatsApp Accounts on Smartphones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/exclusive-selection-of-vr-for-drone-pilots/"><u>Exclusive Selection of VR for Drone Pilots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/fix-your-whatsapp-problems-with-our-expert-assistance-step-by-step-guide/"><u>Fix Your WhatsApp Problems with Our Expert Assistance - Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-enable-and-use-whatsapp-securely-with-alternative-identifiers-instead-of-your-phone-number/"><u>How to Enable and Use WhatsApp Securely with Alternative Identifiers Instead of Your Phone Number</u></a></li>
+<li><a href="https://app-tips.techidaily.com/irrevocable-deletion-of-whatsapp-on-iphones-a-comprehensive-tutorial/"><u>Irrevocable Deletion of WhatsApp on iPhones: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preserve-your-whatsapp-images-flawlessly-top-3-methods-for-saving-photos-across-ios-and-android-without-quality-compromise/"><u>Preserve Your WhatsApp Images Flawlessly: Top 3 Methods for Saving Photos Across iOS & Android Without Quality Compromise</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-fixes-how-to-securely-restore-deleted-whatsapp-conversations-on-iphone-devices/"><u>Quick Fixes: How to Securely Restore Deleted WhatsApp Conversations on iPhone Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-tutorial-for-enabling-and-performing-a-whatsapp-backup-to-icloud/"><u>The Ultimate Tutorial for Enabling and Performing a WhatsApp Backup to iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-high-quality-whatsapp-video-converter-tools-you-need/"><u>Top 5 High-Quality WhatsApp Video Converter Tools You Need</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-strategies-sending-oversized-videos-with-ease-from-an-iphone-using-whatsapp/"><u>Top Strategies: Sending Oversized Videos with Ease From an iPhone Using WhatsApp</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/totv-multimedia-player-wmp-alternative/"><u>TOTV Multimedia Player WMP Alternative</u></a></li>
 </ul></div>
 

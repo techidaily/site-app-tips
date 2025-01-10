@@ -1,7 +1,7 @@
 ---
 title: "Exploring Rust's Role in Linux Projects with Linus Torvalds: A Glimpse Into His Routine and MacBook Experience - ZDNet"
-date: 2025-01-01T22:45:15.883Z
-updated: 2025-01-03T11:26:09.965Z
+date: 2025-01-06T04:41:05.070Z
+updated: 2025-01-10T01:28:17.314Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-pro-cloud-storage-guide-optimal-options-highlighted/"><u>[New] 2024 Approved Pro-Cloud Storage Guide Optimal Options Highlighted</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-rhythmic-rebellion-top-audio-anomaly-apps-for-mobile/"><u>[Updated] 2024 Approved Rhythmic Rebellion Top Audio Anomaly Apps for Mobile</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-everything-you-need-to-know-about-making-a-photomontage/"><u>[Updated] Everything You Need to Know About Making a PhotoMontage</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193851-discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-stutters-and-increase-frame-rates-in-call-of-duty-warzone-a-comprehensive-guide/"><u>Eliminate Stutters & Increase Frame Rates in Call of Duty: Warzone - A Comprehensive Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/essential-tips-for-hp-printer-setup-on-windows-os/"><u>Essential Tips for HP Printer Setup on Windows OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722991219478-join-deacon-st-john-embark-on-a-post-apocalyptic-journey-with-days-gone-for-pc-gamers/"><u>Join Deacon St. John: Embark on a Post-Apocalyptic Journey with 'Days Gone' For PC Gamers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/safari-tab-auto-close-setup-guide-on-macos-sierra-step-by-step-instructions/"><u>Safari Tab Auto-Close Setup Guide on macOS Sierra: Step-by-Step Instructions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-functionality-of-your-hp-laptop-camera-in-windows-11/"><u>Step-by-Step Guide: Restoring Functionality of Your HP Laptop Camera in Windows 11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/techniques-to-increase-youtube-video-size/"><u>Techniques to Increase YouTube Video Size</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-must-have-mdm-solutions-expert-picks-for-optimal-mobile-control/"><u>Top 7 Must-Have MDM Solutions: Expert Picks for Optimal Mobile Control</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-clips-with-this-exceptional-android-video-editing-software/"><u>Transform Your Clips with This Exceptional Android Video Editing Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-admin-utility-remove-disable-and-manage-rooted-device-applications-easily/"><u>Ultimate Admin Utility: Remove, Disable, and Manage Rooted Device Applications Easily</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194494-ultimate-selection-of-secure-android-app-protectors-find-out-which-ones-rank-the-highest/"><u>Ultimate Selection of Secure Android App Protectors – Find Out Which Ones Rank the Highest!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unified-chat-and-call-features-on-magicapp-compatible-with-iphone-android-and-pc/"><u>Unified Chat & Call Features on MagicApp - Compatible with iPhone, Android & PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/what-exactly-is-instant-messaging-an-in-depth-guide/"><u>What Exactly Is Instant Messaging? An In-Depth Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/company-names-revolutionary-ai-for-sustainable-smart-appliances-spotlight-on-zdnet-review/"><u>[Company Name]'s Revolutionary AI for Sustainable Smart Appliances: Spotlight on ZDNET Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ptimal-video-posting-frequency-for-increased-youtube-popularity-for-2024/"><u>[New] Optimal Video Posting Frequency for Increased YouTube Popularity for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-proactive-ways-to-record-breathtaking-live-sports-games-for-2024/"><u>[New] Proactive Ways to Record Breathtaking Live Sports Games for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-clarity-perfecting-image-description-via-text-in-pcmac/"><u>[Updated] Capturing Clarity Perfecting Image Description via Text in PC/Mac</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-manager-training-essential-before-introducing-artificial-intelligence-in-business-insights-from-zdnet/"><u>1. Manager Training Essential Before Introducing Artificial Intelligence in Business: Insights From ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-alternate-avenues-a-compilation-of-non-gta-games/"><u>2024 Approved Alternate Avenues A Compilation of Non-GTA Games</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-marketing-crews-embrace-advanced-tech-zdnet-insights/"><u>AI Integration: One-Third of Marketing Crews Embrace Advanced Tech | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-ais-horizon-discover-the-accelerating-wave-of-emerging-technologies/"><u>Beyond AI's Horizon: Discover the Accelerating Wave of Emerging Technologies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-ai-evolution-is-pushing-the-limits-of-todays-tech-infrastructure-insights-from-zdnet/"><u>How AI Evolution Is Pushing the Limits of Today's Tech Infrastructure: Insights From ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y78-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y78 5G Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-fintech-figures-demand-thinking-revolution-not-simple-prompts-to-shape-ai-future/"><u>Leading Fintech Figures Demand Thinking Revolution, Not Simple Prompts, to Shape AI Future</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/modern-warfare-3-pc-stability-issues-heres-how-to-troubleshoot-and-resolve-them/"><u>Modern Warfare 3 PC Stability Issues? Here's How to Troubleshoot and Resolve Them</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-age-of-artificial-intelligence-strategies-for-tech-experts-to-excel-in-their-careers-zdnet/"><u>Navigating the Age of Artificial Intelligence: Strategies for Tech Experts to Excel in Their Careers | ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-sea-of-thieves-not-starting-problems-for-a-smooth-sailing-adventure/"><u>Overcoming Sea of Thieves Not Starting Problems for a Smooth Sailing Adventure</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/ssdwindows-10-os2/"><u>SSDへのWindows 10 OS設定:上位2つの導入方法を解禄する</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/strategic-animation-techniques-to-boost-your-facebook-ad-roi/"><u>Strategic Animation Techniques to Boost Your Facebook Ad ROI</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-ai-how-multiple-machine-learning-models-will-power-your-business-according-to-zdnet/"><u>The Future Is AI: How Multiple Machine Learning Models Will Power Your Business, According to ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/turbocharge-youtube-videos-efficient-rendering-fast-transfer-for-2024/"><u>Turbocharge YouTube Videos Efficient Rendering, Fast Transfer for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-singapore-advocates-for-financial-backing-of-ai-integration-and-carbon-neutral-goals/"><u>ZDNet Exclusive: Singapore Advocates for Financial Backing of AI Integration and Carbon-Neutral Goals</u></a></li>
 </ul></div>
 

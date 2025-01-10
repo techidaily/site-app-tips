@@ -1,7 +1,7 @@
 ---
 title: Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET
-date: 2024-12-30T06:26:38.147Z
-updated: 2025-01-03T08:32:26.429Z
+date: 2025-01-07T17:56:13.556Z
+updated: 2025-01-09T19:21:48.981Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-best-5-camera-apps-to-shoot-and-record-videos-on-iphone-and-andriod/"><u>[New] Best 5 Camera Apps to Shoot and Record Videos on iPhone and Andriod</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-invisible-edits-ensuring-confidentiality-in-media-for-2024/"><u>[New] Invisible Edits Ensuring Confidentiality in Media for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-30fps-versus-60fps-best-choice-for-clear-video-capture/"><u>[Updated] 30Fps versus 60Fps - Best Choice for Clear Video Capture</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-camera-cuts-quality-is-splitcam-best/"><u>[Updated] Camera Cuts Quality Is SplitCam Best?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-cut-screen-claims-is-splitcam-supreme-in-2024/"><u>[Updated] Cut Screen Claims Is SplitCam Supreme, In 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-and-critique-of-the-vizmato-application/"><u>Comprehensive Analysis & Critique of the Vizmato Application</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-free-android-chat-applications-ranked-from-1-to-10/"><u>Discover the Ultimate Selection of Free Android Chat Applications: Ranked From #1 to #10</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhance-road-safety-with-the-11-most-effective-apps-for-handsfree-sms-access/"><u>Enhance Road Safety with the 11 Most Effective Apps for Handsfree SMS Access</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-verify-your-youtube-account-a-simple-guide-for-2024/"><u>How to Verify Your YouTube Account - a Simple Guide for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pro-chromebook-record-unmatched-screen-capture/"><u>Pro Chromebook Record Unmatched Screen Capture</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-smart-8-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Smart 8</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-biometric-lock-screen-applications-for-your-android-device/"><u>Top 10 Biometric Lock Screen Applications for Your Android Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-list-of-free-tools-create-and-share-laugh-out-loud-memes-anywhere-anytime/"><u>Ultimate List of Free Tools: Create and Share Laugh-Out-Loud Memes Anywhere, Anytime</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-step-by-step-screenshot-guide-capturing-and-storing-hulu-content/"><u>[New] 2024 Approved Step-by-Step Screenshot Guide Capturing and Storing Hulu Content</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adapting-cyber-defense-tactics-modernizing-security-expertise-amidst-outdated-infrastructure-challenges/"><u>Adapting Cyber Defense Tactics: Modernizing Security Expertise Amidst Outdated Infrastructure Challenges</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-sgs-green-transition-calls-increase-for-financing-ai-based-carbon-reduction-strategies-insights-from-zdnet/"><u>Boosting SG's Green Transition: Calls Increase for Financing AI-Based Carbon Reduction Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-resolve-system-calls-fault-in-windows/"><u>Guide to Resolve System Calls Fault in Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-exemplary-audio-enhancing-programs-for-youtube-artists/"><u>In 2024, Exemplary Audio-Enhancing Programs for YouTube Artists</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202901163-league-of-legends-boost-trick-get-your-game-running-faster-now/"><u>League of Legends Boost Trick - Get Your Game Running Faster Now</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainty-of-ai-efficiency-insights-from-zdnet/"><u>Navigating the Uncertainty of AI Efficiency: Insights From ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-world-of-srt-alteration-in-macos-systems-for-2024/"><u>Navigating the World of SRT Alteration in macOS Systems for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/securing-your-periscope-footage-expert-techniques-revealed/"><u>Securing Your Periscope Footage Expert Techniques Revealed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapore-invests-s24-billion-in-enhancing-ict-infrastructure-and-digital-solutions-insights-for-tech-leaders/"><u>Singapore Invests S$2.4 Billion in Enhancing ICT Infrastructure & Digital Solutions - Insights for Tech Leaders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-growing-dependence-of-your-enterprise-on-artificial-intelligence-understanding-the-role-of-multiple-ai-models/"><u>The Growing Dependence of Your Enterprise on Artificial Intelligence: Understanding the Role of Multiple AI Models</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-by-tech-gurus-zdnets-exclusive-insights/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews by Tech Gurus | ZDNet's Exclusive Insights</u></a></li>
 </ul></div>
 

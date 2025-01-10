@@ -1,7 +1,7 @@
 ---
 title: "Open-Source Mandate: Switzerland's Federal Govt. Moves All Software Public"
-date: 2024-12-30T16:26:37.113Z
-updated: 2025-01-02T20:20:17.171Z
+date: 2025-01-07T05:27:06.288Z
+updated: 2025-01-09T18:30:23.474Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,15 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mp4-video-download-companion-booklet/"><u>[New] 2024 Approved MP4 Video Download Companion Booklet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-techniques-for-ps4-gameplay-documentation/"><u>[New] In 2024, Expert Techniques for PS4 Gameplay Documentation</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-master-content-creation-video-and-photo-synergy/"><u>2024 Approved Master Content Creation Video & Photo Synergy</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boosting-your-gaming-performance-tips-to-minimize-lag-and-improve-fps-in-fall-guys/"><u>Boosting Your Gaming Performance: Tips to Minimize Lag & Improve FPS in Fall Guys</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/elevate-your-videography-instagram-captioning-techniques-for-2024/"><u>Elevate Your Videography Instagram Captioning Techniques for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-ai-projects-struggle-with-agile-methodology-insights-from-recent-research-techwire/"><u>How AI Projects Struggle with Agile Methodology – Insights From Recent Research | TechWire</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/iphone-evolution-continues-analyzing-the-advancements-in-the-new-iphone-15-plus-and-pro-max-models/"><u>IPhone Evolution Continues: Analyzing the Advancements in the New iPhone 15 Plus and Pro Max Models</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-ais-impact-on-job-markets-the-emergence-of-new-yet-to-be-defined-professional-titles-revealed-zdnet-insights/"><u>Navigating AI's Impact on Job Markets: The Emergence of New, Yet-to-Be-Defined Professional Titles Revealed | ZDNET Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/non-techies-embrace-ai-why-understanding-complicated-networks-requires-diverse-educational-strategies-zdnet/"><u>Non-Techies, Embrace AI: Why Understanding Complicated Networks Requires Diverse Educational Strategies | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preparing-leaders-for-ai-integration-essential-steps-recommended-by-zdnet/"><u>Preparing Leaders for AI Integration: Essential Steps Recommended by ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-elevate-photography-experience-on-windows-11-adding-filters-and-music-integration/"><u>[New] Elevate Photography Experience on Windows 11 Adding Filters & Music Integration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-most-engaging-sandbox-gaming-titles/"><u>[New] In 2024, The Most Engaging Sandbox Gaming Titles</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quick-visuals-accompanied-by-audio/"><u>[New] Quick Visuals Accompanied by Audio</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unleash-the-power-of-your-youtube-channel-with-expert-editing-techniques/"><u>[Updated] 2024 Approved Unleash the Power of Your YouTube Channel with Expert Editing Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-streamlined-simplicity-ayts-quick-ways-to-blur-background-for-2024/"><u>[Updated] Streamlined Simplicity AYT's Quick Ways to Blur Background for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-expanding-rocketchat-capabilities-a-guide-to-integrating-powerful-applications/"><u>1. Expanding Rocket.Chat Capabilities: A Guide to Integrating Powerful Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2022s-leading-hyperconverged-systems-vendors-comprehensive-analysis-and-reviews-on-zdnet/"><u>2022'S Leading Hyperconverged Systems Vendors: Comprehensive Analysis and Reviews on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beamforming/"><u>Beamforming</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effortless-pdf-printing-in-windows-demystified-by-experts-at-yl-software/"><u>Effortless PDF Printing in Windows Demystified by Experts at YL Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-pc-with-windows-home-to-pro-a-step-by-step-guide-and-benefits-techexplorer/"><u>Elevate Your PC with Windows Home to Pro: A Step-by-Step Guide and Benefits | TechExplorer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/eminent-linux-professionals-support-ciq-in-launch-of-new-rocky-linux-distribution/"><u>Eminent Linux Professionals Support CIQ in Launch of New Rocky Linux Distribution</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-humor-hubbub-top-7-cheeky-content-concepts-for-laughter-lovers/"><u>In 2024, Humor Hubbub Top 7 Cheeky Content Concepts for Laughter Lovers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-to-connecting-email-services-with-onlyoffice-for-enhanced-collaboration/"><u>Step-by-Step Guide to Connecting Email Services with ONLYOFFICE for Enhanced Collaboration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Components</u></a></li>
 </ul></div>
 

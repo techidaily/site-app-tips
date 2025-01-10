@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Data: Avoid These Common Mistakes in Cloud Security That Attract Cyber Thieves | ZDNet"
-date: 2024-12-26T22:31:00.524Z
-updated: 2025-01-02T23:39:04.628Z
+date: 2025-01-05T17:48:46.109Z
+updated: 2025-01-10T01:36:35.351Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -116,7 +116,7 @@ Analysis of identity and access management (IAM) polices taking into account hun
 The [global pandemic pushed organisations and employees towards new ways of remote and hybrid working](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/), with the aid of cloud services and applications. While beneficial to businesses and employees, it also [created additional cybersecurity risks](https://www.zdnet.com/article/hybrid-cloud-brings-benefits-but-also-additional-cybersecurity-risks-heres-how-to-securely-manage-your-cloud/) – and malicious hackers know this. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -137,7 +137,7 @@ Another practice that isn't helping IT departments is [poor password security](h
 Weak passwords are vulnerable to [brute-force and credential-stuffing attacks](https://www.zdnet.com/article/ransomware-these-are-the-two-most-common-ways-hackers-get-inside-your-network/), where cyber attackers use automated software to test weak passwords against accounts. Accounts will be at particular risk if the password used to secure them is especially common. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### special feature
@@ -157,7 +157,7 @@ For all cloud services, properly configured IAM can block unintended access, so 
 IT departments should also consider whether regular accounts need administrator privileges. While a legitimate user with this level of access might not be considered a risk, an intruder with admin access has the keys to the entire cloud kingdom.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
@@ -183,21 +183,15 @@ IT departments should also consider whether regular accounts need administrator 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-a-visual-journey-the-art-of-editing-with-snapchat-filters-for-2024/"><u>[New] A Visual Journey The Art of Editing with Snapchat Filters for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-creative-clip-enhancement-gopros-leading-15-color-grading-tools-for-2024/"><u>[New] Creative Clip Enhancement GoPro's Leading 15 Color Grading Tools for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-elevate-user-experience-with-these-leading-videophones/"><u>[Updated] Elevate User Experience with These Leading Videophones</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/1716194732460-updated-in-2024-how-to-post-a-vimeo-video-on-instagram/"><u>[Updated] In 2024, How to Post a Vimeo Video on Instagram?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-maintain-your-memories-android-plus-mac-video-preservation/"><u>[Updated] In 2024, Maintain Your Memories Android + Mac Video Preservation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-selective-movie-tease-treasury-for-2024/"><u>[Updated] Selective Movie Tease Treasury for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-art-of-introducing-your-podcast/"><u>[Updated] The Art of Introducing Your Podcast</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-comprehensive-guide-understanding-the-delete-for-everyone-option-in-whatsapp/"><u>A Comprehensive Guide: Understanding the 'Delete for Everyone' Option in WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/fix-your-whatsapp-problems-with-our-expert-assistance-step-by-step-guide/"><u>Fix Your WhatsApp Problems with Our Expert Assistance - Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-enable-and-use-whatsapp-securely-with-alternative-identifiers-instead-of-your-phone-number/"><u>How to Enable and Use WhatsApp Securely with Alternative Identifiers Instead of Your Phone Number</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-8-plus-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone 8 Plus? Heres the Best Fixes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-fixes-how-to-securely-restore-deleted-whatsapp-conversations-on-iphone-devices/"><u>Quick Fixes: How to Securely Restore Deleted WhatsApp Conversations on iPhone Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ongoing-issue-of-reused-passwords-in-the-face-of-security-breaches-cybersecurity-insights/"><u>The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-high-quality-whatsapp-video-converter-tools-you-need/"><u>Top 5 High-Quality WhatsApp Video Converter Tools You Need</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-strategies-sending-oversized-videos-with-ease-from-an-iphone-using-whatsapp/"><u>Top Strategies: Sending Oversized Videos with Ease From an iPhone Using WhatsApp</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-starter-selection-affordable-site-purchases-for-beginners/"><u>[Updated] Starter Selection Affordable Site Purchases for Beginners</u></a></li>
+<li><a href="https://app-tips.techidaily.com/5-advanced-ai-solutions-dominating-the-market-in-automatic-video-editing-technology/"><u>5 Advanced AI Solutions Dominating the Market in Automatic Video Editing Technology</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/all-about-2023s-twitter-live-vids-for-2024/"><u>All About 2023'S Twitter Live Vids for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-top-8-unrestricted-character-ais-expert-options-without-limitations/"><u>Discover Top 8 Unrestricted Character AIs: Expert Options Without Limitations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/easy-guide-to-see-youtube-liked-comments-for-2024/"><u>Easy Guide to See YouTube Liked Comments for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-strategies-to-overcome-your-iphones-deadly-black-pixels/"><u>Effective Strategies to Overcome Your iPhone's Deadly Black Pixels</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-monica-ai-understanding-its-features-and-mastering-chatgpt-assistance/"><u>Exploring Monica AI: Understanding Its Features & Mastering ChatGPT Assistance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oneplus-11-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your OnePlus 11 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovative-model-conversion-from-text-to-video-within-hugging-faces-collaborative-ecosystem/"><u>Innovative Model Conversion From Text to Video Within Hugging Face's Collaborative Ecosystem</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-creativity-discovering-the-most-acclaimed-photo-swap-apps/"><u>Unleash Creativity Discovering the Most Acclaimed Photo Swap Apps</u></a></li>
 </ul></div>
 

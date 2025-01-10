@@ -1,7 +1,7 @@
 ---
 title: "Navigating Tech-Less Territory: The Essential Impact of IT Experts on Cutting-Edge Non-Tech Firms | ZDNET"
-date: 2024-12-27T18:48:59.179Z
-updated: 2025-01-02T21:14:53.530Z
+date: 2025-01-04T04:51:56.383Z
+updated: 2025-01-10T03:44:27.448Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-explore-9-simple-and-economical-editing-solutions-for-your-projects/"><u>[New] In 2024, Explore 9 Simple & Economical Editing Solutions for Your Projects</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advance-your-career-with-cutting-edge-tech-more-than-ai-at-the-forefront-lessons-from-zdnet/"><u>Advance Your Career with Cutting-Edge Tech: More Than AI at the Forefront | Lessons From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-disparities-shape-our-progress-in-real-time-technology-breakthroughs-zdnet/"><u>How Disparities Shape Our Progress in Real-Time Technology Breakthroughs | ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-class-registration-issues-in-windows-10-a-step-by-step-guide/"><u>How to Fix Class Registration Issues in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-protect-your-privacy-from-chatgpt-the-complete-opt-out-strategy/"><u>How to Protect Your Privacy From ChatGPT – The Complete Opt-Out Strategy</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy XCover 6 Pro Tactical Edition Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-ai-watermarking-solutions-revealed-on-zdnet/"><u>The Definitive Guide to AI Watermarking Solutions - Revealed on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-work-how-ai-agents-define-the-new-era-and-transform-employment-landscape-permanently-insights-from-zdnet/"><u>The Future of Work: How AI Agents Define the New Era and Transform Employment Landscape Permanently - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unpacking-the-irony-of-automation-when-artificnial-intelligence-spurs-more-work-not-less-zdnet-insights/"><u>Unpacking the Irony of Automation: When Artificnial Intelligence Spurs More Work, Not Less | ZDNET Insights</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unraveling-sharex-professional-perspectives-and-picks-for-2024/"><u>Unraveling ShareX Professional Perspectives & Picks for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/iso/"><u>コピーガード付きの資料で遭遇した場合、ISOワークショップにおける対策手順</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-optimize-content-delivery-on-instagram-with-these-top-8-tools-for-2024/"><u>[New] Optimize Content Delivery on Instagram with These Top 8 Tools for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-depth-analysis-the-powerhouse-in-your-pocket-lightroom-for-2024/"><u>[Updated] In-Depth Analysis The Powerhouse in Your Pocket - Lightroom for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/customize-your-pcs-battery-conservation-options-with-yl-computing-techniques/"><u>Customize Your PC's Battery Conservation Options with YL Computing Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/emerging-trends-how-edge-computing-boosts-job-opportunities-and-growth-insights-by-zdnet/"><u>Emerging Trends: How Edge Computing Boosts Job Opportunities & Growth - Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-role-of-a-chief-ai-officer-pathways-to-achieve-this-executive-position/"><u>Exploring the Role of a Chief AI Officer – Pathways to Achieve This Executive Position</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-exploring-the-top-9-reasons-for-steam-users/"><u>Game On: Exploring the Top 9 Reasons for Steam Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-15-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 15 without Password?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/prioritize-manager-training-before-deploying-artificial-intelligence-insights-from-zdnet/"><u>Prioritize Manager Training Before Deploying Artificial Intelligence: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-cashless-how-non-monetary-transactions-are-set-to-soar-past-16t-driven-by-asian-markets-zdnet-insights/"><u>The Future Is Cashless: How Non-Monetary Transactions Are Set to Soar Past $1.6T, Driven by Asian Markets | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-singapores-push-towards-eco-friendly-tech-funding-artificeal-intelligence-to-combat-climate-change/"><u>ZDNet Explores Singapore’s Push Towards Eco-Friendly Tech: Funding Artificeal Intelligence to Combat Climate Change</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728461772500-windows-11/"><u>ゲームプレイ中のバグに対処するためのWindows 11パフォーマンスチューニング手順</u></a></li>
 </ul></div>
 

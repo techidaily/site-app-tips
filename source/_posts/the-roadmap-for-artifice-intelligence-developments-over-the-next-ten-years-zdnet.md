@@ -1,7 +1,7 @@
 ---
 title: The Roadmap for Artifice Intelligence Developments Over the Next Ten Years | ZDNet
-date: 2024-12-29T19:04:37.505Z
-updated: 2025-01-03T04:43:44.348Z
+date: 2025-01-06T19:46:16.380Z
+updated: 2025-01-10T06:18:52.659Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-a-comprehensible-approach-uploading-snapchat-images-offline-for-2024/"><u>[Updated] A Comprehensible Approach Uploading Snapchat Images Offline for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-exploring-the-capabilities-of-yuneecs-typhoon-uav/"><u>[Updated] In 2024, Exploring the Capabilities of Yuneec’s Typhoon UAV</u></a></li>
-<li><a href="https://app-tips.techidaily.com/adaptive-antenna-arrays-dynamically-alter-their-radiation-patterns-in-response-to-environmental-changes-optimizing-communication-links-with-moving-targets-o76/"><u>Adaptive Antenna Arrays Dynamically Alter Their Radiation Patterns in Response to Environmental Changes, Optimizing Communication Links with Moving Targets or Fluctuating Interference Conditions.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-ransomware-securing-your-mobile-at-50-plus-insights-from-the-chatgpt-powered-podcast/"><u>Decoding Ransomware: Securing Your Mobile at $50 - Plus Insights From the ChatGPT-Powered Podcast!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enterprise-security-at-risk-with-generative-ai-crowdstrike-cto-alerts-in-latest-analysis-for-zdnet/"><u>Enterprise Security at Risk with Generative AI, CrowdStrike CTO Alerts in Latest Analysis for ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-linux-69-kernel-improvements-a-ranking-digitalreviewer/"><u>Essential Linux 6.9 Kernel Improvements: A Ranking - DigitalReviewer</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/guide-unlocking-secure-video-discs-for-free-playback-options/"><u>Guide: Unlocking Secure Video Discs for Free Playback Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-devops-adoption-in-business-strategies-for-staying-ahead-while-reducing-risks-insights-from-zdnet/"><u>Mastering DevOps Adoption in Business: Strategies for Staying Ahead While Reducing Risks - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ly-earnings-potential-on-youtube/"><u>Monthly Earnings Potential on YouTube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-up-the-guide-to-youtube-fame-in-gaming-for-2024/"><u>Starting Up The Guide to YouTube Fame in Gaming for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-quick-vlog-content-ideas/"><u>Step-by-Step Guide Quick Vlog Content Ideas</u></a></li>
-<li><a href="https://win-top.techidaily.com/unlocking-forex-potential-through-automated-trading-algorithms-and-the-power-of-mt4-copying-technology/"><u>Unlocking Forex Potential Through Automated Trading Algorithms and the Power of MT4 Copying Technology</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-nvidias-secret-sauce-a-deep-dive-into-gpu-driver-source-release/"><u>Unveiling Nvidia’s Secret Sauce: A Deep Dive Into GPU Driver Source Release</u></a></li>
-<li><a href="https://app-tips.techidaily.com/veteran-linus-developers-endorse-ciq-the-principal-patron-for-rocky-linuxs-launch-computing-world/"><u>Veteran Linus Developers Endorse CIQ: The Principal Patron for Rocky Linux's Launch | Computing World</u></a></li>
+<li><a href="https://app-tips.techidaily.com/10-owners-to-consider-before-end-of-life-date-hits/"><u>10 Owners to Consider Before End-of-Life Date Hits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-professional-tips-for-youtube-and-twitch-streamers-using-obs-effectively/"><u>2024 Approved Professional Tips for YouTube & Twitch Streamers Using OBS Effectively</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-panic-five-essential-steps-for-your-windows-11-pre-end-of-support-journey-insights-from-zdnet/"><u>Don't Panic: Five Essential Steps for Your Windows 11 Pre-End-of-Support Journey - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enrich-virtual-engagements-with-zooms-filter-innovation-for-2024/"><u>Enrich Virtual Engagements with Zoom's Filter Innovation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-quality-real-time-broadcast-frameworks-for-2024/"><u>High-Quality Real-Time Broadcast Frameworks for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-z-fold-5-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy Z Fold 5 Without PUK Codes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-watch-youtube-green-screen-videos-and-get-your-green-screen-ideas/"><u>In 2024, Watch Youtube Green Screen Videos and Get Your Green Screen Ideas</u></a></li>
+<li><a href="https://app-tips.techidaily.com/joint-development-of-scalable-llms-by-sony-intelligence-and-ai-singapore-announced-futuretech-weekly/"><u>Joint Development of Scalable LLMs by Sony Intelligence and AI Singapore Announced | FutureTech Weekly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-competitive-edge-with-devops-best-practices-to-mitigate-risk-expertise-by-zdnet/"><u>Mastering the Art of Competitive Edge with DevOps Best Practices to Mitigate Risk | Expertise by ZDNET</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-trim-avi-videos-with-ease-top-picks-for-desktop-and-mobile-devices/"><u>New In 2024, Trim AVI Videos with Ease Top Picks for Desktop and Mobile Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-2b-five-facts-to-remember-about-antenna-grounding/"><u>Section 2B: Five Facts to Remember About Antenna Grounding</u></a></li>
 </ul></div>
 

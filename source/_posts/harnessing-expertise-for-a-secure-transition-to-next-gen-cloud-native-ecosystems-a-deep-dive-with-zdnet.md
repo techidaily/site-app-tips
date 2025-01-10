@@ -1,7 +1,7 @@
 ---
 title: "Harnessing Expertise for a Secure Transition to Next-Gen Cloud-Native Ecosystems: A Deep Dive with ZDNet"
-date: 2024-12-31T09:01:33.915Z
-updated: 2025-01-03T01:44:45.376Z
+date: 2025-01-03T05:37:40.862Z
+updated: 2025-01-09T23:47:00.613Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-achieve-perfection-on-instagram-with-right-video-dimensions/"><u>[New] In 2024, Achieve Perfection on Instagram with Right Video Dimensions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-from-concept-to-curtain-call-scriptwriting-tips-for-successful-streams/"><u>[Updated] From Concept to Curtain Call Scriptwriting Tips for Successful Streams</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-how-to-use-video-titles-and-youtube-tags/"><u>[Updated] How to Use Video Titles and YouTube Tags?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-seamlesscapture-w10s-simple-recording-tool/"><u>2024 Approved SeamlessCapture W10's Simple Recording Tool</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-pova-5-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-android-gif-maker-tools-the-ultimate-selection-of-5-funniest-applications/"><u>Best Android GIF Maker Tools: The Ultimate Selection of 5 Funniest Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-complimentary-3ds-emulators-compatible-with-various-devices-including-windowsmaciosandroid-and-web-based-options/"><u>Discover the Ultimate List of Complimentary 3DS Emulators Compatible with Various Devices Including Windows/Mac/iOS/Android and Web-Based Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-android-spying-tools-top-5-selections-for-covert-mobile-monitoring/"><u>Discover the Ultimate List of Free Android Spying Tools - Top 5 Selections for Covert Mobile Monitoring</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-efficiently-eliminate-apps-from-your-smartphone-tips-for-ios-and-android-users/"><u>How To Efficiently Eliminate Apps From Your Smartphone: Tips for iOS & Android Users</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-tecno-phantom-v-fold-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Tecno Phantom V Fold to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-emulators-for-running-mobile-apps-on-your-pc-a-comprehensive-guide/"><u>Top 7 Emulators for Running Mobile Apps on Your PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-8-unbeatable-xbox-emulators-for-pc-and-android-an-honest-comparison/"><u>Top 8 Unbeatable Xbox Emulators for PC & Android - An Honest Comparison</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unison-video-visionaries-finding-your-cms/"><u>Unison Video Visionaries Finding Your CMS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-survival-of-the-undead-cutthroat-top-8-zombie-titles/"><u>[Updated] In 2024, Survival of the Undead Cutthroat Top 8 Zombie Titles</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-chinas-leap-into-the-future-with-advanced-supercomputing-strategies/"><u>Empowering China's Leap Into the Future with Advanced Supercomputing Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolving-threats-demand-modern-cyber-skills-as-security-professionals-grapple-with-outdated-infrastructures/"><u>Evolving Threats Demand Modern Cyber Skills as Security Professionals Grapple with Outdated Infrastructures</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-7-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone 7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-gionee-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Gionee Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-ai-a-threat-to-future-opportunities-in-the-cybersecurity-workforce-expert-analysis-by-zdnet/"><u>Is AI a Threat to Future Opportunities in the Cybersecurity Workforce? | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximizing-performance-effective-strategies-for-enhancing-fps-in-war-thunder/"><u>Maximizing Performance: Effective Strategies for Enhancing FPS in War Thunder</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-present-wave-of-instantaneous-change-an-unbalanced-distribution/"><u>Navigating the Present Wave of Instantaneous Change: An Unbalanced Distribution</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/recording-games-like-a-pro-discover-the-best-of-windows-11-methods/"><u>Recording Games Like a Pro Discover the Best of Windows 11 Methods</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-web-hosting-providers-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Web Hosting Providers : In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-ais-potential-overcoming-challenges-to-harness-significant-commercial-advantages/"><u>Unlocking AI's Potential: Overcoming Challenges to Harness Significant Commercial Advantages</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-innovation-with-open-source-a-pathway-chosen-by-leading-global-minds-insights-from-zdnet/"><u>Unlocking Innovation with Open Source: A Pathway Chosen by Leading Global Minds - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-perfect-union-of-tradition-and-innovation-in-the-skagen-falster-3-watch-review/"><u>Unveiling the Perfect Union of Tradition and Innovation in the Skagen Falster 3 Watch Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tga-gif-movavi/"><u>인터넷을 통해 자바스위칭, 데이터매김 등에 적합한 무료 TGA GIF 변환 - Movavi</u></a></li>
 </ul></div>
 

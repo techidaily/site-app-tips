@@ -1,7 +1,7 @@
 ---
 title: Exploring AI, Embracing Rust, and the Critical Role of Linux Kernel with Linus Torvalds | Tech Insights
-date: 2024-12-26T20:58:39.480Z
-updated: 2025-01-03T09:59:57.624Z
+date: 2025-01-07T23:49:11.947Z
+updated: 2025-01-10T02:32:16.181Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,16 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/levate-youtube-presence-ideal-release-windows-for-2024/"><u>[New] Elevate Youtube Presence Ideal Release Windows for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos-for-2024/"><u>[New] The New Dawn of Creativity Spotlight on Six Visionary NFTOs for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-techniques-for-stunning-android-time-lapse-captures/"><u>[New] Top Techniques for Stunning Android Time-Lapse Captures</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-leading-edge-apps-the-ultimate-10-for-real-time-gymnastics-and-hockey-games/"><u>[Updated] 2024 Approved Leading Edge Apps The Ultimate 10 for Real-Time Gymnastics and Hockey Games</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-videos-to-vibrant-gifs-youtube-conversion-techniques/"><u>[Updated] In 2024, From Videos to Vibrant GIFs YouTube Conversion Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-tech-squads-amplifying-their-role-in-enhancing-customer-journey-insights-from-zdnet/"><u>Empowering Tech Squads: Amplifying Their Role in Enhancing Customer Journey – Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-customer-engagement-through-advanced-technologies-exploring-xr-digital-twins-and-spatial-computing-for-businesses-guided-by-experts-at-zdnet/"><u>Enhancing Customer Engagement Through Advanced Technologies: Exploring XR, Digital Twins, and Spatial Computing for Businesses | Guided by Experts at ZDNET</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-20-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 20 To Phone | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mainstream-market-entry-with-aristas-new-cognitive-network-solutions-for-mid-sized-businesses-industry-analysis/"><u>Mainstream Market Entry with Arista's New Cognitive Network Solutions for Mid-Sized Businesses | Industry Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/stability/"><u>Stability</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unveiling-hidden-potential-a-deep-dive-into-background-eraser-in-ps/"><u>Unveiling Hidden Potential A Deep Dive Into Background Eraser in PS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-comparing-recording-quality-the-pros-and-cons-of-30fps-and-60fps-for-2024/"><u>[New] Comparing Recording Quality The Pros & Cons of 30Fps and 60Fps for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mastering-video-conferencing-zooming-towards-youtube-streaming-excellence/"><u>[New] In 2024, Mastering Video Conferencing Zooming Towards YouTube Streaming Excellence</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximize-visual-impact-with-free-digital-lut-resources/"><u>[New] Maximize Visual Impact with FREE Digital LUT Resources</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecrets-to-successful-youtube-filmmaking-with-pc-editing-software/"><u>[New] Secrets to Successful YouTube Filmmaking with PC Editing Software</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/american-wilderness-high-resolution-wallpapers-and-backgrounds-by-yl-computing/"><u>American Wilderness: High-Resolution Wallpapers & Backgrounds by YL Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/digital-privacy-empowerment-unlocking-anonymity-as-a-key-asset-for-modern-remote-teams-zdnet/"><u>Digital Privacy Empowerment: Unlocking Anonymity as a Key Asset for Modern Remote Teams | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-tech-adopts-ops-approach-amidst-growing-pains-and-opportunities-for-innovation/"><u>Enterprise Tech Adopts 'Ops' Approach Amidst Growing Pains and Opportunities for Innovation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-end-of-windows-10-support-explore-your-five-last-options-now/"><u>Facing the End of Windows 10 Support? Explore Your Five Last Options Now!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-spark-10-4g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Tecno Spark 10 4G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-live-thumbnails-for-effective-branding-for-2024/"><u>Mastering Live Thumbnails for Effective Branding for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/microsoft-employee-happiness-and-surprising-insights/"><u>Microsoft, Employee Happiness, and Surprising Insights.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-marketing-adobes-new-generation-of-ai-powered-creative-tools-unveiled/"><u>Revolutionizing Marketing: Adobe's New Generation of AI-Powered Creative Tools Unveiled</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-on-implementing-send-later-option-in-thunderbird-mail-clients-zdnet/"><u>Step-by-Step Tutorial on Implementing 'Send Later' Option in Thunderbird Mail Clients (ZDNet)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-sql-programming-classes-expert-reviews-of-the-best-online-learning-options/"><u>Top-Rated SQL Programming Classes: Expert Reviews of the Best Online Learning Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-coursera-unveils-new-skill-level-evaluation-with-proficiency-testing/"><u>ZDNet: Coursera Unveils New Skill-Level Evaluation with Proficiency Testing</u></a></li>
 </ul></div>
 

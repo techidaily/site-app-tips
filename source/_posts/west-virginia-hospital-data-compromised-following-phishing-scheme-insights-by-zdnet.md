@@ -1,7 +1,7 @@
 ---
 title: West Virginia Hospital Data Compromised Following Phishing Scheme - Insights by ZDNet
-date: 2024-12-27T01:13:38.149Z
-updated: 2025-01-02T19:08:40.771Z
+date: 2025-01-08T18:42:58.712Z
+updated: 2025-01-10T04:20:12.919Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 ## West Virginia Hospital Data Compromised Following Phishing Scheme - Insights by ZDNet
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Executive guide
@@ -20,7 +20,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 [![phishing-header.jpg](https://www.zdnet.com/a/img/resize/ac019af4c6d0d000921065b0769387a86a4afe61/2017/09/04/fc1528a9-ecf2-4e2a-b743-91f06206a23e/phishing-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) What is phishing? Everything you need to know to protect yourself from scam emails and more Don't click on that email! Find everything you need to know in this phishing guide including how to protect yourself from one of the most common forms of cyber attack.  Read now](https://www.zdnet.com/article/what-is-phishing-how-to-protect-yourself-from-scam-emails-and-more/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A hospital system in West Virginia has [suffered](https://www.prnewswire.com/news-releases/monongalia-health-system-inc-investigates-and-addresses-data-security-incident-301449436.html) a data breach resulting from a phishing attack, which gave hackers access to several email accounts. 
@@ -74,15 +74,15 @@ Mon Health started sending breach notification letters to victims on December 21
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/a-poor-or-nonexistent-ground-system-can-lead-to-reduced-radiation-efficiency-increased-noise-levels-and-potentially-dangerous-rf-exposure/"><u>A Poor or Nonexistent Ground System Can Lead to Reduced Radiation Efficiency, Increased Noise Levels, and Potentially Dangerous RF Exposure.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cognitive-network-technology-debuts-in-midrange-market-via-arista-innovations-tech-news/"><u>Cognitive Network Technology Debuts in Midrange Market via Arista Innovations | Tech News</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-techniques-to-prevent-and-fix-screen-burnin-on-electronic-panels/"><u>Comprehensive Techniques to Prevent and Fix Screen Burnin on Electronic Panels</u></a></li>
-<li><a href="https://app-tips.techidaily.com/emerging-tech-trends-top-developer-roles-and-key-coding-languages-shaping-the-future-insights-from-zdnet/"><u>Emerging Tech Trends: Top Developer Roles & Key Coding Languages Shaping the Future - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/experts-choice-best-vr-handh-written-by-assistant/"><u>Expert's Choice Best VR Handh Written by Assistant</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/from-novice-to-pro-your-journey-with-the-io-screener-for-2024/"><u>From Novice to Pro Your Journey with the IO Screener for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-game-changing-strategies-for-effective-video-capture/"><u>In 2024, Game-Changing Strategies for Effective Video Capture</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-issues-with-the-primary-speaker-output-hole-a-comprehensive-guide/"><u>Solving Issues with the Primary Speaker Output Hole: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sx420-reviewed-introducing-an-ultra-portable-with-42x-optical-zoom/"><u>SX420 Reviewed – Introducing an Ultra-Portable with 42X Optical Zoom</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-obstacles-to-leveraging-generative-ai-in-business-practices-key-findings-from-recent-deloitte-research-explored-by-zdnet/"><u>Unveiling the Obstacles to Leveraging Generative AI in Business Practices: Key Findings From Recent Deloitte Research, Explored by ZDNET</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-legal-framework-the-fine-print-for-facebook-video-postings/"><u>[New] In 2024, Legal Framework The Fine Print for Facebook Video Postings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-latest-microsoft-innovations-surface-pro-10-and-laptop-ebrimae-arrive-packed-with-enhanced-ai-capabilities-insights-from-zdnet/"><u>Discover the Latest Microsoft Innovations: Surface Pro 10 & Laptop Ebrimae Arrive, Packed with Enhanced AI Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-call-of-duty-warzones-game-disc-error-50-and-31-on-your-computer-with-easy-steps/"><u>Fixing Call of Duty: Warzone's Game Disc Error [5.0] and [3.1] on Your Computer with Easy Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-passwords-under-control-at-half-price-save-big-now-only-50-off-keeper-manager-gizmonews/"><u>Get Your Passwords Under Control at Half Price! Save Big Now - Only 50% Off Keeper Manager | GizmoNews</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-x-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone X to Android? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-and-evading-the-most-common-chatgpt-hoaxes/"><u>Identifying and Evading the Most Common ChatGPT Hoaxes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-1password-a-high-value-investment-comprehensive-expert-evaluation-of-this-top-tier-password-solution-insights-from-tech-sector-leaders/"><u>Is 1Password a High-Value Investment? Comprehensive Expert Evaluation of This Top-Tier Password Solution - Insights From Tech Sector Leaders</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-grab-3-months-of-dashlane-pro-password-management-for-just-1-with-zdnets-exclusive-offer/"><u>Secure Your Digital Life: Grab 3 Months of Dashlane Pro Password Management for Just $1 with ZDNet's Exclusive Offer</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unlock-the-power-of-animation-converting-videos-into-cartoons/"><u>Updated In 2024, Unlock the Power of Animation Converting Videos Into Cartoons</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-people-favor-biometrics-over-passwords-due-to-memory-challenges-zdnet-analysis/"><u>Why People Favor Biometrics Over Passwords Due to Memory Challenges | ZDNet Analysis</u></a></li>
 </ul></div>
 

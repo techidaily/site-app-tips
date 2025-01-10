@@ -1,7 +1,7 @@
 ---
 title: Overcoming User Memory Lapses with Biometric Authentication - Insights From ZDNet
-date: 2024-12-31T18:01:14.780Z
-updated: 2025-01-03T08:11:09.220Z
+date: 2025-01-08T16:34:27.423Z
+updated: 2025-01-09T23:28:09.176Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,24 +99,18 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-fighting-on-the-go-nintendos-best-switch-fighters/"><u>[New] 2024 Approved Fighting on the Go Nintendo's Best Switch Fighters</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ashing-it-out-best-tags-to-transform-views-and-profit/"><u>[New] Hashing It Out Best Tags to Transform Views & Profit</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-the-professionals-secret-utilizing-windows-movie-maker-expertly-in-windows-8-systems/"><u>[New] In 2024, The Professional's Secret Utilizing Windows Movie Maker Expertly in Windows 8 Systems</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-smile-generator-for-memes/"><u>[Updated] 2024 Approved Best Smile Generator for Memes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-bite-sized-urls-essential-tools-for-youtubers-to-streamline-sharing/"><u>[Updated] 2024 Approved Bite-Sized URLs Essential Tools for Youtubers to Streamline Sharing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-discover-the-safest-and-free-insta-friend-enhancers-iosandroid/"><u>[Updated] 2024 Approved Discover the Safest & FREE Insta-Friend Enhancers (iOS/Android)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-detailed-look-at-pre-purchasing-your-smart-tv/"><u>A Detailed Look at Pre-Purchasing Your Smart TV</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-password-managers-beyond-lastpass-zdnet/"><u>Discover the Ultimate Password Managers (Beyond LastPass) - ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-now-complete-guide-to-installing-focusrite-scarlett-pressandgo-scarlett-2i2-on-windows-systems/"><u>Download Now: Complete Guide to Installing Focusrite Scarlett Pressandgo Scarlett 2I2 on Windows Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-enhanced-user-engagement-website-performance-boosted-using-innovative-solution-cookiebot-integration/"><u>Experience Enhanced User Engagement: Website Performance Boosted Using Innovative Solution - Cookiebot Integration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-passwordless-security-a-dual-review-of-top-password-managers-that-won-me-over-tech-insights/"><u>Exploring Passwordless Security: A Dual Review of Top Password Managers That Won Me Over | Tech Insights</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-moto-g14-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola Moto G14 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://app-tips.techidaily.com/major-new-features-1password-mobile-app-receives-extensive-upgrade-zdnet/"><u>Major New Features: 1Password Mobile App Receives Extensive Upgrade - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/major-revamp-enhanced-security-and-features-in-the-latest-1password-app-for-smartphones/"><u>Major Revamp: Enhanced Security & Features in the Latest 1Password App for Smartphones!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/projectweb-shutdown-announced-fujitsu-reacts-to-japans-government-data-leaks-insights-from-zdnet/"><u>ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/repeated-security-incidents-at-lastpass-latest-update-from-zdnet/"><u>Repeated Security Incidents at LastPass - Latest Update From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-accounts-now-unbeatable-jem-authenticator-and-password-management-solution-insights-from-zdnet/"><u>Secure Your Accounts Now! Unbeatable JEM Authenticator & Password Management Solution | Insights From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-exclusive-offer-on-pioneering-3-year-3d-password-manager-at-just-30-zdnet/"><u>Secure Your Digital Life: Exclusive Offer on Pioneering 3-Year 3D Password Manager at Just $30 | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-streams-why-stronger-passwords-mean-safer-viewing-techdigest/"><u>Secure Your Streams: Why Stronger Passwords Mean Safer Viewing | TechDigest</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-key-methods-to-incorporate-facebook-live-into-website-designs-for-2024/"><u>[New] Key Methods to Incorporate Facebook Live Into Website Designs for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-positive-interaction-not-pressure-a-subscription-success-story/"><u>[New] Positive Interaction, Not Pressure A Subscription Success Story</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unraveling-why-your-facebooks-newsfeed-fails-to-suggest-movies/"><u>[Updated] 2024 Approved Unraveling Why Your Facebook's Newsfeed Fails to Suggest Movies</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-exit-the-guide-to-disconnecting-from-a-discord-community-for-2024/"><u>[Updated] Navigating Exit The Guide to Disconnecting From a Discord Community for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choreographing-a-riveting-cinematic-shortcuts-showcase-for-2024/"><u>Choreographing a Riveting Cinematic Shortcuts Showcase for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/conexao-direta-com-a-movavi-ferramenta-de-conversao-video-gratuita-f4v-para-flv-na-web/"><u>Conexão Direta Com a Movavi: Ferramenta De Conversão Vídeo Gratuita – F4V Para FLV Na Web</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/controlling-who-can-use-specific-applications-on-your-windows/"><u>Controlling Who Can Use Specific Applications on Your Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/must-know-review-inside-look-at-the-revolutionary-eva-previously-ex-journey-chatbot/"><u>Must-Know Review: Inside Look at the Revolutionary EVA (Previously Ex Journey) Chatbot</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-10-cutting-edge-ai-chatbots-to-enhance-your-messaging-game/"><u>The Ultimate List of 10 Cutting-Edge AI Chatbots to Enhance Your Messaging Game</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-conversational-ai-exploring-the-best-features-of-gpt-powered-chatbots/"><u>Top-Rated Conversational AI: Exploring the Best Features of GPT-Powered Chatbots</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-reviews-explore-the-best-in-ai-meet-chatgpt-your-new-preferred-chatbot-companion/"><u>Top-Rated Reviews: Explore the Best in AI - Meet ChatGPT, Your New Preferred Chatbot Companion</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/understanding-what-drives-cryptocurrency-valuations-a-comprehensive-guide-by-yl-software/"><u>Understanding What Drives Cryptocurrency Valuations: A Comprehensive Guide by YL Software</u></a></li>
 </ul></div>
 

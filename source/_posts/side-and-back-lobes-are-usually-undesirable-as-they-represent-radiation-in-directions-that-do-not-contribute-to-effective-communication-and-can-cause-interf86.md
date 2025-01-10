@@ -1,7 +1,7 @@
 ---
 title: Side and Back Lobes Are Usually Undesirable as They Represent Radiation in Directions that Do Not Contribute to Effective Communication and Can Cause Interference.
-date: 2024-12-30T01:20:08.548Z
-updated: 2025-01-03T05:50:08.840Z
+date: 2025-01-05T18:20:02.271Z
+updated: 2025-01-10T06:11:23.695Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeos-global-distribution-guide/"><u>[New] 2024 Approved Vimeo's Global Distribution Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-essential-budget-gaming-hardware-the-ultimate-keyboard-list-for-2024/"><u>[New] Essential Budget Gaming Hardware The Ultimate Keyboard List for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-pixelperfect-editor/"><u>[Updated] In 2024, PixelPerfect Editor</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-navigating-tiktok-web-efficiently-as-a-mac-user/"><u>2024 Approved Navigating TikTok Web Efficiently as a Mac User</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ultimate-guide-to-the-leading-9-video-call-and-collaboration-tools-android-ios/"><u>2024 Approved Ultimate Guide to the Leading 9 Video Call & Collaboration Tools (Android, iOS)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-widening-chasm-of-data-expertise-innovative-strategies-from-a-leading-tech-firm-zdnet/"><u>Bridging the Widening Chasm of Data Expertise: Innovative Strategies From a Leading Tech Firm | ZDNET</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/change-your-audio-files-effortlessly-convert-mp3-to-aiff-for-zero-cost-with-movavis-web-service/"><u>Change Your Audio Files Effortlessly - Convert MP3 to AIFF for Zero Cost with Movavi's Web Service.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/devops-engineer-career-path-unveiling-the-pros-cons-and-realities-insights-from-zdnet/"><u>DevOps Engineer Career Path: Unveiling The Pros, Cons & Realities - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-how-technological-advancements-contribute-to-staff-burnout-and-strategies-for-improvement-zdnet/"><u>Exploring How Technological Advancements Contribute to Staff Burnout and Strategies for Improvement | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-unexpected-how-ai-is-shaping-unprecedented-job-roles-and-their-mysterious-titles-zdnet-analysis/"><u>Exploring the Unexpected: How AI Is Shaping Unprecedented Job Roles and Their Mysterious Titles | ZDNET Analysis</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-note-30-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Note 30 5G Face Lock?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-artificial-intelligence-impacts-future-trends-in-cybersecurity-employment-opportunities-insights-from-zdnet/"><u>How Artificial Intelligence Impacts Future Trends in Cybersecurity Employment Opportunities: Insights From ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-future-of-ai-in-business-essential-read-for-singapores-smb-workforce-training-expert-advice-by-zdnet/"><u>Mastering the Future of AI in Business: Essential Read for Singapore's SMB Workforce Training – Expert Advice by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-jobs-with-ai-unveiling-the-endless-possibilities-and-changes-by-zdnet-experts/"><u>The Future of Jobs with AI: Unveiling the Endless Possibilities & Changes by ZDNet Experts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-12-zero-cost-ai-video-optimizers-available-online-compatible-with-pc-and-mac-platforms/"><u>Top 12 Zero-Cost AI Video Optimizers Available Online: Compatible with PC & MAC Platforms</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-work-the-revolutionary-impact-of-ai-agents-on-future-jobs/"><u>Transforming Work: The Revolutionary Impact of AI Agents on Future Jobs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-addressing-obsolete-technologies-is-crucial-insights-from-a-recent-mismanaged-upgrade-zdnet/"><u>Why Addressing Obsolete Technologies Is Crucial - Insights From a Recent Mismanaged Upgrade | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-10-pivotal-tactics-for-striking-podcast-covers/"><u>[Updated] 10 Pivotal Tactics for Striking Podcast Covers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-uncover-youtubes-preview-disabling-secret/"><u>[Updated] Uncover YouTube's Preview Disabling Secret</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/advanced-material-kit-pro-for-react-native-development-elite-template-by-creative-tim/"><u>Advanced Material Kit Pro for React Native Development: Elite Template by Creative Tim</u></a></li>
+<li><a href="https://app-tips.techidaily.com/camera-surveillance/"><u>Camera Surveillance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cutting-edge-5g-expansion-verizon-partners-with-emerging-startup-celona-for-business-growth/"><u>Cutting-Edge 5G Expansion: Verizon Partners with Emerging Startup Celona for Business Growth</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-tech-squads-amplifying-their-role-in-enhancing-customer-journey-insights-from-zdnet/"><u>Empowering Tech Squads: Amplifying Their Role in Enhancing Customer Journey – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-customer-engagement-through-advanced-technologies-exploring-xr-digital-twins-and-spatial-computing-for-businesses-guided-by-experts-at-zdnet/"><u>Enhancing Customer Engagement Through Advanced Technologies: Exploring XR, Digital Twins, and Spatial Computing for Businesses | Guided by Experts at ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-wav-to-mp3-converter-by-movavi-convert-audio-files-in-minutes/"><u>Free Online WAV to MP3 Converter by Movavi: Convert Audio Files in Minutes!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-gobi-fatal-error-a-detailed-tutorial-for-back-4-blood-ue4-players/"><u>How to Overcome Gobi Fatal Error - A Detailed Tutorial for Back 4 Blood (UE4) Players</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-zte-blade-a73-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve ZTE Blade A73 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-8t-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo Reno 8T 5G Bootloader Easily</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mainstream-market-entry-with-aristas-new-cognitive-network-solutions-for-mid-sized-businesses-industry-analysis/"><u>Mainstream Market Entry with Arista's New Cognitive Network Solutions for Mid-Sized Businesses | Industry Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-hybrid-cloud-intricacies-with-cutting-edge-features-of-red-hats-latest-enterprise-linux-distribution/"><u>Navigating Hybrid Cloud Intricacies with Cutting-Edge Features of Red Hat's Latest Enterprise Linux Distribution</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/pushing-boundaries-advanced-iphone-silhouette-techniques-for-2024/"><u>Pushing Boundaries Advanced iPhone Silhouette Techniques for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-ai-conversation-the-impact-of-palm-2-on-googles-bard/"><u>Revolutionizing AI Conversation: The Impact of PaLM 2 on Google's Bard</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stability/"><u>Stability</u></a></li>
+<li><a href="https://app-tips.techidaily.com/taming-chaos-in-linux-and-open-source-manuals-a-revolutionary-fix-zdnet-insight/"><u>Taming Chaos in Linux & Open Source Manuals: A Revolutionary Fix | ZDNet Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-workers-tired-yet-relieved-heres-the-silver-lining-insights-from-zdnet/"><u>Tech Workers Tired Yet Relieved? Here's the Silver Lining! - Insights From ZDNet</u></a></li>
 </ul></div>
 

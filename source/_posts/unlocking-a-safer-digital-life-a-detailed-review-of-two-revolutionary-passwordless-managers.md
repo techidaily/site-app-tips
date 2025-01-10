@@ -1,7 +1,7 @@
 ---
 title: "Unlocking a Safer Digital Life: A Detailed Review of Two Revolutionary Passwordless Managers"
-date: 2025-01-01T21:31:24.738Z
-updated: 2025-01-03T09:31:11.364Z
+date: 2025-01-07T22:43:14.758Z
+updated: 2025-01-09T17:29:26.665Z
 tags:
   - password-manager
 categories:
@@ -34,7 +34,7 @@ Should you ditch your master password completely? I took the plunge with both [D
 My conclusion: There's a passwordless password manager in your future, but only technically sophisticated customers should plunge in today.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting up a passwordless account
@@ -54,7 +54,7 @@ Screenshot by Ed Bott/ZDNET
 With those tasks out of the way, you can import your existing passwords and add new ones. More importantly, you now have a device that you can use to set up access to the password vault on other devices, with no master password required.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting up additional devices
@@ -98,7 +98,7 @@ The dealbreaker for me, though, came when I tried to export my passwords from th
 Given those beta headaches, I decided to delete my passwordless 1Password account and try again in a few months. But Dashlane was impressive enough to make me seriously consider switching.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the risk?
@@ -112,7 +112,7 @@ So, what happens if you can't access any of those trusted devices? You're locked
 Both Dashlane and 1Password offer an alternative in the form of a recovery key. That's a randomly generated alphanumeric code (Dashlane's key is 28 characters long; 1Password uses a 56- character recovery key) that you print out and store in a safe place. If you're ever in a situation where you don't have a PC or mobile device that's signed in to your account, you can break the glass and use that recovery key as a last resort. But you'll never need to type it under normal circumstances, meaning it's resistant to phishing, keyloggers, and other hacking tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should you switch to a passwordless account?
@@ -151,24 +151,22 @@ I was impressed enough by [Dashlane](https://www.tkqlhce.com/click-9041660-15578
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-bigger-photos-uncompromised-clarity-for-2024/"><u>[New] Bigger Photos, Uncompromised Clarity for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-setting-up-your-first-livestream-successfully/"><u>[New] Setting Up Your First Livestream Successfully</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-connect-to-a-real-time-tiktok-livestayers-world/"><u>[Updated] Connect to a Real-Time TikTok Livestayer's World</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-ideal-pc-recording-software-for-windows-enthusiasts-for-2024/"><u>[Updated] Ideal PC Recording Software for Windows Enthusiasts for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-top-tips-and-solutions-for-common-vlc-issues-on-mac-for-2024/"><u>[Updated] Top Tips & Solutions for Common VLC Issues on Mac for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-the-art-of-eye-catching-fb-ad-content/"><u>2024 Approved Mastering the Art of Eye-Catching FB Ad Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/achieving-a-competitive-edge-in-business-with-effective-devops-strategies-and-mitigating-risks-through-best-practices-zdnet-insights/"><u>Achieving a Competitive Edge in Business with Effective DevOps Strategies & Mitigating Risks Through Best Practices | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-to-combining-excel-cells-tips-and-tricks-from-zdnet/"><u>Complete Guide to Combining Excel Cells: Tips & Tricks From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-hurdles-ahead-microsofts-race-against-time-to-fix-windows-11-issues-insights-from-zdnet/"><u>Critical Hurdles Ahead: Microsoft's Race Against Time to Fix Windows 11 Issues - Insights From ZDNet</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/dragon-tamers-guide-vibrant-how-to-train-your-dragon-imagery-and-desktops-from-yl-software-expertise/"><u>Dragon Tamer's Guide: Vibrant How-To Train Your Dragon Imagery and Desktops From YL Software Expertise</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exclusive-offer-acquire-professional-level-ashampoo-3d-cad-v11-for-only-40-from-zdnet-right-now/"><u>Exclusive Offer: Acquire Professional Level Ashampoo 3D CAD v11 for Only $40 From ZDNet Right Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-end-of-windows-10-support-explore-your-five-last-options-now/"><u>Facing the End of Windows 10 Support? Explore Your Five Last Options Now!</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-x7b-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor X7b? | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-sculpting-your-audio-experience-in-videos-with-ease-and-precision/"><u>New In 2024, Sculpting Your Audio Experience in Videos with Ease and Precision</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-marketing-adobes-new-generation-of-ai-powered-creative-tools-unveiled/"><u>Revolutionizing Marketing: Adobe's New Generation of AI-Powered Creative Tools Unveiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-latest-in-development-careers-most-demanded-programming-languages-and-predictions-for-upcoming-skills-powered-by-zdnet/"><u>The Latest in Development Careers: Most Demanded Programming Languages and Predictions for Upcoming Skills | Powered by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-web-browsers-of-today-analysis-by-zdnet/"><u>Top Web Browsers of Today - Analysis by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-sql-programming-classes-expert-reviews-of-the-best-online-learning-options/"><u>Top-Rated SQL Programming Classes: Expert Reviews of the Best Online Learning Options</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-selecting-the-ideal-pos-software-expert-reviews/"><u>Ultimate Guide to Selecting the Ideal POS Software – Expert Reviews</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-transitioning-visuals-from-android-to-apple-gear/"><u>[New] In 2024, Transitioning Visuals From Android to Apple Gear</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-memimagic-create-funny-images-on-the-go/"><u>[New] MemiMagic Create Funny Images On-the-Go</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-premiere-pro-rapid-transitions/"><u>[New] Premiere Pro Rapid Transitions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2022s-leading-data-security-solutions-find-the-ultimate-encryption-software-according-to-industry-experts-at-zdnet/"><u>2022'S Leading Data Security Solutions: Find the Ultimate Encryption Software According to Industry Experts at ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-space-optimization-mastery-premium-storage-reviews/"><u>2024 Approved Space Optimization Mastery Premium Storage Reviews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anthropic-unveils-newly-released-free-claude-mobile-application-on-ios-announces-premium-enterprise-solution-a-breakthrough-for-business-efficiency/"><u>Anthropic Unveils Newly Released Free Claude Mobile Application on iOS; Announces Premium Enterprise Solution: A Breakthrough for Business Efficiency!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-efficiency-with-slack-mastering-the-apps-top-features-for-enhanced-workflow-zdnet/"><u>Boost Your Efficiency with Slack: Mastering the App's Top Features for Enhanced Workflow | ZDNet</u></a></li>
+<li><a href="https://fox-making.techidaily.com/evaluating-the-performance-of-ufs-explorers-a-comprehensive-review/"><u>Evaluating the Performance of UFS Explorers: A Comprehensive Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-top-benefits-of-embracing-aiops-why-you-need-to-make-the-switch/"><u>Exploring the Top Benefits of Embracing AIOps: Why You Need to Make the Switch</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-unforeseen-thrills-of-yokus-island-express-an-immersive-review/"><u>Exploring the Unforeseen Thrills of Yoku's Island Express - An Immersive Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-future-your-5-essential-choices-as-windows-11-officially-loses-mainstream-support/"><u>Facing the Future: Your 5 Essential Choices as Windows 11 Officially Loses Mainstream Support</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fresh-discussion-ideas-for-podcast-success-for-2024/"><u>Fresh Discussion Ideas for Podcast Success for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-magic-v2-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor Magic V2 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-projects-through-music-addition-in-premiere-pro/"><u>Perfecting Projects Through Music Addition in Premiere Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/red-hat-unveils-innovative-tools-in-newest-enterprise-linux-release-to-simplify-hybrid-cloud-management/"><u>Red Hat Unveils Innovative Tools in Newest Enterprise Linux Release to Simplify Hybrid Cloud Management</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-potential-the-role-of-expertise-and-protection-in-advancing-cloud-native-platforms-according-to-zdnet/"><u>Unleashing Potential: The Role of Expertise and Protection in Advancing Cloud-Native Platforms, According to ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-openais-budget-friendly-approach-to-enhancing-gpt-crafting-with-more-affordable-tuning-options/"><u>ZDNet Explores OpenAI's Budget-Friendly Approach to Enhancing GPT-Crafting with More Affordable Tuning Options</u></a></li>
 </ul></div>
 

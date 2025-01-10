@@ -1,7 +1,7 @@
 ---
 title: Elevating Enterprise Defense Starts at the Employee Level – Expert Advice on Corporate and Personal Cybersecurity by ZDNet
-date: 2025-01-01T12:19:31.830Z
-updated: 2025-01-03T11:32:44.205Z
+date: 2025-01-07T19:50:41.750Z
+updated: 2025-01-09T22:46:22.640Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Corporations aren't doing enough to improve their employees' personal security practices. Credentials remain the highest targeted data type as they are the gateway to ransomware and data theft. 61% of data breaches in 2021 involved the use of stolen and misused credentials. Bad actors took advantage of a global pandemic to increase the number of phishing attacks, the cause of stolen credentials in 36% of breaches -- a 9% increase over last year -- according to the [Verizon 2021 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdfx). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,22 +66,19 @@ Given how connected we all are, the rising demands of working anywhere, and incr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-guide-to-adding-dynamic-captions-to-instagram-media/"><u>[New] 2024 Approved Guide to Adding Dynamic Captions to Instagram Media</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-4k-monitors-showdown-top-10-picks/"><u>[New] In 2024, 4K Monitors Showdown Top 10 Picks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-accelerated-learning-for-chromakey-artistry/"><u>[Updated] In 2024, Accelerated Learning for Chromakey Artistry</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unlock-full-screen-browsing-potential-in-safari-for-apple/"><u>[Updated] In 2024, Unlock Full-Screen Browsing Potential in Safari for Apple</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-guide-to-capturing-web-radio-frequencies-flawlessly-for-2024/"><u>[Updated] The Guide to Capturing Web Radio Frequencies Flawlessly for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-surveying-the-spectrum-of-windows-movie-maker-updates/"><u>2024 Approved Surveying the Spectrum of Windows Movie Maker Updates</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-top-gear-best-mac-apps-for-capturing-videos/"><u>2024 Approved Top Gear Best Mac Apps for Capturing Videos</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-itel-p55-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Itel P55 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-on-cloud-storage-protecting-data-for-ipads-pro-mini-and-air-via-icloud/"><u>Complete Tutorial on Cloud Storage: Protecting Data for iPads (Pro, Mini, and Air) via iCloud</u></a></li>
-<li><a href="https://extra-information.techidaily.com/frozen-frenzy-2022s-ultimate-showdown-on-snowy-olympic-rivers/"><u>Frozen Frenzy 2022'S Ultimate Showdown on Snowy Olympic Rivers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620264535-how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-retrieve-your-forgotten-iphone-itunes-backup-passcode/"><u>How to Retrieve Your Forgotten iPhone iTunes Backup Passcode</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-managing-and-exporting-icloud-keychain-credentials-on-a-mac-computer/"><u>Step-by-Step Tutorial: Managing and Exporting iCloud Keychain Credentials on a Mac Computer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-of-icloud-keychain-functionality-and-retrieving-your-data-on-iphone/"><u>The Ultimate Walkthrough of iCloud Keychain Functionality & Retrieving Your Data on iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-4-methods-for-effortlessly-transferring-your-iphone-photos-to-icloud-a-complete-guide/"><u>Top 4 Methods for Effortlessly Transferring Your iPhone Photos to iCloud: A Complete Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-step-by-step-guide-how-to-effortlessly-backup-and-sync-your-iphone-with-icloud/"><u>Ultimate Step-by-Step Guide: How to Effortlessly Backup and Sync Your iPhone with iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-icloud-keychain-a-complete-guide-to-unlocking-your-iphones-secure-storage/"><u>Understanding iCloud Keychain: A Complete Guide to Unlocking Your iPhone's Secure Storage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-your-vlogs-with-high-quality-editing-premiere-pro-style/"><u>[New] In 2024, Elevating Your Vlogs with High-Quality Editing - Premiere Pro Style</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-zenful-grooves-top-20-tranquil-country-beats-for-stress-free-dancing-tiktok/"><u>[New] In 2024, Zenful Grooves Top 20 Tranquil Country Beats for Stress-Free Dancing (TikTok)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-the-use-of-screencastify-app-step-by-step-guide/"><u>[Updated] Mastering the Use of Screencastify App Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-ways-to-keep-your-apps-private-on-smartphones-and-tablets-android-and-apple/"><u>Effective Ways to Keep Your Apps Private on Smartphones & Tablets (Android & Apple)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-outputs-in-devices-with-realtek-sound-cards/"><u>Fixing Silent Outputs in Devices with Realtek Sound Cards</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193676-get-the-latest-collection-of-cool-stickers-for-your-facebook-chats/"><u>Get the Latest Collection of Cool Stickers for Your Facebook Chats!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-most-effective-android-management-software-from-pc-updated-top-picks/"><u>The Most Effective Android Management Software From PC - Updated Top Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-free-online-and-mobile-apps-for-crafting-hilarious-memes-effortlessly/"><u>Top Free Online & Mobile Apps for Crafting Hilarious Memes Effortlessly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-applications-for-seamlessly-casting-your-iphone-display-onto-tv-or-computer/"><u>Top-Rated Applications for Seamlessly Casting Your iPhone Display Onto TV or Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-setting-up-advanced-gmail-rules-for-specific-needs/"><u>Ultimate Guide to Setting Up Advanced Gmail Rules for Specific Needs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-immediate-advantages-with-ios-153-update-without-delay/"><u>Unlock Immediate Advantages with iOS 15.3 - Update Without Delay</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-what-software-does-youtube-vloggers-use-and-what-is-the-best-free-video-editing-software-for-vlogger-beginners-in-this-article-youll-find-5-best-vlo/"><u>Updated What Software Does YouTube Vloggers Use? And What Is the Best Free Video Editing Software for Vlogger Beginners? In This Article, Youll Find 5 Best Vlog Video Editing Software. You Can Now Choose Th for 2024</u></a></li>
 </ul></div>
 

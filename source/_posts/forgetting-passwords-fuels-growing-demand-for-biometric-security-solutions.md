@@ -1,7 +1,7 @@
 ---
 title: Forgetting Passwords Fuels Growing Demand for Biometric Security Solutions
-date: 2025-01-01T20:27:20.199Z
-updated: 2025-01-02T23:46:30.950Z
+date: 2025-01-08T05:18:19.950Z
+updated: 2025-01-10T05:28:56.403Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,24 +99,22 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-freedom-in-fun-10-excellent-offline-gaming-on-android-devices/"><u>[New] 2024 Approved Freedom in Fun 10 Excellent Offline Gaming on Android Devices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-from-obscurity-to-popularity-facebooks-best-follower-growth-methods/"><u>[Updated] 2024 Approved From Obscurity to Popularity Facebook's Best Follower Growth Methods</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-high-quality-video-music-services/"><u>[Updated] 2024 Approved High-Quality Video Music Services</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-applications-of-virtual-reality/"><u>2024 Approved Applications of Virtual Reality</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/earn-on-youtube-beginners-path-to-profitability/"><u>Earn on YouTube Beginner's Path to Profitability</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-methods-to-transform-avi-files-for-streamlined-playback-on-iphone-ipad-and-ipod-via-itunes/"><u>Effortless Methods to Transform AVI Files for Streamlined Playback on iPhone, iPad & iPod via iTunes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-tips-for-resolving-unrecognized-devices-making-itunes-recognize-your-iphone-ipad-or-ipod-again/"><u>Expert Tips For Resolving Unrecognized Devices: Making iTunes Recognize Your iPhone, iPad, or iPod Again</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-recover-lost-contacts-from-your-iphones-itunes-backup/"><u>How to Recover Lost Contacts From Your iPhone's iTunes Backup</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-z-flip-5-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy Z Flip 5 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-pixiz-for-creating-dynamic-photo-videos/"><u>Mastering Pixiz for Creating Dynamic Photo Videos</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-through-options-five-vital-considerations-before-picking-your-activity-band/"><u>Navigating Through Options: Five Vital Considerations Before Picking Your Activity Band</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-samsung-galaxy-s23-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Samsung Galaxy S23 and Browser | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-fix-guide-eliminate-itunes-music-duplicates-with-simple-methods/"><u>Quick Fix Guide: Eliminate iTunes Music Duplicates with Simple Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revamp-your-itunes-collection-with-these-proven-techniques-for-inserting-album-images/"><u>Revamp Your iTunes Collection with These Proven Techniques for Inserting Album Images</u></a></li>
-<li><a href="https://app-tips.techidaily.com/syncing-imovie-projects-with-itunes-a-step-by-step-guide/"><u>Syncing iMovie Projects with iTunes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-12-replacements-for-itunes-on-pc-and-mac-in-2n34-best-options-explored/"><u>Top 12 Replacements for iTunes on PC and Mac in 2N34 - Best Options Explored</u></a></li>
-<li><a href="https://article-helps.techidaily.com/vida-unveiled-a-gateway-to-professional-video-craftsmanship-for-2024/"><u>Vida Unveiled A Gateway to Professional Video Craftsmanship for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-deciphering-gopro-burst-mode-mechanics-for-2024/"><u>[New] Deciphering GoPro Burst Mode Mechanics for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-explore-polarr-photo-editor-features-in-detail/"><u>[Updated] Explore Polarr Photo Editor Features in Detail</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-from-flat-frames-to-bright-brilliance-the-ultimate-conversion-guide/"><u>[Updated] From Flat Frames to Bright Brilliance The Ultimate Conversion Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/beyond-basics-smarter-application-of-sticker-questions-on-instagram/"><u>Beyond Basics Smarter Application of Sticker Questions on Instagram</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-and-assessment-unveiling-the-power-of-vllo-video-editor/"><u>Comprehensive Analysis & Assessment: Unveiling the Power of VLLO Video Editor</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194339-discover-the-top-15-no-cost-texting-solutions-for-your-android-device/"><u>Discover the Top 15 No-Cost Texting Solutions for Your Android Device!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-advanced-concepts-in-googles-mobile-device-management-mdm-and-its-future-capabilities-a-comprehensive-guide/"><u>Explore Advanced Concepts in Google's Mobile Device Management (MDM) and Its Future Capabilities – A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-asus-rog-phone-7-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Asus ROG Phone 7 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-internet-based-image-trimming/"><u>In 2024, The Ultimate Guide to Internet-Based Image Trimming</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-game-console-emulators-for-superior-imagery-and-performance-top-picks-for-gamers/"><u>Leading Game Console Emulators for Superior Imagery & Performance: Top Picks for Gamers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-x50-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor X50? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-linking-your-samsung-soundbar-with-your-television/"><u>Step-by-Step Guide: Linking Your Samsung Soundbar with Your Television</u></a></li>
+<li><a href="https://extra-information.techidaily.com/symphony-in-softness-playback-reduction-guide/"><u>Symphony in Softness Playback Reduction Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-8-exceptional-multitasking-applications-for-your-android-device/"><u>Top 8 Exceptional Multitasking Applications for Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-top-rated-mobile-phone-video-editing-software-with-kinemaster-features/"><u>Ultimate Guide: Top Rated Mobile Phone Video Editing Software with KineMaster Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-of-top-10-android-game-cracking-apps-work-with-or-without-root-access/"><u>Ultimate List of Top 10 Android Game Cracking Apps - Work with or without Root Access</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-secure-android-app-protectors-find-out-which-ones-rank-the-highest/"><u>Ultimate Selection of Secure Android App Protectors – Find Out Which Ones Rank the Highest</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Game-Changing Entrant in the Video Call Arena Outshines Microsoft Teams and Zoom with Lip-Reading Capabilities | ZDNet
-date: 2024-12-29T00:48:26.326Z
-updated: 2025-01-03T03:16:17.961Z
+date: 2025-01-07T06:00:07.211Z
+updated: 2025-01-10T01:17:24.317Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-3-techniques-for-capturing-sports-spectacles-for-2024/"><u>[Updated] Top 3 Techniques for Capturing Sports Spectacles for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-iphones-playlist-paradise-podcast-edition/"><u>In 2024, Mastering iPhone's Playlist Paradise Podcast Edition</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-skys-best-friends-top-11-drone-gear-for-phantom/"><u>In 2024, Sky's Best Friends Top 11 Drone Gear for Phantom</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-turn-off-youtube-previews-on-all-devices/"><u>In 2024, Turn Off YouTube Previews on All Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/maximize-video-visibility-on-facebook-via-youtube/"><u>Maximize Video Visibility on Facebook via YouTube</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-challenges-in-leveraging-ai-for-significant-commercial-gains-insights-from-zdnet/"><u>Overcoming Challenges in Leveraging AI for Significant Commercial Gains - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-challenges-to-unlock-the-economic-potential-of-ai-in-business-insights-from-zdnet/"><u>Overcoming Challenges to Unlock the Economic Potential of AI in Business - Insights From ZDNet</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-definitive-guide-to-instagram-to-mp4-transformation-2-ways-for-2024/"><u>The Definitive Guide to Instagram-to-MP4 Transformation 2 Ways for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-end-of-point-and-click-era-exploring-ais-role-in-transforming-user-interfaces-zdnet/"><u>The End of Point-and-Click Era: Exploring AI's Role in Transforming User Interfaces | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-is-here-exploring-the-revolutionary-impact-of-ai-agents-on-our-careers-and-industries-zdnet-insights/"><u>The Future Is Here: Exploring the Revolutionary Impact of AI Agents on Our Careers and Industries | ZDNET Insights</u></a></li>
-<li><a href="https://win-dash.techidaily.com/wavandroidios/"><u>WAV形式のオーディオ再生ができない時のAndroid/iOSスマホ対策法</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/winos-resilience-handling-cominterface-errors-effectively/"><u>WinOS Resilience: Handling COMInterface Errors Effectively</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/cuales-son-los-riesgos-de-copiar-un-dvd-directamente-a-disco-duro-sin-ripearlo-primero/"><u>¿Cuáles Son Los Riesgos De Copiar Un DVD Directamente a Disco Duro Sin Ripearlo Primero?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ultimate-list-of-win-11-hd-webcam-recording-kits/"><u>[New] 2024 Approved Ultimate List of Win 11 HD Webcam Recording Kits</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-guide-to-crafting-engaging-videos-in-adobe-premiere/"><u>[Updated] 2024 Approved A Guide to Crafting Engaging Videos in Adobe Premiere</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-understanding-youtubes-ad-free-experience-with-a-plan/"><u>[Updated] In 2024, Understanding YouTube's Ad-Free Experience with a Plan</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-user-friendly-instructions-installing-snapchat-on-macos/"><u>[Updated] User-Friendly Instructions Installing Snapchat on macOS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/alternative-cinema-highlights-audiences/"><u>Alternative Cinema Highlights Audiences</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-crm-solutions-for-2-surveillance-system-we-use-a-variety-of-methods-to-detect-and-monitor-suspicious-activity-within-our-facility-these-include-the-fol79/"><u>Best CRM Solutions for 2 Surveillance System, We Use a Variety of Methods to Detect and Monitor Suspicious Activity Within Our Facility. These Include the Following Steps:</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-writing-game-on-microsoft-365-using-the-new-co-pilot-features-according-to-recent-zdnet-reviews/"><u>Elevate Your Writing Game on Microsoft 365 Using the New Co-Pilot Features, According to Recent ZDNet Reviews!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-tech-teams-amplifying-your-voice-in-the-realm-of-customer-experience-insights-from-zdnet/"><u>Empowering Tech Teams: Amplifying Your Voice in the Realm of Customer Experience - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-access-free-photographic-treasures-through-favored-4-youtube-clips/"><u>In 2024, Access Free Photographic Treasures Through Favored 4 Youtube Clips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-nubia-red-magic-8s-proplus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Nubia Red Magic 8S Pro+ Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-slacks-new-functionality-a-step-by-step-tutorial-on-using-slack-connect-effectively/"><u>Mastering Slack's New Functionality - A Step-by-Step Tutorial on Using Slack Connect Effectively</u></a></li>
+<li><a href="https://win-net.techidaily.com/numark-party-mix-map-download-dj-controller-essentials-for-dex-3-and-dex-3-re-perfect-your-parties/"><u>Numark Party Mix Map Download: DJ Controller Essentials for Dex 3 & Dex 3 RE - Perfect Your Parties!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rethinking-artificial-intelligence-insights-from-a-leading-ai-researcher-for-innovative-breakthroughs/"><u>Rethinking Artificial Intelligence: Insights From a Leading AI Researcher for Innovative Breakthroughs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-pivotal-role-of-enterprise-architects-in-spearheading-digital-change-zdnet/"><u>The Pivotal Role of Enterprise Architects in Spearheading Digital Change | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ticking-clock-for-ms-how-microsoft-is-racing-against-time-to-fix-key-windows-10-challenges-by-zdnets-analysis/"><u>Ticking Clock for MS: How Microsoft Is Racing Against Time to Fix Key Windows 10 Challenges by ZDNet's Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranking-web-hosts-comprehensive-reviews-and-ratings-by-industry-experts-zdnet/"><u>Top-Ranking Web Hosts : Comprehensive Reviews and Ratings by Industry Experts | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-challenge-microsofts-crucial-year-ahead-to-fix-windows-10-issues-techinsight/"><u>Urgent Challenge: Microsoft's Crucial Year Ahead to Fix Windows 10 Issues | TechInsight</u></a></li>
 </ul></div>
 

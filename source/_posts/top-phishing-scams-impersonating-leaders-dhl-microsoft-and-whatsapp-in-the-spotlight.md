@@ -1,7 +1,7 @@
 ---
 title: "Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight"
-date: 2024-12-31T04:27:30.117Z
-updated: 2025-01-02T20:58:28.704Z
+date: 2025-01-04T00:01:13.143Z
+updated: 2025-01-10T02:03:08.609Z
 tags:
   - password-manager
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 ## Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,24 +77,22 @@ Check Point Research
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-the-art-of-hashtag-usage-a-primer-for-gamers-yt/"><u>[New] 2024 Approved Mastering the Art of Hashtag Usage A Primer for Gamers YT</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-beginners-guide-to-navigating-digital-marketing-with-reddit-savvy/"><u>[Updated] A Beginner's Guide to Navigating Digital Marketing with Reddit Savvy</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-securely-transferring-camera-photos-to-snapchat-correctly-for-2024/"><u>[Updated] Securely Transferring Camera Photos to Snapchat Correctly for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-design-ideas-top-6-mc-village-residences/"><u>2024 Approved Design Ideas Top 6 MC Village Residences</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-immediate-halt-of-auto-recording-on-qt/"><u>2024 Approved Immediate Halt of Auto-Recording on QT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-revolution-how-red-hat-enhances-system-admin-tasks-with-cutting-edge-intelligence-zdnet/"><u>AI Revolution: How Red Hat Enhances System Admin Tasks with Cutting-Edge Intelligence | ZDNet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-wireless-setup-cdw-version/"><u>Brother Wireless Setup: CDW Version</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/can-motorola-edgeplus-compete-with-top-smartphone-contenders-a-detailed-review/"><u>Can Motorola Edge+ Compete with Top Smartphone Contenders? A Detailed Review</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/vering-where-youtube-video-management-happens/"><u>Discovering Where YouTube Video Management Happens</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevating-developer-proficiency-through-github-copilot-the-synergy-of-productivity-and-patience-in-tech-innovation-zdnet/"><u>Elevating Developer Proficiency Through GitHub Copilot: The Synergy of Productivity and Patience in Tech Innovation | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-the-best-2022-mind-mapping-solutions-and-software-as-ranked-by-zdnet-experts/"><u>Explore the Best 2022 Mind Mapping Solutions and Software as Ranked by ZDNet Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-safely-set-up-your-own-windows-recovery-disk-using-easy-4-step-guide-techinsights/"><u>How to Safely Set Up Your Own Windows Recovery Disk Using Easy 4-Step Guide | TechInsights</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/master-your-zebra-zp450-printer-free-downloads-and-updates-with-easy-instructions/"><u>Master Your Zebra ZP450 Printer - Free Downloads and Updates with Easy Instructions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionary-techniques-for-producing-ai-artwork-using-dall-e-and-chatgpt-4/"><u>Revolutionary Techniques for Producing AI Artwork Using DALL-E & ChatGPT-4</u></a></li>
-<li><a href="https://app-tips.techidaily.com/supercharge-your-microsoft-edge-top-pick-browser-extensions-featured-on-zdnet/"><u>Supercharge Your Microsoft Edge: Top Pick Browser Extensions Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-end-of-an-era-is-microsofts-no-cost-windows-11-enhancement-plan-over-digital-insights/"><u>The End of an Era: Is Microsoft's No-Cost Windows 11 Enhancement Plan Over? | Digital Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-cash-app-and-square-downtime-essential-info-for-smbs-insights-from-zdnet/"><u>Understanding the Cash App & Square Downtime: Essential Info for SMBs - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unmatched-longevity-suse-extends-19-year-support-on-latest-distributions-a-standout-in-the-linux-world-techinsights/"><u>Unmatched Longevity: SUSE Extends 19-Year Support on Latest Distributions - A Standout in the Linux World | TechInsights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/whats-next-for-your-windows-11-device-as-mainstream-support-winds-down-exploring-5-essential-alternatives-insights-from-zdnet/"><u>What's Next for Your Windows 11 Device as Mainstream Support Winds Down: Exploring 5 Essential Alternatives - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-break-the-ice-how-to-make-a-hit-youtube-reaction-in-just-15-minutes-or-less/"><u>[New] 2024 Approved Break the Ice - How to Make a Hit YouTube Reaction in Just 15 Minutes or Less</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-identifying-and-understanding-touchless-technologies/"><u>[New] In 2024, Identifying and Understanding Touchless Technologies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-securely-capturing-and-storing-itunes-media-content/"><u>[Updated] 2024 Approved Securely Capturing and Storing iTunes Media Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unlocking-instagram-memories-with-these-apps/"><u>[Updated] 2024 Approved Unlocking Instagram Memories with These Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cooking-chronicles-video-production-insights/"><u>[Updated] In 2024, Cooking Chronicles Video Production Insights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726028114902-mp4/"><u>大容量メディアを効率的にMP4形式へ:オンラインツールとオフライン方法</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-steps-to-transition-from-windows-to-linux-mint-for-optimized-performance-cnet/"><u>Complete Steps to Transition From Windows to Linux Mint for Optimized Performance | C|Net</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolution-of-dev-responsibilities-as-seen-by-agnes-ro-of-atlassian-expert-analysis-on-zdnet/"><u>Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-codenotarys-sbom-solution-a-revolution-in-managing-dependencies-on-kubernetes-insights-from-zdnet/"><u>Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-shift-to-cloud-infrastructure-amidst-an-era-of-persistent-on-premises-systems-insights-from-zdnet/"><u>Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/organizing-chaos-streamlining-linux-and-open-source-docs-solutions-from-zdnet/"><u>Organizing Chaos: Streamlining Linux & Open Source Docs - Solutions From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/power-packed-film-titles-for-inner-growth-and-strength/"><u>Power-Packed Film Titles for Inner Growth & Strength</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-updating-logitech-c92-webcam-software-for-windows-users/"><u>Step-by-Step Guide to Updating Logitech C92# Webcam Software for Windows Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-impending-crisis-for-microsofts-windows-10-a-race-against-time-reviewed-by-zdnet/"><u>The Impending Crisis for Microsoft's Windows 10: A Race Against Time Reviewed by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-selecting-a-quality-projector-what-you-need-to-know/"><u>The Ultimate Guide to Selecting a Quality Projector – What You Need to Know</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-leading-antivirus-programs-according-to-zdnet/"><u>Ultimate List: Leading Antivirus Programs , According to ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-short-window-of-success-in-ai-implementations-lessons-from-a-zdnet-perspective/"><u>Understanding the Short Window of Success in AI Implementations - Lessons From a ZDNet Perspective</u></a></li>
 </ul></div>
 

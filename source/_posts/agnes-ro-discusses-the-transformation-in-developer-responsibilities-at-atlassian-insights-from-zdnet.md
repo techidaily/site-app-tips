@@ -1,7 +1,7 @@
 ---
 title: Agnes Ro Discusses the Transformation in Developer Responsibilities at Atlassian - Insights From ZDNet
-date: 2024-12-30T21:48:05.769Z
-updated: 2025-01-03T01:39:48.611Z
+date: 2025-01-05T05:45:54.190Z
+updated: 2025-01-10T02:15:08.955Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-unraveling-the-secrets-to-dynamic-youtube-trailers-in-filmora/"><u>[New] 2024 Approved Unraveling the Secrets to Dynamic YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/reative-command-center-studio-for-youtubers/"><u>[New] Creative Command Center Studio for YouTubers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-seamless-upload-routine-from-imovie-to-youtube-video-sharing/"><u>[Updated] 2024 Approved Seamless Upload Routine From iMovie to YouTube Video Sharing</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-essential-guide-top-10-free-youtube-to-mp3-tools/"><u>[Updated] Essential Guide Top 10 Free YouTube-to-MP3 Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advancing-developer-productivity-and-endurance-with-github-copilot-a-zdnet-insight/"><u>Advancing Developer Productivity & Endurance with GitHub Copilot - A ZDNet Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-evolution-of-developer-roles-insights-from-atlassians-agnes-ro-featured-in-zdnet/"><u>Exploring the Evolution of Developer Roles: Insights From Atlassian’s Agnes Ro – Featured in ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-guide-to-editing-youtube-videos-seamlessly-in-imovie/"><u>In 2024, The Essential Guide to Editing YouTube Videos Seamlessly in iMovie</u></a></li>
-<li><a href="https://app-tips.techidaily.com/is-the-free-windows-10-update-still-available-detailed-insights-from-zdnet/"><u>Is the Free Windows 10 Update Still Available? Detailed Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-cloud-native-futures-unveiling-skillsets-and-enhanced-security-in-emerging-platforms-insights-from-zdnet/"><u>Navigating Cloud-Native Futures: Unveiling Skillsets & Enhanced Security in Emerging Platforms - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-ops-integration-and-its-complexities-within-enterprise-it-environments-as-analyzed-by-zdnet/"><u>Navigating Ops Integration and Its Complexities Within Enterprise IT Environments, as Analyzed by ZDNet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-maze-of-srt-to-xml-ssa-ttml-conversions-for-2024/"><u>Navigating the Maze of SRT-to-XML, SSA, TTML Conversions for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/navigating-the-world-of-social-networking-facebook-basics/"><u>Navigating the World of Social Networking Facebook Basics</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-your-path-in-technology-insights-from-industry-leaders-at-global-aerospace-giant/"><u>Navigating Your Path in Technology: Insights From Industry Leaders at Global Aerospace Giant</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-converting-your-computer-from-windows-to-linux-mint-for-beginners/"><u>Step-by-Step Tutorial: Converting Your Computer From Windows to Linux Mint for Beginners</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-leading-titans-of-social-media-interaction-facebook-twitter-instagram-and-youtube/"><u>The Leading Titans of Social Media Interaction: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transferring-iphone-pictures-seamlessly-onto-a-windows-machine-complete-tutorial/"><u>Transferring iPhone Pictures Seamlessly Onto a Windows Machine - Complete Tutorial</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-score-a-stellar-discounted-samsung-tv-this-labor-day-insider-review-on-zdnet/"><u>Unbeatable Deal: Score a Stellar Discounted Samsung TV This Labor Day - Insider Review on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-artificer-adobes-revolutionary-ai-tool-for-enhancing-business-teams-explained-by-zdnet/"><u>Unleashing the Power of Artificer: Adobe's Revolutionary AI Tool for Enhancing Business Teams, Explained by ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-holdscreen-rapid-snapshot-manual/"><u>[New] 2024 Approved HoldScreen Rapid Snapshot Manual</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-expedite-your-experience-quick-iphone-time-lapse/"><u>[New] In 2024, Expedite Your Experience Quick iPhone Time-Lapse</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-best-5-youtube-video-editor-alternatives/"><u>[Updated] In 2024, Best 5 YouTube Video Editor Alternatives</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-creativity-top-10-yt-reaction-hacks/"><u>[Updated] Mastering Creativity Top 10 YT Reaction Hacks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screen-recording-on-macos-ahead-with-bandicam-or-camtasia-for-2024/"><u>[Updated] Screen Recording on MacOS Ahead with Bandicam or Camtasia for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-the-top-ten-of-youtubes-most-engrossing-vr-videos/"><u>2024 Approved Exploring the Top Ten of YouTube’s Most Engrossing VR Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/achieving-a-competitive-edge-in-business-with-effective-devops-strategies-and-mitigating-risks-through-best-practices-zdnet-insights/"><u>Achieving a Competitive Edge in Business with Effective DevOps Strategies & Mitigating Risks Through Best Practices | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-combining-excel-cells-tips-and-tricks-from-zdnet/"><u>Complete Guide to Combining Excel Cells: Tips & Tricks From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/critical-hurdles-ahead-microsofts-race-against-time-to-fix-windows-11-issues-insights-from-zdnet/"><u>Critical Hurdles Ahead: Microsoft's Race Against Time to Fix Windows 11 Issues - Insights From ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/digital-transit-how-to-route-files-to-your-computer/"><u>Digital Transit How to Route Files to Your Computer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exclusive-offer-acquire-professional-level-ashampoo-3d-cad-v11-for-only-40-from-zdnet-right-now/"><u>Exclusive Offer: Acquire Professional Level Ashampoo 3D CAD v11 for Only $40 From ZDNet Right Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/expert-video-production-the-craft-of-metehan-kanmaz-using-movavi-tools/"><u>Expert Video Production: The Craft of Metehan Kanmaz Using Movavi Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/juniper-networks-expands-security-offerings-with-new-cloud-based-firewall-feature-in-unified-secure-access-service-sezn-architecture/"><u>Juniper Networks Expands Security Offerings with New Cloud-Based Firewall Feature in Unified Secure Access Service (SEZN) Architecture</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-latest-in-development-careers-most-demanded-programming-languages-and-predictions-for-upcoming-skills-powered-by-zdnet/"><u>The Latest in Development Careers: Most Demanded Programming Languages and Predictions for Upcoming Skills | Powered by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-web-browsers-of-today-analysis-by-zdnet/"><u>Top Web Browsers of Today - Analysis by ZDNet</u></a></li>
 </ul></div>
 

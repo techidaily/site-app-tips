@@ -1,7 +1,7 @@
 ---
 title: "Ultimate List: Leading Antivirus Programs , According to ZDNet"
-date: 2024-12-28T07:14:13.040Z
-updated: 2025-01-03T08:54:00.937Z
+date: 2025-01-04T19:51:21.467Z
+updated: 2025-01-09T17:34:37.918Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-master-non-youtube-editors-the-top-5-list-you-need/"><u>[New] Master Non-Youtube Editors The Top 5 List You Need</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-social-network-synergy-enhancing-story-sharing/"><u>[New] Social Network Synergy Enhancing Story Sharing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-beat-cutting-editing-music-videos-on-ios/"><u>[Updated] Beat Cutting Editing Music Videos on iOS</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitter-video-downloader-how-to-download-twitter-videos-to-iphone/"><u>[Updated] In 2024, Twitter Video Downloader How to Download Twitter Videos to iPhone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-effective-use-of-adsense-on-youtube-to-boost-channel-income/"><u>2024 Approved Effective Use of AdSense on YouTube to Boost Channel Income</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-21-zedge-mobile-applications-premium-sounds-and-images-for-android-and-ios-devices/"><u>Best 21 Zedge Mobile Applications: Premium Sounds and Images for Android and iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/colorcorrect-pro-unveiling-the-premier-ios-app-for-professional-quality-video-edits/"><u>ColorCorrect Pro: Unveiling the Premier iOS App for Professional-Quality Video Edits</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/connect-with-italians-top-10-friendly-and-formal-salutations/"><u>Connect with Italians: Top 10 Friendly and Formal Salutations</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-a60s-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel A60s Location by Number | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/laugh-out-loud-portraits-top-12-witty-face-photo-effects-for-both-android-and-iphone/"><u>Laugh Out Loud Portraits: Top 12 Witty Face Photo Effects for Both Android & iPhone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/phantom-pitches-is-this-magical-talker-an-illusion-or-reality-explore-more-options/"><u>Phantom Pitches Is This Magical Talker an Illusion or Reality? Explore More Options</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-not-delivered-messages-on-iphone-a-step-by-step-guide/"><u>Resolving 'Not Delivered' Messages on iPhone - A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-best-free-messaging-apps-on-android-a-comprehensive-top-10-list/"><u>The Best Free Messaging Apps on Android: A Comprehensive Top 10 List</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-youtube-seo-toolkit-boosting-your-content-rankings-for-2024/"><u>The Ultimate YouTube SEO Toolkit Boosting Your Content Rankings for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-iphone-security-software-simplify-your-login-process-with-our-best-recommended-password-manager/"><u>Top-Rated iPhone Security Software: Simplify Your Login Process with Our Best Recommended Password Manager</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193804-transform-your-clips-with-this-exceptional-android-video-editing-software/"><u>Transform Your Clips with This Exceptional Android Video Editing Software!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192562-transform-your-ebook-with-confidence-the-ultimate-7-step-process-for-converting-epub-to-txt-now-working-flawlessly/"><u>Transform Your eBook with Confidence: The Ultimate 7-Step Process for Converting ePub to TXT - Now Working Flawlessly!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-top-5-must-have-gif-creators-for-android-devices/"><u>Ultimate Guide: Top 5 Must-Have GIF Creators for Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620189209-why-everyone-needs-to-try-the-newly-updated-factual-inshot-editor-unleash-your-creativity/"><u>Why Everyone Needs to Try the Newly Updated Factual InShot Editor - Unleash Your Creativity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>[New] In 2024, Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-pewdiepie-revenue-analysis-overview/"><u>[New] PewDiePie Revenue Analysis Overview</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-become-a-freelance-transcriber-tips-and-tricks-for-youtube-content/"><u>[Updated] 2024 Approved Become a Freelance Transcriber Tips and Tricks for YouTube Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-innovating-in-the-snapchat-space-trendsetting-ad-design-principles/"><u>[Updated] Innovating in the Snapchat Space Trendsetting Ad Design Principles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-streamlined-approach-to-iphone-screen-recording-for-2024/"><u>[Updated] Streamlined Approach to iPhone Screen Recording for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-c-suite-digital-literacy-a-guide-to-tech-education-in-six-steps-zdnet/"><u>Advancing C-Suite Digital Literacy: A Guide to Tech Education in Six Steps | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-dominates-the-surge-in-non-cash-payments-expected-to-reach-16-trillion-zdnet-insights/"><u>Asia Dominates the Surge in Non-Cash Payments Expected to Reach $1.6 Trillion | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-common-false-beliefs-in-monetizing-data-assets-the-zdnet-perspective/"><u>Debunking Common False Beliefs in Monetizing Data Assets - The ZDNet Perspective</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-challenges-in-ai-for-profitable-ventures-expert-tips-by-zdnet/"><u>Navigating Challenges in AI for Profitable Ventures | Expert Tips by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-uncertainties-of-ai-outputs-and-reliability-in-modern-tech-challenges/"><u>Navigating the Uncertainties of AI Outputs & Reliability in Modern Tech Challenges</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/save-on-oculus-quest-2-vr-kits-enjoy-a-50-discount-now-on-amazon/"><u>Save on Oculus Quest 2 VR Kits - Enjoy a $50 Discount Now on Amazon!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-balance-between-ai-advancements-and-job-expansion-within-the-cybersecurity-sector-insights-from-zdnet/"><u>The Balance Between AI Advancements and Job Expansion Within the Cybersecurity Sector: Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncover-simple-techniques-swiftly-moving-your-data-from-macbook-insights-and-tips-from-zdnet/"><u>Uncover Simple Techniques: Swiftly Moving Your Data From MacBook - Insights and Tips From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-you-shouldnt-download-google-bard-possible-threats-explained/"><u>Why You Shouldn't Download Google Bard – Possible Threats Explained</u></a></li>
 </ul></div>
 

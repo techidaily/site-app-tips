@@ -1,7 +1,7 @@
 ---
 title: "Celona Secures $60M in Series C Funding, Drives Enterprise 5G Revolution: What You Need to Know"
-date: 2024-12-27T19:49:04.611Z
-updated: 2025-01-03T08:55:00.306Z
+date: 2025-01-06T02:07:20.284Z
+updated: 2025-01-09T17:09:27.132Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-editors-dream-machine-top-portable-video-edits-tools-for-2024/"><u>[New] Editor's Dream Machine Top Portable Video Edits Tools for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-lead-the-way-in-streaming-your-guide-to-youtubes-full-sphere-video-trends/"><u>2024 Approved Lead the Way in Streaming Your Guide to YouTube's Full-Sphere Video Trends</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-crafting-impressive-android-time-lapses-2enas/"><u>2024 Approved The Ultimate Guide to Crafting Impressive Android Time-Lapses (2Enas)</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a2-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-android-projector-applications-top-8-picks-for-seamless-wireless-connection/"><u>Best Android Projector Applications: Top 8 Picks for Seamless Wireless Connection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-pinnacle-studio-benefits-drawbacks-and-best-alternatives-explored/"><u>Comprehensive Review of Pinnacle Studio: Benefits, Drawbacks & Best Alternatives Explored</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-12-effortless-typing-solutions-on-ios-and-android-the-ultimate-keyboard-app-selection/"><u>Discover the Top 12 Effortless Typing Solutions on iOS & Android: The Ultimate Keyboard App Selection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193990-experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/orderly-enjoyment-of-dragon-ball-saga-a-viewers-roadmap/"><u>Orderly Enjoyment of Dragon Ball Saga - A Viewer's Roadmap</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pinpointing-key-versions-of-microsofts-movie-maker-for-2024/"><u>Pinpointing Key Versions of Microsoft's Movie Maker for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-guide-to-effective-screen-recording-with-tunefab/"><u>The Ultimate Guide to Effective Screen Recording with Tunefab</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-8-must-have-multi-window-programs-for-android-phones-and-tablets/"><u>The Ultimate List of 8 Must-Have Multi-Window Programs for Android Phones & Tablets</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-vita-your-ultimate-guide-to-mastering-the-cutting-edge-video-editor/"><u>Unveiling the Power of VITA: Your Ultimate Guide to Mastering the Cutting-Edge Video Editor</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-understanding-why-your-shorts-thumbnails-dont-show-up/"><u>[New] 2024 Approved Understanding Why Your Shorts' Thumbnails Don't Show Up</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-in-pursuit-of-quality-a-deep-dive-into-sonys-x1000v/"><u>[New] In 2024, In Pursuit of Quality A Deep Dive Into Sony's X1000V</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/access-the-latest-ios-181-developer-preview-unveiling-apples-ai-capabilities-and-steps-for-participation/"><u>Access the Latest iOS 18.1 Developer Preview: Unveiling Apples AI Capabilities & Steps for Participation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-revolution-in-business-understanding-the-shift-to-hundreds-of-models-for-operational-excellence-perspectives-by-zdnet/"><u>AI Revolution in Business: Understanding the Shift to Hundreds of Models for Operational Excellence - Perspectives by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-at-forefront-non-cash-payments-projected-to-reach-16-trillion/"><u>Asia at Forefront: Non-Cash Payments Projected to Reach $1.6 Trillion</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cio-warns-against-complacency-in-ai-development-advocates-for-innovative-thinkers-over-simplistic-ai-prompts-insights-from-zdnet/"><u>CIO Warns Against Complacency in AI Development; Advocates for Innovative Thinkers over Simplistic AI Prompts - Insights From ZDNet</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y78plus-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo Y78+</u></a></li>
+<li><a href="https://app-tips.techidaily.com/open-source-as-a-magnet-for-elite-creativity-and-innovation-zdnet/"><u>Open Source as a Magnet for Elite Creativity and Innovation | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-this-device-is-not-present-error-fixes-for-wsten-windows-10/"><u>Resolving the 'This Device Is Not Present' Error: Fixes for WS_TEN, WINDOWS 10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-misconception-among-smbs-about-not-needing-cyber-insurance-despite-potential-risks-perspectives-by-zdnet/"><u>The Misconception Among SMBs About Not Needing Cyber Insurance Despite Potential Risks - Perspectives by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-touchscreen-laptop-picks-in-depth-reviews-and-comparison-techradar/"><u>Top-Rated Touchscreen Laptop Picks: In-Depth Reviews & Comparison | TechRadar</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-issues-with-pathfinder-wrath-of-the-righteous-pre-launch-problems/"><u>Troubleshooting Guide: Resolving Issues with Pathfinder: Wrath of the Righteous - Pre-Launch Problems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-the-importance-of-addressing-legacy-technology-lessons-from-a-failed-system-upgrade/"><u>Understanding the Importance of Addressing Legacy Technology: Lessons From a Failed System Upgrade</u></a></li>
 </ul></div>
 

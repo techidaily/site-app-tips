@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Building an Excel Drop-Down Menu Swiftly & Simply - Tips From ZDNet"
-date: 2024-12-28T17:28:24.700Z
-updated: 2025-01-02T21:46:03.601Z
+date: 2025-01-05T02:08:24.274Z
+updated: 2025-01-10T00:22:38.066Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-professional-streaming-boost-unveiling-best-9-live-stream-filters/"><u>[New] Professional Streaming Boost Unveiling Best 9 Live-Stream Filters</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-best-free-facetime-for-android-alternatives-for-2024/"><u>[New] Top 10 Best Free FaceTime for Android Alternatives for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-high-quality-banners-free-for-content-developers/"><u>[Updated] In 2024, Harness High-Quality Banners – Free for Content Developers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-telegram-for-novices-an-easy-path-to-effective-advertising/"><u>[Updated] In 2024, Telegram for Novices An Easy Path to Effective Advertising</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-funimate-tips-and-tricks-for-professional-video-editing-and-animation/"><u>Comprehensive Guide to Using Funimate: Tips and Tricks for Professional Video Editing and Animation</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortlessly-resolve-freezes-discover-5-steps-to-force-quit-unresponsive-programs-on-your-mac/"><u>Effortlessly Resolve Freezes: Discover 5 Steps to Force Quit Unresponsive Programs on Your Mac</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-for-diablo-3-continuously-freezing-and-restarting-issues/"><u>Fixes for 'Diablo 3 Continuously Freezing and Restarting' Issues</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/670802-9781846947308-healing-this-wounded-earth/"><u>Healing This Wounded Earth | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-get-your-phone-numbers-back-the-best-iphone-apps-reviewed/"><u>How to Get Your Phone Numbers Back: The Best iPhone Apps Reviewed</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/optimizing-your-videos-before-transferring-them-onto-a-dvd-expert-tips-and-tricks/"><u>Optimizing Your Videos Before Transferring Them Onto a DVD - Expert Tips and Tricks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamless-communication-across-devices-magicapps-cross-platform-calls-and-texting/"><u>Seamless Communication Across Devices: MagicApp's Cross-Platform Calls and Texting</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-disconnecting-from-facebooks-chat-app/"><u>Step-by-Step Guide: Disconnecting From Facebook's Chat App</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-deep-dive-into-a-lone-review-of-3d-printing-in-3dr/"><u>[New] 2024 Approved Deep Dive Into a Lone Review of 3D Printing in '3DR'</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-capture-and-replay-top-four-strategies-for-gameplay-recording/"><u>[Updated] 2024 Approved Capture & Replay Top Four Strategies for Gameplay Recording</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-melding-melodies-with-memories-in-cyberspace-for-2024/"><u>[Updated] Melding Melodies with Memories in Cyberspace for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterful-podcast-descriptions-strategies-and-case-studies/"><u>2024 Approved Masterful Podcast Descriptions Strategies and Case Studies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/attracting-global-tech-pioneers-the-power-of-open-source-zdnet/"><u>Attracting Global Tech Pioneers: The Power of Open Source | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-knowledge-chasm-in-artifice-intelligence-through-robust-data-management-tips-and-techniques/"><u>Bridging the Knowledge Chasm in Artifice Intelligence Through Robust Data Management - Tips and Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-ai-innovation-challenge-expansion-in-the-cybersecurity-workforce-exploring-perspectives-with-zdnet/"><u>Can AI Innovation Challenge Expansion in the Cybersecurity Workforce? Exploring Perspectives with ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-team-synergy-how-ai-fuels-partnership-of-developers-and-business-stakeholders/"><u>Enhancing Team Synergy: How AI Fuels Partnership of Developers & Business Stakeholders</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-boosting-your-browser-lightning-speed-profile-hunts/"><u>In 2024, Boosting Your Browser Lightning Speed Profile Hunts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/join-the-social-scene-facebook-live-streams-on-roku-tv/"><u>Join The Social Scene Facebook Live Streams on Roku TV</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-honor-magic-vs-2-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Honor Magic Vs 2 Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

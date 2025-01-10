@@ -1,7 +1,7 @@
 ---
 title: "OpenStack and Kata Container Renaissance: Exploring Their Renewed Appeal on the Tech Scene - Analysis by ZDNET"
-date: 2024-12-30T17:34:25.762Z
-updated: 2025-01-03T11:24:16.486Z
+date: 2025-01-07T20:09:52.094Z
+updated: 2025-01-10T03:24:10.875Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,16 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-efficient-keyword-utilization-discover-the-best-7-online-video-tag-extractors-reviewed/"><u>[New] 2024 Approved Efficient Keyword Utilization Discover the Best 7 Online Video Tag Extractors Reviewed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-quick-and-easy-instructions-for-launching-skype-group-conversations-on-both-windows-and-macos/"><u>[New] In 2024, Quick and Easy Instructions for Launching Skype Group Conversations on Both Windows & MacOS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-pro-level-comparison-2022s-gopro-hero5-and-virb-streamers-for-2024/"><u>[Updated] Pro-Level Comparison 2022'S GoPro Hero5 & VIRB Streamers for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-amusing-tones-bestringeonsite-roundup/"><u>2024 Approved Amusing Tones Bestringeonsite Roundup</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/choosing-the-top-10-affordable-image-converters-online-for-2024/"><u>Choosing the Top 10 Affordable Image Converters Online for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/harnessing-the-power-of-full-stack-ai-conversations-with-your-enterprises-leading-tech-guru-zdnet-insights/"><u>Harnessing the Power of Full-Stack AI: Conversations with Your Enterprise's Leading Tech Guru | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-rapid-expansion-in-tech-fuels-employee-burnout-strategies-for-change/"><u>How Rapid Expansion in Tech Fuels Employee Burnout - Strategies for Change</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/konica-minolta-print-driver-downloads-compatible-with-windows-11-10-8-and-7/"><u>Konica Minolta Print Driver Downloads: Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-new-frontier-the-rise-of-specialized-ai-oversight-positions-for-next-gen-software-teams-zdnet/"><u>Navigating the New Frontier: The Rise of Specialized AI Oversight Positions for Next-Gen Software Teams | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/pushing-boundaries-the-rise-of-lowno-code-platforms-and-their-impact-on-traditional-it-support/"><u>Pushing Boundaries: The Rise of Low/No-Code Platforms & Their Impact on Traditional IT Support</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-how-to-produce-eye-catching-and-informative-videos-for-education-channels-for-2024/"><u>[Updated] How to Produce Eye-Catching and Informative Videos for Education Channels for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-c67-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme C67 5G PC | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ais-impact-on-the-future-of-cybersecurity-employment-opportunities-zdnet/"><u>AI's Impact on the Future of Cybersecurity Employment Opportunities | ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/captivate-with-time-lapse-artistry-on-samsung-phones/"><u>Captivate with Time-Lapse Artistry on Samsung Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experts-rank-the-top-web-hosting-services-for-202ebyzdnet-find-your-perfect-match/"><u>Experts Rank the Top Web Hosting Services for 202Eby|ZDNET - Find Your Perfect Match!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-make-a-discord-video-call-desktop-and-mobile/"><u>How to Make a Discord Video Call | Desktop & Mobile</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-iphone-6windowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your iPhone 6/Windows/Mac</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209522203-9781446357804-science-and-the-paranormal/"><u>Science and the Paranormal | Free Book</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/simple-guide-how-to-seamlessly-move-images-from-your-iphone-onto-a-usb-drive/"><u>Simple Guide: How to Seamlessly Move Images From Your iPhone Onto a USB Drive</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapore-invests-s24-billion-in-enhancing-ict-infrastructure-and-digital-service-offerings-technews/"><u>Singapore Invests S$2.4 Billion in Enhancing ICT Infrastructure & Digital Service Offerings | TechNews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-work-unpacking-edge-technologys-impact-on-professional-advancement-with-zdnet/"><u>The Future of Work: Unpacking Edge Technology's Impact on Professional Advancement with ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-paradox-of-productivity-is-generative-ai-causing-extra-jobs-according-to-zdnet/"><u>The Paradox of Productivity: Is Generative AI Causing Extra Jobs, According to ZDNet?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-your-company-depends-on-numerous-ai-systems-insights-from-zdnet/"><u>Why Your Company Depends on Numerous AI Systems - Insights From ZDNet</u></a></li>
 </ul></div>
 

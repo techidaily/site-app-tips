@@ -1,7 +1,7 @@
 ---
 title: "Decoding ServiceNow’s Core AI Tenets: Essential Strategies That Propel Corporate Innovation | ZDNET"
-date: 2025-01-01T11:17:16.655Z
-updated: 2025-01-03T02:28:59.831Z
+date: 2025-01-04T19:18:28.349Z
+updated: 2025-01-10T04:35:59.540Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,15 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-online-partnerships-crafting-brand-joint-ventures-on-youtube/"><u>[New] 2024 Approved Online Partnerships Crafting Brand Joint Ventures on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-insights-for-integrating-hashtags-into-game-focused-yt-content/"><u>[Updated] In 2024, Essential Insights for Integrating Hashtags Into Game-Focused YT Content</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-lightened-screen-entry/"><u>2024 Approved Lightened Screen Entry</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-systems-compromised-by-software-glitches-pose-same-dangers-as-ransomware-attacks-insights-on-zdnet/"><u>Critical Systems Compromised by Software Glitches Pose Same Dangers as Ransomware Attacks - Insights on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-new-capabilities-unveiled-with-the-latest-version-of-windows-11-zdnet-insights/"><u>Exploring the New Capabilities Unveiled with the Latest Version of Windows 11 | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/github-versus-gitlab-showdown-determining-the-best-fit-for-your-dev-needs-insights-from-zdnet/"><u>GitHub versus GitLab Showdown: Determining the Best Fit for Your Dev Needs, Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-safely-exporting-conversations-from-chatgpt/"><u>Step-by-Step Guide: Safely Exporting Conversations From ChatGPT</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-11-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 11 Pro Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-limitations-of-ai-in-programming-insights-from-zdnet/"><u>Understanding the Limitations of AI in Programming - Insights From ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-k70-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi K70 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-initiate-interactive-storytelling-with-windows-11s-movie-maker/"><u>[New] 2024 Approved Initiate Interactive Storytelling with Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-voice-over-recording-for-videos/"><u>[New] 2024 Approved Mastering Voice-Over Recording for Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-messenger-maestros-guide-to-capturing-social-media-videos/"><u>[New] The Messenger Maestro's Guide to Capturing Social Media Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channeling-success-the-personal-brand-strategy-for-youtubers/"><u>[Updated] 2024 Approved Channeling Success The Personal Brand Strategy for YouTubers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-expertly-curated-list-of-top-9-virtual-mic-recorder-systems-23/"><u>[Updated] In 2024, Expertly Curated List of Top 9 Virtual Mic Recorder Systems ('23)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-large-scale-industries-how-anthropics-revolutionary-claude-plan-transforms-business-ai-capabilities-featured-on-zdnet/"><u>Empowering Large-Scale Industries: How Anthropic's Revolutionary Claude Plan Transforms Business AI Capabilities | Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-development-work-is-changing-a-conversation-with-atlassians-agnes-ro-as-spotted-on-zdnet/"><u>How Development Work Is Changing: A Conversation with Atlassian's Agnes Ro, as Spotted on ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-design-thinking-for-closer-alignment-of-it-experts-with-user-centric-solutions-a-zdnet-perspective/"><u>Leveraging Design Thinking for Closer Alignment of IT Experts with User-Centric Solutions: A ZDNet Perspective</u></a></li>
+<li><a href="https://app-tips.techidaily.com/pioneering-beyond-standard-llms-in-artificial-intelligence-development-insights-from-an-ai-scientist-at-zdnet/"><u>Pioneering Beyond Standard LLMs in Artificial Intelligence Development | Insights From an AI Scientist at ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210926309-9781903353363-the-family-legacy/"><u>The Family Legacy | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-complexity-streamlining-linux-and-community-guides-for-effortless-understanding/"><u>Unraveling Complexity: Streamlining Linux & Community Guides for Effortless Understanding</u></a></li>
 </ul></div>
 

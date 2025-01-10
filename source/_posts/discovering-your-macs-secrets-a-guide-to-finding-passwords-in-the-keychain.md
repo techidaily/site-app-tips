@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Mac's Secrets: A Guide to Finding Passwords in the Keychain"
-date: 2024-12-26T20:42:27.223Z
-updated: 2025-01-03T07:31:46.678Z
+date: 2025-01-05T17:06:37.897Z
+updated: 2025-01-09T20:39:10.481Z
 tags:
   - password-manager
 categories:
@@ -14,16 +14,12 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 I will start this out by reminding everyone that you should be using a password manager to store and protect all of your passwords. We've reached a point where password managers should be considered an absolute must to help with privacy and security.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
 
@@ -34,7 +30,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -48,7 +44,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -65,6 +61,10 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -74,7 +74,7 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -108,24 +108,19 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-talkative-transformations-infusing-your-stories-with-motion/"><u>[New] Talkative Transformations Infusing Your Stories with Motion</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-workplace-productivity-with-these-4-free-slack-replacements-embrace-opensource-collaborative-tools-as-featured-by-zdnet/"><u>Boost Your Workplace Productivity with These 4 Free Slack Replacements: Embrace Opensource Collaborative Tools, as Featured by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-mfc7360n-drivers-download-and-update-in-windows-1187-easily/"><u>Brother MFC7360N Drivers Download & Update in Windows 11/8/7 EASILY!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/convert-your-youtube-content-to-60fps-mp4-a-comprehensive-guide-without-costs/"><u>Convert Your YouTube Content to 60Fps MP4: A Comprehensive Guide Without Costs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-downsides-of-artifice-intelligence-in-code-creation-with-zdnets-analysis/"><u>Exploring the Downsides of Artifice Intelligence in Code Creation with ZDNet's Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/finding-order-in-the-disarray-of-linuxopen-source-manuals-the-ultimate-fix/"><u>Finding Order in the Disarray of Linux/Open Source Manuals - The Ultimate Fix!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-8-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 8 without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-8-plus-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leveraging-anonymity-the-underestimated-edge-in-managing-todays-digital-workforce-zdnet/"><u>Leveraging Anonymity: The Underestimated Edge in Managing Today's Digital Workforce | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-order-in-the-world-of-linuxopen-source-resources-strategies-for-clarity-and-efficiency/"><u>Mastering Order in the World of Linux/Open Source Resources: Strategies for Clarity and Efficiency</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mimo-systems-leverage-antenna-arrays-to-multiply-the-capacity-of-wireless-channels-by-transmitting-different-data-streams-over-multiple-spatial-paths-simult77/"><u>MIMO Systems Leverage Antenna Arrays to Multiply the Capacity of Wireless Channels by Transmitting Different Data Streams over Multiple Spatial Paths Simultaneously.</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-new-era-of-filesystems-windows-11s-innovations/"><u>Navigating the New Era of Filesystems: Windows 11'S Innovations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rising-expenses-in-gen-ai-education-risk-assessment-lags-behind-according-to-recent-stanford-study-insights-on-cost-and-safety/"><u>Rising Expenses in Gen AI Education: Risk Assessment Lags Behind According to Recent Stanford Study - Insights on Cost & Safety</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/schritt-fur-schritt-anleitung-zum-wiederaufbau-versehentlich-geloschter-ordner-unter-windows-10-nutzerverzeichnisse/"><u>Schritt-Für-Schritt-Anleitung Zum Wiederaufbau Versehentlich Gelöschter Ordner Unter Windows 10 Nutzerverzeichnisse</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solution/"><u>Solution</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-upgrading-your-videos-to-high-definition-or-4k-resolution-on-pcs-and-apple-devices/"><u>Step-by-Step Guide: Upgrading Your Videos to High Definition or 4K Resolution on PCs and Apple Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-covid-19-immunization-control-systems-a-comprehensive-guide-by-zdnet/"><u>Top Rated COVID-19 Immunization Control Systems: A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-favicons-in-web-design-and-their-impact-on-seo-strategies-a-comprehensive-guide/"><u>Understanding Favicons in Web Design & Their Impact on SEO Strategies - A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-in-depth-analysis-of-apple-airpods-pro-gen-3-enhanced-features-and-performance/"><u>ZDNet's In-Depth Analysis of Apple AirPods Pro (Gen 3): Enhanced Features & Performance</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-efficient-writing-techniques-for-impactful-ad-creation/"><u>[New] 2024 Approved Efficient Writing Techniques for Impactful Ad Creation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-obs-studio-vs-fraps-top-screen-capture-software-showdown/"><u>[New] In 2024, OBS Studio Vs Fraps Top Screen Capture Software Showdown</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-universal-techniques-for-streaming-to-disk-from-youtube/"><u>[New] In 2024, Universal Techniques for Streaming to Disk From YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-exploring-samsungs-photo-enhancing-tools/"><u>[Updated] 2024 Approved Exploring Samsung’s Photo Enhancing Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/before-its-too-late-discover-the-top-5-strategies-to-secure-your-windows-11-system-this-year-according-to-experts-at-zdnet/"><u>Before It's Too Late: Discover the Top 5 Strategies to Secure Your Windows 11 System This Year, According to Experts at ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-sunset-of-windows-11-5-essential-steps-to-take-as-microsoft-ends-support/"><u>Facing the Sunset of Windows 11: 5 Essential Steps to Take as Microsoft Ends Support</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/google-drive-dateien-wiederherstellen-die-als-endgultig-geloscht-markiert-sind-lernen-sie-hier-8-strategien-kennen/"><u>Google Drive-Dateien Wiederherstellen, Die Als Endgültig Gelöscht Markiert Sind - Lernen Sie Hier 8 Strategien Kennen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fluid-formats-and-finesse-the-leading-video-apps-in-big-sur-macos/"><u>In 2024, Fluid Formats and Finesse The Leading Video Apps in Big Sur macOS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-video-conversion-wizardry-from-youtube-to-igtv/"><u>In 2024, Video Conversion Wizardry From Youtube to IGTV</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/repaired-nightmare-overcome-the-security-breach-glitch-in-fnaf-on-pc/"><u>Repaired Nightmare: Overcome the 'Security Breach' Glitch in FNAF on PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-design-of-an-artificial-earth-plane-can-vary-depending-on-the-frequency-of-operation-at-lower-frequencies-a-larger-physical-area-may-be-needed-to-effect85/"><u>The Design of an Artificial Earth Plane Can Vary Depending on the Frequency of Operation; at Lower Frequencies, a Larger Physical Area May Be Needed to Effectively Reflect Radio Waves.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-role-of-citizen-developers-in-streamlining-corporate-tech-initiatives/"><u>The Rising Role of Citizen Developers in Streamlining Corporate Tech Initiatives</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-creativity-how-open-source-projects-draw-in-elite-innovators-insights-from-zdnet/"><u>Unlocking Creativity: How Open-Source Projects Draw in Elite Innovators - Insights From ZDNet</u></a></li>
 </ul></div>
 

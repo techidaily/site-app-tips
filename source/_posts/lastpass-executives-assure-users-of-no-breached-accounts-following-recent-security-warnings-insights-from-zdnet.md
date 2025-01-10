@@ -1,7 +1,7 @@
 ---
 title: "LastPass Executives Assure Users of No Breached Accounts Following Recent Security Warnings: Insights From ZDNet"
-date: 2025-01-01T22:24:01.262Z
-updated: 2025-01-02T17:24:58.710Z
+date: 2025-01-09T04:11:21.580Z
+updated: 2025-01-09T18:31:52.738Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/03aa98ead41db04bf63114eadc16ec748777a4353
 Two LastPass vice presidents have released statements about the situation surrounding LastPass security issues that came to light this week. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Two LastPass vice presidents have released statements about the situation surrou
 [![web-browsers.jpg](https://www.zdnet.com/a/img/resize/86d91f7746b92a734c6f4130024638d05fe70bc2/2021/04/22/8feb3e5c-47fc-4cea-be35-4460e9f080ef/web-browsers.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best browsers for privacy Most people use Google Chrome as their default browser. But privacy is another matter for the online ad giant.  Read now](https://www.zdnet.com/article/best-browser-for-privacy/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Two days ago, hundreds of LastPass users took to [Twitter](https://twitter.com/technology%5Fgreg/status/1475600580521381889), [Reddit](https://www.reddit.com/r/Lastpass/comments/rpy0uq/recent%5Fsuccessful%5Flogin%5Fattempts%5Ffrom%5Fodd%5Fips/), [and other sites](https://news.ycombinator.com/item?id=29705957) to complain that they were getting alerts about their master password being used by someone who was not them. [Some reported](https://twitter.com/shift%5Fplusone/status/1475959354742525956) that even after changing their master password, someone tried to access their account again. 
@@ -84,18 +84,16 @@ Parent company LogMeIn announced just two weeks ago that it is [spinning off Las
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-effortlessly-capture-and-archive-your-favorite-fb-story-moments/"><u>[Updated] 2024 Approved Effortlessly Capture and Archive Your Favorite FB Story Moments</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unparalleled-video-grabber-suite-your-download-delight/"><u>[Updated] Unparalleled Video Grabber Suite - Your Download Delight</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-strategy-for-unearthing-secret-youtube-videos/"><u>2024 Approved Step-by-Step Strategy for Unearthing Secret YouTube Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2024s-ultimate-guide-to-free-password-management-tools-professional-insights-and-ratings/"><u>2024'S Ultimate Guide to Free Password Management Tools: Professional Insights & Ratings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apples-siri-the-new-evolution-of-bing-with-ai-consider-this-the-future-insights-from-zdnet/"><u>Apple's Siri: The New Evolution of Bing with AI? Consider This the Future! - Insights From ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/back-to-networked-bliss-fixing-your-windowed-mc-disconnects/"><u>Back to Networked Bliss: Fixing Your Windowed MC Disconnects</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/chromebooks-premium-free-video-capture-extensions-for-2024/"><u>Chromebook's Premium Free Video Capture Extensions for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mutt-moments-bond-over-pets-games/"><u>Mutt Moments: Bond Over Pets' Games</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-digital-life-top-rated-vpn-and-password-manager-bundle-at-an-unbeatable-price-of-only-30-find-out-more-zdnet/"><u>Secure Your Digital Life: Top-Rated VPN & Password Manager Bundle at an Unbeatable Price of Only $30 - Find Out More [ZDNET]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-entire-staff-with-1password-unlock-ultimate-protection-for-only-1995-monthly-it-business-solutions/"><u>Securing Your Entire Staff with 1Password - Unlock Ultimate Protection for Only $19.95 Monthly | IT Business Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-macos-privacy-easy-steps-to-retrieve-stored-passwords-from-apples-keychain/"><u>Unlocking macOS Privacy: Easy Steps to Retrieve Stored Passwords From Apple’s Keychain</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unraveling-virtual-physical-coexistence-what-is-mixed-reality-in-2024/"><u>Unraveling Virtual-Physical Coexistence What Is Mixed Reality, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-zoom-inout-in-instagram-stories/"><u>[Updated] In 2024, How to Zoom In/Out in Instagram Stories</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-ten-historical-educational-video-streams-for-students/"><u>[Updated] In 2024, Top Ten Historical Educational Video Streams (For Students)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/10-best-ai-chatbot-tools-that-will-transform-how-you-communicate/"><u>10 Best AI Chatbot Tools That Will Transform How You Communicate</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevenlabs-generative-voice-ai-vs-competitors-an-informed-review/"><u>ElevenLabs Generative Voice AI Vs. Competitors: An Informed Review</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expanding-wi-fi-signal-strength-the-power-of-netgear-nighthawk-x6s-extender/"><u>Expanding Wi-Fi Signal Strength: The Power of Netgear Nighthawk X6S Extender</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-seamless-conversations-with-chat-gpt-expert-insights-and-review-on-the-leading-ai-bot-in-chat-technology/"><u>Experience Seamless Conversations with Chat GPT: Expert Insights and Review on the Leading AI Bot in Chat Technology</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-drivers-rollout-on-multiple-windows-versions/"><u>MF4770n Drivers Rollout on Multiple Windows Versions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/rapid-reference-green-screen-basics/"><u>Rapid Reference Green Screen Basics</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ackward-button-chronicles-youtubes-video-reversal/"><u>The Backward Button Chronicles YouTube's Video Reversal</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-most-superior-ai-conversational-agents-is-it-chatai-gdt-or-aibot/"><u>Unveiling the Most Superior AI Conversational Agents: Is It ChatAi GDT or AiBot?</u></a></li>
 </ul></div>
 

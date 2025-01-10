@@ -1,7 +1,7 @@
 ---
 title: Ditching LastPass? Master Managing Passwords with iCloud on Windows - A Complete Guide by ZDNet
-date: 2024-12-30T01:33:00.343Z
-updated: 2025-01-03T09:47:32.142Z
+date: 2025-01-06T20:57:48.988Z
+updated: 2025-01-09T16:14:33.367Z
 tags:
   - password-manager
 categories:
@@ -30,6 +30,10 @@ If you've been around for the past 10 or so years, you know that most services r
 **Also:** [**The 10 best Windows laptops, 2-in-1s, and ultraportables**](https://www.zdnet.com/article/best-windows-laptop/)
 
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to use iCloud as a password manager on Windows
 
@@ -64,7 +68,7 @@ Make sure Passwords is on and click **Apply**.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Add browser extension
@@ -78,7 +82,7 @@ Maria Diaz/ZDNET
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
@@ -97,10 +101,6 @@ Enter the verification code.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Try out the password manager
 
 After you set up iCloud for [Windows](https://www.zdnet.com/article/windows-11-22h2-how-to-get-microsofts-latest-os-update-and-whats-coming-next/) as a password manager and your browser extension, you can try it out by going to a website and trying to log in.
@@ -116,7 +116,7 @@ Like LastPass, the browser extension will let you fill in your login information
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do you get iCloud for Windows?  
@@ -124,7 +124,7 @@ Like LastPass, the browser extension will let you fill in your login information
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How do I set up iCloud Keychain? 
@@ -167,20 +167,18 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/-complete-guide-to-crafting-best-in-class-yt-thumbnails/"><u>[New] A Complete Guide to Crafting Best-in-Class YT Thumbnails</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-guides-on-creating-cost-free-youtube-beginnings-and-conclusions/"><u>[Updated] 2024 Approved Guides on Creating Cost-Free YouTube Beginnings & Conclusions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlock-the-power-of-partnerships-youtube-ads-with-a-famebit-edge/"><u>[Updated] In 2024, Unlock the Power of Partnerships YouTube Ads with a FameBit Edge</u></a></li>
-<li><a href="https://app-tips.techidaily.com/accelerate-your-coding-speed-using-generative-ai-benefits-and-pitfalls-to-consider/"><u>Accelerate Your Coding Speed Using Generative AI: Benefits and Pitfalls to Consider</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dynamic-otter-transcription-in-teams-mode-a-comprehensive-guide-for-enhanced-virtual-collaboration/"><u>Dynamic Otter Transcription in Teams Mode: A Comprehensive Guide for Enhanced Virtual Collaboration</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-14-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 14 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-v29-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo V29 Pro Devices</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-15-pro-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 15 Pro to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-webp-conversion-to-jpeg-format/"><u>In 2024, Perfecting WebP Conversion to JPEG Format</u></a></li>
-<li><a href="https://app-tips.techidaily.com/regular-audits-and-tests/"><u>Regular Audits and Tests</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ess-channel-transitions-with-customized-end-screens/"><u>Seamless Channel Transitions with Customized End Screens</u></a></li>
-<li><a href="https://app-tips.techidaily.com/skyrocket-productivity-by-thinking-as-a-dev-tips-and-strategies-from-tech-experts-zdnet/"><u>Skyrocket Productivity by Thinking as a Dev: Tips and Strategies From Tech Experts | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/sonys-research-division-partners-with-ai-singapore-to-enhance-large-language-model-development/"><u>Sony's Research Division Partners with AI Singapore to Enhance Large Language Model Development</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/speed-up-instagrams-media-a-comparative-guide/"><u>Speed Up Instagram's Media A Comparative Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-global-tech-leaders-choose-open-source-for-breakthrough-innovations-zdnet/"><u>Why Global Tech Leaders Choose Open Source for Breakthrough Innovations | ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-reverse-video-techniques-for-android-devices/"><u>[New] Reverse Video Techniques for Android Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamline-live-4-proven-recording-techniques-for-fb-for-2024/"><u>[New] Streamline Live 4 Proven Recording Techniques for FB for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-essential-voice-capturing-apps-for-ipads-3-top-picks-for-2024/"><u>[Updated] Essential Voice Capturing Apps for iPads #3 Top Picks for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-1-6-gpu-power-tools-to-assess-on-your-pc/"><u>Explore #1-#6 GPU Power Tools to Assess on Your PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/getting-started-with-dashlane-understanding-costs-key-functionalities-and-initial-setup-steps-insights-from-zdnet/"><u>Getting Started with Dashlane: Understanding Costs, Key Functionalities & Initial Setup Steps - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/huge-sale-alert-score-50-off-on-nordpass-pro-top-tier-password-security-for-black-friday-2022-techsavvy-news/"><u>Huge Sale Alert: Score 50% Off on NordPass Pro - Top-Tier Password Security for Black Friday 2022 | TechSavvy News</u></a></li>
+<li><a href="https://app-tips.techidaily.com/huge-savings-alert-dashlane-premium-passwords-get-cut-in-half-score-a-50-discount/"><u>Huge Savings Alert: Dashlane Premium Passwords Get Cut in Half - Score a 50% Discount!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-e13withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto E13with/without a PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/journey-towards-facebooks-premium-verified-emblem-for-2024/"><u>Journey Towards Facebook's Premium Verified Emblem for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/malware-distribution-tactics-uncovered-by-proofpoint-leveraging-popular-concerts-like-justin-bieber-and-the-weeknd-as-a-scam-vector/"><u>Malware Distribution Tactics Uncovered by Proofpoint: Leveraging Popular Concerts Like Justin Bieber and The Weeknd as a Scam Vector</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/mastering-universal-copy-paste-seamless-sharing-across-devices-and-enhancing-your-fitness-routine-with-indoor-cycling-insights-from-the-abbyy-expertise/"><u>Mastering Universal Copy-Paste: Seamless Sharing Across Devices & Enhancing Your Fitness Routine with Indoor Cycling - Insights From the ABBYY Expertise</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-security-for-up-to-10-users-using-1passwords-economical-monthly-plan-of-1995-discover-more-inside-zdnet/"><u>Maximize Security for Up to 10 Users Using 1Password's Economical Monthly Plan of $19.95 | Discover More Inside ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/navigating-windows-8-movie-maker-like-a-pro-for-2024/"><u>Navigating Windows 8 Movie Maker Like a Pro for 2024</u></a></li>
 </ul></div>
 

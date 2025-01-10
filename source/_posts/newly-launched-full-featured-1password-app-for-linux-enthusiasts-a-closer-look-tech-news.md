@@ -1,7 +1,7 @@
 ---
 title: "Newly Launched Full-Featured 1Password App for Linux Enthusiasts: A Closer Look - Tech News"
-date: 2024-12-27T17:53:47.484Z
-updated: 2025-01-03T07:23:00.316Z
+date: 2025-01-04T03:20:45.903Z
+updated: 2025-01-09T22:53:02.123Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/988b0aa2e48e125d13283fa19f222d53a696ba967
 I used to pride myself on being able to remember dozens of complex passwords. But, now I need to remember hundreds of passwords and I just can't do it. That's why password managers, such as [1Password](https://1password.com/), [Keeper](https://keepersecurity.com/), and [LastPass](https://www.lastpass.com/), are so important. All of which is fine and good… unless you're running Linux. Now, Agilebits' 1Password has finally given their customers what they've been [asking for: A Linux version](https://discussions.agilebits.com/discussion/2846/new-product-request-1password-for-linux). After a long beta, the [company has released its first Linux edition](https://www.prnewswire.com/news-releases/1password-unveils-application-to-protect-linux-users-and-developers-301293641.html).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** recommends
@@ -78,18 +78,17 @@ Sound good to you? Give [Linux 1Password a try with a 30-day free trial](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-step-by-step-editing-and-uploading-360-videos-on-youtube/"><u>[New] 2024 Approved Step-by-Step Editing & Uploading 360 Videos on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-choosing-the-right-display-tvs-vs-projectors-in-a-4k-era-for-2024/"><u>[New] Choosing the Right Display TVs vs Projectors in a 4K Era for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-how-to-record-ps3-gameplay/"><u>[Updated] In 2024, How to Record PS3 Gameplay</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-ideal-iphone-photo-apps-for-slide-shows-xr-to-x/"><u>[Updated] In 2024, Ideal iPhone Photo Apps for Slide Shows (XR to X)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/creating-effective-reminders-using-slackbot-a-step-by-step-guide-on-slack/"><u>Creating Effective Reminders Using Slackbot: A Step-by-Step Guide on Slack</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-vital-are-it-specialists-for-modern-businesses-operating-without-technology-insights-from-a-zdnet-perspective/"><u>How Vital Are IT Specialists for Modern Businesses Operating Without Technology? Insights From a ZDNET Perspective</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-harness-the-power-of-twitch-livestream-tips-and-tricks/"><u>In 2024, Harness the Power of Twitch Livestream Tips & Tricks</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-apple-iphone-12-why-its-a-game-changer/"><u>In-Depth Analysis of the Apple iPhone 12: Why It's a Game Changer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leveraging-next-gen-cloud-infrastructures-for-skills-development-and-robust-security-in-modern-applications/"><u>Leveraging Next-Gen Cloud Infrastructures for Skills Development and Robust Security in Modern Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-faces-critical-deadline-for-fixing-windows-10-issues-just-one-year-left-to-rectify-technewszdnet/"><u>Microsoft Faces Critical Deadline for Fixing Windows 10 Issues – Just One Year Left to Rectify | TechNewsZDNET</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/top-3-free-artificial-intelligence-tools-for-effortless-ai-pdf-to-excel-conversion/"><u>Top 3 Free Artificial Intelligence Tools for Effortless AI PDF to Excel Conversion</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-call-of-duty-warzones-voice-and-microphone-functionality-on-pc-and-consoles/"><u>Troubleshooting Guide: Resolving Issues with Call of Duty Warzone's Voice and Microphone Functionality on PC and Consoles</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-decreasing-decibents-deliberately-logic-pros-volume-techniques/"><u>[Updated] 2024 Approved Decreasing Decibents Deliberately Logic Pro's Volume Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-voice-logging-access-and-evaluation/"><u>[Updated] 2024 Approved Voice Logging Access & Evaluation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-password-management-tools-of-2022-slash-your-costs-insights-from-zdnet/"><u>Best Password Management Tools of 2022: Slash Your Costs - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/debunking-bitcoin-privacy-myths-the-expose-that-shook-its-secrecy/"><u>Debunking Bitcoin Privacy Myths: The Exposé That Shook Its Secrecy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-stop-escape-from-tarkov-from-crashing-on-your-computer/"><u>Effective Solutions to Stop Escape From Tarkov From Crashing on Your Computer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-and-secure-password-management-solutions-for-202e-thorough-evaluation-by-industry-experts-techradar/"><u>Free & Secure Password Management Solutions for 202E: Thorough Evaluation by Industry Experts - TechRadar</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-asus-rog-phone-8-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Asus ROG Phone 8 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-your-security-how-dashlanes-passwordless-logins-eliminate-the-hassle-of-remembering-one-overarching-password-insights-from-zdnet/"><u>Master Your Security: How Dashlane's Passwordless Logins Eliminate the Hassle of Remembering One Overarching Password - Insights From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-11-top-tips-for-enhanced-gaming-performance-and-speed/"><u>Mastering Windows 11: Top Tips for Enhanced Gaming Performance and Speed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ray-tracing-demystified-a-beginners-guide/"><u>Ray Tracing Demystified: A Beginner's Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-invest-in-1password-exceptional-security-and-features-justify-premium-price-tag-for-users-cyberguardian-review/"><u>Why Invest in 1Password? Exceptional Security and Features Justify Premium Price Tag for Users | CyberGuardian Review</u></a></li>
 </ul></div>
 

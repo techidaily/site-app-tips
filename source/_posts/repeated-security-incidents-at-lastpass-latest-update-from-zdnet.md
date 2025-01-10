@@ -1,7 +1,7 @@
 ---
 title: Repeated Security Incidents at LastPass - Latest Update From ZDNet
-date: 2024-12-27T01:43:54.792Z
-updated: 2025-01-02T18:35:14.741Z
+date: 2025-01-06T17:37:32.516Z
+updated: 2025-01-10T04:21:50.763Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,21 +81,22 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-pioneering-strategies-for-success-in-the-spotify-ad-arena/"><u>[New] Pioneering Strategies for Success in the Spotify Ad Arena</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-chuckle-fest-the-ultimate-list-of-hilarious-youtube-personalities/"><u>[Updated] Chuckle Fest The Ultimate List of Hilarious YouTube Personalities</u></a></li>
-<li><a href="https://win-top.techidaily.com/1-sostituzione-e-aggiornamento-ssd-una-guida-completa-per-la-versione-piu-recente-di-clonezilla/"><u>1. Sostituzione E Aggiornamento SSD: Una Guida Completa per La Versione Più Recente Di Clonezilla</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweet-to-whatsapp-video-dissemination-methods/"><u>2024 Approved Tweet-to-WhatsApp Video Dissemination Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/advanced-array-designs-employ-strategies-like-amplitude-tapering-and-null-steering-algorithms-to-control-side-lobes-for-improved-directivity-and-reduced-int87/"><u>Advanced Array Designs Employ Strategies Like Amplitude Tapering and Null-Steering Algorithms to Control Side Lobes for Improved Directivity and Reduced Interference Potential.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-initiatives-surge-by-10x-in-recent-year-insights-from-latest-research-zdnet/"><u>AI Initiatives Surge by 10X in Recent Year - Insights From Latest Research | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-classic-gameplay-seamlessly-adding-achievements-using-retroarch/"><u>Boosting Classic Gameplay - Seamlessly Adding Achievements Using Retroarch</u></a></li>
-<li><a href="https://app-tips.techidaily.com/conquering-chaos-in-linuxopen-source-guidebooks-explore-our-streamlined-remedy-zdnet/"><u>Conquering Chaos in Linux/Open-Source Guidebooks: Explore Our Streamlined Remedy | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-barriers-how-firms-find-it-challenging-to-leverage-generative-ai-according-to-deloittes-latest-insights/"><u>Exploring the Barriers: How Firms Find It Challenging to Leverage Generative AI According to Deloitte's Latest Insights</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-in-depth-look-at-camstudios-capturing-capabilities/"><u>In 2024, In-Depth Look at CamStudio's Capturing Capabilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-dealing-with-alexas-echo-is-offline-error-message/"><u>Solving Common Issues - Dealing with Alexa's 'Echo Is Offline' Error Message</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tidying-up-linux-and-open-source-manuals-discover-the-ultimate-fix/"><u>Tidying Up Linux & Open Source Manuals: Discover the Ultimate Fix!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-link-between-kernel-vulnerabilities-and-linux-system-security-proactive-measures-for-protection/"><u>Understanding the Link Between Kernel Vulnerabilities and Linux System Security: Proactive Measures for Protection</u></a></li>
-<li><a href="https://driver-error.techidaily.com/upgrading-to-latest-death-adder-on-win11/"><u>Upgrading to Latest DeaTH Adder on Win11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/urgent-alert-microsoft-faces-critical-challenge-with-windows-10-only-a-year-leftzdnet/"><u>Urgent Alert: Microsoft Faces Critical Challenge with Windows 10 - Only a Year Left![ZDNet]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-exclusive-access-to-pinnacle-android-viewer/"><u>[New] Exclusive Access to Pinnacle Android Viewer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-navigating-the-legality-of-facebooks-immediate-video-takedowns/"><u>2024 Approved Navigating the Legality of Facebook's Immediate Video Takedowns</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beamwidth/"><u>Beamwidth</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-efficiency-a-comprehensive-guide-to-essential-productivity-apps-and-techniques-for-streamlining-your-day-to-day-job/"><u>Boosting Efficiency: A Comprehensive Guide to Essential Productivity Apps & Techniques for Streamlining Your Day-to-Day Job</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-zte-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On ZTE Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-12-pro-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 12 Pro & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-creating-magnetic-storylines-for-your-vlog-videos/"><u>In 2024, Creating Magnetic Storylines for Your Vlog Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-exploring-the-features-of-vimeos-innovative-recorder/"><u>In 2024, Exploring the Features of Vimeo's Innovative Recorder</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-redmi-12-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Redmi 12 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/limited-offer-upgrade-to-professionals-edition-of-ashampoo-3d-cad-for-only-40-now-on-zdnet-shop/"><u>Limited Offer: Upgrade to Professionals Edition of Ashampoo 3D CAD for Only $40, Now On ZDNet Shop!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/section-4a-advanced-antenna-array-theory/"><u>Section 4A: Advanced Antenna Array Theory</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-triumph-unveiling-the-story-behind-an-engineers-app-that-outsmarts-mcdonalds-strategy-analysis-by-zdnet/"><u>Tech Triumph: Unveiling the Story Behind an Engineer’s App That Outsmarts McDonald's Strategy | Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-critical-90-day-evaluation-period-for-artificial-intelligence-innovations-insights-from-zdnet/"><u>The Critical 90-Day Evaluation Period for Artificial Intelligence Innovations: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-gain-renewed-interest-insights-from-zdnet/"><u>The Rising Popularity: How OpenStack & Kata Containers Gain Renewed Interest - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-new-potential-how-the-google-microsoft-collaboration-allows-windows-apps-to-thrive-on-chromebooks-zdnet/"><u>Unlocking New Potential: How the Google-Microsoft Collaboration Allows Windows Apps to Thrive on Chromebooks | ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Crypto.com CEO Tackles Login Challenges Post $31 Million Hack Incident Covered by ZDNet
-date: 2024-12-29T12:14:32.459Z
-updated: 2025-01-02T17:09:36.639Z
+date: 2025-01-08T23:36:26.993Z
+updated: 2025-01-09T17:51:24.763Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Crypto.com CEO Kris Marszalek responded to complaints from thousands of users about issues logging back into their accounts after the company was [forced](https://crypto.com/product-news/crypto-com-security-report-next-steps) to change security settings following [a hack last week](https://www.zdnet.com/article/fortune-favours-the-breached-crypto-com-admits-400-users-hit-in-hack/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Crypto.com CEO Kris Marszalek responded to complaints from thousands of users ab
 [![cybersecurity-lock-resized.jpg](https://www.zdnet.com/a/img/resize/5871b5ae5b589728bdc8064555d12823acf4b63e/2020/10/27/db3c0325-2b86-435b-8efa-93828deb6b56/cybersecurity-lock-resized.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best cyber insurance The cyber insurance industry is likely to go mainstream and is a simple cost of doing business. Here are a few options to consider.  Read now](https://www.zdnet.com/article/best-cyber-insurance/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On Monday, the company [admitted](https://www.zdnet.com/article/crypto-com-confirms-483-users-hit-in-attack-that-saw-over-31m-in-coins-withdrawn/) that 483 users were affected by unauthorized cryptocurrency withdrawals on their accounts, costing a total of "4,836.26 ETH, 443.93 BTC, and approximately US$66,200 in other cryptocurrencies." At the time of the attack, that amounted to about $31 million. 
@@ -80,21 +80,20 @@ Crypto.com created a program designed to refund users who were affected by the h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-amplify-your-contents-reach-with-optimal-publishing-days-for-2024/"><u>[Updated] Amplify Your Content's Reach with Optimal Publishing Days for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-swift-technique-coding-images-for-youtube-channel-thumbnails/"><u>2024 Approved Swift Technique Coding Images for YouTube Channel Thumbnails</u></a></li>
-<li><a href="https://fox-info.techidaily.com/a-list-14-animation-illustration-cases/"><u>A-List 14 Animation Illustration Cases</u></a></li>
-<li><a href="https://app-tips.techidaily.com/efficient-methods-for-downloading-and-sending-high-resolution-videos-on-whatsapp-compression-techniques-revealed/"><u>Efficient Methods for Downloading and Sending High-Resolution Videos on WhatsApp: Compression Techniques Revealed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-saving-your-whatsapp-pdfs-on-an-iphone-with-ease/"><u>Guide: Saving Your WhatsApp PDFs on an iPhone with Ease</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-12-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 12</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-rp2040-single-board-computers-to-consider/"><u>Leading RP2040 Single-Board Computers to Consider</u></a></li>
-<li><a href="https://app-tips.techidaily.com/migrating-your-chats-and-media-a-step-by-step-guide-from-androids-whatsapp-to-ios/"><u>Migrating Your Chats and Media: A Step-by-Step Guide From Android's WhatsApp to iOS</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/privacy-preservation-how-to-make-faces-invisible-online/"><u>Privacy Preservation How to Make Faces Invisible Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/reviving-the-charge-on-your-ps5-gamepad-expert-fixes-and-advice/"><u>Reviving the Charge on Your PS5 Gamepad – Expert Fixes and Advice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-messaging-ultimate-guide-to-whatsapp-passwords-on-ios-and-android-devices/"><u>Secure Your Messaging: Ultimate Guide to WhatsApp Passwords on iOS & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-no-backup-available-errors-in-whatsapp-understanding-the-cause-and-top-5-remediation-strategies/"><u>Solving 'No Backup Available' Errors in WhatsApp: Understanding the Cause & Top 5 Remediation Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-completely-removing-your-whatsapp-profile-from-ios-devices/"><u>Step-by-Step Guide: Completely Removing Your WhatsApp Profile From iOS Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-40-unbeatable-festive-laptop-bargains-including-brands-like-apple-and-asus-exclusively/"><u>Top 40 Unbeatable Festive Laptop Bargains Including Brands Like Apple & Asus - Exclusively</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-techniques-for-retrieving-lost-whatsapp-messages-on-android-devices/"><u>Top Techniques for Retrieving Lost WhatsApp Messages on Android Devices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/troubleshooting-quickbinder-crashes-a-step-by-step-guide-for-mac-users/"><u>Troubleshooting QuickBinder Crashes: A Step-by-Step Guide for Mac Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-record-games-with-no-hassle-nvidia-way/"><u>[New] 2024 Approved Record Games with No Hassle - NVIDIA Way</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unveiling-secrets-to-broadcast-recordings-on-facebook-live/"><u>[New] In 2024, Unveiling Secrets to Broadcast Recordings on Facebook Live</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-socialmediarecorder-toolkit-for-2024/"><u>[New] SocialMediaRecorder Toolkit for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-enhancing-your-playback-quality-tips-for-roblox-recordings-mac/"><u>2024 Approved Enhancing Your Playback Quality Tips for Roblox Recordings (Mac)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhanced-mobile-device-management-on-android-leveraging-advanced-tools/"><u>Enhanced Mobile Device Management on Android: Leveraging Advanced Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193252-experience-endless-possibilities-access-free-cracked-applications-for-ios-and-android-via-appcake-today/"><u>Experience Endless Possibilities: Access Free, Cracked Applications for iOS & Android via AppCake Today</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-the-mumu-player-a-high-performance-android-simulator-for-desktop-environments/"><u>Experience the MuMu Player: A High-Performance Android Simulator for Desktop Environments</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-micro-post-your-next-audio-adventure/"><u>In 2024, Micro-Post Your Next Audio Adventure</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-real-time-vr-hardware-analysis/"><u>In 2024, Real-Time VR Hardware Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-examination-of-nox-player-insights-on-functionality-advantages-and-limitations/"><u>In-Depth Examination of Nox Player: Insights on Functionality, Advantages, and Limitations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/play-ogg-format-files-at-no-cost-best-cross-platform-ogg-players-for-windows-and-macos/"><u>Play OGG Format Files at No Cost: Best Cross-Platform OGG Players for Windows & macOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620187722-the-ultimate-selection-of-android-screen-casting-apps-discover-the-top-9-options-to-enhance-your-experience/"><u>The Ultimate Selection of Android Screen Casting Apps: Discover the Top 9 Options to Enhance Your Experience!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-poco-x6-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Poco X6 Phone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-messaging-apps-compatible-with-iphone-and-android-finding-the-perfect-one/"><u>Top Rated Messaging Apps Compatible with iPhone & Android: Finding the Perfect One</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-gptbot-why-has-it-been-blocked-across-web-platforms/"><u>Unveiling GPTBot: Why Has It Been Blocked Across Web Platforms?</u></a></li>
 </ul></div>
 

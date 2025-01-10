@@ -1,7 +1,7 @@
 ---
 title: "Excel Mastery: How to Craft Stunning Tables for Data Presentation"
-date: 2024-12-29T04:45:39.038Z
-updated: 2025-01-03T10:39:07.891Z
+date: 2025-01-04T02:53:09.345Z
+updated: 2025-01-09T17:10:36.865Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gags-and-grins-techniques-in-parody-production/"><u>[New] In 2024, Gags and Grins Techniques in Parody Production</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-prioritize-privacy-in-conversations-the-best-10-free-secure-mobile-calling-apps-for-iosandroid/"><u>2024 Approved Prioritize Privacy in Conversations – The Best 10 Free, Secure Mobile Calling Apps for iOS/Android</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210184748-9781950241804-be-the-good/"><u>Be the Good | Free Book</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-motorola-g54-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola G54 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-setup-of-hp-envy-5055-get-the-latest-drivers-here/"><u>Effortless Setup of HP Envy 5055 - Get the Latest Drivers Here</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enterprise-tech-adopts-the-ops-approach-amidst-emerging-challenges-zdnet-insights/"><u>Enterprise Tech Adopts the 'Ops' Approach Amidst Emerging Challenges | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-seamless-cross-platform-integration-chrome-os-welcomes-windows-apps-via-exciting-new-collaboration/"><u>Experience Seamless Cross-Platform Integration: Chrome OS Welcomes Windows Apps via Exciting New Collaboration</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-tech-professionals-can-overcome-burnout-with-positive-developments-discoveries-by-zdnet/"><u>How Tech Professionals Can Overcome Burnout with Positive Developments - Discoveries by ZDNET</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-y17s-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/key-challenges-in-leveraging-generative-ai-insights-from-the-latest-deloitte-research-highlighted-by-zdnet/"><u>Key Challenges in Leveraging Generative AI: Insights From the Latest Deloitte Research Highlighted by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-sharing-images-from-iphone-to-windows-desktop/"><u>Step-by-Step Guide: Sharing Images From iPhone to Windows Desktop</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-definitive-guide-to-iphone-photomosaic-creation-collage/"><u>The Definitive Guide to iPhone Photomosaic Creation (Collage)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-premier-choices-in-memory-upgrades-for-enhanced-work-and-gaming-experience-best-ram-picks-of-2023-zdnet/"><u>The Premier Choices in Memory Upgrades for Enhanced Work and Gaming Experience – Best RAM Picks of 2023 | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-compelling-benefits-of-embracing-aiops-insights-from-zdnet/"><u>Top 7 Compelling Benefits of Embracing AIOps: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-windowed-software-on-chromebooks-a-game-changing-allyship-unveiled-tech-times/"><u>Unlocking the Power of Windowed Software on Chromebooks: A Game-Changing Allyship Unveiled | Tech Times</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unravel-your-cable-woes-with-this-game-changing-tangle-free-usb-c-lifesaver-for-travelers-techinsider/"><u>Unravel Your Cable Woes with This Game-Changing 'Tangle-Free' USB-C Lifesaver for Travelers | TechInsider</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-chucklechamber-endless-options-to-spread-smiles/"><u>[New] ChuckleChamber Endless Options to Spread Smiles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-breathtaking-lyric-videos-made-easy-by-lyric-video-maker/"><u>[Updated] In 2024, Breathtaking Lyric Videos Made Easy by Lyric Video Maker</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-unveiling-the-top-12-low-cost-video-apps-for-devices-everywhere/"><u>[Updated] In 2024, Unveiling the Top 12 Low-Cost Video Apps for Devices Everywhere</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-on-how-to-activate-and-utilize-revo-app-manager/"><u>Complete Guide on How to Activate and Utilize Revo App Manager</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-samsung-galaxy-a55g-an-exceptional-deal-for-modern-connectivity/"><u>In-Depth Look at the Samsung Galaxy A5^5G: An Exceptional Deal for Modern Connectivity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-ubuntu-2404-enhancements-with-expert-tips-from-zdnets-guide/"><u>Mastering Ubuntu 24.04 Enhancements with Expert Tips From ZDNet's Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/solving-iphone-xs-trust-issues-fixing-facial-detection-glitches/"><u>Solving iPhone X's Trust Issues Fixing Facial Detection Glitches</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-turmoil-unpacking-russias-invasion-effects-on-ukraines-it-landscape-analysis-by-zdnet/"><u>Tech Turmoil: Unpacking Russia's Invasion Effects on Ukraine's IT Landscape | Analysis by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-shift-to-non-techies-leading-enterprise-tech-revolution-insights-from-zdnet/"><u>The Shift to Non-Techies Leading Enterprise Tech Revolution – Insights From ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/top-30-unlimited-cloud-space-deals-up-to-1tb-saved-for-2024/"><u>Top 30 Unlimited Cloud Space Deals - Up to 1TB Saved for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-identity-management-solutions-of-2022-expert-reviews-and-comparisons/"><u>Top-Rated Identity Management Solutions of 2022: Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-amazons-cutting-edge-ai-benchmark-assessing-relevance-answers-and-contextual-groundings/"><u>Unveiling Amazon's Cutting-Edge AI Benchmark: Assessing Relevance, Answers & Contextual Groundings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-open-source-expertise-and-linux-mastery-remain-highly-sought-after-despite-challenging-financial-climates-insights-from-zdnet/"><u>Why Open-Source Expertise & Linux Mastery Remain Highly Sought After, Despite Challenging Financial Climates - Insights From ZDNet</u></a></li>
 </ul></div>
 

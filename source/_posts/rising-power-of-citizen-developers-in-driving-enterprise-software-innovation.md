@@ -1,7 +1,7 @@
 ---
 title: Rising Power of Citizen Developers in Driving Enterprise Software Innovation
-date: 2024-12-30T19:37:48.606Z
-updated: 2025-01-03T03:14:54.832Z
+date: 2025-01-08T23:54:20.935Z
+updated: 2025-01-09T21:33:42.024Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/outubes-user-interface-for-comment-management/"><u>[New] YouTube's User Interface for Comment Management</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-filmora-tutorial-converting-avi-to-gif-seamlessly/"><u>2024 Approved Filmora Tutorial Converting AVI to GIF Seamlessly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620191219-7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-graphically-advanced-game-emulators-high-quality-visuals-and-optimal-frame-rates/"><u>Best Graphically Advanced Game Emulators: High-Quality Visuals & Optimal Frame Rates</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-uwu-text-to-speech-apps-mastering-anime-character-vocalization-techniques/"><u>Best UwU Text-to-Speech Apps: Mastering Anime Character Vocalization Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/concealing-applications-a-step-by-step-guide-for-android-ios-devices/"><u>Concealing Applications: A Step-by-Step Guide for Android, iOS Devices</u></a></li>
-<li><a href="https://win-dash.techidaily.com/expert-guide-choosing-and-downloading-high-quality-sound-drivers-for-win7/"><u>Expert Guide: Choosing & Downloading High-Quality Sound Drivers for Win7</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expertly-remove-items-from-iphone-photo-with-top-6-apps-for-2024/"><u>Expertly Remove Items From iPhone Photo with Top 6 Apps for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-words-to-voices-scriptwriting-for-successful-podcasts/"><u>From Words to Voices Scriptwriting for Successful Podcasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-light-and-shadow-in-hdr-portraiture-for-2024/"><u>Mastering Light and Shadow in HDR Portraiture for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-redownload-or-restore-your-bought-apps-and-in-app-items-on-ios/"><u>Step-by-Step Guide: Redownload or Restore Your Bought Apps & In-App Items on iOS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tech-showdown-two-major-iphone-rival-products-stumble-in-recent-trials/"><u>Tech Showdown: Two Major iPhone Rival Products Stumble in Recent Trials</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-streaming-videos-from-any-source-onto-your-apple-tv-with-vlc/"><u>The Complete Guide to Streaming Videos From Any Source Onto Your Apple TV with VLC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-xvid-media-player-compatible-with-windows-macos-android-and-iphone/"><u>Top Rated Xvid Media Player: Compatible with Windows, MacOS, Android & iPhone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-extended-motion-systems-appraisal/"><u>[New] Extended Motion Systems Appraisal</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-infinite-gaming-space-10-ssds-hdds-for-ps5/"><u>[New] Infinite Gaming Space #10 SSDs, HDDs for PS5</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pure-green-sets-free-templates-boosting-filmmaking-and-videography-skills/"><u>[New] Pure Green Sets Free Templates Boosting Filmmaking and Videography Skills</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-radiate-on-reels-instagram-highlight-techniques-simplified-to-three/"><u>2024 Approved Radiate on Reels Instagram Highlight Techniques, Simplified to Three</u></a></li>
+<li><a href="https://app-tips.techidaily.com/busting-top-5-fallacies-on-profiting-from-your-data-insights-zdnet/"><u>Busting Top 5 Fallacies on Profiting From Your Data Insights - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-might-machine-learning-impact-future-opportunities-in-the-field-of-cybersecurity/"><u>How Might Machine Learning Impact Future Opportunities in the Field of Cybersecurity?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-y17s-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo Y17s Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-conciseness-in-content-editing-your-youtube-videos-smartly/"><u>In 2024, Conciseness in Content Editing Your YouTube Videos Smartly</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-one-youtube-showcase-mastering-media-merging/"><u>In 2024, One Youtube Showcase Mastering Media Merging</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-cyberpunk-2077-installation-tips-for-bypassing-downloading-hurdles-on-steam/"><u>Mastering Cyberpunk 2077 Installation: Tips for Bypassing Downloading Hurdles on Steam</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-challenges-in-leveraging-ai-for-significant-commercial-gains-insights-from-zdnet/"><u>Overcoming Challenges in Leveraging AI for Significant Commercial Gains - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-challenges-to-unlock-the-economic-potential-of-ai-in-business-insights-from-zdnet/"><u>Overcoming Challenges to Unlock the Economic Potential of AI in Business - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-end-of-point-and-click-era-exploring-ais-role-in-transforming-user-interfaces-zdnet/"><u>The End of Point-and-Click Era: Exploring AI's Role in Transforming User Interfaces | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-here-exploring-the-revolutionary-impact-of-ai-agents-on-our-careers-and-industries-zdnet-insights/"><u>The Future Is Here: Exploring the Revolutionary Impact of AI Agents on Our Careers and Industries | ZDNET Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-how-top-innovators-are-drawn-to-open-source-a-deep-dive-by-zdnet/"><u>Unveiling How Top Innovators Are Drawn to Open Source: A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-appeal-of-no-codelow-code-platforms-pros-and-readiness-considerations-insights-from-zdnet/"><u>Unveiling the Appeal of No-Code/Low-Code Platforms: Pros and Readiness Considerations - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-top-obstacle-of-generative-ai-demonstrating-a-tangible-return-on-investment-roi-zdnet-insights/"><u>Unveiling the Top Obstacle of Generative AI: Demonstrating a Tangible Return on Investment (ROI) | ZDNet Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208089290-valorant-perpetual-boot-loop-heres-how-to-resolve-it/"><u>Valorant Perpetual Boot Loop? Here's How to Resolve It!</u></a></li>
 </ul></div>
 

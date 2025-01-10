@@ -1,7 +1,7 @@
 ---
 title: "Taming the Wild: Expert Strategies for Cleaner Linux and Open Source Documentation"
-date: 2025-01-02T02:13:24.417Z
-updated: 2025-01-03T08:31:32.901Z
+date: 2025-01-09T03:29:21.391Z
+updated: 2025-01-09T22:27:32.656Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-do-i-peruse-all-the-video-and-photo-files-shared-by-friends/"><u>[New] 2024 Approved How Do I Peruse All the Video and Photo Files Shared by Friends?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unmatched-warfare-the-hunt-for-top-fps-games/"><u>[Updated] In 2024, Unmatched Warfare The Hunt for Top FPS Games</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-guide-to-professional-thumbnail-dimensions-for-youtube/"><u>[Updated] The Essential Guide to Professional Thumbnail Dimensions for YouTube</u></a></li>
-<li><a href="https://app-tips.techidaily.com/affordable-innovation-with-openais-gpt-4-minus-for-app-creation-exclusive-analysis-by-zdnet/"><u>Affordable Innovation with OpenAI's GPT-4 Minus for App Creation - Exclusive Analysis by ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-ubuntu-2404-the-ultimate-combination-of-speed-and-security-in-the-latest-linux-distribution-zdnet/"><u>Discover Ubuntu 24.04: The Ultimate Combination of Speed and Security in the Latest Linux Distribution | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/evolving-with-ubuntu-mastering-your-24-system-upgrade-journey-zdnet-insights/"><u>Evolving with Ubuntu: Mastering Your 24.# System Upgrade Journey | ZDNet Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-leading-screen-recording-solutions-review-by-techradar/"><u>Exploring the Leading Screen Recording Solutions : Review by TechRadar</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-best-instagram-extractors-for-memories-saved/"><u>In 2024, The Best Instagram Extractors for Memories Saved</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ios-18-unleashed-a-step-by-step-guide-to-personalizing-your-iphone-control-center-insights/"><u>IOS 18 Unleashed: A Step-by-Step Guide to Personalizing Your iPhone Control Center - Insights</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-nba-game-streaming-a-comprehensive-guide-for-2024/"><u>Mastering NBA Game Streaming A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/next-level-gaming-with-asus-radeon-hd-970-pro-a-comprehensive-guide-for-gamers/"><u>Next-Level Gaming with ASUS Radeon HD 970 Pro: A Comprehensive Guide for Gamers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-connectivity-how-arista-targets-midsize-businesses-with-new-cognitive-network-solutions-featured-on-zdnet/"><u>Revolutionizing Connectivity: How Arista Targets Midsize Businesses with New Cognitive Network Solutions, Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rising-trend-of-low-code-and-no-code-development-its-impact-on-changing-tech-roles-discovered-with-zdnet/"><u>Rising Trend of Low-Code & No-Code Development: Its Impact on Changing Tech Roles - Discovered with ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-transformation-of-business-tech-tools-amidst-rising-ai-dominance-zdnet/"><u>The Future Transformation of Business Tech Tools Amidst Rising AI Dominance | ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/travel-planning-made-easy-with-7-ai-powered-cost-free-tools/"><u>Travel Planning Made Easy with 7 AI-Powered, Cost-Free Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-excel-efficiency-a-comprehensive-tutorial-on-how-to-lockfreeze-worksheet-rows-for-enhanced-productivity/"><u>Unlock Excel Efficiency: A Comprehensive Tutorial on How to Lock/Freeze Worksheet Rows for Enhanced Productivity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-ready-auto-resizing-videos-using-mac-tech/"><u>[New] 2024 Approved Instagram-Ready Auto-Resizing Videos Using Mac Tech</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-complete-guide-to-crafting-best-in-class-yt-thumbnails/"><u>[New] A Complete Guide to Crafting Best-in-Class YT Thumbnails</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-exploring-hidden-realms-a-comprehensive-guide-to-youtubes-unlisted-videos-for-2024/"><u>[Updated] Exploring Hidden Realms A Comprehensive Guide to YouTube’s ‘Unlisted’ Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-elite-makeup-vloggers-shaping-2024s-beauty-scene/"><u>[Updated] The Elite Makeup Vloggers Shaping 2024'S Beauty Scene</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/brightening-indoor-realms-naturally-and-smartly-for-2024/"><u>Brightening Indoor Realms Naturally and Smartly for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-enhanced-functionality-in-windows-11s-most-recent-update-tech-news-zdnet/"><u>Discover the Enhanced Functionality in Windows 11'S Most Recent Update | Tech News - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-businesses-through-xr-virtual-replicas-and-immersive-computing-for-enhanced-user-experience-zdnet/"><u>Empowering Businesses Through XR, Virtual Replicas, and Immersive Computing for Enhanced User Experience | ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cing-your-youtube-profiles-a-guide-to-crafting-descriptions-for-2024/"><u>Enhancing Your YouTube Profiles A Guide to Crafting Descriptions for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-protection-juniper-networks-integrates-advanced-cloud-firewall-into-its-comprehensive-sase-offerings-on-zdnet/"><u>Expanding Protection: Juniper Networks Integrates Advanced Cloud Firewall Into Its Comprehensive SASE Offerings on ZDNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linux-vendor-kernel-security-compromised-recent-research-confirms-and-suggests-remedies-zdnet/"><u>Linux Vendor Kernel Security Compromised? Recent Research Confirms & Suggests Remedies | ZDNet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-reach-youtubes-template-advantage-explained-for-2024/"><u>Maximizing Reach YouTube's Template Advantage Explained for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/polarization/"><u>Polarization</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-leading-8-applications-of-artificer-intellect-essential-tips-for-tech-enthusiasts/"><u>The Leading 8 Applications of Artificer Intellect - Essential Tips for Tech Enthusiasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-customer-relationship-management-crm-systems-optimal-choices-for-small-and-medium-businesses-insights-by-zdnet/"><u>Top Customer Relationship Management (CRM) Systems : Optimal Choices for Small and Medium Businesses - Insights by ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-choosing-the-ideal-video-player-app-on-android/"><u>Ultimate Guide to Choosing the Ideal Video Player App on Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-booming-growth-of-no-codelow-code-solutions-and-its-impact-on-it-career-paths/"><u>ZDNet Explores the Booming Growth of No-Code/Low-Code Solutions and Its Impact on IT Career Paths</u></a></li>
 </ul></div>
 

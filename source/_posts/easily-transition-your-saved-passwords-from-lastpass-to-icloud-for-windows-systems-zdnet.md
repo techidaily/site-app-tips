@@ -1,7 +1,7 @@
 ---
 title: Easily Transition Your Saved Passwords From LastPass to iCloud for Windows Systems | ZDNet
-date: 2025-01-01T06:42:56.250Z
-updated: 2025-01-02T21:50:28.076Z
+date: 2025-01-02T20:04:05.167Z
+updated: 2025-01-09T16:54:41.763Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ Image: Maria Diaz/ZDNET
 An [Apple ID](https://www.zdnet.com/article/your-friends-could-help-stop-you-getting-locked-out-of-your-apple-id/) gives you access to many perks within the Apple software ecosystem, and one of them is [Keychain](https://www.zdnet.com/article/how-to-locate-a-password-with-the-macos-keychain/): iCloud's password manager. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -38,7 +38,7 @@ But how can I remember all these passwords if I can't even remember my significa
 ## How to use iCloud as a password manager on Windows
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open iCloud for Windows
@@ -51,6 +51,10 @@ Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your iCloud Passwords
 
 Once you sign in to your account -- if you haven't already -- you can access your account, add another account, and make any necessary changes.
@@ -61,6 +65,10 @@ Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Make sure Passwords is on and click Apply
 
 Make sure Passwords is selected on the iCloud window, then click on **Apply** to make the changes. 
@@ -70,10 +78,6 @@ You can also install browser extensions at this point.
 Make sure Passwords is on and click **Apply**.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Add browser extension
 
@@ -113,10 +117,6 @@ Like LastPass, the browser extension will let you fill in your login information
 
 **Also:** [**Want to ditch LastPass? Here are the best alternatives to try**](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## How do you get iCloud for Windows?  
@@ -130,7 +130,7 @@ iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/arti
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
@@ -167,15 +167,16 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-speak-now-act-for-free-via-technology/"><u>[New] In 2024, Speak Now, Act for Free via Technology</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-demystifying-the-process-of-writing-youtube-video-content-for-2024/"><u>[Updated] Demystifying the Process of Writing YouTube Video Content for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-overcoming-the-noise-barrier-twitter-vids-without-sounds/"><u>[Updated] Overcoming the Noise Barrier Twitter Vids Without Sounds</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/68197795-direct-youtube-tunes-to-mp3s-online-and-offline-options/"><u>Direct YouTube Tunes to MP3s Online & Offline Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-top-8-unrestricted-character-ais-expert-options-without-limitations/"><u>Discover Top 8 Unrestricted Character AIs: Expert Options Without Limitations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-monica-ai-understanding-its-features-and-mastering-chatgpt-assistance/"><u>Exploring Monica AI: Understanding Its Features & Mastering ChatGPT Assistance</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/innovative-model-conversion-from-text-to-video-within-hugging-faces-collaborative-ecosystem/"><u>Innovative Model Conversion From Text to Video Within Hugging Face's Collaborative Ecosystem</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-poco-x6-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Poco X6 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-reviews-explore-the-best-in-ai-meet-chatgpt-your-new-preferred-chatbot-companion/"><u>Top-Rated Reviews: Explore the Best in AI - Meet ChatGPT, Your New Preferred Chatbot Companion</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check-it-out-here/"><u>[Updated] 2024 Approved How to Preview Off-Facebook Activities and Should I Leave It On? Check It Out Here</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-a-brief-guide-to-kickstarting-conversations-on-instagram/"><u>[Updated] A Brief Guide to Kickstarting Conversations on Instagram</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/automatic-feeding-made-simple-with-petsafes-six-meal-servitor-ensure-a-regular-diet-for-pets/"><u>Automatic Feeding Made Simple with PetSafe's Six-Meal Servitor – Ensure a Regular Diet for Pets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-audio-equalizer-applications-for-android-top-5-picks/"><u>Best FREE Audio Equalizer Applications for Android: Top 5 Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620195426-download-fun-and-trending-facebook-messenger-stickers-now/"><u>Download Fun & Trending Facebook Messenger Stickers Now!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-latest-canon-rebel-t7-kit-innovations/"><u>Evaluating the Latest Canon Rebel T7 Kit Innovations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-apples-device-management-insights-into-mdm-and-platform-implementation-strategies/"><u>Explore Apple's Device Management: Insights Into MDM and Platform Implementation Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-windows-1110-bluetooth-stuttering-a-step-by-step-guide-to-smooth-sound/"><u>Fix Your Window's 11/10 Bluetooth Stuttering: A Step-by-Step Guide to Smooth Sound</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/from-words-to-memos-iphone-sound-guide-for-2024/"><u>From Words to Memos IPhone Sound Guide for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-assessment-of-apple-music-pricing-structure-advantagesdisadvantages-and-how-to-get-started/"><u>In-Depth Assessment of Apple Music: Pricing Structure, Advantages/Disadvantages, and How to Get Started</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y78plus-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y78+? 8 Solutions Inside | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Future of Artificial Intelligence: Projected Breakthroughs in the Coming Years - ZDNet"
-date: 2024-12-28T03:14:55.881Z
-updated: 2025-01-03T04:38:50.427Z
+date: 2025-01-08T01:04:27.544Z
+updated: 2025-01-09T23:10:21.999Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-practices-for-6-trendy-mc-houses/"><u>[New] In 2024, Best Practices for 6 Trendy MC Houses</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-how-to-screen-record-on-android/"><u>[New] In 2024, How to Screen Record on Android</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-right-time-to-invest-in-your-next-4k-lens/"><u>[Updated] The Right Time to Invest in Your Next 4K Lens</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-money-behind-the-screen-youtube-earnings-demystified/"><u>2024 Approved The Money Behind the Screen YouTube Earnings Demystified</u></a></li>
-<li><a href="https://extra-information.techidaily.com/customizable-instagram-ringtones-made-easy/"><u>Customizable Instagram Ringtones Made Easy</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-free-mobile-radio-player-on-apple-devices-iphoneipadipod-touch/"><u>Discover the Ultimate Free Mobile Radio Player on Apple Devices (iPhone/iPad/iPod Touch)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discovering-concealed-ios-applications-a-comprehensive-guide/"><u>Discovering Concealed iOS Applications: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-strategies-for-preventing-spam-messages-in-ios-devices-guide-for-iphone-and-ipad-including-ios-18/"><u>Effective Strategies for Preventing Spam Messages in iOS Devices: Guide for iPhone & iPad (Including iOS 18)</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancing-rainbow-six-extraction-performance-fixing-your-games-frame-per-second-drops/"><u>Enhancing Rainbow Six Extraction Performance: Fixing Your Game's Frame Per Second Drops</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ating-wealth-with-makeup-channels/"><u>Generating Wealth with Makeup Channels</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Realme 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-motion-graphics-with-funimate-in-depth-analysis-for-top-notch-video-production-techniques/"><u>Mastering Motion Graphics with Funimate: In-Depth Analysis for Top-Notch Video Production Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-tips-effective-techniques-to-preserve-all-your-iphone-app-data/"><u>Quick Tips: Effective Techniques to Preserve All Your iPhone App Data</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-powerful-and-convenient-romer-rechargeable-flashlight/"><u>The Ultimate Guide to the Powerful and Convenient Romer Rechargeable Flashlight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-ranking-of-the-top-messaging-applications-on-iphone-and-android-phones/"><u>The Ultimate Ranking of the Top Messaging Applications on iPhone and Android Phones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-mobile-app-the-ultimate-video-editing-tool-for-android-users/"><u>Top-Rated Mobile App: The Ultimate Video Editing Tool for Android Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-the-non-functioning-facebook-messenger-application/"><u>Troubleshooting Guide: Resolving Issues with the Non-Functioning Facebook Messenger Application</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-tecno-spark-10c-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Tecno Spark 10C Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-interactive-learning-activities/"><u>[New] Interactive Learning Activities</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-rotating-the-ripple-effect-mastering-instagrams-video-manipulation-art/"><u>[Updated] In 2024, Rotating the Ripple Effect Mastering Instagram's Video Manipulation Art</u></a></li>
+<li><a href="https://app-tips.techidaily.com/24-billion-allocation-for-advanced-ict-systems-and-e-services-by-singapore-expert-analysis-on-zdnet/"><u>$2.4 Billion Allocation for Advanced ICT Systems and E-Services by Singapore | Expert Analysis on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/combatting-tech-burnout-how-artificial-intelligence-offers-relief-to-it-professionals/"><u>Combatting Tech Burnout: How Artificial Intelligence Offers Relief to IT Professionals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-combined-content-on-iphone-smoothly-for-2024/"><u>Crafting Combined Content on iPhone Smoothly for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/enhancing-user-interactions-crafting-improved-conversations-with-emeditor-your-advanced-text-editing-solution/"><u>Enhancing User Interactions: Crafting Improved Conversations with EmEditor - Your Advanced Text Editing Solution</u></a></li>
+<li><a href="https://app-tips.techidaily.com/equip-your-leaders-with-ai-knowledge-the-essential-step-highlighted-by-zdnet/"><u>Equip Your Leaders with AI Knowledge - The Essential Step Highlighted by ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-depth-effect-issue-on-ios-16s-lock-screen-using-our-top-7-tips/"><u>Fix Your Depth Effect Issue on iOS 16'S Lock Screen Using Our Top 7 Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-beta-to-mainstream-the-current-state-and-future-prospects-of-google-stadia/"><u>From Beta to Mainstream: The Current State & Future Prospects of Google Stadia</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-overcoming-the-missing-or-not-found-error-with-d3dx9-34dll/"><u>Guide: Overcoming the 'Missing or Not Found' Error with D3dx9_ 34.dll</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-the-power-of-full-stack-ai-conversations-with-your-enterprises-leading-tech-guru-zdnet-insights/"><u>Harnessing the Power of Full-Stack AI: Conversations with Your Enterprise's Leading Tech Guru | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-rapid-expansion-in-tech-fuels-employee-burnout-strategies-for-change/"><u>How Rapid Expansion in Tech Fuels Employee Burnout - Strategies for Change</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-x100-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo X100 online without jailbreak</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-spark-20-proplus-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovative-solutions-how-this-firms-ai-powered-tech-enhances-eco-friendly-smart-home-devices-insights-from-zdnet/"><u>Innovative Solutions: How This Firm's AI-Powered Tech Enhances Eco-Friendly Smart Home Devices - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-era-of-smart-coding-moving-past-basic-automation-to-ai-enhanced-software-creation-according-to-zdnet-experts/"><u>The Era of Smart Coding: Moving Past Basic Automation to AI-Enhanced Software Creation According to ZDNet Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/thriving-with-ai-proven-tactics-for-professionals-in-tech-to-excel-at-work-during-an-era-of-automation-guided-by-industry-leaders-on-zdnet/"><u>Thriving with AI: Proven Tactics for Professionals in Tech to Excel at Work During an Era of Automation - Guided by Industry Leaders on ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet
-date: 2024-12-30T20:01:22.590Z
-updated: 2025-01-02T23:20:09.410Z
+date: 2025-01-03T00:41:13.659Z
+updated: 2025-01-10T05:53:45.996Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-perfect-your-gaming-capture-console-gameplay-on-a-computer/"><u>[New] 2024 Approved Perfect Your Gaming Capture Console Gameplay on a Computer</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unlocking-the-potential-of-non-mic-sound-capture-methods/"><u>[New] In 2024, Unlocking the Potential of Non-Mic Sound Capture Methods</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-milliseconds-and-megabits-deconstructing-20mb-videos/"><u>[Updated] Milliseconds & Megabits Deconstructing 20MB Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-aural-enhancement-for-your-inshot-clips/"><u>2024 Approved Aural Enhancement for Your Inshot Clips</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/block-spontaneous-youtube-video-triggers/"><u>Block Spontaneous YouTube Video Triggers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-using-apple-clips-in-depth-analysis-and-tips/"><u>Comprehensive Guide to Using Apple Clips: In-Depth Analysis and Tips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-a78-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo A78 Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/into-the-abyss-and-beyond-shadowbearer-vs-daybeam/"><u>Into the Abyss and Beyond Shadowbearer Vs Daybeam</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/letzter-schlussel-zum-erfolg-herstellen-einer-sicherheitskopie-fur-ihr-pop3-postfach/"><u>Letzter Schlüssel Zum Erfolg: Herstellen Einer Sicherheitskopie Für Ihr POP3 Postfach</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-trusted-ipad-video-player-apps-of-2024-install-now/"><u>Top 5 Trusted iPad Video Player Apps of 2024 - Install Now</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-shotcut-video-editor-a-comprehensive-guide-dont-miss-it/"><u>Top-Ranked Shotcut Video Editor: A Comprehensive Guide - Don't Miss It!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193118-ultimate-summary-and-expert-take-on-gopro-quik-your-essential-reading-for-this-year/"><u>Ultimate Summary and Expert Take on GoPro Quik – Your Essential Reading for This Year!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-lumafusion-reigns-supreme-in-the-world-of-ios-video-editors-a-detailed-review/"><u>Why LumaFusion Reigns Supreme in the World of iOS Video Editors – A Detailed Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-performance-graphics-displayed-by-asus-proart/"><u>[New] High-Performance Graphics Displayed by ASUS ProArt</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-from-twitter-to-facebook-sending-your-tweets-for-2024/"><u>[Updated] From Twitter to Facebook Sending Your Tweets for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-windows-10-users-guide-saving-mov-files-flawlessly/"><u>[Updated] In 2024, Windows 10 Users' Guide Saving .mov Files Flawlessly</u></a></li>
+<li><a href="https://facebook.techidaily.com/big-tech-backs-health-5m-to-combat-virus-outbreak/"><u>Big Tech Backs Health: $5M to Combat Virus Outbreak</u></a></li>
+<li><a href="https://app-tips.techidaily.com/challenges-for-ai-communication-in-multilingual-contexts-revealed-by-stanford-study-featured-on-zdnet/"><u>Challenges for AI Communication in Multilingual Contexts Revealed by Stanford Study, Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/edge-computing-boom-unpacking-how-this-trend-shapes-future-careers-insights-from-zdnet/"><u>Edge Computing Boom: Unpacking How This Trend Shapes Future Careers - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-generative-ai-enhances-productivity-and-reshapes-the-role-of-software-developers-zdnet-insights/"><u>How Generative AI Enhances Productivity and Reshapes the Role of Software Developers | ZDNet Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-x50iplus-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor X50i+?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/marketing-mastery-discerning-real-engagement-from-skewed-statistics-for-2024/"><u>Marketing Mastery Discerning Real Engagement From Skewed Statistics for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-mastery-your-complete-user-manual/"><u>Mondly Mastery: Your Complete User Manual</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-measuring-system-memory-performance-in-windows-10-and-11/"><u>Step-by-Step Guide: Measuring System Memory Performance in Windows 10 & 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-bulletproof-ai-watermarks-insights-from-zdnet/"><u>The Ultimate Guide to Bulletproof AI Watermarks: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-web-hosting-plans-of-2024-comprehensive-reviews-and-comparisons-techradar/"><u>Top-Ranked Web Hosting Plans of 2024: Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-profitability-with-generative-ai-understanding-roi-challenges-and-strategies-featured-in-zdnet/"><u>Unlocking Profitability with Generative AI: Understanding ROI Challenges and Strategies | Featured in ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-future-careers-surprising-new-tech-positions-with-yet-to-be-named-titles-insights-from-zdnet/"><u>Unveiling Future Careers: Surprising New Tech Positions with Yet-to-Be-Named Titles - Insights From ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oppo-a1-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Oppo A1 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

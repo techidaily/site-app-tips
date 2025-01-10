@@ -1,7 +1,7 @@
 ---
 title: Tenfold Surge in Artifice Intelligence Initiatives This Year, Confirms ZDNet Insight Survey
-date: 2024-12-31T00:46:56.076Z
-updated: 2025-01-03T08:32:03.821Z
+date: 2025-01-08T21:22:32.561Z
+updated: 2025-01-09T16:25:50.371Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-slomo-videography-tool-assessment/"><u>[New] In 2024, Ultimate SloMo Videography Tool Assessment</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-lives-10-cinematic-inspirations/"><u>2024 Approved Transform Lives 10 Cinematic Inspirations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-the-glitch-ultimate-guide-to-stop-war-thunder-crashes/"><u>Beat the Glitch: Ultimate Guide to Stop War Thunder Crashes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-20-most-exceptional-lock-screen-utilities-tailored-for-android-smartphones/"><u>Discover the 20 Most Exceptional Lock Screen Utilities Tailored for Android Smartphones</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR, Apples New iPhone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/journey-through-gaming-landscapes-with-kinemaster-and-discover-its-best-competitors-for-2024/"><u>Journey Through Gaming Landscapes with KineMaster & Discover Its Best Competitors for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mumu-player-the-ultimate-powerful-android-emulation-tool-for-your-computer/"><u>MuMu Player: The Ultimate Powerful Android Emulation Tool for Your Computer</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-the-future-most-effective-voice-to-text-solutions/"><u>Navigating the Future: Most Effective Voice-to-Text Solutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/optimized-techniques-for-efficiently-reducing-the-size-of-wmv-video-files/"><u>Optimized Techniques for Efficiently Reducing the Size of WMV Video Files</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-iphone-a-comprehensive-guide-to-enabling-touch-id-and-passcode-protection/"><u>Securing Your iPhone: A Comprehensive Guide to Enabling Touch ID and Passcode Protection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-how-to-shield-your-iphone-and-ipad-against-unwanted-emails-with-ios-18-features/"><u>Step-by-Step Tutorial: How to Shield Your iPhone and iPad Against Unwanted Emails with iOS 18 Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-18-emoji-keyboard-apps-compatible-with-both-ios-and-android-devices/"><u>Top 18 Emoji Keyboard Apps Compatible with Both iOS & Android Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-taking-screenshots-on-mac-5-methods/"><u>[New] 2024 Approved Taking Screenshots on Mac [5 Methods]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-elite-selections-5-fast-screen-recorders-for-2024/"><u>[New] Elite Selections 5 Fast Screen Recorders for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-best-8-free-4k-video-player-software-for-windows-pcandmac/"><u>[Updated] 2024 Approved Best 8 Free 4K Video Player Software for Windows PC&Mac</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-full-guide-to-instagrams-per-video-limit/"><u>2024 Approved The Full Guide to Instagram's Per-Video Limit</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-tecno-camon-20-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Tecno Camon 20 Phone Screen?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-2023s-ultimate-selection-of-ios-devices-for-classic-psp-games/"><u>In 2024, 2023'S Ultimate Selection of iOS Devices for Classic PSP Games</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapore-invests-24-billion-in-enhancing-it-networks-and-digital-solutions-insights-from-zdnet/"><u>Singapore Invests $2.4 Billion in Enhancing IT Networks & Digital Solutions – Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-prolong-shutdown-in-windows-10-amidst-active-processes/"><u>Techniques to Prolong Shutdown in Windows 10 Amidst Active Processes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-now-reinventing-development-with-ai-in-low-code-and-no-code-solutions-featured-on-zdnet/"><u>The Future Is Now: Reinventing Development with AI in Low-Code and No-Code Solutions | Featured on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-insiders-guide-to-choosing-a-devops-path-benefits-vs-hurdles-in-detail/"><u>The Insider's Guide to Choosing a DevOps Path: Benefits Vs. Hurdles in Detail</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-it-expansion-navigating-the-increase-in-employee-burnout-solutions-for-a-healthier-workplace-zdnet/"><u>The Rise of IT Expansion: Navigating the Increase in Employee Burnout - Solutions for a Healthier Workplace | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-users-handbook-disabling-automatic-news-updates-in-the-start-menu/"><u>Windows 11 User's Handbook: Disabling Automatic News Updates in the Start Menu</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: LastPass to Become Separate Business as LogMeIn Executes Split Strategy | Tech Buzz on ZDNet
-date: 2024-12-31T05:08:59.025Z
-updated: 2025-01-02T16:26:22.712Z
+date: 2025-01-09T01:25:37.636Z
+updated: 2025-01-09T17:16:47.146Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ LogMeIn [announced](https://www.logmein.com/newsroom/press-release/2021/logmein-
 The cloud-based solutions company explained that the move allows LastPass to invest heavily in "customer experience, go-to-market functions and engineering" as a way to improve its "organic growth in password management," Single Sign-On (SSO) and multi-factor authentication (MFA). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -86,21 +86,22 @@ In a message to users, LastPass reiterated that it could "strategically increase
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-advanced-text-tools-and-ae-plug-ins-for-2024/"><u>[Updated] Advanced Text Tools & AE Plug-Ins for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-instagrams-daily-visual-narratives-for-2024/"><u>[Updated] Unlocking Instagram's Daily Visual Narratives for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/another-cyber-attack-on-lastpass-revealed-by-zdnets-latest-report/"><u>Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report</u></a></li>
-<li><a href="https://techtrends.techidaily.com/can-you-track-blood-pressure-with-the-upcoming-apple-watch-series-10-a-detailed-look/"><u>Can You Track Blood Pressure with the Upcoming Apple Watch Series 10? A Detailed Look</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-boost-your-websites-traffic-with-advanced-tracking-technology/"><u>Cookiebot-Enabled: Boost Your Website's Traffic with Advanced Tracking Technology</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ensure-optimal-performance-with-updated-logitech-g403-drivers-and-download-info/"><u>Ensure Optimal Performance with Updated Logitech G403 Drivers & Download Info</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-k11-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo K11 5G Device</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-protons-latest-innovation-a-fully-secured-password-safe-with-unbreakable-end-to-end-encryption/"><u>Introducing Proton's Latest Innovation: A Fully Secured Password Safe With Unbreakable End-to-End Encryption</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protonmail-unveils-new-secure-password-management-tool-featuring-military-grade-encryption/"><u>ProtonMail Unveils New Secure Password Management Tool Featuring Military-Grade Encryption</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protonmail-unveils-secure-password-manager-featuring-military-grade-encryption-latest-tech-news-on-zdnet/"><u>ProtonMail Unveils Secure Password Manager Featuring Military-Grade Encryption - Latest Tech News on ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-8-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 8 Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/restarting-and-fixing-errors-for-a-smooth-experience-in-internet-explorer/"><u>Restarting and Fixing Errors for a Smooth Experience in Internet Explorer</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-and-simplify-enhance-safety-and-convenience-of-your-online-accounts-with-our-top-rated-30-password-manager-zdnet-recommended/"><u>Secure & Simplify: Enhance Safety & Convenience of Your Online Accounts with Our Top-Rated $30 Password Manager (ZDNet Recommended)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/secure-your-entire-team-with-1password-unbeatable-group-plan-at-just-1995month-explore-the-benefits-on-zdnet/"><u>Secure Your Entire Team with 1Password: Unbeatable Group Plan at Just $19.95/Month - Explore the Benefits on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-and-activating-the-bitwarden-master-password-reminder-a-step-by-step-guide/"><u>Understanding & Activating the Bitwarden Master Password Reminder: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quick-methods-for-saving-vimeo-footage-for-2024/"><u>[New] Quick Methods for Saving Vimeo Footage for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-assessment-of-vlcs-digital-screen-monitoring/"><u>[Updated] 2024 Approved Assessment of VLC’s Digital Screen Monitoring</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-live-tv-access-a-top-ranked-list-review/"><u>[Updated] Mastering Live TV Access A Top-Ranked List Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-leading-apps-for-flawless-android-screenshots-and-recording/"><u>2024 Approved Leading Apps for Flawless Android Screenshots & Recording</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bing-chat-unveiled-leveraging-artificial-intelligence-and-powerful-gpt-4-algorithms/"><u>Bing Chat Unveiled: Leveraging Artificial Intelligence and Powerful GPT-4 Algorithms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/camstudio-recording-tech-a-comprehensive-2023-analysis-for-2024/"><u>CamStudio Recording Tech A Comprehensive 2023 Analysis for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/complete-critique-gopro-hero4-silver-sensor/"><u>Complete Critique GoPro HERO4 Silver Sensor</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-how-microsofts-bing-chat-revolutionizes-communication-through-advanced-gpt-4-technology/"><u>Discover How Microsoft's Bing Chat Revolutionizes Communication Through Advanced GPT-4 Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-elevenlabs-generative-voice-ai-and-similar-alternatives-on-the-market/"><u>Exploring ElevenLabs Generative Voice AI and Similar Alternatives on the Market</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-asus-rog-phone-7-by-drfone-android/"><u>In 2024, How to Bypass FRP from Asus ROG Phone 7?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-chatgpt-204-analysis-comprehensive-overview-capabilities-and-debugging-internal-server-errors/"><u>In-Depth ChatGPT 2#04 Analysis: Comprehensive Overview, Capabilities, and Debugging Internal Server Errors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-review-of-chatgpt-a-closer-look-at-its-attributes-performance-and-troubleshooting-errors/"><u>In-Depth Review of ChatGPT - A Closer Look at Its Attributes, Performance & Troubleshooting Errors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-world-of-chat-ai-a-closer-look-at-how-chatgpt-sets-new-standards-for-interaction/"><u>Navigating the World of Chat AI: A Closer Look at How ChatGPT Sets New Standards for Interaction</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/prime-online-communities-eclipsing-twitterenasity/"><u>Prime Online Communities Eclipsing Twitter'enasity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-communication-the-ultimate-review-of-the-unbeatable-apo-ai-chatbot/"><u>Revolutionizing Communication: The Ultimate Review of the Unbeatable Apo AI Chatbot</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-complete-verdict-on-the-mobvoi-ticwatch-pros-4g-connectivity-features/"><u>The Complete Verdict on the Mobvoi Ticwatch Pro's 4G Connectivity Features</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-comprehensive-guide-to-bings-ai-integration-with-the-cutting-edge-gpt-4-model/"><u>The Comprehensive Guide to Bing's AI Integration with the Cutting-Edge GPT-4 Model</u></a></li>
 </ul></div>
 

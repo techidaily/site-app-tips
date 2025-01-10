@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Digital Keykeeper: Essential Steps for Safer Password Management | ZDNet"
-date: 2024-12-27T06:00:29.633Z
-updated: 2025-01-03T03:24:33.441Z
+date: 2025-01-04T01:42:23.629Z
+updated: 2025-01-10T01:30:55.802Z
 tags:
   - password-manager
 categories:
@@ -22,7 +22,7 @@ Creating and remembering a unique and complex password for each of your accounts
 A good password manager will create, store, and apply strong and complex passwords across the board, thereby securing your accounts. I've used a password manager for years and wouldn't be able to juggle all my online accounts without it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Security
@@ -46,7 +46,7 @@ To protect yourself and your password information, there are steps you should ta
 We'll look at each step in more depth below. To go through the different steps, I'm using [RoboForm](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.roboform.com/) as an example, but the overall process should be similar for any of the [major password managers](https://www.zdnet.com/article/best-password-manager/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create your master passphrase
@@ -66,7 +66,7 @@ Create a strong master password for your password manager
 Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use biometric authentication
@@ -90,7 +90,7 @@ Use facial or fingerprint recognition to sign into your password manager
 Lance Whitney/Screenshot
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable two-factor authentication
@@ -139,16 +139,19 @@ Beyond the three security options I discussed, different password managers may o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-insiders-guide-to-instagram-stories-magic-for-2024/"><u>[New] The Ultimate Insider's Guide to Instagram Stories Magic for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-adjust-your-timeline-facebook-look-back-guide/"><u>2024 Approved Adjust Your Timeline Facebook Look Back Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-becoming-a-youtube-star-utilizing-the-power-of-featured-channels/"><u>2024 Approved Becoming a Youtube Star Utilizing the Power of Featured Channels</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/efficiently-recording-your-xbox-adventures/"><u>Efficiently Recording Your Xbox Adventures</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-8-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 8? How to Fix</u></a></li>
-<li><a href="https://app-tips.techidaily.com/locked-out-of-your-icloud-account-try-our-top-6-secrets-for-regaining-access/"><u>Locked Out of Your iCloud Account? Try Our Top ✨6 Secrets✨ for Regaining Access</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamless-iphone-photo-syncing-strategies-with-icloud-discover-these-4-effective-techniques/"><u>Seamless iPhone Photo Syncing Strategies with iCloud - Discover These 4 Effective Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simple-steps-access-your-icloud-images-from-anywhere/"><u>Simple Steps: Access Your iCloud Images From Anywhere</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-icloud-photo-sharing-issues-on-iphone-ipad-and-mac-a-comprehensive-guide/"><u>Solving iCloud Photo Sharing Issues on iPhone, iPad & Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-viewing-icloud-saved-passwords-on-ios-devices-and-computers/"><u>Step-by-Step Tutorial: Viewing iCloud Saved Passwords on iOS Devices & Computers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-guide-to-optimal-vr-headset-selection-freedom-or-connection/"><u>[New] 2024 Approved Guide to Optimal VR Headset Selection Freedom or Connection?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-conversational-flow-in-cinematic-storytelling/"><u>[New] Conversational Flow in Cinematic Storytelling</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-make-a-mark-with-minimal-fuss-simplified-video-editing-on-windows-10/"><u>[Updated] 2024 Approved Make a Mark with Minimal Fuss Simplified Video Editing on Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-stream-your-google-meet-talks-iphone-and-android/"><u>[Updated] How to Stream Your Google Meet Talks IPhone & Android</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194357-discover-the-top-factual-inshot-video-editing-tool-of-2024-a-must-see/"><u>Discover the Top Factual InShot Video Editing Tool of 2024 - A MUST-SEE</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-6-free-online-casino-slots-for-android-phones-and-iphones/"><u>Discover the Ultimate Selection of 6 Free Online Casino Slots for Android Phones and iPhones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dual-display-mastery-a-step-by-step-tutorial-for-macbook-air-users/"><u>Dual Display Mastery: A Step-by-Step Tutorial for MacBook Air Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/efficient-ipad-locator-tool-keep-an-eye-on-your-apple-tablet-anywhere/"><u>Efficient iPad Locator Tool: Keep an Eye on Your Apple Tablet Anywhere</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-methods-for-transferring-all-your-apps-from-one-iphone-to-another/"><u>Effortless Methods for Transferring All Your Apps From One iPhone to Another</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-13-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone 13 Pro and iPad</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-infinix-smart-7-hd-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Infinix Smart 7 HD FRP</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/investing-in-wi-fi-mesh-networking-pros-and-cons/"><u>Investing in Wi-Fi Mesh Networking: Pros and Cons</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620191785-top-insights-on-videoleap-dont-miss-whats-next/"><u>Top Insights on Videoleap - Don't Miss What's Next!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-ebook-with-confidence-the-ultimate-7-step-process-for-converting-epub-to-txt-now-working-flawlessly/"><u>Transform Your eBook with Confidence: The Ultimate 7-Step Process for Converting ePub to TXT - Now Working Flawlessly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses Artificial Intelligence & Embracing Rust in Computing | Tech Insights on ZDNet
-date: 2024-12-31T22:48:52.770Z
-updated: 2025-01-02T18:37:19.992Z
+date: 2025-01-09T01:06:49.420Z
+updated: 2025-01-10T00:00:11.792Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-best-meme-templates/"><u>[Updated] Top 10 Best Meme Templates</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-get-it-right-screencast-tips-from-ezvid-video-maker-pros/"><u>2024 Approved Get It Right Screencast Tips From EZvid Video Maker Pros</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>2024 Approved Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-wizards-whisper-are-voice-changer-apps-actual-magic-unveil-other-choices/"><u>2024 Approved Wizard's Whisper Are Voice Changer Apps Actual Magic? Unveil Other Choices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-and-fair-evaluation-of-airwatch-your-ultimate-guide/"><u>Comprehensive and Fair Evaluation of AirWatch - Your Ultimate Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/decouvrez-les-caracteristiques-technicales-approfondies-du-logiciel-dintelligence-artificielle-winxvideo-version-officielle-expliquee/"><u>Découvrez Les Caractéristiques Technicales Approfondies Du Logiciel D'Intelligence Artificielle Winxvideo - Version Officielle Expliquée</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-factual-inshot-video-editing-tool-of-2024-a-must-see/"><u>Discover the Top Factual InShot Video Editing Tool of 2024 - A MUST-SEE!</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-and-use-the-free-ogg-media-player-compatible-with-pc-and-mac/"><u>Download & Use the Free OGG Media Player Compatible with PC & Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-photography-skills-discover-5-remarkable-tools-for-upgrading-and-perfecting-images-beyond-remini/"><u>Elevate Your Photography Skills: Discover 5 Remarkable Tools for Upgrading and Perfecting Images Beyond Remini</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-xiaomi-redmi-a2plus-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-motorola-edge-40-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Motorola Edge 40? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-mobile-photography-top-iphone-editing-effects-for-stunning-images/"><u>Mastering Mobile Photography: Top iPhone Editing Effects for Stunning Images</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-romanian-naturally/"><u>Mastering Romanian, Naturally</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620190391-the-ultimate-guide-12-hilarious-mobile-faces-you-can-try-on-any-phone/"><u>The Ultimate Guide: 12 Hilarious Mobile Faces You Can Try on Any Phone!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-paid-and-free-calendar-applications-for-ios-devices/"><u>Top Rated Paid & Free Calendar Applications for iOS Devices</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211400224-9798330266012-twin-falls-saucer-hoax-simplified/"><u>Twin Falls Saucer Hoax Simplified | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193087-ultimate-review-of-the-shotcut-app-unveil-its-features-and-benefits-now/"><u>Ultimate Review of the Shotcut App: Unveil Its Features and Benefits Now!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193647-unlock-ultimate-convenience-and-safety-on-ios-discover-the-premier-password-protector-app/"><u>Unlock Ultimate Convenience & Safety on iOS - Discover the Premier Password Protector App!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-earn-big-start-small-top-13-profit-strategies-in-reddit-land-for-2024/"><u>[New] Earn Big, Start Small Top 13 Profit Strategies in Reddit Land for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ssential-inexpensive-vlogging-tools-listed-for-2024/"><u>[New] Essential, Inexpensive Vlogging Tools Listed for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-empowering-skill-advancement-beyond-artificial-intelligence-on-the-digital-frontier-insights-from-zdnet/"><u>1. Empowering Skill Advancement: Beyond Artificial Intelligence on the Digital Frontier - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-your-guide-to-masterful-mememaking-on-9gag/"><u>2024 Approved Your Guide to Masterful Mememaking on 9GAG</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-the-future-how-your-enterprise-will-depend-on-numerous-ai-solutions-insights-from-zdnet/"><u>Embracing the Future: How Your Enterprise Will Depend on Numerous AI Solutions - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-citizen-developers-and-it-teams-alike-with-low-codeno-code-solutions/"><u>Empowering Citizen Developers & IT Teams Alike with Low-Code/No-Code Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/evolving-with-intelligence-how-low-code-and-no-code-platforms-are-adapting-to-ai-demands-an-expert-analysis-by-zdnet/"><u>Evolving with Intelligence: How Low-Code and No-Code Platforms Are Adapting to AI Demands – An Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-uncharted-territory-of-emerging-ai-based-careers-decoding-their-intriguing-titles-and-futures-on-zdnet/"><u>Exploring the Uncharted Territory of Emerging AI-Based Careers: Decoding Their Intriguing Titles & Futures on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-uncharted-territory-the-emergence-of-innovative-yet-to-be-named-careers-in-the-age-of-artifice-intelligence/"><u>Exploring Uncharted Territory: The Emergence of Innovative, Yet-to-Be-Named Careers in the Age of Artifice Intelligence</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-se-2020ipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone SE (2020)/iPad/iPod</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterful-audio-selection-optimal-mics-for-intense-4k-shooting/"><u>Masterful Audio Selection Optimal Mics for Intense 4K Shooting</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-asymmetry-of-todays-live-tech-evolution-a-deep-dive-zdnet/"><u>Navigating the Asymmetry of Today's Live Tech Evolution: A Deep Dive | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-future-with-ai-agent-ecosystems-how-theyll-reshape-services-expert-analysis-by-zdnet/"><u>Navigating the Future with AI 'Agent Ecosystems': How They'll Reshape Services | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/seize-your-online-sessions-the-ultimate-browser-recording-tools-list-for-2024/"><u>Seize Your Online Sessions The Ultimate Browser Recording Tools List for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-downloading-and-watching-fandango-movies-from-your-couch-with-amazon-fire-tv/"><u>Step-by-Step Guide: Downloading and Watching Fandango Movies From Your Couch with Amazon Fire TV</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/streamlining-your-device-ios-15-update/"><u>Streamlining Your Device: IOS 15 Update</u></a></li>
+<li><a href="https://win11.techidaily.com/times-tick-tock-a-guide-to-reviving-missing-windows-server-services/"><u>Time's Tick-Tock: A Guide to Reviving Missing Windows Server Services</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-generative-ais-key-hurdle-demonstrating-tangible-returns-on-investment-insights-from-zdnet/"><u>Unveiling Generative AI's Key Hurdle: Demonstrating Tangible Returns on Investment – Insights From ZDNet</u></a></li>
 </ul></div>
 

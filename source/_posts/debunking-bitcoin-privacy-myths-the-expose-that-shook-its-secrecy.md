@@ -1,7 +1,7 @@
 ---
 title: "Debunking Bitcoin Privacy Myths: The Exposé That Shook Its Secrecy"
-date: 2025-01-01T19:44:27.444Z
-updated: 2025-01-03T03:29:02.665Z
+date: 2025-01-04T23:03:04.493Z
+updated: 2025-01-10T00:21:55.717Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,17 +119,19 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-compreran-a-deep-dive-into-the-logitech-4k-pro-webcam/"><u>[New] Compreran a Deep Dive Into the Logitech 4K Pro Webcam</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-master-the-basics-of-windows-10-effortlessly/"><u>[New] In 2024, Master the Basics of Windows 10 Effortlessly</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-audio-artists-approach-to-video-unboxing-for-2024/"><u>[New] The Audio Artist's Approach to Video Unboxing for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-tips-for-designing-and-updating-igtv-thumbnails/"><u>[Updated] Tips for Designing & Updating IGTV Thumbnails</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-get-facebook-links-fetched-top-8-free-tools-for-23/"><u>2024 Approved Get Facebook Links Fetched Top 8 Free Tools for '23</u></a></li>
-<li><a href="https://app-tips.techidaily.com/before-its-too-late-exploring-five-strategies-to-maintain-your-windows-pc-zdnet/"><u>Before It's Too Late: Exploring Five Strategies to Maintain Your Windows 지원 제한되는 PC | ZDNET</u></a></li>
-<li><a href="https://article-tips.techidaily.com/best-5-ios-backdrop-swappers-x87-edition-for-2024/"><u>Best 5 iOS Backdrop Swappers X/8/7 Edition for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/digital-evolution-in-business-the-crucial-role-of-enterprise-architects/"><u>Digital Evolution in Business: The Crucial Role of Enterprise Architects</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-innovation-beyond-apples-walls-why-diverse-workplaces-spark-creativity/"><u>Embracing Innovation Beyond Apple's Walls - Why Diverse Workplaces Spark Creativity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-revival-how-openstack-and-kata-containers-gain-new-ground-in-tech-markets-zdnet-insights/"><u>Exploring the Revival: How OpenStack and Kata Containers Gain New Ground in Tech Markets - ZDNet Insights</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-rules-2022s-premier-language-app/"><u>Mondly Rules: 2022'S Premier Language App</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-you-should-think-about-aiops-check-out-these-7-key-points-according-to-zdnet/"><u>Why You Should Think About AIOps? Check Out These 7 Key Points According To ZDNet</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-learn-to-download-discord-videos-without-cost-on-all-devices/"><u>[New] 2024 Approved Learn to Download Discord Videos Without Cost on All Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-beyond-the-buzz-a-ranked-guide-to-non-vimeo-edits-for-2024/"><u>[New] Beyond the Buzz A Ranked Guide to Non-Vimeo Edits for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-prime-windows-snipper-apps-listed-at-5/"><u>[New] In 2024, Prime Windows Snipper Apps Listed at #5</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-macbook-air-beginners-guide-to-screen-recording/"><u>[New] Mastering MacBook Air Beginner's Guide to Screen Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-resurrecting-windows-photo-viewer-a-compreehr-guide-for-win10-users/"><u>[Updated] Resurrecting Windows Photo Viewer - A Compreehr Guide for Win10 Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-unlocking-secure-vaults-a-guide-to-activating-bitwardens-master-password-prompt-feature/"><u>1. Unlocking Secure Vaults: A Guide to Activating Bitwarden's Master Password Prompt Feature</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-express-thumbnails-for-epic-battle-royale/"><u>2024 Approved Express Thumbnails for Epic Battle Royale</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-at-wwdc-2022-a-new-era-of-authentication-begins-tech-news/"><u>Apple Unveils Revolutionary Passkey at WWDC 2022 - A New Era of Authentication Begins | Tech News</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/boost-your-sites-traffic-using-cutting-edge-cookiebot-solutions/"><u>Boost Your Site's Traffic Using Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-security-while-watching-the-hidden-dangers-of-weak-passwords-in-streaming-platforms-cyberwatchers-blog/"><u>Enhance Security While Watching: The Hidden Dangers of Weak Passwords in Streaming Platforms | CyberWatchers Blog</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exclusive-offer-on-jem-authenticator-and-password-manager-enhance-login-security-with-ease-dive-into-zdnet/"><u>Exclusive Offer on JEM Authenticator & Password Manager: Enhance Login Security with Ease - Dive Into ZDNet!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-12-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 12 Pro Max without Password?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/superior-plus-top-billion-dollar-natural-gas-provider-targeted-by-cyber-attack-insights-from-zdnet/"><u>Superior Plus, Top Billion-Dollar Natural Gas Provider, Targeted by Cyber Attack: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-stronger-passwords-are-essential-protect-your-streaming-service-account-now-techadvice/"><u>Why Stronger Passwords Are Essential: Protect Your Streaming Service Account Now | TechAdvice</u></a></li>
 </ul></div>
 

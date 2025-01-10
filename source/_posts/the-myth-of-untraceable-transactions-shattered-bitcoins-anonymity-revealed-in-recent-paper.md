@@ -1,7 +1,7 @@
 ---
 title: "The Myth of Untraceable Transactions Shattered: Bitcoin's Anonymity Revealed in Recent Paper"
-date: 2025-01-02T11:13:33.713Z
-updated: 2025-01-02T21:32:02.634Z
+date: 2025-01-05T17:44:52.200Z
+updated: 2025-01-09T21:48:46.149Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,19 +119,20 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-peering-into-the-past-publicly-shared-masterpieces/"><u>[New] 2024 Approved Peering Into the Past Publicly Shared Masterpieces</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-jest-and-jibe-constructing-parody-videos/"><u>[New] Jest and Jibe Constructing Parody Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-selecting-sacred-sounds-for-smartphone-ringtones/"><u>[New] Selecting Sacred Sounds for Smartphone Ringtones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ace-guide-to-smooth-laptop-video-editing-via-inshot/"><u>[Updated] The Ace Guide to Smooth Laptop Video Editing via Inshot</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-storage-sizing-film-duration-in-gb/"><u>2024 Approved Storage Sizing Film Duration in GB</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/download-the-latest-public-beta-v086368-of-karaoke-pro-player-free-trial-available-now/"><u>Download the Latest Public Beta v0.8.6368 of Karaoke Pro Player – Free Trial Available Now!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-techniques-to-minimize-file-size-of-audio-messages-in-whatsapp/"><u>Effortless Techniques to Minimize File Size of Audio Messages in WhatsApp</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-intricacies-of-whatsapps-delete-for-all-functionality/"><u>Exploring the Intricacies of WhatsApp's 'Delete for All' Functionality</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-zte-nubia-flip-5g-by-drfone-android/"><u>Full Guide to Unlock Your ZTE Nubia Flip 5G</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guaranteed-methods-restore-deleted-whatsapp-content-on-your-iphone-including-messages-photos-videos-and-audio/"><u>Guaranteed Methods: Restore Deleted WhatsApp Content on Your iPhone Including Messages, Photos, Videos & Audio</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-7-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 7 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-how-to-manual-effortless-audio-clipping-from-whatsapp-chats/"><u>The Ultimate How-To Manual: Effortless Audio Clipping From WhatsApp Chats</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unpacking-the-features-of-googles-cutting-edge-palm-2-language-intelligence/"><u>Unpacking the Features of Google's Cutting-Edge PaLM 2 Language Intelligence</u></a></li>
-<li><a href="https://app-tips.techidaily.com/whatsapp-data-resurrection-steps-for-retrieving-chat-history-stored-in-google-drive-on-iphone-solved/"><u>WhatsApp Data Resurrection: Steps for Retrieving Chat History Stored in Google Drive on iPhone [Solved]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-foray-into-video-fidelity-an-initialists-perspective/"><u>[New] In 2024, Foray Into Video Fidelity An Initialist's Perspective</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-what-are-your-rights-exploring-legalities-of-video-sharing-on-fb/"><u>[New] In 2024, What Are Your Rights? Exploring Legalities of Video Sharing on FB</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-step-by-step-crafting-bespo-pointed-video-closures-on-the-dashboard/"><u>[Updated] 2024 Approved Step-by-Step Crafting Bespo Pointed Video Closures on the Dashboard</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-from-blurry-snaps-to-stunning-shots-learn-lunapic-editing/"><u>2024 Approved From Blurry Snaps to Stunning Shots Learn LunaPic Editing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adobe-full-voice-booster-evaluation-techniques-for-superior-sound-quality/"><u>Adobe Full Voice Booster Evaluation: Techniques for Superior Sound Quality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-4-online-tools-to-remove-ai-generated-logos-and-watermarks-from-your-video-content/"><u>Best Top 4 Online Tools to Remove AI-Generated Logos & Watermarks From Your Video Content</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-deeplucas-ai-powered-video-creation-tool-unveiling-key-attributes-and-benefits-vs-drawbacks/"><u>Comprehensive Analysis of DeepLucas' AI-Powered Video Creation Tool - Unveiling Key Attributes & Benefits vs Drawbacks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/creator-to-critic-evaluating-video-value-across-platforms/"><u>From Creator to Critic Evaluating Video Value Across Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instagram-enhancement-picture-posting-guide/"><u>In 2024, Instagram Enhancement Picture Posting Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-spirited-speeches-how-to-make-instagram-text-come-alive/"><u>In 2024, Spirited Speeches How to Make Instagram Text Come Alive</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-3-video-to-text-conversion-software-a-comprehensive-guide/"><u>Top 3 Video-to-Text Conversion Software: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-substitutes-for-elevenlabs-explored-detailed-comparison-and-key-characteristics/"><u>Top 5 Substitutes for ElevenLabs Explored: Detailed Comparison and Key Characteristics</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-superior-substitutes-to-zapier-enhance-your-workflow-automation/"><u>Top 5 Superior Substitutes to Zapier: Enhance Your Workflow Automation</u></a></li>
+<li><a href="https://fox-http.techidaily.com/tune-sharing-compliance-instagram-ip-codex/"><u>Tune-Sharing Compliance Instagram IP Codex</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-exceptional-no-limit-character-ai-solutions-for-dynamic-experiences/"><u>Unveiling Exceptional No-Limit Character AI Solutions for Dynamic Experiences</u></a></li>
 </ul></div>
 

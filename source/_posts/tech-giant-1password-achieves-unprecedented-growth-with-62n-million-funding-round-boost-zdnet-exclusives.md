@@ -1,7 +1,7 @@
 ---
 title: Tech Giant 1Password Achieves Unprecedented Growth with $62N Million Funding Round Boost | ZDNET Exclusives
-date: 2024-12-31T00:40:44.389Z
-updated: 2025-01-03T00:40:25.185Z
+date: 2025-01-02T21:01:22.777Z
+updated: 2025-01-09T20:54:21.956Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Password manager 1Password said it closed its latest funding round on Wednesday, raising $620 million and boosting its valuation to $6.8 billion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Password manager 1Password said it closed its latest funding round on Wednesday,
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Series C funding round included the participation of ICONIQ Growth, Tiger Global, Lightspeed Venture Partners, Backbone Angels, and Accel, which led the Canadian company's series A and B rounds. 
@@ -83,16 +83,18 @@ Will Griffith, a founding partner at ICONIQ Growth, said more than one hundred C
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-become-a-snapchat-pro-securing-and-sharing-screen-videos/"><u>[New] In 2024, Become a Snapchat Pro Securing & Sharing Screen Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-decoding-the-art-of-time-lapses-a-comprehensible-guide-with-gopro/"><u>[New] In 2024, Decoding the Art of Time Lapses A Comprehensible Guide with GoPro</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-memimagic-create-funny-images-on-the-go/"><u>[New] MemiMagic Create Funny Images On-the-Go</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-crafting-harmonious-photographic-mosaics-with-ease/"><u>[Updated] 2024 Approved Crafting Harmonious Photographic Mosaics with Ease</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-best-alternative-messaging-apps-to-whatsapp-10-amazing-choices/"><u>Discover the Best Alternative Messaging Apps to WhatsApp – 10 Amazing Choices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192671-discover-the-ideal-free-pdf-modification-apps-and-online-utilities-ranked-for-you/"><u>Discover the Ideal Free PDF Modification Apps & Online Utilities – Ranked for You</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sneak-peek-into-samsungs-upcoming-laptop-lineup-the-galaxy-book-4-edge-powered-by-qualcomms-latest-chip-pre-microsoft-event-tease/"><u>Sneak Peek Into Samsung's Upcoming Laptop Lineup: The Galaxy Book 4 Edge Powered by Qualcomm's Latest Chip - Pre-Microsoft Event Tease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/techniques-to-write-persuasive-videographic-dialogues-for-2024/"><u>Techniques to Write Persuasive Videographic Dialogues for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192928-top-5-trusted-ipad-video-player-apps-of-2024-install-now/"><u>Top 5 Trusted iPad Video Player Apps of 2024 - Install Now!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-recommended-apps-for-seamless-mobile-hotspot-access/"><u>Top Recommended Apps for Seamless Mobile Hotspot Access</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-potential-creating-compelling-content-on-your-phone/"><u>[New] Unlocking Potential Creating Compelling Content on Your Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rapid-video-rendering-in-powerpoint-presentations/"><u>[Updated] Rapid Video Rendering in PowerPoint Presentations</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-harmonizing-your-footage-with-optimal-aspect-ratios/"><u>2024 Approved Harmonizing Your Footage With Optimal Aspect Ratios</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-mastering-youtube-adjust-your-video-privacy-settings/"><u>2024 Approved Mastering YouTube Adjust Your Video Privacy Settings</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-no-cost-android-tracking-programs-top-5-picks-for-smartphone-surveillance/"><u>Best No-Cost Android Tracking Programs: Top 5 Picks for Smartphone Surveillance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193851-discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-chromebooks-zoom-experience/"><u>Elevating Your Chromebook's Zoom Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-computer-analysis-by-toms-electronics-hub/"><u>In-Depth Computer Analysis by Tom's Electronics Hub</u></a></li>
+<li><a href="https://extra-support.techidaily.com/secrets-to-selecting-a-premier-cinematographer-for-2024/"><u>Secrets to Selecting a Premier Cinematographer for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-must-have-mdm-solutions-expert-picks-for-optimal-mobile-control/"><u>Top 7 Must-Have MDM Solutions: Expert Picks for Optimal Mobile Control</u></a></li>
+<li><a href="https://win-lab.techidaily.com/troubleshooting-winodws-1110-error-0xc0000005-expert-tips-and-effective-solutions-for-developers/"><u>Troubleshooting Winodws 11/10 Error 0Xc0000005 - Expert Tips & Effective Solutions for Developers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194494-ultimate-selection-of-secure-android-app-protectors-find-out-which-ones-rank-the-highest/"><u>Ultimate Selection of Secure Android App Protectors – Find Out Which Ones Rank the Highest!</u></a></li>
 </ul></div>
 

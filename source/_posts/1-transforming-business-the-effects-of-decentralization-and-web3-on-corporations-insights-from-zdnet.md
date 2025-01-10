@@ -1,7 +1,7 @@
 ---
 title: "1. Transforming Business: The Effects of Decentralization & Web3 on Corporations - Insights From ZDNet"
-date: 2025-01-01T09:13:02.751Z
-updated: 2025-01-02T21:11:17.462Z
+date: 2025-01-04T01:21:22.016Z
+updated: 2025-01-10T01:18:33.038Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-no-cost-joke-factory-making-laughter-easy-for-2024/"><u>[New] No Cost Joke Factory Making Laughter Easy for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-broadcasting-solo-youtube-live-from-your-smartphone/"><u>[Updated] 2024 Approved Broadcasting Solo YouTube Live From Your Smartphone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ultimate-list-top-free-screen-recorder-tools-for-easy-capture/"><u>[Updated] 2024 Approved Ultimate List Top Free Screen Recorder Tools for Easy Capture</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-excellence-in-voice-modification-tools-featuring-magic/"><u>[Updated] In 2024, Excellence in Voice Modification Tools, Featuring Magic</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-ultimate-list-of-youtube-entrance-software/"><u>[Updated] Ultimate List of YouTube Entrance Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-discovering-the-ultimate-ai-watermark-techniques-insights-from-zdnet/"><u>1. Discovering the Ultimate AI Watermark Techniques: Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-dj-how-does-machine-curated-music-stack-up-against-human-selection/"><u>AI DJ: How Does Machine-Curated Music Stack Up Against Human Selection?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-biz-marketers-now-utilizing-artificial-intelligence-insights-from-zdnet/"><u>AI Integration: One-Third of Biz Marketers Now Utilizing Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortless-technique-to-move-videos-from-your-ipad-to-mac/"><u>Effortless Technique to Move Videos From Your iPad to Mac</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-chinas-leap-into-the-future-with-advanced-supercomputing-strategies/"><u>Empowering China's Leap Into the Future with Advanced Supercomputing Strategies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/evolving-threats-demand-modern-cyber-skills-as-security-professionals-grapple-with-outdated-infrastructures/"><u>Evolving Threats Demand Modern Cyber Skills as Security Professionals Grapple with Outdated Infrastructures</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-expert-tips-for-enhancing-youtube-videos-through-seo-mastery/"><u>In 2024, Expert Tips for Enhancing YouTube Videos Through SEO Mastery</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-complete-lowdown-on-io-image-recording-software/"><u>The Complete Lowdown on IO Image Recording Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-singapores-2nbillion-commitment-to-supercharge-its-it-infrastructure-and-elevate-digital-solutions-tech-insight/"><u>Unveiling Singapore's $2.nBillion Commitment to Supercharge Its IT Infrastructure and Elevate Digital Solutions | Tech Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-addressing-outdated-technology-is-crucial-a-case-study-on-migration-missteps/"><u>Why Addressing Outdated Technology Is Crucial: A Case Study on Migration Missteps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-pull-of-open-source-for-global-leaders-in-innovation/"><u>ZDNet Explores the Pull of Open Source for Global Leaders in Innovation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-impact-of-cutting-edge-ai-on-present-technology-systems-discoveries-by-zdnet/"><u>Exploring the Impact of Cutting-Edge AI on Present Technology Systems - Discoveries by ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-exploring-imovies-default-cropping-behavior/"><u>In 2024, Exploring iMovie's Default Cropping Behavior</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-artificial-intelligence-a-threat-to-cybersecurity-employment-prospects/"><u>Is Artificial Intelligence a Threat to Cybersecurity Employment Prospects?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722965881240-logitech-enhances-gamer-experience-check-out-the-new-extreme-3d-pro-mouse-software-version/"><u>Logitech Enhances Gamer Experience - Check Out the New Extreme 3D Pro Mouse Software Version</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-distance-a-deep-dive-review-into-the-dominating-presence-of-the-galaxy-ford-f-150-rc-truck/"><u>Mastering Distance: A Deep Dive Review Into the Dominating Presence of the Galaxy Ford F-150 RC Truck</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-tech-team-leadership-start-with-core-business-insights/"><u>Mastering Tech Team Leadership: Start with Core Business Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-family-safety-your-complete-reference/"><u>Microsoft Family Safety: Your Complete Reference</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overcoming-modern-hurdles-tackling-ambiguous-results-and-uncertain-precision-in-ai-expert-analysis-by-zdnet/"><u>Overcoming Modern Hurdles: Tackling Ambiguous Results and Uncertain Precision in AI | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-artificial-intelligence-data-as-the-key-element-strategies-to-complete-the-ai-jigsaw/"><u>Unlocking Artificial Intelligence: Data as the Key Element - Strategies to Complete the AI Jigsaw</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/yl-software-guide-to-efficiently-erasing-video-data-off-your-computer-step-by-step-tutorials-inside/"><u>YL Software Guide to Efficiently Erasing Video Data Off Your Computer – Step-by-Step Tutorials Inside!</u></a></li>
 </ul></div>
 

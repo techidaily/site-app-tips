@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Right Hosting Platform: GitHub or GitLab? - A Comparative Guide by ZDNet"
-date: 2024-12-30T11:11:53.855Z
-updated: 2025-01-03T09:23:03.644Z
+date: 2025-01-09T00:16:12.831Z
+updated: 2025-01-09T17:14:35.685Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,17 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-express-yourself-incorporating-emojis-into-yt-feedback/"><u>[New] Express Yourself Incorporating Emojis Into YT Feedback</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-driving-sales-not-just-views-monetizing-your-social-media-videos/"><u>[New] In 2024, Driving Sales, Not Just Views Monetizing Your Social Media Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-10-mobile-messaging-platforms-top-picks-for-ios-and-android-devices/"><u>Best 10 Mobile Messaging Platforms: Top Picks for iOS and Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-unlimited-stories-anytime-get-your-free-audiobooks-on-iphone-ipad-or-android/"><u>Experience Unlimited Stories Anytime: Get Your Free Audiobooks on iPhone, iPad, or Android!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/find-your-way-a-buyers-guide-to-the-top-key-tracking-innovations-of-2024/"><u>Find Your Way: A Buyer's Guide to the Top Key Tracking Innovations of 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme Narzo N55? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-sony-xperia-10-v-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Sony Xperia 10 V</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-translate-youtube-videos-to-english-subtitles/"><u>New In 2024, How to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/repair-techniques-for-damaged-computer-power-supplies-by-experts-at-yl-software/"><u>Repair Techniques for Damaged Computer Power Supplies by Experts at YL Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/stay-secure-and-connected-top-11-mobile-apps-for-hands-free-text-reading/"><u>Stay Secure and Connected: Top 11 Mobile Apps for Hands-Free Text Reading</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-8-xbox-console-emulators-on-pcandroid-reviewed-objectively/"><u>The Ultimate Guide: Top 8 Xbox Console Emulators on PC/Android, Reviewed Objectively</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-swf-player-apps-compatible-with-pc-mac-android-and-iphone-devices/"><u>Top Rated SWF Player Apps Compatible with PC, Mac, Android & iPhone Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhancing-your-stream-5-key-techniques-for-gamers-for-2024/"><u>[New] Enhancing Your Stream 5 Key Techniques for Gamers for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-experts-choice-the-best-of-all-8k-cameras/"><u>[Updated] Expert's Choice The Best of All 8K Cameras</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-melodies-that-matter-instagram-music-guide/"><u>[Updated] In 2024, Melodies that Matter Instagram Music Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-beginners-guide-to-ps4-game-broadcasting-with-obs/"><u>2024 Approved Beginner's Guide to PS4 Game Broadcasting with OBS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-professional-edge-without-solely-focusing-on-ai-insights-for-todays-workforce/"><u>Elevate Your Professional Edge Without Solely Focusing on AI | Insights for Today's Workforce</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-synergy-how-ai-empowers-developers-and-business-teams-insights-from-zdnet/"><u>Enhancing Synergy: How AI Empowers Developers & Business Teams - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-emerging-companies-can-leverage-ai-models-to-capture-market-share-insights-from-zdnet/"><u>How Emerging Companies Can Leverage AI Models to Capture Market Share: Insights From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-xiaomi-redmi-12-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Xiaomi Redmi 12 to Protect Your Individual Information</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-of-integrating-artificasternotext-ai-and-agile-methodologies-zdnet-reported-findings/"><u>Navigating the Complexities of Integrating Artificasternotext AI and Agile Methodologies - ZDNET Reported Findings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-rise-of-agent-ecosystems-in-artificial-intelligence-future-service-domination/"><u>Navigating the Rise of Agent Ecosystems in Artificial Intelligence: Future Service Domination</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/smart-strategies-for-utilizing-b-roll-footage-effectively/"><u>Smart Strategies for Utilizing B-Roll Footage Effectively</u></a></li>
 </ul></div>
 

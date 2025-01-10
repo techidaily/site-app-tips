@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity Measures
-date: 2024-12-29T19:55:29.524Z
-updated: 2025-01-03T07:57:53.104Z
+date: 2025-01-05T20:05:44.527Z
+updated: 2025-01-09T18:25:24.655Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,16 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-frame-flair-choosing-the-best-video-cameras-for-deliberate-moves/"><u>[New] Frame Flair Choosing the Best Video Cameras for Deliberate Moves</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/uidelines-to-frame-your-youtube-creation-flow/"><u>[New] Guidelines to Frame Your YouTube Creation Flow</u></a></li>
-<li><a href="https://fox-info.techidaily.com/10-best-free-luts-with-download-links-for-2024/"><u>10 Best Free LUTs with Download Links for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-master-your-youtube-empire-with-creator-studio-tools/"><u>2024 Approved Master Your YouTube Empire with Creator Studio Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/harnessing-artificer-networks-for-business-success-the-rise-of-ai-powered-agents/"><u>Harnessing Artificer Networks for Business Success - The Rise of AI-Powered Agents</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-businesses-can-profit-from-ai-innovations-despite-initial-hurdles-according-to-zdnet-expert-analysis/"><u>How Businesses Can Profit From AI Innovations Despite Initial Hurdles, According to ZDNet Expert Analysis</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-quick-guide-incorporating-more-photos-into-your-instagram-story/"><u>In 2024, Quick Guide Incorporating More Photos Into Your Instagram Story</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-androids-picture-in-picture-mode-a-comprehensive-guide/"><u>Mastering Android's Picture-in-Picture Mode: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-a-world-full-of-edge-devices-future-job-prospects-explained-by-zdnet/"><u>Navigating a World Full of Edge Devices: Future Job Prospects Explained by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unraveling-the-truth-top-5-errors-around-monetizing-information-according-to-zdnet/"><u>Unraveling the Truth: Top 5 Errors Around Monetizing Information, According to ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-how-top-innovators-are-drawn-to-open-source-a-deep-dive-by-zdnet/"><u>Unveiling How Top Innovators Are Drawn to Open Source: A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-analysis-of-t5-eyes-exceptional-action-recording/"><u>[Updated] Full Analysis of T5 Eye's Exceptional Action Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-precision-in-every-frame-top-9-tips-for-vr-filmmaking/"><u>[Updated] Precision in Every Frame Top 9 Tips for VR Filmmaking</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-customize-and-captivate-thumbnail-magic-for-shorts/"><u>2024 Approved Customize & Captivate Thumbnail Magic for Shorts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016310671-fix-the-silent-problem-in-jabra-g435-wireless-earbuds-comprehensive-fixes-here/"><u>Fix the Silent Problem in Jabra G435 Wireless Earbuds – Comprehensive Fixes Here!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-does-open-source-shape-ethical-ai-development-exploring-perspectives-on-zdnet/"><u>How Does Open Source Shape Ethical AI Development? Exploring Perspectives on ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-enhanced-with-codenotarys-new-software-bill-of-materials-service-the-latest-update-featured-by-zdnet/"><u>Kubernetes Enhanced with Codenotary’s New Software Bill of Materials Service - The Latest Update Featured by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-file-explorer-strategies-for-windows-11/"><u>Reviving File Explorer: Strategies for Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-changing-landscape-for-software-engineers-perspectives-by-atlassians-agnes-ro-on-zdnet/"><u>The Changing Landscape for Software Engineers: Perspectives by Atlassian's Agnes Ro on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-roadmap-for-integrating-artificial-intelligence-in-businesses-intels-forecast-featuring-zdnet-report/"><u>The Roadmap for Integrating Artificial Intelligence in Businesses: Intel's Forecast [Featuring ZDNet Report]</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-14-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 14 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
 

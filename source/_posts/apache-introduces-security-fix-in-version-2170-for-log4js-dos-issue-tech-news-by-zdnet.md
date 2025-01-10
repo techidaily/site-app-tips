@@ -1,7 +1,7 @@
 ---
 title: Apache Introduces Security Fix in Version 2.17.0 for Log4j's DoS Issue | Tech News by ZDNet
-date: 2024-12-28T01:26:14.320Z
-updated: 2025-01-03T11:44:53.760Z
+date: 2025-01-07T19:46:47.220Z
+updated: 2025-01-09T20:24:16.833Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -112,7 +112,7 @@ Close Modal Dialog
 Apache [has released version 2.17.0](https://logging.apache.org/log4j/2.x/security.html) of the patch for Log4j after discovering issues with their previous release, which [came out on Tuesday](https://www.zdnet.com/article/second-log4j-vulnerability-found-apache-log4j-2-16-0-released/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### more Log4j
@@ -190,22 +190,16 @@ The two went on to say that after looking at all publicly disclosed critical adv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-streampulse-app-testimonials/"><u>[Updated] StreamPulse App Testimonials</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unhindered-vision-capture-tool-for-2024/"><u>[Updated] Unhindered Vision Capture Tool for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anker-launches-revolutionary-solix-pioneering-the-future-of-home-energy-management/"><u>Anker Launches Revolutionary Solix: Pioneering the Future of Home Energy Management</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-steps-to-transition-from-windows-to-linux-mint-for-optimized-performance-cnet/"><u>Complete Steps to Transition From Windows to Linux Mint for Optimized Performance | C|Net</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-why-openai-leads-the-charge-in-advocacy-for-stricter-ai-oversight/"><u>Deciphering Why OpenAI Leads the Charge in Advocacy for Stricter AI Oversight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/evolution-of-dev-responsibilities-as-seen-by-agnes-ro-of-atlassian-expert-analysis-on-zdnet/"><u>Evolution of Dev Responsibilities as Seen by Agnes Ro of Atlassian | Expert Analysis on ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-smart-8-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Smart 8 Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-codenotarys-sbom-solution-a-revolution-in-managing-dependencies-on-kubernetes-insights-from-zdnet/"><u>Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphones-and-androids-face-off-determining-the-perfect-fit-for-your-needs/"><u>IPhones and Androids Face-Off: Determining the Perfect Fit for Your Needs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-shift-to-cloud-infrastructure-amidst-an-era-of-persistent-on-premises-systems-insights-from-zdnet/"><u>Navigating the Shift to Cloud Infrastructure Amidst an Era of Persistent On-Premises Systems | Insights From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/organizing-chaos-streamlining-linux-and-open-source-docs-solutions-from-zdnet/"><u>Organizing Chaos: Streamlining Linux & Open Source Docs - Solutions From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-rise-of-cloud-tech-vs-current-dominance-of-on-site-solutions-a-deep-dive-with-zdnet/"><u>The Rise of Cloud Tech Vs. Current Dominance of On-Site Solutions - A Deep Dive with ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-crm-platforms-of-2022-revealed-see-whos-leading-in-customer-engagement-zdnet/"><u>Top CRM Platforms of 2022 Revealed: See Who's Leading in Customer Engagement - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-list-leading-antivirus-programs-according-to-zdnet/"><u>Ultimate List: Leading Antivirus Programs , According to ZDNet</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-best-free-avi-video-rotators-for-windows-mac-android-and-iphone-in-year/"><u>Updated The Best Free AVI Video Rotators for Windows, MAC, Android, and iPhone in Year</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-vlog-like-a-pro-10-essential-editing-apps-for-mobile-creators/"><u>Updated Vlog Like a Pro 10 Essential Editing Apps for Mobile Creators</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-elevate-online-media-selecting-the-best-5-quality-boosters/"><u>[New] Elevate Online Media Selecting the Best 5 Quality Boosters</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastery-of-instagram-videography-blueprint-for-robust-marketing-plans/"><u>[New] In 2024, Mastery of Instagram Videography Blueprint for Robust Marketing Plans</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chuckling-chords-crafting-top-tier-meme-content-for-2024/"><u>Chuckling Chords Crafting Top-Tier Meme Content for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-on-cloud-storage-protecting-data-for-ipads-pro-mini-and-air-via-icloud/"><u>Complete Tutorial on Cloud Storage: Protecting Data for iPads (Pro, Mini, and Air) via iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264535-how-to-effortlessly-move-your-icloud-music-library-across-all-your-apple-gadgets-best-practices/"><u>How to Effortlessly Move Your iCloud Music Library Across All Your Apple Gadgets - Best Practices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-premier-selection-of-small-form-factor-pcs-for-gamers/"><u>The Premier Selection of Small Form Factor PCs for Gamers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-walkthrough-of-icloud-keychain-functionality-and-retrieving-your-data-on-iphone/"><u>The Ultimate Walkthrough of iCloud Keychain Functionality & Retrieving Your Data on iPhone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-4-methods-for-effortlessly-transferring-your-iphone-photos-to-icloud-a-complete-guide/"><u>Top 4 Methods for Effortlessly Transferring Your iPhone Photos to iCloud: A Complete Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-icloud-keychain-a-complete-guide-to-unlocking-your-iphones-secure-storage/"><u>Understanding iCloud Keychain: A Complete Guide to Unlocking Your iPhone's Secure Storage</u></a></li>
 </ul></div>
 

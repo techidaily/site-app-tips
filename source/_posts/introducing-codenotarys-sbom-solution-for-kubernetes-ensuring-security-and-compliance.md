@@ -1,7 +1,7 @@
 ---
 title: Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance
-date: 2024-12-28T22:41:34.569Z
-updated: 2025-01-03T03:57:04.025Z
+date: 2025-01-05T03:27:58.894Z
+updated: 2025-01-09T22:45:41.570Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,15 +176,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-compilation-of-techniques-to-source-background-images/"><u>[New] The Ultimate Compilation of Techniques to Source Background Images</u></a></li>
-<li><a href="https://app-tips.techidaily.com/accelerate-androids-speed-optimize-with-advanced-task-management-tools/"><u>Accelerate Android's Speed: Optimize with Advanced Task Management Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-free-and-paid-screen-mirroring-solutions-for-android-devices-top-9-app-picks/"><u>Best Free & Paid Screen Mirroring Solutions for Android Devices: Top 9 App Picks</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/building-brand-awareness-best-practices-for-snapchat/"><u>Building Brand Awareness Best Practices for Snapchat</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-manage-smartscreen-on-modern-windows-systems/"><u>How to Manage SmartScreen on Modern Windows Systems</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-pick-videopad-video-editor-review-and-buying-guide/"><u>New In 2024, Top Pick Videopad Video Editor Review and Buying Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/silencing-win-11s-mobility-hub/"><u>Silencing Win 11'S Mobility Hub</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-insights-on-videoleap-dont-miss-whats-next/"><u>Top Insights on Videoleap - Don't Miss What's Next</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-downloading-and-evaluating-apks-for-gaming-audio-content-and-device-rooting/"><u>Ultimate Guide to Downloading & Evaluating APKs for Gaming, Audio Content, and Device Rooting</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-journey-mastery-10-leading-apps-to-up-your-youtube-short-game/"><u>Video Journey Mastery 10 Leading Apps to Up Your Youtube Short Game</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-charting-a-course-through-youtubes-copyright-maze-for-2024/"><u>[Updated] Charting a Course Through YouTube's Copyright Maze for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bridging-cultures-2-years-of-mondly-language-adventure/"><u>Bridging Cultures: 2 Years of Mondly Language Adventure</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-x90s-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo X90S to iPod | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-to-mp4-perfection-uncover-2-most-effective-techniques-for-2024/"><u>Instagram to MP4 Perfection Uncover 2 Most Effective Techniques for 2024</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/speed-up-your-hp-notebook-effective-tips-for-a-swift-launch/"><u>Speed Up Your HP Notebook: Effective Tips for a Swift Launch</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-overlooked-foundation-of-ai-success-enhancing-machine-learning-with-essential-data-insights/"><u>The Overlooked Foundation of AI Success: Enhancing Machine Learning with Essential Data Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-complete-ai-workflow-engaging-with-organizations-leading-tech-expertise-zdnet/"><u>Unveiling the Complete AI Workflow: Engaging with Organization's Leading Tech Expertise | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/utilizing-artificial-intelligence-the-key-strategy-to-alleviate-job-burnout-and-combat-alert-overload-for-it-professionals-insights-from-zdnet/"><u>Utilizing Artificial Intelligence: The Key Strategy to Alleviate Job Burnout & Combat Alert Overload for IT Professionals | Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-how-many-marketing-teams-are-using-ai-the-answer-may-surprise-you/"><u>ZDNet Reveals: How Many Marketing Teams Are Using AI? The Answer May Surprise You!</u></a></li>
 </ul></div>
 

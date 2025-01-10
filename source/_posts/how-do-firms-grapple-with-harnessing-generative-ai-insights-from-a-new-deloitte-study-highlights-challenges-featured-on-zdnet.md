@@ -1,7 +1,7 @@
 ---
 title: "How Do Firms Grapple with Harnessing Generative AI: Insights From a New Deloitte Study Highlights Challenges - Featured on ZDNet"
-date: 2025-01-02T02:06:39.020Z
-updated: 2025-01-03T12:26:50.964Z
+date: 2025-01-05T18:11:05.039Z
+updated: 2025-01-10T05:14:36.639Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,18 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-social-media-savvy-the-best-25-hashtags-for-likes-and-followers-for-2024/"><u>[New] Social Media Savvy The Best 25 Hashtags for Likes and Followers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-highest-ranked-live-streamers-with-local-channel-access-2024/"><u>[Updated] Highest-Ranked Live Streamers with Local Channel Access, 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-quality-economical-cam-recorder/"><u>[Updated] In 2024, Top Quality Economical Cam Recorder</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-streaming-service-comparison-facebook-live-vs-youtube-live-and-spaces/"><u>[Updated] Streaming Service Comparison Facebook LIVE Vs. YouTube Live & Spaces</u></a></li>
-<li><a href="https://app-tips.techidaily.com/24-billion-allocation-for-advanced-ict-systems-and-e-services-by-singapore-expert-analysis-on-zdnet/"><u>$2.4 Billion Allocation for Advanced ICT Systems and E-Services by Singapore | Expert Analysis on ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/combatting-tech-burnout-how-artificial-intelligence-offers-relief-to-it-professionals/"><u>Combatting Tech Burnout: How Artificial Intelligence Offers Relief to IT Professionals</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/digiarty-expert-in-converting-and-managing-your-digital-media-with-dvd-and-video-tools/"><u>Digiarty - Expert in Converting and Managing Your Digital Media with DVD & Video Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fading-frame-fiasco-laptop-woes/"><u>Fading Frame Fiasco: Laptop Woes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-redmi-note-12t-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Redmi Note 12T Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-c65-lock-screen-password-by-drfone-android/"><u>How To Change Poco C65 Lock Screen Password?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-era-of-smart-coding-moving-past-basic-automation-to-ai-enhanced-software-creation-according-to-zdnet-experts/"><u>The Era of Smart Coding: Moving Past Basic Automation to AI-Enhanced Software Creation According to ZDNet Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/thriving-with-ai-proven-tactics-for-professionals-in-tech-to-excel-at-work-during-an-era-of-automation-guided-by-industry-leaders-on-zdnet/"><u>Thriving with AI: Proven Tactics for Professionals in Tech to Excel at Work During an Era of Automation - Guided by Industry Leaders on ZDNET</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/vimeo-videos-on-instagram-a-complete-guide/"><u>Vimeo Videos on Instagram A Complete Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-tutorial-incorporate-snap-camera-in-microsoft-teams-chats/"><u>[Updated] Quick Tutorial Incorporate Snap Camera in Microsoft Teams Chats</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-brawlers-domain-vs-twitch-territory-for-2024/"><u>[Updated] The Brawler's Domain Vs. Twitch Territory for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-maximizing-impact-a-compreehensive-guide-for-setting-and-assessing-fb-in-stream-ads/"><u>2024 Approved Maximizing Impact A Compreehensive Guide for Setting & Assessing FB In-Stream Ads</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-spearheads-the-surge-in-non-cash-payments-forecasted-reach-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Cash Payments: Forecasted Reach of $1.6 Trillion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-steps-to-perform-a-complete-factory-reset-on-your-hp-laptop/"><u>Comprehensive Guide: Steps to Perform a Complete Factory Reset on Your HP Laptop</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-supercomputers-are-pivotal-in-chinas-quest-for-a-revolutionary-digital-metamorphosis/"><u>How Supercomputers Are Pivotal in China's Quest for a Revolutionary Digital Metamorphosis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-top-tech-pioneers-are-harnessing-the-power-of-open-source-for-groundbreaking-innovations-explore-with-zdnet/"><u>How Top Tech Pioneers Are Harnessing the Power of Open Source for Groundbreaking Innovations | Explore with ZDNET</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/merge-music-and-graphics-in-ppt-for-2024/"><u>Merge Music and Graphics in PPT for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-challenges-of-integrating-agile-with-artificial-intelligence-development-latest-research-reveals-complications-zdnet/"><u>Navigating the Challenges of Integrating Agile with Artificial Intelligence Development - Latest Research Reveals Complications | ZDNet</u></a></li>
+<li><a href="https://win-updates.techidaily.com/titre-seo-lemergence-du-secteur-de-lintelligence-comprendre-les-entreprises-intelligentes/"><u>Titre SEO: L'émergence Du Secteur De L'intelligence : Comprendre Les Entreprises Intelligentes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-and-resolving-non-functional-synaptics-mousetouchscreen-drivers-on-windows-10/"><u>Troubleshooting and Resolving Non-Functional Synaptics Mouse/Touchscreen Drivers on Windows 10</u></a></li>
 </ul></div>
 

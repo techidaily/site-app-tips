@@ -1,7 +1,7 @@
 ---
 title: "From LastPass to iCloud: Transition Your Passwords Securely on PC - Expert Tips From ZDNet"
-date: 2024-12-28T07:06:31.527Z
-updated: 2025-01-02T19:45:41.968Z
+date: 2025-01-03T00:26:19.708Z
+updated: 2025-01-09T16:52:05.945Z
 tags:
   - password-manager
 categories:
@@ -19,10 +19,6 @@ Image: Maria Diaz/ZDNET
 
 An [Apple ID](https://www.zdnet.com/article/your-friends-could-help-stop-you-getting-locked-out-of-your-apple-id/) gives you access to many perks within the Apple software ecosystem, and one of them is [Keychain](https://www.zdnet.com/article/how-to-locate-a-password-with-the-macos-keychain/): iCloud's password manager. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
@@ -35,11 +31,11 @@ If you've been around for the past 10 or so years, you know that most services r
 
 But how can I remember all these passwords if I can't even remember my significant other's phone number half the time?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use iCloud as a password manager on Windows
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open iCloud for Windows
 
@@ -61,6 +57,10 @@ Sign in with your Apple ID and password.
 
 Image: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Make sure Passwords is on and click Apply
 
 Make sure Passwords is selected on the iCloud window, then click on **Apply** to make the changes. 
@@ -81,10 +81,6 @@ Maria Diaz/ZDNET
 
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Autofill on Chrome
 
 Since I added the [Google Chrome extension](https://www.zdnet.com/article/best-chrome-extension/), the next step is to **Enable Autofill** to give Chrome permission to my iCloud Passwords.
@@ -100,6 +96,10 @@ Maria Diaz/ZDNET
 Enter the verification code. 
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Try out the password manager
 
@@ -120,7 +120,7 @@ Like LastPass, the browser extension will let you fill in your login information
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How do I set up iCloud Keychain? 
@@ -130,7 +130,7 @@ iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/arti
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
@@ -167,17 +167,18 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-your-slide-show-webcam-screen-capture-methods/"><u>[New] In 2024, Mastering Your Slide Show Webcam Screen Capture Methods</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-quick-guide-best-ways-to-recognize-sound-in-windows-11-devices/"><u>[New] In 2024, Quick Guide Best Ways to Recognize Sound in Windows 11 Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-picks-for-drone-pilots-vr-eyewear/"><u>2024 Approved Expert Picks for Drone Pilots’ VR Eyewear</u></a></li>
-<li><a href="https://some-tips.techidaily.com/arista-elevates-network-solutions-with-enhanced-routing-options-tailored-for-the-cloud-era-as-reported-by-zdnet/"><u>Arista Elevates Network Solutions with Enhanced Routing Options Tailored for the Cloud Era, as Reported by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-setting-up-and-accessing-kik-chat-app-for-windowsmac-users/"><u>Complete Tutorial: Setting Up & Accessing Kik Chat App for Windows/Mac Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-m34-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy M34 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expertly-curated-list-the-ultimate-9plus1-video-streaming-solutions-for-android-devices/"><u>Expertly Curated List: The Ultimate 9+1 Video Streaming Solutions for Android Devices</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/guide-to-utilizing-siri-on-tiktok-videos/"><u>Guide to Utilizing Siri on TikTok Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximizing-engagement-a-pathway-to-higher-subscriber-numbers-for-2024/"><u>Maximizing Engagement A Pathway to Higher Subscriber Numbers for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-moving-your-iphone-applications-seamlessly-between-iphones/"><u>Step-by-Step Guide: Moving Your iPhone Applications Seamlessly Between iPhones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192484-ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-silence-unwanted-post-suggestions-on-insta-for-2024/"><u>[New] Silence Unwanted Post Suggestions on Insta for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bygone-beauty-iphone-x-portrait-moments/"><u>[Updated] Bygone Beauty IPhone X Portrait Moments</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-enhancing-productivity-with-efficient-nvidia-capture/"><u>[Updated] Enhancing Productivity with Efficient NVIDIA Capture</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-mac-mavericks-blueprint-for-crafting-captivating-youtube-content/"><u>[Updated] In 2024, Mac Mavericks' Blueprint for Crafting Captivating YouTube Content</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-clicks-and-points-exploring-how-generative-artificial-intelligence-is-revolutionizing-user-interface-design-featured-on-zdnet/"><u>Beyond Clicks & Points: Exploring How Generative Artificial Intelligence Is Revolutionizing User Interface Design | Featured on ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-clipcomposer-critique-full-report/"><u>In 2024, ClipComposer Critique – Full Report</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-honor-magic-5-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Honor Magic 5</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-web-hosting-providers-in-depth-analysis-by-professionals-pcmag/"><u>Leading Web Hosting Providers : In-Depth Analysis by Professionals | PCMag</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-ai-limitations-an-in-depth-look-at-precision-challenges-by-zdnet/"><u>Mastering AI Limitations: An In-Depth Look at Precision Challenges by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-digital-defense-the-urgent-call-for-enhanced-cybersecurity-expertise-amidst-legacy-system-challenges/"><u>Navigating the Digital Defense: The Urgent Call for Enhanced Cybersecurity Expertise Amidst Legacy System Challenges</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-to-the-latest-realtek-display-driver-for-windows-11-users/"><u>Upgrade to the Latest: Realtek Display Driver for Windows 11 Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-se-2022-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone SE (2022) i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Critical Security Flaw Found in Popular Linux Tool Curl - Fixes Deployed by Developers
-date: 2024-12-30T10:09:43.845Z
-updated: 2025-01-03T06:11:51.162Z
+date: 2025-01-05T01:06:15.398Z
+updated: 2025-01-09T22:07:13.070Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-breaking-ground-in-video-marketing-setting-up-a-review-chain/"><u>[New] Breaking Ground in Video Marketing Setting Up a Review Chain</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-guide-to-capturing-google-voice-chats-for-2024/"><u>[New] Guide to Capturing Google Voice Chats for 2024</u></a></li>
-<li><a href="https://solve-help.techidaily.com/mp4iso3/"><u>最新のMP4をISOに優れた無料変換ツール：ベスト3</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/adding-frames-to-instagram-videos-3-procedures-for-2024/"><u>Adding Frames to Instagram Videos - 3 Procedures for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-chatbot-bias-revealed-lingual-limitations-highlighted-by-new-stanford-research-insights-on-googles-language-barrier/"><u>AI Chatbot Bias Revealed: Lingual Limitations Highlighted by New Stanford Research - Insights on Google's Language Barrier</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asean-countries-set-to-boost-digital-market-with-stronger-regulations-reaching-2t-growth-by-2030-insights-from-zdnet/"><u>ASEAN Countries Set to Boost Digital Market with Stronger Regulations, Reaching $2T Growth by 2030 - Insights From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/banking-industry-leader-urges-innovative-thinking-over-easy-solutions-in-artificial-intelligence-insights-from-a-top-cio-zdnet/"><u>Banking Industry Leader Urges Innovative Thinking Over Easy Solutions in Artificial Intelligence - Insights From a Top CIO | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-point-and-click-the-transformation-of-ui-with-generative-artificial-intelligence/"><u>Beyond Point-and-Click: The Transformation of UI with Generative Artificial Intelligence</u></a></li>
-<li><a href="https://win-news.techidaily.com/download-top-jiu-jitsu-techniques-from-expertly-curated-bjj-video-collection/"><u>Download Top Jiu-Jitsu Techniques From Expertly Curated BJJ Video Collection</u></a></li>
-<li><a href="https://app-tips.techidaily.com/future-of-service-delivery-mastering-agent-ecosystems-in-the-age-of-ai/"><u>Future of Service Delivery: Mastering Agent Ecosystems in the Age of AI</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-itel-s23-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Itel S23 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-narzo-n53-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme Narzo N53 Phone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-shift-how-generative-ai-is-carving-out-unique-leadership-roles-at-tech-giants-zdnet/"><u>Navigating the Shift: How Generative AI Is Carving Out Unique Leadership Roles at Tech Giants | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-challenges-of-integrating-agile-and-ai-development-key-findings-revealed-by-new-study-innovationhub/"><u>The Challenges of Integrating Agile and AI Development – Key Findings Revealed by New Study | InnovationHub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-value-packed-gaming-laptops-available-for-under-a-grand/"><u>Top Value-Packed Gaming Laptops Available for Under a Grand</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-seamlessly-personalize-your-youtube-shorts-with-custom-thumbnails/"><u>[New] In 2024, Seamlessly Personalize Your Youtube Shorts with Custom Thumbnails</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-orchestrating-the-soundscape-finding-perfect-background-tunes/"><u>[New] Orchestrating the Soundscape Finding Perfect Background Tunes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-calendar-imprinting-techniques-in-photography/"><u>[Updated] In 2024, Calendar Imprinting Techniques in Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-screen-time-treasure-summers-top-10-gems/"><u>2024 Approved The Ultimate Screen Time Treasure Summer’s Top 10 Gems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-reno-10-proplus-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo Reno 10 Pro+ 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/banking-on-innovation-cio-demands-visionary-thinkers-over-easy-prompt-compositions-for-advancing-ai/"><u>Banking on Innovation: CIO Demands Visionary Thinkers Over Easy Prompt Compositions for Advancing AI</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-you-master-artificial-intelligence-without-technical-expertise-the-need-for-multidisciplinary-approaches-in-tackling-complex-systems-insights-from-zdnet53/"><u>Can You Master Artificial Intelligence Without Technical Expertise? The Need for Multidisciplinary Approaches in Tackling Complex Systems - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/direct-entry-into-your-channel-simplifying-the-follow-button-creation/"><u>Direct Entry Into Your Channel Simplifying the Follow Button Creation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-paradox-how-generative-ai-could-increase-labor-demand-despite-efficiency-goals/"><u>Exploring the Paradox: How Generative AI Could Increase Labor Demand Despite Efficiency Goals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-root-of-tech-industry-burnout-causes-and-solutions/"><u>Exploring the Root of Tech Industry Burnout: Causes & Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-extended-review-straightforward-implementation-of-hdr/"><u>In 2024, Extended Review Straightforward Implementation of HDR</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-pova-5-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Pova 5 ProFRP Lock</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/incorporating-ai-into-fitness-coaching-the-ultimate-guide-to-chatgpt-for-personalized-workouts/"><u>Incorporating AI Into Fitness Coaching: The Ultimate Guide to ChatGPT for Personalized Workouts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-sustainability-in-iot-with-artificial-intelligence-company-x-unveils-green-innovation-for-smart-homes-featured-on-zdnet/"><u>Revolutionizing Sustainability in IoT with Artificial Intelligence | Company X Unveils Green Innovation for Smart Homes, Featured on ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-streaming-tutorial-installing-apple-tv-on-amazon-fire-stick/"><u>Seamless Streaming Tutorial: Installing Apple TV on Amazon Fire Stick</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-finance-projected-growth-of-cashless-transactions-at-16t-with-asia-paving-the-way-zdnet-analysis/"><u>The Future of Finance: Projected Growth of Cashless Transactions at $1.6T with Asia Paving the Way | ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-potential-of-artificial-intelligence-strategies-for-new-entrants-in-todays-markets-zdnet-analysis/"><u>Unlocking the Potential of Artificial Intelligence: Strategies for New Entrants in Today's Markets | ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-trustworthy-ai-watermarking-strategies-with-expert-advice-on-zdnet/"><u>Unveiling Trustworthy AI Watermarking Strategies with Expert Advice on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/upgrading-singapores-digital-landscape-24b-allocation-for-ict-improvements-and-online-services-expansion-infotech-insights/"><u>Upgrading Singapore's Digital Landscape: $2.4B Allocation for ICT Improvements and Online Services Expansion | InfoTech Insights</u></a></li>
 </ul></div>
 

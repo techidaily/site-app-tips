@@ -1,7 +1,7 @@
 ---
 title: "Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default"
-date: 2024-12-29T21:21:11.815Z
-updated: 2025-01-03T07:19:13.602Z
+date: 2025-01-03T16:40:46.787Z
+updated: 2025-01-09T21:17:39.996Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ Google [has auto enrolled](https://blog.google/technology/safety-security/reduci
 The initiative also involved requiring 2 million YouTube users to enable it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google
@@ -79,22 +79,14 @@ Google [announced](https://www.zdnet.com/article/by-end-of-2021-google-plans-to-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-full-screen-perfection-the-top-4-pcmac-screen-recorders/"><u>[New] 2024 Approved Full-Screen Perfection The Top 4 PC/Mac Screen Recorders</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-pioneering-visual-stunts-from-the-ground-up/"><u>2024 Approved Pioneering Visual Stunts From the Ground Up</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/2024-miomio-pciphoneandroid/"><u>2024 Miomio開始不可能、再生困難、接続不成功の原因と解決法 (PC、iPhone、Android用)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-top-5-tools-for-simple-message-access-and-viewing-on-your-pc/"><u>Best Top 5 Tools for Simple Message Access & Viewing on Your PC</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/charting-the-high-tide-of-piracy-phrases/"><u>Charting the High Tide of Piracy Phrases</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-7-mdm-applications-leading-software-reviews-for-efficient-device-management/"><u>Discover the Ultimate 7 MDM Applications: Leading Software Reviews for Efficient Device Management</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-note-taking-solutions-for-android-phones-our-favorite-5-apps/"><u>Discover the Ultimate List of Note-Taking Solutions for Android Phones: Our Favorite 5 Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-android-lock-screen-widgets-expertly-curated-free-plus-paid-varieties-for-optimal-usage/"><u>Discover the Ultimate Selection of Android Lock Screen Widgets: Expertly Curated Free + Paid Varieties for Optimal Usage</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-your-gameplay-top-techniques-to-resolve-fps-dips-in-elden-ring/"><u>Fix Your Gameplay: Top Techniques to Resolve FPS Dips in Elden Ring</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/how-to-record-and-save-streaming-audio-with-ease/"><u>How to Record and Save Streaming Audio with Ease</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-samsung-galaxy-a14-4g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Samsung Galaxy A14 4G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-the-ultimate-list-of-engaging-moba-titles-on-android/"><u>In 2024, The Ultimate List of Engaging MOBA Titles on Android</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/optimize-video-quality-ensure-seamless-streaming-across-all-devices/"><u>Optimize Video Quality: Ensure Seamless Streaming Across All Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-and-easy-guide-to-rapid-iphone-app-migration-discover-the-fastest-transfer-techniques/"><u>Quick & Easy Guide to Rapid iPhone App Migration: Discover the Fastest Transfer Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-wi-fi-messaging-apps-for-seamless-internet-text-communication/"><u>Top 5 Wi-Fi Messaging Apps for Seamless Internet Text Communication</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-6-best-free-slots-games-must-have-mobile-apps-for-android-and-ios/"><u>Top 6 Best Free Slots Games: Must-Have Mobile Apps for Android & iOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-iphone-updates-top-issues-and-fixes/"><u>Troubleshooting iPhone Updates: Top Issues & Fixes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-practical-steps-for-disabling-youtube-channels-on-devices/"><u>[Updated] 2024 Approved Practical Steps for Disabling YouTube Channels on Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-recordings-doing-without-a-microphone/"><u>[Updated] In 2024, Elevate Your Recordings Doing Without a Microphone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-to-refined-the-ultimate-youtube-studio-editing-journey/"><u>[Updated] In 2024, From Raw to Refined The Ultimate YouTube Studio Editing Journey</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-instructions-on-how-to-exit-your-account-in-facebook-messenger/"><u>Easy Instructions on How to Exit Your Account in Facebook Messenger</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-instagram-tips-sharing-your-podcast-content/"><u>In 2024, Instagram Tips Sharing Your Podcast Content</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Preparation to Beat Giovani in Pokemon Go For Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-solution-effective-ways-to-repair-your-facebook-messaging-app-when-it-stops-working/"><u>Step-by-Step Solution: Effective Ways to Repair Your Facebook Messaging App When It Stops Working</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-18-most-popular-emoji-apps-for-iphones-and-android-phones/"><u>The Ultimate List of the 18 Most Popular Emoji Apps for iPhones and Android Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-android-app-locks-essential-guides-and-reviews/"><u>Top-Rated Android App Locks: Essential Guides and Reviews</u></a></li>
 </ul></div>
 

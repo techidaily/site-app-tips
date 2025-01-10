@@ -1,7 +1,7 @@
 ---
 title: "Security Champions Earn Big: Bugcrowd Raises Bounty Ceiling to $1M – What ZDNET Reports on Cybersecurity Incentives"
-date: 2024-12-27T06:00:39.074Z
-updated: 2025-01-03T11:13:49.180Z
+date: 2025-01-08T21:33:21.722Z
+updated: 2025-01-09T19:17:57.724Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 The company averages about $900 per reward, but 1Password CEO Jeff Shiner said the company hopes to "attract another layer of outside expertise to make sure our systems are as secure as possible." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -70,22 +70,21 @@ The company also has an internal "Eyes of the Month program" for their employees
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/best-2024-guide-top-5-best-offline-and-online-ai-powered-video-stabilization-tools/"><u>Best 2024 Guide: Top 5 Best Offline & Online AI-Powered Video Stabilization Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-top-5-artificial-intelligence-applications-for-enhancing-monochrome-footage/"><u>Best Top 5 Artificial Intelligence Applications for Enhancing Monochrome Footage</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-top-ranked-automated-video-editing-tools-discover-the-5-leading-ai-applications/"><u>Best Top-Ranked Automated Video Editing Tools: Discover the 5 Leading AI Applications</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-guide-to-artificial-intelligence-highlight-videos-essentials-and-software/"><u>Comprehensive Guide to Artificial Intelligence Highlight Videos: Essentials & Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-monicas-artificial-intelligence-powers-and-effective-strategies-for-utilizing-chatgpt/"><u>Discover Monica's Artificial Intelligence Powers and Effective Strategies for Utilizing ChatGPT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-top-5-alternatives-to-voicemyai-for-crafting-artificial-intelligence-powered-voice-assistants/"><u>Discover Top 5 Alternatives to voicemy.ai for Crafting Artificial Intelligence-Powered Voice Assistants</u></a></li>
-<li><a href="https://win-latest.techidaily.com/expert-advice-for-windows-users-how-to-access-files-with-different-software-tools-your-lifeline-in-computing-solutions-from-yl-software/"><u>Expert Advice for Windows Users: How to Access Files with Different Software Tools - Your Lifeline in Computing Solutions From YL Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-analysis-avclabs-video-boosting-technology-advantages-and-limitations/"><u>Expert Analysis: AVClabs' Video Boosting Technology - Advantages & Limitations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-and-bing-chat-face-off-for-ultimate-ai-conversation/"><u>GPT and Bing Chat Face-Off for Ultimate AI Conversation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuit-konvertiemkv-naar-wmv-onlinelastige-vrijwilligersomschrijvingen-movavi/"><u>Gratuit Konvertiemkv Naar WMV - Onlinelastige Vrijwilligersomschrijvingen Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-update-your-windows-computers-synaptics-controller-software/"><u>How to Seamlessly Update Your Windows Computer's Synaptics Controller Software</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/o-use-youtube-enhancements-to-improve-video-quality/"><u>How to Use YouTube Enhancements to Improve Video Quality</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy S24 Ultra?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/optimize-task-management-with-these-5-outstanding-zapier-replacements/"><u>Optimize Task Management with These 5 Outstanding Zapier Replacements</u></a></li>
-<li><a href="https://fox-http.techidaily.com/podcasts-intros-hook-up-listeners-with-podcast-intro-script-for-2024/"><u>Podcasts Intros Hook Up Listeners With Podcast Intro Script for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/pro-tips-for-capturing-uac-alerts-in-windows/"><u>Pro Tips for Capturing UAC Alerts in Windows</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-selection-of-tiktok-screenshots-for-2024/"><u>Step-by-Step Selection of TikTok Screenshots for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-fundamental-concepts-of-cyber-narratives/"><u>[Updated] Fundamental Concepts of Cyber Narratives</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-surpassing-the-ranks-essential-factors-uncovered/"><u>2024 Approved Surpassing the Ranks Essential Factors Uncovered</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-fongo-voip-solution-evaluation-in-canada/"><u>Comprehensive Fongo VoIP Solution Evaluation in Canada</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-wifi-passcode-retrieval-app-manage-and-discover-your-androids-network-credentials-effortlessly/"><u>Free WiFi Passcode Retrieval App: Manage & Discover Your Android's Network Credentials Effortlessly</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-favorite-android-games-on-lockdown-the-ultimate-list-of-20-free-full-version-apks-to-download-today/"><u>Get Your Favorite Android Games on Lockdown: The Ultimate List of 20 Free, Full-Version APKs to Download Today!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/illumination-innovations-advanced-lighting-in-video-making-for-2024/"><u>Illumination Innovations Advanced Lighting in Video Making for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-landscape-of-motion-sensing-technology/"><u>In 2024, Navigating the Landscape of Motion Sensing Technology</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-world-of-pixiz-turning-stills-into-storytelling-video/"><u>In 2024, Navigating the World of Pixiz Turning Stills Into Storytelling Video</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-innovations-in-audio-production-adding-subtle-fading-techniques-to-your-toolkit/"><u>New 2024 Approved Innovations in Audio Production Adding Subtle Fading Techniques to Your Toolkit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sculpt-visual-jokes-adobe-memes-guide/"><u>Sculpt Visual Jokes Adobe Memes Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthesizing-new-dimensions-via-chatai/"><u>Synthesizing New Dimensions via ChatAI</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-vn-video-editor-advantages-disadvantages-and-best-replacement-options/"><u>The Ultimate Guide to VN Video Editor: Advantages, Disadvantages, and Best Replacement Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-clips-with-this-exceptional-android-video-editing-software/"><u>Transform Your Clips with This Exceptional Android Video Editing Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-admin-utility-remove-disable-and-manage-rooted-device-applications-easily/"><u>Ultimate Admin Utility: Remove, Disable, and Manage Rooted Device Applications Easily</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unified-chat-and-call-features-on-magicapp-compatible-with-iphone-android-and-pc/"><u>Unified Chat & Call Features on MagicApp - Compatible with iPhone, Android & PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/what-exactly-is-instant-messaging-an-in-depth-guide/"><u>What Exactly Is Instant Messaging? An In-Depth Guide</u></a></li>
 </ul></div>
 

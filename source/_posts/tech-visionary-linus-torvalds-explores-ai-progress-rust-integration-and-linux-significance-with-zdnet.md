@@ -1,7 +1,7 @@
 ---
 title: Tech Visionary Linus Torvalds Explores AI Progress, Rust Integration, and Linux Significance with ZDNET
-date: 2024-12-27T07:38:41.933Z
-updated: 2025-01-03T07:29:20.218Z
+date: 2025-01-05T18:45:34.036Z
+updated: 2025-01-10T00:30:15.933Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-breaking-barriers-with-iphone-x-fixing-facial-detection-for-2024/"><u>[New] Breaking Barriers with iPhone X Fixing Facial Detection for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-master-video-cutting-with-vivacut-detailed-review-and-guidebook-24/"><u>[New] Master Video Cutting with VivaCut Detailed Review & Guidebook '24</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-latest-evolution-2023s-samsung-bd-j5900-review-for-2024/"><u>[Updated] The Latest Evolution 2023'S Samsung BD-J5900 Review for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-thriving-livestreams-strategies-for-beginners-with-low-followers/"><u>2024 Approved Thriving Livestreams Strategies for Beginners with Low Followers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ais-forefront-top-8-trends-shaping-technology-this-year-and-how-professionals-can-adapt-zdnet/"><u>AI's Forefront: Top 8 Trends Shaping Technology This Year & How Professionals Can Adapt | ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/confronting-giants-in-the-tech-world-is-llama-3-or-gpt-4-more-advanced/"><u>Confronting Giants in the Tech World - Is Llama 3 or GPT-4 More Advanced?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-selection-of-top-rated-no-cost-video-editors-cnet/"><u>Discover the Ultimate Selection of Top-Rated, No-Cost Video Editors | CNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expanding-low-codeno-code-landscape-implications-for-tech-job-evolution-insights-by-zdnet/"><u>Expanding Low-Code/No-Code Landscape: Implications for Tech Job Evolution - Insights by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-future-without-microsofts-support-top-5-alternatives-for-your-windows-11-machine-insights-by-zdnet/"><u>Facing the Future without Microsoft's Support: Top 5 Alternatives for Your Windows 11 Machine - Insights by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-windows-11-upgrade-availability-is-it-over/"><u>Free Windows 11 Upgrade Availability: Is It Over?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-find-x7-ultra-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Find X7 Ultra to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-standard-to-spectacular-your-guide-to-choosing-a-high-res-screen/"><u>In 2024, From Standard to Spectacular Your Guide to Choosing a High-Res Screen</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-network-monitoring-solutions-of-2023-industry-experts-recommendations-gurupick/"><u>Top Network Monitoring Solutions of 2023: Industry Experts' Recommendations - GuruPick</u></a></li>
-<li><a href="https://app-tips.techidaily.com/united-forces-the-tech-world-rallies-around-ciq-for-rocky-linuxs-launch-paving-a-new-path-in-open-source-innovation-zdnet/"><u>United Forces: The Tech World Rallies Around CIQ for Rocky Linux's Launch, Paving a New Path in Open Source Innovation | ZDNET</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unleash-your-adventurer-spirit-in-the-elder-scrolls-v-skyrim-for-nintendo-switch-a-comprehensive-analysis/"><u>Unleash Your Adventurer Spirit in The Elder Scrolls V: Skyrim for Nintendo Switch – A Comprehensive Analysis</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-understanding-the-transformations-in-vegaspro-19/"><u>[New] In 2024, Understanding the Transformations in VegasPro '19</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-12-best-html5-video-players-you-should-know/"><u>[Updated] 12 Best Html5 Video Players You Should Know</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-virtual-city-escapades-a-list-of-flavorful-pals-to-gta-v/"><u>2024 Approved Virtual City Escapades - A List of Flavorful Pals to GTA V</u></a></li>
+<li><a href="https://app-tips.techidaily.com/anthropic-unveils-the-next-generation-of-enterprise-scale-ai-with-its-advanced-claude-initiative-insights-from-zdnet/"><u>Anthropic Unveils the Next Generation of Enterprise-Scale AI with Its Advanced Claude Initiative - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-productivity-leverage-the-new-copilot-enhancements-to-excel-at-prompt-writing-on-microsoft/"><u>Boost Your Productivity: Leverage the New Copilot Enhancements to Excel at Prompt Writing on Microsoft</u></a></li>
+<li><a href="https://app-tips.techidaily.com/directivity/"><u>Directivity</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-photodnas-purpose-and-mechanics/"><u>Exploring PhotoDNA's Purpose & Mechanics</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-7-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 7 Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-s18-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo S18 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-oneplus-nord-3-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On OnePlus Nord 3 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linus-torvalds-shares-insights-on-using-rust-in-the-linux-world-work-habits-and-living-with-an-intel-powered-macbook-air-zdnet/"><u>Linus Torvalds Shares Insights on Using Rust in the Linux World: Work Habits & Living with an Intel-Powered MacBook Air - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-overwhelm-in-tech-careers-bright-spots-amidst-professional-burnout/"><u>Navigating the Overwhelm in Tech Careers: Bright Spots Amidst Professional Burnout</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-business-exploring-how-blockchain-decentralization-and-web3-revolutionize-enterprises/"><u>The Future of Business: Exploring How Blockchain, Decentralization & Web3 Revolutionize Enterprises</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-a79-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo A79 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-ranked-sql-training-programs-explore-the-best-online-courses-on-zdnet/"><u>Top-Ranked SQL Training Programs: Explore the Best Online Courses on ZDNet</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/transforming-success-effortless-tactics-to-change-vlc-format-into-mp4/"><u>Transforming Success: Effortless Tactics to Change VLC Format Into MP4</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-ux-with-xr-digital-twins-and-spatial-tech-your-essential-business-roadmap-insights-from-zdnet/"><u>Transforming UX with XR, Digital Twins & Spatial Tech: Your Essential Business Roadmap - Insights From ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-12-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zoom-vs-microsoft-teams-meet-your-astonishing-lip-reading-challenger-breaking-news-from-zdnet/"><u>Zoom Vs. Microsoft Teams? Meet Your Astonishing Lip-Reading Challenger - Breaking News From ZDNet!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses the Importance of AI Integration and Rust Language in Evolving the Linux Kernel - The Core Aspect Driving Tech Forward
-date: 2024-12-29T16:24:08.820Z
-updated: 2025-01-03T02:32:58.192Z
+date: 2025-01-04T05:25:17.112Z
+updated: 2025-01-10T06:01:55.514Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-essential-frames-from-apples-display-max-length-156/"><u>[New] 2024 Approved Essential Frames From Apple's Display (Max Length 156)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-phenomenon-vids-surpassing-100-million-views/"><u>[Updated] 2024 Approved Global Phenomenon Vids Surpassing 100 Million Views</u></a></li>
-<li><a href="https://app-tips.techidaily.com/achieving-excellence-in-agile-software-engineering-unveiling-the-6-key-principles-for-a-thriving-design-process/"><u>Achieving Excellence in Agile Software Engineering: Unveiling the 6 Key Principles for a Thriving Design Process</u></a></li>
-<li><a href="https://app-tips.techidaily.com/anticipating-windows-12-release-latest-updates-and-unexpected-forecasts-techinsights/"><u>Anticipating Windows 12 Release: Latest Updates & Unexpected Forecasts | TechInsights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-development-process-with-generative-ai-tips-for-success-and-potential-hazards/"><u>Boost Your Development Process with Generative AI - Tips for Success & Potential Hazards</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-vivaldis-new-inbuilt-email-application-a-marvel-of-efficiency-and-style-tech-insights/"><u>Discover Vivaldi’s New Inbuilt Email Application: A Marvel of Efficiency and Style | Tech Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-insights-into-computing-and-gadgets-with-toms-hardware-review/"><u>Expert Insights Into Computing & Gadgets with Tom's Hardware Review</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Realme Narzo N53? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/organizing-chaos-a-guide-to-streamlining-linux-and-open-source-docs/"><u>Organizing Chaos: A Guide to Streamlining Linux & Open Source Docs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818203752-saving-screen-setup-finally-successful/"><u>Saving Screen Setup Finally Successful</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/seamless-setup-a-guide-to-adding-collaborative-inboxes-to-microsoft-outlook-effortlessly/"><u>Seamless Setup: A Guide to Adding Collaborative Inboxes to Microsoft Outlook Effortlessly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleashing-corporate-potential-through-ai-discover-anthropics-claude-for-scalable-innovation/"><u>Unleashing Corporate Potential Through AI: Discover Anthropic's Claude for Scalable Innovation</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlock-your-minds-capabilities-with-7-reasons-to-study-afrikaans-on-mondly/"><u>Unlock Your Mind's Capabilities with 7 Reasons to Study Afrikaans on Mondly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/work-seamlessly-offline-on-onedrive-manage-your-documents-even-in-rural-locations-as-featured-by-zdnet/"><u>Work Seamlessly Offline on OneDrive - Manage Your Documents Even in Rural Locations, as Featured by ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-cutting-edge-text-configuration-techniques/"><u>[New] In 2024, Cutting-Edge Text Configuration Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-swipe-for-success-the-art-of-flipping-videos-on-instagram/"><u>[Updated] In 2024, Swipe for Success The Art of Flipping Videos on Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-ultimate-guide-to-timing-your-wedding-in-10-top-apps/"><u>2024 Approved Ultimate Guide to Timing Your Wedding, in 10 Top Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capture-every-click-essential-screen-recorders-for-modern-browsers-for-2024/"><u>Capture Every Click Essential Screen Recorders for Modern Browsers for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/elevate-your-business-with-low-code-solutions-how-they-boost-employer-appeal/"><u>Elevate Your Business with Low-Code Solutions: How They Boost Employer Appeal</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/experience-ultra-clarity-in-xiaomis-screen-capture-technology-for-2024/"><u>Experience Ultra Clarity in Xiaomi's Screen Capture Technology for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explosive-expansion-of-lowno-code-tech-sector-signals-evolving-job-landscape-insights-from-zdnet/"><u>Explosive Expansion of Low/No-Code Tech Sector Signals Evolving Job Landscape: Insights From ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-a05s-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy A05s</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-efficiency-on-chromebooks-discover-essential-navigation-tricks-and-performance-boosters-zdnet/"><u>Maximize Efficiency on Chromebooks: Discover Essential Navigation Tricks & Performance Boosters | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-job-market-the-persistent-value-of-open-source-expertise-and-linux-knowledge-in-challenging-economic-times-insights-from-zdnet/"><u>Navigating the Job Market: The Persistent Value of Open Source Expertise & Linux Knowledge in Challenging Economic Times - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ranking-the-best-artificial-intelligence-prompt-providers-for-your-needs/"><u>Ranking the Best Artificial Intelligence Prompt Providers for Your Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-guide-to-revamping-your-windows-11-sign-in-with-passwords-over-pins/"><u>The Guide to Revamping Your Windows 11 Sign-In with Passwords Over PINs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-innovators-flocking-to-open-source-projects-a-deep-dive-zdnet/"><u>Top Innovators Flocking to Open Source Projects - A Deep Dive | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-tech-executive-forecasts-major-evolution-in-cloud-computing-strategies-insights-from-zdnet/"><u>Top Tech Executive Forecasts Major Evolution in Cloud Computing Strategies – Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/work-anywhere-discover-how-onedrives-new-offline-feature-keeps-you-productive-no-matter-where-you-are/"><u>Work Anywhere: Discover How OneDrive's New Offline Feature Keeps You Productive, No Matter Where You Are</u></a></li>
 </ul></div>
 

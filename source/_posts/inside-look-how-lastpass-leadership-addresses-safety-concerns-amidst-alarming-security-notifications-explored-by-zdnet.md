@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: How LastPass Leadership Addresses Safety Concerns Amidst Alarming Security Notifications | Explored by ZDNET"
-date: 2025-01-02T01:53:34.430Z
-updated: 2025-01-03T08:48:25.881Z
+date: 2025-01-03T01:27:24.901Z
+updated: 2025-01-10T05:35:39.381Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 Two LastPass vice presidents have released statements about the situation surrounding LastPass security issues that came to light this week. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Two LastPass vice presidents have released statements about the situation surrou
 [![web-browsers.jpg](https://www.zdnet.com/a/img/resize/86d91f7746b92a734c6f4130024638d05fe70bc2/2021/04/22/8feb3e5c-47fc-4cea-be35-4460e9f080ef/web-browsers.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best browsers for privacy Most people use Google Chrome as their default browser. But privacy is another matter for the online ad giant.  Read now](https://www.zdnet.com/article/best-browser-for-privacy/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Two days ago, hundreds of LastPass users took to [Twitter](https://twitter.com/technology%5Fgreg/status/1475600580521381889), [Reddit](https://www.reddit.com/r/Lastpass/comments/rpy0uq/recent%5Fsuccessful%5Flogin%5Fattempts%5Ffrom%5Fodd%5Fips/), [and other sites](https://news.ycombinator.com/item?id=29705957) to complain that they were getting alerts about their master password being used by someone who was not them. [Some reported](https://twitter.com/shift%5Fplusone/status/1475959354742525956) that even after changing their master password, someone tried to access their account again. 
@@ -84,20 +84,18 @@ Parent company LogMeIn announced just two weeks ago that it is [spinning off Las
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-dynamic-ppt-leveraging-voice-for-effective-delivery-for-2024/"><u>[New] Dynamic PPT Leveraging Voice for Effective Delivery for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-checklist-for-perfecting-your-laptops-screen-capture-abilities/"><u>[New] The Ultimate Checklist for Perfecting Your Laptop's Screen Capture Abilities</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-amplify-views-and-engagement-through-google-analytics-expertise/"><u>[Updated] 2024 Approved Amplify Views & Engagement Through Google Analytics Expertise</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-compreenasive-breakdown-how-to-use-microsofts-movie-maker-on-w11/"><u>[Updated] In 2024, The Compreenasive Breakdown How to Use Microsoft's Movie Maker on W11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-software-development-success-with-agile-awareness-explore-6-key-principles/"><u>Boosting Software Development Success with Agile Awareness: Explore 6 Key Principles</u></a></li>
-<li><a href="https://app-tips.techidaily.com/chrome-os-and-microsoft-unite-seamlessly-running-windows-apps-on-chromebooks-zdnet/"><u>Chrome OS and Microsoft Unite: Seamlessly Running Windows Apps on Chromebooks | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722904005916-decode-the-future-of-smartwear-unlock-insider-rumors-on-apple-ring-cost-debut-date-and-tech-specs-so-far/"><u>Decode the Future of Smartwear: Unlock Insider Rumors on Apple Ring Cost, Debut Date, & Tech Specs So Far</u></a></li>
-<li><a href="https://blog-min.techidaily.com/digiarty-ametadata/"><u>Digiartyソフトウェアの人気話題集 - 最新動向についametadata</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-power-of-ai-introducing-openshift-lightspeed-by-red-hat-the-ultimate-solution-for-kubernetes-administrators/"><u>Discover the Power of AI: Introducing OpenShift Lightspeed by Red Hat – The Ultimate Solution for Kubernetes Administrators</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dont-let-your-windows-1-be-left-in-the-lurch-discover-your-five-options-before-support-concludes-zdnet-insight/"><u>Don't Let Your Windows 지정 1 컴퓨터 Be Left in the Lurch - Discover Your Five Options Before Support Concludes | ZDNet Insight</u></a></li>
-<li><a href="https://app-tips.techidaily.com/expert-picks-for-the-ultimate-to-do-list-software-of-2023-features-and-comparisons/"><u>Expert Picks for the Ultimate To-Do List Software of 2023 – Features and Comparisons</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mimo-systems/"><u>MIMO Systems</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/social-scanning-shorthand-efficient-profile-hunting-on-fb-for-2024/"><u>Social Scanning Shorthand Efficient Profile Hunting on FB for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-search-for-prime-video-making-experts-for-2024/"><u>The Search for Prime Video Making Experts for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-mind-mapping-tools-and-applications-a-comprehensive-review-by-zdnet/"><u>Top 5 Mind Mapping Tools & Applications : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-complete-guide-timer-addition-to-video-broadcast-platforms/"><u>2024 Approved Complete Guide Timer Addition to Video Broadcast Platforms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/authority-list-top-10-sports-and-football-streaming-applications-cutting-edge/"><u>Authority List Top 10 Sports & Football Streaming Applications, Cutting Edge</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-0xc0000022-explained-solutions-to-get-your-adobe-app-running-smoothly-again/"><u>Error 0xC0000022 Explained – Solutions to Get Your Adobe App Running Smoothly Again</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-x9a-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor X9a Location by Number | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782390-9781591438168-illuminations-of-hildegard-of-bingen-2nd-ed/"><u>Illuminations of Hildegard of Bingen (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kasperskys-password-protector-exposed-generating-vulnerable-passwords-prone-to-brute-force-attacks-insights-from-zdnet/"><u>Kaspersky's Password Protector Exposed: Generating Vulnerable Passwords Prone to Brute Force Attacks - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/major-ransomware-incident-strikes-leading-firm-superior-plus-in-natural-gas-industry-exclusive-details-on-zdnet/"><u>Major Ransomware Incident Strikes Leading Firm Superior Plus in Natural Gas Industry - Exclusive Details on ZDNET</u></a></li>
+<li><a href="https://win-data.techidaily.com/master-the-art-of-modifying-computer-timelines-with-windows-settings-insights-by-yl-computing-solutions/"><u>Master the Art of Modifying Computer Timelines with Windows Settings - Insights by YL Computing Solutions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-top-rated-free-avi-video-rotation-tools-updated/"><u>New 2024 Approved Top-Rated Free AVI Video Rotation Tools Updated</u></a></li>
+<li><a href="https://app-tips.techidaily.com/newly-launched-full-featured-1password-app-for-linux-enthusiasts-a-closer-look-tech-news/"><u>Newly Launched Full-Featured 1Password App for Linux Enthusiasts: A Closer Look - Tech News</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pinnacle-motorsport-replicas-top-5/"><u>Pinnacle Motorsport Replicas (Top 5)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-security-how-1passwords-new-feature-replaces-master-passwords-with-passkeys-insights-from-zdnet/"><u>Revolutionizing Security: How 1Password's New Feature Replaces Master Passwords with Passkeys - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategic-interactions-marketers-guide-to-ethical-sharing/"><u>Strategic Interactions: Marketers' Guide to Ethical Sharing</u></a></li>
 </ul></div>
 

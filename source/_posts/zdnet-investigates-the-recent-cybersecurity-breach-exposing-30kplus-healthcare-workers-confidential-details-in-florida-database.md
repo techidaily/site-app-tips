@@ -1,7 +1,7 @@
 ---
 title: ZDNet Investigates the Recent Cybersecurity Breach Exposing 30K+ Healthcare Workers' Confidential Details in Florida Database
-date: 2025-01-01T08:08:45.230Z
-updated: 2025-01-03T00:24:10.025Z
+date: 2025-01-02T21:12:15.753Z
+updated: 2025-01-10T00:52:48.961Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ More than 30,000 US healthcare workers' personal information was recently expose
 Fowler [discovered](https://www.websiteplanet.com/blog/galeapp-leak-report/) a database run by Gale Healthcare Solutions with 170,239 exposed records that included names, emails, home addresses, photos and in some cases, Social Security Numbers as well as tax documents. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ The company said the database was a "temporary environment created for an intern
 "When the researcher notified us of a potential vulnerability in September, the environment had already been deactivated and secured. There is no evidence there was any further unauthorized access beyond the researcher or that any personal data has been, or will be, misused," the company said in a statement to _ZDNet_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -100,14 +100,17 @@ Fowler said it was unclear how long the database had been exposed and who else m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-7-comedy-youtube-video-ideas-that-funny-people-can-try/"><u>[New] In 2024, 7 Comedy YouTube Video Ideas That Funny People Can Try</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhancing-click-through-high-roi-strategies-for-fb-animatons/"><u>[Updated] 2024 Approved Enhancing Click-Through High-ROI Strategies for FB Animatons</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-infinix-smart-7-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Infinix Smart 7 FRP Bypass Instantly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/companies-scale-up-genai-strategy-insights-from-a-new-bloombergzdnet-study/"><u>Companies Scale Up GenAI Strategy: Insights From a New Bloomberg/ZDNet Study</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-a-guide-to-the-best-5-book-tt-examples/"><u>In 2024, A Guide to the Best 5 Book TT Examples</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-realme-12-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Realme 12 5G Phones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-task-management-setting-up-timely-alerts-via-slacks-built-in-slackbot-assistant/"><u>Mastering Task Management: Setting Up Timely Alerts via Slack's Built-In Slackbot Assistant</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-obstacles-to-utilize-generative-ai-effectively-reveals-new-study-by-deloitte-featured-on-zdnet/"><u>Overcoming Obstacles to Utilize Generative AI Effectively, Reveals New Study by Deloitte Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/set-up-seamless-email-connectivity-in-your-onlyoffice-workspace-tutorial-for-it-professionals/"><u>Set Up Seamless Email Connectivity in Your ONLYOFFICE Workspace – Tutorial for IT Professionals</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-powerful-insights-unlocking-full-potential-with-mobizen-screen-recording/"><u>[Updated] In 2024, Powerful Insights Unlocking Full Potential with Mobizen Screen Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-live-screen-recorder-for-chromebooks/"><u>[Updated] Live Screen Recorder for Chromebooks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybercriminals-exploit-fears-over-new-omicron-variant-to-target-american-academic-institutions-insights-from-zdnet/"><u>Cybercriminals Exploit Fears Over New Omicron Variant to Target American Academic Institutions - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-free-trial-of-dashlanes-premium-password-safe-save-now-at-a-bargain-price-on-zdnet/"><u>Download Free Trial of Dashlane's Premium Password Safe - Save Now at a Bargain Price on ZDNet!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expertly-vetted-leading-password-management-apps-for-2nny4-a-comprehensive-list-zdnet/"><u>Expertly Vetted Leading Password Management Apps for 2Nny4: A Comprehensive List | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-hackers-are-capitalizing-on-the-pandemic-a-deep-dive-into-attacks-against-us-universities-amidst-omicron-concerns-reported-by-zdnet/"><u>How Hackers Are Capitalizing on the Pandemic: A Deep Dive Into Attacks Against US Universities Amidst Omicron Concerns | Reported by ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-20-visionary-metaverse-projects-with-educational-value/"><u>In 2024, 20 Visionary Metaverse Projects with Educational Value</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-expert-tips-on-basic-color-correction-in-photos/"><u>In 2024, Expert Tips on Basic Color Correction in Photos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-starting-offright-how-to-register-with-youtube/"><u>In 2024, Starting Offright How to Register With YouTube</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-1password-top-tier-value-packed-secure-password-solution-techadvisor/"><u>In-Depth Analysis of 1Password - Top Tier, Value-Packed Secure Password Solution | TechAdvisor</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/trasformare-i-file-wmv-in-formato-mov-online-e-gratuiti-con-convertitore-di-movavi/"><u>Trasformare I File WMV in Formato MOV OnLine E Gratuiti Con Convertitore Di Movavi</u></a></li>
 </ul></div>
 

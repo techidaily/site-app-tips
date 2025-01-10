@@ -1,7 +1,7 @@
 ---
 title: "Massive Data Compromise at Oregon Medical Practice: 750K Patients Impacted, Details Revealed by Digi Journal"
-date: 2024-12-27T04:50:29.884Z
-updated: 2025-01-03T03:18:21.658Z
+date: 2025-01-05T04:18:10.156Z
+updated: 2025-01-10T00:24:18.160Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/0a9719ddcbae5c52ddb9477f8674bda6f7443fbaa
 The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it suffered a ransomware attack in July that led to the breach of sensitive employee and patient information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ The Oregon Anesthesiology Group (OAG) [said](https://www.oaginformation.com/) it
 [![2020-03-18-at-12-23-32-pm.jpg](https://www.zdnet.com/a/img/resize/3c34ebf72342b1f0704550e1e2edf445f0628572/2020/03/18/7c2e2258-7566-4e66-9059-a1a8aedf00b4/2020-03-18-at-12-23-32-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best security key While robust passwords help you secure your valuable online accounts, hardware-based two-factor authentication takes that security to the next level.  Read now](https://www.zdnet.com/article/best-security-key/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The breach involves the information of 750,000 patients and 522 current and former OAG employees. 
@@ -90,24 +90,17 @@ In February, the [group was implicated](https://www.zdnet.com/article/cd-projekt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-essential-chromebook-art-apps-ranked-from-best-to-worst/"><u>[New] Essential Chromebook Art Apps Ranked From Best to Worst</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-technical-aspects-that-elevate-youtube-video-ranks/"><u>[New] In 2024, Technical Aspects That Elevate YouTube Video Ranks</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-best-apps-for-keeping-your-linkedin-vids-safe-and-sound/"><u>[Updated] 2024 Approved The Best Apps for Keeping Your LinkedIn Vids Safe & Sound</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-iphoneipad-masterclass-crafting-engaging-interview-and-exploration-podcasts/"><u>[Updated] IPhone/iPad Masterclass Crafting Engaging Interview and Exploration Podcasts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-dvd-ripping-showdown-evaluating-handbrake-against-winx-dvd-ripper-for-optimal-video-extraction-and-quality/"><u>Free DVD Ripping Showdown: Evaluating HandBrake Against WinX DVD Ripper for Optimal Video Extraction and Quality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-official-download-for-hp-designjet-z1100-printer-drivers/"><u>Get the Official Download for HP DesignJet Z1100 Printer Drivers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-restore-your-ipad-using-icloud-backup-a-step-by-step-guide-with-and-without-factory-reset/"><u>How to Restore Your iPad Using iCloud Backup: A Step-by-Step Guide with and Without Factory Reset</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/isomp4windows-10/"><u>ISOファイルをMP4に変更:Windows 10用ガイド</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-geforce-gtx-1050-graphics-card-drivers-quick-and-easy-download-guide/"><u>Latest GeForce GTX 1050 Graphics Card Drivers: Quick & Easy Download Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-data-security-the-ultimate-icloud-storage-and-backup-manual/"><u>Mastering Data Security: The Ultimate iCloud Storage & Backup Manual</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolve-problems-with-the-realtek-rtl8723be-network-adapter-drivers-easily/"><u>Resolve Problems with the Realtek RTL8723BE Network Adapter Drivers Easily</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-a-step-by-step-guide-to-troubleshoot-and-resolve-phoenix-point-game-crashes/"><u>Resolved: A Step-by-Step Guide to Troubleshoot and Resolve Phoenix Point Game Crashes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-clearing-out-icloud-backups-across-devices-for-more-space/"><u>Step-by-Step Guide: Clearing Out iCloud Backups Across Devices for More Space</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-connecting-your-pc-with-icloud-through-the-icloud-control-panel/"><u>Step-by-Step Guide: Connecting Your PC with iCloud Through the iCloud Control Panel</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-3-methods-to-remove-ebooks-from-your-icloud-library-freeing-up-space/"><u>Top 3 Methods to Remove eBooks From Your iCloud Library, Freeing Up Space</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-methods-for-transferring-icloud-tunes-to-ios-and-mac-a-comprehensive-guide/"><u>Top 5 Methods for Transferring iCloud Tunes to iOS and Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshoot-your-icloud-picture-sharing-problems-for-ios-devices-and-macbook-computers-essential-steps/"><u>Troubleshoot Your iCloud Picture Sharing Problems for iOS Devices and MacBook Computers - Essential Steps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-free-contact-acquisition-top-4-methods-for-seamless-retrieval-from-icloud/"><u>Unlocking the Power of Free Contact Acquisition: Top 4 Methods for Seamless Retrieval From iCloud</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-icloud-family-sharing-a-comprehensive-guide-on-implementation-and-usage/"><u>Unveiling iCloud Family Sharing: A Comprehensive Guide on Implementation and Usage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-techniques-to-perfectly-transcribe-ppts/"><u>[New] In 2024, Techniques to Perfectly Transcribe PPTs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-insights-on-integrating-chatgpt-in-health-advice/"><u>7 Insights on Integrating ChatGPT in Health Advice</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/budget-friendly-vixia-camcorder-spotlight-the-r800/"><u>Budget-Friendly VIXIA Camcorder Spotlight: The R800</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-most-effective-cross-platform-chat-applications-for-ios-and-android-devices/"><u>Discover the Most Effective Cross-Platform Chat Applications for iOS and Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-8-leading-projector-apps-for-effortless-wi-fi-hookup-on-your-android-device/"><u>Discover the Ultimate List of 8 Leading Projector Apps for Effortless Wi-Fi Hookup on Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effortless-tricks-for-bypassing-android-restrictions-in-just-a-few-taps/"><u>Effortless Tricks for Bypassing Android Restrictions in Just a Few Taps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/rapid-bengali-lessons-daily/"><u>Rapid Bengali Lessons (Daily)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rescue-your-precious-moments-a-list-of-the-best-6-iphone-photography-recovery-tools/"><u>Rescue Your Precious Moments: A List of the Best 6 iPhone Photography Recovery Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-windows-zone-visible-or-not/"><u>Securing Your Windows Zone, Visible or Not</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-changes-to-login-credentials-on-win-11/"><u>Strategic Changes to Login Credentials on Win 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/twofold-tongue-techniques/"><u>Twofold Tongue Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-review-of-the-shotcut-app-unveil-its-features-and-benefits-now/"><u>Ultimate Review of the Shotcut App: Unveil Its Features and Benefits Now</u></a></li>
 </ul></div>
 

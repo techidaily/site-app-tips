@@ -1,7 +1,7 @@
 ---
 title: Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet
-date: 2025-01-02T07:57:38.086Z
-updated: 2025-01-03T07:44:52.519Z
+date: 2025-01-04T02:42:17.588Z
+updated: 2025-01-09T18:44:01.432Z
 tags:
   - password-manager
 categories:
@@ -43,10 +43,6 @@ Go to the Start menu and open iCloud for Windows.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Sign in to your iCloud Passwords
 
 Once you sign in to your account -- if you haven't already -- you can access your account, add another account, and make any necessary changes.
@@ -58,7 +54,7 @@ Sign in with your Apple ID and password.
 Image: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make sure Passwords is on and click Apply
@@ -71,6 +67,10 @@ Make sure Passwords is on and click **Apply**.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Add browser extension
 
 At this point, you can also add a browser extension to [Google Chrome](https://www.zdnet.com/article/malicious-google-chrome-extensions-affect-1-4-million-users/) or [Microsoft Edge](https://www.zdnet.com/article/beef-up-microsoft-edge-with-my-favorite-add-ons/) by following the instructions in the iCloud for Windows app. 
@@ -82,7 +82,7 @@ Maria Diaz/ZDNET
 **Also:** [**Here's how you can still get a free Windows 10 upgrade**](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Autofill on Chrome
@@ -116,22 +116,22 @@ Like LastPass, the browser extension will let you fill in your login information
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do you get iCloud for Windows?  
 
 To get [iCloud for Windows](https://apps.microsoft.com/store/detail/icloud/9PKTQ5699M62?hl=en-us&gl=us), just download the app on your Windows PC, then log in with your Apple ID. You'll be prompted to follow the steps for two-factor authentication by entering a verification code on an iPhone with iOS 14 or later, or an iPad with iPadOS 14 or later, or a Mac with MacOS 11 or later. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How do I set up iCloud Keychain? 
 
 iCloud Keychain is available for your [Apple devices](https://www.zdnet.com/article/how-to-update-all-of-your-apple-devices/): [iPhone](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fipad%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [Mac](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). To set it up, go to your iPhone's Settings and tap on your name at the top of the screen to access your iCloud settings. Then, choose iCloud. Find Passwords and Keychain and select that, then tap on Sync this iPhone to turn it on. 
 
 If you want to add iCloud Keychain to your Windows computer, then you can download iCloud Passwords. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Can I use LastPass for free? 
 
@@ -167,24 +167,18 @@ LastPass changed the terms on its free option, so that someone with a free accou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-innovators-choice-top-5-state-of-the-art-slow-cams-for-2024/"><u>[New] Innovators' Choice Top 5 State-of-the-Art Slow Cams for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-boosting-collaboration-mastery-of-zoom-capabilities-in-win10-for-2024/"><u>[Updated] Boosting Collaboration Mastery of Zoom Capabilities in Win10 for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2022s-leading-collaborative-software-comprehensive-rankings-for-peak-productivity/"><u>2022'S Leading Collaborative Software: Comprehensive Rankings for Peak Productivity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-the-power-of-auto-transcribe-for-enhanced-office-productivity-in-ms-word/"><u>2024 Approved Harnessing the Power of Auto-Transcribe for Enhanced Office Productivity in MS Word</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-efficiency-with-these-proven-strategies-in-daily-project-management-tips-shared-on-zdnet/"><u>Boost Efficiency with These Proven Strategies in Daily Project Management – Tips Shared on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/career-advancement-in-tech-with-top-strategies-used-by-the-worlds-biggest-aerospace-enterprises-zdnet/"><u>Career Advancement in Tech with Top Strategies Used by the World's Biggest Aerospace Enterprises | ZDNET</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/comprehensive-analysis-updated-s3700-bd-player-for-2024/"><u>Comprehensive Analysis Updated S3700 BD Player for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/declutter-your-codebase-fixing-disarray-in-linuxopen-source-guides-on-zdnet/"><u>Declutter Your Codebase: Fixing Disarray in Linux/Open Source Guides on ZDNet.</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-motorola-edge-40-to-mac-drfone-by-drfone-android/"><u>How to Mirror Motorola Edge 40 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-find-x6-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Find X6</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-12-pro-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-note-30-vip-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Note 30 VIP Phone Pattern Lock</u></a></li>
-<li><a href="https://techidaily.com/samsung-data-retrieval-tool-restore-lost-data-from-samsung-galaxy-s24-by-fonelab-android-recover-data/"><u>Samsung Data Retrieval tool – restore lost data from Samsung Galaxy S24</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tenfold-surge-in-artifice-intelligence-initiatives-this-year-confirms-zdnet-insight-survey/"><u>Tenfold Surge in Artifice Intelligence Initiatives This Year, Confirms ZDNet Insight Survey</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-artificial-intelligence-projected-breakthroughs-in-the-coming-years-zdnet/"><u>The Future of Artificial Intelligence: Projected Breakthroughs in the Coming Years - ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-team-collaboration-software-of-2022-ultimate-list-and-reviews-techradar/"><u>Top Team Collaboration Software of 2022: Ultimate List and Reviews | TechRadar</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-encryption-tools-of-2022-secure-your-digital-information-with-expert-reviews-from-zdnet/"><u>Top-Rated Encryption Tools of 2022: Secure Your Digital Information with Expert Reviews From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-list-of-the-most-popular-linux-os-choices-for-coders-according-to-pcmagazine/"><u>Ultimate List of the Most Popular Linux OS Choices for Coders, According to PCMagazine</u></a></li>
-<li><a href="https://win-help.techidaily.com/wie-ubertragen-sie-songs-vom-pc-zu-allen-ipod-modellen-einfach-und-schnell/"><u>Wie Übertragen Sie Songs Vom PC Zu Allen iPod-Modellen Einfach Und Schnell?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-platform-picks-for-prominent-content-creators/"><u>[New] In 2024, Platform Picks for Prominent Content Creators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximize-your-hd-vids-experience-the-ultimate-android-apps-list/"><u>[New] Maximize Your Hd Vids Experience The Ultimate Android Apps List</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-perfecting-youtube-shorts-step-by-step-video-production-tips/"><u>[Updated] 2024 Approved Perfecting YouTube Shorts Step-by-Step Video Production Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/come-velocemente-converte-i-tuoi-file-mkv-in-mp4-di-alta-qualita-senza-perdite/"><u>Come Velocemente Converte I Tuoi File MKV in MP4 Di Alta Qualità Senza Perdite</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-transferring-your-icloud-password-vault-on-and-off-macos/"><u>Comprehensive Guide: Transferring Your iCloud Password Vault on and Off macOS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-steps-to-view-and-manage-photos-and-files-across-devices-with-icloud/"><u>Easy Steps to View and Manage Photos & Files Across Devices with iCloud</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-features-upgrades-for-chatgpt-plugin-hub/"><u>Essential Features Upgrades for ChatGPT Plugin Hub</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-s24-ultra-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy S24 Ultra Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-email-update-tutorial-how-to-easily-alter-your-current-icloud-id/"><u>ICloud Email Update Tutorial: How To Easily Alter Your Current iCloud ID</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-photo-sharing-a-beginners-complete-step-by-step-tutorial/"><u>ICloud Photo Sharing: A Beginner's Complete Step-by-Step Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620264324-lost-something-in-your-icloud-storage-master-the-art-of-icloud-backup-data-retrieval/"><u>Lost Something in Your iCloud Storage? Master the Art of iCloud Backup Data Retrieval!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-chromebook-2-in-depth-analysis-and-portability/"><u>Samsung Galaxy Chromebook 2 - In-Depth Analysis and Portability</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-icloud-message-accessibility-a-comprehensive-approach-for-enabling-your-emails/"><u>Troubleshooting iCloud Message Accessibility: A Comprehensive Approach for Enabling Your Emails</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet
-date: 2024-12-29T09:06:47.539Z
-updated: 2025-01-03T05:53:29.794Z
+date: 2025-01-05T21:29:37.825Z
+updated: 2025-01-09T20:12:04.042Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://www.zdnet.com/topic/password-manager/    https://www.zdnet.co
 Crypto.com CEO Kris Marszalek responded to complaints from thousands of users about issues logging back into their accounts after the company was [forced](https://crypto.com/product-news/crypto-com-security-report-next-steps) to change security settings following [a hack last week](https://www.zdnet.com/article/fortune-favours-the-breached-crypto-com-admits-400-users-hit-in-hack/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -22,7 +22,7 @@ Crypto.com CEO Kris Marszalek responded to complaints from thousands of users ab
 [![cybersecurity-lock-resized.jpg](https://www.zdnet.com/a/img/resize/5871b5ae5b589728bdc8064555d12823acf4b63e/2020/10/27/db3c0325-2b86-435b-8efa-93828deb6b56/cybersecurity-lock-resized.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best cyber insurance The cyber insurance industry is likely to go mainstream and is a simple cost of doing business. Here are a few options to consider.  Read now](https://www.zdnet.com/article/best-cyber-insurance/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On Monday, the company [admitted](https://www.zdnet.com/article/crypto-com-confirms-483-users-hit-in-attack-that-saw-over-31m-in-coins-withdrawn/) that 483 users were affected by unauthorized cryptocurrency withdrawals on their accounts, costing a total of "4,836.26 ETH, 443.93 BTC, and approximately US$66,200 in other cryptocurrencies." At the time of the attack, that amounted to about $31 million. 
@@ -80,20 +80,16 @@ Crypto.com created a program designed to refund users who were affected by the h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-battle-of-the-titans-gopro-hero4-black-versus-drift-ghost-s/"><u>[New] Battle of the Titans GoPro Hero4 Black Versus Drift Ghost-S</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-enigma-of-stardew-valley-unearthed-on-ginger-island/"><u>[New] The Enigma of Stardew Valley, Unearthed on Ginger Island</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-ethical-download-strategies-for-youtube-to-mp4-files-for-2024/"><u>[Updated] Ethical Download Strategies for YouTube to MP4 Files for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-apples-podcast-potential-an-instructional-guide/"><u>[Updated] Unlocking Apple's Podcast Potential An Instructional Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-lava-agni-2-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lava Agni 2 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-cinematic-capture-tool/"><u>In 2024, Facebook Cinematic Capture Tool</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-game-ahead-with-funimates-easy-apk-instructions/"><u>In 2024, Game Ahead with Funimate's Easy APK Instructions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-tecno-camon-20-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Tecno Camon 20 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/latest-breakthroughs-in-5g-and-edge-tech-top-5-trends-you-cant-ignore-insights-from-zdnet/"><u>Latest Breakthroughs in 5G & Edge Tech: Top 5 Trends You Can't Ignore - Insights From ZDNet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/master-tagalog-quickly-with-minimal-daily-commitment/"><u>Master Tagalog Quickly with Minimal Daily Commitment</u></a></li>
-<li><a href="https://app-tips.techidaily.com/performance/"><u>Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-elevating-your-windows-home-edition-to-pro-benefits-unveiled/"><u>Step-by-Step Guide: Elevating Your Windows Home Edition to Pro - Benefits Unveiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-the-chaos-organizing-linux-and-open-source-resources-effectively-the-ultimate-fix/"><u>Taming the Chaos: Organizing Linux & Open Source Resources Effectively - The Ultimate Fix</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-trends-unveiled-the-revival-and-growing-appeal-of-openstack-with-kata-containers-zdnet/"><u>Tech Trends Unveiled: The Revival and Growing Appeal of OpenStack with Kata Containers | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-current-state-of-cloud-computing-and-persisting-challenges-with-on-premise-systems/"><u>The Current State of Cloud Computing & Persisting Challenges with On-Premise Systems.</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-comprehensive-list-of-top-6-facebook-video-downloader-apps/"><u>[Updated] 2024 Approved Comprehensive List of Top 6 Facebook Video Downloader Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-creative-characters-turning-your-pics-into-pop-culture-icons-for-2024/"><u>[Updated] Creative Characters Turning Your Pics Into Pop Culture Icons for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/windows-110x8007007f5/"><u>練習指南：對付Windows 11的0X8007007F更新錯誤，5招修正技巧</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-clean-up-steams-networking-caches/"><u>Easy Steps to Clean Up Steam's Networking Caches</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-new-frontiers-in-coding-efficiency-the-impact-of-github-copilot-as-revealed-by-zdnet/"><u>Exploring New Frontiers in Coding Efficiency: The Impact of GitHub Copilot, as Revealed by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-skills-with-courseras-new-levelset-exams-insights-from-zdnet/"><u>Mastering Skills with Coursera's New LevelSet Exams: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/maximize-output-with-expert-tips-and-tools-mastering-daily-workflow-management-zdnet/"><u>Maximize Output with Expert Tips and Tools: Mastering Daily Workflow Management | ZDNET</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-high-definition-siri-pronunciation-engine-windowsmac-integration-for-2024/"><u>New High-Definition Siri Pronunciation Engine – Windows/Mac Integration for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/prime-steps-for-capturing-phone-operations/"><u>Prime Steps for Capturing Phone Operations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-upgrading-your-system-from-linux-mint-to-the-latest-version/"><u>Step-by-Step Guide: Upgrading Your System From Linux Mint to the Latest Version</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stepping-up-your-system-a-comprehensive-guide-on-transitioning-from-windows-home-to-professional-insights-and-benefits/"><u>Stepping Up Your System: A Comprehensive Guide on Transitioning From Windows Home to Professional - Insights and Benefits</u></a></li>
 </ul></div>
 

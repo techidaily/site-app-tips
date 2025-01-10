@@ -1,7 +1,7 @@
 ---
 title: The Rising Role of Citizen Developers in Streamlining Corporate Tech Initiatives
-date: 2024-12-30T19:21:31.298Z
-updated: 2025-01-02T17:50:08.769Z
+date: 2025-01-02T20:29:01.934Z
+updated: 2025-01-10T01:49:55.125Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,21 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-sleeksky-saver-the-frugal-file-nest/"><u>[Updated] 2024 Approved SleekSky Saver - The Frugal File Nest</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-iphone-and-android-unite-for-music-on-your-fb-profile/"><u>[Updated] In 2024, IPhone & Android Unite for Music on Your FB Profile</u></a></li>
-<li><a href="https://app-tips.techidaily.com/assess-your-expertise-on-coursera-discover-the-latest-from-zdnets-coverage-of-levelset-proficiency-exams/"><u>Assess Your Expertise on Coursera – Discover the Latest From ZDNet's Coverage of LevelSet Proficiency Exams</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175704568-building-your-pc-faster-try-corsairs-new-single-turn-installation-screw-and-save-precious-seconds/"><u>Building Your PC Faster? Try Corsair’s New Single-Turn Installation Screw and Save Precious Seconds</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/eyeem-pro-your-ultimate-guide-to-freepaid-substitutes-for-2024/"><u>EyeEm Pro Your Ultimate Guide to Free/Paid Substitutes for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/fixing-mouse-malfunctions-with-yl-software-a-step-by-step-approach-for-seamless-control/"><u>Fixing Mouse Malfunctions with YL Software: A Step-by-Step Approach for Seamless Control</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-anthrop-through-the-new-claude-plan-equips-companies-for-success-by-harnessing-large-scale-ai-superpowers-techzine/"><u>How Anthrop, Through the New Claude Plan, Equips Companies for Success by Harnessing Large-Scale AI Superpowers | TechZine</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-realme-c67-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Realme C67 5G Phone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/latest-breakthroughs-in-5g-networking-and-edge-tech-trends-top-picks-from-todays-market-zdnet/"><u>Latest Breakthroughs in 5G Networking & Edge Tech Trends: Top Picks From Today's Market (ZDNet)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-stealthy-update-ignites-consumer-backlash-an-in-depth-analysis/"><u>Microsoft's Stealthy Update Ignites Consumer Backlash - An In-Depth Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-upcoming-release-a-blessing-or-a-curse-unveiled-insights-from-zdnet/"><u>Microsoft's Upcoming Release: A Blessing or a Curse? Unveiled Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/open-sources-role-in-advancing-responsible-ai-development-expert-analysis-by-zdnet/"><u>Open Source's Role in Advancing Responsible AI Development | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/proven-iphone-markers-our-reviewed-top-9-water-marking-apps/"><u>Proven iPhone Markers Our Reviewed Top 9 Water-Marking Apps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-7-compelling-advantages-of-implementing-aiops-in-your-it-strategy/"><u>The Definitive Guide to 7 Compelling Advantages of Implementing AIOps in Your IT Strategy</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/top-6-facebook-lite-video-downloaders-for-2024/"><u>Top 6 Facebook Lite Video Downloaders for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-reveals-ai-ventures-skyrocket-by-a-factor-of-ten-in-the-last-year-industry-report/"><u>ZDNet Reveals AI Ventures Skyrocket by a Factor of Ten in the Last Year - Industry Report</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-free-tools-top-5-screen-recorder-apps-for-chrome-devices/"><u>[New] In 2024, Free Tools Top 5 Screen Recorder Apps for Chrome Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-avs-audio-editor-product-details-key-features-reviews-and-alternatives/"><u>2024 Approved AVS Audio Editor Product Details, Key Features, Reviews & Alternatives</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-seamless-shoot-and-capture-with-tracker-tech/"><u>2024 Approved Seamless Shoot-and-Capture with Tracker Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-virtual-music-showcase/"><u>2024 Approved Superior Virtual Music Showcase</u></a></li>
+<li><a href="https://app-tips.techidaily.com/affordable-innovation-with-openais-gpt-4-minus-for-app-creation-exclusive-analysis-by-zdnet/"><u>Affordable Innovation with OpenAI's GPT-4 Minus for App Creation - Exclusive Analysis by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-ubuntu-2404-the-ultimate-combination-of-speed-and-security-in-the-latest-linux-distribution-zdnet/"><u>Discover Ubuntu 24.04: The Ultimate Combination of Speed and Security in the Latest Linux Distribution | ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/effortless-access-top-5-chrome-addons-for-quickly-download-facebook-vids-for-2024/"><u>Effortless Access Top 5 Chrome Addons for Quickly Download Facebook Vids for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/enthralling-time-lapse-crafting-using-gopro-hero5-black/"><u>Enthralling Time-Lapse Crafting Using GoPro Hero5 Black</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-advantages-of-running-an-immutable-linux-distribution-insights-and-benefits/"><u>Exploring the Advantages of Running an Immutable Linux Distribution - Insights and Benefits</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-z-flip-5-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy Z Flip 5 FRP Locks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-the-booming-low-to-no-code-industry-is-reshaping-it-professions-zdnet-analysis/"><u>How the Booming Low to No-Code Industry Is Reshaping IT Professions - ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overwhelmed-tech-experts-the-bright-side-revealed-zdnet-insights/"><u>Overwhelmed Tech Experts: The Bright Side Revealed | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-connectivity-how-arista-targets-midsize-businesses-with-new-cognitive-network-solutions-featured-on-zdnet/"><u>Revolutionizing Connectivity: How Arista Targets Midsize Businesses with New Cognitive Network Solutions, Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-a-steal-on-black-friday-with-the-lenovo-flex-3-chromebook-for-just-99-beat-cyber-monday-hype-now/"><u>Score a Steal on Black Friday with the Lenovo Flex 3 Chromebook for Just $99 - Beat Cyber Monday Hype Now!</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-social-media-savvy-how-to-reset-facebook-conversations/"><u>The Social Media Savvy: How to Reset Facebook Conversations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-excel-efficiency-a-comprehensive-tutorial-on-how-to-lockfreeze-worksheet-rows-for-enhanced-productivity/"><u>Unlock Excel Efficiency: A Comprehensive Tutorial on How to Lock/Freeze Worksheet Rows for Enhanced Productivity</u></a></li>
 </ul></div>
 

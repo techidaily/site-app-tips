@@ -1,7 +1,7 @@
 ---
 title: "Top 5 In-Demand Coding Languages of Today: Comprehensive Learning Resources"
-date: 2024-12-30T21:49:29.300Z
-updated: 2025-01-03T07:45:30.769Z
+date: 2025-01-03T21:19:15.461Z
+updated: 2025-01-10T00:27:30.530Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,20 +176,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-infuse-personality-into-your-content-with-custom-thumbnails/"><u>[New] 2024 Approved Infuse Personality Into Your Content with Custom Thumbnails</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/iverging-paths-youtube-licensing-and-creative-commons-for-2024/"><u>[New] Diverging Paths YouTube Licensing & Creative Commons for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/aximize-visibility-a-guide-to-constructing-youtube-backlinks-for-2024/"><u>[New] Maximize Visibility A Guide to Constructing YouTube Backlinks for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-thriving-in-the-streaming-scene-overcoming-subscriber-limitations/"><u>[Updated] Thriving in the Streaming Scene Overcoming Subscriber Limitations</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725287590779-dvd-mp3-dvd/"><u>最佳 DVD 到 MP3 转换器：如何快速抢救你的 DVD 音频</u></a></li>
-<li><a href="https://app-tips.techidaily.com/antenna-arrays-can-synthesize-a-desired-radiation-pattern-by-controlling-the-relative-phases-and-amplitudes-of-signals-fed-to-each-element/"><u>Antenna Arrays Can Synthesize a Desired Radiation Pattern by Controlling the Relative Phases and Amplitudes of Signals Fed to Each Element.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-iphones-the-evolution-from-se-2020-to-se-2022-gizmodo-analysis/"><u>Comparing iPhones: The Evolution From SE 2020 to SE 2022 | Gizmodo Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-install-essential-printerscanner-drivers-for-windows-11-os/"><u>Ensure Compatibility: Install Essential Printer/Scanner Drivers for Windows 11 OS</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-phantom-v-flip-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsofts-new-release-a-game-changer-or-annoyance-find-out-how-it-stacks-up-zdnet/"><u>Microsoft's New Release: A Game Changer or Annoyance? Find Out How It Stacks Up [ZDNet]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-overlap-of-kernel-issues-and-cybersecurity-in-linux-environments-strategies-to-maintain-safety/"><u>Navigating the Overlap of Kernel Issues & Cybersecurity in Linux Environments - Strategies to Maintain Safety</u></a></li>
-<li><a href="https://app-tips.techidaily.com/new-advancements-for-ai-tasks-with-latest-kubernetes-version-released-insights-from-tech-experts-at-zdnet/"><u>New Advancements for AI Tasks with Latest Kubernetes Version Released, Insights From Tech Experts at ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ticking-clock-for-microsoft-overcoming-the-imminent-windows-11-dilemma-in-under-a-year-exclusive-insights-from-zdnet/"><u>Ticking Clock for Microsoft: Overcoming the Imminent Windows 11 Dilemma in Under a Year | Exclusive Insights From ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-red-hats-lightspeed-an-advanced-ai-solution-tailored-for-kubernetes-admins-with-openshift-zdnet/"><u>Unveiling Red Hat’s Lightspeed: An Advanced AI Solution Tailored for Kubernetes Admins with OpenShift | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/where-is-microsofts-promised-free-windows-10-update-now/"><u>Where Is Microsoft's Promised Free Windows 10 Update Now?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-masterful-mobile-and-desktop-sound-alteration-tools/"><u>[New] Masterful Mobile & Desktop Sound Alteration Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-progress-toward-a-unified-vision-insights-from-zdnet/"><u>Bridging the Tech & Business Divide: Progress Toward a Unified Vision - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-wireless-audio-with-dts-play-fi-explained/"><u>Exploring the World of Wireless Audio with DTS Play-Fi Explained</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/groundbreaking-first-episode-critique-for-2024/"><u>Groundbreaking First-Episode Critique for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-crafting-the-perfect-picture-for-youtube-upload/"><u>In 2024, Crafting the Perfect Picture for YouTube Upload</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-recent-payment-platform-failures-impacts-on-smbs-business-insights/"><u>Navigating Recent Payment Platform Failures: Impacts on SMBs | Business Insights</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/protecting-your-family-assessing-the-security-of-bitmoji-and-its-impact-on-kids-digital-footprint/"><u>Protecting Your Family: Assessing the Security of Bitmoji and Its Impact on Kids' Digital Footprint.</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-icons-in-windows-without-dismantling-system-files/"><u>Resetting Icons in Windows Without Dismantling System Files</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ubuntu-2404-unveiled-the-latest-lightning-speed-linux-os-with-enhanced-security-features-zdnet/"><u>Ubuntu 24.04 Unveiled: The Latest, Lightning-Speed Linux OS with Enhanced Security Features | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-whats-next-from-microsoft-potential-solutions-or-more-nuisances-learn-the-details-zdnet/"><u>Unveiling What's Next From Microsoft - Potential Solutions, Or More Nuisances? Learn the Details [ZDNet]</u></a></li>
 </ul></div>
 

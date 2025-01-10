@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Biometrics as Users Struggle with Password Fatigue: Insights From ZDNet Analysis"
-date: 2025-01-02T11:26:33.878Z
-updated: 2025-01-03T10:33:02.979Z
+date: 2025-01-02T19:39:53.676Z
+updated: 2025-01-10T06:07:20.046Z
 tags:
   - password-manager
 categories:
@@ -38,7 +38,7 @@ Amongst those who opted against doing so, a third described biometrics as more c
 "There's no one right way for organizations to authenticate customer, employee, or citizen identity," said Entrust's chief information security officer Mark Ruchie. "It's always a tradeoff between providing relatively frictionless access experiences and incorporating safeguards that confirm users are who they claim to be. The authentication methods you employ can, and should, change depending on the circumstances, like the sensitivity of data users are accessing, whether you're serving customers or employees, or if atypical login behaviors are exhibited." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acceptance over loss of data control
@@ -99,24 +99,22 @@ Noting that both digital and physical identities had their challenges and benefi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-conquerors-of-the-past-the-prime-7-battle-simulations/"><u>[New] In 2024, Conquerors of the Past The Prime 7 Battle Simulations</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-movavi-screen-recorder-11-review-for-2024/"><u>[New] Movavi Screen Recorder 11 Review for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-switch-off-crossplay-for-personalized-apex-legends-experience/"><u>[Updated] In 2024, Switch Off Crossplay for Personalized Apex Legends Experience</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-best-practices-for-instagram-story-screenshots-for-2024/"><u>[Updated] Unveiling the Best Practices for Instagram Story Screenshots for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-essential-techniques-for-funimate-video-extraction/"><u>2024 Approved Essential Techniques for Funimate Video Extraction</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-best-8-free-editing-programs-to-streamline-your-youtube-projects/"><u>2024 Approved The Best 8 Free Editing Programs to Streamline Your YouTube Projects</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-users-perspective-on-senuti-software-with-ideal-substitutes-compatible-with-pc-and-apple-devices/"><u>A User's Perspective on Senuti Software with Ideal Substitutes Compatible with PC and Apple Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278148-discover-the-best-itunes-music-visualizers-transform-your-tunes-into-spectacular-light-shows/"><u>Discover the Best iTunes Music Visualizers - Transform Your Tunes Into Spectacular Light Shows!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-back-online-three-quick-fixes-for-an-unresponsive-ipad-in-itunes-mode/"><u>Get Back Online: Three Quick Fixes for an Unresponsive iPad in iTunes Mode</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278690-get-your-favorite-songs-and-movies-for-free-directly-from-itunes-no-cost-at-all/"><u>Get Your Favorite Songs and Movies for Free Directly From iTunes – No Cost at All!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-completely-erase-irrelevant-applications-from-itunes-for-good/"><u>How To Completely Erase Irrelevant Applications From iTunes for Good</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-8-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 8 Plus without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/how-to-use-the-instagram-question-sticker-for-2024/"><u>How to Use the Instagram Question Sticker for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-introducing-the-apple-m1-max-clip/"><u>In 2024, Introducing the Apple M1 Max Clip</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-itunes-backups-essential-guide-and-step-by-step-tutorials/"><u>Mastering iTunes Backups: Essential Guide & Step-by-Step Tutorials</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278349-revamp-your-itunes-collection-with-these-proven-techniques-for-inserting-album-images/"><u>Revamp Your iTunes Collection with These Proven Techniques for Inserting Album Images!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/reviving-lost-conversations-a-step-by-step-guide-to-recovering-deleted-messages-in-itunes/"><u>Reviving Lost Conversations: A Step-by-Step Guide to Recovering Deleted Messages in iTunes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/share-your-creations-from-imovie-directly-to-your-itunes-library/"><u>Share Your Creations From iMovie Directly to Your iTunes Library</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-7-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-expert-insights-optimized-video-downloading-software/"><u>[New] Expert Insights Optimized Video Downloading Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-sonic-boom-new-technology-reviewed/"><u>[Updated] 2024 Approved Sonic Boom New Technology Reviewed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-free-custom-minecraft-gif-templates/"><u>[Updated] Free Custom Minecraft GIF Templates</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-harnessing-the-power-of-luts-in-adobes-creative-suite/"><u>2024 Approved Harnessing the Power of LUTs in Adobe's Creative Suite</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-failure-in-win11-try-new-driver-installation/"><u>Audio Failure in Win11? Try New Driver Installation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-android-file-organizers-expert-opinions-and-comprehensive-reviews/"><u>Best Android File Organizers - Expert Opinions & Comprehensive Reviews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-free-platforms-and-tools-for-discreet-message-exchange/"><u>Best Free Platforms & Tools for Discreet Message Exchange</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-adding-emojis-on-your-android-device/"><u>Complete Guide: Adding Emojis on Your Android Device</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/decoding-bsod-issues-in-pc-systems-insights-into-common-triggers-and-fixes-from-yl-computing-professionals/"><u>Decoding BSOD Issues in PC Systems: Insights Into Common Triggers and Fixes From YL Computing Professionals</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-best-ipad-video-players-for-2n4-a-guide-to-downloading-reliable-solutions/"><u>Discover the Best iPad Video Players for 2N4: A Guide to Downloading Reliable Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-5-must-try-free-cellphone-locator-applications/"><u>Discover the Ultimate List of 5 Must-Try Free Cellphone Locator Applications</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620194092-enhance-your-cinematic-journey-with-the-ultimate-list-of-15-vr-film-apps-for-mobile-devices/"><u>Enhance Your Cinematic Journey with the Ultimate List of 15 VR Film Apps for Mobile Devices!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-list-of-top-10-mobile-backup-solutions-for-iphones-and-android-phones/"><u>Essential List of Top 10 Mobile Backup Solutions for iPhones and Android Phones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-dell-g15-drivers-easy-setup-guide-for-windows-users/"><u>Get the Latest Dell G15 Drivers: Easy Setup Guide for Windows Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-nokia-105-classic-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Nokia 105 Classic</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-compreenasive-studio-guide-deep-xvideoinsight-for-2024/"><u>The Compreenasive Studio Guide Deep XVideoInsight for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlimited-free-communication-tool-cross-platform-calling-and-text-service-for-smartphones-and-computers/"><u>Unlimited Free Communication Tool: Cross-Platform Calling & Text Service for Smartphones & Computers</u></a></li>
 </ul></div>
 

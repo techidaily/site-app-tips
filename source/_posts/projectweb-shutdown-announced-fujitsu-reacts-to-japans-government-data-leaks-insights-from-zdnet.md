@@ -1,7 +1,7 @@
 ---
 title: "ProjectWEB Shutdown Announced: Fujitsu Reacts to Japan's Government Data Leaks - Insights From ZDNet"
-date: 2024-12-29T05:46:08.177Z
-updated: 2025-01-03T10:56:37.570Z
+date: 2025-01-06T22:27:30.318Z
+updated: 2025-01-09T19:03:11.547Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,16 +68,18 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-unlock-full-potential-of-your-zoom-sessions-with-obs/"><u>2024 Approved Unlock Full Potential of Your Zoom Sessions With OBS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-innovation-apples-cutting-edge-iphone-launch-event/"><u>Discover the Innovation: Apple's Cutting-Edge iPhone Launch Event</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-chilly-response-of-corporations-to-the-sizzling-potential-of-5g-technology/"><u>Exploring the Chilly Response of Corporations to the Sizzling Potential of 5G Technology</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-poco-x6-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Poco X6 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-top-8-real-time-strategies-to-boost-viewership/"><u>In 2024, Top 8 Real-Time Strategies to Boost Viewership</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/insight-into-bing-the-rival-of-google-in-the-world-of-online-search-engines/"><u>Insight Into Bing: The Rival of Google in the World of Online Search Engines</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-aws-expert-guide-on-navigating-and-thriving-with-amazons-premier-cloud-platform-zdnet-perspectives/"><u>Mastering AWS: Expert Guide on Navigating and Thriving with Amazon's Premier Cloud Platform | ZDNet Perspectives</u></a></li>
-<li><a href="https://app-tips.techidaily.com/no-internet-no-problem-onedrive-enables-offline-file-access-for-uninterrupted-work-zdnet/"><u>No Internet? No Problem! OneDrive Enables Offline File Access for Uninterrupted Work | ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/podcasts-vs-youtube-making-an-informed-media-decision/"><u>Podcasts Vs. YouTube Making an Informed Media Decision</u></a></li>
-<li><a href="https://article-files.techidaily.com/unlock-your-full-viewing-experience-with-these-3-strategies-to-download-youtube-srt-for-2024/"><u>Unlock Your Full Viewing Experience with These 3 Strategies to Download YouTube SRT for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-expert-review-of-superior-pandemic-vaccine-administration-platforms-for-healthcare-providers/"><u>ZDNet's Expert Review of Superior Pandemic Vaccine Administration Platforms for Healthcare Providers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-achieve-creative-excellence-on-tiktok-with-easy-border-swapping-strategies/"><u>[New] 2024 Approved Achieve Creative Excellence on TikTok with Easy Border Swapping Strategies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fundamentals-of-creating-persuasive-social-media-messages-for-2024/"><u>[Updated] Fundamentals of Creating Persuasive Social Media Messages for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamlessly-integrating-zoom-with-facebook-live/"><u>2024 Approved Seamlessly Integrating Zoom with Facebook Live</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/5-essential-productivity-hacks-for-streamlining-your-day-to-day-tasks-insights-from-zdnet/"><u>5 Essential Productivity Hacks for Streamlining Your Day-to-Day Tasks: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-guide-to-switching-from-windows-to-linux-mint-easy-installation-steps/"><u>Complete Guide to Switching From Windows to Linux Mint - Easy Installation Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-top-4-open-source-slack-substitutes-to-elevate-your-teams-communication-game-explore-the-options-on-zdnet/"><u>Discover Top 4 Open-Source Slack Substitutes to Elevate Your Team's Communication Game - Explore the Options on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-updates-to-libreoffice-for-mac-users-a-comprehensive-installation-tutorial-on-zdnet/"><u>Discover Updates to LibreOffice for Mac Users – A Comprehensive Installation Tutorial on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-tech-experts-shape-the-future-of-non-tech-companies-insights-from-zdnet/"><u>How Tech Experts Shape the Future of Non-Tech Companies: Insights From ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-lava-yuva-2-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Lava Yuva 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-power-of-ai-crafting-compelling-business-proposals-with-gpt/"><u>Unlock the Power of AI: Crafting Compelling Business Proposals with GPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-update-needed-microsofts-crucial-challenge-with-windows-10-countdown-begins/"><u>Urgent Update Needed: Microsoft's Crucial Challenge with Windows 10 Countdown Begins!</u></a></li>
 </ul></div>
 

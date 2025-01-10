@@ -1,7 +1,7 @@
 ---
 title: Boost Your Programming Speed Securely with Generative AI - Insights and Cautions From ZDNet
-date: 2024-12-31T07:20:09.764Z
-updated: 2025-01-03T00:24:13.088Z
+date: 2025-01-08T21:06:53.709Z
+updated: 2025-01-09T22:17:10.259Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,14 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/2024-approved-key-10-efficient-online-subtitle-editors/"><u>2024 Approved Key 10 Efficient Online Subtitle Editors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-netflixs-floating-window-feature-effectively/"><u>2024 Approved Utilizing Netflix's Floating Window Feature Effectively</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-essentials-how-to-use-the-ken-burns-effect-to-enhance-your-video-storytelling-for-2024/"><u>Final Cut Pro Essentials How to Use the Ken Burns Effect to Enhance Your Video Storytelling for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-nord-3-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Nord 3 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-s23-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy S23 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/is-microsoft-working-on-windows-12-insider-tips-and-unforeseen-projections-digitalchronicle/"><u>Is Microsoft Working on Windows 12? Insider Tips and Unforeseen Projections | DigitalChronicle</u></a></li>
-<li><a href="https://app-tips.techidaily.com/square-and-cash-app-downtime-essential-info-for-entrepreneurs-tech-news/"><u>Square and Cash App Downtime: Essential Info for Entrepreneurs | Tech News</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-switching-from-windows-to-linux-mint-on-your-computer-tips-and-tricks/"><u>Step-by-Step Guide: Switching From Windows to Linux Mint on Your Computer - Tips & Tricks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-the-tangled-web-of-linuxopen-source-documentation-solutions-for-clarity/"><u>Taming the Tangled Web of Linux/Open Source Documentation: Solutions for Clarity</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-masterclass-series-incorporating-timekeepers-into-live-production/"><u>[New] Masterclass Series Incorporating Timekeepers Into Live Production</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-5-affordable-gaming-mice-and-keyboards-99plus/"><u>[Updated] 2024 Approved Top 5 Affordable Gaming Mice & Keyboards $99+</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-win-and-mac-users-rejoice-with-our-top-8-subtitles-to-srtr-converter-tools/"><u>[Updated] 2024 Approved Win & Mac Users, Rejoice with Our Top 8 Subtitles-to-SRTR Converter Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-workplace-productivity-with-these-4-free-slack-replacements-embrace-opensource-collaborative-tools-as-featured-by-zdnet/"><u>Boost Your Workplace Productivity with These 4 Free Slack Replacements: Embrace Opensource Collaborative Tools, as Featured by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/finding-order-in-the-disarray-of-linuxopen-source-manuals-the-ultimate-fix/"><u>Finding Order in the Disarray of Linux/Open Source Manuals - The Ultimate Fix!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-tecno-spark-20c-frp-by-drfone-android/"><u>Full Guide to Bypass Tecno Spark 20C FRP</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pick-the-best-days-to-post-on-youtube/"><u>In 2024, Pick the Best Days to Post on YouTube</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-anonymity-the-underestimated-edge-in-managing-todays-digital-workforce-zdnet/"><u>Leveraging Anonymity: The Underestimated Edge in Managing Today's Digital Workforce | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-goal-seek-functionality-in-microsoft-excel/"><u>Mastering Goal Seek Functionality in Microsoft Excel</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-youtube-thumbnails-essential-dimensions-explored-for-2024/"><u>Mastering YouTube Thumbnails Essential Dimensions Explored for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mimo-systems-leverage-antenna-arrays-to-multiply-the-capacity-of-wireless-channels-by-transmitting-different-data-streams-over-multiple-spatial-paths-simult77/"><u>MIMO Systems Leverage Antenna Arrays to Multiply the Capacity of Wireless Channels by Transmitting Different Data Streams over Multiple Spatial Paths Simultaneously.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-volume-on-your-pc-how-to-resolve-windows-11-sound-problems/"><u>Restoring Volume on Your PC: How to Resolve Windows 11 Sound Problems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-expenses-in-gen-ai-education-risk-assessment-lags-behind-according-to-recent-stanford-study-insights-on-cost-and-safety/"><u>Rising Expenses in Gen AI Education: Risk Assessment Lags Behind According to Recent Stanford Study - Insights on Cost & Safety</u></a></li>
 </ul></div>
 

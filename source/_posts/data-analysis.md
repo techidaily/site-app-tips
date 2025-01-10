@@ -1,7 +1,7 @@
 ---
 title: Data Analysis
-date: 2025-01-02T11:39:37.704Z
-updated: 2025-01-03T05:03:11.182Z
+date: 2025-01-06T21:54:38.632Z
+updated: 2025-01-10T01:28:46.460Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,21 +176,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-ultimate-guide-to-economical-high-performance-asmr-microphones/"><u>[Updated] Ultimate Guide to Economical, High-Performance ASMR Microphones</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ace-your-swim-with-the-ultimate-list-of-premium-splashproof-smartwatches-in-depth-analysis-engadget/"><u>Ace Your Swim with the Ultimate List of Premium Splashproof Smartwatches - In-Depth Analysis | Engadget</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-iphone-data-rescue-tools-how-to-get-back-deleted-files-securely/"><u>Best iPhone Data Rescue Tools: How to Get Back Deleted Files Securely</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-fun-and-trending-facebook-messenger-stickers-now/"><u>Download Fun & Trending Facebook Messenger Stickers Now</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effortless-conversion-free-software-for-changing-powerpoint-presentations-into-flash-swf-files/"><u>Effortless Conversion: Free Software for Changing PowerPoint Presentations Into Flash (.swf) Files</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-vivo-x100-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Vivo X100 Pro.</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-step-by-step-guide-to-wirecast-facebook-livestreams/"><u>In 2024, Step-by-Step Guide to Wirecast Facebook Livestreams</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/migrating-from-windows-11-10-8-or-7-discover-paragon-drive-copy-solutions/"><u>Migrating From Windows 11, 10, 8, or 7? Discover Paragon Drive Copy Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/rust-crashes-heres-how-you-can-prevent-unexpected-shutdowns-in-your-programs/"><u>Rust Crashes? Here's How You Can Prevent Unexpected Shutdowns in Your Programs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-showcase-of-robotics-and-ai-technology-from-the-2024-ces-highlights-and-discoveries-zdnet/"><u>The Ultimate Showcase of Robotics & AI Technology From the 2024 CES: Highlights and Discoveries | ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-free-gif-creation-tools-the-best-mobile-apps-for-android-and-ios/"><u>Top 10 Free GIF Creation Tools: The Best Mobile Apps for Android & iOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-iphone-spyware-apps-unbeatable-options-for-covert-tracking/"><u>Top Rated iPhone Spyware Apps: Unbeatable Options for Covert Tracking</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-navigation-apps-on-android-discover-the-best-free-options/"><u>Top-Ranked Navigation Apps on Android: Discover the Best Free Options</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unraveling-vsco-a-detailed-review-with-benefits-drawbacks-comparisons-and-best-alternatives/"><u>Unraveling VSCO: A Detailed Review with Benefits, Drawbacks, Comparisons, and Best Alternatives</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-step-by-step-funimate-video-retrieval/"><u>[Updated] 2024 Approved Step-by-Step Funimate Video Retrieval</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-sunshine-strategies-to-lighten-up-android-videos/"><u>2024 Approved Sunshine Strategies to Lighten up Android Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-dj-how-does-machine-curated-music-stack-up-against-human-selection/"><u>AI DJ: How Does Machine-Curated Music Stack Up Against Human Selection?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-biz-marketers-now-utilizing-artificial-intelligence-insights-from-zdnet/"><u>AI Integration: One-Third of Biz Marketers Now Utilizing Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-broadcoms-official-bluetooth-software-compatible-with-windows-1187/"><u>Get Broadcom's Official Bluetooth Software Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-x100-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo X100 Pro</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/moving-pictures-from-iphone-to-windows-pc-the-ultimate-how-to-for-users-of-all-versions/"><u>Moving Pictures From iPhone to Windows PC: The Ultimate How-To for Users of All Versions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-singapores-2nbillion-commitment-to-supercharge-its-it-infrastructure-and-elevate-digital-solutions-tech-insight/"><u>Unveiling Singapore's $2.nBillion Commitment to Supercharge Its IT Infrastructure and Elevate Digital Solutions | Tech Insight</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-the-pull-of-open-source-for-global-leaders-in-innovation/"><u>ZDNet Explores the Pull of Open Source for Global Leaders in Innovation</u></a></li>
 </ul></div>
 

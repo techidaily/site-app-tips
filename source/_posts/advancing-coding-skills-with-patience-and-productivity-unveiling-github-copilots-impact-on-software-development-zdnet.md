@@ -1,7 +1,7 @@
 ---
 title: "Advancing Coding Skills with Patience & Productivity: Unveiling GitHub Copilot's Impact on Software Development - ZDNet"
-date: 2024-12-28T05:09:46.962Z
-updated: 2025-01-03T01:35:02.533Z
+date: 2025-01-05T17:10:57.623Z
+updated: 2025-01-09T16:33:05.279Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-ultimate-recording-gear-for-social-media-stars/"><u>[New] Ultimate Recording Gear for Social Media Stars</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210125795-9780648831228-a-single-flower/"><u>A Single Flower | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-coding-skills-the-impact-of-github-copilot-on-developer-workflow-a-zdnet-perspective/"><u>Boost Your Coding Skills: The Impact of GitHub Copilot on Developer Workflow - A ZDNet Perspective</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-100-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/guide-turning-off-dell-system-recovery-software-and-finding-reliable-backup-solutions/"><u>Guide: Turning Off Dell System Recovery Software & Finding Reliable Backup Solutions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-bsod-blue-screen-of-death-with-code-0x0000009f/"><u>How to Fix the BSOD (Blue Screen of Death) with Code 0X0000009F</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-steep-path-to-update-ubuntu-2404-insights-from-zdnet/"><u>Navigating the Steep Path to Update Ubuntu 24.04 - Insights From ZDNet</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/professional-graphics-and-vibrant-dodge-viper-hd-thumbnails-for-your-screen-powered-by-yl-computing/"><u>Professional Graphics and Vibrant Dodge Viper HD Thumbnails for Your Screen - Powered by YL Computing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/section-3c-five-qandas-on-antenna-radiation-patterns-and-design-principles/"><u>Section 3C: Five Q&As on Antenna Radiation Patterns and Design Principles</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-microsoft-account-essential-steps-to-protect-against-cyber-threats-tips-from-zdnet/"><u>Securing Your Microsoft Account: Essential Steps to Protect Against Cyber Threats - Tips From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-competitive-edge-of-devops-in-modern-enterprptions-ensuring-safety-and-efficiency-as-recommended-by-zdnet/"><u>The Competitive Edge of DevOps in Modern Enterprptions: Ensuring Safety and Efficiency as Recommended by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-cutting-edge-of-connectivity-a-look-at-the-best-new-developments-in-5g-and-edge-computing-zdnet/"><u>The Cutting-Edge of Connectivity: A Look at the Best New Developments in 5G and Edge Computing (ZDNET)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-how-to-easily-disableremove-youtube-shorts-permanently/"><u>[Updated] In 2024, How to Easily Disable/Remove YouTube Shorts Permanently?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bavarias-transition-adopting-open-source-with-linux-and-libreoffice-instead-of-microsoft-insights-from-zdnet/"><u>Bavaria's Transition: Adopting Open-Source with Linux and LibreOffice Instead of Microsoft - Insights From ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/deciding-on-your-video-recorder-heroes-obs-or-bandicam-for-2024/"><u>Deciding on Your Video Recorder Heroes OBS or Bandicam for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-screen-record-instagram-story-for-2024/"><u>How to Screen Record Instagram Story for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy F04</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-pure-opinions-on-recordcast-experience/"><u>In 2024, Pure Opinions on RecordCast Experience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-ubuntu-2n04-a-revolutionary-fusion-of-speed-and-safety-in-the-world-of-linux-operating-systems-zdnet/"><u>Introducing Ubuntu 2N.04 - A Revolutionary Fusion of Speed and Safety in the World of Linux Operating Systems | ZDnet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-teamwork-platforms-of-2022-expert-reviews-and-comparisons/"><u>Top 5 Teamwork Platforms of 2022 - Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uncovering-the-joy-why-life-after-apple-proves-to-be-an-exciting-journey-zdnet/"><u>Uncovering the Joy: Why Life After Apple Proves To Be an Exciting Journey | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-shared-links-mechanism-and-functionality/"><u>Understanding ChatGPT Shared Links: Mechanism & Functionality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-swiss-government-leads-by-example-mandates-open-source-sharing-for-official-software-a-new-era-of-public-tech/"><u>ZDNet Exclusive: Swiss Government Leads by Example, Mandates Open Source Sharing for Official Software | A New Era of Public Tech</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can't Remember Your Passwords? Discover How a Password Manager Can Help | CNBC
-date: 2024-12-30T12:10:21.160Z
-updated: 2025-01-03T07:21:25.207Z
+date: 2025-01-02T16:13:27.627Z
+updated: 2025-01-09T16:57:37.304Z
 tags:
   - password-manager
 categories:
@@ -105,10 +105,6 @@ Direct LinkEmbed Code
 
 Close Modal Dialog
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** recommends
 
 [The best password managers for business Everyone needs a password manager. It's the only way to maintain unique, hard-to-guess credentials for every secure site you and your team access daily.  Read now](https://www.zdnet.com/article/best-password-manager/)
@@ -187,7 +183,7 @@ That architecture offers five distinct advantages over a DIY solution.
 * [The fastest VPNs](https://www.zdnet.com/article/fastest-vpn/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1) Browser Integration 
@@ -196,6 +192,10 @@ Most password managers include browser extensions that automatically prompt you 
 
 Contrast that approach with the inevitable friction of a manual list. You don't need to find a file and add a password to it to save a new or changed set of credentials, and you don't need to find and open that same file to copy and paste your password. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2) Password Generation 
 
 Every password manager worth its salted hash includes a password generator capable of instantly producing a truly random, never-before-used-by-you password. If you don't like that password, you can click to generate another. You can then use that random password when creating a new account or changing credentials for an existing one. 
@@ -203,6 +203,10 @@ Every password manager worth its salted hash includes a password generator capab
 Most password managers also allow you to customize the length and complexity of a generated password so you can deal with sites that have peculiar password rules. 
 
 With the possible exceptions of [John Forbes Nash, Jr.](https://en.wikipedia.org/wiki/A%5FBeautiful%5FMind%5F%28film%29), and [Raymond Babbitt](https://en.wikipedia.org/wiki/Rain%5FMan), mere mortals are not capable of such feats of randomization. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3) Phishing Protection 
 
@@ -218,13 +222,13 @@ Password managers work across devices, including PCs, Macs, and mobile devices, 
 
 By contrast, if you manage passwords in an encrypted file that's saved locally, you have to manually copy that file to other devices (or keep it in the cloud in a location under your personal control), and then make sure the contents of each copy stay in sync. More friction. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  5) Surveillance Safeguard 
 
 Password managers generally offer good protection against "shoulder surfing." An attacker who's able to watch you type, either live or with the help of a surveillance camera, can steal your login credentials with ease. Password managers never expose those details. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is there a case against password managers?
 
@@ -278,15 +282,15 @@ If you're a journalist working on security issues, or an activist in a country w
 
 But even if you're not an obvious candidate for targeted attacks, you can be swept up in a website breach. That's why [Have I Been Pwned?](https://haveibeenpwned.com/) exists. It's easy enough for a compromised website to force you to reset your password, minimizing the risk of that breach, but if you've used that same combination of credentials elsewhere, you're at serious risk. And no matter how careful you are, you're always at risk of being fooled into handing over your credentials in a well-designed phishing attack.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Which password manager is right for you?
 
 Any password manager solution is better than none.
 
 The simplest solution is to use the password management tools built into your default browser or operating system. That option works especially well for anyone who is technically unsophisticated, has a limited number of credentials to store, and uses hardware and services from a single ecosystem. If you're setting things up for a friend or relative who has a Mac and an iPhone, for example, Apple's Keychain will suffice. Those who live in Google's ecosystem can probably get by with Chrome's password manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### read this
 
@@ -303,10 +307,6 @@ Finally, most commercial password managers include business plans that allow cen
 We've put together a list of the best free and paid options here: [Best Password Manager in 2021](https://www.zdnet.com/article/best-password-manager/). Each entry in this list includes pricing details as well as a link to security information. Every paid program offers a free trial, and we strongly recommend taking advantage of those trials to see if a program is right for you.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Related stories:
 
@@ -330,20 +330,16 @@ We've put together a list of the best free and paid options here: [Best Password
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-essentials-of-starting-an-instagram-live/"><u>[New] 2024 Approved The Essentials of Starting an Instagram Live</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-debating-on-the-significance-of-truthfulness-in-selfies-for-2024/"><u>[New] Debating on the Significance of Truthfulness in Selfies for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-mobile-access-to-all-you-love-best-download-tools-for-android-and-ios/"><u>[New] In 2024, Mobile Access to All You Love Best Download Tools for Android and iOS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-premier-call-customization-and-editing-software/"><u>[Updated] In 2024, Premier Call Customization and Editing Software</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-ravenhill-resonance-essential-websites-to-download-hearing-heroes-tones/"><u>2024 Approved Ravenhill Resonance Essential Websites to Download Hearing Heroes' Tones</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-techniques-for-managing-packages-via-winget-on-win11/"><u>Advanced Techniques for Managing Packages via Winget on Win11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-anthropic-claude-mobile-application-now-available-company-unveils-new-business-strategy-tech-news-on-zdnet/"><u>Free Anthropic 'Claude' Mobile Application Now Available; Company Unveils New Business Strategy - Tech News on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-canonicals-revolutionary-distroless-images-transform-enterprise-security-a-deep-dive-techinsights/"><u>How Canonical's Revolutionary 'Distroless' Images Transform Enterprise Security: A Deep Dive - TechInsights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-nubia-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Nubia</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-v29-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo V29 Pro FRP</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-correctly-installing-apps-from-ms-store/"><u>Mastering the Art of Correctly Installing Apps From MS Store</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-tips-for-successfully-configuring-google-one-vpn-services-on-macos-systems/"><u>Quick Tips for Successfully Configuring Google One VPN Services on macOS Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-visionary-linus-torvalds-explores-ai-progress-rust-integration-and-linux-significance-with-zdnet/"><u>Tech Visionary Linus Torvalds Explores AI Progress, Rust Integration, and Linux Significance with ZDNET</u></a></li>
-<li><a href="https://app-tips.techidaily.com/upgrade-journey-for-ubuntu-linux-2404-demystified-by-zdnet-experts/"><u>Upgrade Journey for Ubuntu Linux 24.04 Demystified by ZDNet Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11s-recent-update-unleashes-exciting-novel-capabilities-insights-from-zdnet/"><u>Windows 11'S Recent Update Unleashes Exciting Novel Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-mp3-conversion-from-youtube-for-mac-users/"><u>[New] 2024 Approved Effortless MP3 Conversion From YouTube for Mac Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-quick-play-music-10-best-apps-phones-for-2024/"><u>[New] Quick Play Music 10 Best Apps, Phones for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-digital-diaries-top-picks-for-personal-recorders/"><u>[Updated] 2024 Approved Digital Diaries Top Picks for Personal Recorders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/3gpp-m4a/"><u>3GPP M4A動画の変換方法: 無料オンラインツールで効率良く変換するためのチュートリアル</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-comprehensive-guide-understanding-the-delete-for-everyone-option-in-whatsapp/"><u>A Comprehensive Guide: Understanding the 'Delete for Everyone' Option in WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-passwordless-security-a-dual-review-of-top-password-managers-that-won-me-over-tech-insights/"><u>Exploring Passwordless Security: A Dual Review of Top Password Managers That Won Me Over | Tech Insights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/perfectly-blended-hdr-your-guide-to-merging-in-adobe-lightroom-for-2024/"><u>Perfectly Blended HDR Your Guide to Merging in Adobe Lightroom for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/repeated-security-incidents-at-lastpass-latest-update-from-zdnet/"><u>Repeated Security Incidents at LastPass - Latest Update From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-accounts-now-unbeatable-jem-authenticator-and-password-management-solution-insights-from-zdnet/"><u>Secure Your Accounts Now! Unbeatable JEM Authenticator & Password Management Solution | Insights From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ongoing-issue-of-reused-passwords-in-the-face-of-security-breaches-cybersecurity-insights/"><u>The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-c1900101-error-in-windows-upgrade/"><u>Troubleshooting C1900101 Error in Windows Upgrade</u></a></li>
 </ul></div>
 

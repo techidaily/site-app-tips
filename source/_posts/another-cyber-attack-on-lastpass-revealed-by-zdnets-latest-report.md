@@ -1,7 +1,7 @@
 ---
 title: Another Cyber Attack on LastPass Revealed by ZDNet's Latest Report
-date: 2024-12-28T20:24:44.788Z
-updated: 2025-01-03T11:33:26.156Z
+date: 2025-01-07T20:57:49.931Z
+updated: 2025-01-09T21:38:45.688Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ This isn't the first time LastPass has had security problems. In 2021, it appear
 **Also:** [Want to ditch LastPass? Here are the best alternatives to try](https://www.zdnet.com/article/best-lastpass-alternatives/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,19 +81,22 @@ LastPass, with its zero-knowledge model, is still a good password security compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-crafting-professional-visual-narratives-with-lut-usage-in-premiere/"><u>[New] 2024 Approved Crafting Professional Visual Narratives with LUT Usage in Premiere</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-quintessential-vr-cinematic-treasures/"><u>[New] 2024 Approved Quintessential VR Cinematic Treasures</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-conquering-consumer-attention-metaverse-marketing-tips/"><u>[Updated] Conquering Consumer Attention Metaverse Marketing Tips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-worldwide-leaders-in-short-video-download-hubs-free/"><u>[Updated] Worldwide Leaders in Short Video Download Hubs (FREE)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/achieving-synergy-how-tech-and-business-are-finally-joining-forces-today-zdnet/"><u>Achieving Synergy: How Tech & Business Are Finally Joining Forces Today | ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/embracing-progressive-upgrades-during-artificial-intelligence-revolution-its-pledge-as-featured-on-zdnet/"><u>Embracing Progressive Upgrades During Artificial Intelligence Revolution: IT's Pledge as Featured on ZDNET</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/immersive-horizon-the-rise-of-virtual-reality/"><u>Immersive Horizon The Rise of Virtual Reality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-imagery-with-these-mobile-montage-leaders/"><u>In 2024, Transform Your Imagery with These Mobile Montage Leaders</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-edge-in-hyperconvergence-the-elite-vendors-featured-on-zdnet/"><u>Leading Edge in Hyperconvergence: The Elite Vendors , Featured on ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-hybrid-cloud-challenges-with-the-latest-enhancements-of-red-hats-enterprise-linux-distribution/"><u>Mastering Hybrid Cloud Challenges with the Latest Enhancements of Red Hat's Enterprise Linux Distribution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-windows-default-video-chipset/"><u>Removing Windows' Default Video Chipset</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolving-job-landscape-with-ai-how-technology-replaces-and-creates-opportunities-in-training-and-ethics-insights-for-tomorrows-workforce-zdnet/"><u>The Evolving Job Landscape with AI: How Technology Replaces and Creates Opportunities in Training & Ethics | Insights for Tomorrow's Workforce | ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-sweet-spot-of-gpu-temperatures-for-games/"><u>The Sweet Spot of GPU Temperatures for Games</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-new-release-of-robust-enduring-linux-kernel-for-extended-lifetime-support/"><u>ZDNet Exclusive: New Release of Robust, Enduring Linux Kernel for Extended Lifetime Support</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aximizing-engagement-avoiding-common-youtube-thumbnail-errors-for-2024/"><u>[New] Maximizing Engagement Avoiding Common YouTube Thumbnail Errors for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-essentials-of-creating-a-personalized-twitter-account/"><u>[New] The Essentials of Creating a Personalized Twitter Account</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-no-cost-video-conferencing-apps-cross-system-friendly/"><u>[Updated] 2024 Approved Best No-Cost Video Conferencing Apps Cross-System Friendly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-elite-virtual-storage-service-ranking/"><u>[Updated] 2024 Approved Elite Virtual Storage Service Ranking</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-dynamic-scripting-for-videos/"><u>2024 Approved Dynamic Scripting for Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-repair-tips-for-when-your-surface-pro-loses-its-wi-fi-signal/"><u>DIY Repair Tips for When Your Surface Pro Loses Its Wi-Fi Signal</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-compromise-on-security-upgrade-your-password-for-safe-streaming-experience-cybersafetynews/"><u>Don't Compromise on Security: Upgrade Your Password for Safe Streaming Experience | CyberSafetyNews</u></a></li>
+<li><a href="https://app-tips.techidaily.com/forgetting-passwords-fuels-growing-demand-for-biometric-security-solutions/"><u>Forgetting Passwords Fuels Growing Demand for Biometric Security Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guarding-againnst-stealthy-cryptocurrency-miners-safe-torrenting-tips-for-spider-man-no-way-home-with-advice-by-zdnet-experts/"><u>Guarding Againnst Stealthy Cryptocurrency Miners: Safe Torrenting Tips for 'Spider-Man: No Way Home' With Advice by ZDNet Experts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-nokia-c300-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Nokia C300 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/infinite-visual-vaults-blend-zero-cost-sky-spaces-with-premium-packages/"><u>Infinite Visual Vaults Blend Zero-Cost Sky Spaces With Premium Packages</u></a></li>
+<li><a href="https://app-tips.techidaily.com/instagram-examining-the-questions-of-trust-and-authenticity/"><u>Instagram: Examining the Questions of Trust and Authenticity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/proofpoint-reveals-how-cybercriminals-exploit-fans-desire-for-justin-bieber-and-the-weeknd-events-to-propagate-malware/"><u>Proofpoint Reveals How Cybercriminals Exploit Fans' Desire for Justin Bieber & The Weeknd Events to Propagate Malware</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-devices-with-ease-apples-new-passkey-revealed-at-wwdc-zdnet-insights/"><u>Secure Your Devices with Ease: Apple's New Passkey Revealed at WWDC | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-rise-of-biometrics-as-users-struggle-with-password-fatigue-insights-from-zdnet-analysis/"><u>The Rise of Biometrics as Users Struggle with Password Fatigue: Insights From ZDNet Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-password-management-secrets-with-dashlane-costs-capabilities-and-starting-guide-techinsight/"><u>Unlocking Password Management Secrets with Dashlane: Costs, Capabilities & Starting Guide | TechInsight</u></a></li>
 </ul></div>
 

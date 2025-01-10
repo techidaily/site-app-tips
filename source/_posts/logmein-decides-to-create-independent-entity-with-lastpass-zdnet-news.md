@@ -1,7 +1,7 @@
 ---
 title: LogMeIn Decides to Create Independent Entity with LastPass | ZDNet News
-date: 2024-12-28T21:43:49.434Z
-updated: 2025-01-02T19:39:42.052Z
+date: 2025-01-04T04:47:50.152Z
+updated: 2025-01-09T17:01:20.671Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ LogMeIn [announced](https://www.logmein.com/newsroom/press-release/2021/logmein-
 The cloud-based solutions company explained that the move allows LastPass to invest heavily in "customer experience, go-to-market functions and engineering" as a way to improve its "organic growth in password management," Single Sign-On (SSO) and multi-factor authentication (MFA). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -86,18 +86,20 @@ In a message to users, LastPass reiterated that it could "strategically increase
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-beginners-blueprint-for-ipad-time-lapse-videos-for-2024/"><u>[New] Beginner's Blueprint for iPad Time-Lapse Videos for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-assortment-of-gopro-modifications-for-2024/"><u>[Updated] Ultimate Assortment of Gopro Modifications for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/before-microsoft-drops-support-for-windows-explore-five-essential-alternatives-to-keep-your-pc-running-smoothly/"><u>Before Microsoft Drops Support for Windows # : Explore Five Essential Alternatives to Keep Your PC Running Smoothly.</u></a></li>
-<li><a href="https://facebook.techidaily.com/combining-spotify-with-facebook-for-enhanced-listening/"><u>Combining Spotify with Facebook for Enhanced Listening</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dissecting-the-design-philosophy-behind-walkman-ws623/"><u>Dissecting the Design Philosophy Behind Walkman WS623</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dont-panic-windows-11-users-explore-these-5-strategies-before-microsoft-ends-its-lifeline-zdnet-insights/"><u>Don't Panic, Windows 11 Users! Explore These 5 Strategies Before Microsoft Ends Its Lifeline | ZDNet Insights</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-steps-to-get-arduino-compatible-with-windows-operating-system/"><u>Easy Steps to Get Arduino Compatible with Windows Operating System</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-the-innovative-features-of-anthropics-latest-offerings-complimentary-ios-app-and-premier-corporate-plan-launched-get-insights-from-zdnet/"><u>Explore the Innovative Features of Anthropic's Latest Offerings: Complimentary iOS App and Premier Corporate Plan Launched – Get Insights From ZDNet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/offline-and-online-solutions-transforming-swf-videos-into-avi-without-cost/"><u>Offline & Online Solutions: Transforming SWF Videos Into AVI Without Cost</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/streaming-supremacy-duo-for-2024/"><u>Streaming Supremacy Duo for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-learning-management-systems-reviewed-by-zdnet-find-the-ideal-lms/"><u>Top-Ranked Learning Management Systems Reviewed by ZDNet: Find the Ideal LMS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlicensed-zen-audio-streaming-for-2024/"><u>Unlicensed Zen Audio Streaming for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/upcoming-innovations-from-ai-over-the-next-ten-years-as-explored-by-zdnet/"><u>Upcoming Innovations From AI over the Next Ten Years as Explored by ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-quick-realignment-youtube-on-mac-display-ratio/"><u>[New] 2024 Approved Quick Realignment YouTube on Mac Display Ratio</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-graphics-genesis-radeon-reclaimed/"><u>[New] In 2024, Graphics Genesis Radeon Reclaimed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-master-video-transformation-a-complete-guide-to-rotating-in-vlc/"><u>[Updated] 2024 Approved Master Video Transformation A Complete Guide to Rotating in VLC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-online-platforms-embedding-video-playlists-from-youtube/"><u>[Updated] 2024 Approved Online Platforms Embedding Video Playlists From YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-zte-blade-a73-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on ZTE Blade A73 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advanced-audio-capture-and-conversion-made-simple-by-otters-latest-teams-software-update-explore-features-on-zdnet/"><u>Advanced Audio Capture and Conversion Made Simple by Otter's Latest Teams Software Update | Explore Features on ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/before-its-too-late-discover-5-essential-steps-to-prepare-your-windows-e-pc-for-post-support-era-expert-advice-from-zdnet/"><u>Before It's Too Late: Discover 5 Essential Steps to Prepare Your Windows E PC for Post-Support Era | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-windows-10-update-initiative-where-did-it-go/"><u>Free Windows 10 Update Initiative: Where Did It Go?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-recover-disappearing-desktop-icons-on-your-windows-10-pc-a-step-by-step-guide/"><u>How to Recover Disappearing Desktop Icons on Your Windows 10 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/integrating-your-cloud-storage-how-to-link-google-drive-to-slack-efficiently/"><u>Integrating Your Cloud Storage: How to Link Google Drive to Slack Efficiently</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/linksys-wrt1900acs-open-source-wi-fi-router-review/"><u>Linksys WRT1900ACS Open Source Wi-Fi Router Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-complexities-of-ai-powered-code-writing-pros-and-cons-explained-insights-from-zdnet/"><u>Navigating the Complexities of AI-Powered Code Writing: Pros and Cons Explained - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/side-and-back-lobes-are-usually-undesirable-as-they-represent-radiation-in-directions-that-do-not-contribute-to-effective-communication-and-can-cause-interf86/"><u>Side and Back Lobes Are Usually Undesirable as They Represent Radiation in Directions that Do Not Contribute to Effective Communication and Can Cause Interference.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-battle-for-dominance-in-the-web-browsing-realm-who-leads/"><u>The Battle for Dominance in the Web Browsing Realm: Who Leads?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-discover-the-top-4k-video-editing-platforms-for-professionals/"><u>Updated Discover the Top 4K Video Editing Platforms for Professionals</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Truth Behind Crypto Anonymity – A Deep Dive Into a Groundbreaking Study
-date: 2024-12-28T20:36:28.718Z
-updated: 2025-01-02T19:09:49.139Z
+date: 2025-01-06T02:48:46.916Z
+updated: 2025-01-09T21:48:45.557Z
 tags:
   - password-manager
 categories:
@@ -20,7 +20,7 @@ It has been a totem of the cryptocurrency community that the numeric addresses o
 A new paper, released this week by researchers at Baylor College of Medicine and Rice University, has shattered that presumed anonymity. Titled "Cooperation among an anonymous group, protected Bitcoin during failures of decentralization," the paper is now posted on the [researchers' server](https://aidenlab.org/bitcoin.pdf). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,7 +44,7 @@ For Blackburn and team, the point was to study the effects of people participati
 That's intriguing, but a more pressing discovery is that addresses can be traced and identities can be revealed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -62,7 +62,7 @@ As outlined in [the original Bitcoin white paper](https://bitcoin.org/bitcoin.pd
 Blackburn and team had to trace those key pairs to reveal early Bitcoin's transacting parties. To do so, they developed what they called a novel address-linking scheme. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Crypto Coach
@@ -119,24 +119,18 @@ As the team concludes in the report, "Drip-by-drip, information leakage erodes t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-bidding-adieu-with-elegance-sample-choices/"><u>[New] Bidding Adieu with Elegance Sample Choices</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-mastery-of-mobile-and-desktop-calendar-integration-with-zoom-for-2024/"><u>[New] Mastery of Mobile and Desktop Calendar Integration with Zoom for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-designing-effective-video-previews-for-channels/"><u>[Updated] Designing Effective Video Previews for Channels</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-selecting-superior-hdr-cameras-a-buyers-guide-for-2024/"><u>[Updated] Selecting Superior HDR Cameras A Buyer's Guide for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionizing-image-post-processing-advanced-use-of-3d-luts-in-ps/"><u>2024 Approved Revolutionizing Image Post-Processing Advanced Use of 3D LUTs in PS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sifting-through-centuries-online-unlicensed-treasures/"><u>2024 Approved Sifting Through Centuries Online Unlicensed Treasures</u></a></li>
-<li><a href="https://app-tips.techidaily.com/avoid-music-chaos-a-detailed-walkthrough-on-updatingreinstalling-itunes-while-preserving-your-library/"><u>Avoid Music Chaos: A Detailed Walkthrough on Updating/Reinstalling iTunes While Preserving Your Library</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-tutorial-on-moving-your-itunes-media-library-onto-an-external-storage-device-for-mac-and-pc-users/"><u>Complete Tutorial on Moving Your iTunes Media Library Onto an External Storage Device for Mac and PC Users</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/deciphering-the-disappearance-of-recommended-video-content-in-your-newsfeed/"><u>Deciphering the Disappearance of Recommended Video Content in Your Newsfeed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620278966-discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-anytime-anythnough-how-to-get-past-or-latest-itunes-versions-for-pcs-and-apple-devices-without-paying-a-dime/"><u>Download Anytime, Anythnough: How to Get Past or Latest iTunes Versions for PCs and Apple Devices Without Paying a Dime</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-steps-removing-redundant-songs-from-your-itunes-library/"><u>Easy Steps: Removing Redundant Songs From Your iTunes Library</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-your-favorite-songs-and-movies-for-free-directly-from-itunes-no-cost-at-all/"><u>Get Your Favorite Songs and Movies for Free Directly From iTunes – No Cost at All</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/global-idc-analysis-of-leading-intelligent-document-processing-solutions-2023-2024-comprehensive-vendor-evaluation/"><u>Global IDC Analysis of Leading Intelligent Document Processing Solutions (2023-2024): Comprehensive Vendor Evaluation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-install-battleye-anti-cheat-tips-and-tricks/"><u>How To Successfully Install BattlEye Anti-Cheat: Tips & Tricks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/making-a-big-impact-with-small-size-the-cherry-kw-9200-mini-keyboard-reviewed/"><u>Making a Big Impact with Small Size: The Cherry KW 9200 Mini Keyboard Reviewed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revive-your-ipad-top-3-strategies-to-restore-connectivity-with-itunes/"><u>Revive Your iPad: Top 3 Strategies to Restore Connectivity with iTunes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-effective-tips-for-when-itunes-refuses-to-start-up/"><u>Troubleshooting Guide: Effective Tips for When iTunes Refuses to Start Up</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-how-to-fix-apple-music-not-syncing-to-your-iphone-ipad-or-ipod/"><u>Troubleshooting: How to Fix Apple Music Not Syncing to Your iPhone, iPad or iPod</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-captivating-channels-spotlight-on-the-most-popular-female-creators/"><u>[New] In 2024, Captivating Channels Spotlight on the Most Popular Female Creators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-in-depth-skype-audio-capture-guide-with-obs-software/"><u>[New] In 2024, In-Depth Skype Audio Capture Guide with OBS Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-virtual-enterprise-integrating-vr-tech-in-commerce/"><u>[New] In 2024, Virtual Enterprise Integrating VR Tech in Commerce</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-through-the-best-tools-to-monitor-instagram-metrics-effectively-for-2024/"><u>[New] Navigating Through the Best Tools to Monitor Instagram Metrics Effectively for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-satirical-images-jestjokes-studio/"><u>[New] Satirical Images JestJokes Studio</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192575-best-6-exceptional-contact-widget-apps-for-android-ranked/"><u>Best 6 Exceptional Contact Widget Apps for Android - Ranked</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-the-most-anticipated-new-features-of-ios-18-at-apples-wwdc-202n-ai-leads-the-charge/"><u>Discovering the Most Anticipated New Features of iOS 18 at Apple's WWDC 202N - AI Leads the Charge!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ideal-calendar-solutions-best-complimentary-and-premium-options-for-iphones/"><u>Ideal Calendar Solutions: Best Complimentary and Premium Options for iPhones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-depth-look-at-fraps-screen-capture/"><u>In-Depth Look at Fraps Screen Capture</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-step-by-step-guide-how-to-quickly-unlock-your-android-device-with-easy-hacks/"><u>Simple Step-by-Step Guide: How to Quickly Unlock Your Android Device with Easy Hacks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-guide-to-achieving-flawless-screens-in-adobe-captivity/"><u>The Ultimate Guide to Achieving Flawless Screens in Adobe Captivity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-25-leading-video-editing-apps-for-every-ios-device-including-models-15-x8-6-5/"><u>The Ultimate List of the 25 Leading Video Editing Apps for Every iOS Device, Including Models 15-X/8-6-5</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Buy Ashamapoo's Pro 3D CAD Software Version 11 at a Steal: Just $40 on ZDNet Today!"
-date: 2024-12-26T18:52:47.733Z
-updated: 2025-01-03T03:26:09.663Z
+date: 2025-01-04T21:41:02.303Z
+updated: 2025-01-09T19:20:36.877Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,19 +176,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-advanced-camera-control-for-iphone-users/"><u>[New] Advanced Camera Control for iPhone Users</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-advanced-tips-for-animation-using-windows-movie-maker/"><u>[New] Advanced Tips for Animation Using Windows Movie Maker</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-viral-spotlight-top-10-tiktoks-of-the-week/"><u>[Updated] In 2024, Twitter's Viral Spotlight Top 10 TikToks of the Week</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-vanguard-of-radio-theatre-composition/"><u>2024 Approved The Vanguard of Radio-Theatre Composition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-how-vivaldi-revolutionizes-browsing-with-its-superior-built-in-mail-client/"><u>Discover How Vivaldi Revolutionizes Browsing with Its Superior Built-In Mail Client!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-to-elite-a-comprehensive-tutorial-on-switching-from-windows-home-to-the-power-of-pro-version/"><u>Elevate to Elite: A Comprehensive Tutorial on Switching From Windows Home to the Power of Pro Version</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevating-software-creation-with-github-copilots-productive-precision-insights-from-zdnet/"><u>Elevating Software Creation with GitHub Copilot's Productive Precision - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/grounding-systems-must-comply-with-national-and-international-standards-to-ensure-they-are-safe-and-do-not-cause-harmful-interference/"><u>Grounding Systems Must Comply with National and International Standards to Ensure They Are Safe and Do Not Cause Harmful Interference.</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-y56-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo Y56 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unlock-your-editing-potential-the-ultimate-guide-to-background-erasure-in-ps/"><u>In 2024, Unlock Your Editing Potential The Ultimate Guide to Background Erasure in PS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/software-updates-gone-wrong-a-new-threat-to-essential-services-equals-ransomware-risks-zdnet/"><u>Software Updates Gone Wrong: A New Threat to Essential Services Equals Ransomware Risks - ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017022574-troubleshoot-and-repair-your-astro-a50s-mic-problem-easily/"><u>Troubleshoot and Repair Your Astro A50's Mic Problem Easily</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-ai-driven-success-for-any-size-business-using-anthropics-latest-enterprise-offering-the-claude-upgrade-zdnet-insights/"><u>Unlock AI-Driven Success for Any Size Business Using Anthropic's Latest Enterprise Offering, The Claude Upgrade | ZDNET Insights</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unlocking-instagrams-video-sharing-limits/"><u>Unlocking Instagram's Video Sharing Limits</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-dive-deep-into-the-world-of-facebook-story-creation-expert-advice-inside/"><u>[New] 2024 Approved Dive Deep Into the World of Facebook Story Creation Expert Advice Inside</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-from-low-to-high-a-beginners-guide-to-video-frame-rates-and-resolutions/"><u>[New] From Low to High A Beginner's Guide to Video Frame Rates & Resolutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-step-by-step-process-for-iptv-stream-imaging/"><u>[Updated] 2024 Approved Step-by-Step Process for IPTV Stream Imaging</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-the-mouse-and-keyboard-settings-to-their-defaults-on-windows/"><u>How to Reset the Mouse and Keyboard Settings to Their Defaults on Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/latest-breakthroughs-in-5g-and-edge-tech-top-5-trends-you-cant-ignore-insights-from-zdnet/"><u>Latest Breakthroughs in 5G & Edge Tech: Top 5 Trends You Can't Ignore - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-system-administration-how-red-hat-integrates-ai-for-enhanced-efficiency/"><u>Revolutionizing System Administration: How Red Hat Integrates AI for Enhanced Efficiency</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-multiple-mp3-tracks-into-aiff-audio-format/"><u>Step-by-Step Guide: Converting Multiple MP3 Tracks Into AIFF Audio Format</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-elevating-your-windows-home-edition-to-pro-benefits-unveiled/"><u>Step-by-Step Guide: Elevating Your Windows Home Edition to Pro - Benefits Unveiled</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-running-windows-defender-scans-insights-from-yl-computings-expertise/"><u>Step-by-Step Guide: Running Windows Defender Scans - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-trends-unveiled-the-revival-and-growing-appeal-of-openstack-with-kata-containers-zdnet/"><u>Tech Trends Unveiled: The Revival and Growing Appeal of OpenStack with Kata Containers | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-current-state-of-cloud-computing-and-persisting-challenges-with-on-premise-systems/"><u>The Current State of Cloud Computing & Persisting Challenges with On-Premise Systems.</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/layback-paradox-starting-at-the-finish-line-on-youtube/"><u>The Playback Paradox Starting at the Finish Line on YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-screen-guide-choosing-the-best-displays-for-ps5-and-xbox-series-systems/"><u>Ultimate Screen Guide: Choosing the Best Displays for PS5 and Xbox Series Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-essential-guide-to-navigating-black-friday-2ebs-2022-schedule-and-prime-discount-discoveries/"><u>Your Essential Guide to Navigating Black Friday 2Ebs - 2022 Schedule and Prime Discount Discoveries .</u></a></li>
 </ul></div>
 

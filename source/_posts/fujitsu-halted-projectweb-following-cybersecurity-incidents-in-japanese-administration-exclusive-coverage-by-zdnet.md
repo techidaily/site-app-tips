@@ -1,7 +1,7 @@
 ---
 title: Fujitsu Halted ProjectWEB Following Cybersecurity Incidents in Japanese Administration - Exclusive Coverage by ZDNET
-date: 2024-12-30T20:09:43.919Z
-updated: 2025-01-03T02:41:57.149Z
+date: 2025-01-08T20:11:21.640Z
+updated: 2025-01-09T22:43:42.251Z
 tags:
   - password-manager
 categories:
@@ -16,7 +16,7 @@ In a [statement released on Thursday](https://www.fujitsu.com/global/about/resou
 In May, multiple government agencies -- including the Ministry of Land, Infrastructure, Transport, and Tourism; the Cabinet Secretariat; and Narita Airport -- [were hacked through the software-as-a-service platform](https://www.zdnet.com/article/various-japanese-government-entities-had-data-stolen-in-cyber-attack-report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,14 +68,24 @@ Today's news was first [reported by Bleeping Computer](https://www.bleepingcompu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-perfect-pictures-at-a-click-the-10-best-grids/"><u>[New] Perfect Pictures at a Click - The 10 Best Grids</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209841400-9780996278034-ama-deus/"><u>Ama-Deus | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-chronological-guide-the-ultimate-way-to-experience-james-bond-films/"><u>Complete Chronological Guide: The Ultimate Way to Experience James Bond Films</u></a></li>
-<li><a href="https://app-tips.techidaily.com/essential-guide-to-evaluating-gpt-powered-conversational-agents-insights-and-recommendations/"><u>Essential Guide to Evaluating GPT-Powered Conversational Agents - Insights & Recommendations</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-eva-ai-by-ex-journey-the-ultimate-chatbot-review/"><u>In-Depth Analysis: EVA AI by Ex Journey - The Ultimate Chatbot Review</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revolutionized-budget-tablet-in-depth-analysis-of-the-new-apple-ipad-102/"><u>Revolutionized Budget Tablet: In-Depth Analysis of the New Apple iPad 10.2</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-gpt-powered-ai-chatbot-comprehensive-insights-and-reviews/"><u>Top Rated GPT-Powered AI Chatbot: Comprehensive Insights & Reviews</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-of-chatsonic-in-depth-analysis-and-key-takeawutes-for-mastery-over-the-advanced-ai-chatterbot/"><u>Unlocking the Secrets of Chatsonic: In-Depth Analysis and Key Takeawutes for Mastery over the Advanced AI Chatterbot</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-bringing-anime-characters-to-life-jujutsu-kaisen-for-tiktok/"><u>[New] Bringing Anime Characters to Life Jujutsu Kaisen for TikTok</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-channel-boosting-strategies-effortless-sponsorship-securing-tips-for-2024/"><u>[New] Channel Boosting Strategies Effortless Sponsorship Securing Tips for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-delving-into-backward-image-analysis-techniques-for-fb-users/"><u>[New] Delving Into Backward Image Analysis Techniques for FB Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-snapshots-of-life-compreenasive-guide-to-capturing-the-journey-of-playing-sims-4/"><u>[New] Snapshots of Life Compreenasive Guide to Capturing the Journey of Playing Sims 4</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uncomplicated-technique-changing-vocal-pattern-in-winos/"><u>[New] Uncomplicated Technique Changing Vocal Pattern in WinOS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-comprehensive-guide-to-top-ae-extensions/"><u>[Updated] In 2024, Comprehensive Guide to Top AE Extensions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/genuine-insight-into-lightcut-the-ultimate-ai-powered-video-editor-for-your-mobile-devices-android-and-ios/"><u>Genuine Insight Into LightCut: The Ultimate AI-Powered Video Editor for Your Mobile Devices (Android & iOS)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-approaches-to-photo-sharpening-with-photopeas-background-cutting/"><u>Innovative Approaches to Photo Sharpening with Photopea's Background Cutting</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revitalize-your-iphone-four-effective-methods-to-recover-data-from-icloud/"><u>Revitalize Your iPhone: Four Effective Methods to Recover Data From iCloud</u></a></li>
+<li><a href="https://app-tips.techidaily.com/say-goodbye-to-nuisance-phonecalls-effective-strategies-for-call-blocking-on-ios-and-android-devices/"><u>Say Goodbye to Nuisance Phonecalls: Effective Strategies for Call-Blocking on iOS & Android Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/steelseries-arctis-5-microphone-fixes-issue-solved-expert-advice-included/"><u>SteelSeries Arctis 5 Microphone Fixes: [ISSUE SOLVED] - Expert Advice Included</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-creating-and-sharing-video-calls-via-skype-whatsapp/"><u>Step-by-Step Tutorial: Creating & Sharing Video Calls via Skype, WhatsApp</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-android-lock-screen-widgets-simplify-your-access-with-these-handpicked-free-and-premium-options/"><u>Top 10 Android Lock Screen Widgets: Simplify Your Access with These Handpicked Free and Premium Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-25-best-iphone-video-editors-a-comprehensive-guide-from-iphone-x-to-iphone-5/"><u>Top 25 Best iPhone Video Editors: A Comprehensive Guide From iPhone X to iPhone 5</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-xvid-video-player-guide-ideal-choice-for-pcs-macs-smartphones-and-tablets/"><u>Ultimate Xvid Video Player Guide: Ideal Choice for PCs, Macs, Smartphones & Tablets!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uncover-secrets-of-stealthy-iphone-programs-strategies-and-methods/"><u>Uncover Secrets of Stealthy iPhone Programs: Strategies and Methods</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620190018-unlock-free-iphone-and-android-entertainment-with-appcake-get-all-your-favorite-cracked-apps-and-games-now/"><u>Unlock Free iPhone & Android Entertainment with AppCake - Get All Your Favorite Cracked Apps & Games Now</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-professional-results-without-the-professionals-diy-movie-making-for-beginners/"><u>Updated Professional Results Without the Professionals DIY Movie Making for Beginners</u></a></li>
 </ul></div>
 

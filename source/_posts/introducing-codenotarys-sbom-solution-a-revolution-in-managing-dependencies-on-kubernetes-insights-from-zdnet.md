@@ -1,7 +1,7 @@
 ---
 title: "Introducing Codenotary's SBOM Solution: A Revolution in Managing Dependencies on Kubernetes - Insights From ZDNet"
-date: 2024-12-31T22:38:58.110Z
-updated: 2025-01-03T06:04:52.253Z
+date: 2025-01-03T06:18:04.513Z
+updated: 2025-01-10T05:04:27.808Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,22 +176,14 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-14-youtube-adsense-earnings-how-much-does-adsense-pay-per-1000-view/"><u>[New] In 2024, 14- YouTube AdSense Earnings How Much Does AdSense Pay per 1,000 View</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-pushing-boundaries-with-yis-action-camera-and-4k-capture/"><u>[New] Pushing Boundaries with Yi's Action Camera & 4K Capture</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-ultimate-selection-of-free-youtube-introduction-makers/"><u>[New] Ultimate Selection of Free YouTube Introduction Makers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-reach-for-the-millennium-1000-youtube-supporters/"><u>[Updated] 2024 Approved Reach for the Millennium 1,000 YouTube Supporters</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-best-conversion-apps-enhance-tweets-with-video/"><u>[Updated] Best Conversion Apps Enhance Tweets with Video</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-bright-ideas-in-film-setup-secrets-to-perfect-lighting/"><u>[Updated] Bright Ideas in Film Setup Secrets to Perfect Lighting</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-ways-to-master-boomerang-feature-across-ios-android-and-web-platforms/"><u>Effortless Ways to Master Boomerang Feature Across iOS, Android & Web Platforms</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-itel-p55-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Itel P55 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-v29-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo V29? Fixed | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/master-video-editing-turn-your-avis-into-stylish-shareable-gifs-with-filmora/"><u>Master Video Editing Turn Your AVIs Into Stylish, Shareable GIFs with Filmora</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-your-communication-avoid-missing-calls-amidst-noise-or-muting-with-advanced-flash-tech-for-up-to-10-contacts/"><u>Master Your Communication: Avoid Missing Calls Amidst Noise or Muting with Advanced Flash Tech for Up to 10 Contacts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-the-art-of-automated-photography-setting-timers-on-iphones-and-android-devices/"><u>Mastering the Art of Automated Photography: Setting Timers on iPhones & Android Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-11-superior-sound-integration-tools-for-adding-music-and-voice-to-videos-across-android-ios-mac-and-pc-platforms/"><u>The Ultimate List of 11 Superior Sound Integration Tools for Adding Music & Voice to Videos Across Android, iOS, Mac & PC Platforms</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-best-multiplayer-bluetooth-games-for-android-and-ios-devices/"><u>The Ultimate List of Best Multiplayer Bluetooth Games for Android & iOS Devices</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-11-audio-enhancement-applications-for-video-editing-on-mobile-devices-and-desktop-systems/"><u>Top 11 Audio Enhancement Applications for Video Editing on Mobile Devices and Desktop Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-6-must-have-android-contact-widget-apps-of-2024-a-comprehensive-guide/"><u>Top 6 Must-Have Android Contact Widget Apps of 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-10-leading-music-organizers-for-all-your-platform-needs-windows-mac-iphone-and-android/"><u>Ultimate Selection of 10 Leading Music Organizers for All Your Platform Needs: Windows, Mac, iPhone & Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-techniques-for-efficient-utilization-of-zooms-whiteboard-feature/"><u>[New] 2024 Approved Essential Techniques for Efficient Utilization of Zoom's Whiteboard Feature</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-top-5-ios-friendly-apps-unlocking-facebooks-richest-media-library/"><u>[New] Top 5 iOS-Friendly Apps Unlocking Facebook's Richest Media Library</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-chromatic-magic-for-your-digital-photography/"><u>[Updated] Chromatic Magic for Your Digital Photography</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-cutting-edge-channels-to-watch-in-a-post-tiktok-world/"><u>[Updated] In 2024, Cutting Edge Channels to Watch in a Post-TikTok World</u></a></li>
+<li><a href="https://app-tips.techidaily.com/finding-reliable-artificial-intelligence-watermarks-insights-from-zdnet/"><u>Finding Reliable Artificial Intelligence Watermarks: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-will-artificial-intelligence-impact-future-careers-in-cybersecurity-challenges-and-opportunities/"><u>How Will Artificial Intelligence Impact Future Careers in Cybersecurity?: Challenges & Opportunities</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-100-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor 100 FRP</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapores-push-investing-in-ai-and-green-tech-transformation-insights-from-zdnet/"><u>Singapore's Push: Investing in AI & Green Tech Transformation - Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-data-as-key-ingredient-in-crafting-smart-ai-solutions-strategies-for-completing-your-technological-jigsaw/"><u>Unveiling Data as Key Ingredient in Crafting Smart AI Solutions: Strategies for Completing Your Technological Jigsaw</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Company's Safety: Start with Individual Protection Strategies - Insights From ZDNet"
-date: 2024-12-28T07:40:12.085Z
-updated: 2025-01-03T09:44:46.840Z
+date: 2025-01-03T01:24:26.793Z
+updated: 2025-01-10T03:55:52.584Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 Corporations aren't doing enough to improve their employees' personal security practices. Credentials remain the highest targeted data type as they are the gateway to ransomware and data theft. 61% of data breaches in 2021 involved the use of stolen and misused credentials. Bad actors took advantage of a global pandemic to increase the number of phishing attacks, the cause of stolen credentials in 36% of breaches -- a 9% increase over last year -- according to the [Verizon 2021 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdfx). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -66,24 +66,22 @@ Given how connected we all are, the rising demands of working anywhere, and incr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/tep-by-step-for-classic-film-aesthetics/"><u>[New] Step-by-Step for Classic Film Aesthetics</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-sound-of-success-audio-tips-to-elevate-your-youtube-experience-for-2024/"><u>[New] The Sound of Success Audio Tips to Elevate Your YouTube Experience for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-maximizing-production-value-choosing-top-tier-youtube-tools/"><u>[Updated] 2024 Approved Maximizing Production Value Choosing Top-Tier YouTube Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-broadcast-battleground-which-wins-obs-or-twitch/"><u>[Updated] In 2024, Broadcast Battleground Which Wins, OBS or Twitch?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-ace-collection-of-elite-3d-blu-ray-equipment/"><u>[Updated] The Ace Collection of Elite 3D Blu-Ray Equipment</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-secure-ways-to-break-into-apple-id-protected-devices-top-5-tools-ensuring-full-access-without-errors/"><u>Best Secure Ways to Break Into Apple ID-Protected Devices: Top 5 Tools Ensuring Full Access Without Errors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-how-to-modify-or-reset-your-apple-id-in-the-ios-cloud-service/"><u>Comprehensive Tutorial: How To Modify or Reset Your Apple ID in the iOS Cloud Service</u></a></li>
-<li><a href="https://app-tips.techidaily.com/connecting-icloud-and-windows-pc-a-comprehensive-tutorial-for-syncing-calendars/"><u>Connecting iCloud and Windows PC: A Comprehensive Tutorial for Syncing Calendars</u></a></li>
-<li><a href="https://app-tips.techidaily.com/efficient-methods-to-unlink-your-iphone-device-from-icloud-accounts/"><u>Efficient Methods to Unlink Your iPhone Device From iCloud Accounts</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-oppo-find-x7-ultra-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Oppo Find X7 Ultra 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-note-50-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme Note 50 Phone FRP Lock</u></a></li>
-<li><a href="https://app-tips.techidaily.com/resolving-authorization-and-connection-errors-on-itunes-platforms-a-comprehastern-guide/"><u>Resolving Authorization and Connection Errors on iTunes Platforms – A Comprehastern Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-solution-getting-your-itunes-home-sharing-back-on-track/"><u>Step-by-Step Solution: Getting Your iTunes Home Sharing Back on Track</u></a></li>
-<li><a href="https://app-tips.techidaily.com/swift-solutions-for-disabling-iphone-activation-via-apples-icloud-service/"><u>Swift Solutions for Disabling iPhone Activation via Apple's iCloud Service</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-complete-guide-to-iphone-speech-recordings/"><u>The Complete Guide to iPhone Speech Recordings</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210355860-9781250803757-the-golden-key-the-complete-original-edition/"><u>The Golden Key: The Complete Original Edition | Free Book</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-7-strategies-to-resolve-persistent-icloud-sign-in-prompts-for-password/"><u>Top 7 Strategies to Resolve Persistent iCloud Sign-In Prompts for Password</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-rebuilding-and-refreshing-your-itunes-library-with-3-successful-strategies/"><u>Ultimate Tutorial: Rebuilding and Refreshing Your iTunes Library with 3 Successful Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfect-patches-backgrounds-for-online-streaming/"><u>[New] Perfect Patches Backgrounds for Online Streaming</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-discovering-social-medias-top-5-innovations-in-fb-for-2024/"><u>[Updated] Discovering Social Media’s Top 5 Innovations in FB for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-trivial-talent-into-thriving-tv-subscribers-triumphs/"><u>[Updated] Transforming Trivial Talent Into Thriving TV (Subscribers) Triumphs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-6-cheap-4k-projectors-for-2024/"><u>Best 6 Cheap 4K Projectors for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-setting-up-and-accessing-kik-chat-app-for-windowsmac-users/"><u>Complete Tutorial: Setting Up & Accessing Kik Chat App for Windows/Mac Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/create-amazing-gifs-instantly-with-our-choice-of-the-10-best-free-apps-on-smartphones-iphone-and-android/"><u>Create Amazing GIFs Instantly with Our Choice of the 10 Best Free Apps on Smartphones (iPhone & Android)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/creating-anime-sounds-with-uwu-modifiers-top-three-speech-alteration-tools-for-fans/"><u>Creating Anime Sounds with UwU Modifiers: Top Three Speech Alteration Tools for Fans</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-and-installation-guide-how-to-set-up-tango-video-calls-and-chats/"><u>Download & Installation Guide: How To Set Up Tango Video Calls And Chats</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-4-app-solutions-for-diy-interior-and-exterior-painting-projects/"><u>Essential 4 App Solutions for DIY Interior and Exterior Painting Projects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-edits-17-key-tools-to-revamp-images-effortlessly/"><u>Essential Edits 17 Key Tools to Revamp Images Effortlessly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-tips-harnessing-the-power-of-bings-intelligent-features-on-your-android-device/"><u>Expert Tips: Harnessing the Power of Bing's Intelligent Features on Your Android Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expertly-curated-list-the-ultimate-9plus1-video-streaming-solutions-for-android-devices/"><u>Expertly Curated List: The Ultimate 9+1 Video Streaming Solutions for Android Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-8-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 8 Plus in the Best Ways</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-moving-your-iphone-applications-seamlessly-between-iphones/"><u>Step-by-Step Guide: Moving Your iPhone Applications Seamlessly Between iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192484-ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Sony's Collaboration with AI Singapore Fuels Development of Advanced Large Language Models
-date: 2024-12-27T03:28:09.705Z
-updated: 2025-01-02T22:45:48.551Z
+date: 2025-01-07T17:09:15.335Z
+updated: 2025-01-09T17:09:59.964Z
 tags:
   - enterprise-software
 categories:
@@ -30,7 +30,7 @@ Microsoft has a big challenge on its hands in the runup to that end-of-support d
 I wrote the original version of this post in July 2023\. Now, as that end date draws uncomfortably closer, I decided to revisit the topic and answer some burning questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does Windows 10 support end, and what does that mean for Windows 10 users?
@@ -48,7 +48,7 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -86,7 +86,7 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -104,7 +104,7 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -176,24 +176,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-soundwave-success-adding-audio-to-your-instastory-for-2024/"><u>[New] Soundwave Success Adding Audio to Your InstaStory for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-secure-and-simple-step-by-step-for-google-meet-recordings/"><u>[Updated] 2024 Approved Secure and Simple Step-by-Step for Google Meet Recordings</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-seamless-file-transition-youtube-to-mp4-high-definition-upgrade-included/"><u>[Updated] Seamless File Transition YouTube to MP4, High-Definition Upgrade Included</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-premiere-previews-extravaganza/"><u>2024 Approved Premiere Previews Extravaganza</u></a></li>
-<li><a href="https://app-tips.techidaily.com/authentic-evaluation-discovering-the-power-of-lightcut-ai-video-editing-app-on-android-and-ios/"><u>Authentic Evaluation: Discovering the Power of LightCut AI Video Editing App on Android and iOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-app-lock-replacements-for-android-the-top-10-picks/"><u>Best App Lock Replacements for Android : The Top 10 Picks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bridging-the-gap-tethering-your-mobile-data-to-an-amazon-fire-tv-stick-easily/"><u>Bridging the Gap: Tethering Your Mobile Data to an Amazon Fire TV Stick Easily</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bug-fix-announced-overcoming-league-of-legends-login-loophole-update-2024-edition/"><u>Bug Fix Announced: Overcoming League of Legends Login Loophole Update - 2024 Edition</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-full-simplemdm-essential-insights-for-ios-and-macos-users/"><u>Comprehensive Evaluation: Full SimpleMDM - Essential Insights for iOS and macOS Users</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/expert-guide-to-boosting-pc-performance-by-yl-software/"><u>Expert Guide to Boosting PC Performance by YL Software</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/google-nest-hub-gen-2-evaluation-wishing-for-a-built-in-camera-option/"><u>Google Nest Hub (Gen 2) Evaluation: Wishing for a Built-In Camera Option</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-cyberlinks-actiondirector-features-benefits-and-competitors/"><u>In-Depth Analysis of CyberLink's ActionDirector: Features, Benefits & Competitors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-magisto-video-software-advantages-limitations-and-comparative-assessment/"><u>In-Depth Analysis of Magisto Video Software: Advantages, Limitations & Comparative Assessment</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-messaging-schedulers-reviewed-discover-the-top-10-picks-for-smartphones/"><u>Leading Messaging Schedulers Reviewed: Discover the Top 10 Picks for Smartphones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/lg-360-degree-headset-review-next-gen-immersion-for-2024/"><u>LG 360-Degree Headset Review - Next-Gen Immersion for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/shadow-spectators-on-ig-uncover-the-ultimate-list-of-incognito-gazers-for-content-sneak-peeks/"><u>Shadow Spectators on IG: Uncover the Ultimate List of Incognito Gazers for Content Sneak Peeks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/simplified-approach-to-retrieve-lost-apps-from-your-ios-device/"><u>Simplified Approach to Retrieve Lost Apps From Your iOS Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-for-iphone-photo-import-error-on-windows-pc/"><u>Troubleshooting for iPhone Photo Import Error on Windows PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-youcut-software-for-your-business-needs-the-complete-analysis/"><u>Unveiling the Power of YouCut Software for Your Business Needs - The Complete Analysis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-drones-buying-guide-thing-you-need-to-know-before-buying-a-drone/"><u>[New] In 2024, Drones Buying Guide Thing You Need to Know Before Buying a Drone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-spark-your-audience-with-best-video-content-ideas/"><u>[Updated] Spark Your Audience with Best Video Content Ideas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accelerating-video-conversion-youtube-to-mpeg-edition-for-2024/"><u>Accelerating Video Conversion YouTube to MPEG Edition for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/blueprinting-breathtaking-cinematic-sketches/"><u>Blueprinting Breathtaking Cinematic Sketches</u></a></li>
+<li><a href="https://app-tips.techidaily.com/devops-engineering-career-the-complete-picture-pros-cons-and-challenges/"><u>DevOps Engineering Career: The Complete Picture - Pros, Cons & Challenges</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-correcting-corrupted-file-issues-in-latest-windows-operating-systems/"><u>Expert Advice: Correcting Corrupted File Issues in Latest Windows Operating Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-sony-xperia-10-v-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Sony Xperia 10 V</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/kalk-cake-the-hybrid-motorcycle-blending-commute-and-recreation-in-style-insights-from-zdnet/"><u>Kalk Cake - The Hybrid Motorcycle Blending Commute & Recreation in Style: Insights From ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-ai-expertise-for-non-programmers-the-need-for-multifaceted-learning-in-complex-environments-zdnet/"><u>Navigating AI Expertise for Non-Programmers - The Need for Multifaceted Learning in Complex Environments | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-old-school-it-systems-key-insights-for-managing-outdated-technologies-and-avoiding-migration-pitfalls/"><u>Navigating Old-School IT Systems: Key Insights for Managing Outdated Technologies and Avoiding Migration Pitfalls</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-pitfalls-of-outdated-systems-a-lesson-from-a-failed-technology-migration-zdnet/"><u>Navigating the Pitfalls of Outdated Systems: A Lesson From a Failed Technology Migration | ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/rapid-file-transformation-from-srt-to-text-in-minutes-for-2024/"><u>Rapid File Transformation From SRT to Text in Minutes for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revitalizing-the-tech-workforce-how-ai-tools-mitigate-job-stress-and-enhance-focus-for-it-experts-learn-from-zdnets-expert-analysis/"><u>Revitalizing the Tech Workforce: How AI Tools Mitigate Job Stress and Enhance Focus for IT Experts | Learn From ZDNet's Expert Analysis</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-journey-to-becoming-a-chief-artificial-intelligence-officer-insights-and-strategies-for-success/"><u>The Journey to Becoming a Chief Artificial Intelligence Officer - Insights and Strategies for Success</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-urgent-need-for-upgraded-skills-in-cybersecurity-teams-facing-legacy-system-hurdles/"><u>The Urgent Need for Upgraded Skills in Cybersecurity Teams Facing Legacy System Hurdles</u></a></li>
+<li><a href="https://facebook.techidaily.com/uniting-minds-or-building-careers-the-social-platform-dilemma/"><u>Uniting Minds or Building Careers? The Social Platform Dilemma</u></a></li>
+<li><a href="https://app-tips.techidaily.com/when-ai-growth-meets-agile-practices-uncovering-challenges-through-latest-studies-zdnet/"><u>When AI Growth Meets Agile Practices: Uncovering Challenges Through Latest Studies | ZDNET</u></a></li>
+<li><a href="https://win-popular.techidaily.com/wie-loschst-du-wiederherstellungsdateien-in-deiner-systemdatei-detaillierte-anleitung/"><u>Wie Löschst Du Wiederherstellungsdateien in Deiner Systemdatei? Detaillierte Anleitung!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-reveals-how-many-marketing-departments-are-leveraging-artificer-intelligence-now/"><u>ZDNet Reveals How Many Marketing Departments Are Leveraging Artificer Intelligence Now</u></a></li>
 </ul></div>
 

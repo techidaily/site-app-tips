@@ -1,7 +1,7 @@
 ---
 title: The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights
-date: 2024-12-27T06:53:11.356Z
-updated: 2025-01-02T21:00:40.024Z
+date: 2025-01-03T02:15:23.098Z
+updated: 2025-01-10T04:58:14.257Z
 tags:
   - password-manager
 categories:
@@ -98,7 +98,7 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 Share: 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -114,7 +114,7 @@ Passwords are a problem that big tech is trying to fix but they are still essent
 SpyCloud, a security firm, [highlights in a new report](https://twitter.com/SpyCloudCo/status/1499037654922448899) how people are struggling with passwords for multiple online accounts. Based on 1.7 billion username and password combinations it gathered from the 755 leaked sources in 2021, it estimates that 64% of people used the same password exposed in one breach for other accounts. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Privacy
@@ -141,7 +141,7 @@ SpyCloud's definition for password 'reuse' is a bit fuzzy and only shows likely 
 While the statistics are imprecise, the company does point out a trend that many people would be familiar with. That is that people have so many online accounts that they can't remember good passwords and most people are not using [password managers for Windows](https://www.zdnet.com/article/best-password-manager/), macOS and Android. Apple's built-in password manager is KeyChain, but third-party apps for Windows, macOS and mobile devices include LastPass and Dashlane. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -189,22 +189,24 @@ And for anyone who might be perplexed by passwords, it should be remembered that
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-blithe-clip-recorder-appraisal/"><u>[New] Blithe Clip Recorder Appraisal</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-revenue-sharing-explained-maximizing-profits-with-snippet-videos/"><u>[New] Revenue Sharing Explained Maximizing Profits with Snippet Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-ultimate-gif-hack-top-twitter-tool-2024/"><u>[New] Ultimate GIF Hack Top Twitter Tool 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-digital-dominion-rise-as-a-youtube-guru/"><u>2024 Approved Digital Dominion Rise as a YouTube Guru</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/50plus-best-text-techniques-in-film-making-for-2024/"><u>50+ Best Text Techniques in Film-Making for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/before-your-windows-10-becomes-unsupported-top-5-options-revealed-by-zdnet/"><u>Before Your Windows 10 Becomes Unsupported: Top 5 Options Revealed by ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-of-both-worlds-androids-8-most-popular-free-and-paid-videomosaic-apps-for-2024/"><u>Best of Both Worlds Android's 8 Most Popular Free & Paid Videomosaic Apps for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chorus-of-services-integrating-your-musical-library-for-2024/"><u>Chorus of Services Integrating Your Musical Library for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-what-sets-macos-sonoma-apart-key-updates-and-tips-explored-by-experts-at-zdnet/"><u>Discover What Sets macOS Sonoma Apart: Key Updates and Tips Explored by Experts at ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/has-microsoft-retracted-its-promise-of-a-complimentary-windows-11-update-promotion-tech-news/"><u>Has Microsoft Retracted Its Promise of a Complimentary Windows 11 Update Promotion? | Tech News</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-motorola-edgeplus-2023-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Motorola Edge+ (2023) Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-photoshop-fundamentals-a-beginners-guide-to-simple-image-editing-techniques/"><u>Mastering Photoshop Fundamentals: A Beginner's Guide to Simple Image Editing Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-teamwork-platforms-of-2022-expert-reviews-and-comparisons/"><u>Top 5 Teamwork Platforms of 2022 - Expert Reviews and Comparisons</u></a></li>
-<li><a href="https://app-tips.techidaily.com/uncovering-the-joy-why-life-after-apple-proves-to-be-an-exciting-journey-zdnet/"><u>Uncovering the Joy: Why Life After Apple Proves To Be an Exciting Journey | ZDNet</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-marketing-mastery-for-affiliate-success-for-2024/"><u>Video Marketing Mastery for Affiliate Success for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-support-ending-soon-discover-your-5-last-options-with-expert-insights-from-zdnet/"><u>Windows 11 Support Ending Soon? Discover Your 5 Last Options with Expert Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-defender-essentials-a-guide-to-securing-personal-and-smb-computers/"><u>Windows Defender Essentials: A Guide to Securing Personal & SMB Computers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unlocking-youtube-sponsor-opportunities-via-famebit-methods/"><u>[New] 2024 Approved Unlocking YouTube Sponsor Opportunities via FameBit Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-windows-11s-fresh-perspectives-explored/"><u>[Updated] Windows 11'S Fresh Perspectives Explored</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/comparing-easy-flexible-recording-tools-for-mac-users/"><u>Comparing Easy, Flexible Recording Tools for Mac Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-let-your-windows-1-be-left-in-the-lurch-discover-your-five-options-before-support-concludes-zdnet-insight/"><u>Don't Let Your Windows 지정 1 컴퓨터 Be Left in the Lurch - Discover Your Five Options Before Support Concludes | ZDNet Insight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-wifi-experience-on-windows-comprehensive-tutorials-for-drivers-update-in-win10-and-win11/"><u>Enhance Your WiFi Experience on Windows: Comprehensive Tutorials for Drivers Update in Win10 & Win11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-cyber-defense-how-juniper-networks-strengthens-its-sase-offerings-with-a-new-cloud-firewall-feature-tech-analysis-by-zdnet/"><u>Enhancing Cyber Defense: How Juniper Networks Strengthens Its SASE Offerings with a New Cloud Firewall Feature - Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tial-tactics-for-youtube-success-in-25-ways/"><u>Essential Tactics for YouTube Success in 25 Ways</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-picks-for-the-ultimate-to-do-list-software-of-2023-features-and-comparisons/"><u>Expert Picks for the Ultimate To-Do List Software of 2023 – Features and Comparisons</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-best-digital-signing-applications-a-zdnet-recommendation/"><u>Exploring the Best Digital Signing Applications: A ZDNet Recommendation</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-corrupted-windows-store-caches-effective-strategies-and-solutions/"><u>Fix Corrupted Windows Store Caches: Effective Strategies and Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-recover-lost-game-content-in-steam-win11-edition/"><u>How to Recover Lost Game Content in Steam, Win11 Edition</u></a></li>
+<li><a href="https://app-tips.techidaily.com/impedance-matching/"><u>Impedance Matching</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-fade-perfection-quick-tips-and-tricks/"><u>In 2024, Fade Perfection Quick Tips and Tricks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-15-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 15 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/lenovos-4-top-recording-methods-made-simple/"><u>Lenovo's 4 Top Recording Methods Made Simple</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-windows-10-top-five-strategies-to-consider-before-support-concludes-next-year-zdnet-insights/"><u>Navigating the Future of Windows 10: Top Five Strategies to Consider Before Support Concludes Next Year | ZDNet Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/switching-to-linux-mint-from-windows-a-comprehensive-guide-techrepublic/"><u>Switching to Linux Mint From Windows: A Comprehensive Guide | TechRepublic</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-antivirus-protection-a-comprehensive-guide-by-zdnet/"><u>Top Rated Antivirus Protection : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-slack-for-enhanced-teamwork-and-productivity-insider-strategies-from-zdnets-latest-guide/"><u>Unlocking the Power of Slack for Enhanced Teamwork and Productivity: Insider Strategies From ZDNet's Latest Guide</u></a></li>
 </ul></div>
 

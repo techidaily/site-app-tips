@@ -1,7 +1,7 @@
 ---
 title: "How Hackers Are Capitalizing on the Pandemic: A Deep Dive Into Attacks Against US Universities Amidst Omicron Concerns | Reported by ZDNET"
-date: 2024-12-31T00:45:15.061Z
-updated: 2025-01-02T18:11:45.663Z
+date: 2025-01-07T02:34:57.142Z
+updated: 2025-01-09T16:35:12.263Z
 tags:
   - password-manager
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 Researchers with cybersecurity firm Proofpoint have [discovered](https://www.proofpoint.com/us/blog/threat-insight/university-targeted-credential-phishing-campaigns-use-covid-19-omicron-themes) a new phishing attack leveraging concern about the spread of the Omicron strain of COVID-19 to steal credentials and gain access to accounts at several prominent universities in the US. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### latest developments
@@ -22,7 +22,7 @@ Researchers with cybersecurity firm Proofpoint have [discovered](https://www.pro
 [![microscopic magnification of coronavirus that causes flu and chronic pneumonia leading to death](https://www.zdnet.com/a/img/resize/29eb42cb18bf682179393fd5caa23f5e78bec28e/2020/02/03/bd4a5b33-2cca-4ff8-9753-12d1bfd10a1d/istock-12015454421.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) Coronavirus: Business and technology in a pandemic From cancelled conferences to disrupted supply chains, not a corner of the global economy is immune to the spread of COVID-19.  Read now](https://www.zdnet.com/collection/coronavirus-business-and-technology-in-a-pandemic/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The emails -- part of an attack that Proofpoint researchers said began in October but increased in November -- generally contain information about COVID-19 testing and the new Omicron variant.
@@ -96,18 +96,21 @@ By entering under the guise of a legitimate user, the attacker has a greater cha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-chrome-pip-integration-a-cross-platform-tutorial/"><u>[Updated] In 2024, Chrome PIP Integration A Cross-Platform Tutorial</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-art-of-engaging-audiences-with-facebooks-split-screen-tech/"><u>[Updated] In 2024, The Art of Engaging Audiences with Facebook's Split Screen Tech</u></a></li>
-<li><a href="https://program-issues.techidaily.com/chivalry-ii-bug-fixed-no-more-freezing-or-crashes/"><u>Chivalry II Bug Fixed: No More Freezing or Crashes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/complete-ipad-showdown-in-depth-product-reviews-and-price-analysis/"><u>Complete iPad Showdown: In-Depth Product Reviews & Price Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cut-costs-and-boost-security-grab-keeper-password-manager-for-half-price-shop-at-zdnet-today/"><u>Cut Costs and Boost Security! Grab Keeper Password Manager for Half Price - Shop at ZDNET Today!</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-your-playtime-with-steam-achievements/"><u>Enhance Your Playtime with Steam Achievements</u></a></li>
-<li><a href="https://app-tips.techidaily.com/implementing-dual-authentication-on-github-via-mobile-apps-a-comprehensive-guide/"><u>Implementing Dual-Authentication on GitHub via Mobile Apps: A Comprehensive Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-sound-integration-into-premiere-pro-edits/"><u>In 2024, Streamline Sound Integration Into Premiere Pro Edits</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-password-free-access-simplified-with-dashlanes-new-feature-insights-from-zdnet/"><u>Master Password-Free Access Simplified with Dashlane's New Feature - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/no-excuses-for-bad-passwords-anymore-master-managed-logins-with-the-ultimate-guide-to-password-managers/"><u>No Excuses for Bad Passwords Anymore - Master Managed Logins with the Ultimate Guide to Password Managers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-lastpass-substitutes-expert-picks-by-zdnet/"><u>Top LastPass Substitutes : Expert Picks by ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-password-management-tools-of-2024-industry-experts-picks-featured-on-zdnet/"><u>Top-Ranked Password Management Tools of 2024: Industry Experts' Picks Featured on ZDNet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-from-basic-recording-to-masterpiece-your-webcam-guide-for-2024/"><u>[Updated] From Basic Recording to Masterpiece Your WebCam Guide for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-software-showdown-winning-windows-10-video-grabbers/"><u>[Updated] Ultimate Software Showdown Winning Windows 10 Video Grabbers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-of-chatsonic-an-in-depth-guide-to-understanding-this-advanced-ai-chatbot/"><u>Comprehensive Evaluation of Chatsonic: An In-Depth Guide to Understanding This Advanced AI Chatbot</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-guide-to-masterful-win11-zoom-use/"><u>Comprehensive Guide to Masterful Win11 Zoom Use</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-how-these-10-cutting-edge-ai-chatbots-can-elevate-your-communication-game/"><u>Discover How These 10 Cutting-Edge AI Chatbots Can Elevate Your Communication Game</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-with-ais-best-kept-secret-an-in-depth-analysis-of-the-apo-assistant-chatbot-app/"><u>Experience Next-Level Interaction with AI's Best Kept Secret - An In-Depth Analysis of the Apo Assistant Chatbot App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-the-future-10-revolutionary-ai-chatbots-to-upgrade-your-conversations/"><u>Experience the Future: 10 Revolutionary AI Chatbots to Upgrade Your Conversations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/exploring-aerial-photos-a-deep-dive-into-dji-sparks-mini-marvel-for-2024/"><u>Exploring Aerial Photos A Deep Dive Into DJI Spark's Mini Marvel for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-alternatives-to-elevenlabs-generative-voice-ai-technology/"><u>Exploring Alternatives to ElevenLabs' Generative Voice AI Technology</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-enhanced-capabilities-of-chatgpt-2024-full-feature-breakdown-and-troubleshooting-server-errors/"><u>Exploring the Enhanced Capabilities of ChatGPT 2024 - Full Feature Breakdown & Troubleshooting Server Errors</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-internet-with-smart-ai-search-technologies-best-picks-of-2021/"><u>Navigating the Internet with Smart AI Search Technologies: Best Picks of 2021</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-to-reset-failed-windows-discord-updates/"><u>Quick Tips to Reset Failed Windows Discord Updates</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-best-substitutes-for-elevenlabs-groundbreaking-generative-voice-ai/"><u>The Best Substitutes for ElevenLabs' Groundbreaking Generative Voice AI</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/uture-of-youtube-naming-trendsetting-tips-for-video-blogging-and-filmmaking-max-156-characters/"><u>The Future of YouTube Naming Trendsetting Tips for Video Blogging & Filmmaking (Max 156 Characters)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-13-gratis-dvd-player-fur-windows-11-die-beste-auswahl/"><u>Top 13 Gratis DVD-Player Für Windows 11 - Die Beste Auswahl</u></a></li>
 </ul></div>
 
